@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR · Modelo Biotech v3.0
-Generado: 20/06/2026 12:32 | Período: últimos 1 días
-Desde: 2026-06-19 → Hasta: 2026-06-20
+Generado: 20/06/2026 12:44 | Período: últimos 7 días
+Desde: 2026-06-13 → Hasta: 2026-06-20
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 0 filings | 🔴 0 | 🟢 0 | 🟡 0 | 🔵 0 | ✅ 19 sin novedad
+RESUMEN: 10 filings | 🔴 0 | 🟢 0 | 🟡 8 | 🔵 2 | ✅ 15 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER
@@ -14,17 +14,41 @@ DETALLE POR TICKER
   ✅ [DYN] Sin novedades
   ✅ [DNLI] Sin novedades
   ✅ [VKTX] Sin novedades
-  ✅ [VRTX] Sin novedades
+
+  🟡 [VRTX] Vertex Pharmaceuticals — 1 filing(s)
+     🟡 MEDIA 4 | 2026-06-17 | Form 4 — Insider transaction detectada
+     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000235/xslF345X06/wk-form4_1781727153.xml
   ✅ [ALNY] Sin novedades
   ✅ [BEAM] Sin novedades
   ✅ [OCUL] Sin novedades
   ✅ [CAI] Sin novedades
   ✅ [GPCR] Sin novedades
-  ✅ [ABVX] Sin novedades
+
+  🟡 [ABVX] Abivax SA — 7 filing(s)
+     🟡 MEDIA 4 | 2026-06-18 | Form 4 — Insider transaction detectada
+     → https://www.sec.gov/Archives/edgar/data/1628171/000161071726000247/xslF345X06/form4.xml
+     🟡 MEDIA 4 | 2026-06-18 | Form 4 — Insider transaction detectada
+     → https://www.sec.gov/Archives/edgar/data/1628171/000161071726000246/xslF345X06/form4.xml
+     🟡 MEDIA 4 | 2026-06-18 | Form 4 — Insider transaction detectada
+     → https://www.sec.gov/Archives/edgar/data/1628171/000161071726000245/xslF345X06/form4.xml
+     🟡 MEDIA 4 | 2026-06-18 | Form 4 — Insider transaction detectada
+     → https://www.sec.gov/Archives/edgar/data/1628171/000161071726000244/xslF345X06/form4.xml
+     🟡 MEDIA 4 | 2026-06-18 | Form 4 — Insider transaction detectada
+     → https://www.sec.gov/Archives/edgar/data/1628171/000161071726000243/xslF345X06/form4.xml
+     🟡 MEDIA 4 | 2026-06-17 | Form 4 — Insider transaction detectada
+     → https://www.sec.gov/Archives/edgar/data/1628171/000161071726000230/xslF345X06/form4.xml
+     🟡 MEDIA 4 | 2026-06-15 | Form 4 — Insider transaction detectada
+     → https://www.sec.gov/Archives/edgar/data/1628171/000161071726000216/xslF345X06/form4.xml
   ✅ [VERA] Sin novedades
   ✅ [ACRV] Sin novedades
-  ✅ [TARA] Sin novedades
-  ✅ [SENS] Sin novedades
+
+  🔵 [TARA] Protara Therapeutics — 1 filing(s)
+     🔵 INFO 8-K | 2026-06-18 | 8-K — Evento material. Revisar.
+     → https://www.sec.gov/Archives/edgar/data/1372514/000137251426000063/kprx-20260618.htm
+
+  🔵 [SENS] Senseonics Holdings — 1 filing(s)
+     🔵 INFO 8-K | 2026-06-18 | 8-K — Evento material. Revisar.
+     → https://www.sec.gov/Archives/edgar/data/1289419/000128941926000033/morn-20260618.htm
   ✅ [INSM] Sin novedades
   ✅ [NRIX] Sin novedades
   ✅ [GENB] Sin novedades

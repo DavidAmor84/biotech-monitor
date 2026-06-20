@@ -1,15 +1,15 @@
 {
-  "generado": "20/06/2026 12:32",
-  "periodo_dias": 1,
-  "desde": "2026-06-19",
+  "generado": "20/06/2026 12:44",
+  "periodo_dias": 7,
+  "desde": "2026-06-13",
   "hasta": "2026-06-20",
   "resumen": {
-    "total_filings": 0,
+    "total_filings": 10,
     "alertas_rojas": 0,
     "alertas_verdes": 0,
-    "alertas_amarillas": 0,
-    "alertas_azules": 0,
-    "sin_novedad": 19
+    "alertas_amarillas": 8,
+    "alertas_azules": 2,
+    "sin_novedad": 15
   },
   "tickers": {
     "SNDX": {
@@ -49,9 +49,19 @@
     },
     "VRTX": {
       "nombre": "Vertex Pharmaceuticals",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-06-17",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000235/xslF345X06/wk-form4_1781727153.xml"
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "ALNY": {
@@ -91,9 +101,73 @@
     },
     "ABVX": {
       "nombre": "Abivax SA",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-06-18",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4.xml",
+          "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000247/xslF345X06/form4.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-18",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4.xml",
+          "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000246/xslF345X06/form4.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-18",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4.xml",
+          "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000245/xslF345X06/form4.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-18",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4.xml",
+          "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000244/xslF345X06/form4.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-18",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4.xml",
+          "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000243/xslF345X06/form4.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-17",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4.xml",
+          "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000230/xslF345X06/form4.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-15",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4.xml",
+          "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000216/xslF345X06/form4.xml"
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "VERA": {
@@ -112,16 +186,36 @@
     },
     "TARA": {
       "nombre": "Protara Therapeutics",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "8-K",
+          "fecha": "2026-06-18",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Evento material. Revisar.",
+          "detalle": "8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/1372514/000137251426000063/kprx-20260618.htm"
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "SENS": {
       "nombre": "Senseonics Holdings",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "8-K",
+          "fecha": "2026-06-18",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Evento material. Revisar.",
+          "detalle": "8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/1289419/000128941926000033/morn-20260618.htm"
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "INSM": {
@@ -154,5 +248,116 @@
     }
   },
   "alertas_criticas": [],
-  "todos_filings": []
+  "todos_filings": [
+    {
+      "ticker": "ABVX",
+      "nombre": "Abivax SA",
+      "form": "4",
+      "fecha": "2026-06-18",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4.xml",
+      "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000247/xslF345X06/form4.xml"
+    },
+    {
+      "ticker": "ABVX",
+      "nombre": "Abivax SA",
+      "form": "4",
+      "fecha": "2026-06-18",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4.xml",
+      "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000246/xslF345X06/form4.xml"
+    },
+    {
+      "ticker": "ABVX",
+      "nombre": "Abivax SA",
+      "form": "4",
+      "fecha": "2026-06-18",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4.xml",
+      "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000245/xslF345X06/form4.xml"
+    },
+    {
+      "ticker": "ABVX",
+      "nombre": "Abivax SA",
+      "form": "4",
+      "fecha": "2026-06-18",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4.xml",
+      "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000244/xslF345X06/form4.xml"
+    },
+    {
+      "ticker": "ABVX",
+      "nombre": "Abivax SA",
+      "form": "4",
+      "fecha": "2026-06-18",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4.xml",
+      "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000243/xslF345X06/form4.xml"
+    },
+    {
+      "ticker": "TARA",
+      "nombre": "Protara Therapeutics",
+      "form": "8-K",
+      "fecha": "2026-06-18",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Evento material. Revisar.",
+      "detalle": "8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1372514/000137251426000063/kprx-20260618.htm"
+    },
+    {
+      "ticker": "SENS",
+      "nombre": "Senseonics Holdings",
+      "form": "8-K",
+      "fecha": "2026-06-18",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Evento material. Revisar.",
+      "detalle": "8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1289419/000128941926000033/morn-20260618.htm"
+    },
+    {
+      "ticker": "VRTX",
+      "nombre": "Vertex Pharmaceuticals",
+      "form": "4",
+      "fecha": "2026-06-17",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "FORM 4",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000235/xslF345X06/wk-form4_1781727153.xml"
+    },
+    {
+      "ticker": "ABVX",
+      "nombre": "Abivax SA",
+      "form": "4",
+      "fecha": "2026-06-17",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4.xml",
+      "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000230/xslF345X06/form4.xml"
+    },
+    {
+      "ticker": "ABVX",
+      "nombre": "Abivax SA",
+      "form": "4",
+      "fecha": "2026-06-15",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4.xml",
+      "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000216/xslF345X06/form4.xml"
+    }
+  ]
 }

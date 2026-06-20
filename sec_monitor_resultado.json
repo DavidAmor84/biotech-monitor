@@ -1,0 +1,1066 @@
+{
+  "generado": "20/06/2026 11:50",
+  "periodo_dias": 30,
+  "desde": "2026-05-21",
+  "hasta": "2026-06-20",
+  "resumen": {
+    "total_filings": 45,
+    "alertas_rojas": 0,
+    "alertas_verdes": 0,
+    "alertas_amarillas": 38,
+    "alertas_azules": 7,
+    "sin_novedad": 12
+  },
+  "tickers": {
+    "SNDX": {
+      "nombre": "Syndax Pharmaceuticals",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
+      "error": null
+    },
+    "ARGX": {
+      "nombre": "argenx SE",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
+      "error": null
+    },
+    "DYN": {
+      "nombre": "Dyne Therapeutics",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
+      "error": null
+    },
+    "DNLI": {
+      "nombre": "Denali Therapeutics",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
+      "error": null
+    },
+    "VKTX": {
+      "nombre": "Viking Therapeutics",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
+      "error": null
+    },
+    "VRTX": {
+      "nombre": "Vertex Pharmaceuticals",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-06-17",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000235/xslF345X06/wk-form4_1781727153.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-09",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000233/xslF345X06/wk-form4_1781036661.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-03",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000230/xslF345X06/wk-form4_1780517191.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-02",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000228/xslF345X06/wk-form4_1780430661.xml"
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
+      "error": null
+    },
+    "ALNY": {
+      "nombre": "Alnylam Pharmaceuticals",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-06-03",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "PRIMARY DOCUMENT",
+          "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000048/xslF345X06/form4.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-03",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "PRIMARY DOCUMENT",
+          "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000047/xslF345X06/form4.xml"
+        },
+        {
+          "form": "8-K",
+          "fecha": "2026-05-27",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Evento material. Revisar.",
+          "detalle": "8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/1178670/000162828026038499/alny-20260520.htm"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-05-22",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "PRIMARY DOCUMENT",
+          "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000042/xslF345X06/form4.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-05-22",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "PRIMARY DOCUMENT",
+          "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000041/xslF345X06/form4.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-05-22",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "PRIMARY DOCUMENT",
+          "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000040/xslF345X06/form4.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-05-22",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "PRIMARY DOCUMENT",
+          "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000039/xslF345X06/form4.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-05-22",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "PRIMARY DOCUMENT",
+          "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000038/xslF345X06/form4.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-05-22",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "PRIMARY DOCUMENT",
+          "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000037/xslF345X06/form4.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-05-22",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "PRIMARY DOCUMENT",
+          "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000036/xslF345X06/form4.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-05-22",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "PRIMARY DOCUMENT",
+          "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000035/xslF345X06/form4.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-05-22",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "PRIMARY DOCUMENT",
+          "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000034/xslF345X06/form4.xml"
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
+      "error": null
+    },
+    "BEAM": {
+      "nombre": "Beam Therapeutics",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
+      "error": null
+    },
+    "OCUL": {
+      "nombre": "Ocular Therapeutix",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
+      "error": null
+    },
+    "CAI": {
+      "nombre": "Caris Life Sciences",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
+      "error": null
+    },
+    "GPCR": {
+      "nombre": "Structure Therapeutics",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
+      "error": null
+    },
+    "ABVX": {
+      "nombre": "Abivax SA",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-06-18",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4.xml",
+          "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000247/xslF345X06/form4.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-18",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4.xml",
+          "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000246/xslF345X06/form4.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-18",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4.xml",
+          "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000245/xslF345X06/form4.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-18",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4.xml",
+          "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000244/xslF345X06/form4.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-18",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4.xml",
+          "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000243/xslF345X06/form4.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-17",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4.xml",
+          "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000230/xslF345X06/form4.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-15",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4.xml",
+          "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000216/xslF345X06/form4.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-05-28",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4.xml",
+          "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000166/xslF345X06/form4.xml"
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
+      "error": null
+    },
+    "VERA": {
+      "nombre": "Vera Therapeutics",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
+      "error": null
+    },
+    "ACRV": {
+      "nombre": "Acrivon Therapeutics",
+      "filings": [
+        {
+          "form": "8-K",
+          "fecha": "2026-06-09",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Evento material. Revisar.",
+          "detalle": "8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/1826397/000149315226027977/form8-k.htm"
+        },
+        {
+          "form": "8-K",
+          "fecha": "2026-05-29",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Evento material. Revisar.",
+          "detalle": "8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/1826397/000149315226026380/form8-k.htm"
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
+      "error": null
+    },
+    "TARA": {
+      "nombre": "Protara Therapeutics",
+      "filings": [
+        {
+          "form": "8-K",
+          "fecha": "2026-06-18",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Evento material. Revisar.",
+          "detalle": "8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/1372514/000137251426000063/kprx-20260618.htm"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-12",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/1372514/000186151926000002/xslF345X06/wk-form4_1781295377.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-12",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/1372514/000185520726000002/xslF345X06/wk-form4_1781295365.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-12",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/1372514/000189579526000001/xslF345X06/wk-form4_1781295350.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-12",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/1372514/000179379626000002/xslF345X06/wk-form4_1781295336.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-12",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/1372514/000171157626000002/xslF345X06/wk-form4_1781295304.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-12",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/1372514/000137251426000061/xslF345X06/wk-form4_1781295224.xml"
+        },
+        {
+          "form": "8-K",
+          "fecha": "2026-06-11",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Evento material. Revisar.",
+          "detalle": "8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/1372514/000137251426000059/kprx-20260610.htm"
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
+      "error": null
+    },
+    "SENS": {
+      "nombre": "Senseonics Holdings",
+      "filings": [
+        {
+          "form": "8-K",
+          "fecha": "2026-06-18",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Evento material. Revisar.",
+          "detalle": "8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/1289419/000128941926000033/morn-20260618.htm"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-05-27",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/1289419/000141172426000004/xslF345X06/wk-form4_1779914406.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-05-22",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/1289419/000132406926000030/xslF345X06/wk-form4_1779483136.xml"
+        },
+        {
+          "form": "8-K",
+          "fecha": "2026-05-22",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Evento material. Revisar.",
+          "detalle": "8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/1289419/000128941926000031/morn-20260522.htm"
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
+      "error": null
+    },
+    "INSM": {
+      "nombre": "Insmed Inc",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-06-10",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000140205126000035/xslF345X06/wk-form4_1781121933.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-05",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000168590426000012/xslF345X06/wk-form4_1780690556.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-05",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000160401926000010/xslF345X06/wk-form4_1780690483.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-05",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000187027826000017/xslF345X06/wk-form4_1780690451.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-05",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000140205126000032/xslF345X06/wk-form4_1780690345.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-05",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000179696026000016/xslF345X06/wk-form4_1780690310.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-05-22",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "FORM 4",
+          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000187027826000015/xslF345X06/wk-form4_1779481519.xml"
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
+      "error": null
+    },
+    "NWL": {
+      "nombre": "NewPrinces SpA (BIT — no SEC)",
+      "filings": [],
+      "nivel": "na",
+      "badge": "⚪",
+      "error": "Sin CIK SEC"
+    },
+    "NRIX": {
+      "nombre": "Nurix Therapeutics",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
+      "error": null
+    },
+    "GENB": {
+      "nombre": "Generate Biomedicines",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
+      "error": null
+    }
+  },
+  "alertas_criticas": [],
+  "todos_filings": [
+    {
+      "ticker": "ABVX",
+      "nombre": "Abivax SA",
+      "form": "4",
+      "fecha": "2026-06-18",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4.xml",
+      "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000247/xslF345X06/form4.xml"
+    },
+    {
+      "ticker": "ABVX",
+      "nombre": "Abivax SA",
+      "form": "4",
+      "fecha": "2026-06-18",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4.xml",
+      "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000246/xslF345X06/form4.xml"
+    },
+    {
+      "ticker": "ABVX",
+      "nombre": "Abivax SA",
+      "form": "4",
+      "fecha": "2026-06-18",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4.xml",
+      "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000245/xslF345X06/form4.xml"
+    },
+    {
+      "ticker": "ABVX",
+      "nombre": "Abivax SA",
+      "form": "4",
+      "fecha": "2026-06-18",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4.xml",
+      "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000244/xslF345X06/form4.xml"
+    },
+    {
+      "ticker": "ABVX",
+      "nombre": "Abivax SA",
+      "form": "4",
+      "fecha": "2026-06-18",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4.xml",
+      "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000243/xslF345X06/form4.xml"
+    },
+    {
+      "ticker": "TARA",
+      "nombre": "Protara Therapeutics",
+      "form": "8-K",
+      "fecha": "2026-06-18",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Evento material. Revisar.",
+      "detalle": "8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1372514/000137251426000063/kprx-20260618.htm"
+    },
+    {
+      "ticker": "SENS",
+      "nombre": "Senseonics Holdings",
+      "form": "8-K",
+      "fecha": "2026-06-18",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Evento material. Revisar.",
+      "detalle": "8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1289419/000128941926000033/morn-20260618.htm"
+    },
+    {
+      "ticker": "VRTX",
+      "nombre": "Vertex Pharmaceuticals",
+      "form": "4",
+      "fecha": "2026-06-17",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "FORM 4",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000235/xslF345X06/wk-form4_1781727153.xml"
+    },
+    {
+      "ticker": "ABVX",
+      "nombre": "Abivax SA",
+      "form": "4",
+      "fecha": "2026-06-17",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4.xml",
+      "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000230/xslF345X06/form4.xml"
+    },
+    {
+      "ticker": "ABVX",
+      "nombre": "Abivax SA",
+      "form": "4",
+      "fecha": "2026-06-15",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4.xml",
+      "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000216/xslF345X06/form4.xml"
+    },
+    {
+      "ticker": "TARA",
+      "nombre": "Protara Therapeutics",
+      "form": "4",
+      "fecha": "2026-06-12",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "FORM 4",
+      "url": "https://www.sec.gov/Archives/edgar/data/1372514/000186151926000002/xslF345X06/wk-form4_1781295377.xml"
+    },
+    {
+      "ticker": "TARA",
+      "nombre": "Protara Therapeutics",
+      "form": "4",
+      "fecha": "2026-06-12",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "FORM 4",
+      "url": "https://www.sec.gov/Archives/edgar/data/1372514/000185520726000002/xslF345X06/wk-form4_1781295365.xml"
+    },
+    {
+      "ticker": "TARA",
+      "nombre": "Protara Therapeutics",
+      "form": "4",
+      "fecha": "2026-06-12",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "FORM 4",
+      "url": "https://www.sec.gov/Archives/edgar/data/1372514/000189579526000001/xslF345X06/wk-form4_1781295350.xml"
+    },
+    {
+      "ticker": "TARA",
+      "nombre": "Protara Therapeutics",
+      "form": "4",
+      "fecha": "2026-06-12",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "FORM 4",
+      "url": "https://www.sec.gov/Archives/edgar/data/1372514/000179379626000002/xslF345X06/wk-form4_1781295336.xml"
+    },
+    {
+      "ticker": "TARA",
+      "nombre": "Protara Therapeutics",
+      "form": "4",
+      "fecha": "2026-06-12",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "FORM 4",
+      "url": "https://www.sec.gov/Archives/edgar/data/1372514/000171157626000002/xslF345X06/wk-form4_1781295304.xml"
+    },
+    {
+      "ticker": "TARA",
+      "nombre": "Protara Therapeutics",
+      "form": "4",
+      "fecha": "2026-06-12",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "FORM 4",
+      "url": "https://www.sec.gov/Archives/edgar/data/1372514/000137251426000061/xslF345X06/wk-form4_1781295224.xml"
+    },
+    {
+      "ticker": "TARA",
+      "nombre": "Protara Therapeutics",
+      "form": "8-K",
+      "fecha": "2026-06-11",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Evento material. Revisar.",
+      "detalle": "8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1372514/000137251426000059/kprx-20260610.htm"
+    },
+    {
+      "ticker": "INSM",
+      "nombre": "Insmed Inc",
+      "form": "4",
+      "fecha": "2026-06-10",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "FORM 4",
+      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000140205126000035/xslF345X06/wk-form4_1781121933.xml"
+    },
+    {
+      "ticker": "VRTX",
+      "nombre": "Vertex Pharmaceuticals",
+      "form": "4",
+      "fecha": "2026-06-09",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "FORM 4",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000233/xslF345X06/wk-form4_1781036661.xml"
+    },
+    {
+      "ticker": "ACRV",
+      "nombre": "Acrivon Therapeutics",
+      "form": "8-K",
+      "fecha": "2026-06-09",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Evento material. Revisar.",
+      "detalle": "8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1826397/000149315226027977/form8-k.htm"
+    },
+    {
+      "ticker": "INSM",
+      "nombre": "Insmed Inc",
+      "form": "4",
+      "fecha": "2026-06-05",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "FORM 4",
+      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000168590426000012/xslF345X06/wk-form4_1780690556.xml"
+    },
+    {
+      "ticker": "INSM",
+      "nombre": "Insmed Inc",
+      "form": "4",
+      "fecha": "2026-06-05",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "FORM 4",
+      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000160401926000010/xslF345X06/wk-form4_1780690483.xml"
+    },
+    {
+      "ticker": "INSM",
+      "nombre": "Insmed Inc",
+      "form": "4",
+      "fecha": "2026-06-05",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "FORM 4",
+      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000187027826000017/xslF345X06/wk-form4_1780690451.xml"
+    },
+    {
+      "ticker": "INSM",
+      "nombre": "Insmed Inc",
+      "form": "4",
+      "fecha": "2026-06-05",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "FORM 4",
+      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000140205126000032/xslF345X06/wk-form4_1780690345.xml"
+    },
+    {
+      "ticker": "INSM",
+      "nombre": "Insmed Inc",
+      "form": "4",
+      "fecha": "2026-06-05",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "FORM 4",
+      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000179696026000016/xslF345X06/wk-form4_1780690310.xml"
+    },
+    {
+      "ticker": "VRTX",
+      "nombre": "Vertex Pharmaceuticals",
+      "form": "4",
+      "fecha": "2026-06-03",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "FORM 4",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000230/xslF345X06/wk-form4_1780517191.xml"
+    },
+    {
+      "ticker": "ALNY",
+      "nombre": "Alnylam Pharmaceuticals",
+      "form": "4",
+      "fecha": "2026-06-03",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "PRIMARY DOCUMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000048/xslF345X06/form4.xml"
+    },
+    {
+      "ticker": "ALNY",
+      "nombre": "Alnylam Pharmaceuticals",
+      "form": "4",
+      "fecha": "2026-06-03",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "PRIMARY DOCUMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000047/xslF345X06/form4.xml"
+    },
+    {
+      "ticker": "VRTX",
+      "nombre": "Vertex Pharmaceuticals",
+      "form": "4",
+      "fecha": "2026-06-02",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "FORM 4",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000228/xslF345X06/wk-form4_1780430661.xml"
+    },
+    {
+      "ticker": "ACRV",
+      "nombre": "Acrivon Therapeutics",
+      "form": "8-K",
+      "fecha": "2026-05-29",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Evento material. Revisar.",
+      "detalle": "8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1826397/000149315226026380/form8-k.htm"
+    },
+    {
+      "ticker": "ABVX",
+      "nombre": "Abivax SA",
+      "form": "4",
+      "fecha": "2026-05-28",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4.xml",
+      "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000166/xslF345X06/form4.xml"
+    },
+    {
+      "ticker": "ALNY",
+      "nombre": "Alnylam Pharmaceuticals",
+      "form": "8-K",
+      "fecha": "2026-05-27",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Evento material. Revisar.",
+      "detalle": "8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1178670/000162828026038499/alny-20260520.htm"
+    },
+    {
+      "ticker": "SENS",
+      "nombre": "Senseonics Holdings",
+      "form": "4",
+      "fecha": "2026-05-27",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "FORM 4",
+      "url": "https://www.sec.gov/Archives/edgar/data/1289419/000141172426000004/xslF345X06/wk-form4_1779914406.xml"
+    },
+    {
+      "ticker": "ALNY",
+      "nombre": "Alnylam Pharmaceuticals",
+      "form": "4",
+      "fecha": "2026-05-22",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "PRIMARY DOCUMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000042/xslF345X06/form4.xml"
+    },
+    {
+      "ticker": "ALNY",
+      "nombre": "Alnylam Pharmaceuticals",
+      "form": "4",
+      "fecha": "2026-05-22",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "PRIMARY DOCUMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000041/xslF345X06/form4.xml"
+    },
+    {
+      "ticker": "ALNY",
+      "nombre": "Alnylam Pharmaceuticals",
+      "form": "4",
+      "fecha": "2026-05-22",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "PRIMARY DOCUMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000040/xslF345X06/form4.xml"
+    },
+    {
+      "ticker": "ALNY",
+      "nombre": "Alnylam Pharmaceuticals",
+      "form": "4",
+      "fecha": "2026-05-22",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "PRIMARY DOCUMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000039/xslF345X06/form4.xml"
+    },
+    {
+      "ticker": "ALNY",
+      "nombre": "Alnylam Pharmaceuticals",
+      "form": "4",
+      "fecha": "2026-05-22",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "PRIMARY DOCUMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000038/xslF345X06/form4.xml"
+    },
+    {
+      "ticker": "ALNY",
+      "nombre": "Alnylam Pharmaceuticals",
+      "form": "4",
+      "fecha": "2026-05-22",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "PRIMARY DOCUMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000037/xslF345X06/form4.xml"
+    },
+    {
+      "ticker": "ALNY",
+      "nombre": "Alnylam Pharmaceuticals",
+      "form": "4",
+      "fecha": "2026-05-22",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "PRIMARY DOCUMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000036/xslF345X06/form4.xml"
+    },
+    {
+      "ticker": "ALNY",
+      "nombre": "Alnylam Pharmaceuticals",
+      "form": "4",
+      "fecha": "2026-05-22",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "PRIMARY DOCUMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000035/xslF345X06/form4.xml"
+    },
+    {
+      "ticker": "ALNY",
+      "nombre": "Alnylam Pharmaceuticals",
+      "form": "4",
+      "fecha": "2026-05-22",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "PRIMARY DOCUMENT",
+      "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000034/xslF345X06/form4.xml"
+    },
+    {
+      "ticker": "SENS",
+      "nombre": "Senseonics Holdings",
+      "form": "4",
+      "fecha": "2026-05-22",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "FORM 4",
+      "url": "https://www.sec.gov/Archives/edgar/data/1289419/000132406926000030/xslF345X06/wk-form4_1779483136.xml"
+    },
+    {
+      "ticker": "SENS",
+      "nombre": "Senseonics Holdings",
+      "form": "8-K",
+      "fecha": "2026-05-22",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Evento material. Revisar.",
+      "detalle": "8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1289419/000128941926000031/morn-20260522.htm"
+    },
+    {
+      "ticker": "INSM",
+      "nombre": "Insmed Inc",
+      "form": "4",
+      "fecha": "2026-05-22",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "FORM 4",
+      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000187027826000015/xslF345X06/wk-form4_1779481519.xml"
+    }
+  ]
+}

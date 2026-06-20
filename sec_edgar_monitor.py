@@ -1,0 +1,319 @@
+#!/usr/bin/env python3
+"""
+SEC EDGAR Monitor v2 — Modelo Biotech v3.0
+Detector automático de eventos materiales, transacciones insider
+y riesgo de dilución para cartera biotech.
+
+CÓMO USAR:
+  python sec_edgar_monitor.py          → últimos 7 días
+  python sec_edgar_monitor.py 30       → últimos 30 días
+  python sec_edgar_monitor.py 7 VERA,INSM,SNDX  → filtrar tickers
+
+Genera dos archivos en la misma carpeta:
+  - sec_monitor_reporte.txt     → reporte legible
+  - sec_monitor_resultado.json  → datos para el dashboard web
+"""
+
+import urllib.request
+import json
+import datetime
+import sys
+import os
+
+# ── CARTERA ───────────────────────────────────────────────────────────────────
+CARTERA = {
+    "SNDX": {"cik": "0001157377", "nombre": "Syndax Pharmaceuticals"},
+    "ARGX": {"cik": "0001673139", "nombre": "argenx SE"},
+    "DYN":  {"cik": "0001689987", "nombre": "Dyne Therapeutics"},
+    "DNLI": {"cik": "0001635881", "nombre": "Denali Therapeutics"},
+    "VKTX": {"cik": "0001591587", "nombre": "Viking Therapeutics"},
+    "VRTX": {"cik": "0000875320", "nombre": "Vertex Pharmaceuticals"},
+    "ALNY": {"cik": "0001178670", "nombre": "Alnylam Pharmaceuticals"},
+    "BEAM": {"cik": "0001742924", "nombre": "Beam Therapeutics"},
+    "OCUL": {"cik": "0001410172", "nombre": "Ocular Therapeutix"},
+    "CAI":  {"cik": "0001979428", "nombre": "Caris Life Sciences"},
+    "GPCR": {"cik": "0001819189", "nombre": "Structure Therapeutics"},
+    "ABVX": {"cik": "0001628171", "nombre": "Abivax SA"},
+    "VERA": {"cik": "0001671750", "nombre": "Vera Therapeutics"},
+    "ACRV": {"cik": "0001826397", "nombre": "Acrivon Therapeutics"},
+    "TARA": {"cik": "0001372514", "nombre": "Protara Therapeutics"},
+    "SENS": {"cik": "0001289419", "nombre": "Senseonics Holdings"},
+    "INSM": {"cik": "0001104506", "nombre": "Insmed Inc"},
+    "NWL":  {"cik": None,         "nombre": "NewPrinces SpA (BIT — no SEC)"},
+    "NRIX": {"cik": "0001732955", "nombre": "Nurix Therapeutics"},
+    "GENB": {"cik": "0001867597", "nombre": "Generate Biomedicines"},
+}
+
+# ── CLASIFICACIÓN ─────────────────────────────────────────────────────────────
+KEYWORDS_ROJO = [
+    "clinical hold", "complete response letter", "crl", "refuse to file",
+    "going concern", "bankruptcy", "delisting", "failed to meet",
+    "did not meet primary endpoint", "discontinued", "negative topline",
+]
+KEYWORDS_VERDE = [
+    "fda approval", "fda approved", "accelerated approval", "breakthrough therapy",
+    "positive topline", "collaboration agreement", "license agreement",
+    "acquisition", "merger", "pdufa", "priority review", "fast track",
+]
+KEYWORDS_AMARILLO = [
+    "public offering", "underwritten offering", "registered direct",
+    "at-the-market", "convertible notes", "shelf registration", "prospectus",
+]
+
+FORMS_OBJETIVO = {"8-K","8-K/A","4","4/A","S-3","S-3/A","S-1","424B4","424B5"}
+
+def clasificar(form, desc="", doc=""):
+    texto = (desc + " " + doc).lower()
+    if form in ("S-3","S-3/A","424B4","424B5"):
+        return "rojo", "🔴 ALTA", "S-3/424B — Posible oferta o dilución inminente"
+    if form in ("4","4/A"):
+        return "amarillo", "🟡 MEDIA", "Form 4 — Insider transaction detectada"
+    if form in ("8-K","8-K/A"):
+        for kw in KEYWORDS_ROJO:
+            if kw in texto:
+                return "rojo", "🔴 ALTA", f"8-K — Evento negativo potencial: '{kw}'"
+        for kw in KEYWORDS_VERDE:
+            if kw in texto:
+                return "verde", "🟢 ALTA", f"8-K — Evento positivo potencial: '{kw}'"
+        for kw in KEYWORDS_AMARILLO:
+            if kw in texto:
+                return "amarillo", "🟡 MEDIA", f"8-K — Posible dilución/oferta: '{kw}'"
+        return "azul", "🔵 INFO", "8-K — Evento material. Revisar."
+    return "azul", "🔵 INFO", f"{form} — Revisar"
+
+# ── FETCH ─────────────────────────────────────────────────────────────────────
+def fetch_json(url):
+    req = urllib.request.Request(url)
+    req.add_header("User-Agent", "Modelo Biotech v3.0 david@biotech.es")
+    req.add_header("Accept", "application/json")
+    with urllib.request.urlopen(req, timeout=15) as r:
+        return json.loads(r.read().decode("utf-8"))
+
+def fecha_desde(dias):
+    return (datetime.datetime.now() - datetime.timedelta(days=dias)).strftime("%Y-%m-%d")
+
+def fecha_hoy():
+    return datetime.datetime.now().strftime("%Y-%m-%d")
+
+def ahora_str():
+    return datetime.datetime.now().strftime("%d/%m/%Y %H:%M")
+
+# ── CONSULTA EDGAR ────────────────────────────────────────────────────────────
+def get_filings(ticker, cik, dias):
+    cik_padded = cik.zfill(10)
+    url = f"https://data.sec.gov/submissions/CIK{cik_padded}.json"
+    try:
+        data = fetch_json(url)
+    except Exception as e:
+        return [], str(e)
+
+    recent = data.get("filings", {}).get("recent", {})
+    if not recent:
+        return [], "Sin datos"
+
+    forms        = recent.get("form", [])
+    dates        = recent.get("filingDate", [])
+    accessions   = recent.get("accessionNumber", [])
+    primaries    = recent.get("primaryDocument", [])
+    descriptions = recent.get("primaryDocDescription", [])
+
+    cutoff   = fecha_desde(dias)
+    cik_num  = cik.lstrip("0")
+    results  = []
+
+    for form, date, acc, prim, desc in zip(forms, dates, accessions, primaries, descriptions):
+        if date < cutoff:
+            break
+        if form not in FORMS_OBJETIVO:
+            continue
+        acc_fmt  = acc.replace("-", "")
+        url_doc  = f"https://www.sec.gov/Archives/edgar/data/{cik_num}/{acc_fmt}/{prim}"
+        nivel, badge, resumen = clasificar(form, desc, prim)
+        results.append({
+            "form":    form,
+            "fecha":   date,
+            "nivel":   nivel,
+            "badge":   badge,
+            "resumen": resumen,
+            "detalle": desc or prim or "",
+            "url":     url_doc,
+        })
+
+    return results, None
+
+# ── RESUMEN POR TICKER ────────────────────────────────────────────────────────
+def resumen_ticker(filings):
+    """Devuelve el nivel más alto de alerta de un ticker."""
+    niveles = [f["nivel"] for f in filings]
+    if "rojo"    in niveles: return "rojo",    "🔴"
+    if "verde"   in niveles: return "verde",   "🟢"
+    if "amarillo"in niveles: return "amarillo","🟡"
+    if "azul"    in niveles: return "azul",    "🔵"
+    return "ok", "✅"
+
+# ── RUNNER ────────────────────────────────────────────────────────────────────
+def run_monitor(dias=7, tickers_filtro=None):
+    tickers = tickers_filtro or list(CARTERA.keys())
+    ahora   = ahora_str()
+
+    print(f"\n{'═'*62}")
+    print(f"  SEC EDGAR MONITOR · Modelo Biotech v3.0")
+    print(f"  Generado: {ahora}")
+    print(f"  Período: últimos {dias} días ({fecha_desde(dias)} → {fecha_hoy()})")
+    print(f"{'═'*62}\n")
+
+    # Datos para el dashboard
+    dashboard = {
+        "generado":   ahora,
+        "periodo_dias": dias,
+        "desde":      fecha_desde(dias),
+        "hasta":      fecha_hoy(),
+        "resumen": {
+            "total_filings": 0,
+            "alertas_rojas":    0,
+            "alertas_verdes":   0,
+            "alertas_amarillas":0,
+            "alertas_azules":   0,
+            "sin_novedad":      0,
+        },
+        "tickers": {},
+        "alertas_criticas": [],   # Solo rojas y verdes — para mostrar arriba
+        "todos_filings": [],      # Todos ordenados por fecha desc
+    }
+
+    for ticker in tickers:
+        info = CARTERA.get(ticker)
+        if not info:
+            continue
+        if not info["cik"]:
+            print(f"  [{ticker}] ⚪ Sin CIK SEC — omitido")
+            dashboard["tickers"][ticker] = {
+                "nombre": info["nombre"], "filings": [],
+                "nivel": "na", "badge": "⚪", "error": "Sin CIK SEC"
+            }
+            continue
+
+        print(f"  [{ticker}] Consultando...", end=" ")
+        filings, error = get_filings(ticker, info["cik"], dias)
+
+        if error:
+            print(f"❌ {error}")
+            dashboard["tickers"][ticker] = {
+                "nombre": info["nombre"], "filings": [],
+                "nivel": "error", "badge": "❌", "error": error
+            }
+            continue
+
+        nivel_ticker, badge_ticker = resumen_ticker(filings) if filings else ("ok","✅")
+
+        if filings:
+            print(f"{badge_ticker} {len(filings)} filing(s)")
+            for f in filings:
+                print(f"     {f['badge']} {f['form']} | {f['fecha']} | {f['resumen']}")
+                dashboard["todos_filings"].append({
+                    "ticker": ticker, "nombre": info["nombre"], **f
+                })
+                if f["nivel"] in ("rojo","verde"):
+                    dashboard["alertas_criticas"].append({
+                        "ticker": ticker, "nombre": info["nombre"], **f
+                    })
+                # Contadores
+                dashboard["resumen"]["total_filings"] += 1
+                if f["nivel"] == "rojo":    dashboard["resumen"]["alertas_rojas"] += 1
+                if f["nivel"] == "verde":   dashboard["resumen"]["alertas_verdes"] += 1
+                if f["nivel"] == "amarillo":dashboard["resumen"]["alertas_amarillas"] += 1
+                if f["nivel"] == "azul":    dashboard["resumen"]["alertas_azules"] += 1
+        else:
+            print("✅ Sin novedades")
+            dashboard["resumen"]["sin_novedad"] += 1
+
+        dashboard["tickers"][ticker] = {
+            "nombre":  info["nombre"],
+            "filings": filings,
+            "nivel":   nivel_ticker,
+            "badge":   badge_ticker,
+            "error":   None,
+        }
+
+    # Ordenar todos los filings por fecha desc
+    dashboard["todos_filings"].sort(key=lambda x: x["fecha"], reverse=True)
+    dashboard["alertas_criticas"].sort(key=lambda x: x["fecha"], reverse=True)
+
+    return dashboard
+
+# ── REPORTE TXT ───────────────────────────────────────────────────────────────
+def generar_reporte(dashboard):
+    r = dashboard["resumen"]
+    lines = []
+    lines.append("═" * 62)
+    lines.append("SEC EDGAR MONITOR · Modelo Biotech v3.0")
+    lines.append(f"Generado: {dashboard['generado']} | Período: últimos {dashboard['periodo_dias']} días")
+    lines.append(f"Desde: {dashboard['desde']} → Hasta: {dashboard['hasta']}")
+    lines.append("═" * 62)
+    lines.append(f"\nRESUMEN: {r['total_filings']} filings | "
+                 f"🔴 {r['alertas_rojas']} | 🟢 {r['alertas_verdes']} | "
+                 f"🟡 {r['alertas_amarillas']} | 🔵 {r['alertas_azules']} | "
+                 f"✅ {r['sin_novedad']} sin novedad")
+
+    # Críticos
+    criticos = dashboard["alertas_criticas"]
+    if criticos:
+        lines.append(f"\n{'─'*50}")
+        lines.append(f"🚨 ALERTAS CRÍTICAS ({len(criticos)})")
+        lines.append("─" * 50)
+        for a in criticos:
+            lines.append(f"\n  [{a['ticker']}] {a['nombre']}")
+            lines.append(f"  {a['badge']} {a['form']} | {a['fecha']}")
+            lines.append(f"  {a['resumen']}")
+            lines.append(f"  Detalle: {a['detalle']}")
+            lines.append(f"  → {a['url']}")
+
+    # Por ticker
+    lines.append(f"\n{'─'*50}")
+    lines.append("DETALLE POR TICKER")
+    lines.append("─" * 50)
+    for ticker, data in dashboard["tickers"].items():
+        if data.get("error") == "Sin CIK SEC":
+            continue
+        badge = data["badge"]
+        filings = data["filings"]
+        if not filings:
+            lines.append(f"  {badge} [{ticker}] Sin novedades")
+            continue
+        lines.append(f"\n  {badge} [{ticker}] {data['nombre']} — {len(filings)} filing(s)")
+        for f in filings:
+            lines.append(f"     {f['badge']} {f['form']} | {f['fecha']} | {f['resumen']}")
+            lines.append(f"     → {f['url']}")
+
+    lines.append(f"\n{'═'*62}")
+    lines.append("Fuente: SEC EDGAR API pública · data.sec.gov")
+    lines.append("Modelo Biotech v3.0 · Módulo 1: SEC EDGAR Monitor v2")
+    lines.append("═" * 62)
+    return "\n".join(lines)
+
+# ── MAIN ──────────────────────────────────────────────────────────────────────
+if __name__ == "__main__":
+    dias = int(sys.argv[1]) if len(sys.argv) > 1 else 7
+    filtro = sys.argv[2].upper().split(",") if len(sys.argv) > 2 else None
+
+    dashboard = run_monitor(dias=dias, tickers_filtro=filtro)
+    reporte   = generar_reporte(dashboard)
+
+    print("\n" + reporte)
+
+    # Guardar en la misma carpeta que el script
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+
+    # TXT legible
+    ruta_txt = os.path.join(script_dir, "sec_monitor_reporte.txt")
+    with open(ruta_txt, "w", encoding="utf-8") as f:
+        f.write(reporte)
+
+    # JSON para el dashboard — nombre fijo que el HTML buscará
+    ruta_json = os.path.join(script_dir, "sec_monitor_resultado.json")
+    with open(ruta_json, "w", encoding="utf-8") as f:
+        json.dump(dashboard, f, ensure_ascii=False, indent=2, default=str)
+
+    print(f"\n💾 Reporte TXT → {ruta_txt}")
+    print(f"💾 JSON dashboard → {ruta_json}")
+    print(f"\n✅ Listo. Sube sec_monitor_resultado.json a Netlify junto con el HTML.")

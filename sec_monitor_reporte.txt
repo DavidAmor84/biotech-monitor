@@ -1,0 +1,35 @@
+══════════════════════════════════════════════════════════════
+SEC EDGAR MONITOR · Modelo Biotech v3.0
+Generado: 20/06/2026 10:51 | Período: últimos 1 días
+Desde: 2026-06-19 → Hasta: 2026-06-20
+══════════════════════════════════════════════════════════════
+
+RESUMEN: 0 filings | 🔴 0 | 🟢 0 | 🟡 0 | 🔵 0 | ✅ 19 sin novedad
+
+──────────────────────────────────────────────────
+DETALLE POR TICKER
+──────────────────────────────────────────────────
+  ✅ [SNDX] Sin novedades
+  ✅ [ARGX] Sin novedades
+  ✅ [DYN] Sin novedades
+  ✅ [DNLI] Sin novedades
+  ✅ [VKTX] Sin novedades
+  ✅ [VRTX] Sin novedades
+  ✅ [ALNY] Sin novedades
+  ✅ [BEAM] Sin novedades
+  ✅ [OCUL] Sin novedades
+  ✅ [CAI] Sin novedades
+  ✅ [GPCR] Sin novedades
+  ✅ [ABVX] Sin novedades
+  ✅ [VERA] Sin novedades
+  ✅ [ACRV] Sin novedades
+  ✅ [TARA] Sin novedades
+  ✅ [SENS] Sin novedades
+  ✅ [INSM] Sin novedades
+  ✅ [NRIX] Sin novedades
+  ✅ [GENB] Sin novedades
+
+══════════════════════════════════════════════════════════════
+Fuente: SEC EDGAR API pública · data.sec.gov
+Modelo Biotech v3.0 · Módulo 1: SEC EDGAR Monitor v2
+══════════════════════════════════════════════════════════════

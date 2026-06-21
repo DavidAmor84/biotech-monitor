@@ -568,11 +568,11 @@ def parsear_form4(url):
 # ── MÓDULO 3: 8-K ITEMS + TEXTO ──────────────────────────────────────────────
 def parsear_8k(url):
     """
-    Parseo 8-K mejorado:
+    Parseo 8-K v8:
     - Item 1.01 no es verde automático.
-    - Item 2.03/deuda => amarillo.
-    - Warrants solo alertan si están ligados a oferta/financiación, no a planes de incentivos.
-    - Item 5.07 => azul.
+    - Item 2.03 distingue deuda constructiva vs default/covenant breach.
+    - Item 5.02 separa plan de incentivos informativo vs salida/cambio directivo.
+    - Item 5.07 queda azul.
     """
     result = {
         "items_detectados": [],
@@ -583,29 +583,38 @@ def parsear_8k(url):
         "resumen_ajustado": None,
     }
 
-    badges = {"rojo": "🔴 ALTA", "verde": "🟢 ALTA", "amarillo": "🟡 MEDIA", "azul": "🔵 INFO"}
+    badges = {
+        "rojo": "🔴 ALTA",
+        "verde": "🟢 ALTA",
+        "amarillo": "🟡 MEDIA",
+        "azul": "🔵 INFO",
+    }
 
     try:
         content, _ = fetch_text(url, timeout=20)
         safe_sleep()
 
-        texto = re.sub(r'<[^>]+>', ' ', content)
-        texto = re.sub(r'&nbsp;', ' ', texto)
-        texto = re.sub(r'&#\d+;', ' ', texto)
-        texto = re.sub(r'\s+', ' ', texto).strip()
+        texto = re.sub(r"<[^>]+>", " ", content)
+        texto = re.sub(r"&nbsp;", " ", texto)
+        texto = re.sub(r"&#\d+;", " ", texto)
+        texto = re.sub(r"\s+", " ", texto).strip()
         texto_lower = texto.lower()
 
-        items_encontrados = re.findall(r'item\s+(\d+\.\d+)', texto_lower)
+        items_encontrados = re.findall(r"item\s+(\d+\.\d+)", texto_lower)
         items_unicos = list(dict.fromkeys(items_encontrados))
         result["items_detectados"] = items_unicos[:8]
 
-        idxs = [texto_lower.find("item " + it) for it in items_unicos if texto_lower.find("item " + it) >= 0]
+        idxs = [
+            texto_lower.find("item " + it)
+            for it in items_unicos
+            if texto_lower.find("item " + it) >= 0
+        ]
         idx = min(idxs) if idxs else 200
-        extracto = texto[max(0, idx):idx + 1400].strip()
-        result["extracto"] = extracto
+        result["extracto"] = texto[max(0, idx):idx + 1600].strip()
 
         rojos = [
             ("clinical hold", "Clinical hold"),
+            ("partial clinical hold", "Partial clinical hold"),
             ("complete response letter", "CRL / Complete Response Letter"),
             ("did not meet primary endpoint", "Fallo endpoint primario"),
             ("failed to meet", "Fallo de endpoint"),
@@ -613,6 +622,8 @@ def parsear_8k(url):
             ("delisting", "Riesgo de delisting"),
             ("going concern", "Going concern"),
             ("bankruptcy", "Bankruptcy"),
+            ("default", "Default / incumplimiento"),
+            ("covenant breach", "Incumplimiento de covenant"),
         ]
         for kw, desc in rojos:
             if kw in texto_lower:
@@ -622,28 +633,60 @@ def parsear_8k(url):
                 return result
 
         deuda_kw = [
-            "item 2.03", "credit agreement", "loan agreement", "term loan",
-            "debt financing", "notes payable", "borrowings", "indebtedness",
-            "secured loan", "credit facility", "loan and security agreement"
+            "item 2.03",
+            "credit agreement",
+            "loan agreement",
+            "term loan",
+            "debt financing",
+            "notes payable",
+            "borrowings",
+            "indebtedness",
+            "secured loan",
+            "credit facility",
+            "loan and security agreement",
+        ]
+        deuda_constructiva_kw = [
+            "expanded the debt facility",
+            "increased the final tranche",
+            "additional loan tranches",
+            "reduced the minimum cash covenant",
+            "available subject to",
+            "borrowed one of the additional loan tranches",
         ]
         if "2.03" in items_unicos or any(k in texto_lower for k in deuda_kw):
-            result["nivel_ajustado"] = "amarillo"
-            result["badge_ajustado"] = badges["amarillo"]
-            result["resumen_ajustado"] = "8-K — Posible deuda/obligación financiera; revisar condiciones"
+            if any(k in texto_lower for k in deuda_constructiva_kw):
+                result["nivel_ajustado"] = "amarillo"
+                result["badge_ajustado"] = badges["amarillo"]
+                result["resumen_ajustado"] = (
+                    "8-K — Deuda/financiación no dilutiva; revisar coste, covenants y runway"
+                )
+            else:
+                result["nivel_ajustado"] = "amarillo"
+                result["badge_ajustado"] = badges["amarillo"]
+                result["resumen_ajustado"] = (
+                    "8-K — Posible deuda/obligación financiera; revisar condiciones"
+                )
             return result
 
         incentive_context = (
-            "equity incentive plan" in texto_lower or
-            "amended and restated 2022 plan" in texto_lower or
-            "stock option" in texto_lower or
-            "compensatory arrangements" in texto_lower or
-            "annual meeting" in texto_lower
+            "equity incentive plan" in texto_lower
+            or "amended and restated 2022 plan" in texto_lower
+            or "stock option" in texto_lower
+            or "compensatory arrangements" in texto_lower
+            or "annual meeting" in texto_lower
+            or "restricted stock unit" in texto_lower
         )
 
         dilucion_kw = [
-            "public offering", "underwritten offering", "registered direct",
-            "securities purchase agreement", "at-the-market", "at the market",
-            "sales agreement", "convertible notes", "pipe"
+            "public offering",
+            "underwritten offering",
+            "registered direct",
+            "securities purchase agreement",
+            "at-the-market",
+            "at the market",
+            "sales agreement",
+            "convertible notes",
+            "pipe",
         ]
         for kw in dilucion_kw:
             if kw in texto_lower:
@@ -689,24 +732,47 @@ def parsear_8k(url):
             result["resumen_ajustado"] = "Item 1.02: Terminación de acuerdo material"
 
         elif "5.02" in items_unicos:
-            if (
-                "equity incentive plan" in texto_lower
-                or "compensatory arrangements" in texto_lower
-                or "annual meeting" in texto_lower
-                or "stock option" in texto_lower
-                or "restricted stock unit" in texto_lower
+            plan_incentivos_kw = [
+                "equity incentive plan",
+                "compensatory arrangements",
+                "annual meeting",
+                "stock option",
+                "restricted stock unit",
+                "restricted stock awards",
+                "stock-based awards",
+                "performance awards",
+                "nonstatutory stock options",
+            ]
+            cambio_directivo_kw = [
+                "resignation",
+                "resigned",
+                "departure",
+                "terminated",
+                "appointed",
+                "appointment",
+                "chief executive officer",
+                "chief financial officer",
+                "chief medical officer",
+                "principal executive officer",
+                "principal financial officer",
+            ]
+
+            if any(k in texto_lower for k in plan_incentivos_kw) and not any(
+                k in texto_lower for k in ["resignation", "resigned", "terminated"]
             ):
                 result["nivel_ajustado"] = "azul"
                 result["badge_ajustado"] = badges["azul"]
                 result["resumen_ajustado"] = (
-                    "Item 5.02: Plan de incentivos / compensación aprobado - informativo"
+                    "Item 5.02: Plan de incentivos / compensación aprobado — informativo"
                 )
-            else:
+            elif any(k in texto_lower for k in cambio_directivo_kw):
                 result["nivel_ajustado"] = "amarillo"
                 result["badge_ajustado"] = badges["amarillo"]
-                result["resumen_ajustado"] = (
-                    "Item 5.02: Cambio directivos relevante"
-                )
+                result["resumen_ajustado"] = "Item 5.02: Cambio directivo relevante"
+            else:
+                result["nivel_ajustado"] = "azul"
+                result["badge_ajustado"] = badges["azul"]
+                result["resumen_ajustado"] = "Item 5.02: Compensación/directivos — revisar"
 
         elif "1.01" in items_unicos:
             result["nivel_ajustado"] = "azul"
@@ -717,6 +783,11 @@ def parsear_8k(url):
             result["nivel_ajustado"] = "azul"
             result["badge_ajustado"] = badges["azul"]
             result["resumen_ajustado"] = "Item 5.07: Votación junta accionistas"
+
+        elif "8.01" in items_unicos:
+            result["nivel_ajustado"] = "azul"
+            result["badge_ajustado"] = badges["azul"]
+            result["resumen_ajustado"] = "Item 8.01: Otros eventos — revisar"
 
         else:
             result["nivel_ajustado"] = "azul"

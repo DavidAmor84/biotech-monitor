@@ -1,14 +1,15 @@
 {
-  "generado": "21/06/2026 11:07",
+  "version": "v3",
+  "generado": "21/06/2026 11:45",
   "periodo_dias": 7,
   "desde": "2026-06-14",
   "hasta": "2026-06-21",
   "resumen": {
     "total_filings": 30,
     "alertas_rojas": 0,
-    "alertas_verdes": 0,
-    "alertas_amarillas": 25,
-    "alertas_azules": 5,
+    "alertas_verdes": 2,
+    "alertas_amarillas": 26,
+    "alertas_azules": 2,
     "sin_novedad": 9
   },
   "tickers": {
@@ -46,44 +47,97 @@
           "fecha": "2026-06-17",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
+          "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
           "detalle": "4",
           "empresa_sec": "Dyne Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181418926000002/xslF345X06/ownership.xml"
+          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181418926000002/xslF345X06/ownership.xml",
+          "form4_detail": {
+            "insider_nombre": null,
+            "insider_cargo": null,
+            "transaccion_tipo": null,
+            "transaccion_acciones": null,
+            "transaccion_precio": null,
+            "transaccion_fecha": null,
+            "acciones_post": null,
+            "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
         },
         {
           "form": "4",
           "fecha": "2026-06-17",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
+          "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
           "detalle": "4",
           "empresa_sec": "Dyne Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000191559826000002/xslF345X06/ownership.xml"
+          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000191559826000002/xslF345X06/ownership.xml",
+          "form4_detail": {
+            "insider_nombre": null,
+            "insider_cargo": null,
+            "transaccion_tipo": null,
+            "transaccion_acciones": null,
+            "transaccion_precio": null,
+            "transaccion_fecha": null,
+            "acciones_post": null,
+            "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
         },
         {
           "form": "4",
           "fecha": "2026-06-17",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
+          "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
           "detalle": "4",
           "empresa_sec": "Dyne Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000149842826000002/xslF345X06/ownership.xml"
+          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000149842826000002/xslF345X06/ownership.xml",
+          "form4_detail": {
+            "insider_nombre": null,
+            "insider_cargo": null,
+            "transaccion_tipo": null,
+            "transaccion_acciones": null,
+            "transaccion_precio": null,
+            "transaccion_fecha": null,
+            "acciones_post": null,
+            "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
         },
         {
           "form": "8-K",
           "fecha": "2026-06-17",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "8-K — Evento material. Revisar.",
+          "nivel": "verde",
+          "badge": "🟢 ALTA",
+          "resumen": "Item 1.01: Acuerdo material (colaboración, licencia, M&A) [Items: 1.01, 2.03]",
           "detalle": "8-K",
           "empresa_sec": "Dyne Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181879426000003/dyn-20260616.htm"
+          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181879426000003/dyn-20260616.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "1.01",
+              "2.03"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Exchange Act of 1934 Date of report (Date of earliest event reported): June 16, 2026 Dyne Therapeutics, Inc. (Exact Name of Registrant as Specified in Charter) Delaware 001-39509 36-4883909 (State or Other Jurisdiction of Incorporation) (Commission File Number) (IRS Employer Identification No.) 1560 Trapelo Road Waltham , Massachusetts 02451 (Address of Principal Executive Offices) (Zip Code) Registrant s telephone number, including area code: ( 781 ) 786-8230 Not applicable (Former Name or Former Address, if Changed Since Last Report) Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( see General Instruction A.2. below): Written communications pursuant to Rule 425 unde",
+            "nivel_ajustado": "verde",
+            "badge_ajustado": "🟢 ALTA",
+            "resumen_ajustado": "Item 1.01: Acuerdo material (colaboración, licencia, M&A)"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
         }
       ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "verde",
+      "badge": "🟢",
       "error": null
     },
     "DNLI": {
@@ -96,16 +150,31 @@
         {
           "form": "8-K",
           "fecha": "2026-06-18",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "8-K — Evento material. Revisar.",
+          "nivel": "verde",
+          "badge": "🟢 ALTA",
+          "resumen": "Item 1.01: Acuerdo material (colaboración, licencia, M&A) [Items: 1.01, 7.01, 9.01]",
           "detalle": "8-K",
           "empresa_sec": "Denali Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000081/dnli-20260612.htm"
+          "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000081/dnli-20260612.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "1.01",
+              "7.01",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "ecurities Exchange Act of 1934 Date of Report (Date of earliest event reported): June 12, 2026 Denali Therapeutics Inc. (Exact name of registrant as specified in its charter) Delaware 001-38311 46-3872213 (State or other jurisdiction of (Commission (I.R.S. Employer incorporation) File Number) Identification No.) 161 Oyster Point Blvd. South San Francisco , California 94080 (Address of principal executive offices, including zip code) ( 650 ) 866-8547 (Registrant s telephone number, including area code) Not Applicable (Former name or former address, if changed since last reports) Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: Written communications pursuant to Rule 425",
+            "nivel_ajustado": "verde",
+            "badge_ajustado": "🟢 ALTA",
+            "resumen_ajustado": "Item 1.01: Acuerdo material (colaboración, licencia, M&A)"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
         }
       ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "nivel": "verde",
+      "badge": "🟢",
       "error": null
     },
     "VKTX": {
@@ -131,10 +200,23 @@
           "fecha": "2026-06-17",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
+          "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
           "detalle": "FORM 4",
           "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
-          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000235/xslF345X06/wk-form4_1781727153.xml"
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000235/xslF345X06/wk-form4_1781727153.xml",
+          "form4_detail": {
+            "insider_nombre": null,
+            "insider_cargo": null,
+            "transaccion_tipo": null,
+            "transaccion_acciones": null,
+            "transaccion_precio": null,
+            "transaccion_fecha": null,
+            "acciones_post": null,
+            "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
         }
       ],
       "nivel": "amarillo",
@@ -175,10 +257,23 @@
           "fecha": "2026-06-18",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
+          "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
           "detalle": "OWNERSHIP DOCUMENT",
           "empresa_sec": "OCULAR THERAPEUTIX, INC",
-          "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926075709/xslF345X06/tm2618141-1_4seq1.xml"
+          "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926075709/xslF345X06/tm2618141-1_4seq1.xml",
+          "form4_detail": {
+            "insider_nombre": null,
+            "insider_cargo": null,
+            "transaccion_tipo": null,
+            "transaccion_acciones": null,
+            "transaccion_precio": null,
+            "transaccion_fecha": null,
+            "acciones_post": null,
+            "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
         }
       ],
       "nivel": "amarillo",
@@ -208,70 +303,161 @@
           "fecha": "2026-06-18",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
+          "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
           "detalle": "xslF345X06/form4-06182026_050614.xml",
           "empresa_sec": "Structure Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000153400226000002/xslF345X06/form4-06182026_050614.xml"
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000153400226000002/xslF345X06/form4-06182026_050614.xml",
+          "form4_detail": {
+            "insider_nombre": null,
+            "insider_cargo": null,
+            "transaccion_tipo": null,
+            "transaccion_acciones": null,
+            "transaccion_precio": null,
+            "transaccion_fecha": null,
+            "acciones_post": null,
+            "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
         },
         {
           "form": "4",
           "fecha": "2026-06-18",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
+          "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
           "detalle": "xslF345X06/form4-06182026_050611.xml",
           "empresa_sec": "Structure Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000118891926000010/xslF345X06/form4-06182026_050611.xml"
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000118891926000010/xslF345X06/form4-06182026_050611.xml",
+          "form4_detail": {
+            "insider_nombre": null,
+            "insider_cargo": null,
+            "transaccion_tipo": null,
+            "transaccion_acciones": null,
+            "transaccion_precio": null,
+            "transaccion_fecha": null,
+            "acciones_post": null,
+            "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
         },
         {
           "form": "4",
           "fecha": "2026-06-18",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
+          "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
           "detalle": "xslF345X06/form4-06182026_050609.xml",
           "empresa_sec": "Structure Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000196241326000002/xslF345X06/form4-06182026_050609.xml"
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000196241326000002/xslF345X06/form4-06182026_050609.xml",
+          "form4_detail": {
+            "insider_nombre": null,
+            "insider_cargo": null,
+            "transaccion_tipo": null,
+            "transaccion_acciones": null,
+            "transaccion_precio": null,
+            "transaccion_fecha": null,
+            "acciones_post": null,
+            "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
         },
         {
           "form": "4",
           "fecha": "2026-06-18",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
+          "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
           "detalle": "xslF345X06/form4-06182026_050606.xml",
           "empresa_sec": "Structure Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000120278526000004/xslF345X06/form4-06182026_050606.xml"
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000120278526000004/xslF345X06/form4-06182026_050606.xml",
+          "form4_detail": {
+            "insider_nombre": null,
+            "insider_cargo": null,
+            "transaccion_tipo": null,
+            "transaccion_acciones": null,
+            "transaccion_precio": null,
+            "transaccion_fecha": null,
+            "acciones_post": null,
+            "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
         },
         {
           "form": "4",
           "fecha": "2026-06-18",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
+          "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
           "detalle": "xslF345X06/form4-06182026_050604.xml",
           "empresa_sec": "Structure Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000132856526000002/xslF345X06/form4-06182026_050604.xml"
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000132856526000002/xslF345X06/form4-06182026_050604.xml",
+          "form4_detail": {
+            "insider_nombre": null,
+            "insider_cargo": null,
+            "transaccion_tipo": null,
+            "transaccion_acciones": null,
+            "transaccion_precio": null,
+            "transaccion_fecha": null,
+            "acciones_post": null,
+            "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
         },
         {
           "form": "4",
           "fecha": "2026-06-18",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
+          "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
           "detalle": "xslF345X06/form4-06182026_050603.xml",
           "empresa_sec": "Structure Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000120619926000002/xslF345X06/form4-06182026_050603.xml"
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000120619926000002/xslF345X06/form4-06182026_050603.xml",
+          "form4_detail": {
+            "insider_nombre": null,
+            "insider_cargo": null,
+            "transaccion_tipo": null,
+            "transaccion_acciones": null,
+            "transaccion_precio": null,
+            "transaccion_fecha": null,
+            "acciones_post": null,
+            "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
         },
         {
           "form": "8-K",
           "fecha": "2026-06-18",
           "nivel": "azul",
           "badge": "🔵 INFO",
-          "resumen": "8-K — Evento material. Revisar.",
+          "resumen": "8-K — Sin clasificación específica por Item [Items: 5.07]",
           "detalle": "FORM 8-K",
           "empresa_sec": "Structure Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000110465926075720/tm2618249d1_8k.htm"
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000110465926075720/tm2618249d1_8k.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "5.07"
+            ],
+            "clasificacion_item": null,
+            "extracto": "886 gpcr:OrdinarySharesParValue0.0001PerShareMember 2026-06-17 2026-06-17 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): June 17, 2026 Structure Therapeutics Inc. (Exact name of registrant as specified in its charter) Cayman Islands 001-41608 98-1480821 (State or other jurisdiction of incorporation) (Commission File Number) (IRS Employer Identification No.) 601 Gateway Blvd. , Suite 900 South San Francisco , California 94080 (Address of principal executive offices) (Zip Code) (Registrant s telephone number, including area code): ( 650 ) 457-1978 Not Applicable (Former name",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
         }
       ],
       "nivel": "amarillo",
@@ -310,16 +496,31 @@
         {
           "form": "8-K",
           "fecha": "2026-06-17",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "8-K — Evento material. Revisar.",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Item 5.02: Cambio directivos (CEO/CFO/CSO) [Items: 5.02, 5.07, 9.01]",
           "detalle": "8-K",
           "empresa_sec": "Acrivon Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526274410/acrv-20260617.htm"
+          "url": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526274410/acrv-20260617.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "5.02",
+              "5.07",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Exchange Act of 1934 Date of Report (Date of earliest event reported): June 17, 2026 Acrivon Therapeutics, Inc. (Exact name of Registrant as Specified in Its Charter) Delaware 001-41551 82-5125532 (State or Other Jurisdiction of Incorporation) (Commission File Number) (IRS Employer Identification No.) 480 Arsenal Way Suite 100 Watertown , Massachusetts 02472 (Address of Principal Executive Offices) (Zip Code) Registrant s Telephone Number, Including Area Code: (617) 207-8979 (Former Name or Former Address, if Changed Since Last Report) Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+            "nivel_ajustado": "amarillo",
+            "badge_ajustado": "🟡 MEDIA",
+            "resumen_ajustado": "Item 5.02: Cambio directivos (CEO/CFO/CSO)"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
         }
       ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "TARA": {
@@ -334,90 +535,207 @@
           "fecha": "2026-06-16",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
+          "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
           "detalle": "PRIMARY DOCUMENT",
           "empresa_sec": "Protara Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069250/xslF345X06/marketforms-73187.xml"
+          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069250/xslF345X06/marketforms-73187.xml",
+          "form4_detail": {
+            "insider_nombre": null,
+            "insider_cargo": null,
+            "transaccion_tipo": null,
+            "transaccion_acciones": null,
+            "transaccion_precio": null,
+            "transaccion_fecha": null,
+            "acciones_post": null,
+            "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
         },
         {
           "form": "4",
           "fecha": "2026-06-16",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
+          "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
           "detalle": "PRIMARY DOCUMENT",
           "empresa_sec": "Protara Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069249/xslF345X06/marketforms-73186.xml"
+          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069249/xslF345X06/marketforms-73186.xml",
+          "form4_detail": {
+            "insider_nombre": null,
+            "insider_cargo": null,
+            "transaccion_tipo": null,
+            "transaccion_acciones": null,
+            "transaccion_precio": null,
+            "transaccion_fecha": null,
+            "acciones_post": null,
+            "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
         },
         {
           "form": "4",
           "fecha": "2026-06-16",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
+          "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
           "detalle": "PRIMARY DOCUMENT",
           "empresa_sec": "Protara Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069248/xslF345X06/marketforms-73185.xml"
+          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069248/xslF345X06/marketforms-73185.xml",
+          "form4_detail": {
+            "insider_nombre": null,
+            "insider_cargo": null,
+            "transaccion_tipo": null,
+            "transaccion_acciones": null,
+            "transaccion_precio": null,
+            "transaccion_fecha": null,
+            "acciones_post": null,
+            "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
         },
         {
           "form": "4",
           "fecha": "2026-06-16",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
+          "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
           "detalle": "PRIMARY DOCUMENT",
           "empresa_sec": "Protara Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069247/xslF345X06/marketforms-73184.xml"
+          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069247/xslF345X06/marketforms-73184.xml",
+          "form4_detail": {
+            "insider_nombre": null,
+            "insider_cargo": null,
+            "transaccion_tipo": null,
+            "transaccion_acciones": null,
+            "transaccion_precio": null,
+            "transaccion_fecha": null,
+            "acciones_post": null,
+            "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
         },
         {
           "form": "4",
           "fecha": "2026-06-16",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
+          "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
           "detalle": "PRIMARY DOCUMENT",
           "empresa_sec": "Protara Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069246/xslF345X06/marketforms-73183.xml"
+          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069246/xslF345X06/marketforms-73183.xml",
+          "form4_detail": {
+            "insider_nombre": null,
+            "insider_cargo": null,
+            "transaccion_tipo": null,
+            "transaccion_acciones": null,
+            "transaccion_precio": null,
+            "transaccion_fecha": null,
+            "acciones_post": null,
+            "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
         },
         {
           "form": "4",
           "fecha": "2026-06-16",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
+          "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
           "detalle": "PRIMARY DOCUMENT",
           "empresa_sec": "Protara Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069245/xslF345X06/marketforms-73182.xml"
+          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069245/xslF345X06/marketforms-73182.xml",
+          "form4_detail": {
+            "insider_nombre": null,
+            "insider_cargo": null,
+            "transaccion_tipo": null,
+            "transaccion_acciones": null,
+            "transaccion_precio": null,
+            "transaccion_fecha": null,
+            "acciones_post": null,
+            "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
         },
         {
           "form": "4",
           "fecha": "2026-06-16",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
+          "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
           "detalle": "PRIMARY DOCUMENT",
           "empresa_sec": "Protara Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069244/xslF345X06/marketforms-73181.xml"
+          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069244/xslF345X06/marketforms-73181.xml",
+          "form4_detail": {
+            "insider_nombre": null,
+            "insider_cargo": null,
+            "transaccion_tipo": null,
+            "transaccion_acciones": null,
+            "transaccion_precio": null,
+            "transaccion_fecha": null,
+            "acciones_post": null,
+            "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
         },
         {
           "form": "4",
           "fecha": "2026-06-16",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
+          "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
           "detalle": "PRIMARY DOCUMENT",
           "empresa_sec": "Protara Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069243/xslF345X06/marketforms-73180.xml"
+          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069243/xslF345X06/marketforms-73180.xml",
+          "form4_detail": {
+            "insider_nombre": null,
+            "insider_cargo": null,
+            "transaccion_tipo": null,
+            "transaccion_acciones": null,
+            "transaccion_precio": null,
+            "transaccion_fecha": null,
+            "acciones_post": null,
+            "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
         },
         {
           "form": "8-K",
           "fecha": "2026-06-15",
           "nivel": "azul",
           "badge": "🔵 INFO",
-          "resumen": "8-K — Evento material. Revisar.",
+          "resumen": "8-K — Sin clasificación específica por Item [Items: 5.07]",
           "detalle": "CURRENT REPORT",
           "empresa_sec": "Protara Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026068774/ea0294030-8k_protara.htm"
+          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026068774/ea0294030-8k_protara.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "5.07"
+            ],
+            "clasificacion_item": null,
+            "extracto": "uant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): June 12, 2026 Protara Therapeutics, Inc. (Exact name of registrant as specified in its charter) Delaware 001-36694 20-4580525 (State or other jurisdiction of incorporation) (Commission File No.) (IRS Employer Identification No.) 345 Park Avenue South Third Floor New York , NY 10010 (Address of principal executive offices) (Zip Code) Registrant s telephone number, including area code: ( 646 ) 844-0337 N/A (Former name or former address, if changed since last report.) Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: Written communications pursuant to Rule",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
         }
       ],
       "nivel": "amarillo",
@@ -436,60 +754,138 @@
           "fecha": "2026-06-17",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
+          "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
           "detalle": "xslF345X06/form4-06172026_040617.xml",
           "empresa_sec": "Senseonics Holdings, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000176979126000006/xslF345X06/form4-06172026_040617.xml"
+          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000176979126000006/xslF345X06/form4-06172026_040617.xml",
+          "form4_detail": {
+            "insider_nombre": null,
+            "insider_cargo": null,
+            "transaccion_tipo": null,
+            "transaccion_acciones": null,
+            "transaccion_precio": null,
+            "transaccion_fecha": null,
+            "acciones_post": null,
+            "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
         },
         {
           "form": "4",
           "fecha": "2026-06-17",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
+          "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
           "detalle": "xslF345X06/form4-06172026_040616.xml",
           "empresa_sec": "Senseonics Holdings, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000166759326000006/xslF345X06/form4-06172026_040616.xml"
+          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000166759326000006/xslF345X06/form4-06172026_040616.xml",
+          "form4_detail": {
+            "insider_nombre": null,
+            "insider_cargo": null,
+            "transaccion_tipo": null,
+            "transaccion_acciones": null,
+            "transaccion_precio": null,
+            "transaccion_fecha": null,
+            "acciones_post": null,
+            "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
         },
         {
           "form": "4",
           "fecha": "2026-06-17",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
+          "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
           "detalle": "xslF345X06/form4-06172026_040619.xml",
           "empresa_sec": "Senseonics Holdings, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000194453926000006/xslF345X06/form4-06172026_040619.xml"
+          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000194453926000006/xslF345X06/form4-06172026_040619.xml",
+          "form4_detail": {
+            "insider_nombre": null,
+            "insider_cargo": null,
+            "transaccion_tipo": null,
+            "transaccion_acciones": null,
+            "transaccion_precio": null,
+            "transaccion_fecha": null,
+            "acciones_post": null,
+            "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
         },
         {
           "form": "4",
           "fecha": "2026-06-17",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
+          "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
           "detalle": "xslF345X06/form4-06172026_040614.xml",
           "empresa_sec": "Senseonics Holdings, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000155204726000006/xslF345X06/form4-06172026_040614.xml"
+          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000155204726000006/xslF345X06/form4-06172026_040614.xml",
+          "form4_detail": {
+            "insider_nombre": null,
+            "insider_cargo": null,
+            "transaccion_tipo": null,
+            "transaccion_acciones": null,
+            "transaccion_precio": null,
+            "transaccion_fecha": null,
+            "acciones_post": null,
+            "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
         },
         {
           "form": "4",
           "fecha": "2026-06-17",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
+          "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
           "detalle": "xslF345X06/form4-06172026_040612.xml",
           "empresa_sec": "Senseonics Holdings, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000154237726000004/xslF345X06/form4-06172026_040612.xml"
+          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000154237726000004/xslF345X06/form4-06172026_040612.xml",
+          "form4_detail": {
+            "insider_nombre": null,
+            "insider_cargo": null,
+            "transaccion_tipo": null,
+            "transaccion_acciones": null,
+            "transaccion_precio": null,
+            "transaccion_fecha": null,
+            "acciones_post": null,
+            "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
         },
         {
           "form": "4",
           "fecha": "2026-06-17",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
+          "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
           "detalle": "xslF345X06/form4-06172026_040610.xml",
           "empresa_sec": "Senseonics Holdings, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000166758826000008/xslF345X06/form4-06172026_040610.xml"
+          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000166758826000008/xslF345X06/form4-06172026_040610.xml",
+          "form4_detail": {
+            "insider_nombre": null,
+            "insider_cargo": null,
+            "transaccion_tipo": null,
+            "transaccion_acciones": null,
+            "transaccion_precio": null,
+            "transaccion_fecha": null,
+            "acciones_post": null,
+            "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
         }
       ],
       "nivel": "amarillo",
@@ -515,19 +911,88 @@
       "error": "Sin CIK SEC"
     }
   },
-  "alertas_criticas": [],
+  "alertas_criticas": [
+    {
+      "ticker": "DNLI",
+      "nombre": "Denali Therapeutics Inc.",
+      "form": "8-K",
+      "fecha": "2026-06-18",
+      "nivel": "verde",
+      "badge": "🟢 ALTA",
+      "resumen": "Item 1.01: Acuerdo material (colaboración, licencia, M&A) [Items: 1.01, 7.01, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Denali Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000081/dnli-20260612.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "1.01",
+          "7.01",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "ecurities Exchange Act of 1934 Date of Report (Date of earliest event reported): June 12, 2026 Denali Therapeutics Inc. (Exact name of registrant as specified in its charter) Delaware 001-38311 46-3872213 (State or other jurisdiction of (Commission (I.R.S. Employer incorporation) File Number) Identification No.) 161 Oyster Point Blvd. South San Francisco , California 94080 (Address of principal executive offices, including zip code) ( 650 ) 866-8547 (Registrant s telephone number, including area code) Not Applicable (Former name or former address, if changed since last reports) Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: Written communications pursuant to Rule 425",
+        "nivel_ajustado": "verde",
+        "badge_ajustado": "🟢 ALTA",
+        "resumen_ajustado": "Item 1.01: Acuerdo material (colaboración, licencia, M&A)"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "DYN",
+      "nombre": "Dyne Therapeutics, Inc.",
+      "form": "8-K",
+      "fecha": "2026-06-17",
+      "nivel": "verde",
+      "badge": "🟢 ALTA",
+      "resumen": "Item 1.01: Acuerdo material (colaboración, licencia, M&A) [Items: 1.01, 2.03]",
+      "detalle": "8-K",
+      "empresa_sec": "Dyne Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181879426000003/dyn-20260616.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "1.01",
+          "2.03"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Exchange Act of 1934 Date of report (Date of earliest event reported): June 16, 2026 Dyne Therapeutics, Inc. (Exact Name of Registrant as Specified in Charter) Delaware 001-39509 36-4883909 (State or Other Jurisdiction of Incorporation) (Commission File Number) (IRS Employer Identification No.) 1560 Trapelo Road Waltham , Massachusetts 02451 (Address of Principal Executive Offices) (Zip Code) Registrant s telephone number, including area code: ( 781 ) 786-8230 Not applicable (Former Name or Former Address, if Changed Since Last Report) Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( see General Instruction A.2. below): Written communications pursuant to Rule 425 unde",
+        "nivel_ajustado": "verde",
+        "badge_ajustado": "🟢 ALTA",
+        "resumen_ajustado": "Item 1.01: Acuerdo material (colaboración, licencia, M&A)"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    }
+  ],
   "todos_filings": [
     {
       "ticker": "DNLI",
       "nombre": "Denali Therapeutics Inc.",
       "form": "8-K",
       "fecha": "2026-06-18",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "8-K — Evento material. Revisar.",
+      "nivel": "verde",
+      "badge": "🟢 ALTA",
+      "resumen": "Item 1.01: Acuerdo material (colaboración, licencia, M&A) [Items: 1.01, 7.01, 9.01]",
       "detalle": "8-K",
       "empresa_sec": "Denali Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000081/dnli-20260612.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000081/dnli-20260612.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "1.01",
+          "7.01",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "ecurities Exchange Act of 1934 Date of Report (Date of earliest event reported): June 12, 2026 Denali Therapeutics Inc. (Exact name of registrant as specified in its charter) Delaware 001-38311 46-3872213 (State or other jurisdiction of (Commission (I.R.S. Employer incorporation) File Number) Identification No.) 161 Oyster Point Blvd. South San Francisco , California 94080 (Address of principal executive offices, including zip code) ( 650 ) 866-8547 (Registrant s telephone number, including area code) Not Applicable (Former name or former address, if changed since last reports) Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: Written communications pursuant to Rule 425",
+        "nivel_ajustado": "verde",
+        "badge_ajustado": "🟢 ALTA",
+        "resumen_ajustado": "Item 1.01: Acuerdo material (colaboración, licencia, M&A)"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "OCUL",
@@ -536,10 +1001,23 @@
       "fecha": "2026-06-18",
       "nivel": "amarillo",
       "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
+      "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
       "detalle": "OWNERSHIP DOCUMENT",
       "empresa_sec": "OCULAR THERAPEUTIX, INC",
-      "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926075709/xslF345X06/tm2618141-1_4seq1.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926075709/xslF345X06/tm2618141-1_4seq1.xml",
+      "form4_detail": {
+        "insider_nombre": null,
+        "insider_cargo": null,
+        "transaccion_tipo": null,
+        "transaccion_acciones": null,
+        "transaccion_precio": null,
+        "transaccion_fecha": null,
+        "acciones_post": null,
+        "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "GPCR",
@@ -548,10 +1026,23 @@
       "fecha": "2026-06-18",
       "nivel": "amarillo",
       "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
+      "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
       "detalle": "xslF345X06/form4-06182026_050614.xml",
       "empresa_sec": "Structure Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000153400226000002/xslF345X06/form4-06182026_050614.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000153400226000002/xslF345X06/form4-06182026_050614.xml",
+      "form4_detail": {
+        "insider_nombre": null,
+        "insider_cargo": null,
+        "transaccion_tipo": null,
+        "transaccion_acciones": null,
+        "transaccion_precio": null,
+        "transaccion_fecha": null,
+        "acciones_post": null,
+        "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "GPCR",
@@ -560,10 +1051,23 @@
       "fecha": "2026-06-18",
       "nivel": "amarillo",
       "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
+      "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
       "detalle": "xslF345X06/form4-06182026_050611.xml",
       "empresa_sec": "Structure Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000118891926000010/xslF345X06/form4-06182026_050611.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000118891926000010/xslF345X06/form4-06182026_050611.xml",
+      "form4_detail": {
+        "insider_nombre": null,
+        "insider_cargo": null,
+        "transaccion_tipo": null,
+        "transaccion_acciones": null,
+        "transaccion_precio": null,
+        "transaccion_fecha": null,
+        "acciones_post": null,
+        "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "GPCR",
@@ -572,10 +1076,23 @@
       "fecha": "2026-06-18",
       "nivel": "amarillo",
       "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
+      "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
       "detalle": "xslF345X06/form4-06182026_050609.xml",
       "empresa_sec": "Structure Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000196241326000002/xslF345X06/form4-06182026_050609.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000196241326000002/xslF345X06/form4-06182026_050609.xml",
+      "form4_detail": {
+        "insider_nombre": null,
+        "insider_cargo": null,
+        "transaccion_tipo": null,
+        "transaccion_acciones": null,
+        "transaccion_precio": null,
+        "transaccion_fecha": null,
+        "acciones_post": null,
+        "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "GPCR",
@@ -584,10 +1101,23 @@
       "fecha": "2026-06-18",
       "nivel": "amarillo",
       "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
+      "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
       "detalle": "xslF345X06/form4-06182026_050606.xml",
       "empresa_sec": "Structure Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000120278526000004/xslF345X06/form4-06182026_050606.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000120278526000004/xslF345X06/form4-06182026_050606.xml",
+      "form4_detail": {
+        "insider_nombre": null,
+        "insider_cargo": null,
+        "transaccion_tipo": null,
+        "transaccion_acciones": null,
+        "transaccion_precio": null,
+        "transaccion_fecha": null,
+        "acciones_post": null,
+        "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "GPCR",
@@ -596,10 +1126,23 @@
       "fecha": "2026-06-18",
       "nivel": "amarillo",
       "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
+      "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
       "detalle": "xslF345X06/form4-06182026_050604.xml",
       "empresa_sec": "Structure Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000132856526000002/xslF345X06/form4-06182026_050604.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000132856526000002/xslF345X06/form4-06182026_050604.xml",
+      "form4_detail": {
+        "insider_nombre": null,
+        "insider_cargo": null,
+        "transaccion_tipo": null,
+        "transaccion_acciones": null,
+        "transaccion_precio": null,
+        "transaccion_fecha": null,
+        "acciones_post": null,
+        "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "GPCR",
@@ -608,10 +1151,23 @@
       "fecha": "2026-06-18",
       "nivel": "amarillo",
       "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
+      "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
       "detalle": "xslF345X06/form4-06182026_050603.xml",
       "empresa_sec": "Structure Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000120619926000002/xslF345X06/form4-06182026_050603.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000120619926000002/xslF345X06/form4-06182026_050603.xml",
+      "form4_detail": {
+        "insider_nombre": null,
+        "insider_cargo": null,
+        "transaccion_tipo": null,
+        "transaccion_acciones": null,
+        "transaccion_precio": null,
+        "transaccion_fecha": null,
+        "acciones_post": null,
+        "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "GPCR",
@@ -620,10 +1176,23 @@
       "fecha": "2026-06-18",
       "nivel": "azul",
       "badge": "🔵 INFO",
-      "resumen": "8-K — Evento material. Revisar.",
+      "resumen": "8-K — Sin clasificación específica por Item [Items: 5.07]",
       "detalle": "FORM 8-K",
       "empresa_sec": "Structure Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000110465926075720/tm2618249d1_8k.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000110465926075720/tm2618249d1_8k.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "5.07"
+        ],
+        "clasificacion_item": null,
+        "extracto": "886 gpcr:OrdinarySharesParValue0.0001PerShareMember 2026-06-17 2026-06-17 iso4217:USD xbrli:shares iso4217:USD xbrli:shares UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): June 17, 2026 Structure Therapeutics Inc. (Exact name of registrant as specified in its charter) Cayman Islands 001-41608 98-1480821 (State or other jurisdiction of incorporation) (Commission File Number) (IRS Employer Identification No.) 601 Gateway Blvd. , Suite 900 South San Francisco , California 94080 (Address of principal executive offices) (Zip Code) (Registrant s telephone number, including area code): ( 650 ) 457-1978 Not Applicable (Former name",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "DYN",
@@ -632,10 +1201,23 @@
       "fecha": "2026-06-17",
       "nivel": "amarillo",
       "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
+      "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
       "detalle": "4",
       "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181418926000002/xslF345X06/ownership.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181418926000002/xslF345X06/ownership.xml",
+      "form4_detail": {
+        "insider_nombre": null,
+        "insider_cargo": null,
+        "transaccion_tipo": null,
+        "transaccion_acciones": null,
+        "transaccion_precio": null,
+        "transaccion_fecha": null,
+        "acciones_post": null,
+        "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "DYN",
@@ -644,10 +1226,23 @@
       "fecha": "2026-06-17",
       "nivel": "amarillo",
       "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
+      "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
       "detalle": "4",
       "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000191559826000002/xslF345X06/ownership.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000191559826000002/xslF345X06/ownership.xml",
+      "form4_detail": {
+        "insider_nombre": null,
+        "insider_cargo": null,
+        "transaccion_tipo": null,
+        "transaccion_acciones": null,
+        "transaccion_precio": null,
+        "transaccion_fecha": null,
+        "acciones_post": null,
+        "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "DYN",
@@ -656,22 +1251,49 @@
       "fecha": "2026-06-17",
       "nivel": "amarillo",
       "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
+      "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
       "detalle": "4",
       "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000149842826000002/xslF345X06/ownership.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000149842826000002/xslF345X06/ownership.xml",
+      "form4_detail": {
+        "insider_nombre": null,
+        "insider_cargo": null,
+        "transaccion_tipo": null,
+        "transaccion_acciones": null,
+        "transaccion_precio": null,
+        "transaccion_fecha": null,
+        "acciones_post": null,
+        "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "DYN",
       "nombre": "Dyne Therapeutics, Inc.",
       "form": "8-K",
       "fecha": "2026-06-17",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "8-K — Evento material. Revisar.",
+      "nivel": "verde",
+      "badge": "🟢 ALTA",
+      "resumen": "Item 1.01: Acuerdo material (colaboración, licencia, M&A) [Items: 1.01, 2.03]",
       "detalle": "8-K",
       "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181879426000003/dyn-20260616.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181879426000003/dyn-20260616.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "1.01",
+          "2.03"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Exchange Act of 1934 Date of report (Date of earliest event reported): June 16, 2026 Dyne Therapeutics, Inc. (Exact Name of Registrant as Specified in Charter) Delaware 001-39509 36-4883909 (State or Other Jurisdiction of Incorporation) (Commission File Number) (IRS Employer Identification No.) 1560 Trapelo Road Waltham , Massachusetts 02451 (Address of Principal Executive Offices) (Zip Code) Registrant s telephone number, including area code: ( 781 ) 786-8230 Not applicable (Former Name or Former Address, if Changed Since Last Report) Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions ( see General Instruction A.2. below): Written communications pursuant to Rule 425 unde",
+        "nivel_ajustado": "verde",
+        "badge_ajustado": "🟢 ALTA",
+        "resumen_ajustado": "Item 1.01: Acuerdo material (colaboración, licencia, M&A)"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "VRTX",
@@ -680,22 +1302,50 @@
       "fecha": "2026-06-17",
       "nivel": "amarillo",
       "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
+      "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
       "detalle": "FORM 4",
       "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
-      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000235/xslF345X06/wk-form4_1781727153.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000235/xslF345X06/wk-form4_1781727153.xml",
+      "form4_detail": {
+        "insider_nombre": null,
+        "insider_cargo": null,
+        "transaccion_tipo": null,
+        "transaccion_acciones": null,
+        "transaccion_precio": null,
+        "transaccion_fecha": null,
+        "acciones_post": null,
+        "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "ACRV",
       "nombre": "Acrivon Therapeutics, Inc.",
       "form": "8-K",
       "fecha": "2026-06-17",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "8-K — Evento material. Revisar.",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Item 5.02: Cambio directivos (CEO/CFO/CSO) [Items: 5.02, 5.07, 9.01]",
       "detalle": "8-K",
       "empresa_sec": "Acrivon Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526274410/acrv-20260617.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526274410/acrv-20260617.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "5.02",
+          "5.07",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Exchange Act of 1934 Date of Report (Date of earliest event reported): June 17, 2026 Acrivon Therapeutics, Inc. (Exact name of Registrant as Specified in Its Charter) Delaware 001-41551 82-5125532 (State or Other Jurisdiction of Incorporation) (Commission File Number) (IRS Employer Identification No.) 480 Arsenal Way Suite 100 Watertown , Massachusetts 02472 (Address of Principal Executive Offices) (Zip Code) Registrant s Telephone Number, Including Area Code: (617) 207-8979 (Former Name or Former Address, if Changed Since Last Report) Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+        "nivel_ajustado": "amarillo",
+        "badge_ajustado": "🟡 MEDIA",
+        "resumen_ajustado": "Item 5.02: Cambio directivos (CEO/CFO/CSO)"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "SENS",
@@ -704,10 +1354,23 @@
       "fecha": "2026-06-17",
       "nivel": "amarillo",
       "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
+      "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
       "detalle": "xslF345X06/form4-06172026_040617.xml",
       "empresa_sec": "Senseonics Holdings, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000176979126000006/xslF345X06/form4-06172026_040617.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000176979126000006/xslF345X06/form4-06172026_040617.xml",
+      "form4_detail": {
+        "insider_nombre": null,
+        "insider_cargo": null,
+        "transaccion_tipo": null,
+        "transaccion_acciones": null,
+        "transaccion_precio": null,
+        "transaccion_fecha": null,
+        "acciones_post": null,
+        "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "SENS",
@@ -716,10 +1379,23 @@
       "fecha": "2026-06-17",
       "nivel": "amarillo",
       "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
+      "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
       "detalle": "xslF345X06/form4-06172026_040616.xml",
       "empresa_sec": "Senseonics Holdings, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000166759326000006/xslF345X06/form4-06172026_040616.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000166759326000006/xslF345X06/form4-06172026_040616.xml",
+      "form4_detail": {
+        "insider_nombre": null,
+        "insider_cargo": null,
+        "transaccion_tipo": null,
+        "transaccion_acciones": null,
+        "transaccion_precio": null,
+        "transaccion_fecha": null,
+        "acciones_post": null,
+        "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "SENS",
@@ -728,10 +1404,23 @@
       "fecha": "2026-06-17",
       "nivel": "amarillo",
       "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
+      "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
       "detalle": "xslF345X06/form4-06172026_040619.xml",
       "empresa_sec": "Senseonics Holdings, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000194453926000006/xslF345X06/form4-06172026_040619.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000194453926000006/xslF345X06/form4-06172026_040619.xml",
+      "form4_detail": {
+        "insider_nombre": null,
+        "insider_cargo": null,
+        "transaccion_tipo": null,
+        "transaccion_acciones": null,
+        "transaccion_precio": null,
+        "transaccion_fecha": null,
+        "acciones_post": null,
+        "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "SENS",
@@ -740,10 +1429,23 @@
       "fecha": "2026-06-17",
       "nivel": "amarillo",
       "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
+      "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
       "detalle": "xslF345X06/form4-06172026_040614.xml",
       "empresa_sec": "Senseonics Holdings, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000155204726000006/xslF345X06/form4-06172026_040614.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000155204726000006/xslF345X06/form4-06172026_040614.xml",
+      "form4_detail": {
+        "insider_nombre": null,
+        "insider_cargo": null,
+        "transaccion_tipo": null,
+        "transaccion_acciones": null,
+        "transaccion_precio": null,
+        "transaccion_fecha": null,
+        "acciones_post": null,
+        "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "SENS",
@@ -752,10 +1454,23 @@
       "fecha": "2026-06-17",
       "nivel": "amarillo",
       "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
+      "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
       "detalle": "xslF345X06/form4-06172026_040612.xml",
       "empresa_sec": "Senseonics Holdings, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000154237726000004/xslF345X06/form4-06172026_040612.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000154237726000004/xslF345X06/form4-06172026_040612.xml",
+      "form4_detail": {
+        "insider_nombre": null,
+        "insider_cargo": null,
+        "transaccion_tipo": null,
+        "transaccion_acciones": null,
+        "transaccion_precio": null,
+        "transaccion_fecha": null,
+        "acciones_post": null,
+        "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "SENS",
@@ -764,10 +1479,23 @@
       "fecha": "2026-06-17",
       "nivel": "amarillo",
       "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
+      "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
       "detalle": "xslF345X06/form4-06172026_040610.xml",
       "empresa_sec": "Senseonics Holdings, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000166758826000008/xslF345X06/form4-06172026_040610.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000166758826000008/xslF345X06/form4-06172026_040610.xml",
+      "form4_detail": {
+        "insider_nombre": null,
+        "insider_cargo": null,
+        "transaccion_tipo": null,
+        "transaccion_acciones": null,
+        "transaccion_precio": null,
+        "transaccion_fecha": null,
+        "acciones_post": null,
+        "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "TARA",
@@ -776,10 +1504,23 @@
       "fecha": "2026-06-16",
       "nivel": "amarillo",
       "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
+      "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
       "detalle": "PRIMARY DOCUMENT",
       "empresa_sec": "Protara Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069250/xslF345X06/marketforms-73187.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069250/xslF345X06/marketforms-73187.xml",
+      "form4_detail": {
+        "insider_nombre": null,
+        "insider_cargo": null,
+        "transaccion_tipo": null,
+        "transaccion_acciones": null,
+        "transaccion_precio": null,
+        "transaccion_fecha": null,
+        "acciones_post": null,
+        "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "TARA",
@@ -788,10 +1529,23 @@
       "fecha": "2026-06-16",
       "nivel": "amarillo",
       "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
+      "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
       "detalle": "PRIMARY DOCUMENT",
       "empresa_sec": "Protara Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069249/xslF345X06/marketforms-73186.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069249/xslF345X06/marketforms-73186.xml",
+      "form4_detail": {
+        "insider_nombre": null,
+        "insider_cargo": null,
+        "transaccion_tipo": null,
+        "transaccion_acciones": null,
+        "transaccion_precio": null,
+        "transaccion_fecha": null,
+        "acciones_post": null,
+        "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "TARA",
@@ -800,10 +1554,23 @@
       "fecha": "2026-06-16",
       "nivel": "amarillo",
       "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
+      "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
       "detalle": "PRIMARY DOCUMENT",
       "empresa_sec": "Protara Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069248/xslF345X06/marketforms-73185.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069248/xslF345X06/marketforms-73185.xml",
+      "form4_detail": {
+        "insider_nombre": null,
+        "insider_cargo": null,
+        "transaccion_tipo": null,
+        "transaccion_acciones": null,
+        "transaccion_precio": null,
+        "transaccion_fecha": null,
+        "acciones_post": null,
+        "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "TARA",
@@ -812,10 +1579,23 @@
       "fecha": "2026-06-16",
       "nivel": "amarillo",
       "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
+      "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
       "detalle": "PRIMARY DOCUMENT",
       "empresa_sec": "Protara Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069247/xslF345X06/marketforms-73184.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069247/xslF345X06/marketforms-73184.xml",
+      "form4_detail": {
+        "insider_nombre": null,
+        "insider_cargo": null,
+        "transaccion_tipo": null,
+        "transaccion_acciones": null,
+        "transaccion_precio": null,
+        "transaccion_fecha": null,
+        "acciones_post": null,
+        "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "TARA",
@@ -824,10 +1604,23 @@
       "fecha": "2026-06-16",
       "nivel": "amarillo",
       "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
+      "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
       "detalle": "PRIMARY DOCUMENT",
       "empresa_sec": "Protara Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069246/xslF345X06/marketforms-73183.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069246/xslF345X06/marketforms-73183.xml",
+      "form4_detail": {
+        "insider_nombre": null,
+        "insider_cargo": null,
+        "transaccion_tipo": null,
+        "transaccion_acciones": null,
+        "transaccion_precio": null,
+        "transaccion_fecha": null,
+        "acciones_post": null,
+        "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "TARA",
@@ -836,10 +1629,23 @@
       "fecha": "2026-06-16",
       "nivel": "amarillo",
       "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
+      "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
       "detalle": "PRIMARY DOCUMENT",
       "empresa_sec": "Protara Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069245/xslF345X06/marketforms-73182.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069245/xslF345X06/marketforms-73182.xml",
+      "form4_detail": {
+        "insider_nombre": null,
+        "insider_cargo": null,
+        "transaccion_tipo": null,
+        "transaccion_acciones": null,
+        "transaccion_precio": null,
+        "transaccion_fecha": null,
+        "acciones_post": null,
+        "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "TARA",
@@ -848,10 +1654,23 @@
       "fecha": "2026-06-16",
       "nivel": "amarillo",
       "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
+      "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
       "detalle": "PRIMARY DOCUMENT",
       "empresa_sec": "Protara Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069244/xslF345X06/marketforms-73181.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069244/xslF345X06/marketforms-73181.xml",
+      "form4_detail": {
+        "insider_nombre": null,
+        "insider_cargo": null,
+        "transaccion_tipo": null,
+        "transaccion_acciones": null,
+        "transaccion_precio": null,
+        "transaccion_fecha": null,
+        "acciones_post": null,
+        "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "TARA",
@@ -860,10 +1679,23 @@
       "fecha": "2026-06-16",
       "nivel": "amarillo",
       "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
+      "resumen": "Form 4 — parse error: mismatched tag: line 29, column 16",
       "detalle": "PRIMARY DOCUMENT",
       "empresa_sec": "Protara Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069243/xslF345X06/marketforms-73180.xml"
+      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069243/xslF345X06/marketforms-73180.xml",
+      "form4_detail": {
+        "insider_nombre": null,
+        "insider_cargo": null,
+        "transaccion_tipo": null,
+        "transaccion_acciones": null,
+        "transaccion_precio": null,
+        "transaccion_fecha": null,
+        "acciones_post": null,
+        "resumen_detail": "Form 4 — parse error: mismatched tag: line 29, column 16"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "TARA",
@@ -872,10 +1704,301 @@
       "fecha": "2026-06-15",
       "nivel": "azul",
       "badge": "🔵 INFO",
-      "resumen": "8-K — Evento material. Revisar.",
+      "resumen": "8-K — Sin clasificación específica por Item [Items: 5.07]",
       "detalle": "CURRENT REPORT",
       "empresa_sec": "Protara Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026068774/ea0294030-8k_protara.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026068774/ea0294030-8k_protara.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "5.07"
+        ],
+        "clasificacion_item": null,
+        "extracto": "uant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): June 12, 2026 Protara Therapeutics, Inc. (Exact name of registrant as specified in its charter) Delaware 001-36694 20-4580525 (State or other jurisdiction of incorporation) (Commission File No.) (IRS Employer Identification No.) 345 Park Avenue South Third Floor New York , NY 10010 (Address of principal executive offices) (Zip Code) Registrant s telephone number, including area code: ( 646 ) 844-0337 N/A (Former name or former address, if changed since last report.) Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: Written communications pursuant to Rule",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
     }
-  ]
+  ],
+  "clinicaltrials": {
+    "SNDX": [
+      {
+        "nct": "NCT04603300",
+        "nombre": "EMERGE Ph3 (revumenib AML)",
+        "titulo": "OMEGA Study: A Study of the Safety and Feasibility of Up-titration With INT301 in Adults With Sensit",
+        "status": "COMPLETED",
+        "status_desc": "Completado",
+        "nivel": "verde",
+        "badge": "🟢",
+        "enrollment": 32,
+        "ultima_actualizacion": "2023-07-28",
+        "fecha_completion_primaria": "2023-06-30",
+        "changed": true,
+        "url": "https://clinicaltrials.gov/study/NCT04603300"
+      },
+      {
+        "nct": "NCT05185622",
+        "nombre": "SAVE Ph2 (revumenib AML frontline)",
+        "titulo": "A Study to Assess Vamorolone in Boys Ages 2 to <4 Years and 7 to <18 Years With Duchenne Muscular Dy",
+        "status": "COMPLETED",
+        "status_desc": "Completado",
+        "nivel": "verde",
+        "badge": "🟢",
+        "enrollment": 54,
+        "ultima_actualizacion": "2025-10-24",
+        "fecha_completion_primaria": "2024-07-16",
+        "changed": true,
+        "url": "https://clinicaltrials.gov/study/NCT05185622"
+      }
+    ],
+    "DYN": [
+      {
+        "nct": "NCT05540860",
+        "nombre": "DELIVER Ph3 (DYNE-251 DMD)",
+        "titulo": "A Study of EDG-5506 in Children With Duchenne Muscular Dystrophy (LYNX)",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "status_desc": "Activo — sin reclutamiento",
+        "nivel": "azul",
+        "badge": "🔵",
+        "enrollment": 76,
+        "ultima_actualizacion": "2025-11-12",
+        "fecha_completion_primaria": "2027-01",
+        "changed": true,
+        "url": "https://clinicaltrials.gov/study/NCT05540860"
+      },
+      {
+        "nct": "NCT06339827",
+        "nombre": "ACHIEVE Ph3 (DYNE-101 DM1)",
+        "titulo": "ASk Questions in GYnecologic Oncology (ASQ-GYO)",
+        "status": "RECRUITING",
+        "status_desc": "Reclutando activamente",
+        "nivel": "verde",
+        "badge": "🟢",
+        "enrollment": 70,
+        "ultima_actualizacion": "2026-06-17",
+        "fecha_completion_primaria": "2027-05",
+        "changed": true,
+        "url": "https://clinicaltrials.gov/study/NCT06339827"
+      }
+    ],
+    "DNLI": [
+      {
+        "nct": "NCT04532047",
+        "nombre": "Ph2/3 (DNL310 Hunter AVLAYAH)",
+        "titulo": "PEARL (PrEnAtal Enzyme Replacement Therapy for Lysosomal Storage Disorders)",
+        "status": "RECRUITING",
+        "status_desc": "Reclutando activamente",
+        "nivel": "verde",
+        "badge": "🟢",
+        "enrollment": 10,
+        "ultima_actualizacion": "2026-03-17",
+        "fecha_completion_primaria": "2031-07-31",
+        "changed": true,
+        "url": "https://clinicaltrials.gov/study/NCT04532047"
+      }
+    ],
+    "VKTX": [
+      {
+        "nct": "NCT05948826",
+        "nombre": "VENTURE Ph2b (VK2735 SC obesidad)",
+        "titulo": "First in Human Study of TORL-3-600 in Participants With Advanced Cancer",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "status_desc": "Activo — sin reclutamiento",
+        "nivel": "azul",
+        "badge": "🔵",
+        "enrollment": 70,
+        "ultima_actualizacion": "2025-10-10",
+        "fecha_completion_primaria": "2026-06-25",
+        "changed": true,
+        "url": "https://clinicaltrials.gov/study/NCT05948826"
+      },
+      {
+        "nct": "NCT06119360",
+        "nombre": "VANQUISH Ph2 (VK2735 oral obesidad)",
+        "titulo": "Comparison of Two Different Lightwand Intubation Techniques in Cervical Immobilized Patients",
+        "status": "COMPLETED",
+        "status_desc": "Completado",
+        "nivel": "verde",
+        "badge": "🟢",
+        "enrollment": 176,
+        "ultima_actualizacion": "2023-11-07",
+        "fecha_completion_primaria": "2019-02-13",
+        "changed": true,
+        "url": "https://clinicaltrials.gov/study/NCT06119360"
+      }
+    ],
+    "BEAM": [
+      {
+        "nct": "NCT05456880",
+        "nombre": "BEACON Ph1/2 (BEAM-101 SCD)",
+        "titulo": "BEACON: A Study Evaluating the Safety and Efficacy of BEAM-101 in Patients With Severe Sickle Cell D",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "status_desc": "Activo — sin reclutamiento",
+        "nivel": "azul",
+        "badge": "🔵",
+        "enrollment": 15,
+        "ultima_actualizacion": "2025-12-16",
+        "fecha_completion_primaria": "2028-02",
+        "changed": true,
+        "url": "https://clinicaltrials.gov/study/NCT05456880"
+      },
+      {
+        "nct": "NCT05456893",
+        "nombre": "Ph1 (BEAM-302 A1ATD)",
+        "titulo": "A Study to Evaluate Biomarkers in Moderate to Severe Ulcerative Colitis (UC) Patients Treated With D",
+        "status": "RECRUITING",
+        "status_desc": "Reclutando activamente",
+        "nivel": "verde",
+        "badge": "🟢",
+        "enrollment": 95,
+        "ultima_actualizacion": "2025-05-06",
+        "fecha_completion_primaria": "2027-09-09",
+        "changed": true,
+        "url": "https://clinicaltrials.gov/study/NCT05456893"
+      }
+    ],
+    "OCUL": [
+      {
+        "nct": "NCT05536297",
+        "nombre": "HELIOS-1 Ph3 (AXPAXLI wet AMD)",
+        "titulo": "Avacincaptad Pegol Open-Label Extension for Patients With Geographic Atrophy",
+        "status": "COMPLETED",
+        "status_desc": "Completado",
+        "nivel": "verde",
+        "badge": "🟢",
+        "enrollment": 278,
+        "ultima_actualizacion": "2026-05-18",
+        "fecha_completion_primaria": "2025-04-10",
+        "changed": true,
+        "url": "https://clinicaltrials.gov/study/NCT05536297"
+      },
+      {
+        "nct": "NCT06100081",
+        "nombre": "HELIOS-3 Ph2 (AXPAXLI DR)",
+        "titulo": "Real-time Targeted Fluorescence Endoscopy for Detection of the Primary Cancer Lesion in Patients Wit",
+        "status": "UNKNOWN",
+        "status_desc": "Estado desconocido",
+        "nivel": "azul",
+        "badge": "🔵",
+        "enrollment": 35,
+        "ultima_actualizacion": "2023-10-25",
+        "fecha_completion_primaria": "2025-12-31",
+        "changed": true,
+        "url": "https://clinicaltrials.gov/study/NCT06100081"
+      }
+    ],
+    "GPCR": [
+      {
+        "nct": "NCT05805709",
+        "nombre": "Ph2b (aleniglipron obesidad)",
+        "titulo": "A Patient-centered Trial of a Process-of-care Intervention in Hospitalized AKI Patients: the COPE-AK",
+        "status": "RECRUITING",
+        "status_desc": "Reclutando activamente",
+        "nivel": "verde",
+        "badge": "🟢",
+        "enrollment": 2145,
+        "ultima_actualizacion": "2025-09-04",
+        "fecha_completion_primaria": "2026-06-05",
+        "changed": true,
+        "url": "https://clinicaltrials.gov/study/NCT05805709"
+      }
+    ],
+    "ABVX": [
+      {
+        "nct": "NCT04745806",
+        "nombre": "ABTECT Ph3 (obefazimod UC inducción)",
+        "titulo": "Post Marketing Trial for Evaluating the Effectiveness of ActiGraft in Treating Lower Extremity Hard ",
+        "status": "TERMINATED",
+        "status_desc": "Terminado anticipadamente",
+        "nivel": "rojo",
+        "badge": "🔴",
+        "enrollment": 6,
+        "ultima_actualizacion": "2024-11-15",
+        "fecha_completion_primaria": "2023-01-01",
+        "changed": true,
+        "url": "https://clinicaltrials.gov/study/NCT04745806"
+      },
+      {
+        "nct": "NCT05076916",
+        "nombre": "ABTECT Ph3 mantenimiento",
+        "titulo": "The Effectiveness of the Web-based Education Programme Among Cancer Patients",
+        "status": "COMPLETED",
+        "status_desc": "Completado",
+        "nivel": "verde",
+        "badge": "🟢",
+        "enrollment": 53,
+        "ultima_actualizacion": "2021-10-13",
+        "fecha_completion_primaria": "2015-05",
+        "changed": true,
+        "url": "https://clinicaltrials.gov/study/NCT05076916"
+      }
+    ],
+    "VERA": [
+      {
+        "nct": "NCT04287985",
+        "nombre": "ORIGIN Ph3 (atacicept IgAN)",
+        "titulo": "Safety and Efficacy Study of VIS649 for IgA Nephropathy",
+        "status": "COMPLETED",
+        "status_desc": "Completado",
+        "nivel": "verde",
+        "badge": "🟢",
+        "enrollment": 155,
+        "ultima_actualizacion": "2026-04-24",
+        "fecha_completion_primaria": "2023-05-19",
+        "changed": true,
+        "url": "https://clinicaltrials.gov/study/NCT04287985"
+      }
+    ],
+    "ACRV": [
+      {
+        "nct": "NCT05116774",
+        "nombre": "Ph2 (ACR-368 + OncoSignature)",
+        "titulo": "BCX9930 for the Treatment of Paroxysmal Nocturnal Hemoglobinuria (PNH) in Participants With Inadequa",
+        "status": "TERMINATED",
+        "status_desc": "Terminado anticipadamente",
+        "nivel": "rojo",
+        "badge": "🔴",
+        "enrollment": 12,
+        "ultima_actualizacion": "2025-03-07",
+        "fecha_completion_primaria": "2023-09-14",
+        "changed": true,
+        "url": "https://clinicaltrials.gov/study/NCT05116774"
+      }
+    ],
+    "TARA": [
+      {
+        "nct": "NCT03002103",
+        "nombre": "Ph2 (TARA-002 LM)",
+        "titulo": "A Trial Evaluating the Efficacy and Safety of EndoTAG®-1 in Combination With Paclitaxel and Gemcitab",
+        "status": "SUSPENDED",
+        "status_desc": "Suspendido",
+        "nivel": "rojo",
+        "badge": "🔴",
+        "enrollment": 420,
+        "ultima_actualizacion": "2023-04-26",
+        "fecha_completion_primaria": "2025-03",
+        "changed": true,
+        "url": "https://clinicaltrials.gov/study/NCT03002103"
+      }
+    ],
+    "INSM": [
+      {
+        "nct": "NCT04053543",
+        "nombre": "ASPEN Ph3 (brensocatib bronchiectasis)",
+        "titulo": "CXA-10 Study in Subjects With Pulmonary Arterial Hypertension",
+        "status": "TERMINATED",
+        "status_desc": "Terminado anticipadamente",
+        "nivel": "rojo",
+        "badge": "🔴",
+        "enrollment": 33,
+        "ultima_actualizacion": "2020-08-26",
+        "fecha_completion_primaria": "2020-08-12",
+        "changed": true,
+        "url": "https://clinicaltrials.gov/study/NCT04053543"
+      }
+    ]
+  }
 }

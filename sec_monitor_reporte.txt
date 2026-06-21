@@ -1,131 +1,277 @@
 ══════════════════════════════════════════════════════════════
-SEC EDGAR MONITOR · Modelo Biotech v3.0
-Generado: 21/06/2026 11:07 | Período: últimos 7 días
+SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
+Generado: 21/06/2026 11:45 | Período: últimos 7 días
 Desde: 2026-06-14 → Hasta: 2026-06-21
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 30 filings | 🔴 0 | 🟢 0 | 🟡 25 | 🔵 5 | ✅ 9 sin novedad
+RESUMEN: 30 filings | 🔴 0 | 🟢 2 | 🟡 26 | 🔵 2 | ✅ 9 sin novedad
 
 ──────────────────────────────────────────────────
-DETALLE POR TICKER
+🚨 ALERTAS CRÍTICAS (2)
+──────────────────────────────────────────────────
+
+  [DNLI] Denali Therapeutics Inc.
+  🟢 ALTA 8-K | 2026-06-18
+  Item 1.01: Acuerdo material (colaboración, licencia, M&A) [Items: 1.01, 7.01, 9.01]
+  → https://www.sec.gov/Archives/edgar/data/1714899/000171489926000081/dnli-20260612.htm
+
+  [DYN] Dyne Therapeutics, Inc.
+  🟢 ALTA 8-K | 2026-06-17
+  Item 1.01: Acuerdo material (colaboración, licencia, M&A) [Items: 1.01, 2.03]
+  → https://www.sec.gov/Archives/edgar/data/1818794/000181879426000003/dyn-20260616.htm
+
+──────────────────────────────────────────────────
+DETALLE POR TICKER — SEC EDGAR
 ──────────────────────────────────────────────────
   ✅ [SNDX] Sin novedades
   ✅ [ARGX] Sin novedades
 
-  🟡 [DYN] Dyne Therapeutics, Inc. — 4 filing(s)
-     🟡 MEDIA 4 | 2026-06-17 | Form 4 — Insider transaction detectada
-     Empresa SEC: Dyne Therapeutics, Inc.
+  🟢 [DYN] Dyne Therapeutics, Inc. — 4 filing(s)
+     🟡 MEDIA 4 | 2026-06-17 | Form 4 — parse error: mismatched tag: line 29, column 16
+     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
      → https://www.sec.gov/Archives/edgar/data/1818794/000181418926000002/xslF345X06/ownership.xml
-     🟡 MEDIA 4 | 2026-06-17 | Form 4 — Insider transaction detectada
-     Empresa SEC: Dyne Therapeutics, Inc.
+     🟡 MEDIA 4 | 2026-06-17 | Form 4 — parse error: mismatched tag: line 29, column 16
+     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
      → https://www.sec.gov/Archives/edgar/data/1818794/000191559826000002/xslF345X06/ownership.xml
-     🟡 MEDIA 4 | 2026-06-17 | Form 4 — Insider transaction detectada
-     Empresa SEC: Dyne Therapeutics, Inc.
+     🟡 MEDIA 4 | 2026-06-17 | Form 4 — parse error: mismatched tag: line 29, column 16
+     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
      → https://www.sec.gov/Archives/edgar/data/1818794/000149842826000002/xslF345X06/ownership.xml
-     🔵 INFO 8-K | 2026-06-17 | 8-K — Evento material. Revisar.
-     Empresa SEC: Dyne Therapeutics, Inc.
+     🟢 ALTA 8-K | 2026-06-17 | Item 1.01: Acuerdo material (colaboración, licencia, M&A) [Items: 1.01, 2.03]
      → https://www.sec.gov/Archives/edgar/data/1818794/000181879426000003/dyn-20260616.htm
 
-  🔵 [DNLI] Denali Therapeutics Inc. — 1 filing(s)
-     🔵 INFO 8-K | 2026-06-18 | 8-K — Evento material. Revisar.
-     Empresa SEC: Denali Therapeutics Inc.
+  🟢 [DNLI] Denali Therapeutics Inc. — 1 filing(s)
+     🟢 ALTA 8-K | 2026-06-18 | Item 1.01: Acuerdo material (colaboración, licencia, M&A) [Items: 1.01, 7.01, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1714899/000171489926000081/dnli-20260612.htm
   ✅ [VKTX] Sin novedades
 
   🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 1 filing(s)
-     🟡 MEDIA 4 | 2026-06-17 | Form 4 — Insider transaction detectada
-     Empresa SEC: VERTEX PHARMACEUTICALS INC / MA
+     🟡 MEDIA 4 | 2026-06-17 | Form 4 — parse error: mismatched tag: line 29, column 16
+     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000235/xslF345X06/wk-form4_1781727153.xml
   ✅ [ALNY] Sin novedades
   ✅ [BEAM] Sin novedades
 
   🟡 [OCUL] OCULAR THERAPEUTIX, INC — 1 filing(s)
-     🟡 MEDIA 4 | 2026-06-18 | Form 4 — Insider transaction detectada
-     Empresa SEC: OCULAR THERAPEUTIX, INC
+     🟡 MEDIA 4 | 2026-06-18 | Form 4 — parse error: mismatched tag: line 29, column 16
+     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
      → https://www.sec.gov/Archives/edgar/data/1393434/000110465926075709/xslF345X06/tm2618141-1_4seq1.xml
   ✅ [CAI] Sin novedades
 
   🟡 [GPCR] Structure Therapeutics Inc. — 7 filing(s)
-     🟡 MEDIA 4 | 2026-06-18 | Form 4 — Insider transaction detectada
-     Empresa SEC: Structure Therapeutics Inc.
+     🟡 MEDIA 4 | 2026-06-18 | Form 4 — parse error: mismatched tag: line 29, column 16
+     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
      → https://www.sec.gov/Archives/edgar/data/1888886/000153400226000002/xslF345X06/form4-06182026_050614.xml
-     🟡 MEDIA 4 | 2026-06-18 | Form 4 — Insider transaction detectada
-     Empresa SEC: Structure Therapeutics Inc.
+     🟡 MEDIA 4 | 2026-06-18 | Form 4 — parse error: mismatched tag: line 29, column 16
+     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
      → https://www.sec.gov/Archives/edgar/data/1888886/000118891926000010/xslF345X06/form4-06182026_050611.xml
-     🟡 MEDIA 4 | 2026-06-18 | Form 4 — Insider transaction detectada
-     Empresa SEC: Structure Therapeutics Inc.
+     🟡 MEDIA 4 | 2026-06-18 | Form 4 — parse error: mismatched tag: line 29, column 16
+     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
      → https://www.sec.gov/Archives/edgar/data/1888886/000196241326000002/xslF345X06/form4-06182026_050609.xml
-     🟡 MEDIA 4 | 2026-06-18 | Form 4 — Insider transaction detectada
-     Empresa SEC: Structure Therapeutics Inc.
+     🟡 MEDIA 4 | 2026-06-18 | Form 4 — parse error: mismatched tag: line 29, column 16
+     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
      → https://www.sec.gov/Archives/edgar/data/1888886/000120278526000004/xslF345X06/form4-06182026_050606.xml
-     🟡 MEDIA 4 | 2026-06-18 | Form 4 — Insider transaction detectada
-     Empresa SEC: Structure Therapeutics Inc.
+     🟡 MEDIA 4 | 2026-06-18 | Form 4 — parse error: mismatched tag: line 29, column 16
+     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
      → https://www.sec.gov/Archives/edgar/data/1888886/000132856526000002/xslF345X06/form4-06182026_050604.xml
-     🟡 MEDIA 4 | 2026-06-18 | Form 4 — Insider transaction detectada
-     Empresa SEC: Structure Therapeutics Inc.
+     🟡 MEDIA 4 | 2026-06-18 | Form 4 — parse error: mismatched tag: line 29, column 16
+     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
      → https://www.sec.gov/Archives/edgar/data/1888886/000120619926000002/xslF345X06/form4-06182026_050603.xml
-     🔵 INFO 8-K | 2026-06-18 | 8-K — Evento material. Revisar.
-     Empresa SEC: Structure Therapeutics Inc.
+     🔵 INFO 8-K | 2026-06-18 | 8-K — Sin clasificación específica por Item [Items: 5.07]
      → https://www.sec.gov/Archives/edgar/data/1888886/000110465926075720/tm2618249d1_8k.htm
   ✅ [ABVX] Sin novedades
   ✅ [VERA] Sin novedades
 
-  🔵 [ACRV] Acrivon Therapeutics, Inc. — 1 filing(s)
-     🔵 INFO 8-K | 2026-06-17 | 8-K — Evento material. Revisar.
-     Empresa SEC: Acrivon Therapeutics, Inc.
+  🟡 [ACRV] Acrivon Therapeutics, Inc. — 1 filing(s)
+     🟡 MEDIA 8-K | 2026-06-17 | Item 5.02: Cambio directivos (CEO/CFO/CSO) [Items: 5.02, 5.07, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1781174/000119312526274410/acrv-20260617.htm
 
   🟡 [TARA] Protara Therapeutics, Inc. — 9 filing(s)
-     🟡 MEDIA 4 | 2026-06-16 | Form 4 — Insider transaction detectada
-     Empresa SEC: Protara Therapeutics, Inc.
+     🟡 MEDIA 4 | 2026-06-16 | Form 4 — parse error: mismatched tag: line 29, column 16
+     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026069250/xslF345X06/marketforms-73187.xml
-     🟡 MEDIA 4 | 2026-06-16 | Form 4 — Insider transaction detectada
-     Empresa SEC: Protara Therapeutics, Inc.
+     🟡 MEDIA 4 | 2026-06-16 | Form 4 — parse error: mismatched tag: line 29, column 16
+     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026069249/xslF345X06/marketforms-73186.xml
-     🟡 MEDIA 4 | 2026-06-16 | Form 4 — Insider transaction detectada
-     Empresa SEC: Protara Therapeutics, Inc.
+     🟡 MEDIA 4 | 2026-06-16 | Form 4 — parse error: mismatched tag: line 29, column 16
+     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026069248/xslF345X06/marketforms-73185.xml
-     🟡 MEDIA 4 | 2026-06-16 | Form 4 — Insider transaction detectada
-     Empresa SEC: Protara Therapeutics, Inc.
+     🟡 MEDIA 4 | 2026-06-16 | Form 4 — parse error: mismatched tag: line 29, column 16
+     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026069247/xslF345X06/marketforms-73184.xml
-     🟡 MEDIA 4 | 2026-06-16 | Form 4 — Insider transaction detectada
-     Empresa SEC: Protara Therapeutics, Inc.
+     🟡 MEDIA 4 | 2026-06-16 | Form 4 — parse error: mismatched tag: line 29, column 16
+     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026069246/xslF345X06/marketforms-73183.xml
-     🟡 MEDIA 4 | 2026-06-16 | Form 4 — Insider transaction detectada
-     Empresa SEC: Protara Therapeutics, Inc.
+     🟡 MEDIA 4 | 2026-06-16 | Form 4 — parse error: mismatched tag: line 29, column 16
+     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026069245/xslF345X06/marketforms-73182.xml
-     🟡 MEDIA 4 | 2026-06-16 | Form 4 — Insider transaction detectada
-     Empresa SEC: Protara Therapeutics, Inc.
+     🟡 MEDIA 4 | 2026-06-16 | Form 4 — parse error: mismatched tag: line 29, column 16
+     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026069244/xslF345X06/marketforms-73181.xml
-     🟡 MEDIA 4 | 2026-06-16 | Form 4 — Insider transaction detectada
-     Empresa SEC: Protara Therapeutics, Inc.
+     🟡 MEDIA 4 | 2026-06-16 | Form 4 — parse error: mismatched tag: line 29, column 16
+     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026069243/xslF345X06/marketforms-73180.xml
-     🔵 INFO 8-K | 2026-06-15 | 8-K — Evento material. Revisar.
-     Empresa SEC: Protara Therapeutics, Inc.
+     🔵 INFO 8-K | 2026-06-15 | 8-K — Sin clasificación específica por Item [Items: 5.07]
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026068774/ea0294030-8k_protara.htm
 
   🟡 [SENS] Senseonics Holdings, Inc. — 6 filing(s)
-     🟡 MEDIA 4 | 2026-06-17 | Form 4 — Insider transaction detectada
-     Empresa SEC: Senseonics Holdings, Inc.
+     🟡 MEDIA 4 | 2026-06-17 | Form 4 — parse error: mismatched tag: line 29, column 16
+     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
      → https://www.sec.gov/Archives/edgar/data/1616543/000176979126000006/xslF345X06/form4-06172026_040617.xml
-     🟡 MEDIA 4 | 2026-06-17 | Form 4 — Insider transaction detectada
-     Empresa SEC: Senseonics Holdings, Inc.
+     🟡 MEDIA 4 | 2026-06-17 | Form 4 — parse error: mismatched tag: line 29, column 16
+     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
      → https://www.sec.gov/Archives/edgar/data/1616543/000166759326000006/xslF345X06/form4-06172026_040616.xml
-     🟡 MEDIA 4 | 2026-06-17 | Form 4 — Insider transaction detectada
-     Empresa SEC: Senseonics Holdings, Inc.
+     🟡 MEDIA 4 | 2026-06-17 | Form 4 — parse error: mismatched tag: line 29, column 16
+     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
      → https://www.sec.gov/Archives/edgar/data/1616543/000194453926000006/xslF345X06/form4-06172026_040619.xml
-     🟡 MEDIA 4 | 2026-06-17 | Form 4 — Insider transaction detectada
-     Empresa SEC: Senseonics Holdings, Inc.
+     🟡 MEDIA 4 | 2026-06-17 | Form 4 — parse error: mismatched tag: line 29, column 16
+     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
      → https://www.sec.gov/Archives/edgar/data/1616543/000155204726000006/xslF345X06/form4-06172026_040614.xml
-     🟡 MEDIA 4 | 2026-06-17 | Form 4 — Insider transaction detectada
-     Empresa SEC: Senseonics Holdings, Inc.
+     🟡 MEDIA 4 | 2026-06-17 | Form 4 — parse error: mismatched tag: line 29, column 16
+     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
      → https://www.sec.gov/Archives/edgar/data/1616543/000154237726000004/xslF345X06/form4-06172026_040612.xml
-     🟡 MEDIA 4 | 2026-06-17 | Form 4 — Insider transaction detectada
-     Empresa SEC: Senseonics Holdings, Inc.
+     🟡 MEDIA 4 | 2026-06-17 | Form 4 — parse error: mismatched tag: line 29, column 16
+     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
      → https://www.sec.gov/Archives/edgar/data/1616543/000166758826000008/xslF345X06/form4-06172026_040610.xml
   ✅ [INSM] Sin novedades
+  ⚪ [NWL] Sin CIK SEC
+
+──────────────────────────────────────────────────
+CLINICALTRIALS.GOV — ESTADO ENSAYOS
+──────────────────────────────────────────────────
+
+  [SNDX]
+    🟢 EMERGE Ph3 (revumenib AML) ⚡CAMBIO
+       Status: Completado
+       Enrollment: 32 pacientes
+       Primary completion: 2023-06-30
+       Última actualización: 2023-07-28
+       → https://clinicaltrials.gov/study/NCT04603300
+    🟢 SAVE Ph2 (revumenib AML frontline) ⚡CAMBIO
+       Status: Completado
+       Enrollment: 54 pacientes
+       Primary completion: 2024-07-16
+       Última actualización: 2025-10-24
+       → https://clinicaltrials.gov/study/NCT05185622
+
+  [DYN]
+    🔵 DELIVER Ph3 (DYNE-251 DMD) ⚡CAMBIO
+       Status: Activo — sin reclutamiento
+       Enrollment: 76 pacientes
+       Primary completion: 2027-01
+       Última actualización: 2025-11-12
+       → https://clinicaltrials.gov/study/NCT05540860
+    🟢 ACHIEVE Ph3 (DYNE-101 DM1) ⚡CAMBIO
+       Status: Reclutando activamente
+       Enrollment: 70 pacientes
+       Primary completion: 2027-05
+       Última actualización: 2026-06-17
+       → https://clinicaltrials.gov/study/NCT06339827
+
+  [DNLI]
+    🟢 Ph2/3 (DNL310 Hunter AVLAYAH) ⚡CAMBIO
+       Status: Reclutando activamente
+       Enrollment: 10 pacientes
+       Primary completion: 2031-07-31
+       Última actualización: 2026-03-17
+       → https://clinicaltrials.gov/study/NCT04532047
+
+  [VKTX]
+    🔵 VENTURE Ph2b (VK2735 SC obesidad) ⚡CAMBIO
+       Status: Activo — sin reclutamiento
+       Enrollment: 70 pacientes
+       Primary completion: 2026-06-25
+       Última actualización: 2025-10-10
+       → https://clinicaltrials.gov/study/NCT05948826
+    🟢 VANQUISH Ph2 (VK2735 oral obesidad) ⚡CAMBIO
+       Status: Completado
+       Enrollment: 176 pacientes
+       Primary completion: 2019-02-13
+       Última actualización: 2023-11-07
+       → https://clinicaltrials.gov/study/NCT06119360
+
+  [BEAM]
+    🔵 BEACON Ph1/2 (BEAM-101 SCD) ⚡CAMBIO
+       Status: Activo — sin reclutamiento
+       Enrollment: 15 pacientes
+       Primary completion: 2028-02
+       Última actualización: 2025-12-16
+       → https://clinicaltrials.gov/study/NCT05456880
+    🟢 Ph1 (BEAM-302 A1ATD) ⚡CAMBIO
+       Status: Reclutando activamente
+       Enrollment: 95 pacientes
+       Primary completion: 2027-09-09
+       Última actualización: 2025-05-06
+       → https://clinicaltrials.gov/study/NCT05456893
+
+  [OCUL]
+    🟢 HELIOS-1 Ph3 (AXPAXLI wet AMD) ⚡CAMBIO
+       Status: Completado
+       Enrollment: 278 pacientes
+       Primary completion: 2025-04-10
+       Última actualización: 2026-05-18
+       → https://clinicaltrials.gov/study/NCT05536297
+    🔵 HELIOS-3 Ph2 (AXPAXLI DR) ⚡CAMBIO
+       Status: Estado desconocido
+       Enrollment: 35 pacientes
+       Primary completion: 2025-12-31
+       Última actualización: 2023-10-25
+       → https://clinicaltrials.gov/study/NCT06100081
+
+  [GPCR]
+    🟢 Ph2b (aleniglipron obesidad) ⚡CAMBIO
+       Status: Reclutando activamente
+       Enrollment: 2145 pacientes
+       Primary completion: 2026-06-05
+       Última actualización: 2025-09-04
+       → https://clinicaltrials.gov/study/NCT05805709
+
+  [ABVX]
+    🔴 ABTECT Ph3 (obefazimod UC inducción) ⚡CAMBIO
+       Status: Terminado anticipadamente
+       Enrollment: 6 pacientes
+       Primary completion: 2023-01-01
+       Última actualización: 2024-11-15
+       → https://clinicaltrials.gov/study/NCT04745806
+    🟢 ABTECT Ph3 mantenimiento ⚡CAMBIO
+       Status: Completado
+       Enrollment: 53 pacientes
+       Primary completion: 2015-05
+       Última actualización: 2021-10-13
+       → https://clinicaltrials.gov/study/NCT05076916
+
+  [VERA]
+    🟢 ORIGIN Ph3 (atacicept IgAN) ⚡CAMBIO
+       Status: Completado
+       Enrollment: 155 pacientes
+       Primary completion: 2023-05-19
+       Última actualización: 2026-04-24
+       → https://clinicaltrials.gov/study/NCT04287985
+
+  [ACRV]
+    🔴 Ph2 (ACR-368 + OncoSignature) ⚡CAMBIO
+       Status: Terminado anticipadamente
+       Enrollment: 12 pacientes
+       Primary completion: 2023-09-14
+       Última actualización: 2025-03-07
+       → https://clinicaltrials.gov/study/NCT05116774
+
+  [TARA]
+    🔴 Ph2 (TARA-002 LM) ⚡CAMBIO
+       Status: Suspendido
+       Enrollment: 420 pacientes
+       Primary completion: 2025-03
+       Última actualización: 2023-04-26
+       → https://clinicaltrials.gov/study/NCT03002103
+
+  [INSM]
+    🔴 ASPEN Ph3 (brensocatib bronchiectasis) ⚡CAMBIO
+       Status: Terminado anticipadamente
+       Enrollment: 33 pacientes
+       Primary completion: 2020-08-12
+       Última actualización: 2020-08-26
+       → https://clinicaltrials.gov/study/NCT04053543
 
 ══════════════════════════════════════════════════════════════
-Fuente: SEC EDGAR API pública · data.sec.gov
-Modelo Biotech v3.0 · Módulo 1: SEC EDGAR Monitor v2
+Fuentes: SEC EDGAR API · ClinicalTrials.gov API v2
+Modelo Biotech v3.0 · SEC EDGAR Monitor v3
 ══════════════════════════════════════════════════════════════

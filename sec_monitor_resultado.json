@@ -1,225 +1,199 @@
 {
-  "generado": "20/06/2026 12:44",
-  "periodo_dias": 7,
-  "desde": "2026-06-13",
-  "hasta": "2026-06-20",
+  "generado": "21/06/2026 10:44",
+  "periodo_dias": 1,
+  "desde": "2026-06-20",
+  "hasta": "2026-06-21",
   "resumen": {
-    "total_filings": 10,
+    "total_filings": 0,
     "alertas_rojas": 0,
     "alertas_verdes": 0,
-    "alertas_amarillas": 8,
-    "alertas_azules": 2,
-    "sin_novedad": 15
+    "alertas_amarillas": 0,
+    "alertas_azules": 0,
+    "sin_novedad": 17
   },
   "tickers": {
     "SNDX": {
-      "nombre": "Syndax Pharmaceuticals",
+      "nombre": "Syndax Pharmaceuticals Inc",
+      "nombre_esperado": "Syndax Pharmaceuticals",
+      "cik": "0001395937",
+      "origen_cik": "SEC company_tickers.json",
+      "validacion_empresa": "OK",
       "filings": [],
       "nivel": "ok",
       "badge": "✅",
       "error": null
     },
     "ARGX": {
-      "nombre": "argenx SE",
+      "nombre": "ARGENX SE",
+      "nombre_esperado": "argenx SE",
+      "cik": "0001697862",
+      "origen_cik": "SEC company_tickers.json",
+      "validacion_empresa": "OK",
       "filings": [],
       "nivel": "ok",
       "badge": "✅",
       "error": null
     },
     "DYN": {
-      "nombre": "Dyne Therapeutics",
+      "nombre": "Dyne Therapeutics, Inc.",
+      "nombre_esperado": "Dyne Therapeutics",
+      "cik": "0001818794",
+      "origen_cik": "SEC company_tickers.json",
+      "validacion_empresa": "OK",
       "filings": [],
       "nivel": "ok",
       "badge": "✅",
       "error": null
     },
     "DNLI": {
-      "nombre": "Denali Therapeutics",
+      "nombre": "Denali Therapeutics Inc.",
+      "nombre_esperado": "Denali Therapeutics",
+      "cik": "0001714899",
+      "origen_cik": "SEC company_tickers.json",
+      "validacion_empresa": "OK",
       "filings": [],
       "nivel": "ok",
       "badge": "✅",
       "error": null
     },
     "VKTX": {
-      "nombre": "Viking Therapeutics",
+      "nombre": "Viking Therapeutics, Inc.",
+      "nombre_esperado": "Viking Therapeutics",
+      "cik": "0001607678",
+      "origen_cik": "SEC company_tickers.json",
+      "validacion_empresa": "OK",
       "filings": [],
       "nivel": "ok",
       "badge": "✅",
       "error": null
     },
     "VRTX": {
-      "nombre": "Vertex Pharmaceuticals",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-06-17",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
-          "detalle": "FORM 4",
-          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000235/xslF345X06/wk-form4_1781727153.xml"
-        }
-      ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
+      "nombre_esperado": "Vertex Pharmaceuticals",
+      "cik": "0000875320",
+      "origen_cik": "SEC company_tickers.json",
+      "validacion_empresa": "OK",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "ALNY": {
-      "nombre": "Alnylam Pharmaceuticals",
+      "nombre": "ALNYLAM PHARMACEUTICALS, INC.",
+      "nombre_esperado": "Alnylam Pharmaceuticals",
+      "cik": "0001178670",
+      "origen_cik": "SEC company_tickers.json",
+      "validacion_empresa": "OK",
       "filings": [],
       "nivel": "ok",
       "badge": "✅",
       "error": null
     },
     "BEAM": {
-      "nombre": "Beam Therapeutics",
+      "nombre": "Beam Therapeutics Inc.",
+      "nombre_esperado": "Beam Therapeutics",
+      "cik": "0001745999",
+      "origen_cik": "SEC company_tickers.json",
+      "validacion_empresa": "OK",
       "filings": [],
       "nivel": "ok",
       "badge": "✅",
       "error": null
     },
     "OCUL": {
-      "nombre": "Ocular Therapeutix",
+      "nombre": "OCULAR THERAPEUTIX, INC",
+      "nombre_esperado": "Ocular Therapeutix",
+      "cik": "0001393434",
+      "origen_cik": "SEC company_tickers.json",
+      "validacion_empresa": "OK",
       "filings": [],
       "nivel": "ok",
       "badge": "✅",
       "error": null
     },
     "CAI": {
-      "nombre": "Caris Life Sciences",
+      "nombre": "Caris Life Sciences, Inc.",
+      "nombre_esperado": "Caris Life Sciences",
+      "cik": "0002019410",
+      "origen_cik": "SEC company_tickers.json",
+      "validacion_empresa": "OK",
       "filings": [],
       "nivel": "ok",
       "badge": "✅",
       "error": null
     },
     "GPCR": {
-      "nombre": "Structure Therapeutics",
+      "nombre": "Structure Therapeutics Inc.",
+      "nombre_esperado": "Structure Therapeutics",
+      "cik": "0001888886",
+      "origen_cik": "SEC company_tickers.json",
+      "validacion_empresa": "OK",
       "filings": [],
       "nivel": "ok",
       "badge": "✅",
       "error": null
     },
     "ABVX": {
-      "nombre": "Abivax SA",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-06-18",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
-          "detalle": "xslF345X06/form4.xml",
-          "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000247/xslF345X06/form4.xml"
-        },
-        {
-          "form": "4",
-          "fecha": "2026-06-18",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
-          "detalle": "xslF345X06/form4.xml",
-          "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000246/xslF345X06/form4.xml"
-        },
-        {
-          "form": "4",
-          "fecha": "2026-06-18",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
-          "detalle": "xslF345X06/form4.xml",
-          "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000245/xslF345X06/form4.xml"
-        },
-        {
-          "form": "4",
-          "fecha": "2026-06-18",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
-          "detalle": "xslF345X06/form4.xml",
-          "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000244/xslF345X06/form4.xml"
-        },
-        {
-          "form": "4",
-          "fecha": "2026-06-18",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
-          "detalle": "xslF345X06/form4.xml",
-          "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000243/xslF345X06/form4.xml"
-        },
-        {
-          "form": "4",
-          "fecha": "2026-06-17",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
-          "detalle": "xslF345X06/form4.xml",
-          "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000230/xslF345X06/form4.xml"
-        },
-        {
-          "form": "4",
-          "fecha": "2026-06-15",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Form 4 — Insider transaction detectada",
-          "detalle": "xslF345X06/form4.xml",
-          "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000216/xslF345X06/form4.xml"
-        }
-      ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nombre": "Abivax S.A.",
+      "nombre_esperado": "Abivax SA",
+      "cik": "0001956827",
+      "origen_cik": "SEC company_tickers.json",
+      "validacion_empresa": "OK",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "VERA": {
-      "nombre": "Vera Therapeutics",
+      "nombre": "Vera Therapeutics, Inc.",
+      "nombre_esperado": "Vera Therapeutics",
+      "cik": "0001831828",
+      "origen_cik": "SEC company_tickers.json",
+      "validacion_empresa": "OK",
       "filings": [],
       "nivel": "ok",
       "badge": "✅",
       "error": null
     },
     "ACRV": {
-      "nombre": "Acrivon Therapeutics",
+      "nombre": "Acrivon Therapeutics, Inc.",
+      "nombre_esperado": "Acrivon Therapeutics",
+      "cik": "0001781174",
+      "origen_cik": "SEC company_tickers.json",
+      "validacion_empresa": "OK",
       "filings": [],
       "nivel": "ok",
       "badge": "✅",
       "error": null
     },
     "TARA": {
-      "nombre": "Protara Therapeutics",
-      "filings": [
-        {
-          "form": "8-K",
-          "fecha": "2026-06-18",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "8-K — Evento material. Revisar.",
-          "detalle": "8-K",
-          "url": "https://www.sec.gov/Archives/edgar/data/1372514/000137251426000063/kprx-20260618.htm"
-        }
-      ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "nombre": "Protara Therapeutics, Inc.",
+      "nombre_esperado": "Protara Therapeutics",
+      "cik": "0001359931",
+      "origen_cik": "SEC company_tickers.json",
+      "validacion_empresa": "OK",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "SENS": {
-      "nombre": "Senseonics Holdings",
-      "filings": [
-        {
-          "form": "8-K",
-          "fecha": "2026-06-18",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "8-K — Evento material. Revisar.",
-          "detalle": "8-K",
-          "url": "https://www.sec.gov/Archives/edgar/data/1289419/000128941926000033/morn-20260618.htm"
-        }
-      ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "nombre": "Senseonics Holdings, Inc.",
+      "nombre_esperado": "Senseonics Holdings",
+      "cik": "0001616543",
+      "origen_cik": "SEC company_tickers.json",
+      "validacion_empresa": "OK",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "INSM": {
-      "nombre": "Insmed Inc",
+      "nombre": "INSMED Inc",
+      "nombre_esperado": "Insmed Inc",
+      "cik": "0001104506",
+      "origen_cik": "SEC company_tickers.json",
+      "validacion_empresa": "OK",
       "filings": [],
       "nivel": "ok",
       "badge": "✅",
@@ -231,133 +205,8 @@
       "nivel": "na",
       "badge": "⚪",
       "error": "Sin CIK SEC"
-    },
-    "NRIX": {
-      "nombre": "Nurix Therapeutics",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
-      "error": null
-    },
-    "GENB": {
-      "nombre": "Generate Biomedicines",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
-      "error": null
     }
   },
   "alertas_criticas": [],
-  "todos_filings": [
-    {
-      "ticker": "ABVX",
-      "nombre": "Abivax SA",
-      "form": "4",
-      "fecha": "2026-06-18",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
-      "detalle": "xslF345X06/form4.xml",
-      "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000247/xslF345X06/form4.xml"
-    },
-    {
-      "ticker": "ABVX",
-      "nombre": "Abivax SA",
-      "form": "4",
-      "fecha": "2026-06-18",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
-      "detalle": "xslF345X06/form4.xml",
-      "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000246/xslF345X06/form4.xml"
-    },
-    {
-      "ticker": "ABVX",
-      "nombre": "Abivax SA",
-      "form": "4",
-      "fecha": "2026-06-18",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
-      "detalle": "xslF345X06/form4.xml",
-      "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000245/xslF345X06/form4.xml"
-    },
-    {
-      "ticker": "ABVX",
-      "nombre": "Abivax SA",
-      "form": "4",
-      "fecha": "2026-06-18",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
-      "detalle": "xslF345X06/form4.xml",
-      "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000244/xslF345X06/form4.xml"
-    },
-    {
-      "ticker": "ABVX",
-      "nombre": "Abivax SA",
-      "form": "4",
-      "fecha": "2026-06-18",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
-      "detalle": "xslF345X06/form4.xml",
-      "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000243/xslF345X06/form4.xml"
-    },
-    {
-      "ticker": "TARA",
-      "nombre": "Protara Therapeutics",
-      "form": "8-K",
-      "fecha": "2026-06-18",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "8-K — Evento material. Revisar.",
-      "detalle": "8-K",
-      "url": "https://www.sec.gov/Archives/edgar/data/1372514/000137251426000063/kprx-20260618.htm"
-    },
-    {
-      "ticker": "SENS",
-      "nombre": "Senseonics Holdings",
-      "form": "8-K",
-      "fecha": "2026-06-18",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "8-K — Evento material. Revisar.",
-      "detalle": "8-K",
-      "url": "https://www.sec.gov/Archives/edgar/data/1289419/000128941926000033/morn-20260618.htm"
-    },
-    {
-      "ticker": "VRTX",
-      "nombre": "Vertex Pharmaceuticals",
-      "form": "4",
-      "fecha": "2026-06-17",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
-      "detalle": "FORM 4",
-      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000235/xslF345X06/wk-form4_1781727153.xml"
-    },
-    {
-      "ticker": "ABVX",
-      "nombre": "Abivax SA",
-      "form": "4",
-      "fecha": "2026-06-17",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
-      "detalle": "xslF345X06/form4.xml",
-      "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000230/xslF345X06/form4.xml"
-    },
-    {
-      "ticker": "ABVX",
-      "nombre": "Abivax SA",
-      "form": "4",
-      "fecha": "2026-06-15",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Form 4 — Insider transaction detectada",
-      "detalle": "xslF345X06/form4.xml",
-      "url": "https://www.sec.gov/Archives/edgar/data/1628171/000161071726000216/xslF345X06/form4.xml"
-    }
-  ]
+  "todos_filings": []
 }

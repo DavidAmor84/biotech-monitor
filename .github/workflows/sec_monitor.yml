@@ -18,7 +18,7 @@ jobs:
           python-version: '3.12'
 
       - name: Ejecutar SEC EDGAR Monitor
-        run: python sec_edgar_monitor.py 1
+        run: python sec_edgar_monitor.py 7
 
       - name: Guardar JSON actualizado
         uses: stefanzweifel/git-auto-commit-action@v5

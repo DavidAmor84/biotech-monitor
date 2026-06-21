@@ -1,30 +1,128 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR · Modelo Biotech v3.0
-Generado: 21/06/2026 10:44 | Período: últimos 1 días
-Desde: 2026-06-20 → Hasta: 2026-06-21
+Generado: 21/06/2026 11:07 | Período: últimos 7 días
+Desde: 2026-06-14 → Hasta: 2026-06-21
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 0 filings | 🔴 0 | 🟢 0 | 🟡 0 | 🔵 0 | ✅ 17 sin novedad
+RESUMEN: 30 filings | 🔴 0 | 🟢 0 | 🟡 25 | 🔵 5 | ✅ 9 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER
 ──────────────────────────────────────────────────
   ✅ [SNDX] Sin novedades
   ✅ [ARGX] Sin novedades
-  ✅ [DYN] Sin novedades
-  ✅ [DNLI] Sin novedades
+
+  🟡 [DYN] Dyne Therapeutics, Inc. — 4 filing(s)
+     🟡 MEDIA 4 | 2026-06-17 | Form 4 — Insider transaction detectada
+     Empresa SEC: Dyne Therapeutics, Inc.
+     → https://www.sec.gov/Archives/edgar/data/1818794/000181418926000002/xslF345X06/ownership.xml
+     🟡 MEDIA 4 | 2026-06-17 | Form 4 — Insider transaction detectada
+     Empresa SEC: Dyne Therapeutics, Inc.
+     → https://www.sec.gov/Archives/edgar/data/1818794/000191559826000002/xslF345X06/ownership.xml
+     🟡 MEDIA 4 | 2026-06-17 | Form 4 — Insider transaction detectada
+     Empresa SEC: Dyne Therapeutics, Inc.
+     → https://www.sec.gov/Archives/edgar/data/1818794/000149842826000002/xslF345X06/ownership.xml
+     🔵 INFO 8-K | 2026-06-17 | 8-K — Evento material. Revisar.
+     Empresa SEC: Dyne Therapeutics, Inc.
+     → https://www.sec.gov/Archives/edgar/data/1818794/000181879426000003/dyn-20260616.htm
+
+  🔵 [DNLI] Denali Therapeutics Inc. — 1 filing(s)
+     🔵 INFO 8-K | 2026-06-18 | 8-K — Evento material. Revisar.
+     Empresa SEC: Denali Therapeutics Inc.
+     → https://www.sec.gov/Archives/edgar/data/1714899/000171489926000081/dnli-20260612.htm
   ✅ [VKTX] Sin novedades
-  ✅ [VRTX] Sin novedades
+
+  🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 1 filing(s)
+     🟡 MEDIA 4 | 2026-06-17 | Form 4 — Insider transaction detectada
+     Empresa SEC: VERTEX PHARMACEUTICALS INC / MA
+     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000235/xslF345X06/wk-form4_1781727153.xml
   ✅ [ALNY] Sin novedades
   ✅ [BEAM] Sin novedades
-  ✅ [OCUL] Sin novedades
+
+  🟡 [OCUL] OCULAR THERAPEUTIX, INC — 1 filing(s)
+     🟡 MEDIA 4 | 2026-06-18 | Form 4 — Insider transaction detectada
+     Empresa SEC: OCULAR THERAPEUTIX, INC
+     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926075709/xslF345X06/tm2618141-1_4seq1.xml
   ✅ [CAI] Sin novedades
-  ✅ [GPCR] Sin novedades
+
+  🟡 [GPCR] Structure Therapeutics Inc. — 7 filing(s)
+     🟡 MEDIA 4 | 2026-06-18 | Form 4 — Insider transaction detectada
+     Empresa SEC: Structure Therapeutics Inc.
+     → https://www.sec.gov/Archives/edgar/data/1888886/000153400226000002/xslF345X06/form4-06182026_050614.xml
+     🟡 MEDIA 4 | 2026-06-18 | Form 4 — Insider transaction detectada
+     Empresa SEC: Structure Therapeutics Inc.
+     → https://www.sec.gov/Archives/edgar/data/1888886/000118891926000010/xslF345X06/form4-06182026_050611.xml
+     🟡 MEDIA 4 | 2026-06-18 | Form 4 — Insider transaction detectada
+     Empresa SEC: Structure Therapeutics Inc.
+     → https://www.sec.gov/Archives/edgar/data/1888886/000196241326000002/xslF345X06/form4-06182026_050609.xml
+     🟡 MEDIA 4 | 2026-06-18 | Form 4 — Insider transaction detectada
+     Empresa SEC: Structure Therapeutics Inc.
+     → https://www.sec.gov/Archives/edgar/data/1888886/000120278526000004/xslF345X06/form4-06182026_050606.xml
+     🟡 MEDIA 4 | 2026-06-18 | Form 4 — Insider transaction detectada
+     Empresa SEC: Structure Therapeutics Inc.
+     → https://www.sec.gov/Archives/edgar/data/1888886/000132856526000002/xslF345X06/form4-06182026_050604.xml
+     🟡 MEDIA 4 | 2026-06-18 | Form 4 — Insider transaction detectada
+     Empresa SEC: Structure Therapeutics Inc.
+     → https://www.sec.gov/Archives/edgar/data/1888886/000120619926000002/xslF345X06/form4-06182026_050603.xml
+     🔵 INFO 8-K | 2026-06-18 | 8-K — Evento material. Revisar.
+     Empresa SEC: Structure Therapeutics Inc.
+     → https://www.sec.gov/Archives/edgar/data/1888886/000110465926075720/tm2618249d1_8k.htm
   ✅ [ABVX] Sin novedades
   ✅ [VERA] Sin novedades
-  ✅ [ACRV] Sin novedades
-  ✅ [TARA] Sin novedades
-  ✅ [SENS] Sin novedades
+
+  🔵 [ACRV] Acrivon Therapeutics, Inc. — 1 filing(s)
+     🔵 INFO 8-K | 2026-06-17 | 8-K — Evento material. Revisar.
+     Empresa SEC: Acrivon Therapeutics, Inc.
+     → https://www.sec.gov/Archives/edgar/data/1781174/000119312526274410/acrv-20260617.htm
+
+  🟡 [TARA] Protara Therapeutics, Inc. — 9 filing(s)
+     🟡 MEDIA 4 | 2026-06-16 | Form 4 — Insider transaction detectada
+     Empresa SEC: Protara Therapeutics, Inc.
+     → https://www.sec.gov/Archives/edgar/data/1359931/000121390026069250/xslF345X06/marketforms-73187.xml
+     🟡 MEDIA 4 | 2026-06-16 | Form 4 — Insider transaction detectada
+     Empresa SEC: Protara Therapeutics, Inc.
+     → https://www.sec.gov/Archives/edgar/data/1359931/000121390026069249/xslF345X06/marketforms-73186.xml
+     🟡 MEDIA 4 | 2026-06-16 | Form 4 — Insider transaction detectada
+     Empresa SEC: Protara Therapeutics, Inc.
+     → https://www.sec.gov/Archives/edgar/data/1359931/000121390026069248/xslF345X06/marketforms-73185.xml
+     🟡 MEDIA 4 | 2026-06-16 | Form 4 — Insider transaction detectada
+     Empresa SEC: Protara Therapeutics, Inc.
+     → https://www.sec.gov/Archives/edgar/data/1359931/000121390026069247/xslF345X06/marketforms-73184.xml
+     🟡 MEDIA 4 | 2026-06-16 | Form 4 — Insider transaction detectada
+     Empresa SEC: Protara Therapeutics, Inc.
+     → https://www.sec.gov/Archives/edgar/data/1359931/000121390026069246/xslF345X06/marketforms-73183.xml
+     🟡 MEDIA 4 | 2026-06-16 | Form 4 — Insider transaction detectada
+     Empresa SEC: Protara Therapeutics, Inc.
+     → https://www.sec.gov/Archives/edgar/data/1359931/000121390026069245/xslF345X06/marketforms-73182.xml
+     🟡 MEDIA 4 | 2026-06-16 | Form 4 — Insider transaction detectada
+     Empresa SEC: Protara Therapeutics, Inc.
+     → https://www.sec.gov/Archives/edgar/data/1359931/000121390026069244/xslF345X06/marketforms-73181.xml
+     🟡 MEDIA 4 | 2026-06-16 | Form 4 — Insider transaction detectada
+     Empresa SEC: Protara Therapeutics, Inc.
+     → https://www.sec.gov/Archives/edgar/data/1359931/000121390026069243/xslF345X06/marketforms-73180.xml
+     🔵 INFO 8-K | 2026-06-15 | 8-K — Evento material. Revisar.
+     Empresa SEC: Protara Therapeutics, Inc.
+     → https://www.sec.gov/Archives/edgar/data/1359931/000121390026068774/ea0294030-8k_protara.htm
+
+  🟡 [SENS] Senseonics Holdings, Inc. — 6 filing(s)
+     🟡 MEDIA 4 | 2026-06-17 | Form 4 — Insider transaction detectada
+     Empresa SEC: Senseonics Holdings, Inc.
+     → https://www.sec.gov/Archives/edgar/data/1616543/000176979126000006/xslF345X06/form4-06172026_040617.xml
+     🟡 MEDIA 4 | 2026-06-17 | Form 4 — Insider transaction detectada
+     Empresa SEC: Senseonics Holdings, Inc.
+     → https://www.sec.gov/Archives/edgar/data/1616543/000166759326000006/xslF345X06/form4-06172026_040616.xml
+     🟡 MEDIA 4 | 2026-06-17 | Form 4 — Insider transaction detectada
+     Empresa SEC: Senseonics Holdings, Inc.
+     → https://www.sec.gov/Archives/edgar/data/1616543/000194453926000006/xslF345X06/form4-06172026_040619.xml
+     🟡 MEDIA 4 | 2026-06-17 | Form 4 — Insider transaction detectada
+     Empresa SEC: Senseonics Holdings, Inc.
+     → https://www.sec.gov/Archives/edgar/data/1616543/000155204726000006/xslF345X06/form4-06172026_040614.xml
+     🟡 MEDIA 4 | 2026-06-17 | Form 4 — Insider transaction detectada
+     Empresa SEC: Senseonics Holdings, Inc.
+     → https://www.sec.gov/Archives/edgar/data/1616543/000154237726000004/xslF345X06/form4-06172026_040612.xml
+     🟡 MEDIA 4 | 2026-06-17 | Form 4 — Insider transaction detectada
+     Empresa SEC: Senseonics Holdings, Inc.
+     → https://www.sec.gov/Archives/edgar/data/1616543/000166758826000008/xslF345X06/form4-06172026_040610.xml
   ✅ [INSM] Sin novedades
 
 ══════════════════════════════════════════════════════════════

@@ -1,15 +1,15 @@
 {
-  "generado": "21/06/2026 10:44",
-  "periodo_dias": 1,
-  "desde": "2026-06-20",
+  "generado": "21/06/2026 11:07",
+  "periodo_dias": 7,
+  "desde": "2026-06-14",
   "hasta": "2026-06-21",
   "resumen": {
-    "total_filings": 0,
+    "total_filings": 30,
     "alertas_rojas": 0,
     "alertas_verdes": 0,
-    "alertas_amarillas": 0,
-    "alertas_azules": 0,
-    "sin_novedad": 17
+    "alertas_amarillas": 25,
+    "alertas_azules": 5,
+    "sin_novedad": 9
   },
   "tickers": {
     "SNDX": {
@@ -40,9 +40,50 @@
       "cik": "0001818794",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-06-17",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "4",
+          "empresa_sec": "Dyne Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181418926000002/xslF345X06/ownership.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-17",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "4",
+          "empresa_sec": "Dyne Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000191559826000002/xslF345X06/ownership.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-17",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "4",
+          "empresa_sec": "Dyne Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000149842826000002/xslF345X06/ownership.xml"
+        },
+        {
+          "form": "8-K",
+          "fecha": "2026-06-17",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Evento material. Revisar.",
+          "detalle": "8-K",
+          "empresa_sec": "Dyne Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181879426000003/dyn-20260616.htm"
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "DNLI": {
@@ -51,9 +92,20 @@
       "cik": "0001714899",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "8-K",
+          "fecha": "2026-06-18",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Evento material. Revisar.",
+          "detalle": "8-K",
+          "empresa_sec": "Denali Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000081/dnli-20260612.htm"
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "VKTX": {
@@ -73,9 +125,20 @@
       "cik": "0000875320",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-06-17",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "FORM 4",
+          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000235/xslF345X06/wk-form4_1781727153.xml"
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "ALNY": {
@@ -106,9 +169,20 @@
       "cik": "0001393434",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-06-18",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "OWNERSHIP DOCUMENT",
+          "empresa_sec": "OCULAR THERAPEUTIX, INC",
+          "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926075709/xslF345X06/tm2618141-1_4seq1.xml"
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "CAI": {
@@ -128,9 +202,80 @@
       "cik": "0001888886",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-06-18",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4-06182026_050614.xml",
+          "empresa_sec": "Structure Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000153400226000002/xslF345X06/form4-06182026_050614.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-18",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4-06182026_050611.xml",
+          "empresa_sec": "Structure Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000118891926000010/xslF345X06/form4-06182026_050611.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-18",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4-06182026_050609.xml",
+          "empresa_sec": "Structure Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000196241326000002/xslF345X06/form4-06182026_050609.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-18",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4-06182026_050606.xml",
+          "empresa_sec": "Structure Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000120278526000004/xslF345X06/form4-06182026_050606.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-18",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4-06182026_050604.xml",
+          "empresa_sec": "Structure Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000132856526000002/xslF345X06/form4-06182026_050604.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-18",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4-06182026_050603.xml",
+          "empresa_sec": "Structure Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000120619926000002/xslF345X06/form4-06182026_050603.xml"
+        },
+        {
+          "form": "8-K",
+          "fecha": "2026-06-18",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Evento material. Revisar.",
+          "detalle": "FORM 8-K",
+          "empresa_sec": "Structure Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000110465926075720/tm2618249d1_8k.htm"
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "ABVX": {
@@ -161,9 +306,20 @@
       "cik": "0001781174",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "8-K",
+          "fecha": "2026-06-17",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Evento material. Revisar.",
+          "detalle": "8-K",
+          "empresa_sec": "Acrivon Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526274410/acrv-20260617.htm"
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "TARA": {
@@ -172,9 +328,100 @@
       "cik": "0001359931",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-06-16",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "PRIMARY DOCUMENT",
+          "empresa_sec": "Protara Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069250/xslF345X06/marketforms-73187.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-16",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "PRIMARY DOCUMENT",
+          "empresa_sec": "Protara Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069249/xslF345X06/marketforms-73186.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-16",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "PRIMARY DOCUMENT",
+          "empresa_sec": "Protara Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069248/xslF345X06/marketforms-73185.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-16",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "PRIMARY DOCUMENT",
+          "empresa_sec": "Protara Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069247/xslF345X06/marketforms-73184.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-16",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "PRIMARY DOCUMENT",
+          "empresa_sec": "Protara Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069246/xslF345X06/marketforms-73183.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-16",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "PRIMARY DOCUMENT",
+          "empresa_sec": "Protara Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069245/xslF345X06/marketforms-73182.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-16",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "PRIMARY DOCUMENT",
+          "empresa_sec": "Protara Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069244/xslF345X06/marketforms-73181.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-16",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "PRIMARY DOCUMENT",
+          "empresa_sec": "Protara Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069243/xslF345X06/marketforms-73180.xml"
+        },
+        {
+          "form": "8-K",
+          "fecha": "2026-06-15",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Evento material. Revisar.",
+          "detalle": "CURRENT REPORT",
+          "empresa_sec": "Protara Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026068774/ea0294030-8k_protara.htm"
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "SENS": {
@@ -183,9 +430,70 @@
       "cik": "0001616543",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-06-17",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4-06172026_040617.xml",
+          "empresa_sec": "Senseonics Holdings, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000176979126000006/xslF345X06/form4-06172026_040617.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-17",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4-06172026_040616.xml",
+          "empresa_sec": "Senseonics Holdings, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000166759326000006/xslF345X06/form4-06172026_040616.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-17",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4-06172026_040619.xml",
+          "empresa_sec": "Senseonics Holdings, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000194453926000006/xslF345X06/form4-06172026_040619.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-17",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4-06172026_040614.xml",
+          "empresa_sec": "Senseonics Holdings, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000155204726000006/xslF345X06/form4-06172026_040614.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-17",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4-06172026_040612.xml",
+          "empresa_sec": "Senseonics Holdings, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000154237726000004/xslF345X06/form4-06172026_040612.xml"
+        },
+        {
+          "form": "4",
+          "fecha": "2026-06-17",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Form 4 — Insider transaction detectada",
+          "detalle": "xslF345X06/form4-06172026_040610.xml",
+          "empresa_sec": "Senseonics Holdings, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000166758826000008/xslF345X06/form4-06172026_040610.xml"
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "INSM": {
@@ -208,5 +516,366 @@
     }
   },
   "alertas_criticas": [],
-  "todos_filings": []
+  "todos_filings": [
+    {
+      "ticker": "DNLI",
+      "nombre": "Denali Therapeutics Inc.",
+      "form": "8-K",
+      "fecha": "2026-06-18",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Evento material. Revisar.",
+      "detalle": "8-K",
+      "empresa_sec": "Denali Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000081/dnli-20260612.htm"
+    },
+    {
+      "ticker": "OCUL",
+      "nombre": "OCULAR THERAPEUTIX, INC",
+      "form": "4",
+      "fecha": "2026-06-18",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "OWNERSHIP DOCUMENT",
+      "empresa_sec": "OCULAR THERAPEUTIX, INC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926075709/xslF345X06/tm2618141-1_4seq1.xml"
+    },
+    {
+      "ticker": "GPCR",
+      "nombre": "Structure Therapeutics Inc.",
+      "form": "4",
+      "fecha": "2026-06-18",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4-06182026_050614.xml",
+      "empresa_sec": "Structure Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000153400226000002/xslF345X06/form4-06182026_050614.xml"
+    },
+    {
+      "ticker": "GPCR",
+      "nombre": "Structure Therapeutics Inc.",
+      "form": "4",
+      "fecha": "2026-06-18",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4-06182026_050611.xml",
+      "empresa_sec": "Structure Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000118891926000010/xslF345X06/form4-06182026_050611.xml"
+    },
+    {
+      "ticker": "GPCR",
+      "nombre": "Structure Therapeutics Inc.",
+      "form": "4",
+      "fecha": "2026-06-18",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4-06182026_050609.xml",
+      "empresa_sec": "Structure Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000196241326000002/xslF345X06/form4-06182026_050609.xml"
+    },
+    {
+      "ticker": "GPCR",
+      "nombre": "Structure Therapeutics Inc.",
+      "form": "4",
+      "fecha": "2026-06-18",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4-06182026_050606.xml",
+      "empresa_sec": "Structure Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000120278526000004/xslF345X06/form4-06182026_050606.xml"
+    },
+    {
+      "ticker": "GPCR",
+      "nombre": "Structure Therapeutics Inc.",
+      "form": "4",
+      "fecha": "2026-06-18",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4-06182026_050604.xml",
+      "empresa_sec": "Structure Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000132856526000002/xslF345X06/form4-06182026_050604.xml"
+    },
+    {
+      "ticker": "GPCR",
+      "nombre": "Structure Therapeutics Inc.",
+      "form": "4",
+      "fecha": "2026-06-18",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4-06182026_050603.xml",
+      "empresa_sec": "Structure Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000120619926000002/xslF345X06/form4-06182026_050603.xml"
+    },
+    {
+      "ticker": "GPCR",
+      "nombre": "Structure Therapeutics Inc.",
+      "form": "8-K",
+      "fecha": "2026-06-18",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Evento material. Revisar.",
+      "detalle": "FORM 8-K",
+      "empresa_sec": "Structure Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000110465926075720/tm2618249d1_8k.htm"
+    },
+    {
+      "ticker": "DYN",
+      "nombre": "Dyne Therapeutics, Inc.",
+      "form": "4",
+      "fecha": "2026-06-17",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "4",
+      "empresa_sec": "Dyne Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181418926000002/xslF345X06/ownership.xml"
+    },
+    {
+      "ticker": "DYN",
+      "nombre": "Dyne Therapeutics, Inc.",
+      "form": "4",
+      "fecha": "2026-06-17",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "4",
+      "empresa_sec": "Dyne Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000191559826000002/xslF345X06/ownership.xml"
+    },
+    {
+      "ticker": "DYN",
+      "nombre": "Dyne Therapeutics, Inc.",
+      "form": "4",
+      "fecha": "2026-06-17",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "4",
+      "empresa_sec": "Dyne Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000149842826000002/xslF345X06/ownership.xml"
+    },
+    {
+      "ticker": "DYN",
+      "nombre": "Dyne Therapeutics, Inc.",
+      "form": "8-K",
+      "fecha": "2026-06-17",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Evento material. Revisar.",
+      "detalle": "8-K",
+      "empresa_sec": "Dyne Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181879426000003/dyn-20260616.htm"
+    },
+    {
+      "ticker": "VRTX",
+      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
+      "form": "4",
+      "fecha": "2026-06-17",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "FORM 4",
+      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000235/xslF345X06/wk-form4_1781727153.xml"
+    },
+    {
+      "ticker": "ACRV",
+      "nombre": "Acrivon Therapeutics, Inc.",
+      "form": "8-K",
+      "fecha": "2026-06-17",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Evento material. Revisar.",
+      "detalle": "8-K",
+      "empresa_sec": "Acrivon Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526274410/acrv-20260617.htm"
+    },
+    {
+      "ticker": "SENS",
+      "nombre": "Senseonics Holdings, Inc.",
+      "form": "4",
+      "fecha": "2026-06-17",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4-06172026_040617.xml",
+      "empresa_sec": "Senseonics Holdings, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000176979126000006/xslF345X06/form4-06172026_040617.xml"
+    },
+    {
+      "ticker": "SENS",
+      "nombre": "Senseonics Holdings, Inc.",
+      "form": "4",
+      "fecha": "2026-06-17",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4-06172026_040616.xml",
+      "empresa_sec": "Senseonics Holdings, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000166759326000006/xslF345X06/form4-06172026_040616.xml"
+    },
+    {
+      "ticker": "SENS",
+      "nombre": "Senseonics Holdings, Inc.",
+      "form": "4",
+      "fecha": "2026-06-17",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4-06172026_040619.xml",
+      "empresa_sec": "Senseonics Holdings, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000194453926000006/xslF345X06/form4-06172026_040619.xml"
+    },
+    {
+      "ticker": "SENS",
+      "nombre": "Senseonics Holdings, Inc.",
+      "form": "4",
+      "fecha": "2026-06-17",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4-06172026_040614.xml",
+      "empresa_sec": "Senseonics Holdings, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000155204726000006/xslF345X06/form4-06172026_040614.xml"
+    },
+    {
+      "ticker": "SENS",
+      "nombre": "Senseonics Holdings, Inc.",
+      "form": "4",
+      "fecha": "2026-06-17",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4-06172026_040612.xml",
+      "empresa_sec": "Senseonics Holdings, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000154237726000004/xslF345X06/form4-06172026_040612.xml"
+    },
+    {
+      "ticker": "SENS",
+      "nombre": "Senseonics Holdings, Inc.",
+      "form": "4",
+      "fecha": "2026-06-17",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "xslF345X06/form4-06172026_040610.xml",
+      "empresa_sec": "Senseonics Holdings, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000166758826000008/xslF345X06/form4-06172026_040610.xml"
+    },
+    {
+      "ticker": "TARA",
+      "nombre": "Protara Therapeutics, Inc.",
+      "form": "4",
+      "fecha": "2026-06-16",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "PRIMARY DOCUMENT",
+      "empresa_sec": "Protara Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069250/xslF345X06/marketforms-73187.xml"
+    },
+    {
+      "ticker": "TARA",
+      "nombre": "Protara Therapeutics, Inc.",
+      "form": "4",
+      "fecha": "2026-06-16",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "PRIMARY DOCUMENT",
+      "empresa_sec": "Protara Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069249/xslF345X06/marketforms-73186.xml"
+    },
+    {
+      "ticker": "TARA",
+      "nombre": "Protara Therapeutics, Inc.",
+      "form": "4",
+      "fecha": "2026-06-16",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "PRIMARY DOCUMENT",
+      "empresa_sec": "Protara Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069248/xslF345X06/marketforms-73185.xml"
+    },
+    {
+      "ticker": "TARA",
+      "nombre": "Protara Therapeutics, Inc.",
+      "form": "4",
+      "fecha": "2026-06-16",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "PRIMARY DOCUMENT",
+      "empresa_sec": "Protara Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069247/xslF345X06/marketforms-73184.xml"
+    },
+    {
+      "ticker": "TARA",
+      "nombre": "Protara Therapeutics, Inc.",
+      "form": "4",
+      "fecha": "2026-06-16",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "PRIMARY DOCUMENT",
+      "empresa_sec": "Protara Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069246/xslF345X06/marketforms-73183.xml"
+    },
+    {
+      "ticker": "TARA",
+      "nombre": "Protara Therapeutics, Inc.",
+      "form": "4",
+      "fecha": "2026-06-16",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "PRIMARY DOCUMENT",
+      "empresa_sec": "Protara Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069245/xslF345X06/marketforms-73182.xml"
+    },
+    {
+      "ticker": "TARA",
+      "nombre": "Protara Therapeutics, Inc.",
+      "form": "4",
+      "fecha": "2026-06-16",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "PRIMARY DOCUMENT",
+      "empresa_sec": "Protara Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069244/xslF345X06/marketforms-73181.xml"
+    },
+    {
+      "ticker": "TARA",
+      "nombre": "Protara Therapeutics, Inc.",
+      "form": "4",
+      "fecha": "2026-06-16",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Form 4 — Insider transaction detectada",
+      "detalle": "PRIMARY DOCUMENT",
+      "empresa_sec": "Protara Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026069243/xslF345X06/marketforms-73180.xml"
+    },
+    {
+      "ticker": "TARA",
+      "nombre": "Protara Therapeutics, Inc.",
+      "form": "8-K",
+      "fecha": "2026-06-15",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Evento material. Revisar.",
+      "detalle": "CURRENT REPORT",
+      "empresa_sec": "Protara Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026068774/ea0294030-8k_protara.htm"
+    }
+  ]
 }

@@ -1,144 +1,184 @@
-======================================================================
-CLINICALTRIALS MONITOR v9.0 · Modelo Biotech
-Generado: 21/06/2026 16:44
-======================================================================
-RESUMEN: 18 ensayos | 🔴 0 | 🟢 5 | 🟡 0 | 🔵 13 | Errores: 0
+============================================================================
+CLINICALTRIALS MONITOR v9.1 · Modelo Biotech
+Generado: 21/06/2026 16:59
+============================================================================
+RESUMEN: 18 ensayos | Validación OK: 15 | Errores validación: 3 | 🔴 3 | 🟢 3 | 🟡 0 | 🔵 12 | Errores API: 0
 
-----------------------------------------------------------------------
+----------------------------------------------------------------------------
+❌ ERRORES DE VALIDACIÓN — POSIBLES NCT INCORRECTOS
+----------------------------------------------------------------------------
+
+[TARA] ADVANCED-2 — TARA-002 — NMIBC
+NCT: NCT05015946
+Sponsor detectado: University College of Northern Denmark
+Título detectado: Handball-based Exercise and Type 2 Diabetes
+Errores: Sponsor no coincide, Fármaco/intervención no coincide, Indicación no coincide
+Conditions: Type 2 Diabetes
+Interventions: Small-sided team handball training
+→ https://clinicaltrials.gov/study/NCT05015946
+
+[VKTX] VENTURE — VK2735 SC — obesidad
+NCT: NCT05948826
+Sponsor detectado: TORL Biotherapeutics, LLC
+Título detectado: First in Human Study of TORL-3-600 in Participants With Advanced Cancer
+Errores: Sponsor no coincide, Fármaco/intervención no coincide, Indicación no coincide
+Conditions: Advanced Solid Tumor, Colorectal Cancer
+Interventions: TORL-3-600
+→ https://clinicaltrials.gov/study/NCT05948826
+
+[VKTX] VANQUISH — VK2735 oral — obesidad
+NCT: NCT06119360
+Sponsor detectado: Kyung Hee University Hospital at Gangdong
+Título detectado: Comparison of Two Different Lightwand Intubation Techniques in Cervical Immobilized Patients
+Errores: Sponsor no coincide, Fármaco/intervención no coincide, Indicación no coincide
+Conditions: Intubation; Difficult or Failed
+Interventions: Face-to-face approach, Conventional approach
+→ https://clinicaltrials.gov/study/NCT06119360
+
+----------------------------------------------------------------------------
 ALERTAS / CAMBIOS
-----------------------------------------------------------------------
+----------------------------------------------------------------------------
 
 [DYN] 🔵 DELIVER — z-rostudirsen / DYNE-251 — DMD exon 51
 NCT: NCT05524883 | Status: ACTIVE_NOT_RECRUITING
 Primary completion: 2029-11
-  🔵 Primer registro en caché
+  🔵 Validación: — → True
 → https://clinicaltrials.gov/study/NCT05524883
 
 [DYN] 🔵 ACHIEVE — z-basivarsen / DYNE-101 — DM1
 NCT: NCT05481879 | Status: RECRUITING
 Primary completion: 2029-07
-  🔵 Primer registro en caché
+  🔵 Validación: — → True
 → https://clinicaltrials.gov/study/NCT05481879
 
 [DYN] 🔵 HARMONIA — z-basivarsen — DM1 confirmatorio
 NCT: NCT07486934 | Status: RECRUITING
 Primary completion: 2028-07
-  🔵 Primer registro en caché
+  🔵 Validación: — → True
 → https://clinicaltrials.gov/study/NCT07486934
 
-[OCUL] 🔵 SOL-1 — AXPAXLI — wet AMD
+[OCUL] 🔵 SOL-1 — AXPAXLI / OTX-TKI — wet AMD
 NCT: NCT06223958 | Status: ACTIVE_NOT_RECRUITING
 Primary completion: 2026-04-29
-  🔵 Primer registro en caché
+  🔵 Validación: — → True
 → https://clinicaltrials.gov/study/NCT06223958
 
-[OCUL] 🔵 SOL-R — AXPAXLI — wet AMD
+[OCUL] 🔵 SOL-R — AXPAXLI / OTX-TKI — wet AMD
 NCT: NCT06495918 | Status: ACTIVE_NOT_RECRUITING
 Primary completion: 2027-01-08
-  🔵 Primer registro en caché
+  🔵 Validación: — → True
 → https://clinicaltrials.gov/study/NCT06495918
 
-[TARA] 🟢 ADVANCED-2 — TARA-002 — NMIBC
+[TARA] ❌ ADVANCED-2 — TARA-002 — NMIBC
 NCT: NCT05015946 | Status: COMPLETED
 Primary completion: 2021-12-15
-  🔵 Primer registro en caché
+Validación: ❌ Sponsor no coincide, Fármaco/intervención no coincide, Indicación no coincide
+  ❌ Validación: — → False
+  ❌ Sponsor no coincide; Fármaco/intervención no coincide; Indicación no coincide
 → https://clinicaltrials.gov/study/NCT05015946
 
-[ABVX] 🟢 ABTECT-1 — obefazimod — UC
+[ABVX] 🟢 ABTECT-1 — obefazimod / ABX464 — UC
 NCT: NCT05507203 | Status: COMPLETED
 Primary completion: 2025-06-24
-  🔵 Primer registro en caché
+  🔵 Validación: — → True
 → https://clinicaltrials.gov/study/NCT05507203
 
-[ABVX] 🟢 ABTECT-2 — obefazimod — UC
+[ABVX] 🟢 ABTECT-2 — obefazimod / ABX464 — UC
 NCT: NCT05507216 | Status: COMPLETED
 Primary completion: 2025-06-24
-  🔵 Primer registro en caché
+  🔵 Validación: — → True
 → https://clinicaltrials.gov/study/NCT05507216
 
 [VERA] 🔵 ORIGIN 3 — atacicept — IgAN
 NCT: NCT04716231 | Status: ACTIVE_NOT_RECRUITING
 Primary completion: 2025-05-15
-  🔵 Primer registro en caché
+  🔵 Validación: — → True
 → https://clinicaltrials.gov/study/NCT04716231
 
 [SNDX] 🔵 AUGMENT-101 — revumenib — KMT2Ar/NPM1m leukemia
 NCT: NCT04065399 | Status: RECRUITING
 Primary completion: 2027-12-15
-  🔵 Primer registro en caché
+  🔵 Validación: — → True
 → https://clinicaltrials.gov/study/NCT04065399
 
 [SNDX] 🔵 REVEAL — revumenib — NPM1m AML frontline
 NCT: NCT07211958 | Status: RECRUITING
 Primary completion: 2029-06
-  🔵 Primer registro en caché
+  🔵 Validación: — → True
 → https://clinicaltrials.gov/study/NCT07211958
 
-[VKTX] 🔵 VENTURE — VK2735 SC — obesidad
+[VKTX] ❌ VENTURE — VK2735 SC — obesidad
 NCT: NCT05948826 | Status: ACTIVE_NOT_RECRUITING
 Primary completion: 2026-06-25
-  🔵 Primer registro en caché
+Validación: ❌ Sponsor no coincide, Fármaco/intervención no coincide, Indicación no coincide
+  ❌ Validación: — → False
+  ❌ Sponsor no coincide; Fármaco/intervención no coincide; Indicación no coincide
 → https://clinicaltrials.gov/study/NCT05948826
 
-[VKTX] 🟢 VANQUISH — VK2735 oral — obesidad
+[VKTX] ❌ VANQUISH — VK2735 oral — obesidad
 NCT: NCT06119360 | Status: COMPLETED
 Primary completion: 2019-02-13
-  🔵 Primer registro en caché
+Validación: ❌ Sponsor no coincide, Fármaco/intervención no coincide, Indicación no coincide
+  ❌ Validación: — → False
+  ❌ Sponsor no coincide; Fármaco/intervención no coincide; Indicación no coincide
 → https://clinicaltrials.gov/study/NCT06119360
 
 [BEAM] 🔵 BEACON — BEAM-101 / risto-cel — SCD
 NCT: NCT05456880 | Status: ACTIVE_NOT_RECRUITING
 Primary completion: 2028-02
-  🔵 Primer registro en caché
+  🔵 Validación: — → True
 → https://clinicaltrials.gov/study/NCT05456880
 
 [BEAM] 🔵 BEAM-302 — AATD
 NCT: NCT06389877 | Status: RECRUITING
 Primary completion: 2028-05
-  🔵 Primer registro en caché
+  🔵 Validación: — → True
 → https://clinicaltrials.gov/study/NCT06389877
 
 [ACRV] 🔵 ACR-368 + OncoSignature — ovario/endometrio/urotelial
 NCT: NCT05548296 | Status: RECRUITING
 Primary completion: 2027-05-30
-  🔵 Primer registro en caché
+  🔵 Validación: — → True
 → https://clinicaltrials.gov/study/NCT05548296
 
 [GPCR] 🔵 GLOW — aleniglipron / GSBR-1290 — obesidad oral
 NCT: NCT06693843 | Status: ACTIVE_NOT_RECRUITING
 Primary completion: 2025-10-24
-  🔵 Primer registro en caché
+  🔵 Validación: — → True
 → https://clinicaltrials.gov/study/NCT06693843
 
 [INSM] 🟢 ASPEN — brensocatib — bronchiectasis
 NCT: NCT04594369 | Status: COMPLETED
 Primary completion: 2024-10-28
-  🔵 Primer registro en caché
+  🔵 Validación: — → True
 → https://clinicaltrials.gov/study/NCT04594369
 
-----------------------------------------------------------------------
+----------------------------------------------------------------------------
 DETALLE POR EMPRESA
-----------------------------------------------------------------------
+----------------------------------------------------------------------------
 
 🔵 [DYN]
-  🔵 DELIVER — z-rostudirsen / DYNE-251 — DMD exon 51
+  🔵 DELIVER — z-rostudirsen / DYNE-251 — DMD exon 51 | Validación: OK
      NCT: NCT05524883 | Status: Activo, sin reclutamiento
+     Sponsor: Dyne Therapeutics
      Phase: PHASE1, PHASE2
      Enrollment: 86
      Primary completion: 2029-11 ESTIMATED
      Study completion: 2029-11 ESTIMATED
      Last update posted: 2025-08-13
      → https://clinicaltrials.gov/study/NCT05524883
-  🔵 ACHIEVE — z-basivarsen / DYNE-101 — DM1
+  🔵 ACHIEVE — z-basivarsen / DYNE-101 — DM1 | Validación: OK
      NCT: NCT05481879 | Status: Reclutando
+     Sponsor: Dyne Therapeutics
      Phase: PHASE1, PHASE2
      Enrollment: 116
      Primary completion: 2029-07 ESTIMATED
      Study completion: 2029-07 ESTIMATED
      Last update posted: 2026-05-12
      → https://clinicaltrials.gov/study/NCT05481879
-  🔵 HARMONIA — z-basivarsen — DM1 confirmatorio
+  🔵 HARMONIA — z-basivarsen — DM1 confirmatorio | Validación: OK
      NCT: NCT07486934 | Status: Reclutando
+     Sponsor: Dyne Therapeutics
      Phase: PHASE3
      Enrollment: 150
      Primary completion: 2028-07 ESTIMATED
@@ -147,16 +187,18 @@ DETALLE POR EMPRESA
      → https://clinicaltrials.gov/study/NCT07486934
 
 🔵 [OCUL]
-  🔵 SOL-1 — AXPAXLI — wet AMD
+  🔵 SOL-1 — AXPAXLI / OTX-TKI — wet AMD | Validación: OK
      NCT: NCT06223958 | Status: Activo, sin reclutamiento
+     Sponsor: Ocular Therapeutix, Inc.
      Phase: PHASE3
      Enrollment: 344
      Primary completion: 2026-04-29 ESTIMATED
      Study completion: 2027-09-27 ESTIMATED
      Last update posted: 2025-04-18
      → https://clinicaltrials.gov/study/NCT06223958
-  🔵 SOL-R — AXPAXLI — wet AMD
+  🔵 SOL-R — AXPAXLI / OTX-TKI — wet AMD | Validación: OK
      NCT: NCT06495918 | Status: Activo, sin reclutamiento
+     Sponsor: Ocular Therapeutix, Inc.
      Phase: PHASE3
      Enrollment: 825
      Primary completion: 2027-01-08 ESTIMATED
@@ -164,27 +206,31 @@ DETALLE POR EMPRESA
      Last update posted: 2025-06-17
      → https://clinicaltrials.gov/study/NCT06495918
 
-🟢 [TARA]
-  🟢 ADVANCED-2 — TARA-002 — NMIBC
-     NCT: NCT05015946 | Status: Ensayo completado
+🔴 [TARA]
+  ❌ ADVANCED-2 — TARA-002 — NMIBC | Validación: ERROR
+     NCT: NCT05015946 | Status: NCT no validado contra empresa/fármaco/indicación
+     Sponsor: University College of Northern Denmark
      Phase: NA
      Enrollment: 10
      Primary completion: 2021-12-15 ACTUAL
      Study completion: 2021-12-20 ACTUAL
      Last update posted: 2022-03-04
+     ❌ Validación: Sponsor no coincide, Fármaco/intervención no coincide, Indicación no coincide
      → https://clinicaltrials.gov/study/NCT05015946
 
 🟢 [ABVX]
-  🟢 ABTECT-1 — obefazimod — UC
+  🟢 ABTECT-1 — obefazimod / ABX464 — UC | Validación: OK
      NCT: NCT05507203 | Status: Ensayo completado
+     Sponsor: Abivax S.A.
      Phase: PHASE3
      Enrollment: 639
      Primary completion: 2025-06-24 ACTUAL
      Study completion: 2025-06-25 ACTUAL
      Last update posted: 2025-10-24
      → https://clinicaltrials.gov/study/NCT05507203
-  🟢 ABTECT-2 — obefazimod — UC
+  🟢 ABTECT-2 — obefazimod / ABX464 — UC | Validación: OK
      NCT: NCT05507216 | Status: Ensayo completado
+     Sponsor: Abivax S.A.
      Phase: PHASE3
      Enrollment: 636
      Primary completion: 2025-06-24 ACTUAL
@@ -193,8 +239,9 @@ DETALLE POR EMPRESA
      → https://clinicaltrials.gov/study/NCT05507216
 
 🔵 [VERA]
-  🔵 ORIGIN 3 — atacicept — IgAN
+  🔵 ORIGIN 3 — atacicept — IgAN | Validación: OK
      NCT: NCT04716231 | Status: Activo, sin reclutamiento
+     Sponsor: Vera Therapeutics, Inc.
      Phase: PHASE3
      Enrollment: 376
      Primary completion: 2025-05-15 ACTUAL
@@ -203,16 +250,18 @@ DETALLE POR EMPRESA
      → https://clinicaltrials.gov/study/NCT04716231
 
 🔵 [SNDX]
-  🔵 AUGMENT-101 — revumenib — KMT2Ar/NPM1m leukemia
+  🔵 AUGMENT-101 — revumenib — KMT2Ar/NPM1m leukemia | Validación: OK
      NCT: NCT04065399 | Status: Reclutando
+     Sponsor: Syndax Pharmaceuticals
      Phase: PHASE1, PHASE2
      Enrollment: 447
      Primary completion: 2027-12-15 ESTIMATED
      Study completion: 2027-12-15 ESTIMATED
      Last update posted: 2026-03-18
      → https://clinicaltrials.gov/study/NCT04065399
-  🔵 REVEAL — revumenib — NPM1m AML frontline
+  🔵 REVEAL — revumenib — NPM1m AML frontline | Validación: OK
      NCT: NCT07211958 | Status: Reclutando
+     Sponsor: Syndax Pharmaceuticals
      Phase: PHASE3
      Enrollment: 468
      Primary completion: 2029-06 ESTIMATED
@@ -220,35 +269,41 @@ DETALLE POR EMPRESA
      Last update posted: 2026-05-20
      → https://clinicaltrials.gov/study/NCT07211958
 
-🟢 [VKTX]
-  🔵 VENTURE — VK2735 SC — obesidad
-     NCT: NCT05948826 | Status: Activo, sin reclutamiento
+🔴 [VKTX]
+  ❌ VENTURE — VK2735 SC — obesidad | Validación: ERROR
+     NCT: NCT05948826 | Status: NCT no validado contra empresa/fármaco/indicación
+     Sponsor: TORL Biotherapeutics, LLC
      Phase: PHASE1
      Enrollment: 70
      Primary completion: 2026-06-25 ESTIMATED
      Study completion: 2026-09-15 ESTIMATED
      Last update posted: 2025-10-10
+     ❌ Validación: Sponsor no coincide, Fármaco/intervención no coincide, Indicación no coincide
      → https://clinicaltrials.gov/study/NCT05948826
-  🟢 VANQUISH — VK2735 oral — obesidad
-     NCT: NCT06119360 | Status: Ensayo completado
+  ❌ VANQUISH — VK2735 oral — obesidad | Validación: ERROR
+     NCT: NCT06119360 | Status: NCT no validado contra empresa/fármaco/indicación
+     Sponsor: Kyung Hee University Hospital at Gangdong
      Phase: NA
      Enrollment: 176
      Primary completion: 2019-02-13 ACTUAL
      Study completion: 2019-08-31 ACTUAL
      Last update posted: 2023-11-07
+     ❌ Validación: Sponsor no coincide, Fármaco/intervención no coincide, Indicación no coincide
      → https://clinicaltrials.gov/study/NCT06119360
 
 🔵 [BEAM]
-  🔵 BEACON — BEAM-101 / risto-cel — SCD
+  🔵 BEACON — BEAM-101 / risto-cel — SCD | Validación: OK
      NCT: NCT05456880 | Status: Activo, sin reclutamiento
+     Sponsor: Beam Therapeutics Inc.
      Phase: PHASE1, PHASE2
      Enrollment: 15
      Primary completion: 2028-02 ESTIMATED
      Study completion: 2028-02 ESTIMATED
      Last update posted: 2025-12-16
      → https://clinicaltrials.gov/study/NCT05456880
-  🔵 BEAM-302 — AATD
+  🔵 BEAM-302 — AATD | Validación: OK
      NCT: NCT06389877 | Status: Reclutando
+     Sponsor: Beam Therapeutics Inc.
      Phase: PHASE1, PHASE2
      Enrollment: 106
      Primary completion: 2028-05 ESTIMATED
@@ -257,8 +312,9 @@ DETALLE POR EMPRESA
      → https://clinicaltrials.gov/study/NCT06389877
 
 🔵 [ACRV]
-  🔵 ACR-368 + OncoSignature — ovario/endometrio/urotelial
+  🔵 ACR-368 + OncoSignature — ovario/endometrio/urotelial | Validación: OK
      NCT: NCT05548296 | Status: Reclutando
+     Sponsor: Acrivon Therapeutics
      Phase: PHASE2
      Enrollment: 350
      Primary completion: 2027-05-30 ESTIMATED
@@ -267,8 +323,9 @@ DETALLE POR EMPRESA
      → https://clinicaltrials.gov/study/NCT05548296
 
 🔵 [GPCR]
-  🔵 GLOW — aleniglipron / GSBR-1290 — obesidad oral
+  🔵 GLOW — aleniglipron / GSBR-1290 — obesidad oral | Validación: OK
      NCT: NCT06693843 | Status: Activo, sin reclutamiento
+     Sponsor: Gasherbrum Bio, Inc., a wholly owned subsidiary of Structure Therapeutics
      Phase: PHASE2
      Enrollment: 220
      Primary completion: 2025-10-24 ACTUAL
@@ -277,8 +334,9 @@ DETALLE POR EMPRESA
      → https://clinicaltrials.gov/study/NCT06693843
 
 🟢 [INSM]
-  🟢 ASPEN — brensocatib — bronchiectasis
+  🟢 ASPEN — brensocatib — bronchiectasis | Validación: OK
      NCT: NCT04594369 | Status: Ensayo completado
+     Sponsor: Insmed Incorporated
      Phase: PHASE3
      Enrollment: 1767
      Primary completion: 2024-10-28 ACTUAL
@@ -286,6 +344,6 @@ DETALLE POR EMPRESA
      Last update posted: 2025-12-16
      → https://clinicaltrials.gov/study/NCT04594369
 
-======================================================================
+============================================================================
 Fuente: ClinicalTrials.gov API v2
-======================================================================
+============================================================================

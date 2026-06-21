@@ -7,7 +7,9 @@
     "enrollment": 86,
     "titulo": "Safety, Tolerability, Pharmacodynamic, Efficacy, and Pharmacokinetic Study of DYNE-251 in Participants With Duchenne Muscular Dystrophy Amenable to Exon 51 Skipping",
     "ticker": "DYN",
-    "nombre_usuario": "DELIVER — z-rostudirsen / DYNE-251 — DMD exon 51"
+    "nombre_usuario": "DELIVER — z-rostudirsen / DYNE-251 — DMD exon 51",
+    "sponsor": "Dyne Therapeutics",
+    "validacion_ok": true
   },
   "NCT05481879": {
     "status": "RECRUITING",
@@ -17,7 +19,9 @@
     "enrollment": 116,
     "titulo": "Safety, Tolerability, Pharmacodynamic, Efficacy, and Pharmacokinetic Study of DYNE-101 in Participants With Myotonic Dystrophy Type 1",
     "ticker": "DYN",
-    "nombre_usuario": "ACHIEVE — z-basivarsen / DYNE-101 — DM1"
+    "nombre_usuario": "ACHIEVE — z-basivarsen / DYNE-101 — DM1",
+    "sponsor": "Dyne Therapeutics",
+    "validacion_ok": true
   },
   "NCT07486934": {
     "status": "RECRUITING",
@@ -27,7 +31,9 @@
     "enrollment": 150,
     "titulo": "Efficacy, Safety, and Tolerability of Zeleciment Basivarsen (DYNE-101) in Participants With Myotonic Dystrophy Type 1",
     "ticker": "DYN",
-    "nombre_usuario": "HARMONIA — z-basivarsen — DM1 confirmatorio"
+    "nombre_usuario": "HARMONIA — z-basivarsen — DM1 confirmatorio",
+    "sponsor": "Dyne Therapeutics",
+    "validacion_ok": true
   },
   "NCT06223958": {
     "status": "ACTIVE_NOT_RECRUITING",
@@ -37,7 +43,9 @@
     "enrollment": 344,
     "titulo": "Study to Evaluate the Efficacy and Safety of Intravitreal OTX-TKI (Ocular Therapeutix) (Axitinib Implant) in Subjects With Neovascular Age-Related Macular Degeneration",
     "ticker": "OCUL",
-    "nombre_usuario": "SOL-1 — AXPAXLI — wet AMD"
+    "nombre_usuario": "SOL-1 — AXPAXLI / OTX-TKI — wet AMD",
+    "sponsor": "Ocular Therapeutix, Inc.",
+    "validacion_ok": true
   },
   "NCT06495918": {
     "status": "ACTIVE_NOT_RECRUITING",
@@ -47,7 +55,9 @@
     "enrollment": 825,
     "titulo": "Study to Evaluate the Efficacy and Safety of Intravitreal OTX-TKI (Axitinib Implant) in Subjects With Neovascular Age- Related Macular Degeneration",
     "ticker": "OCUL",
-    "nombre_usuario": "SOL-R — AXPAXLI — wet AMD"
+    "nombre_usuario": "SOL-R — AXPAXLI / OTX-TKI — wet AMD",
+    "sponsor": "Ocular Therapeutix, Inc.",
+    "validacion_ok": true
   },
   "NCT05015946": {
     "status": "COMPLETED",
@@ -57,7 +67,9 @@
     "enrollment": 10,
     "titulo": "Handball-based Exercise and Type 2 Diabetes",
     "ticker": "TARA",
-    "nombre_usuario": "ADVANCED-2 — TARA-002 — NMIBC"
+    "nombre_usuario": "ADVANCED-2 — TARA-002 — NMIBC",
+    "sponsor": "University College of Northern Denmark",
+    "validacion_ok": false
   },
   "NCT05507203": {
     "status": "COMPLETED",
@@ -67,7 +79,9 @@
     "enrollment": 639,
     "titulo": "ABTECT-1 - ABX464 Treatment Evaluation for Ulcerative Colitis Therapy -1",
     "ticker": "ABVX",
-    "nombre_usuario": "ABTECT-1 — obefazimod — UC"
+    "nombre_usuario": "ABTECT-1 — obefazimod / ABX464 — UC",
+    "sponsor": "Abivax S.A.",
+    "validacion_ok": true
   },
   "NCT05507216": {
     "status": "COMPLETED",
@@ -77,7 +91,9 @@
     "enrollment": 636,
     "titulo": "ABTECT-2 - ABX464 Treatment Evaluation for Ulcerative Colitis Therapy -2",
     "ticker": "ABVX",
-    "nombre_usuario": "ABTECT-2 — obefazimod — UC"
+    "nombre_usuario": "ABTECT-2 — obefazimod / ABX464 — UC",
+    "sponsor": "Abivax S.A.",
+    "validacion_ok": true
   },
   "NCT04716231": {
     "status": "ACTIVE_NOT_RECRUITING",
@@ -87,7 +103,9 @@
     "enrollment": 376,
     "titulo": "Atacicept in Subjects With IgA Nephropathy",
     "ticker": "VERA",
-    "nombre_usuario": "ORIGIN 3 — atacicept — IgAN"
+    "nombre_usuario": "ORIGIN 3 — atacicept — IgAN",
+    "sponsor": "Vera Therapeutics, Inc.",
+    "validacion_ok": true
   },
   "NCT04065399": {
     "status": "RECRUITING",
@@ -97,7 +115,9 @@
     "enrollment": 447,
     "titulo": "A Study of Revumenib in R/R Leukemias Including Those With an MLL/KMT2A Gene Rearrangement or NPM1 Mutation",
     "ticker": "SNDX",
-    "nombre_usuario": "AUGMENT-101 — revumenib — KMT2Ar/NPM1m leukemia"
+    "nombre_usuario": "AUGMENT-101 — revumenib — KMT2Ar/NPM1m leukemia",
+    "sponsor": "Syndax Pharmaceuticals",
+    "validacion_ok": true
   },
   "NCT07211958": {
     "status": "RECRUITING",
@@ -107,7 +127,9 @@
     "enrollment": 468,
     "titulo": "Study of Revumenib in Combination With Intensive Chemotherapy in Newly Diagnosed Acute Myeloid Leukemia (AML) With a NPM1 Mutation",
     "ticker": "SNDX",
-    "nombre_usuario": "REVEAL — revumenib — NPM1m AML frontline"
+    "nombre_usuario": "REVEAL — revumenib — NPM1m AML frontline",
+    "sponsor": "Syndax Pharmaceuticals",
+    "validacion_ok": true
   },
   "NCT05948826": {
     "status": "ACTIVE_NOT_RECRUITING",
@@ -117,7 +139,9 @@
     "enrollment": 70,
     "titulo": "First in Human Study of TORL-3-600 in Participants With Advanced Cancer",
     "ticker": "VKTX",
-    "nombre_usuario": "VENTURE — VK2735 SC — obesidad"
+    "nombre_usuario": "VENTURE — VK2735 SC — obesidad",
+    "sponsor": "TORL Biotherapeutics, LLC",
+    "validacion_ok": false
   },
   "NCT06119360": {
     "status": "COMPLETED",
@@ -127,7 +151,9 @@
     "enrollment": 176,
     "titulo": "Comparison of Two Different Lightwand Intubation Techniques in Cervical Immobilized Patients",
     "ticker": "VKTX",
-    "nombre_usuario": "VANQUISH — VK2735 oral — obesidad"
+    "nombre_usuario": "VANQUISH — VK2735 oral — obesidad",
+    "sponsor": "Kyung Hee University Hospital at Gangdong",
+    "validacion_ok": false
   },
   "NCT05456880": {
     "status": "ACTIVE_NOT_RECRUITING",
@@ -137,7 +163,9 @@
     "enrollment": 15,
     "titulo": "BEACON: A Study Evaluating the Safety and Efficacy of BEAM-101 in Patients With Severe Sickle Cell Disease",
     "ticker": "BEAM",
-    "nombre_usuario": "BEACON — BEAM-101 / risto-cel — SCD"
+    "nombre_usuario": "BEACON — BEAM-101 / risto-cel — SCD",
+    "sponsor": "Beam Therapeutics Inc.",
+    "validacion_ok": true
   },
   "NCT06389877": {
     "status": "RECRUITING",
@@ -147,7 +175,9 @@
     "enrollment": 106,
     "titulo": "A Study to Evaluate the Safety and Efficacy of BEAM-302 in Adult Patients With Alpha-1 Antitrypsin Deficiency (AATD)",
     "ticker": "BEAM",
-    "nombre_usuario": "BEAM-302 — AATD"
+    "nombre_usuario": "BEAM-302 — AATD",
+    "sponsor": "Beam Therapeutics Inc.",
+    "validacion_ok": true
   },
   "NCT05548296": {
     "status": "RECRUITING",
@@ -157,7 +187,9 @@
     "enrollment": 350,
     "titulo": "A Phase 2 Study of ACR-368 in Endometrial Adenocarcinoma",
     "ticker": "ACRV",
-    "nombre_usuario": "ACR-368 + OncoSignature — ovario/endometrio/urotelial"
+    "nombre_usuario": "ACR-368 + OncoSignature — ovario/endometrio/urotelial",
+    "sponsor": "Acrivon Therapeutics",
+    "validacion_ok": true
   },
   "NCT06693843": {
     "status": "ACTIVE_NOT_RECRUITING",
@@ -167,7 +199,9 @@
     "enrollment": 220,
     "titulo": "A Phase 2b, Dose-range Finding Study of the Efficacy and Safety of Multiple Doses of Aleniglipron (GSBR-1290) in Participants Living With Obesity or Overweight With at Least One Weight-related Comorbidity",
     "ticker": "GPCR",
-    "nombre_usuario": "GLOW — aleniglipron / GSBR-1290 — obesidad oral"
+    "nombre_usuario": "GLOW — aleniglipron / GSBR-1290 — obesidad oral",
+    "sponsor": "Gasherbrum Bio, Inc., a wholly owned subsidiary of Structure Therapeutics",
+    "validacion_ok": true
   },
   "NCT04594369": {
     "status": "COMPLETED",
@@ -177,6 +211,8 @@
     "enrollment": 1767,
     "titulo": "A Study to Assess the Efficacy, Safety, and Tolerability of Brensocatib in Participants With Non-Cystic Fibrosis Bronchiectasis",
     "ticker": "INSM",
-    "nombre_usuario": "ASPEN — brensocatib — bronchiectasis"
+    "nombre_usuario": "ASPEN — brensocatib — bronchiectasis",
+    "sponsor": "Insmed Incorporated",
+    "validacion_ok": true
   }
 }

@@ -382,7 +382,9 @@ def clasificar_base(form, desc="", doc=""):
 def parsear_form4(url):
     """
     Parseo robusto de Form 4 XML:
-    extrae insider, cargo, tipo, acciones, precio, fecha y acciones posteriores.
+    - insider, cargo, código, tipo
+    - acciones, precio, fecha, acciones posteriores
+    - footnotes
     """
     result = {
         "insider_nombre": None,
@@ -401,24 +403,33 @@ def parsear_form4(url):
     def strip_ns(tag):
         return tag.split("}", 1)[-1] if "}" in tag else tag
 
+    def text_clean(x):
+        return x.strip() if isinstance(x, str) and x.strip() else None
+
     def first_text_any(root, tag):
         for el in root.iter():
-            if strip_ns(el.tag) == tag and el.text and el.text.strip():
-                return el.text.strip()
-        return None
-
-    def first_child_text(node, tag):
-        for el in node.iter():
-            if strip_ns(el.tag) == tag and el.text and el.text.strip():
+            if strip_ns(el.tag) == tag and text_clean(el.text):
                 return el.text.strip()
         return None
 
     def all_text_any(root, tag):
-        vals = []
-        for el in root.iter():
-            if strip_ns(el.tag) == tag and el.text and el.text.strip():
-                vals.append(el.text.strip())
-        return vals
+        return [el.text.strip() for el in root.iter()
+                if strip_ns(el.tag) == tag and text_clean(el.text)]
+
+    def find_value_under(node, container_tag):
+        cont = None
+        for el in node.iter():
+            if strip_ns(el.tag) == container_tag:
+                cont = el
+                break
+        if cont is None:
+            return None
+        if text_clean(cont.text):
+            return cont.text.strip()
+        for el in cont.iter():
+            if strip_ns(el.tag) == "value" and text_clean(el.text):
+                return el.text.strip()
+        return None
 
     try:
         urls_to_try = [url]
@@ -432,17 +443,20 @@ def parsear_form4(url):
         for u in urls_to_try:
             try:
                 content, _ = fetch_text(u, timeout=15)
-                if content and "<ownershipDocument" in content:
+                if content and ("<ownershipDocument" in content or "<reportingOwner" in content):
                     break
             except Exception as e:
                 last_err = e
+
         if not content:
             raise last_err or Exception("No se pudo descargar XML Form 4")
 
         safe_sleep()
+
         idx = content.find("<ownershipDocument")
         if idx > 0:
             content = content[idx:]
+
         root = ET.fromstring(content)
 
         result["insider_nombre"] = first_text_any(root, "rptOwnerName")
@@ -460,121 +474,244 @@ def parsear_form4(url):
         result["insider_cargo"] = " / ".join(roles) if roles else officer
 
         foots = all_text_any(root, "footnote")
-        result["footnotes"] = " ".join(foots)[:1000] if foots else None
+        result["footnotes"] = " ".join(foots)[:1500] if foots else None
         foot_l = (result["footnotes"] or "").lower()
-        rutina_kw = ["tax withholding", "withholding tax", "withheld", "tax liability", "sell to cover", "to satisfy tax", "restricted stock unit", "rsu", "10b5-1", "rule 10b5", "automatic", "vesting", "shares were sold"]
+
+        rutina_kw = [
+            "tax withholding", "withholding tax", "withheld", "tax liability",
+            "sell to cover", "to satisfy tax", "restricted stock unit", "rsu",
+            "10b5-1", "rule 10b5", "automatic", "vesting", "shares were sold",
+            "annual grant"
+        ]
         result["es_rutinaria"] = any(k in foot_l for k in rutina_kw)
 
         trans_nodes = []
         for el in root.iter():
-            if strip_ns(el.tag) in ("nonDerivativeTransaction", "derivativeTransaction"):
+            tag = strip_ns(el.tag)
+            if tag in ("nonDerivativeTransaction", "derivativeTransaction"):
                 trans_nodes.append(el)
 
         chosen = None
         for tn in trans_nodes:
-            if first_child_text(tn, "transactionCode"):
+            if find_value_under(tn, "transactionCode"):
                 chosen = tn
                 break
         if chosen is None and trans_nodes:
             chosen = trans_nodes[0]
 
         if chosen is not None:
-            code = first_child_text(chosen, "transactionCode") or ""
+            code = find_value_under(chosen, "transactionCode") or ""
             result["transaccion_codigo"] = code
-            tipos = {"P": "Compra", "S": "Venta", "A": "Concesión", "D": "Disposición", "M": "Ejercicio opción", "G": "Donación", "F": "Retención impuestos", "J": "Otro", "C": "Conversión", "I": "Discrecional"}
+
+            tipos = {
+                "P": "Compra",
+                "S": "Venta",
+                "A": "Concesión",
+                "D": "Disposición",
+                "M": "Ejercicio opción",
+                "G": "Donación",
+                "F": "Retención impuestos",
+                "J": "Otro",
+                "C": "Conversión",
+                "I": "Discrecional",
+            }
             result["transaccion_tipo"] = tipos.get(code, code or None)
-            result["transaccion_acciones"] = first_child_text(chosen, "transactionShares")
-            result["transaccion_precio"]   = first_child_text(chosen, "transactionPricePerShare")
-            result["transaccion_fecha"]    = first_child_text(chosen, "transactionDate")
-            result["acciones_post"]        = first_child_text(chosen, "sharesOwnedFollowingTransaction")
+
+            result["transaccion_acciones"] = find_value_under(chosen, "transactionShares")
+            result["transaccion_precio"]   = find_value_under(chosen, "transactionPricePerShare")
+            result["transaccion_fecha"]    = find_value_under(chosen, "transactionDate")
+            result["acciones_post"]        = find_value_under(chosen, "sharesOwnedFollowingTransaction")
 
         if not result["acciones_post"]:
             result["acciones_post"] = first_text_any(root, "sharesOwnedFollowingTransaction")
 
         partes = []
-        if result["insider_nombre"]: partes.append(result["insider_nombre"])
-        if result["insider_cargo"]: partes.append(f"({result['insider_cargo']})")
-        if result["transaccion_tipo"]: partes.append(f"→ {result['transaccion_tipo']}")
+        if result["insider_nombre"]:
+            partes.append(result["insider_nombre"])
+        if result["insider_cargo"]:
+            partes.append(f"({result['insider_cargo']})")
+        if result["transaccion_tipo"]:
+            partes.append(f"→ {result['transaccion_tipo']}")
+
         if result["transaccion_acciones"]:
             try:
                 acc = float(str(result["transaccion_acciones"]).replace(",", ""))
                 partes.append(f"{acc:,.0f} acciones")
             except Exception:
                 partes.append(str(result["transaccion_acciones"]))
+
         if result["transaccion_precio"]:
             try:
                 precio = float(str(result["transaccion_precio"]).replace(",", ""))
                 partes.append(f"@ ${precio:.2f}")
             except Exception:
                 pass
+
         if result["acciones_post"]:
             try:
                 post = float(str(result["acciones_post"]).replace(",", ""))
                 partes.append(f"| Post: {post:,.0f}")
             except Exception:
                 pass
-        if result["es_rutinaria"]: partes.append("| Rutinaria/RSU/impuestos")
+
+        if result["es_rutinaria"]:
+            partes.append("| Rutinaria/RSU/impuestos")
+
         result["resumen_detail"] = " ".join(partes) if partes else "Form 4 — sin detalle extraíble"
+
     except Exception as e:
         result["resumen_detail"] = f"Form 4 — parse error: {str(e)[:100]}"
+
     return result
+
 
 # ── MÓDULO 3: 8-K ITEMS + TEXTO ──────────────────────────────────────────────
 def parsear_8k(url):
     """
     Parseo 8-K mejorado:
     - Item 1.01 no es verde automático.
-    - Item 2.03 o deuda/credit facility fuerzan amarillo.
-    - Solo marca verde si detecta colaboración/licencia/M&A real o datos clínicos/FDA positivos.
+    - Item 2.03/deuda => amarillo.
+    - Warrants solo alertan si están ligados a oferta/financiación, no a planes de incentivos.
+    - Item 5.07 => azul.
     """
-    result = {"items_detectados": [], "clasificacion_item": None, "extracto": None, "nivel_ajustado": None, "badge_ajustado": None, "resumen_ajustado": None}
+    result = {
+        "items_detectados": [],
+        "clasificacion_item": None,
+        "extracto": None,
+        "nivel_ajustado": None,
+        "badge_ajustado": None,
+        "resumen_ajustado": None,
+    }
+
     badges = {"rojo": "🔴 ALTA", "verde": "🟢 ALTA", "amarillo": "🟡 MEDIA", "azul": "🔵 INFO"}
+
     try:
         content, _ = fetch_text(url, timeout=20)
         safe_sleep()
+
         texto = re.sub(r'<[^>]+>', ' ', content)
         texto = re.sub(r'&nbsp;', ' ', texto)
         texto = re.sub(r'&#\d+;', ' ', texto)
         texto = re.sub(r'\s+', ' ', texto).strip()
         texto_lower = texto.lower()
+
         items_encontrados = re.findall(r'item\s+(\d+\.\d+)', texto_lower)
         items_unicos = list(dict.fromkeys(items_encontrados))
         result["items_detectados"] = items_unicos[:8]
+
         idxs = [texto_lower.find("item " + it) for it in items_unicos if texto_lower.find("item " + it) >= 0]
         idx = min(idxs) if idxs else 200
-        result["extracto"] = texto[max(0, idx):idx + 1200].strip()
+        extracto = texto[max(0, idx):idx + 1400].strip()
+        result["extracto"] = extracto
 
-        for kw, desc in [("clinical hold", "Clinical hold"), ("complete response letter", "CRL / Complete Response Letter"), ("did not meet primary endpoint", "Fallo endpoint primario"), ("failed to meet", "Fallo de endpoint"), ("negative topline", "Datos topline negativos"), ("delisting", "Riesgo de delisting"), ("going concern", "Going concern"), ("bankruptcy", "Bankruptcy")]:
+        rojos = [
+            ("clinical hold", "Clinical hold"),
+            ("complete response letter", "CRL / Complete Response Letter"),
+            ("did not meet primary endpoint", "Fallo endpoint primario"),
+            ("failed to meet", "Fallo de endpoint"),
+            ("negative topline", "Datos topline negativos"),
+            ("delisting", "Riesgo de delisting"),
+            ("going concern", "Going concern"),
+            ("bankruptcy", "Bankruptcy"),
+        ]
+        for kw, desc in rojos:
             if kw in texto_lower:
-                result["nivel_ajustado"] = "rojo"; result["badge_ajustado"] = badges["rojo"]; result["resumen_ajustado"] = f"8-K — Evento negativo potencial: {desc}"; return result
+                result["nivel_ajustado"] = "rojo"
+                result["badge_ajustado"] = badges["rojo"]
+                result["resumen_ajustado"] = f"8-K — Evento negativo potencial: {desc}"
+                return result
 
-        deuda_kw = ["item 2.03", "credit agreement", "loan agreement", "term loan", "debt financing", "notes payable", "borrowings", "indebtedness", "secured loan", "credit facility"]
+        deuda_kw = [
+            "item 2.03", "credit agreement", "loan agreement", "term loan",
+            "debt financing", "notes payable", "borrowings", "indebtedness",
+            "secured loan", "credit facility", "loan and security agreement"
+        ]
         if "2.03" in items_unicos or any(k in texto_lower for k in deuda_kw):
-            result["nivel_ajustado"] = "amarillo"; result["badge_ajustado"] = badges["amarillo"]; result["resumen_ajustado"] = "8-K — Posible deuda/obligación financiera; revisar condiciones"; return result
+            result["nivel_ajustado"] = "amarillo"
+            result["badge_ajustado"] = badges["amarillo"]
+            result["resumen_ajustado"] = "8-K — Posible deuda/obligación financiera; revisar condiciones"
+            return result
 
-        dilucion_kw = ["public offering", "underwritten offering", "registered direct", "securities purchase agreement", "at-the-market", "at the market", "sales agreement", "warrants", "convertible notes", "pipe"]
+        incentive_context = (
+            "equity incentive plan" in texto_lower or
+            "amended and restated 2022 plan" in texto_lower or
+            "stock option" in texto_lower or
+            "compensatory arrangements" in texto_lower or
+            "annual meeting" in texto_lower
+        )
+
+        dilucion_kw = [
+            "public offering", "underwritten offering", "registered direct",
+            "securities purchase agreement", "at-the-market", "at the market",
+            "sales agreement", "convertible notes", "pipe"
+        ]
         for kw in dilucion_kw:
             if kw in texto_lower:
-                result["nivel_ajustado"] = "amarillo"; result["badge_ajustado"] = badges["amarillo"]; result["resumen_ajustado"] = f"8-K — Posible financiación/dilución: {kw}"; return result
+                result["nivel_ajustado"] = "amarillo"
+                result["badge_ajustado"] = badges["amarillo"]
+                result["resumen_ajustado"] = f"8-K — Posible financiación/dilución: {kw}"
+                return result
 
-        positivos = [("collaboration agreement", "Acuerdo de colaboración"), ("license agreement", "Acuerdo de licencia"), ("licensing agreement", "Acuerdo de licencia"), ("strategic collaboration", "Colaboración estratégica"), ("merger agreement", "M&A / merger agreement"), ("acquisition agreement", "M&A / acquisition agreement"), ("fda approval", "Aprobación FDA"), ("fda approved", "Aprobación FDA"), ("accelerated approval", "Aprobación acelerada"), ("positive topline", "Datos topline positivos"), ("met primary endpoint", "Cumple endpoint primario"), ("statistically significant", "Resultado estadísticamente significativo"), ("priority review", "Priority Review"), ("breakthrough therapy", "Breakthrough Therapy")]
+        if "warrants" in texto_lower and not incentive_context:
+            result["nivel_ajustado"] = "amarillo"
+            result["badge_ajustado"] = badges["amarillo"]
+            result["resumen_ajustado"] = "8-K — Posibles warrants ligados a financiación; revisar"
+            return result
+
+        positivos = [
+            ("asset purchase agreement", "Asset purchase / venta de activo"),
+            ("collaboration agreement", "Acuerdo de colaboración"),
+            ("license agreement", "Acuerdo de licencia"),
+            ("licensing agreement", "Acuerdo de licencia"),
+            ("strategic collaboration", "Colaboración estratégica"),
+            ("merger agreement", "M&A / merger agreement"),
+            ("acquisition agreement", "M&A / acquisition agreement"),
+            ("fda approval", "Aprobación FDA"),
+            ("fda approved", "Aprobación FDA"),
+            ("accelerated approval", "Aprobación acelerada"),
+            ("positive topline", "Datos topline positivos"),
+            ("met primary endpoint", "Cumple endpoint primario"),
+            ("statistically significant", "Resultado estadísticamente significativo"),
+            ("priority review voucher", "Priority Review Voucher"),
+            ("priority review", "Priority Review"),
+            ("breakthrough therapy", "Breakthrough Therapy"),
+        ]
         for kw, desc in positivos:
             if kw in texto_lower:
-                result["nivel_ajustado"] = "verde"; result["badge_ajustado"] = badges["verde"]; result["resumen_ajustado"] = f"8-K — Evento positivo potencial: {desc}"; return result
+                result["nivel_ajustado"] = "verde"
+                result["badge_ajustado"] = badges["verde"]
+                result["resumen_ajustado"] = f"8-K — Evento positivo potencial: {desc}"
+                return result
 
         if "1.02" in items_unicos:
-            result["nivel_ajustado"] = "rojo"; result["badge_ajustado"] = badges["rojo"]; result["resumen_ajustado"] = "Item 1.02: Terminación de acuerdo material"
+            result["nivel_ajustado"] = "rojo"
+            result["badge_ajustado"] = badges["rojo"]
+            result["resumen_ajustado"] = "Item 1.02: Terminación de acuerdo material"
         elif "5.02" in items_unicos:
-            result["nivel_ajustado"] = "amarillo"; result["badge_ajustado"] = badges["amarillo"]; result["resumen_ajustado"] = "Item 5.02: Cambio directivos (CEO/CFO/CSO)"
+            result["nivel_ajustado"] = "amarillo"
+            result["badge_ajustado"] = badges["amarillo"]
+            result["resumen_ajustado"] = "Item 5.02: Cambio directivos / plan de compensación"
         elif "1.01" in items_unicos:
-            result["nivel_ajustado"] = "azul"; result["badge_ajustado"] = badges["azul"]; result["resumen_ajustado"] = "Item 1.01: Acuerdo material — revisar contenido"
+            result["nivel_ajustado"] = "azul"
+            result["badge_ajustado"] = badges["azul"]
+            result["resumen_ajustado"] = "Item 1.01: Acuerdo material — revisar contenido"
         elif "5.07" in items_unicos:
-            result["nivel_ajustado"] = "azul"; result["badge_ajustado"] = badges["azul"]; result["resumen_ajustado"] = "Item 5.07: Votación junta accionistas"
+            result["nivel_ajustado"] = "azul"
+            result["badge_ajustado"] = badges["azul"]
+            result["resumen_ajustado"] = "Item 5.07: Votación junta accionistas"
         else:
-            result["nivel_ajustado"] = "azul"; result["badge_ajustado"] = badges["azul"]; result["resumen_ajustado"] = "8-K — Sin clasificación específica por Item"
+            result["nivel_ajustado"] = "azul"
+            result["badge_ajustado"] = badges["azul"]
+            result["resumen_ajustado"] = "8-K — Sin clasificación específica por Item"
+
         return result
+
     except Exception as e:
-        result["nivel_ajustado"] = "azul"; result["badge_ajustado"] = "🔵 INFO"; result["resumen_ajustado"] = f"8-K — Error lectura: {str(e)[:80]}"; return result
+        result["nivel_ajustado"] = "azul"
+        result["badge_ajustado"] = "🔵 INFO"
+        result["resumen_ajustado"] = f"8-K — Error lectura: {str(e)[:80]}"
+        return result
+
 
 # ── MÓDULO 4: 10-Q FINANCIERO ─────────────────────────────────────────────────
 CASH_PATTERNS = [

@@ -95,17 +95,17 @@
     "sponsor": "Abivax S.A.",
     "validacion_ok": true
   },
-  "NCT05787340": {
-    "status": "COMPLETED",
-    "primary_completion_date": "2021-10-01",
-    "study_completion_date": "2021-10-01",
-    "last_update_posted": "2023-03-28",
-    "enrollment": 5,
-    "titulo": "Investigation From Biopsychosocial Perspective of Patients With Rheumatic Disease With Covid-19 Who Participated in a Biopsychosocial Exercise Program: A Case Series With 6-Month Follow-up",
+  "NCT05535946": {
+    "status": "ACTIVE_NOT_RECRUITING",
+    "primary_completion_date": "2026-04",
+    "study_completion_date": "2030-05",
+    "last_update_posted": "2025-10-24",
+    "enrollment": 1116,
+    "titulo": "ABTECT - Maintenance",
     "ticker": "ABVX",
-    "nombre_usuario": "ABTECT mantenimiento 44sem — obefazimod — UC ✅ DATOS POSITIVOS 1 jun 2026 · NDA Q4 2026",
-    "sponsor": "Kahramanmaras Sutcu Imam University",
-    "validacion_ok": false
+    "nombre_usuario": "ABTECT mantenimiento 44sem — obefazimod (ABX464-107) — UC ✅ DATOS POSITIVOS 1 jun 2026 · NDA Q4 2026",
+    "sponsor": "Abivax S.A.",
+    "validacion_ok": true
   },
   "NCT04716231": {
     "status": "ACTIVE_NOT_RECRUITING",
@@ -371,6 +371,18 @@
     "sponsor": "Alnylam Pharmaceuticals",
     "validacion_ok": true
   },
+  "NCT06393712": {
+    "status": "RECRUITING",
+    "primary_completion_date": "2027-08-09",
+    "study_completion_date": "2029-12-14",
+    "last_update_posted": "2026-06-12",
+    "enrollment": 200,
+    "titulo": "A Phase 2 Trial of ALN-APP in Patients With Cerebral Amyloid Angiopathy",
+    "ticker": "ALNY",
+    "nombre_usuario": "cAPPricorn-1 Ph2 — mivelsiran — CAA (cerebral amyloid angiopathy) · 200 pac.",
+    "sponsor": "Alnylam Pharmaceuticals",
+    "validacion_ok": true
+  },
   "NCT07636811": {
     "status": "NOT_YET_RECRUITING",
     "primary_completion_date": "2030-05-18",
@@ -497,7 +509,7 @@
     "enrollment": 7,
     "titulo": "An Open-Label, FIH Study Evaluating the Safety and Tolerability of VCTX210A Combination Product in Subjects With T1D",
     "ticker": "VRTX",
-    "nombre_usuario": "VX-264 Ph1/2 — zimislecel encapsulado — T1D sin inmunosupresión",
+    "nombre_usuario": "VX-264 — DISCONTINUED ⚠️ (mar2025 no cumplió eficacia) · solo si Vertex anuncia sucesor",
     "validacion_ok": false
   },
   "wl_NCT07204275": {
@@ -541,7 +553,7 @@
     "enrollment": 40,
     "titulo": "Cardioneuroablation: Comparison of Right Versus Left Atrial Approach in Patients With Reflex Syncope",
     "ticker": "DNLI",
-    "nombre_usuario": "DNL919 Ph1/2 — tividenofusp-enabled — Alzheimer · 2ª aplicación BBB platform",
+    "nombre_usuario": "DNL919 — TERMINATED ⚠️ — Alzheimer BBB platform · MONITORIZAR solo si hay sustituto",
     "validacion_ok": false
   },
   "wl_NCT05456880": {

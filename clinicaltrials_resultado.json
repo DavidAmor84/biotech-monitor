@@ -1,18 +1,18 @@
 {
   "version": "v9.2",
-  "generado": "21/06/2026 17:30",
+  "generado": "21/06/2026 17:38",
   "fecha": "2026-06-21",
   "resumen": {
-    "total_ensayos": 39,
+    "total_ensayos": 40,
     "watchlist_total": 9,
-    "watchlist_con_cambios": 3,
-    "validacion_ok": 38,
-    "validacion_error": 1,
-    "alertas_rojas": 1,
+    "watchlist_con_cambios": 0,
+    "validacion_ok": 40,
+    "validacion_error": 0,
+    "alertas_rojas": 0,
     "alertas_verdes": 4,
     "alertas_amarillas": 2,
-    "alertas_azules": 32,
-    "errores": 1
+    "alertas_azules": 34,
+    "errores": 0
   },
   "empresas": {
     "DYN": {
@@ -476,42 +476,39 @@
           "error": null
         },
         {
-          "nct": "NCT05787340",
-          "nombre_usuario": "ABTECT mantenimiento 44sem — obefazimod — UC ✅ DATOS POSITIVOS 1 jun 2026 · NDA Q4 2026",
-          "titulo": "Investigation From Biopsychosocial Perspective of Patients With Rheumatic Disease With Covid-19 Who Participated in a Biopsychosocial Exercise Program: A Case Series With 6-Month Follow-up",
-          "titulo_oficial": "Investigation From Biopsychosocial Perspective of Patients With Rheumatic Disease With Covid-19 Who Participated in a Biopsychosocial Exercise Program: A Case Series With 6-Month Follow-up",
-          "sponsor": "Kahramanmaras Sutcu Imam University",
+          "nct": "NCT05535946",
+          "nombre_usuario": "ABTECT mantenimiento 44sem — obefazimod (ABX464-107) — UC ✅ DATOS POSITIVOS 1 jun 2026 · NDA Q4 2026",
+          "titulo": "ABTECT - Maintenance",
+          "titulo_oficial": "A Randomized, Double-blind, Multicenter Phase III Study to Evaluate the Long-term Efficacy and Safety of ABX464 25 mg or 50 mg Once Daily as a Maintenance Therapy in Subjects With Moderately to Severely Active Ulcerative Colitis",
+          "sponsor": "Abivax S.A.",
           "collaborators": [],
-          "status": "COMPLETED",
-          "status_desc": "NCT no validado contra empresa/fármaco/indicación",
-          "nivel_base": "verde",
-          "badge_base": "🟢",
-          "phase": "NA",
-          "enrollment": 5,
-          "primary_completion_date": "2021-10-01",
-          "primary_completion_type": "ACTUAL",
-          "study_completion_date": "2021-10-01",
-          "study_completion_type": "ACTUAL",
-          "start_date": "2021-06-01",
-          "last_update_posted": "2023-03-28",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "status_desc": "Activo, sin reclutamiento",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE3",
+          "enrollment": 1116,
+          "primary_completion_date": "2026-04",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2030-05",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2023-01-16",
+          "last_update_posted": "2025-10-24",
           "conditions": [
-            "Rheumatic Diseases"
+            "Ulcerative Colitis"
           ],
           "interventions": [
-            "Bilişsel Egzersiz Terapi Yaklaşımı (BETY, Cognitive Exercise Therapy Approach)"
+            "ABX464",
+            "Placebo"
           ],
-          "url": "https://clinicaltrials.gov/study/NCT05787340",
+          "url": "https://clinicaltrials.gov/study/NCT05535946",
           "validacion": {
-            "ok": false,
-            "errores": [
-              "Sponsor no coincide",
-              "Fármaco/intervención no coincide",
-              "Indicación no coincide"
-            ],
+            "ok": true,
+            "errores": [],
             "detalles": {
-              "sponsor_text": "Kahramanmaras Sutcu Imam University ",
-              "drug_text": "Investigation From Biopsychosocial Perspective of Patients With Rheumatic Disease With Covid-19 Who Participated in a Biopsychosocial Exercise Program: A Case Series With 6-Month Follow-up Investigation From Biopsychosocial Perspective of Patients With Rheumatic Disease With Covid-19 Who Participated in a Biopsychosocial Exercise Program: A Case Series With 6-Month Follow-up Bilişsel Egzersiz Terapi Yaklaşımı (BETY, Cognitive Exercise Therapy Approach)",
-              "condition_text": "Investigation From Biopsychosocial Perspective of Patients With Rheumatic Disease With Covid-19 Who Participated in a Biopsychosocial Exercise Program: A Case Series With 6-Month Follow-up Investigation From Biopsychosocial Perspective of Patients With Rheumatic Disease With Covid-19 Who Participated in a Biopsychosocial Exercise Program: A Case Series With 6-Month Follow-up Rheumatic Diseases"
+              "sponsor_text": "Abivax S.A. ",
+              "drug_text": "ABTECT - Maintenance A Randomized, Double-blind, Multicenter Phase III Study to Evaluate the Long-term Efficacy and Safety of ABX464 25 mg or 50 mg Once Daily as a Maintenance Therapy in Subjects With Moderately to Severely Active Ulcerative Colitis ABX464 Placebo",
+              "condition_text": "ABTECT - Maintenance A Randomized, Double-blind, Multicenter Phase III Study to Evaluate the Long-term Efficacy and Safety of ABX464 25 mg or 50 mg Once Daily as a Maintenance Therapy in Subjects With Moderately to Severely Active Ulcerative Colitis Ulcerative Colitis"
             },
             "sponsor_keywords": [
               "abivax"
@@ -525,28 +522,22 @@
               "ulcerative colitis"
             ]
           },
-          "validacion_ok": false,
+          "validacion_ok": true,
           "cambios": [
             {
               "tipo": "nuevo",
               "nivel": "azul",
               "badge": "🔵",
               "mensaje": "Primer registro en caché"
-            },
-            {
-              "tipo": "validacion",
-              "nivel": "rojo",
-              "badge": "❌",
-              "mensaje": "Sponsor no coincide; Fármaco/intervención no coincide; Indicación no coincide"
             }
           ],
-          "nivel": "rojo",
-          "badge": "❌",
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         }
       ],
-      "nivel": "rojo",
-      "badge": "🔴"
+      "nivel": "verde",
+      "badge": "🟢"
     },
     "VERA": {
       "ensayos": [
@@ -1245,14 +1236,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "nuevo",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Primer registro en caché"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1310,14 +1294,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "nuevo",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Primer registro en caché"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1371,14 +1348,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "nuevo",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Primer registro en caché"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1433,14 +1403,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "nuevo",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Primer registro en caché"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1495,14 +1458,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "nuevo",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Primer registro en caché"
-            }
-          ],
+          "cambios": [],
           "nivel": "amarillo",
           "badge": "🟡",
           "error": null
@@ -1558,14 +1514,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "nuevo",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Primer registro en caché"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1622,14 +1571,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "nuevo",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Primer registro en caché"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1690,14 +1632,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "nuevo",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Primer registro en caché"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1761,14 +1696,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "nuevo",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Primer registro en caché"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1823,14 +1751,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "nuevo",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Primer registro en caché"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1886,6 +1807,60 @@
             ]
           },
           "validacion_ok": true,
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        },
+        {
+          "nct": "NCT06393712",
+          "nombre_usuario": "cAPPricorn-1 Ph2 — mivelsiran — CAA (cerebral amyloid angiopathy) · 200 pac.",
+          "titulo": "A Phase 2 Trial of ALN-APP in Patients With Cerebral Amyloid Angiopathy",
+          "titulo_oficial": "A Phase 2, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Efficacy, Safety, Tolerability, and Pharmacodynamics of Intrathecally Administered ALN-APP in Patients With Cerebral Amyloid Angiopathy (CAA)",
+          "sponsor": "Alnylam Pharmaceuticals",
+          "collaborators": [],
+          "status": "RECRUITING",
+          "status_desc": "Reclutando",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE2",
+          "enrollment": 200,
+          "primary_completion_date": "2027-08-09",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2029-12-14",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2024-05-17",
+          "last_update_posted": "2026-06-12",
+          "conditions": [
+            "Cerebral Amyloid Angiopathy"
+          ],
+          "interventions": [
+            "Placebo",
+            "ALN-APP"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06393712",
+          "validacion": {
+            "ok": true,
+            "errores": [],
+            "detalles": {
+              "sponsor_text": "Alnylam Pharmaceuticals ",
+              "drug_text": "A Phase 2 Trial of ALN-APP in Patients With Cerebral Amyloid Angiopathy A Phase 2, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Efficacy, Safety, Tolerability, and Pharmacodynamics of Intrathecally Administered ALN-APP in Patients With Cerebral Amyloid Angiopathy (CAA) Placebo ALN-APP",
+              "condition_text": "A Phase 2 Trial of ALN-APP in Patients With Cerebral Amyloid Angiopathy A Phase 2, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Efficacy, Safety, Tolerability, and Pharmacodynamics of Intrathecally Administered ALN-APP in Patients With Cerebral Amyloid Angiopathy (CAA) Cerebral Amyloid Angiopathy"
+            },
+            "sponsor_keywords": [
+              "alnylam"
+            ],
+            "drug_keywords": [
+              "mivelsiran",
+              "aln-app"
+            ],
+            "condition_keywords": [
+              "cerebral amyloid angiopathy",
+              "caa",
+              "amyloid"
+            ]
+          },
+          "validacion_ok": true,
           "cambios": [
             {
               "tipo": "nuevo",
@@ -1897,14 +1872,6 @@
           "nivel": "azul",
           "badge": "🔵",
           "error": null
-        },
-        {
-          "nct": "NCT06939371",
-          "nombre_usuario": "cAPPricorn-1 Ph2 — mivelsiran — CAA (cerebral amyloid angiopathy) · 200 pac.",
-          "nivel": "rojo",
-          "badge": "❌",
-          "error": "HTTP Error 404: Not Found",
-          "url": "https://clinicaltrials.gov/study/NCT06939371"
         },
         {
           "nct": "NCT07636811",
@@ -1955,21 +1922,14 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "nuevo",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Primer registro en caché"
-            }
-          ],
+          "cambios": [],
           "nivel": "amarillo",
           "badge": "🟡",
           "error": null
         }
       ],
-      "nivel": "rojo",
-      "badge": "🔴"
+      "nivel": "amarillo",
+      "badge": "🟡"
     },
     "VRTX": {
       "ensayos": [
@@ -2021,14 +1981,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "nuevo",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Primer registro en caché"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2084,14 +2037,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "nuevo",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Primer registro en caché"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2146,14 +2092,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "nuevo",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Primer registro en caché"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2209,14 +2148,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "nuevo",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Primer registro en caché"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2273,14 +2205,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "nuevo",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Primer registro en caché"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2335,14 +2260,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "nuevo",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Primer registro en caché"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2403,14 +2321,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "nuevo",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Primer registro en caché"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2451,34 +2362,24 @@
     },
     {
       "ticker": "ABVX",
-      "nct": "NCT05787340",
-      "nombre": "ABTECT mantenimiento 44sem — obefazimod — UC ✅ DATOS POSITIVOS 1 jun 2026 · NDA Q4 2026",
-      "nivel": "rojo",
-      "badge": "❌",
-      "status": "COMPLETED",
-      "primary_completion_date": "2021-10-01",
-      "mensaje": "NCT no validado contra empresa/fármaco/indicación",
-      "validacion_ok": false,
-      "errores_validacion": [
-        "Sponsor no coincide",
-        "Fármaco/intervención no coincide",
-        "Indicación no coincide"
-      ],
+      "nct": "NCT05535946",
+      "nombre": "ABTECT mantenimiento 44sem — obefazimod (ABX464-107) — UC ✅ DATOS POSITIVOS 1 jun 2026 · NDA Q4 2026",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "primary_completion_date": "2026-04",
+      "mensaje": "Activo, sin reclutamiento",
+      "validacion_ok": true,
+      "errores_validacion": [],
       "cambios": [
         {
           "tipo": "nuevo",
           "nivel": "azul",
           "badge": "🔵",
           "mensaje": "Primer registro en caché"
-        },
-        {
-          "tipo": "validacion",
-          "nivel": "rojo",
-          "badge": "❌",
-          "mensaje": "Sponsor no coincide; Fármaco/intervención no coincide; Indicación no coincide"
         }
       ],
-      "url": "https://clinicaltrials.gov/study/NCT05787340"
+      "url": "https://clinicaltrials.gov/study/NCT05535946"
     },
     {
       "ticker": "VKTX",
@@ -2509,181 +2410,13 @@
       "url": "https://clinicaltrials.gov/study/NCT04594369"
     },
     {
-      "ticker": "ARGX",
-      "nct": "NCT06558279",
-      "nombre": "ADAPT OCULUS Ph3 — efgartigimod SC — ocular MG ✅ datos positivos feb2026 · sBLA planeado",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "primary_completion_date": "2026-01",
-      "mensaje": "Activo, sin reclutamiento",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "nuevo",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Primer registro en caché"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06558279"
-    },
-    {
-      "ticker": "ARGX",
-      "nct": "NCT06298552",
-      "nombre": "ADAPT SERON Ph3 — efgartigimod IV — seronegative gMG · Priority Review PDUFA may2026",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "primary_completion_date": "2025-06-30",
-      "mensaje": "Activo, sin reclutamiento",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "nuevo",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Primer registro en caché"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06298552"
-    },
-    {
-      "ticker": "ARGX",
-      "nct": "NCT06684847",
-      "nombre": "UNITY Ph3 — efgartigimod SC — Sjögren's Disease · primary 2027",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "primary_completion_date": "2027-07",
-      "mensaje": "Activo, sin reclutamiento",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "nuevo",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Primer registro en caché"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06684847"
-    },
-    {
-      "ticker": "ARGX",
-      "nct": "NCT06544499",
-      "nombre": "advance NEXT Ph3 — efgartigimod IV — ITP expansión indicación",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2028-06",
-      "mensaje": "Reclutando",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "nuevo",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Primer registro en caché"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06544499"
-    },
-    {
-      "ticker": "ARGX",
-      "nct": "NCT07596849",
-      "nombre": "VitaliThy Ph3 (A) — efgartigimod SC — Graves' Disease · inicio jun2026",
-      "nivel": "amarillo",
-      "badge": "🟡",
-      "status": "NOT_YET_RECRUITING",
-      "primary_completion_date": "2028-06",
-      "mensaje": "Aún no recluta",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "nuevo",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Primer registro en caché"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07596849"
-    },
-    {
-      "ticker": "ARGX",
-      "nct": "NCT06742190",
-      "nombre": "EMPASSION Ph3 — empasiprubart vs IVIg — MMN · primary 2027",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "primary_completion_date": "2026-09",
-      "mensaje": "Activo, sin reclutamiento",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "nuevo",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Primer registro en caché"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06742190"
-    },
-    {
-      "ticker": "ARGX",
-      "nct": "NCT06920004",
-      "nombre": "emvigorate Ph3 — empasiprubart vs IVIg — CIDP head-to-head",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2027-09",
-      "mensaje": "Reclutando",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "nuevo",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Primer registro en caché"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06920004"
-    },
-    {
-      "ticker": "DNLI",
-      "nct": "NCT05371613",
-      "nombre": "COMPASS Ph2/3 confirmatorio — tividenofusp alfa (AVLAYAH) — Hunter MPS II",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2027-12",
-      "mensaje": "Reclutando",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "nuevo",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Primer registro en caché"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT05371613"
-    },
-    {
       "ticker": "ALNY",
-      "nct": "NCT07181109",
-      "nombre": "ZENITH Ph3 CVOT — zilebesiran — hipertensión · 11.000 pac. co-Roche · MACE endpoint",
+      "nct": "NCT06393712",
+      "nombre": "cAPPricorn-1 Ph2 — mivelsiran — CAA (cerebral amyloid angiopathy) · 200 pac.",
       "nivel": "azul",
       "badge": "🔵",
       "status": "RECRUITING",
-      "primary_completion_date": "2030-09-30",
+      "primary_completion_date": "2027-08-09",
       "mensaje": "Reclutando",
       "validacion_ok": true,
       "errores_validacion": [],
@@ -2695,279 +2428,9 @@
           "mensaje": "Primer registro en caché"
         }
       ],
-      "url": "https://clinicaltrials.gov/study/NCT07181109"
-    },
-    {
-      "ticker": "ALNY",
-      "nct": "NCT07052903",
-      "nombre": "TRITON-CM Ph3 CVOT — nucresiran — ATTR-CM · 1.750 pac. · lanzamiento ~2030",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2030-05-28",
-      "mensaje": "Reclutando",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "nuevo",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Primer registro en caché"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07052903"
-    },
-    {
-      "ticker": "ALNY",
-      "nct": "NCT07223203",
-      "nombre": "TRITON-PN Ph3 — nucresiran — hATTR-PN vs vutrisiran · 125 pac.",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2027-12-27",
-      "mensaje": "Reclutando",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "nuevo",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Primer registro en caché"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07223203"
-    },
-    {
-      "ticker": "ALNY",
-      "nct": "NCT07636811",
-      "nombre": "Ph2 — mivelsiran — Alzheimer's Disease (Down syndrome-associated) · inicio jul2026",
-      "nivel": "amarillo",
-      "badge": "🟡",
-      "status": "NOT_YET_RECRUITING",
-      "primary_completion_date": "2030-05-18",
-      "mensaje": "Aún no recluta",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "nuevo",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Primer registro en caché"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07636811"
-    },
-    {
-      "ticker": "VRTX",
-      "nct": "NCT06564142",
-      "nombre": "RAINIER Ph3 — povetacicept — IgAN · BLA rolling review · datos W36 positivos mar2026",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "primary_completion_date": "2028-01-30",
-      "mensaje": "Activo, sin reclutamiento",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "nuevo",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Primer registro en caché"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06564142"
-    },
-    {
-      "ticker": "VRTX",
-      "nct": "NCT07204275",
-      "nombre": "OLYMPUS Ph2b/3 — povetacicept — pMN (membranous nephropathy) · pivotal",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2028-12-29",
-      "mensaje": "Reclutando",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "nuevo",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Primer registro en caché"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07204275"
-    },
-    {
-      "ticker": "VRTX",
-      "nct": "NCT05312879",
-      "nombre": "AMPLITUDE Ph2/3 — inaxaplin (VX-147) — AMKD · IA datos fin2026 · Breakthrough Therapy",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2028-06-02",
-      "mensaje": "Reclutando",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "nuevo",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Primer registro en caché"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT05312879"
-    },
-    {
-      "ticker": "VRTX",
-      "nct": "NCT04786262",
-      "nombre": "FORWARD-101 Ph1/2/3 — zimislecel (VX-880) — T1D islet cell · NEJM jun2025 · datos Ph3 2026",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2027-06-30",
-      "mensaje": "Reclutando",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "nuevo",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Primer registro en caché"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT04786262"
-    },
-    {
-      "ticker": "VRTX",
-      "nct": "NCT06628908",
-      "nombre": "Ph3 DPN (1) — suzetrigine (JOURNAVX) — dolor neuropático diabético · primary 2027",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2027-05-31",
-      "mensaje": "Reclutando",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "nuevo",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Primer registro en caché"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06628908"
-    },
-    {
-      "ticker": "VRTX",
-      "nct": "NCT07231419",
-      "nombre": "Ph3 DPN (2) — suzetrigine (JOURNAVX) — dolor neuropático diabético · inicio nov2025",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2027-04-06",
-      "mensaje": "Reclutando",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "nuevo",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Primer registro en caché"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07231419"
-    },
-    {
-      "ticker": "SENS",
-      "nct": "NCT05131139",
-      "nombre": "ENHANCE — Eversense 365 CGM 1 año implantable ✅ COMPLETADO · FDA cleared sep2024",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "UNKNOWN",
-      "primary_completion_date": "2025-03-30",
-      "mensaje": "Estado: UNKNOWN",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "nuevo",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Primer registro en caché"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT05131139"
+      "url": "https://clinicaltrials.gov/study/NCT06393712"
     }
   ],
-  "watchlist_alertas": [
-    {
-      "ticker": "VRTX",
-      "nct": "NCT05210530",
-      "nombre": "VX-264 Ph1/2 — zimislecel encapsulado — T1D sin inmunosupresión",
-      "nivel": "verde",
-      "badge": "🟢",
-      "status": "COMPLETED",
-      "primary_completion_date": "2023-01-19",
-      "validacion_ok": false,
-      "cambios": [],
-      "url": "https://clinicaltrials.gov/study/NCT05210530",
-      "watchlist": true
-    },
-    {
-      "ticker": "DNLI",
-      "nct": "NCT05225532",
-      "nombre": "DNL919 Ph1/2 — tividenofusp-enabled — Alzheimer · 2ª aplicación BBB platform",
-      "nivel": "rojo",
-      "badge": "🔴",
-      "status": "TERMINATED",
-      "primary_completion_date": "2022-12-30",
-      "validacion_ok": false,
-      "cambios": [],
-      "url": "https://clinicaltrials.gov/study/NCT05225532",
-      "watchlist": true
-    },
-    {
-      "ticker": "VKTX",
-      "nct": "NCT06828055",
-      "nombre": "VENTURE-Oral completado — WATCHLIST para detectar registro Ph3 oral VK2735",
-      "nivel": "verde",
-      "badge": "🟢",
-      "status": "COMPLETED",
-      "primary_completion_date": "2025-06-24",
-      "validacion_ok": true,
-      "cambios": [],
-      "url": "https://clinicaltrials.gov/study/NCT06828055",
-      "watchlist": true
-    }
-  ],
-  "errores_validacion": [
-    {
-      "ticker": "ABVX",
-      "nct": "NCT05787340",
-      "nombre": "ABTECT mantenimiento 44sem — obefazimod — UC ✅ DATOS POSITIVOS 1 jun 2026 · NDA Q4 2026",
-      "errores": [
-        "Sponsor no coincide",
-        "Fármaco/intervención no coincide",
-        "Indicación no coincide"
-      ],
-      "sponsor_detectado": "Kahramanmaras Sutcu Imam University",
-      "titulo_detectado": "Investigation From Biopsychosocial Perspective of Patients With Rheumatic Disease With Covid-19 Who Participated in a Biopsychosocial Exercise Program: A Case Series With 6-Month Follow-up",
-      "conditions": [
-        "Rheumatic Diseases"
-      ],
-      "interventions": [
-        "Bilişsel Egzersiz Terapi Yaklaşımı (BETY, Cognitive Exercise Therapy Approach)"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT05787340"
-    }
-  ]
+  "watchlist_alertas": [],
+  "errores_validacion": []
 }

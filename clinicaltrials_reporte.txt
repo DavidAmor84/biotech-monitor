@@ -1,21 +1,8 @@
 ============================================================================
 CLINICALTRIALS MONITOR v9.2 · Modelo Biotech
-Generado: 21/06/2026 17:30
+Generado: 21/06/2026 17:38
 ============================================================================
-RESUMEN: 39 ensayos | Validación OK: 38 | Errores validación: 1 | 🔴 1 | 🟢 4 | 🟡 2 | 🔵 32 | Errores API: 1
-
-----------------------------------------------------------------------------
-❌ ERRORES DE VALIDACIÓN — POSIBLES NCT INCORRECTOS
-----------------------------------------------------------------------------
-
-[ABVX] ABTECT mantenimiento 44sem — obefazimod — UC ✅ DATOS POSITIVOS 1 jun 2026 · NDA Q4 2026
-NCT: NCT05787340
-Sponsor detectado: Kahramanmaras Sutcu Imam University
-Título detectado: Investigation From Biopsychosocial Perspective of Patients With Rheumatic Disease With Covid-19 Who Participated in a Biopsychosocial Exercise Program: A Case Series With 6-Month Follow-up
-Errores: Sponsor no coincide, Fármaco/intervención no coincide, Indicación no coincide
-Conditions: Rheumatic Diseases
-Interventions: Bilişsel Egzersiz Terapi Yaklaşımı (BETY, Cognitive Exercise Therapy Approach)
-→ https://clinicaltrials.gov/study/NCT05787340
+RESUMEN: 40 ensayos | Validación OK: 40 | Errores validación: 0 | 🔴 0 | 🟢 4 | 🟡 2 | 🔵 34 | Errores API: 0
 
 ----------------------------------------------------------------------------
 ALERTAS / CAMBIOS
@@ -31,13 +18,11 @@ NCT: NCT05507216 | Status: COMPLETED
 Primary completion: 2025-06-24
 → https://clinicaltrials.gov/study/NCT05507216
 
-[ABVX] ❌ ABTECT mantenimiento 44sem — obefazimod — UC ✅ DATOS POSITIVOS 1 jun 2026 · NDA Q4 2026
-NCT: NCT05787340 | Status: COMPLETED
-Primary completion: 2021-10-01
-Validación: ❌ Sponsor no coincide, Fármaco/intervención no coincide, Indicación no coincide
+[ABVX] 🔵 ABTECT mantenimiento 44sem — obefazimod (ABX464-107) — UC ✅ DATOS POSITIVOS 1 jun 2026 · NDA Q4 2026
+NCT: NCT05535946 | Status: ACTIVE_NOT_RECRUITING
+Primary completion: 2026-04
   🔵 Primer registro en caché
-  ❌ Sponsor no coincide; Fármaco/intervención no coincide; Indicación no coincide
-→ https://clinicaltrials.gov/study/NCT05787340
+→ https://clinicaltrials.gov/study/NCT05535946
 
 [VKTX] 🟢 VENTURE-Oral Ph2 — VK2735 oral — obesidad ✅ COMPLETADO positivo ago2025 · Ph3 oral en preparación
 NCT: NCT06828055 | Status: COMPLETED
@@ -49,119 +34,11 @@ NCT: NCT04594369 | Status: COMPLETED
 Primary completion: 2024-10-28
 → https://clinicaltrials.gov/study/NCT04594369
 
-[ARGX] 🔵 ADAPT OCULUS Ph3 — efgartigimod SC — ocular MG ✅ datos positivos feb2026 · sBLA planeado
-NCT: NCT06558279 | Status: ACTIVE_NOT_RECRUITING
-Primary completion: 2026-01
+[ALNY] 🔵 cAPPricorn-1 Ph2 — mivelsiran — CAA (cerebral amyloid angiopathy) · 200 pac.
+NCT: NCT06393712 | Status: RECRUITING
+Primary completion: 2027-08-09
   🔵 Primer registro en caché
-→ https://clinicaltrials.gov/study/NCT06558279
-
-[ARGX] 🔵 ADAPT SERON Ph3 — efgartigimod IV — seronegative gMG · Priority Review PDUFA may2026
-NCT: NCT06298552 | Status: ACTIVE_NOT_RECRUITING
-Primary completion: 2025-06-30
-  🔵 Primer registro en caché
-→ https://clinicaltrials.gov/study/NCT06298552
-
-[ARGX] 🔵 UNITY Ph3 — efgartigimod SC — Sjögren's Disease · primary 2027
-NCT: NCT06684847 | Status: ACTIVE_NOT_RECRUITING
-Primary completion: 2027-07
-  🔵 Primer registro en caché
-→ https://clinicaltrials.gov/study/NCT06684847
-
-[ARGX] 🔵 advance NEXT Ph3 — efgartigimod IV — ITP expansión indicación
-NCT: NCT06544499 | Status: RECRUITING
-Primary completion: 2028-06
-  🔵 Primer registro en caché
-→ https://clinicaltrials.gov/study/NCT06544499
-
-[ARGX] 🟡 VitaliThy Ph3 (A) — efgartigimod SC — Graves' Disease · inicio jun2026
-NCT: NCT07596849 | Status: NOT_YET_RECRUITING
-Primary completion: 2028-06
-  🔵 Primer registro en caché
-→ https://clinicaltrials.gov/study/NCT07596849
-
-[ARGX] 🔵 EMPASSION Ph3 — empasiprubart vs IVIg — MMN · primary 2027
-NCT: NCT06742190 | Status: ACTIVE_NOT_RECRUITING
-Primary completion: 2026-09
-  🔵 Primer registro en caché
-→ https://clinicaltrials.gov/study/NCT06742190
-
-[ARGX] 🔵 emvigorate Ph3 — empasiprubart vs IVIg — CIDP head-to-head
-NCT: NCT06920004 | Status: RECRUITING
-Primary completion: 2027-09
-  🔵 Primer registro en caché
-→ https://clinicaltrials.gov/study/NCT06920004
-
-[DNLI] 🔵 COMPASS Ph2/3 confirmatorio — tividenofusp alfa (AVLAYAH) — Hunter MPS II
-NCT: NCT05371613 | Status: RECRUITING
-Primary completion: 2027-12
-  🔵 Primer registro en caché
-→ https://clinicaltrials.gov/study/NCT05371613
-
-[ALNY] 🔵 ZENITH Ph3 CVOT — zilebesiran — hipertensión · 11.000 pac. co-Roche · MACE endpoint
-NCT: NCT07181109 | Status: RECRUITING
-Primary completion: 2030-09-30
-  🔵 Primer registro en caché
-→ https://clinicaltrials.gov/study/NCT07181109
-
-[ALNY] 🔵 TRITON-CM Ph3 CVOT — nucresiran — ATTR-CM · 1.750 pac. · lanzamiento ~2030
-NCT: NCT07052903 | Status: RECRUITING
-Primary completion: 2030-05-28
-  🔵 Primer registro en caché
-→ https://clinicaltrials.gov/study/NCT07052903
-
-[ALNY] 🔵 TRITON-PN Ph3 — nucresiran — hATTR-PN vs vutrisiran · 125 pac.
-NCT: NCT07223203 | Status: RECRUITING
-Primary completion: 2027-12-27
-  🔵 Primer registro en caché
-→ https://clinicaltrials.gov/study/NCT07223203
-
-[ALNY] 🟡 Ph2 — mivelsiran — Alzheimer's Disease (Down syndrome-associated) · inicio jul2026
-NCT: NCT07636811 | Status: NOT_YET_RECRUITING
-Primary completion: 2030-05-18
-  🔵 Primer registro en caché
-→ https://clinicaltrials.gov/study/NCT07636811
-
-[VRTX] 🔵 RAINIER Ph3 — povetacicept — IgAN · BLA rolling review · datos W36 positivos mar2026
-NCT: NCT06564142 | Status: ACTIVE_NOT_RECRUITING
-Primary completion: 2028-01-30
-  🔵 Primer registro en caché
-→ https://clinicaltrials.gov/study/NCT06564142
-
-[VRTX] 🔵 OLYMPUS Ph2b/3 — povetacicept — pMN (membranous nephropathy) · pivotal
-NCT: NCT07204275 | Status: RECRUITING
-Primary completion: 2028-12-29
-  🔵 Primer registro en caché
-→ https://clinicaltrials.gov/study/NCT07204275
-
-[VRTX] 🔵 AMPLITUDE Ph2/3 — inaxaplin (VX-147) — AMKD · IA datos fin2026 · Breakthrough Therapy
-NCT: NCT05312879 | Status: RECRUITING
-Primary completion: 2028-06-02
-  🔵 Primer registro en caché
-→ https://clinicaltrials.gov/study/NCT05312879
-
-[VRTX] 🔵 FORWARD-101 Ph1/2/3 — zimislecel (VX-880) — T1D islet cell · NEJM jun2025 · datos Ph3 2026
-NCT: NCT04786262 | Status: RECRUITING
-Primary completion: 2027-06-30
-  🔵 Primer registro en caché
-→ https://clinicaltrials.gov/study/NCT04786262
-
-[VRTX] 🔵 Ph3 DPN (1) — suzetrigine (JOURNAVX) — dolor neuropático diabético · primary 2027
-NCT: NCT06628908 | Status: RECRUITING
-Primary completion: 2027-05-31
-  🔵 Primer registro en caché
-→ https://clinicaltrials.gov/study/NCT06628908
-
-[VRTX] 🔵 Ph3 DPN (2) — suzetrigine (JOURNAVX) — dolor neuropático diabético · inicio nov2025
-NCT: NCT07231419 | Status: RECRUITING
-Primary completion: 2027-04-06
-  🔵 Primer registro en caché
-→ https://clinicaltrials.gov/study/NCT07231419
-
-[SENS] 🔵 ENHANCE — Eversense 365 CGM 1 año implantable ✅ COMPLETADO · FDA cleared sep2024
-NCT: NCT05131139 | Status: UNKNOWN
-Primary completion: 2025-03-30
-  🔵 Primer registro en caché
-→ https://clinicaltrials.gov/study/NCT05131139
+→ https://clinicaltrials.gov/study/NCT06393712
 
 ----------------------------------------------------------------------------
 DETALLE POR EMPRESA
@@ -227,7 +104,7 @@ DETALLE POR EMPRESA
      Last update posted: 2026-05-18
      → https://clinicaltrials.gov/study/NCT05951179
 
-🔴 [ABVX]
+🟢 [ABVX]
   🟢 ABTECT-1 Ph3 inducción — obefazimod — UC ✅ COMPLETADO positivo | Validación: OK
      NCT: NCT05507203 | Status: Ensayo completado
      Sponsor: Abivax S.A.
@@ -246,16 +123,15 @@ DETALLE POR EMPRESA
      Study completion: 2025-07-15 ACTUAL
      Last update posted: 2025-10-24
      → https://clinicaltrials.gov/study/NCT05507216
-  ❌ ABTECT mantenimiento 44sem — obefazimod — UC ✅ DATOS POSITIVOS 1 jun 2026 · NDA Q4 2026 | Validación: ERROR
-     NCT: NCT05787340 | Status: NCT no validado contra empresa/fármaco/indicación
-     Sponsor: Kahramanmaras Sutcu Imam University
-     Phase: NA
-     Enrollment: 5
-     Primary completion: 2021-10-01 ACTUAL
-     Study completion: 2021-10-01 ACTUAL
-     Last update posted: 2023-03-28
-     ❌ Validación: Sponsor no coincide, Fármaco/intervención no coincide, Indicación no coincide
-     → https://clinicaltrials.gov/study/NCT05787340
+  🔵 ABTECT mantenimiento 44sem — obefazimod (ABX464-107) — UC ✅ DATOS POSITIVOS 1 jun 2026 · NDA Q4 2026 | Validación: OK
+     NCT: NCT05535946 | Status: Activo, sin reclutamiento
+     Sponsor: Abivax S.A.
+     Phase: PHASE3
+     Enrollment: 1116
+     Primary completion: 2026-04 ESTIMATED
+     Study completion: 2030-05 ESTIMATED
+     Last update posted: 2025-10-24
+     → https://clinicaltrials.gov/study/NCT05535946
 
 🔵 [VERA]
   🔵 ORIGIN 3 Ph3 — atacicept — IgAN · PDUFA 7 jul 2026 🔴 INMINENTE | Validación: OK
@@ -446,7 +322,7 @@ DETALLE POR EMPRESA
      Last update posted: 2025-08-05
      → https://clinicaltrials.gov/study/NCT05371613
 
-🔴 [ALNY]
+🟡 [ALNY]
   🔵 ZENITH Ph3 CVOT — zilebesiran — hipertensión · 11.000 pac. co-Roche · MACE endpoint | Validación: OK
      NCT: NCT07181109 | Status: Reclutando
      Sponsor: Alnylam Pharmaceuticals
@@ -474,7 +350,15 @@ DETALLE POR EMPRESA
      Study completion: 2031-06-12 ESTIMATED
      Last update posted: 2026-06-12
      → https://clinicaltrials.gov/study/NCT07223203
-  ❌ cAPPricorn-1 Ph2 — mivelsiran — CAA (cerebral amyloid angiopathy) · 200 pac. (NCT06939371): HTTP Error 404: Not Found
+  🔵 cAPPricorn-1 Ph2 — mivelsiran — CAA (cerebral amyloid angiopathy) · 200 pac. | Validación: OK
+     NCT: NCT06393712 | Status: Reclutando
+     Sponsor: Alnylam Pharmaceuticals
+     Phase: PHASE2
+     Enrollment: 200
+     Primary completion: 2027-08-09 ESTIMATED
+     Study completion: 2029-12-14 ESTIMATED
+     Last update posted: 2026-06-12
+     → https://clinicaltrials.gov/study/NCT06393712
   🟡 Ph2 — mivelsiran — Alzheimer's Disease (Down syndrome-associated) · inicio jul2026 | Validación: OK
      NCT: NCT07636811 | Status: Aún no recluta
      Sponsor: Alnylam Pharmaceuticals
@@ -552,21 +436,7 @@ DETALLE POR EMPRESA
      Last update posted: 2023-04-26
      → https://clinicaltrials.gov/study/NCT05131139
 
-----------------------------------------------------------------------------
-👁️  WATCHLIST — CAMBIOS DETECTADOS (3)
-----------------------------------------------------------------------------
-
-[VRTX] 🟢 VX-264 Ph1/2 — zimislecel encapsulado — T1D sin inmunosupresión
-NCT: NCT05210530 | Status: COMPLETED
-→ https://clinicaltrials.gov/study/NCT05210530
-
-[DNLI] 🔴 DNL919 Ph1/2 — tividenofusp-enabled — Alzheimer · 2ª aplicación BBB platform
-NCT: NCT05225532 | Status: TERMINATED
-→ https://clinicaltrials.gov/study/NCT05225532
-
-[VKTX] 🟢 VENTURE-Oral completado — WATCHLIST para detectar registro Ph3 oral VK2735
-NCT: NCT06828055 | Status: COMPLETED
-→ https://clinicaltrials.gov/study/NCT06828055
+👁️  WATCHLIST: 9 ensayos monitorizados sin cambios
 
 ============================================================================
 Fuente: ClinicalTrials.gov API v2

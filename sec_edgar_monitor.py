@@ -339,7 +339,7 @@ KEYWORDS_AMARILLO = [
 
 # Items 8-K con su clasificación
 ITEMS_8K = {
-    "1.01": ("verde",  "Acuerdo material (colaboración, licencia, M&A)"),
+    "1.01": ("azul",   "Acuerdo material — revisar contenido"),
     "1.02": ("rojo",   "Terminación de acuerdo material"),
     "1.03": ("rojo",   "Bankruptcy o receivership"),
     "2.02": ("azul",   "Resultados de operaciones (earnings)"),
@@ -381,163 +381,200 @@ def clasificar_base(form, desc="", doc=""):
 # ── MÓDULO 2: FORM 4 XML ──────────────────────────────────────────────────────
 def parsear_form4(url):
     """
-    Descarga y parsea el XML del Form 4 para extraer:
-    nombre, cargo, tipo transacción, acciones, precio, fecha.
+    Parseo robusto de Form 4 XML:
+    extrae insider, cargo, tipo, acciones, precio, fecha y acciones posteriores.
     """
     result = {
         "insider_nombre": None,
         "insider_cargo":  None,
+        "transaccion_codigo": None,
         "transaccion_tipo": None,
         "transaccion_acciones": None,
         "transaccion_precio": None,
         "transaccion_fecha": None,
         "acciones_post": None,
+        "footnotes": None,
+        "es_rutinaria": False,
         "resumen_detail": None,
     }
+
+    def strip_ns(tag):
+        return tag.split("}", 1)[-1] if "}" in tag else tag
+
+    def first_text_any(root, tag):
+        for el in root.iter():
+            if strip_ns(el.tag) == tag and el.text and el.text.strip():
+                return el.text.strip()
+        return None
+
+    def first_child_text(node, tag):
+        for el in node.iter():
+            if strip_ns(el.tag) == tag and el.text and el.text.strip():
+                return el.text.strip()
+        return None
+
+    def all_text_any(root, tag):
+        vals = []
+        for el in root.iter():
+            if strip_ns(el.tag) == tag and el.text and el.text.strip():
+                vals.append(el.text.strip())
+        return vals
+
     try:
-        # La SEC sirve Form 4 con transformador XSL en la URL (/xslF345X06/)
-        # Hay que eliminarlo para obtener el XML puro y parseable
-        xml_url = url
-        if "/xslF345X06/" in xml_url:
-            xml_url = xml_url.replace("/xslF345X06/", "/")
-        if xml_url.endswith(".htm"):
-            xml_url = xml_url.replace(".htm", ".xml")
-        content, _ = fetch_text(xml_url, timeout=15)
+        urls_to_try = [url]
+        if "/xslF345X06/" in url:
+            urls_to_try.append(url.replace("/xslF345X06/", "/"))
+        if url.endswith(".htm"):
+            urls_to_try.append(url[:-4] + ".xml")
+
+        content = None
+        last_err = None
+        for u in urls_to_try:
+            try:
+                content, _ = fetch_text(u, timeout=15)
+                if content and "<ownershipDocument" in content:
+                    break
+            except Exception as e:
+                last_err = e
+        if not content:
+            raise last_err or Exception("No se pudo descargar XML Form 4")
+
         safe_sleep()
-
+        idx = content.find("<ownershipDocument")
+        if idx > 0:
+            content = content[idx:]
         root = ET.fromstring(content)
-        ns = {"": root.tag.split("}")[0].strip("{") if "}" in root.tag else ""}
 
-        def find_text(tag):
-            # Busca con y sin namespace
-            el = root.find(".//" + tag)
-            if el is None and ns.get(""):
-                el = root.find(".//{%s}%s" % (ns[""], tag))
-            return el.text.strip() if el is not None and el.text else None
+        result["insider_nombre"] = first_text_any(root, "rptOwnerName")
 
-        result["insider_nombre"] = find_text("rptOwnerName")
-        result["insider_cargo"]  = find_text("officerTitle") or find_text("rptOwnerRelationship")
+        is_director = first_text_any(root, "isDirector") == "1"
+        is_officer  = first_text_any(root, "isOfficer") == "1"
+        officer     = first_text_any(root, "officerTitle")
+        roles = []
+        if is_director:
+            roles.append("Director")
+        if is_officer and officer:
+            roles.append(officer)
+        elif is_officer:
+            roles.append("Officer")
+        result["insider_cargo"] = " / ".join(roles) if roles else officer
 
-        # Buscar transacciones no derivadas
-        trans_nodes = root.findall(".//nonDerivativeTransaction")
-        if not trans_nodes:
-            trans_nodes = root.findall(".//derivativeTransaction")
+        foots = all_text_any(root, "footnote")
+        result["footnotes"] = " ".join(foots)[:1000] if foots else None
+        foot_l = (result["footnotes"] or "").lower()
+        rutina_kw = ["tax withholding", "withholding tax", "withheld", "tax liability", "sell to cover", "to satisfy tax", "restricted stock unit", "rsu", "10b5-1", "rule 10b5", "automatic", "vesting", "shares were sold"]
+        result["es_rutinaria"] = any(k in foot_l for k in rutina_kw)
 
-        if trans_nodes:
-            tn = trans_nodes[0]
-            def tn_text(tag):
-                el = tn.find(".//" + tag)
-                return el.text.strip() if el is not None and el.text else None
+        trans_nodes = []
+        for el in root.iter():
+            if strip_ns(el.tag) in ("nonDerivativeTransaction", "derivativeTransaction"):
+                trans_nodes.append(el)
 
-            tipo_code = tn_text("transactionCode") or ""
-            tipos = {"P":"Compra","S":"Venta","A":"Concesión","D":"Disposición",
-                     "M":"Ejercicio opción","G":"Donación","F":"Retención impuestos"}
-            result["transaccion_tipo"]     = tipos.get(tipo_code, tipo_code)
-            result["transaccion_acciones"] = tn_text("transactionShares") or tn_text("transactionAcquiredDisposedCode")
-            result["transaccion_precio"]   = tn_text("transactionPricePerShare")
-            result["transaccion_fecha"]    = tn_text("transactionDate")
-            result["acciones_post"]        = tn_text("sharesOwnedFollowingTransaction")
+        chosen = None
+        for tn in trans_nodes:
+            if first_child_text(tn, "transactionCode"):
+                chosen = tn
+                break
+        if chosen is None and trans_nodes:
+            chosen = trans_nodes[0]
 
-        # Construir resumen legible
+        if chosen is not None:
+            code = first_child_text(chosen, "transactionCode") or ""
+            result["transaccion_codigo"] = code
+            tipos = {"P": "Compra", "S": "Venta", "A": "Concesión", "D": "Disposición", "M": "Ejercicio opción", "G": "Donación", "F": "Retención impuestos", "J": "Otro", "C": "Conversión", "I": "Discrecional"}
+            result["transaccion_tipo"] = tipos.get(code, code or None)
+            result["transaccion_acciones"] = first_child_text(chosen, "transactionShares")
+            result["transaccion_precio"]   = first_child_text(chosen, "transactionPricePerShare")
+            result["transaccion_fecha"]    = first_child_text(chosen, "transactionDate")
+            result["acciones_post"]        = first_child_text(chosen, "sharesOwnedFollowingTransaction")
+
+        if not result["acciones_post"]:
+            result["acciones_post"] = first_text_any(root, "sharesOwnedFollowingTransaction")
+
         partes = []
         if result["insider_nombre"]: partes.append(result["insider_nombre"])
-        if result["insider_cargo"]:  partes.append(f"({result['insider_cargo']})")
+        if result["insider_cargo"]: partes.append(f"({result['insider_cargo']})")
         if result["transaccion_tipo"]: partes.append(f"→ {result['transaccion_tipo']}")
         if result["transaccion_acciones"]:
             try:
-                acc = int(float(result["transaccion_acciones"]))
-                partes.append(f"{acc:,} acciones")
+                acc = float(str(result["transaccion_acciones"]).replace(",", ""))
+                partes.append(f"{acc:,.0f} acciones")
             except Exception:
-                partes.append(result["transaccion_acciones"])
+                partes.append(str(result["transaccion_acciones"]))
         if result["transaccion_precio"]:
             try:
-                precio = float(result["transaccion_precio"])
+                precio = float(str(result["transaccion_precio"]).replace(",", ""))
                 partes.append(f"@ ${precio:.2f}")
             except Exception:
                 pass
-        result["resumen_detail"] = " ".join(partes) if partes else None
-
+        if result["acciones_post"]:
+            try:
+                post = float(str(result["acciones_post"]).replace(",", ""))
+                partes.append(f"| Post: {post:,.0f}")
+            except Exception:
+                pass
+        if result["es_rutinaria"]: partes.append("| Rutinaria/RSU/impuestos")
+        result["resumen_detail"] = " ".join(partes) if partes else "Form 4 — sin detalle extraíble"
     except Exception as e:
-        result["resumen_detail"] = f"Form 4 — parse error: {str(e)[:80]}"
-
+        result["resumen_detail"] = f"Form 4 — parse error: {str(e)[:100]}"
     return result
 
 # ── MÓDULO 3: 8-K ITEMS + TEXTO ──────────────────────────────────────────────
 def parsear_8k(url):
     """
-    Descarga el HTML/TXT del 8-K y extrae:
-    - Items reportados
-    - Clasificación semántica por Item
-    - Extracto del cuerpo (primeras 1500 chars relevantes)
+    Parseo 8-K mejorado:
+    - Item 1.01 no es verde automático.
+    - Item 2.03 o deuda/credit facility fuerzan amarillo.
+    - Solo marca verde si detecta colaboración/licencia/M&A real o datos clínicos/FDA positivos.
     """
-    result = {
-        "items_detectados": [],
-        "clasificacion_item": None,
-        "extracto": None,
-        "nivel_ajustado": None,
-        "badge_ajustado": None,
-        "resumen_ajustado": None,
-    }
+    result = {"items_detectados": [], "clasificacion_item": None, "extracto": None, "nivel_ajustado": None, "badge_ajustado": None, "resumen_ajustado": None}
+    badges = {"rojo": "🔴 ALTA", "verde": "🟢 ALTA", "amarillo": "🟡 MEDIA", "azul": "🔵 INFO"}
     try:
         content, _ = fetch_text(url, timeout=20)
         safe_sleep()
-
-        # Limpiar HTML básico
         texto = re.sub(r'<[^>]+>', ' ', content)
         texto = re.sub(r'&nbsp;', ' ', texto)
         texto = re.sub(r'&#\d+;', ' ', texto)
         texto = re.sub(r'\s+', ' ', texto).strip()
         texto_lower = texto.lower()
-
-        # Detectar Items reportados
         items_encontrados = re.findall(r'item\s+(\d+\.\d+)', texto_lower)
         items_unicos = list(dict.fromkeys(items_encontrados))
-        result["items_detectados"] = items_unicos[:8]  # máximo 8
+        result["items_detectados"] = items_unicos[:8]
+        idxs = [texto_lower.find("item " + it) for it in items_unicos if texto_lower.find("item " + it) >= 0]
+        idx = min(idxs) if idxs else 200
+        result["extracto"] = texto[max(0, idx):idx + 1200].strip()
 
-        # Clasificar por Item más relevante
-        mejor_nivel = "azul"
-        mejor_desc  = None
-        orden_prioridad = ["rojo","verde","amarillo","azul"]
-        for item_num in items_unicos:
-            if item_num in ITEMS_8K:
-                niv, desc = ITEMS_8K[item_num]
-                if orden_prioridad.index(niv) < orden_prioridad.index(mejor_nivel):
-                    mejor_nivel = niv
-                    mejor_desc  = f"Item {item_num}: {desc}"
+        for kw, desc in [("clinical hold", "Clinical hold"), ("complete response letter", "CRL / Complete Response Letter"), ("did not meet primary endpoint", "Fallo endpoint primario"), ("failed to meet", "Fallo de endpoint"), ("negative topline", "Datos topline negativos"), ("delisting", "Riesgo de delisting"), ("going concern", "Going concern"), ("bankruptcy", "Bankruptcy")]:
+            if kw in texto_lower:
+                result["nivel_ajustado"] = "rojo"; result["badge_ajustado"] = badges["rojo"]; result["resumen_ajustado"] = f"8-K — Evento negativo potencial: {desc}"; return result
 
-        # Si no hay Items reconocidos, clasificar por keywords en el cuerpo
-        if not mejor_desc:
-            for kw in KEYWORDS_ROJO:
-                if kw in texto_lower:
-                    mejor_nivel = "rojo"
-                    mejor_desc  = f"Keyword crítico en cuerpo: '{kw}'"
-                    break
-            if mejor_nivel == "azul":
-                for kw in KEYWORDS_VERDE:
-                    if kw in texto_lower:
-                        mejor_nivel = "verde"
-                        mejor_desc  = f"Keyword positivo en cuerpo: '{kw}'"
-                        break
-            if mejor_nivel == "azul":
-                for kw in KEYWORDS_AMARILLO:
-                    if kw in texto_lower:
-                        mejor_nivel = "amarillo"
-                        mejor_desc  = f"Keyword dilución en cuerpo: '{kw}'"
-                        break
+        deuda_kw = ["item 2.03", "credit agreement", "loan agreement", "term loan", "debt financing", "notes payable", "borrowings", "indebtedness", "secured loan", "credit facility"]
+        if "2.03" in items_unicos or any(k in texto_lower for k in deuda_kw):
+            result["nivel_ajustado"] = "amarillo"; result["badge_ajustado"] = badges["amarillo"]; result["resumen_ajustado"] = "8-K — Posible deuda/obligación financiera; revisar condiciones"; return result
 
-        badges = {"rojo":"🔴 ALTA","verde":"🟢 ALTA","amarillo":"🟡 MEDIA","azul":"🔵 INFO"}
-        result["nivel_ajustado"]   = mejor_nivel
-        result["badge_ajustado"]   = badges.get(mejor_nivel, "🔵 INFO")
-        result["resumen_ajustado"] = mejor_desc or "8-K — Sin clasificación específica por Item"
+        dilucion_kw = ["public offering", "underwritten offering", "registered direct", "securities purchase agreement", "at-the-market", "at the market", "sales agreement", "warrants", "convertible notes", "pipe"]
+        for kw in dilucion_kw:
+            if kw in texto_lower:
+                result["nivel_ajustado"] = "amarillo"; result["badge_ajustado"] = badges["amarillo"]; result["resumen_ajustado"] = f"8-K — Posible financiación/dilución: {kw}"; return result
 
-        # Extracto del cuerpo (buscar párrafo con información real)
-        extracto_raw = texto[200:1800] if len(texto) > 200 else texto
-        result["extracto"] = extracto_raw[:800].strip()
+        positivos = [("collaboration agreement", "Acuerdo de colaboración"), ("license agreement", "Acuerdo de licencia"), ("licensing agreement", "Acuerdo de licencia"), ("strategic collaboration", "Colaboración estratégica"), ("merger agreement", "M&A / merger agreement"), ("acquisition agreement", "M&A / acquisition agreement"), ("fda approval", "Aprobación FDA"), ("fda approved", "Aprobación FDA"), ("accelerated approval", "Aprobación acelerada"), ("positive topline", "Datos topline positivos"), ("met primary endpoint", "Cumple endpoint primario"), ("statistically significant", "Resultado estadísticamente significativo"), ("priority review", "Priority Review"), ("breakthrough therapy", "Breakthrough Therapy")]
+        for kw, desc in positivos:
+            if kw in texto_lower:
+                result["nivel_ajustado"] = "verde"; result["badge_ajustado"] = badges["verde"]; result["resumen_ajustado"] = f"8-K — Evento positivo potencial: {desc}"; return result
 
+        if "1.02" in items_unicos:
+            result["nivel_ajustado"] = "rojo"; result["badge_ajustado"] = badges["rojo"]; result["resumen_ajustado"] = "Item 1.02: Terminación de acuerdo material"
+        elif "5.02" in items_unicos:
+            result["nivel_ajustado"] = "amarillo"; result["badge_ajustado"] = badges["amarillo"]; result["resumen_ajustado"] = "Item 5.02: Cambio directivos (CEO/CFO/CSO)"
+        elif "1.01" in items_unicos:
+            result["nivel_ajustado"] = "azul"; result["badge_ajustado"] = badges["azul"]; result["resumen_ajustado"] = "Item 1.01: Acuerdo material — revisar contenido"
+        elif "5.07" in items_unicos:
+            result["nivel_ajustado"] = "azul"; result["badge_ajustado"] = badges["azul"]; result["resumen_ajustado"] = "Item 5.07: Votación junta accionistas"
+        else:
+            result["nivel_ajustado"] = "azul"; result["badge_ajustado"] = badges["azul"]; result["resumen_ajustado"] = "8-K — Sin clasificación específica por Item"
+        return result
     except Exception as e:
-        result["resumen_ajustado"] = f"8-K — Error lectura: {str(e)[:80]}"
-
-    return result
+        result["nivel_ajustado"] = "azul"; result["badge_ajustado"] = "🔵 INFO"; result["resumen_ajustado"] = f"8-K — Error lectura: {str(e)[:80]}"; return result
 
 # ── MÓDULO 4: 10-Q FINANCIERO ─────────────────────────────────────────────────
 CASH_PATTERNS = [
@@ -859,11 +896,17 @@ def get_filings(ticker, cik, dias, nombre_esperado=None):
             filing["form4_detail"] = f4
             if f4.get("resumen_detail"):
                 filing["resumen"] = f4["resumen_detail"]
-                # Reclasificar: compra insider = verde, venta = mantener amarillo
-                if f4.get("transaccion_tipo") == "Compra":
+                tipo_f4 = f4.get("transaccion_tipo")
+                if tipo_f4 == "Compra":
                     filing["nivel"] = "verde"
                     filing["badge"] = "🟢 ALTA"
                     filing["resumen"] = f"Insider BUY: {f4['resumen_detail']}"
+                elif tipo_f4 in ("Concesión", "Retención impuestos", "Ejercicio opción", "Donación"):
+                    filing["nivel"] = "azul"
+                    filing["badge"] = "🔵 INFO"
+                elif tipo_f4 == "Venta" and f4.get("es_rutinaria"):
+                    filing["nivel"] = "amarillo"
+                    filing["badge"] = "🟡 MEDIA"
 
         # ── Módulo 3: 8-K ──
         elif form in ("8-K","8-K/A"):

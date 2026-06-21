@@ -687,29 +687,37 @@ def parsear_8k(url):
             result["nivel_ajustado"] = "rojo"
             result["badge_ajustado"] = badges["rojo"]
             result["resumen_ajustado"] = "Item 1.02: Terminación de acuerdo material"
+
         elif "5.02" in items_unicos:
             if (
-        "equity incentive plan" in texto_lower
-        or "compensatory arrangements" in texto_lower
-        or "annual meeting" in texto_lower
-        or "stock option" in texto_lower
-        or "restricted stock unit" in texto_lower
-    ):
-        result["nivel_ajustado"] = "azul"
-        result["badge_ajustado"] = badges["azul"]
-        result["resumen_ajustado"] = "Item 5.02: Plan de incentivos / compensación aprobado — informativo"
-    else:
-        result["nivel_ajustado"] = "amarillo"
-        result["badge_ajustado"] = badges["amarillo"]
-        result["resumen_ajustado"] = "Item 5.02: Cambio directivos relevante"
+                "equity incentive plan" in texto_lower
+                or "compensatory arrangements" in texto_lower
+                or "annual meeting" in texto_lower
+                or "stock option" in texto_lower
+                or "restricted stock unit" in texto_lower
+            ):
+                result["nivel_ajustado"] = "azul"
+                result["badge_ajustado"] = badges["azul"]
+                result["resumen_ajustado"] = (
+                    "Item 5.02: Plan de incentivos / compensación aprobado - informativo"
+                )
+            else:
+                result["nivel_ajustado"] = "amarillo"
+                result["badge_ajustado"] = badges["amarillo"]
+                result["resumen_ajustado"] = (
+                    "Item 5.02: Cambio directivos relevante"
+                )
+
         elif "1.01" in items_unicos:
             result["nivel_ajustado"] = "azul"
             result["badge_ajustado"] = badges["azul"]
             result["resumen_ajustado"] = "Item 1.01: Acuerdo material — revisar contenido"
+
         elif "5.07" in items_unicos:
             result["nivel_ajustado"] = "azul"
             result["badge_ajustado"] = badges["azul"]
             result["resumen_ajustado"] = "Item 5.07: Votación junta accionistas"
+
         else:
             result["nivel_ajustado"] = "azul"
             result["badge_ajustado"] = badges["azul"]

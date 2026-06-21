@@ -1,23 +1,25 @@
 {
-  "version": "v9.1",
-  "generado": "21/06/2026 17:06",
+  "version": "v9.2",
+  "generado": "21/06/2026 17:30",
   "fecha": "2026-06-21",
   "resumen": {
-    "total_ensayos": 19,
-    "validacion_ok": 19,
-    "validacion_error": 0,
-    "alertas_rojas": 0,
+    "total_ensayos": 39,
+    "watchlist_total": 9,
+    "watchlist_con_cambios": 3,
+    "validacion_ok": 38,
+    "validacion_error": 1,
+    "alertas_rojas": 1,
     "alertas_verdes": 4,
-    "alertas_amarillas": 0,
-    "alertas_azules": 15,
-    "errores": 0
+    "alertas_amarillas": 2,
+    "alertas_azules": 32,
+    "errores": 1
   },
   "empresas": {
     "DYN": {
       "ensayos": [
         {
           "nct": "NCT05524883",
-          "nombre_usuario": "DELIVER — z-rostudirsen / DYNE-251 — DMD exon 51",
+          "nombre_usuario": "DELIVER Ph1/2 registracional — z-rostudirsen — DMD exon 51 · BLA en revisión FDA",
           "titulo": "Safety, Tolerability, Pharmacodynamic, Efficacy, and Pharmacokinetic Study of DYNE-251 in Participants With Duchenne Muscular Dystrophy Amenable to Exon 51 Skipping",
           "titulo_oficial": "A Randomized, Double-Blind, Placebo-Controlled, Multiple Ascending Dose Study Assessing Safety, Tolerability, Pharmacodynamics, Efficacy, and Pharmacokinetics of DYNE-251 Administered to Participants With Duchenne Muscular Dystrophy Amenable to Exon 51 Skipping",
           "sponsor": "Dyne Therapeutics",
@@ -70,7 +72,7 @@
         },
         {
           "nct": "NCT05481879",
-          "nombre_usuario": "ACHIEVE — z-basivarsen / DYNE-101 — DM1",
+          "nombre_usuario": "ACHIEVE Ph1/2 registracional — z-basivarsen — DM1 · Accel. Approval Q1 2027",
           "titulo": "Safety, Tolerability, Pharmacodynamic, Efficacy, and Pharmacokinetic Study of DYNE-101 in Participants With Myotonic Dystrophy Type 1",
           "titulo_oficial": "A Randomized, Placebo-Controlled, Multiple Ascending Dose Study Assessing Safety, Tolerability, Pharmacodynamics, Efficacy, and Pharmacokinetics of DYNE-101 Administered to Participants With Myotonic Dystrophy Type 1",
           "sponsor": "Dyne Therapeutics",
@@ -123,7 +125,7 @@
         },
         {
           "nct": "NCT07486934",
-          "nombre_usuario": "HARMONIA — z-basivarsen — DM1 confirmatorio",
+          "nombre_usuario": "HARMONIA Ph3 — z-basivarsen — DM1 confirmatorio · primary 2028",
           "titulo": "Efficacy, Safety, and Tolerability of Zeleciment Basivarsen (DYNE-101) in Participants With Myotonic Dystrophy Type 1",
           "titulo_oficial": "A Phase 3, Randomized, Double-Blind, 48-Week Placebo-Controlled Study to Assess the Efficacy, Safety, and Tolerability of DYNE-101 Administered to Participants With Myotonic Dystrophy Type 1",
           "sponsor": "Dyne Therapeutics",
@@ -187,7 +189,7 @@
       "ensayos": [
         {
           "nct": "NCT06223958",
-          "nombre_usuario": "SOL-1 — AXPAXLI / OTX-TKI — wet AMD",
+          "nombre_usuario": "SOL-1 Ph3 superioridad — AXPAXLI — wet AMD ✅ datos feb2026 · NDA inminente",
           "titulo": "Study to Evaluate the Efficacy and Safety of Intravitreal OTX-TKI (Ocular Therapeutix) (Axitinib Implant) in Subjects With Neovascular Age-Related Macular Degeneration",
           "titulo_oficial": "A Phase 3, Multicenter, Double-Masked, Randomized, Parallel-Group Study to Evaluate the Efficacy and Safety of Intravitreal OTX-TKI (Axitinib Implant) in Subjects With Neovascular Age-Related Macular Degeneration (nAMD)",
           "sponsor": "Ocular Therapeutix, Inc.",
@@ -245,7 +247,7 @@
         },
         {
           "nct": "NCT06495918",
-          "nombre_usuario": "SOL-R — AXPAXLI / OTX-TKI — wet AMD",
+          "nombre_usuario": "SOL-R Ph3 no inferioridad — AXPAXLI — wet AMD · datos Q1 2027",
           "titulo": "Study to Evaluate the Efficacy and Safety of Intravitreal OTX-TKI (Axitinib Implant) in Subjects With Neovascular Age- Related Macular Degeneration",
           "titulo_oficial": "A Phase 3, Multicenter, Double-Masked, Randomized, Parallel Group Study to Evaluate the Efficacy and Safety of Intravitreal OTX-TKI (Axitinib Implant) in Subjects With Neovascular Age- Related Macular Degeneration",
           "sponsor": "Ocular Therapeutix, Inc.",
@@ -310,7 +312,7 @@
       "ensayos": [
         {
           "nct": "NCT05951179",
-          "nombre_usuario": "ADVANCED-2 — TARA-002 — NMIBC (BCG-naïve/unresponsive CIS)",
+          "nombre_usuario": "ADVANCED-2 Ph2 — TARA-002 — NMIBC BCG-naïve/unresponsive CIS",
           "titulo": "Safety and Efficacy Study of Intravesical Instillation of TARA-002 in Adults With High-grade Non-muscle Invasive Bladder Cancer",
           "titulo_oficial": "A Phase 2, Open-Label Study to Evaluate the Safety and Efficacy of Intravesical Instillation of TARA-002 in Adults With High-Grade Non-Muscle Invasive Bladder Cancer",
           "sponsor": "Protara Therapeutics",
@@ -356,14 +358,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "nuevo",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Primer registro en caché"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -376,7 +371,7 @@
       "ensayos": [
         {
           "nct": "NCT05507203",
-          "nombre_usuario": "ABTECT-1 — obefazimod / ABX464 — UC",
+          "nombre_usuario": "ABTECT-1 Ph3 inducción — obefazimod — UC ✅ COMPLETADO positivo",
           "titulo": "ABTECT-1 - ABX464 Treatment Evaluation for Ulcerative Colitis Therapy -1",
           "titulo_oficial": "A Randomized, Double-blind, Placebo-controlled, Multicenter Phase III Study to Evaluate the Efficacy and Safety of ABX464 Once Daily for Induction Treatment in Subjects With Moderately to Severely Active Ulcerative Colitis",
           "sponsor": "Abivax S.A.",
@@ -429,7 +424,7 @@
         },
         {
           "nct": "NCT05507216",
-          "nombre_usuario": "ABTECT-2 — obefazimod / ABX464 — UC",
+          "nombre_usuario": "ABTECT-2 Ph3 inducción AT-failure — obefazimod — UC ✅ COMPLETADO positivo",
           "titulo": "ABTECT-2 - ABX464 Treatment Evaluation for Ulcerative Colitis Therapy -2",
           "titulo_oficial": "A Randomized, Double-blind, Placebo-controlled, Multicenter Phase III Study to Evaluate the Efficacy and Safety of ABX464 Once Daily for Induction Treatment in Subjects With Moderately to Severely Active Ulcerative Colitis",
           "sponsor": "Abivax S.A.",
@@ -479,16 +474,85 @@
           "nivel": "verde",
           "badge": "🟢",
           "error": null
+        },
+        {
+          "nct": "NCT05787340",
+          "nombre_usuario": "ABTECT mantenimiento 44sem — obefazimod — UC ✅ DATOS POSITIVOS 1 jun 2026 · NDA Q4 2026",
+          "titulo": "Investigation From Biopsychosocial Perspective of Patients With Rheumatic Disease With Covid-19 Who Participated in a Biopsychosocial Exercise Program: A Case Series With 6-Month Follow-up",
+          "titulo_oficial": "Investigation From Biopsychosocial Perspective of Patients With Rheumatic Disease With Covid-19 Who Participated in a Biopsychosocial Exercise Program: A Case Series With 6-Month Follow-up",
+          "sponsor": "Kahramanmaras Sutcu Imam University",
+          "collaborators": [],
+          "status": "COMPLETED",
+          "status_desc": "NCT no validado contra empresa/fármaco/indicación",
+          "nivel_base": "verde",
+          "badge_base": "🟢",
+          "phase": "NA",
+          "enrollment": 5,
+          "primary_completion_date": "2021-10-01",
+          "primary_completion_type": "ACTUAL",
+          "study_completion_date": "2021-10-01",
+          "study_completion_type": "ACTUAL",
+          "start_date": "2021-06-01",
+          "last_update_posted": "2023-03-28",
+          "conditions": [
+            "Rheumatic Diseases"
+          ],
+          "interventions": [
+            "Bilişsel Egzersiz Terapi Yaklaşımı (BETY, Cognitive Exercise Therapy Approach)"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05787340",
+          "validacion": {
+            "ok": false,
+            "errores": [
+              "Sponsor no coincide",
+              "Fármaco/intervención no coincide",
+              "Indicación no coincide"
+            ],
+            "detalles": {
+              "sponsor_text": "Kahramanmaras Sutcu Imam University ",
+              "drug_text": "Investigation From Biopsychosocial Perspective of Patients With Rheumatic Disease With Covid-19 Who Participated in a Biopsychosocial Exercise Program: A Case Series With 6-Month Follow-up Investigation From Biopsychosocial Perspective of Patients With Rheumatic Disease With Covid-19 Who Participated in a Biopsychosocial Exercise Program: A Case Series With 6-Month Follow-up Bilişsel Egzersiz Terapi Yaklaşımı (BETY, Cognitive Exercise Therapy Approach)",
+              "condition_text": "Investigation From Biopsychosocial Perspective of Patients With Rheumatic Disease With Covid-19 Who Participated in a Biopsychosocial Exercise Program: A Case Series With 6-Month Follow-up Investigation From Biopsychosocial Perspective of Patients With Rheumatic Disease With Covid-19 Who Participated in a Biopsychosocial Exercise Program: A Case Series With 6-Month Follow-up Rheumatic Diseases"
+            },
+            "sponsor_keywords": [
+              "abivax"
+            ],
+            "drug_keywords": [
+              "obefazimod",
+              "abx464",
+              "abx-464"
+            ],
+            "condition_keywords": [
+              "ulcerative colitis"
+            ]
+          },
+          "validacion_ok": false,
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            },
+            {
+              "tipo": "validacion",
+              "nivel": "rojo",
+              "badge": "❌",
+              "mensaje": "Sponsor no coincide; Fármaco/intervención no coincide; Indicación no coincide"
+            }
+          ],
+          "nivel": "rojo",
+          "badge": "❌",
+          "error": null
         }
       ],
-      "nivel": "verde",
-      "badge": "🟢"
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     "VERA": {
       "ensayos": [
         {
           "nct": "NCT04716231",
-          "nombre_usuario": "ORIGIN 3 — atacicept — IgAN",
+          "nombre_usuario": "ORIGIN 3 Ph3 — atacicept — IgAN · PDUFA 7 jul 2026 🔴 INMINENTE",
           "titulo": "Atacicept in Subjects With IgA Nephropathy",
           "titulo_oficial": "A Phase 2b/3, Multi-part, Randomized, Double-Blinded, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Atacicept in Subjects With IgA Nephropathy (IgAN)",
           "sponsor": "Vera Therapeutics, Inc.",
@@ -548,7 +612,7 @@
       "ensayos": [
         {
           "nct": "NCT04065399",
-          "nombre_usuario": "AUGMENT-101 — revumenib — KMT2Ar/NPM1m leukemia",
+          "nombre_usuario": "AUGMENT-101 Ph1/2 — revumenib — KMT2Ar/NPM1m R/R leukemia (base comercial)",
           "titulo": "A Study of Revumenib in R/R Leukemias Including Those With an MLL/KMT2A Gene Rearrangement or NPM1 Mutation",
           "titulo_oficial": "A Phase 1/2, Open-label, Dose-Escalation and Dose-Expansion Cohort Study of SNDX-5613 in Patients With Relapsed/Refractory Leukemias, Including Those Harboring an MLL/KMT2A Gene Rearrangement or Nucleophosmin 1 (NPM1) Mutation",
           "sponsor": "Syndax Pharmaceuticals",
@@ -608,7 +672,7 @@
         },
         {
           "nct": "NCT07211958",
-          "nombre_usuario": "REVEAL — revumenib — NPM1m AML frontline",
+          "nombre_usuario": "REVEAL Ph3 — revumenib — NPM1m AML frontline · primary 2029",
           "titulo": "Study of Revumenib in Combination With Intensive Chemotherapy in Newly Diagnosed Acute Myeloid Leukemia (AML) With a NPM1 Mutation",
           "titulo_oficial": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study of Revumenib in Combination With Intensive Chemotherapy in Participants With Newly Diagnosed AML With an NPM1 Mutation",
           "sponsor": "Syndax Pharmaceuticals",
@@ -668,7 +732,7 @@
       "ensayos": [
         {
           "nct": "NCT07104500",
-          "nombre_usuario": "VANQUISH-1 Ph3 — VK2735 SC — obesidad (sin T2D)",
+          "nombre_usuario": "VANQUISH-1 Ph3 — VK2735 SC — obesidad sin T2D · 4.500 pac. · datos 2027",
           "titulo": "VK2735 for Weight Management Phase 3",
           "titulo_oficial": "A Phase 3 Randomized, Double-Blind, Placebo-Controlled, 78-Week Efficacy and Safety Study of VK2735 Administered Subcutaneously for Weight Management in Participants Without Type 2 Diabetes Who Are Obese, or Overweight With at Least One Weight-related Comorbid Condition",
           "sponsor": "Viking Therapeutics, Inc.",
@@ -714,21 +778,14 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "nuevo",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Primer registro en caché"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
         },
         {
           "nct": "NCT07104383",
-          "nombre_usuario": "VANQUISH-2 Ph3 — VK2735 SC — obesidad + T2D",
+          "nombre_usuario": "VANQUISH-2 Ph3 — VK2735 SC — obesidad + T2D · 1.100 pac. · datos 2027",
           "titulo": "VK2735 for Weight Management Type 2 Diabetes Phase 3 (VANQUISH 2)",
           "titulo_oficial": "A Phase 3 Randomized, Double-Blind, Placebo-Controlled, 78-Week Efficacy and Safety Study of VK2735 Administered Subcutaneously for Weight Management in Participants With Type 2 Diabetes Who Are Obese, or Overweight",
           "sponsor": "Viking Therapeutics, Inc.",
@@ -775,21 +832,14 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "nuevo",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Primer registro en caché"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
         },
         {
           "nct": "NCT06828055",
-          "nombre_usuario": "VENTURE-Oral Ph2 — VK2735 oral — obesidad",
+          "nombre_usuario": "VENTURE-Oral Ph2 — VK2735 oral — obesidad ✅ COMPLETADO positivo ago2025 · Ph3 oral en preparación",
           "titulo": "VK2735 for Weight Management Phase 2 (Venture Oral Dosing)",
           "titulo_oficial": "A Phase 2 Randomized, Double-Blind, Placebo-Controlled, 13-week Dose Finding Study of VK2735 Oral Formulation for Weight Management in Subjects Who Are Obese, or Overweight With at Least One Weight-related Comorbid Condition",
           "sponsor": "Viking Therapeutics, Inc.",
@@ -836,14 +886,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "nuevo",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Primer registro en caché"
-            }
-          ],
+          "cambios": [],
           "nivel": "verde",
           "badge": "🟢",
           "error": null
@@ -856,7 +899,7 @@
       "ensayos": [
         {
           "nct": "NCT05456880",
-          "nombre_usuario": "BEACON — BEAM-101 / risto-cel — SCD",
+          "nombre_usuario": "BEACON Ph1/2 — risto-cel (BEAM-101) — SCD · RMAT · BLA fin 2026",
           "titulo": "BEACON: A Study Evaluating the Safety and Efficacy of BEAM-101 in Patients With Severe Sickle Cell Disease",
           "titulo_oficial": "A Phase 1/2 Study Evaluating the Safety and Efficacy of a Single Dose of Autologous CD34+ Base Edited Hematopoietic Stem Cells (BEAM-101) in Patients With Sickle Cell Disease and Severe Vaso-Occlusive Crises (Beacon Trial)",
           "sponsor": "Beam Therapeutics Inc.",
@@ -907,7 +950,7 @@
         },
         {
           "nct": "NCT06389877",
-          "nombre_usuario": "BEAM-302 — AATD",
+          "nombre_usuario": "Ph1/2 — BEAM-302 — AATD · primera corrección genética in vivo · RMAT may2025",
           "titulo": "A Study to Evaluate the Safety and Efficacy of BEAM-302 in Adult Patients With Alpha-1 Antitrypsin Deficiency (AATD)",
           "titulo_oficial": "A Phase 1/2 Dose-exploration and Dose-expansion Study to Evaluate the Safety and Efficacy of BEAM-302 in Adult Patients With Alpha-1 Antitrypsin Deficiency (AATD)-Associated Lung Disease and/or Liver Disease",
           "sponsor": "Beam Therapeutics Inc.",
@@ -966,7 +1009,7 @@
       "ensayos": [
         {
           "nct": "NCT05548296",
-          "nombre_usuario": "ACR-368 + OncoSignature — ovario/endometrio/urotelial",
+          "nombre_usuario": "Ph1b/2 registracional — ACR-368 + OncoSignature — endometrio/ovario · primary 2027",
           "titulo": "A Phase 2 Study of ACR-368 in Endometrial Adenocarcinoma",
           "titulo_oficial": "A Phase 2 Study of ACR-368 Therapy in Subjects With Endometrial Cancer",
           "sponsor": "Acrivon Therapeutics",
@@ -1030,7 +1073,7 @@
       "ensayos": [
         {
           "nct": "NCT06693843",
-          "nombre_usuario": "GLOW — aleniglipron / GSBR-1290 — obesidad oral",
+          "nombre_usuario": "GLOW Ph2b — aleniglipron oral GLP-1 — obesidad · primario oct2025 · datos 44sem inminentes",
           "titulo": "A Phase 2b, Dose-range Finding Study of the Efficacy and Safety of Multiple Doses of Aleniglipron (GSBR-1290) in Participants Living With Obesity or Overweight With at Least One Weight-related Comorbidity",
           "titulo_oficial": "A Phase 2b, Randomized, Double-blind, Placebo-controlled, Dose-range Finding Study of the Efficacy and Safety of Multiple Doses of Aleniglipron (GSBR-1290) in Participants Living With Obesity (Body Mass Index ≥ 30 kg/m2) or Overweight (Body Mass Index ≥ 27 kg/m2) With at Least One Weight-related Comorbidity",
           "sponsor": "Gasherbrum Bio, Inc., a wholly owned subsidiary of Structure Therapeutics",
@@ -1096,7 +1139,7 @@
       "ensayos": [
         {
           "nct": "NCT04594369",
-          "nombre_usuario": "ASPEN — brensocatib — bronchiectasis",
+          "nombre_usuario": "ASPEN Ph3 — brensocatib — bronchiectasis ✅ APROBADO ago2025 (BRINSUPRI)",
           "titulo": "A Study to Assess the Efficacy, Safety, and Tolerability of Brensocatib in Participants With Non-Cystic Fibrosis Bronchiectasis",
           "titulo_oficial": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study to Assess the Efficacy, Safety, and Tolerability of Brensocatib Administered Once Daily for 52 Weeks in Subjects With Non-Cystic Fibrosis Bronchiectasis - The ASPEN Study",
           "sponsor": "Insmed Incorporated",
@@ -1149,34 +1192,1239 @@
       ],
       "nivel": "verde",
       "badge": "🟢"
+    },
+    "ARGX": {
+      "ensayos": [
+        {
+          "nct": "NCT06558279",
+          "nombre_usuario": "ADAPT OCULUS Ph3 — efgartigimod SC — ocular MG ✅ datos positivos feb2026 · sBLA planeado",
+          "titulo": "A Study to Assess Efficacy and Safety of Efgartigimod PH20 SC in Adults With Ocular Myasthenia Gravis",
+          "titulo_oficial": "A Randomized, Double-Blinded, Placebo-Controlled, Phase 3, Parallel-Group Design Study Evaluating the Efficacy and Safety of Efgartigimod PH20 SC Administered by Prefilled Syringe in Adult Participants With Ocular Myasthenia Gravis",
+          "sponsor": "argenx",
+          "collaborators": [],
+          "status": "ACTIVE_NOT_RECRUITING",
+          "status_desc": "Activo, sin reclutamiento",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE3",
+          "enrollment": 141,
+          "primary_completion_date": "2026-01",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2027-12",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2024-09-18",
+          "last_update_posted": "2025-12-15",
+          "conditions": [
+            "Myasthenia Gravis, Ocular"
+          ],
+          "interventions": [
+            "Efgartigimod PH20 SC",
+            "Placebo PH20 SC"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06558279",
+          "validacion": {
+            "ok": true,
+            "errores": [],
+            "detalles": {
+              "sponsor_text": "argenx ",
+              "drug_text": "A Study to Assess Efficacy and Safety of Efgartigimod PH20 SC in Adults With Ocular Myasthenia Gravis A Randomized, Double-Blinded, Placebo-Controlled, Phase 3, Parallel-Group Design Study Evaluating the Efficacy and Safety of Efgartigimod PH20 SC Administered by Prefilled Syringe in Adult Participants With Ocular Myasthenia Gravis Efgartigimod PH20 SC Placebo PH20 SC",
+              "condition_text": "A Study to Assess Efficacy and Safety of Efgartigimod PH20 SC in Adults With Ocular Myasthenia Gravis A Randomized, Double-Blinded, Placebo-Controlled, Phase 3, Parallel-Group Design Study Evaluating the Efficacy and Safety of Efgartigimod PH20 SC Administered by Prefilled Syringe in Adult Participants With Ocular Myasthenia Gravis Myasthenia Gravis, Ocular"
+            },
+            "sponsor_keywords": [
+              "argenx"
+            ],
+            "drug_keywords": [
+              "efgartigimod",
+              "vyvgart",
+              "argx-113"
+            ],
+            "condition_keywords": [
+              "myasthenia gravis",
+              "ocular",
+              "mg"
+            ]
+          },
+          "validacion_ok": true,
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        },
+        {
+          "nct": "NCT06298552",
+          "nombre_usuario": "ADAPT SERON Ph3 — efgartigimod IV — seronegative gMG · Priority Review PDUFA may2026",
+          "titulo": "A Phase 3 Study to Evaluate the Efficacy and Safety of Efgartigimod IV in Patients With Acetylcholine Receptor Binding Antibody Seronegative Generalized Myasthenia Gravis",
+          "titulo_oficial": "A Randomized, Double-Blinded, Placebo-Controlled, Phase 3, Parallel-Group Design Study Evaluating the Efficacy and Safety of Efgartigimod IV in Adult Participants With Acetylcholine Receptor Binding Antibody Seronegative Generalized Myasthenia Gravis",
+          "sponsor": "argenx",
+          "collaborators": [],
+          "status": "ACTIVE_NOT_RECRUITING",
+          "status_desc": "Activo, sin reclutamiento",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE3",
+          "enrollment": 119,
+          "primary_completion_date": "2025-06-30",
+          "primary_completion_type": "ACTUAL",
+          "study_completion_date": "2027-06",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2024-04-16",
+          "last_update_posted": "2025-11-05",
+          "conditions": [
+            "Generalized Myasthenia Gravis",
+            "gMG",
+            "Myasthenia Gravis, Generalized",
+            "Myasthenia Gravis"
+          ],
+          "interventions": [
+            "Efgartigimod IV",
+            "Placebo IV"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06298552",
+          "validacion": {
+            "ok": true,
+            "errores": [],
+            "detalles": {
+              "sponsor_text": "argenx ",
+              "drug_text": "A Phase 3 Study to Evaluate the Efficacy and Safety of Efgartigimod IV in Patients With Acetylcholine Receptor Binding Antibody Seronegative Generalized Myasthenia Gravis A Randomized, Double-Blinded, Placebo-Controlled, Phase 3, Parallel-Group Design Study Evaluating the Efficacy and Safety of Efgartigimod IV in Adult Participants With Acetylcholine Receptor Binding Antibody Seronegative Generalized Myasthenia Gravis Efgartigimod IV Placebo IV",
+              "condition_text": "A Phase 3 Study to Evaluate the Efficacy and Safety of Efgartigimod IV in Patients With Acetylcholine Receptor Binding Antibody Seronegative Generalized Myasthenia Gravis A Randomized, Double-Blinded, Placebo-Controlled, Phase 3, Parallel-Group Design Study Evaluating the Efficacy and Safety of Efgartigimod IV in Adult Participants With Acetylcholine Receptor Binding Antibody Seronegative Generalized Myasthenia Gravis Generalized Myasthenia Gravis gMG Myasthenia Gravis, Generalized Myasthenia Gravis"
+            },
+            "sponsor_keywords": [
+              "argenx"
+            ],
+            "drug_keywords": [
+              "efgartigimod",
+              "vyvgart",
+              "argx-113"
+            ],
+            "condition_keywords": [
+              "myasthenia gravis",
+              "seronegative",
+              "mg"
+            ]
+          },
+          "validacion_ok": true,
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        },
+        {
+          "nct": "NCT06684847",
+          "nombre_usuario": "UNITY Ph3 — efgartigimod SC — Sjögren's Disease · primary 2027",
+          "titulo": "A Study of the Efficacy and Safety of Efgartigimod in Patients With Primary Sjögren's Syndrome",
+          "titulo_oficial": "A Phase 3 Randomized, Double-Blinded, Placebo-Controlled Multicenter Trial With Open-Label Extension to Evaluate the Efficacy, Safety, and Tolerability of Efgartigimod PH20 Subcutaneous Administered by Prefilled Syringe in Adult Patients With Primary Sjögren's Disease",
+          "sponsor": "argenx",
+          "collaborators": [],
+          "status": "ACTIVE_NOT_RECRUITING",
+          "status_desc": "Activo, sin reclutamiento",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE3",
+          "enrollment": 631,
+          "primary_completion_date": "2027-07",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2028-07",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2025-01-15",
+          "last_update_posted": "2026-04-16",
+          "conditions": [
+            "Primary Sjogrens Disease"
+          ],
+          "interventions": [
+            "Efgartigimod PH20 SC",
+            "Placebo PH20 SC"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06684847",
+          "validacion": {
+            "ok": true,
+            "errores": [],
+            "detalles": {
+              "sponsor_text": "argenx ",
+              "drug_text": "A Study of the Efficacy and Safety of Efgartigimod in Patients With Primary Sjögren's Syndrome A Phase 3 Randomized, Double-Blinded, Placebo-Controlled Multicenter Trial With Open-Label Extension to Evaluate the Efficacy, Safety, and Tolerability of Efgartigimod PH20 Subcutaneous Administered by Prefilled Syringe in Adult Patients With Primary Sjögren's Disease Efgartigimod PH20 SC Placebo PH20 SC",
+              "condition_text": "A Study of the Efficacy and Safety of Efgartigimod in Patients With Primary Sjögren's Syndrome A Phase 3 Randomized, Double-Blinded, Placebo-Controlled Multicenter Trial With Open-Label Extension to Evaluate the Efficacy, Safety, and Tolerability of Efgartigimod PH20 Subcutaneous Administered by Prefilled Syringe in Adult Patients With Primary Sjögren's Disease Primary Sjogrens Disease"
+            },
+            "sponsor_keywords": [
+              "argenx"
+            ],
+            "drug_keywords": [
+              "efgartigimod",
+              "vyvgart",
+              "argx-113"
+            ],
+            "condition_keywords": [
+              "sjogren",
+              "sjögren"
+            ]
+          },
+          "validacion_ok": true,
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        },
+        {
+          "nct": "NCT06544499",
+          "nombre_usuario": "advance NEXT Ph3 — efgartigimod IV — ITP expansión indicación",
+          "titulo": "A Study to Assess the Efficacy and Safety of Efgartigimod IV in Adult Participants With Primary Immune Thrombocytopenia",
+          "titulo_oficial": "A Phase 3, Multicenter, Randomized, Double-Blinded, Placebo-Controlled, Parallel-Arm Study Followed by an Open-Label Arm to Evaluate the Efficacy and Safety of Efgartigimod IV in Adult Participants With Primary Immune Thrombocytopenia",
+          "sponsor": "argenx",
+          "collaborators": [],
+          "status": "RECRUITING",
+          "status_desc": "Reclutando",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE3",
+          "enrollment": 69,
+          "primary_completion_date": "2028-06",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2028-06",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2024-10-18",
+          "last_update_posted": "2026-05-01",
+          "conditions": [
+            "Primary Immune Thrombocytopenia (ITP)"
+          ],
+          "interventions": [
+            "Efgartigimod IV",
+            "Placebo IV"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06544499",
+          "validacion": {
+            "ok": true,
+            "errores": [],
+            "detalles": {
+              "sponsor_text": "argenx ",
+              "drug_text": "A Study to Assess the Efficacy and Safety of Efgartigimod IV in Adult Participants With Primary Immune Thrombocytopenia A Phase 3, Multicenter, Randomized, Double-Blinded, Placebo-Controlled, Parallel-Arm Study Followed by an Open-Label Arm to Evaluate the Efficacy and Safety of Efgartigimod IV in Adult Participants With Primary Immune Thrombocytopenia Efgartigimod IV Placebo IV",
+              "condition_text": "A Study to Assess the Efficacy and Safety of Efgartigimod IV in Adult Participants With Primary Immune Thrombocytopenia A Phase 3, Multicenter, Randomized, Double-Blinded, Placebo-Controlled, Parallel-Arm Study Followed by an Open-Label Arm to Evaluate the Efficacy and Safety of Efgartigimod IV in Adult Participants With Primary Immune Thrombocytopenia Primary Immune Thrombocytopenia (ITP)"
+            },
+            "sponsor_keywords": [
+              "argenx"
+            ],
+            "drug_keywords": [
+              "efgartigimod",
+              "vyvgart",
+              "argx-113"
+            ],
+            "condition_keywords": [
+              "thrombocytopenia",
+              "itp",
+              "immune"
+            ]
+          },
+          "validacion_ok": true,
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        },
+        {
+          "nct": "NCT07596849",
+          "nombre_usuario": "VitaliThy Ph3 (A) — efgartigimod SC — Graves' Disease · inicio jun2026",
+          "titulo": "A Study to Assess Efficacy and Safety of Efgartigimod PH20 SC PFS in Adult Participants With Graves' Disease.",
+          "titulo_oficial": "A Phase 3, Randomized, Double-Masked, Placebo-Controlled, Multicenter Study Evaluating the Efficacy and Safety of Efgartigimod PH20 SC PFS in Adult Participants With Graves' Disease Inadequately Controlled With Antithyroid Drugs",
+          "sponsor": "argenx",
+          "collaborators": [],
+          "status": "NOT_YET_RECRUITING",
+          "status_desc": "Aún no recluta",
+          "nivel_base": "amarillo",
+          "badge_base": "🟡",
+          "phase": "PHASE3",
+          "enrollment": 230,
+          "primary_completion_date": "2028-06",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2030-05",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2026-06",
+          "last_update_posted": "2026-05-19",
+          "conditions": [
+            "Graves Disease"
+          ],
+          "interventions": [
+            "efgartigimod PH20 SC",
+            "Placebo PH20 SC"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07596849",
+          "validacion": {
+            "ok": true,
+            "errores": [],
+            "detalles": {
+              "sponsor_text": "argenx ",
+              "drug_text": "A Study to Assess Efficacy and Safety of Efgartigimod PH20 SC PFS in Adult Participants With Graves' Disease. A Phase 3, Randomized, Double-Masked, Placebo-Controlled, Multicenter Study Evaluating the Efficacy and Safety of Efgartigimod PH20 SC PFS in Adult Participants With Graves' Disease Inadequately Controlled With Antithyroid Drugs efgartigimod PH20 SC Placebo PH20 SC",
+              "condition_text": "A Study to Assess Efficacy and Safety of Efgartigimod PH20 SC PFS in Adult Participants With Graves' Disease. A Phase 3, Randomized, Double-Masked, Placebo-Controlled, Multicenter Study Evaluating the Efficacy and Safety of Efgartigimod PH20 SC PFS in Adult Participants With Graves' Disease Inadequately Controlled With Antithyroid Drugs Graves Disease"
+            },
+            "sponsor_keywords": [
+              "argenx"
+            ],
+            "drug_keywords": [
+              "efgartigimod",
+              "vyvgart",
+              "argx-113"
+            ],
+            "condition_keywords": [
+              "graves",
+              "thyroid",
+              "hyperthyroid"
+            ]
+          },
+          "validacion_ok": true,
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "amarillo",
+          "badge": "🟡",
+          "error": null
+        },
+        {
+          "nct": "NCT06742190",
+          "nombre_usuario": "EMPASSION Ph3 — empasiprubart vs IVIg — MMN · primary 2027",
+          "titulo": "A Study to Assess the Efficacy and Safety of Empasiprubart Versus IVIg in Adults With Multifocal Motor Neuropathy",
+          "titulo_oficial": "A Phase 3, Randomized, Double-Blinded, Double-Dummy Study Evaluating the Efficacy and Safety of Empasiprubart Versus Intravenous Immunoglobulin in Adults With Multifocal Motor Neuropathy",
+          "sponsor": "argenx",
+          "collaborators": [],
+          "status": "ACTIVE_NOT_RECRUITING",
+          "status_desc": "Activo, sin reclutamiento",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE3",
+          "enrollment": 154,
+          "primary_completion_date": "2026-09",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2029-12",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2024-12-18",
+          "last_update_posted": "2026-05-20",
+          "conditions": [
+            "Multifocal Motor Neuropathy (MMN)",
+            "MMN"
+          ],
+          "interventions": [
+            "Empasiprubart",
+            "IVIG (Intravenous Immunoglobulin)",
+            "Empasiprubart-placebo",
+            "IVIg-placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06742190",
+          "validacion": {
+            "ok": true,
+            "errores": [],
+            "detalles": {
+              "sponsor_text": "argenx ",
+              "drug_text": "A Study to Assess the Efficacy and Safety of Empasiprubart Versus IVIg in Adults With Multifocal Motor Neuropathy A Phase 3, Randomized, Double-Blinded, Double-Dummy Study Evaluating the Efficacy and Safety of Empasiprubart Versus Intravenous Immunoglobulin in Adults With Multifocal Motor Neuropathy Empasiprubart IVIG (Intravenous Immunoglobulin) Empasiprubart-placebo IVIg-placebo",
+              "condition_text": "A Study to Assess the Efficacy and Safety of Empasiprubart Versus IVIg in Adults With Multifocal Motor Neuropathy A Phase 3, Randomized, Double-Blinded, Double-Dummy Study Evaluating the Efficacy and Safety of Empasiprubart Versus Intravenous Immunoglobulin in Adults With Multifocal Motor Neuropathy Multifocal Motor Neuropathy (MMN) MMN"
+            },
+            "sponsor_keywords": [
+              "argenx"
+            ],
+            "drug_keywords": [
+              "empasiprubart",
+              "argx-117"
+            ],
+            "condition_keywords": [
+              "multifocal motor neuropathy",
+              "mmn"
+            ]
+          },
+          "validacion_ok": true,
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        },
+        {
+          "nct": "NCT06920004",
+          "nombre_usuario": "emvigorate Ph3 — empasiprubart vs IVIg — CIDP head-to-head",
+          "titulo": "A Study to Assess Efficacy and Safety of Empasiprubart Versus IVIg in Adults With CIDP",
+          "titulo_oficial": "A Phase 3, Randomized, Double-Blinded, Double-Dummy Study Evaluating the Efficacy and Safety of Intravenous Empasiprubart Versus Intravenous Immunoglobulin in Adults With Chronic Inflammatory Demyelinating Polyneuropathy",
+          "sponsor": "argenx",
+          "collaborators": [],
+          "status": "RECRUITING",
+          "status_desc": "Reclutando",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE3",
+          "enrollment": 218,
+          "primary_completion_date": "2027-09",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2030-09",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2025-08-22",
+          "last_update_posted": "2026-06-12",
+          "conditions": [
+            "Chronic Inflammatory Demyelinating Polyneuropathy",
+            "CIDP",
+            "CIDP - Chronic Inflammatory Demyelinating Polyneuropathy"
+          ],
+          "interventions": [
+            "empasiprubart",
+            "IVIg",
+            "empasiprubart-placebo",
+            "IVIg-placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06920004",
+          "validacion": {
+            "ok": true,
+            "errores": [],
+            "detalles": {
+              "sponsor_text": "argenx ",
+              "drug_text": "A Study to Assess Efficacy and Safety of Empasiprubart Versus IVIg in Adults With CIDP A Phase 3, Randomized, Double-Blinded, Double-Dummy Study Evaluating the Efficacy and Safety of Intravenous Empasiprubart Versus Intravenous Immunoglobulin in Adults With Chronic Inflammatory Demyelinating Polyneuropathy empasiprubart IVIg empasiprubart-placebo IVIg-placebo",
+              "condition_text": "A Study to Assess Efficacy and Safety of Empasiprubart Versus IVIg in Adults With CIDP A Phase 3, Randomized, Double-Blinded, Double-Dummy Study Evaluating the Efficacy and Safety of Intravenous Empasiprubart Versus Intravenous Immunoglobulin in Adults With Chronic Inflammatory Demyelinating Polyneuropathy Chronic Inflammatory Demyelinating Polyneuropathy CIDP CIDP - Chronic Inflammatory Demyelinating Polyneuropathy"
+            },
+            "sponsor_keywords": [
+              "argenx"
+            ],
+            "drug_keywords": [
+              "empasiprubart",
+              "argx-117"
+            ],
+            "condition_keywords": [
+              "chronic inflammatory demyelinating",
+              "cidp"
+            ]
+          },
+          "validacion_ok": true,
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡"
+    },
+    "DNLI": {
+      "ensayos": [
+        {
+          "nct": "NCT05371613",
+          "nombre_usuario": "COMPASS Ph2/3 confirmatorio — tividenofusp alfa (AVLAYAH) — Hunter MPS II",
+          "titulo": "A Study to Determine the Efficacy and Safety of Tividenofusp Alfa (DNL310) vs Idursulfase in Pediatric and Young Adult Participants With Neuronopathic (nMPS II) or Non-Neuronopathic Mucopolysaccharidosis Type II (nnMPS II)",
+          "titulo_oficial": "A Phase 2/3, Multicenter, Double-Blind, Randomized Study to Determine the Efficacy and Safety of Tividenofusp Alfa (DNL310) vs Idursulfase in Pediatric and Young Adult Participants With Neuronopathic or Non-Neuronopathic Mucopolysaccharidosis Type II",
+          "sponsor": "Denali Therapeutics Inc.",
+          "collaborators": [],
+          "status": "RECRUITING",
+          "status_desc": "Reclutando",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE2, PHASE3",
+          "enrollment": 63,
+          "primary_completion_date": "2027-12",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2027-12",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2022-07-21",
+          "last_update_posted": "2025-08-05",
+          "conditions": [
+            "Mucopolysaccharidosis II"
+          ],
+          "interventions": [
+            "tividenofusp alfa",
+            "idursulfase"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05371613",
+          "validacion": {
+            "ok": true,
+            "errores": [],
+            "detalles": {
+              "sponsor_text": "Denali Therapeutics Inc. ",
+              "drug_text": "A Study to Determine the Efficacy and Safety of Tividenofusp Alfa (DNL310) vs Idursulfase in Pediatric and Young Adult Participants With Neuronopathic (nMPS II) or Non-Neuronopathic Mucopolysaccharidosis Type II (nnMPS II) A Phase 2/3, Multicenter, Double-Blind, Randomized Study to Determine the Efficacy and Safety of Tividenofusp Alfa (DNL310) vs Idursulfase in Pediatric and Young Adult Participants With Neuronopathic or Non-Neuronopathic Mucopolysaccharidosis Type II tividenofusp alfa idursulfase",
+              "condition_text": "A Study to Determine the Efficacy and Safety of Tividenofusp Alfa (DNL310) vs Idursulfase in Pediatric and Young Adult Participants With Neuronopathic (nMPS II) or Non-Neuronopathic Mucopolysaccharidosis Type II (nnMPS II) A Phase 2/3, Multicenter, Double-Blind, Randomized Study to Determine the Efficacy and Safety of Tividenofusp Alfa (DNL310) vs Idursulfase in Pediatric and Young Adult Participants With Neuronopathic or Non-Neuronopathic Mucopolysaccharidosis Type II Mucopolysaccharidosis II"
+            },
+            "sponsor_keywords": [
+              "denali"
+            ],
+            "drug_keywords": [
+              "tividenofusp",
+              "avlayah",
+              "dnl310"
+            ],
+            "condition_keywords": [
+              "hunter",
+              "mucopolysaccharidosis",
+              "mps"
+            ]
+          },
+          "validacion_ok": true,
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    "ALNY": {
+      "ensayos": [
+        {
+          "nct": "NCT07181109",
+          "nombre_usuario": "ZENITH Ph3 CVOT — zilebesiran — hipertensión · 11.000 pac. co-Roche · MACE endpoint",
+          "titulo": "Zilebesiran in Patients With Hypertension Not Adequately Controlled and With Either Established Cardiovascular Disease or High Risk for Cardiovascular Disease",
+          "titulo_oficial": "ZENITH: A Phase 3 Global, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Efficacy and Safety of Zilebesiran in Addition to Standard of Care in Reducing Major Adverse Cardiovascular Events in Adult Patients With Hypertension Not Adequately Controlled and With Either Established Cardiovascular Disease or High Risk for Cardiovascular Disease",
+          "sponsor": "Alnylam Pharmaceuticals",
+          "collaborators": [
+            "Hoffmann-La Roche"
+          ],
+          "status": "RECRUITING",
+          "status_desc": "Reclutando",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE3",
+          "enrollment": 11000,
+          "primary_completion_date": "2030-09-30",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2030-09-30",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2025-09-22",
+          "last_update_posted": "2026-06-12",
+          "conditions": [
+            "High Risk Cardiovascular Disease",
+            "Hypertension",
+            "High Cardiovascular Risk"
+          ],
+          "interventions": [
+            "Zilebesiran",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07181109",
+          "validacion": {
+            "ok": true,
+            "errores": [],
+            "detalles": {
+              "sponsor_text": "Alnylam Pharmaceuticals Hoffmann-La Roche",
+              "drug_text": "Zilebesiran in Patients With Hypertension Not Adequately Controlled and With Either Established Cardiovascular Disease or High Risk for Cardiovascular Disease ZENITH: A Phase 3 Global, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Efficacy and Safety of Zilebesiran in Addition to Standard of Care in Reducing Major Adverse Cardiovascular Events in Adult Patients With Hypertension Not Adequately Controlled and With Either Established Cardiovascular Disease or High Risk for Cardiovascular Disease Zilebesiran Placebo",
+              "condition_text": "Zilebesiran in Patients With Hypertension Not Adequately Controlled and With Either Established Cardiovascular Disease or High Risk for Cardiovascular Disease ZENITH: A Phase 3 Global, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Efficacy and Safety of Zilebesiran in Addition to Standard of Care in Reducing Major Adverse Cardiovascular Events in Adult Patients With Hypertension Not Adequately Controlled and With Either Established Cardiovascular Disease or High Risk for Cardiovascular Disease High Risk Cardiovascular Disease Hypertension High Cardiovascular Risk"
+            },
+            "sponsor_keywords": [
+              "alnylam"
+            ],
+            "drug_keywords": [
+              "zilebesiran",
+              "aln-agt"
+            ],
+            "condition_keywords": [
+              "hypertension",
+              "cardiovascular",
+              "blood pressure"
+            ]
+          },
+          "validacion_ok": true,
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        },
+        {
+          "nct": "NCT07052903",
+          "nombre_usuario": "TRITON-CM Ph3 CVOT — nucresiran — ATTR-CM · 1.750 pac. · lanzamiento ~2030",
+          "titulo": "TRITON-CM: A Study to Evaluate Nucresiran in Patients With Transthyretin Amyloidosis With Cardiomyopathy",
+          "titulo_oficial": "TRITON-CM: A Phase 3 Global, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Nucresiran in Patients With Transthyretin-Mediated Amyloidosis With Cardiomyopathy (ATTR Amyloidosis With Cardiomyopathy)",
+          "sponsor": "Alnylam Pharmaceuticals",
+          "collaborators": [],
+          "status": "RECRUITING",
+          "status_desc": "Reclutando",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE3",
+          "enrollment": 1250,
+          "primary_completion_date": "2030-05-28",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2032-11-30",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2025-07-02",
+          "last_update_posted": "2026-06-12",
+          "conditions": [
+            "Transthyretin Amyloidosis With Cardiomyopathy"
+          ],
+          "interventions": [
+            "Nucresiran",
+            "Sterile Normal Saline (0.9% NaCl)"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07052903",
+          "validacion": {
+            "ok": true,
+            "errores": [],
+            "detalles": {
+              "sponsor_text": "Alnylam Pharmaceuticals ",
+              "drug_text": "TRITON-CM: A Study to Evaluate Nucresiran in Patients With Transthyretin Amyloidosis With Cardiomyopathy TRITON-CM: A Phase 3 Global, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Nucresiran in Patients With Transthyretin-Mediated Amyloidosis With Cardiomyopathy (ATTR Amyloidosis With Cardiomyopathy) Nucresiran Sterile Normal Saline (0.9% NaCl)",
+              "condition_text": "TRITON-CM: A Study to Evaluate Nucresiran in Patients With Transthyretin Amyloidosis With Cardiomyopathy TRITON-CM: A Phase 3 Global, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Nucresiran in Patients With Transthyretin-Mediated Amyloidosis With Cardiomyopathy (ATTR Amyloidosis With Cardiomyopathy) Transthyretin Amyloidosis With Cardiomyopathy"
+            },
+            "sponsor_keywords": [
+              "alnylam"
+            ],
+            "drug_keywords": [
+              "nucresiran",
+              "aln-ttrsc04"
+            ],
+            "condition_keywords": [
+              "transthyretin",
+              "attr",
+              "amyloidosis",
+              "cardiomyopathy"
+            ]
+          },
+          "validacion_ok": true,
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        },
+        {
+          "nct": "NCT07223203",
+          "nombre_usuario": "TRITON-PN Ph3 — nucresiran — hATTR-PN vs vutrisiran · 125 pac.",
+          "titulo": "TRITON-PN: A Study to Evaluate the Efficacy and Safety of Nucresiran in Patients With Hereditary Transthyretin Amyloidosis With Polyneuropathy",
+          "titulo_oficial": "TRITON-PN: A Phase 3, Global, Randomized, Open-Label Study to Evaluate the Efficacy and Safety of Nucresiran in Patients With Hereditary Transthyretin-Mediated Amyloidosis With Polyneuropathy (hATTR-PN)",
+          "sponsor": "Alnylam Pharmaceuticals",
+          "collaborators": [],
+          "status": "RECRUITING",
+          "status_desc": "Reclutando",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE3",
+          "enrollment": 125,
+          "primary_completion_date": "2027-12-27",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2031-06-12",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2025-12-12",
+          "last_update_posted": "2026-06-12",
+          "conditions": [
+            "Hereditary Transthyretin-Mediated Amyloidosis With Polyneuropathy",
+            "hATTR-PN"
+          ],
+          "interventions": [
+            "Nucresiran",
+            "Vutrisiran"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07223203",
+          "validacion": {
+            "ok": true,
+            "errores": [],
+            "detalles": {
+              "sponsor_text": "Alnylam Pharmaceuticals ",
+              "drug_text": "TRITON-PN: A Study to Evaluate the Efficacy and Safety of Nucresiran in Patients With Hereditary Transthyretin Amyloidosis With Polyneuropathy TRITON-PN: A Phase 3, Global, Randomized, Open-Label Study to Evaluate the Efficacy and Safety of Nucresiran in Patients With Hereditary Transthyretin-Mediated Amyloidosis With Polyneuropathy (hATTR-PN) Nucresiran Vutrisiran",
+              "condition_text": "TRITON-PN: A Study to Evaluate the Efficacy and Safety of Nucresiran in Patients With Hereditary Transthyretin Amyloidosis With Polyneuropathy TRITON-PN: A Phase 3, Global, Randomized, Open-Label Study to Evaluate the Efficacy and Safety of Nucresiran in Patients With Hereditary Transthyretin-Mediated Amyloidosis With Polyneuropathy (hATTR-PN) Hereditary Transthyretin-Mediated Amyloidosis With Polyneuropathy hATTR-PN"
+            },
+            "sponsor_keywords": [
+              "alnylam"
+            ],
+            "drug_keywords": [
+              "nucresiran",
+              "aln-ttrsc04"
+            ],
+            "condition_keywords": [
+              "transthyretin",
+              "attr",
+              "polyneuropathy",
+              "hattr"
+            ]
+          },
+          "validacion_ok": true,
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        },
+        {
+          "nct": "NCT06939371",
+          "nombre_usuario": "cAPPricorn-1 Ph2 — mivelsiran — CAA (cerebral amyloid angiopathy) · 200 pac.",
+          "nivel": "rojo",
+          "badge": "❌",
+          "error": "HTTP Error 404: Not Found",
+          "url": "https://clinicaltrials.gov/study/NCT06939371"
+        },
+        {
+          "nct": "NCT07636811",
+          "nombre_usuario": "Ph2 — mivelsiran — Alzheimer's Disease (Down syndrome-associated) · inicio jul2026",
+          "titulo": "A Study to Evaluate Mivelsiran in Adult Participants With Early-Stage Down Syndrome-Associated Alzheimer's Disease (DS-AD)",
+          "titulo_oficial": "A Phase 2, Multicenter, Randomized, Double-blind, Placebo-controlled Study, to Evaluate Efficacy, Safety, Tolerability, and Pharmacodynamics of Intrathecally Administered Mivelsiran in Adult Participants With Early-Stage Down Syndrome-Associated Alzheimer's Disease (DS-AD)",
+          "sponsor": "Alnylam Pharmaceuticals",
+          "collaborators": [],
+          "status": "NOT_YET_RECRUITING",
+          "status_desc": "Aún no recluta",
+          "nivel_base": "amarillo",
+          "badge_base": "🟡",
+          "phase": "PHASE2",
+          "enrollment": 58,
+          "primary_completion_date": "2030-05-18",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2031-07-23",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2026-07-01",
+          "last_update_posted": "2026-06-09",
+          "conditions": [
+            "Down Syndrome-Associated Alzheimer's Disease (DS-AD)"
+          ],
+          "interventions": [
+            "Mivelsiran",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07636811",
+          "validacion": {
+            "ok": true,
+            "errores": [],
+            "detalles": {
+              "sponsor_text": "Alnylam Pharmaceuticals ",
+              "drug_text": "A Study to Evaluate Mivelsiran in Adult Participants With Early-Stage Down Syndrome-Associated Alzheimer's Disease (DS-AD) A Phase 2, Multicenter, Randomized, Double-blind, Placebo-controlled Study, to Evaluate Efficacy, Safety, Tolerability, and Pharmacodynamics of Intrathecally Administered Mivelsiran in Adult Participants With Early-Stage Down Syndrome-Associated Alzheimer's Disease (DS-AD) Mivelsiran Placebo",
+              "condition_text": "A Study to Evaluate Mivelsiran in Adult Participants With Early-Stage Down Syndrome-Associated Alzheimer's Disease (DS-AD) A Phase 2, Multicenter, Randomized, Double-blind, Placebo-controlled Study, to Evaluate Efficacy, Safety, Tolerability, and Pharmacodynamics of Intrathecally Administered Mivelsiran in Adult Participants With Early-Stage Down Syndrome-Associated Alzheimer's Disease (DS-AD) Down Syndrome-Associated Alzheimer's Disease (DS-AD)"
+            },
+            "sponsor_keywords": [
+              "alnylam"
+            ],
+            "drug_keywords": [
+              "mivelsiran",
+              "aln-app"
+            ],
+            "condition_keywords": [
+              "alzheimer",
+              "down syndrome",
+              "dementia"
+            ]
+          },
+          "validacion_ok": true,
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "amarillo",
+          "badge": "🟡",
+          "error": null
+        }
+      ],
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    "VRTX": {
+      "ensayos": [
+        {
+          "nct": "NCT06564142",
+          "nombre_usuario": "RAINIER Ph3 — povetacicept — IgAN · BLA rolling review · datos W36 positivos mar2026",
+          "titulo": "Evaluation of Efficacy of Povetacicept in Adults With Immunoglobulin A Nephropathy (IgAN)",
+          "titulo_oficial": "A Phase 3, Randomized, Double-blind, Placebo-controlled Study of Povetacicept in Adults With Immunoglobulin A Nephropathy (RAINIER)",
+          "sponsor": "Alpine Immune Sciences Inc, A Subsidiary of Vertex",
+          "collaborators": [],
+          "status": "ACTIVE_NOT_RECRUITING",
+          "status_desc": "Activo, sin reclutamiento",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE3",
+          "enrollment": 605,
+          "primary_completion_date": "2028-01-30",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2028-01-30",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2024-08-30",
+          "last_update_posted": "2026-05-15",
+          "conditions": [
+            "Immunoglobulin A Nephropathy"
+          ],
+          "interventions": [
+            "Povetacicept",
+            "Placebo (matched to Povetacicept)"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06564142",
+          "validacion": {
+            "ok": true,
+            "errores": [],
+            "detalles": {
+              "sponsor_text": "Alpine Immune Sciences Inc, A Subsidiary of Vertex ",
+              "drug_text": "Evaluation of Efficacy of Povetacicept in Adults With Immunoglobulin A Nephropathy (IgAN) A Phase 3, Randomized, Double-blind, Placebo-controlled Study of Povetacicept in Adults With Immunoglobulin A Nephropathy (RAINIER) Povetacicept Placebo (matched to Povetacicept)",
+              "condition_text": "Evaluation of Efficacy of Povetacicept in Adults With Immunoglobulin A Nephropathy (IgAN) A Phase 3, Randomized, Double-blind, Placebo-controlled Study of Povetacicept in Adults With Immunoglobulin A Nephropathy (RAINIER) Immunoglobulin A Nephropathy"
+            },
+            "sponsor_keywords": [
+              "vertex"
+            ],
+            "drug_keywords": [
+              "povetacicept",
+              "pove"
+            ],
+            "condition_keywords": [
+              "iga nephropathy",
+              "igan"
+            ]
+          },
+          "validacion_ok": true,
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        },
+        {
+          "nct": "NCT07204275",
+          "nombre_usuario": "OLYMPUS Ph2b/3 — povetacicept — pMN (membranous nephropathy) · pivotal",
+          "titulo": "Evaluation of Efficacy, Safety, and Tolerability of Povetacicept in Participants With Primary Membranous Nephropathy (pMN)",
+          "titulo_oficial": "A Phase 2b/3 Adaptive, Randomized, Active-controlled Study Evaluating the Efficacy, Safety, and Tolerability of Povetacicept Versus Calcineurin Inhibitor in the Treatment of Primary Membranous Nephropathy",
+          "sponsor": "Vertex Pharmaceuticals Incorporated",
+          "collaborators": [
+            "Zai Lab (Shanghai) Co., Ltd. (for China only)"
+          ],
+          "status": "RECRUITING",
+          "status_desc": "Reclutando",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE2, PHASE3",
+          "enrollment": 176,
+          "primary_completion_date": "2028-12-29",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2028-12-29",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2025-09-30",
+          "last_update_posted": "2026-06-05",
+          "conditions": [
+            "Primary Membranous Nephropathy"
+          ],
+          "interventions": [
+            "Povetacicept",
+            "Tacrolimus"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07204275",
+          "validacion": {
+            "ok": true,
+            "errores": [],
+            "detalles": {
+              "sponsor_text": "Vertex Pharmaceuticals Incorporated Zai Lab (Shanghai) Co., Ltd. (for China only)",
+              "drug_text": "Evaluation of Efficacy, Safety, and Tolerability of Povetacicept in Participants With Primary Membranous Nephropathy (pMN) A Phase 2b/3 Adaptive, Randomized, Active-controlled Study Evaluating the Efficacy, Safety, and Tolerability of Povetacicept Versus Calcineurin Inhibitor in the Treatment of Primary Membranous Nephropathy Povetacicept Tacrolimus",
+              "condition_text": "Evaluation of Efficacy, Safety, and Tolerability of Povetacicept in Participants With Primary Membranous Nephropathy (pMN) A Phase 2b/3 Adaptive, Randomized, Active-controlled Study Evaluating the Efficacy, Safety, and Tolerability of Povetacicept Versus Calcineurin Inhibitor in the Treatment of Primary Membranous Nephropathy Primary Membranous Nephropathy"
+            },
+            "sponsor_keywords": [
+              "vertex"
+            ],
+            "drug_keywords": [
+              "povetacicept",
+              "pove"
+            ],
+            "condition_keywords": [
+              "membranous nephropathy",
+              "pmn",
+              "glomerular"
+            ]
+          },
+          "validacion_ok": true,
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        },
+        {
+          "nct": "NCT05312879",
+          "nombre_usuario": "AMPLITUDE Ph2/3 — inaxaplin (VX-147) — AMKD · IA datos fin2026 · Breakthrough Therapy",
+          "titulo": "Phase 2/3 Adaptive Study of VX-147 in Adult and Pediatric Participants With APOL1-Mediated Proteinuric Kidney Disease",
+          "titulo_oficial": "A Phase 2/3 Adaptive, Double-blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of VX-147 in Adult and Pediatric Subjects With APOL1-mediated Proteinuric Kidney Disease",
+          "sponsor": "Vertex Pharmaceuticals Incorporated",
+          "collaborators": [],
+          "status": "RECRUITING",
+          "status_desc": "Reclutando",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE2, PHASE3",
+          "enrollment": 466,
+          "primary_completion_date": "2028-06-02",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2030-05-07",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2022-03-30",
+          "last_update_posted": "2026-06-02",
+          "conditions": [
+            "Proteinuric Kidney Disease"
+          ],
+          "interventions": [
+            "VX-147",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05312879",
+          "validacion": {
+            "ok": true,
+            "errores": [],
+            "detalles": {
+              "sponsor_text": "Vertex Pharmaceuticals Incorporated ",
+              "drug_text": "Phase 2/3 Adaptive Study of VX-147 in Adult and Pediatric Participants With APOL1-Mediated Proteinuric Kidney Disease A Phase 2/3 Adaptive, Double-blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of VX-147 in Adult and Pediatric Subjects With APOL1-mediated Proteinuric Kidney Disease VX-147 Placebo",
+              "condition_text": "Phase 2/3 Adaptive Study of VX-147 in Adult and Pediatric Participants With APOL1-Mediated Proteinuric Kidney Disease A Phase 2/3 Adaptive, Double-blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of VX-147 in Adult and Pediatric Subjects With APOL1-mediated Proteinuric Kidney Disease Proteinuric Kidney Disease"
+            },
+            "sponsor_keywords": [
+              "vertex"
+            ],
+            "drug_keywords": [
+              "inaxaplin",
+              "vx-147"
+            ],
+            "condition_keywords": [
+              "apol1",
+              "amkd",
+              "kidney",
+              "nephropathy"
+            ]
+          },
+          "validacion_ok": true,
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        },
+        {
+          "nct": "NCT04786262",
+          "nombre_usuario": "FORWARD-101 Ph1/2/3 — zimislecel (VX-880) — T1D islet cell · NEJM jun2025 · datos Ph3 2026",
+          "titulo": "A Safety, Tolerability, and Efficacy Study of VX-880 in Participants With Type 1 Diabetes",
+          "titulo_oficial": "A Phase 1/2/3 Study to Evaluate the Safety, Tolerability, and Efficacy of VX-880 in Subjects Who Have Type 1 Diabetes Mellitus With Impaired Hypoglycemic Awareness and Severe Hypoglycemia",
+          "sponsor": "Vertex Pharmaceuticals Incorporated",
+          "collaborators": [],
+          "status": "RECRUITING",
+          "status_desc": "Reclutando",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE3",
+          "enrollment": 52,
+          "primary_completion_date": "2027-06-30",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2030-06-30",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2021-03-29",
+          "last_update_posted": "2026-03-17",
+          "conditions": [
+            "Diabetes Mellitus, Type 1",
+            "Impaired Hypoglycemic Awareness",
+            "Severe Hypoglycemia"
+          ],
+          "interventions": [
+            "VX-880"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT04786262",
+          "validacion": {
+            "ok": true,
+            "errores": [],
+            "detalles": {
+              "sponsor_text": "Vertex Pharmaceuticals Incorporated ",
+              "drug_text": "A Safety, Tolerability, and Efficacy Study of VX-880 in Participants With Type 1 Diabetes A Phase 1/2/3 Study to Evaluate the Safety, Tolerability, and Efficacy of VX-880 in Subjects Who Have Type 1 Diabetes Mellitus With Impaired Hypoglycemic Awareness and Severe Hypoglycemia VX-880",
+              "condition_text": "A Safety, Tolerability, and Efficacy Study of VX-880 in Participants With Type 1 Diabetes A Phase 1/2/3 Study to Evaluate the Safety, Tolerability, and Efficacy of VX-880 in Subjects Who Have Type 1 Diabetes Mellitus With Impaired Hypoglycemic Awareness and Severe Hypoglycemia Diabetes Mellitus, Type 1 Impaired Hypoglycemic Awareness Severe Hypoglycemia"
+            },
+            "sponsor_keywords": [
+              "vertex"
+            ],
+            "drug_keywords": [
+              "zimislecel",
+              "vx-880"
+            ],
+            "condition_keywords": [
+              "type 1 diabetes",
+              "t1d",
+              "hypoglycemia",
+              "islet"
+            ]
+          },
+          "validacion_ok": true,
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        },
+        {
+          "nct": "NCT06628908",
+          "nombre_usuario": "Ph3 DPN (1) — suzetrigine (JOURNAVX) — dolor neuropático diabético · primary 2027",
+          "titulo": "Evaluation of Efficacy and Safety of Suzetrigine for Pain Associated With Diabetic Peripheral Neuropathy",
+          "titulo_oficial": "A Phase 3, Randomized, Double-blind, Placebo- and Active-Controlled Study of the Efficacy and Safety of Suzetrigine in Subjects With Pain Associated With Diabetic Peripheral Neuropathy",
+          "sponsor": "Vertex Pharmaceuticals Incorporated",
+          "collaborators": [],
+          "status": "RECRUITING",
+          "status_desc": "Reclutando",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE3",
+          "enrollment": 1100,
+          "primary_completion_date": "2027-05-31",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2027-05-31",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2024-10-01",
+          "last_update_posted": "2026-06-15",
+          "conditions": [
+            "Diabetic Peripheral Neuropathic Pain"
+          ],
+          "interventions": [
+            "Suzetrigine",
+            "Placebo (matched to SUZ)",
+            "Pregabalin",
+            "Placebo (matched to Pregabalin)"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06628908",
+          "validacion": {
+            "ok": true,
+            "errores": [],
+            "detalles": {
+              "sponsor_text": "Vertex Pharmaceuticals Incorporated ",
+              "drug_text": "Evaluation of Efficacy and Safety of Suzetrigine for Pain Associated With Diabetic Peripheral Neuropathy A Phase 3, Randomized, Double-blind, Placebo- and Active-Controlled Study of the Efficacy and Safety of Suzetrigine in Subjects With Pain Associated With Diabetic Peripheral Neuropathy Suzetrigine Placebo (matched to SUZ) Pregabalin Placebo (matched to Pregabalin)",
+              "condition_text": "Evaluation of Efficacy and Safety of Suzetrigine for Pain Associated With Diabetic Peripheral Neuropathy A Phase 3, Randomized, Double-blind, Placebo- and Active-Controlled Study of the Efficacy and Safety of Suzetrigine in Subjects With Pain Associated With Diabetic Peripheral Neuropathy Diabetic Peripheral Neuropathic Pain"
+            },
+            "sponsor_keywords": [
+              "vertex"
+            ],
+            "drug_keywords": [
+              "suzetrigine",
+              "vx-548",
+              "journavx"
+            ],
+            "condition_keywords": [
+              "diabetic peripheral neuropathy",
+              "dpn",
+              "neuropathic pain"
+            ]
+          },
+          "validacion_ok": true,
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        },
+        {
+          "nct": "NCT07231419",
+          "nombre_usuario": "Ph3 DPN (2) — suzetrigine (JOURNAVX) — dolor neuropático diabético · inicio nov2025",
+          "titulo": "Evaluation of Efficacy and Safety of Suzetrigine (SUZ) for Pain Associated With Diabetic Peripheral Neuropathy",
+          "titulo_oficial": "A Phase 3, Randomized, Double-blind, Placebo-Controlled Study of the Efficacy and Safety of Suzetrigine in Subjects With Pain Associated With Diabetic Peripheral Neuropathy",
+          "sponsor": "Vertex Pharmaceuticals Incorporated",
+          "collaborators": [],
+          "status": "RECRUITING",
+          "status_desc": "Reclutando",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE3",
+          "enrollment": 734,
+          "primary_completion_date": "2027-04-06",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2027-04-06",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2025-11-21",
+          "last_update_posted": "2026-05-19",
+          "conditions": [
+            "Diabetic Peripheral Neuropathic Pain"
+          ],
+          "interventions": [
+            "Suzetrigine",
+            "Placebo (matched to SUZ)"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07231419",
+          "validacion": {
+            "ok": true,
+            "errores": [],
+            "detalles": {
+              "sponsor_text": "Vertex Pharmaceuticals Incorporated ",
+              "drug_text": "Evaluation of Efficacy and Safety of Suzetrigine (SUZ) for Pain Associated With Diabetic Peripheral Neuropathy A Phase 3, Randomized, Double-blind, Placebo-Controlled Study of the Efficacy and Safety of Suzetrigine in Subjects With Pain Associated With Diabetic Peripheral Neuropathy Suzetrigine Placebo (matched to SUZ)",
+              "condition_text": "Evaluation of Efficacy and Safety of Suzetrigine (SUZ) for Pain Associated With Diabetic Peripheral Neuropathy A Phase 3, Randomized, Double-blind, Placebo-Controlled Study of the Efficacy and Safety of Suzetrigine in Subjects With Pain Associated With Diabetic Peripheral Neuropathy Diabetic Peripheral Neuropathic Pain"
+            },
+            "sponsor_keywords": [
+              "vertex"
+            ],
+            "drug_keywords": [
+              "suzetrigine",
+              "vx-548",
+              "journavx"
+            ],
+            "condition_keywords": [
+              "diabetic peripheral neuropathy",
+              "dpn",
+              "neuropathic pain"
+            ]
+          },
+          "validacion_ok": true,
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    "SENS": {
+      "ensayos": [
+        {
+          "nct": "NCT05131139",
+          "nombre_usuario": "ENHANCE — Eversense 365 CGM 1 año implantable ✅ COMPLETADO · FDA cleared sep2024",
+          "titulo": "Enhance Study: Evaluation of Accuracy and Safety of the Eversense CGM System With Enhanced Features",
+          "titulo_oficial": "Enhance Study: A Prospective, Multicenter Evaluation of Accuracy and Safety of the Eversense CGM System With Enhanced Features",
+          "sponsor": "Senseonics, Inc.",
+          "collaborators": [],
+          "status": "UNKNOWN",
+          "status_desc": "Estado: UNKNOWN",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "NA",
+          "enrollment": 350,
+          "primary_completion_date": "2025-03-30",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2025-09-30",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2021-10-20",
+          "last_update_posted": "2023-04-26",
+          "conditions": [
+            "Diabetes Mellitus",
+            "Diabetes Mellitus, Type 1",
+            "Diabetes Mellitus, Type 2"
+          ],
+          "interventions": [
+            "Continuous Glucose Monitoring System"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05131139",
+          "validacion": {
+            "ok": true,
+            "errores": [],
+            "detalles": {
+              "sponsor_text": "Senseonics, Inc. ",
+              "drug_text": "Enhance Study: Evaluation of Accuracy and Safety of the Eversense CGM System With Enhanced Features Enhance Study: A Prospective, Multicenter Evaluation of Accuracy and Safety of the Eversense CGM System With Enhanced Features Continuous Glucose Monitoring System",
+              "condition_text": "Enhance Study: Evaluation of Accuracy and Safety of the Eversense CGM System With Enhanced Features Enhance Study: A Prospective, Multicenter Evaluation of Accuracy and Safety of the Eversense CGM System With Enhanced Features Diabetes Mellitus Diabetes Mellitus, Type 1 Diabetes Mellitus, Type 2"
+            },
+            "sponsor_keywords": [
+              "senseonics"
+            ],
+            "drug_keywords": [
+              "eversense",
+              "cgm",
+              "implantable"
+            ],
+            "condition_keywords": [
+              "diabetes",
+              "glucose"
+            ]
+          },
+          "validacion_ok": true,
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵"
     }
   },
   "alertas": [
     {
-      "ticker": "TARA",
-      "nct": "NCT05951179",
-      "nombre": "ADVANCED-2 — TARA-002 — NMIBC (BCG-naïve/unresponsive CIS)",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2031-10",
-      "mensaje": "Reclutando",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "nuevo",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Primer registro en caché"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT05951179"
-    },
-    {
       "ticker": "ABVX",
       "nct": "NCT05507203",
-      "nombre": "ABTECT-1 — obefazimod / ABX464 — UC",
+      "nombre": "ABTECT-1 Ph3 inducción — obefazimod — UC ✅ COMPLETADO positivo",
       "nivel": "verde",
       "badge": "🟢",
       "status": "COMPLETED",
@@ -1190,7 +2438,7 @@
     {
       "ticker": "ABVX",
       "nct": "NCT05507216",
-      "nombre": "ABTECT-2 — obefazimod / ABX464 — UC",
+      "nombre": "ABTECT-2 Ph3 inducción AT-failure — obefazimod — UC ✅ COMPLETADO positivo",
       "nivel": "verde",
       "badge": "🟢",
       "status": "COMPLETED",
@@ -1202,51 +2450,40 @@
       "url": "https://clinicaltrials.gov/study/NCT05507216"
     },
     {
-      "ticker": "VKTX",
-      "nct": "NCT07104500",
-      "nombre": "VANQUISH-1 Ph3 — VK2735 SC — obesidad (sin T2D)",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "primary_completion_date": "2027-07-01",
-      "mensaje": "Activo, sin reclutamiento",
-      "validacion_ok": true,
-      "errores_validacion": [],
+      "ticker": "ABVX",
+      "nct": "NCT05787340",
+      "nombre": "ABTECT mantenimiento 44sem — obefazimod — UC ✅ DATOS POSITIVOS 1 jun 2026 · NDA Q4 2026",
+      "nivel": "rojo",
+      "badge": "❌",
+      "status": "COMPLETED",
+      "primary_completion_date": "2021-10-01",
+      "mensaje": "NCT no validado contra empresa/fármaco/indicación",
+      "validacion_ok": false,
+      "errores_validacion": [
+        "Sponsor no coincide",
+        "Fármaco/intervención no coincide",
+        "Indicación no coincide"
+      ],
       "cambios": [
         {
           "tipo": "nuevo",
           "nivel": "azul",
           "badge": "🔵",
           "mensaje": "Primer registro en caché"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07104500"
-    },
-    {
-      "ticker": "VKTX",
-      "nct": "NCT07104383",
-      "nombre": "VANQUISH-2 Ph3 — VK2735 SC — obesidad + T2D",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "primary_completion_date": "2027-07-01",
-      "mensaje": "Activo, sin reclutamiento",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
+        },
         {
-          "tipo": "nuevo",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Primer registro en caché"
+          "tipo": "validacion",
+          "nivel": "rojo",
+          "badge": "❌",
+          "mensaje": "Sponsor no coincide; Fármaco/intervención no coincide; Indicación no coincide"
         }
       ],
-      "url": "https://clinicaltrials.gov/study/NCT07104383"
+      "url": "https://clinicaltrials.gov/study/NCT05787340"
     },
     {
       "ticker": "VKTX",
       "nct": "NCT06828055",
-      "nombre": "VENTURE-Oral Ph2 — VK2735 oral — obesidad",
+      "nombre": "VENTURE-Oral Ph2 — VK2735 oral — obesidad ✅ COMPLETADO positivo ago2025 · Ph3 oral en preparación",
       "nivel": "verde",
       "badge": "🟢",
       "status": "COMPLETED",
@@ -1254,20 +2491,13 @@
       "mensaje": "Ensayo completado",
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "nuevo",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Primer registro en caché"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT06828055"
     },
     {
       "ticker": "INSM",
       "nct": "NCT04594369",
-      "nombre": "ASPEN — brensocatib — bronchiectasis",
+      "nombre": "ASPEN Ph3 — brensocatib — bronchiectasis ✅ APROBADO ago2025 (BRINSUPRI)",
       "nivel": "verde",
       "badge": "🟢",
       "status": "COMPLETED",
@@ -1277,7 +2507,467 @@
       "errores_validacion": [],
       "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT04594369"
+    },
+    {
+      "ticker": "ARGX",
+      "nct": "NCT06558279",
+      "nombre": "ADAPT OCULUS Ph3 — efgartigimod SC — ocular MG ✅ datos positivos feb2026 · sBLA planeado",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "primary_completion_date": "2026-01",
+      "mensaje": "Activo, sin reclutamiento",
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06558279"
+    },
+    {
+      "ticker": "ARGX",
+      "nct": "NCT06298552",
+      "nombre": "ADAPT SERON Ph3 — efgartigimod IV — seronegative gMG · Priority Review PDUFA may2026",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "primary_completion_date": "2025-06-30",
+      "mensaje": "Activo, sin reclutamiento",
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06298552"
+    },
+    {
+      "ticker": "ARGX",
+      "nct": "NCT06684847",
+      "nombre": "UNITY Ph3 — efgartigimod SC — Sjögren's Disease · primary 2027",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "primary_completion_date": "2027-07",
+      "mensaje": "Activo, sin reclutamiento",
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06684847"
+    },
+    {
+      "ticker": "ARGX",
+      "nct": "NCT06544499",
+      "nombre": "advance NEXT Ph3 — efgartigimod IV — ITP expansión indicación",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "RECRUITING",
+      "primary_completion_date": "2028-06",
+      "mensaje": "Reclutando",
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06544499"
+    },
+    {
+      "ticker": "ARGX",
+      "nct": "NCT07596849",
+      "nombre": "VitaliThy Ph3 (A) — efgartigimod SC — Graves' Disease · inicio jun2026",
+      "nivel": "amarillo",
+      "badge": "🟡",
+      "status": "NOT_YET_RECRUITING",
+      "primary_completion_date": "2028-06",
+      "mensaje": "Aún no recluta",
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07596849"
+    },
+    {
+      "ticker": "ARGX",
+      "nct": "NCT06742190",
+      "nombre": "EMPASSION Ph3 — empasiprubart vs IVIg — MMN · primary 2027",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "primary_completion_date": "2026-09",
+      "mensaje": "Activo, sin reclutamiento",
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06742190"
+    },
+    {
+      "ticker": "ARGX",
+      "nct": "NCT06920004",
+      "nombre": "emvigorate Ph3 — empasiprubart vs IVIg — CIDP head-to-head",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "RECRUITING",
+      "primary_completion_date": "2027-09",
+      "mensaje": "Reclutando",
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06920004"
+    },
+    {
+      "ticker": "DNLI",
+      "nct": "NCT05371613",
+      "nombre": "COMPASS Ph2/3 confirmatorio — tividenofusp alfa (AVLAYAH) — Hunter MPS II",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "RECRUITING",
+      "primary_completion_date": "2027-12",
+      "mensaje": "Reclutando",
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05371613"
+    },
+    {
+      "ticker": "ALNY",
+      "nct": "NCT07181109",
+      "nombre": "ZENITH Ph3 CVOT — zilebesiran — hipertensión · 11.000 pac. co-Roche · MACE endpoint",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "RECRUITING",
+      "primary_completion_date": "2030-09-30",
+      "mensaje": "Reclutando",
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07181109"
+    },
+    {
+      "ticker": "ALNY",
+      "nct": "NCT07052903",
+      "nombre": "TRITON-CM Ph3 CVOT — nucresiran — ATTR-CM · 1.750 pac. · lanzamiento ~2030",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "RECRUITING",
+      "primary_completion_date": "2030-05-28",
+      "mensaje": "Reclutando",
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07052903"
+    },
+    {
+      "ticker": "ALNY",
+      "nct": "NCT07223203",
+      "nombre": "TRITON-PN Ph3 — nucresiran — hATTR-PN vs vutrisiran · 125 pac.",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "RECRUITING",
+      "primary_completion_date": "2027-12-27",
+      "mensaje": "Reclutando",
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07223203"
+    },
+    {
+      "ticker": "ALNY",
+      "nct": "NCT07636811",
+      "nombre": "Ph2 — mivelsiran — Alzheimer's Disease (Down syndrome-associated) · inicio jul2026",
+      "nivel": "amarillo",
+      "badge": "🟡",
+      "status": "NOT_YET_RECRUITING",
+      "primary_completion_date": "2030-05-18",
+      "mensaje": "Aún no recluta",
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07636811"
+    },
+    {
+      "ticker": "VRTX",
+      "nct": "NCT06564142",
+      "nombre": "RAINIER Ph3 — povetacicept — IgAN · BLA rolling review · datos W36 positivos mar2026",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "primary_completion_date": "2028-01-30",
+      "mensaje": "Activo, sin reclutamiento",
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06564142"
+    },
+    {
+      "ticker": "VRTX",
+      "nct": "NCT07204275",
+      "nombre": "OLYMPUS Ph2b/3 — povetacicept — pMN (membranous nephropathy) · pivotal",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "RECRUITING",
+      "primary_completion_date": "2028-12-29",
+      "mensaje": "Reclutando",
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07204275"
+    },
+    {
+      "ticker": "VRTX",
+      "nct": "NCT05312879",
+      "nombre": "AMPLITUDE Ph2/3 — inaxaplin (VX-147) — AMKD · IA datos fin2026 · Breakthrough Therapy",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "RECRUITING",
+      "primary_completion_date": "2028-06-02",
+      "mensaje": "Reclutando",
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05312879"
+    },
+    {
+      "ticker": "VRTX",
+      "nct": "NCT04786262",
+      "nombre": "FORWARD-101 Ph1/2/3 — zimislecel (VX-880) — T1D islet cell · NEJM jun2025 · datos Ph3 2026",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "RECRUITING",
+      "primary_completion_date": "2027-06-30",
+      "mensaje": "Reclutando",
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT04786262"
+    },
+    {
+      "ticker": "VRTX",
+      "nct": "NCT06628908",
+      "nombre": "Ph3 DPN (1) — suzetrigine (JOURNAVX) — dolor neuropático diabético · primary 2027",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "RECRUITING",
+      "primary_completion_date": "2027-05-31",
+      "mensaje": "Reclutando",
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06628908"
+    },
+    {
+      "ticker": "VRTX",
+      "nct": "NCT07231419",
+      "nombre": "Ph3 DPN (2) — suzetrigine (JOURNAVX) — dolor neuropático diabético · inicio nov2025",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "RECRUITING",
+      "primary_completion_date": "2027-04-06",
+      "mensaje": "Reclutando",
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07231419"
+    },
+    {
+      "ticker": "SENS",
+      "nct": "NCT05131139",
+      "nombre": "ENHANCE — Eversense 365 CGM 1 año implantable ✅ COMPLETADO · FDA cleared sep2024",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "UNKNOWN",
+      "primary_completion_date": "2025-03-30",
+      "mensaje": "Estado: UNKNOWN",
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05131139"
     }
   ],
-  "errores_validacion": []
+  "watchlist_alertas": [
+    {
+      "ticker": "VRTX",
+      "nct": "NCT05210530",
+      "nombre": "VX-264 Ph1/2 — zimislecel encapsulado — T1D sin inmunosupresión",
+      "nivel": "verde",
+      "badge": "🟢",
+      "status": "COMPLETED",
+      "primary_completion_date": "2023-01-19",
+      "validacion_ok": false,
+      "cambios": [],
+      "url": "https://clinicaltrials.gov/study/NCT05210530",
+      "watchlist": true
+    },
+    {
+      "ticker": "DNLI",
+      "nct": "NCT05225532",
+      "nombre": "DNL919 Ph1/2 — tividenofusp-enabled — Alzheimer · 2ª aplicación BBB platform",
+      "nivel": "rojo",
+      "badge": "🔴",
+      "status": "TERMINATED",
+      "primary_completion_date": "2022-12-30",
+      "validacion_ok": false,
+      "cambios": [],
+      "url": "https://clinicaltrials.gov/study/NCT05225532",
+      "watchlist": true
+    },
+    {
+      "ticker": "VKTX",
+      "nct": "NCT06828055",
+      "nombre": "VENTURE-Oral completado — WATCHLIST para detectar registro Ph3 oral VK2735",
+      "nivel": "verde",
+      "badge": "🟢",
+      "status": "COMPLETED",
+      "primary_completion_date": "2025-06-24",
+      "validacion_ok": true,
+      "cambios": [],
+      "url": "https://clinicaltrials.gov/study/NCT06828055",
+      "watchlist": true
+    }
+  ],
+  "errores_validacion": [
+    {
+      "ticker": "ABVX",
+      "nct": "NCT05787340",
+      "nombre": "ABTECT mantenimiento 44sem — obefazimod — UC ✅ DATOS POSITIVOS 1 jun 2026 · NDA Q4 2026",
+      "errores": [
+        "Sponsor no coincide",
+        "Fármaco/intervención no coincide",
+        "Indicación no coincide"
+      ],
+      "sponsor_detectado": "Kahramanmaras Sutcu Imam University",
+      "titulo_detectado": "Investigation From Biopsychosocial Perspective of Patients With Rheumatic Disease With Covid-19 Who Participated in a Biopsychosocial Exercise Program: A Case Series With 6-Month Follow-up",
+      "conditions": [
+        "Rheumatic Diseases"
+      ],
+      "interventions": [
+        "Bilişsel Egzersiz Terapi Yaklaşımı (BETY, Cognitive Exercise Therapy Approach)"
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05787340"
+    }
+  ]
 }

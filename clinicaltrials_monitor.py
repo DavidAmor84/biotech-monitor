@@ -69,12 +69,13 @@ CLINICALTRIALS_CARTERA = {
 
     "TARA": [
         {
-            # Este NCT se mantiene para que la validación detecte si es incorrecto.
-            "nct": "NCT05015946",
-            "nombre": "ADVANCED-2 — TARA-002 — NMIBC",
+            # NCT correcto verificado — ADVANCED-2 Phase 2, sponsor Protara Therapeutics
+            # Datos 12m BCG-naïve presentados AUA 2026 (mayo 2026). Enrollment BCG-unresponsive en curso H2 2026.
+            "nct": "NCT05951179",
+            "nombre": "ADVANCED-2 — TARA-002 — NMIBC (BCG-naïve/unresponsive CIS)",
             "sponsor_keywords": ["protara"],
             "drug_keywords": ["tara-002"],
-            "condition_keywords": ["nmibc", "non-muscle invasive bladder cancer", "bladder cancer"],
+            "condition_keywords": ["nmibc", "non-muscle invasive bladder cancer", "bladder cancer", "carcinoma in situ"],
         },
     ],
 
@@ -124,16 +125,27 @@ CLINICALTRIALS_CARTERA = {
 
     "VKTX": [
         {
-            # Estos NCT se validan; si no son Viking/VK2735/obesidad, quedarán marcados como ❌.
-            "nct": "NCT05948826",
-            "nombre": "VENTURE — VK2735 SC — obesidad",
+            # VANQUISH-1 Ph3: VK2735 SC obesidad sin T2D — 78 semanas, enrollment en curso
+            # NCT verificado desde Viking IR y ClinicalTrials.gov
+            "nct": "NCT07104500",
+            "nombre": "VANQUISH-1 Ph3 — VK2735 SC — obesidad (sin T2D)",
             "sponsor_keywords": ["viking therapeutics"],
             "drug_keywords": ["vk2735", "vk-2735"],
             "condition_keywords": ["obesity", "overweight", "weight"],
         },
         {
-            "nct": "NCT06119360",
-            "nombre": "VANQUISH — VK2735 oral — obesidad",
+            # VANQUISH-2 Ph3: VK2735 SC obesidad + T2D — 78 semanas, enrollment en curso
+            "nct": "NCT07104383",
+            "nombre": "VANQUISH-2 Ph3 — VK2735 SC — obesidad + T2D",
+            "sponsor_keywords": ["viking therapeutics"],
+            "drug_keywords": ["vk2735", "vk-2735"],
+            "condition_keywords": ["obesity", "overweight", "weight", "type 2 diabetes"],
+        },
+        {
+            # VENTURE-Oral Ph2: VK2735 oral — datos positivos ago 2025 (12.2% peso 13 sem)
+            # Ph3 oral planeado para Q3 2026
+            "nct": "NCT06828055",
+            "nombre": "VENTURE-Oral Ph2 — VK2735 oral — obesidad",
             "sponsor_keywords": ["viking therapeutics"],
             "drug_keywords": ["vk2735", "vk-2735"],
             "condition_keywords": ["obesity", "overweight", "weight"],

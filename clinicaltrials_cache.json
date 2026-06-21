@@ -1,0 +1,182 @@
+{
+  "NCT05524883": {
+    "status": "ACTIVE_NOT_RECRUITING",
+    "primary_completion_date": "2029-11",
+    "study_completion_date": "2029-11",
+    "last_update_posted": "2025-08-13",
+    "enrollment": 86,
+    "titulo": "Safety, Tolerability, Pharmacodynamic, Efficacy, and Pharmacokinetic Study of DYNE-251 in Participants With Duchenne Muscular Dystrophy Amenable to Exon 51 Skipping",
+    "ticker": "DYN",
+    "nombre_usuario": "DELIVER — z-rostudirsen / DYNE-251 — DMD exon 51"
+  },
+  "NCT05481879": {
+    "status": "RECRUITING",
+    "primary_completion_date": "2029-07",
+    "study_completion_date": "2029-07",
+    "last_update_posted": "2026-05-12",
+    "enrollment": 116,
+    "titulo": "Safety, Tolerability, Pharmacodynamic, Efficacy, and Pharmacokinetic Study of DYNE-101 in Participants With Myotonic Dystrophy Type 1",
+    "ticker": "DYN",
+    "nombre_usuario": "ACHIEVE — z-basivarsen / DYNE-101 — DM1"
+  },
+  "NCT07486934": {
+    "status": "RECRUITING",
+    "primary_completion_date": "2028-07",
+    "study_completion_date": "2029-01",
+    "last_update_posted": "2026-06-01",
+    "enrollment": 150,
+    "titulo": "Efficacy, Safety, and Tolerability of Zeleciment Basivarsen (DYNE-101) in Participants With Myotonic Dystrophy Type 1",
+    "ticker": "DYN",
+    "nombre_usuario": "HARMONIA — z-basivarsen — DM1 confirmatorio"
+  },
+  "NCT06223958": {
+    "status": "ACTIVE_NOT_RECRUITING",
+    "primary_completion_date": "2026-04-29",
+    "study_completion_date": "2027-09-27",
+    "last_update_posted": "2025-04-18",
+    "enrollment": 344,
+    "titulo": "Study to Evaluate the Efficacy and Safety of Intravitreal OTX-TKI (Ocular Therapeutix) (Axitinib Implant) in Subjects With Neovascular Age-Related Macular Degeneration",
+    "ticker": "OCUL",
+    "nombre_usuario": "SOL-1 — AXPAXLI — wet AMD"
+  },
+  "NCT06495918": {
+    "status": "ACTIVE_NOT_RECRUITING",
+    "primary_completion_date": "2027-01-08",
+    "study_completion_date": "2027-01-08",
+    "last_update_posted": "2025-06-17",
+    "enrollment": 825,
+    "titulo": "Study to Evaluate the Efficacy and Safety of Intravitreal OTX-TKI (Axitinib Implant) in Subjects With Neovascular Age- Related Macular Degeneration",
+    "ticker": "OCUL",
+    "nombre_usuario": "SOL-R — AXPAXLI — wet AMD"
+  },
+  "NCT05015946": {
+    "status": "COMPLETED",
+    "primary_completion_date": "2021-12-15",
+    "study_completion_date": "2021-12-20",
+    "last_update_posted": "2022-03-04",
+    "enrollment": 10,
+    "titulo": "Handball-based Exercise and Type 2 Diabetes",
+    "ticker": "TARA",
+    "nombre_usuario": "ADVANCED-2 — TARA-002 — NMIBC"
+  },
+  "NCT05507203": {
+    "status": "COMPLETED",
+    "primary_completion_date": "2025-06-24",
+    "study_completion_date": "2025-06-25",
+    "last_update_posted": "2025-10-24",
+    "enrollment": 639,
+    "titulo": "ABTECT-1 - ABX464 Treatment Evaluation for Ulcerative Colitis Therapy -1",
+    "ticker": "ABVX",
+    "nombre_usuario": "ABTECT-1 — obefazimod — UC"
+  },
+  "NCT05507216": {
+    "status": "COMPLETED",
+    "primary_completion_date": "2025-06-24",
+    "study_completion_date": "2025-07-15",
+    "last_update_posted": "2025-10-24",
+    "enrollment": 636,
+    "titulo": "ABTECT-2 - ABX464 Treatment Evaluation for Ulcerative Colitis Therapy -2",
+    "ticker": "ABVX",
+    "nombre_usuario": "ABTECT-2 — obefazimod — UC"
+  },
+  "NCT04716231": {
+    "status": "ACTIVE_NOT_RECRUITING",
+    "primary_completion_date": "2025-05-15",
+    "study_completion_date": "2028-07",
+    "last_update_posted": "2025-09-30",
+    "enrollment": 376,
+    "titulo": "Atacicept in Subjects With IgA Nephropathy",
+    "ticker": "VERA",
+    "nombre_usuario": "ORIGIN 3 — atacicept — IgAN"
+  },
+  "NCT04065399": {
+    "status": "RECRUITING",
+    "primary_completion_date": "2027-12-15",
+    "study_completion_date": "2027-12-15",
+    "last_update_posted": "2026-03-18",
+    "enrollment": 447,
+    "titulo": "A Study of Revumenib in R/R Leukemias Including Those With an MLL/KMT2A Gene Rearrangement or NPM1 Mutation",
+    "ticker": "SNDX",
+    "nombre_usuario": "AUGMENT-101 — revumenib — KMT2Ar/NPM1m leukemia"
+  },
+  "NCT07211958": {
+    "status": "RECRUITING",
+    "primary_completion_date": "2029-06",
+    "study_completion_date": "2031-01",
+    "last_update_posted": "2026-05-20",
+    "enrollment": 468,
+    "titulo": "Study of Revumenib in Combination With Intensive Chemotherapy in Newly Diagnosed Acute Myeloid Leukemia (AML) With a NPM1 Mutation",
+    "ticker": "SNDX",
+    "nombre_usuario": "REVEAL — revumenib — NPM1m AML frontline"
+  },
+  "NCT05948826": {
+    "status": "ACTIVE_NOT_RECRUITING",
+    "primary_completion_date": "2026-06-25",
+    "study_completion_date": "2026-09-15",
+    "last_update_posted": "2025-10-10",
+    "enrollment": 70,
+    "titulo": "First in Human Study of TORL-3-600 in Participants With Advanced Cancer",
+    "ticker": "VKTX",
+    "nombre_usuario": "VENTURE — VK2735 SC — obesidad"
+  },
+  "NCT06119360": {
+    "status": "COMPLETED",
+    "primary_completion_date": "2019-02-13",
+    "study_completion_date": "2019-08-31",
+    "last_update_posted": "2023-11-07",
+    "enrollment": 176,
+    "titulo": "Comparison of Two Different Lightwand Intubation Techniques in Cervical Immobilized Patients",
+    "ticker": "VKTX",
+    "nombre_usuario": "VANQUISH — VK2735 oral — obesidad"
+  },
+  "NCT05456880": {
+    "status": "ACTIVE_NOT_RECRUITING",
+    "primary_completion_date": "2028-02",
+    "study_completion_date": "2028-02",
+    "last_update_posted": "2025-12-16",
+    "enrollment": 15,
+    "titulo": "BEACON: A Study Evaluating the Safety and Efficacy of BEAM-101 in Patients With Severe Sickle Cell Disease",
+    "ticker": "BEAM",
+    "nombre_usuario": "BEACON — BEAM-101 / risto-cel — SCD"
+  },
+  "NCT06389877": {
+    "status": "RECRUITING",
+    "primary_completion_date": "2028-05",
+    "study_completion_date": "2030-05",
+    "last_update_posted": "2026-03-20",
+    "enrollment": 106,
+    "titulo": "A Study to Evaluate the Safety and Efficacy of BEAM-302 in Adult Patients With Alpha-1 Antitrypsin Deficiency (AATD)",
+    "ticker": "BEAM",
+    "nombre_usuario": "BEAM-302 — AATD"
+  },
+  "NCT05548296": {
+    "status": "RECRUITING",
+    "primary_completion_date": "2027-05-30",
+    "study_completion_date": "2027-11-30",
+    "last_update_posted": "2026-06-15",
+    "enrollment": 350,
+    "titulo": "A Phase 2 Study of ACR-368 in Endometrial Adenocarcinoma",
+    "ticker": "ACRV",
+    "nombre_usuario": "ACR-368 + OncoSignature — ovario/endometrio/urotelial"
+  },
+  "NCT06693843": {
+    "status": "ACTIVE_NOT_RECRUITING",
+    "primary_completion_date": "2025-10-24",
+    "study_completion_date": "2026-08",
+    "last_update_posted": "2026-04-28",
+    "enrollment": 220,
+    "titulo": "A Phase 2b, Dose-range Finding Study of the Efficacy and Safety of Multiple Doses of Aleniglipron (GSBR-1290) in Participants Living With Obesity or Overweight With at Least One Weight-related Comorbidity",
+    "ticker": "GPCR",
+    "nombre_usuario": "GLOW — aleniglipron / GSBR-1290 — obesidad oral"
+  },
+  "NCT04594369": {
+    "status": "COMPLETED",
+    "primary_completion_date": "2024-10-28",
+    "study_completion_date": "2024-10-28",
+    "last_update_posted": "2025-12-16",
+    "enrollment": 1767,
+    "titulo": "A Study to Assess the Efficacy, Safety, and Tolerability of Brensocatib in Participants With Non-Cystic Fibrosis Bronchiectasis",
+    "ticker": "INSM",
+    "nombre_usuario": "ASPEN — brensocatib — bronchiectasis"
+  }
+}

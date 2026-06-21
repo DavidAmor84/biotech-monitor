@@ -1,0 +1,291 @@
+======================================================================
+CLINICALTRIALS MONITOR v9.0 · Modelo Biotech
+Generado: 21/06/2026 15:23
+======================================================================
+RESUMEN: 18 ensayos | 🔴 0 | 🟢 5 | 🟡 0 | 🔵 13 | Errores: 0
+
+----------------------------------------------------------------------
+ALERTAS / CAMBIOS
+----------------------------------------------------------------------
+
+[DYN] 🔵 DELIVER — z-rostudirsen / DYNE-251 — DMD exon 51
+NCT: NCT05524883 | Status: ACTIVE_NOT_RECRUITING
+Primary completion: 2029-11
+  🔵 Primer registro en caché
+→ https://clinicaltrials.gov/study/NCT05524883
+
+[DYN] 🔵 ACHIEVE — z-basivarsen / DYNE-101 — DM1
+NCT: NCT05481879 | Status: RECRUITING
+Primary completion: 2029-07
+  🔵 Primer registro en caché
+→ https://clinicaltrials.gov/study/NCT05481879
+
+[DYN] 🔵 HARMONIA — z-basivarsen — DM1 confirmatorio
+NCT: NCT07486934 | Status: RECRUITING
+Primary completion: 2028-07
+  🔵 Primer registro en caché
+→ https://clinicaltrials.gov/study/NCT07486934
+
+[OCUL] 🔵 SOL-1 — AXPAXLI — wet AMD
+NCT: NCT06223958 | Status: ACTIVE_NOT_RECRUITING
+Primary completion: 2026-04-29
+  🔵 Primer registro en caché
+→ https://clinicaltrials.gov/study/NCT06223958
+
+[OCUL] 🔵 SOL-R — AXPAXLI — wet AMD
+NCT: NCT06495918 | Status: ACTIVE_NOT_RECRUITING
+Primary completion: 2027-01-08
+  🔵 Primer registro en caché
+→ https://clinicaltrials.gov/study/NCT06495918
+
+[TARA] 🟢 ADVANCED-2 — TARA-002 — NMIBC
+NCT: NCT05015946 | Status: COMPLETED
+Primary completion: 2021-12-15
+  🔵 Primer registro en caché
+→ https://clinicaltrials.gov/study/NCT05015946
+
+[ABVX] 🟢 ABTECT-1 — obefazimod — UC
+NCT: NCT05507203 | Status: COMPLETED
+Primary completion: 2025-06-24
+  🔵 Primer registro en caché
+→ https://clinicaltrials.gov/study/NCT05507203
+
+[ABVX] 🟢 ABTECT-2 — obefazimod — UC
+NCT: NCT05507216 | Status: COMPLETED
+Primary completion: 2025-06-24
+  🔵 Primer registro en caché
+→ https://clinicaltrials.gov/study/NCT05507216
+
+[VERA] 🔵 ORIGIN 3 — atacicept — IgAN
+NCT: NCT04716231 | Status: ACTIVE_NOT_RECRUITING
+Primary completion: 2025-05-15
+  🔵 Primer registro en caché
+→ https://clinicaltrials.gov/study/NCT04716231
+
+[SNDX] 🔵 AUGMENT-101 — revumenib — KMT2Ar/NPM1m leukemia
+NCT: NCT04065399 | Status: RECRUITING
+Primary completion: 2027-12-15
+  🔵 Primer registro en caché
+→ https://clinicaltrials.gov/study/NCT04065399
+
+[SNDX] 🔵 REVEAL — revumenib — NPM1m AML frontline
+NCT: NCT07211958 | Status: RECRUITING
+Primary completion: 2029-06
+  🔵 Primer registro en caché
+→ https://clinicaltrials.gov/study/NCT07211958
+
+[VKTX] 🔵 VENTURE — VK2735 SC — obesidad
+NCT: NCT05948826 | Status: ACTIVE_NOT_RECRUITING
+Primary completion: 2026-06-25
+  🔵 Primer registro en caché
+→ https://clinicaltrials.gov/study/NCT05948826
+
+[VKTX] 🟢 VANQUISH — VK2735 oral — obesidad
+NCT: NCT06119360 | Status: COMPLETED
+Primary completion: 2019-02-13
+  🔵 Primer registro en caché
+→ https://clinicaltrials.gov/study/NCT06119360
+
+[BEAM] 🔵 BEACON — BEAM-101 / risto-cel — SCD
+NCT: NCT05456880 | Status: ACTIVE_NOT_RECRUITING
+Primary completion: 2028-02
+  🔵 Primer registro en caché
+→ https://clinicaltrials.gov/study/NCT05456880
+
+[BEAM] 🔵 BEAM-302 — AATD
+NCT: NCT06389877 | Status: RECRUITING
+Primary completion: 2028-05
+  🔵 Primer registro en caché
+→ https://clinicaltrials.gov/study/NCT06389877
+
+[ACRV] 🔵 ACR-368 + OncoSignature — ovario/endometrio/urotelial
+NCT: NCT05548296 | Status: RECRUITING
+Primary completion: 2027-05-30
+  🔵 Primer registro en caché
+→ https://clinicaltrials.gov/study/NCT05548296
+
+[GPCR] 🔵 GLOW — aleniglipron / GSBR-1290 — obesidad oral
+NCT: NCT06693843 | Status: ACTIVE_NOT_RECRUITING
+Primary completion: 2025-10-24
+  🔵 Primer registro en caché
+→ https://clinicaltrials.gov/study/NCT06693843
+
+[INSM] 🟢 ASPEN — brensocatib — bronchiectasis
+NCT: NCT04594369 | Status: COMPLETED
+Primary completion: 2024-10-28
+  🔵 Primer registro en caché
+→ https://clinicaltrials.gov/study/NCT04594369
+
+----------------------------------------------------------------------
+DETALLE POR EMPRESA
+----------------------------------------------------------------------
+
+🔵 [DYN]
+  🔵 DELIVER — z-rostudirsen / DYNE-251 — DMD exon 51
+     NCT: NCT05524883 | Status: Activo, sin reclutamiento
+     Phase: PHASE1, PHASE2
+     Enrollment: 86
+     Primary completion: 2029-11 ESTIMATED
+     Study completion: 2029-11 ESTIMATED
+     Last update posted: 2025-08-13
+     → https://clinicaltrials.gov/study/NCT05524883
+  🔵 ACHIEVE — z-basivarsen / DYNE-101 — DM1
+     NCT: NCT05481879 | Status: Reclutando
+     Phase: PHASE1, PHASE2
+     Enrollment: 116
+     Primary completion: 2029-07 ESTIMATED
+     Study completion: 2029-07 ESTIMATED
+     Last update posted: 2026-05-12
+     → https://clinicaltrials.gov/study/NCT05481879
+  🔵 HARMONIA — z-basivarsen — DM1 confirmatorio
+     NCT: NCT07486934 | Status: Reclutando
+     Phase: PHASE3
+     Enrollment: 150
+     Primary completion: 2028-07 ESTIMATED
+     Study completion: 2029-01 ESTIMATED
+     Last update posted: 2026-06-01
+     → https://clinicaltrials.gov/study/NCT07486934
+
+🔵 [OCUL]
+  🔵 SOL-1 — AXPAXLI — wet AMD
+     NCT: NCT06223958 | Status: Activo, sin reclutamiento
+     Phase: PHASE3
+     Enrollment: 344
+     Primary completion: 2026-04-29 ESTIMATED
+     Study completion: 2027-09-27 ESTIMATED
+     Last update posted: 2025-04-18
+     → https://clinicaltrials.gov/study/NCT06223958
+  🔵 SOL-R — AXPAXLI — wet AMD
+     NCT: NCT06495918 | Status: Activo, sin reclutamiento
+     Phase: PHASE3
+     Enrollment: 825
+     Primary completion: 2027-01-08 ESTIMATED
+     Study completion: 2027-01-08 ESTIMATED
+     Last update posted: 2025-06-17
+     → https://clinicaltrials.gov/study/NCT06495918
+
+🟢 [TARA]
+  🟢 ADVANCED-2 — TARA-002 — NMIBC
+     NCT: NCT05015946 | Status: Ensayo completado
+     Phase: NA
+     Enrollment: 10
+     Primary completion: 2021-12-15 ACTUAL
+     Study completion: 2021-12-20 ACTUAL
+     Last update posted: 2022-03-04
+     → https://clinicaltrials.gov/study/NCT05015946
+
+🟢 [ABVX]
+  🟢 ABTECT-1 — obefazimod — UC
+     NCT: NCT05507203 | Status: Ensayo completado
+     Phase: PHASE3
+     Enrollment: 639
+     Primary completion: 2025-06-24 ACTUAL
+     Study completion: 2025-06-25 ACTUAL
+     Last update posted: 2025-10-24
+     → https://clinicaltrials.gov/study/NCT05507203
+  🟢 ABTECT-2 — obefazimod — UC
+     NCT: NCT05507216 | Status: Ensayo completado
+     Phase: PHASE3
+     Enrollment: 636
+     Primary completion: 2025-06-24 ACTUAL
+     Study completion: 2025-07-15 ACTUAL
+     Last update posted: 2025-10-24
+     → https://clinicaltrials.gov/study/NCT05507216
+
+🔵 [VERA]
+  🔵 ORIGIN 3 — atacicept — IgAN
+     NCT: NCT04716231 | Status: Activo, sin reclutamiento
+     Phase: PHASE3
+     Enrollment: 376
+     Primary completion: 2025-05-15 ACTUAL
+     Study completion: 2028-07 ESTIMATED
+     Last update posted: 2025-09-30
+     → https://clinicaltrials.gov/study/NCT04716231
+
+🔵 [SNDX]
+  🔵 AUGMENT-101 — revumenib — KMT2Ar/NPM1m leukemia
+     NCT: NCT04065399 | Status: Reclutando
+     Phase: PHASE1, PHASE2
+     Enrollment: 447
+     Primary completion: 2027-12-15 ESTIMATED
+     Study completion: 2027-12-15 ESTIMATED
+     Last update posted: 2026-03-18
+     → https://clinicaltrials.gov/study/NCT04065399
+  🔵 REVEAL — revumenib — NPM1m AML frontline
+     NCT: NCT07211958 | Status: Reclutando
+     Phase: PHASE3
+     Enrollment: 468
+     Primary completion: 2029-06 ESTIMATED
+     Study completion: 2031-01 ESTIMATED
+     Last update posted: 2026-05-20
+     → https://clinicaltrials.gov/study/NCT07211958
+
+🟢 [VKTX]
+  🔵 VENTURE — VK2735 SC — obesidad
+     NCT: NCT05948826 | Status: Activo, sin reclutamiento
+     Phase: PHASE1
+     Enrollment: 70
+     Primary completion: 2026-06-25 ESTIMATED
+     Study completion: 2026-09-15 ESTIMATED
+     Last update posted: 2025-10-10
+     → https://clinicaltrials.gov/study/NCT05948826
+  🟢 VANQUISH — VK2735 oral — obesidad
+     NCT: NCT06119360 | Status: Ensayo completado
+     Phase: NA
+     Enrollment: 176
+     Primary completion: 2019-02-13 ACTUAL
+     Study completion: 2019-08-31 ACTUAL
+     Last update posted: 2023-11-07
+     → https://clinicaltrials.gov/study/NCT06119360
+
+🔵 [BEAM]
+  🔵 BEACON — BEAM-101 / risto-cel — SCD
+     NCT: NCT05456880 | Status: Activo, sin reclutamiento
+     Phase: PHASE1, PHASE2
+     Enrollment: 15
+     Primary completion: 2028-02 ESTIMATED
+     Study completion: 2028-02 ESTIMATED
+     Last update posted: 2025-12-16
+     → https://clinicaltrials.gov/study/NCT05456880
+  🔵 BEAM-302 — AATD
+     NCT: NCT06389877 | Status: Reclutando
+     Phase: PHASE1, PHASE2
+     Enrollment: 106
+     Primary completion: 2028-05 ESTIMATED
+     Study completion: 2030-05 ESTIMATED
+     Last update posted: 2026-03-20
+     → https://clinicaltrials.gov/study/NCT06389877
+
+🔵 [ACRV]
+  🔵 ACR-368 + OncoSignature — ovario/endometrio/urotelial
+     NCT: NCT05548296 | Status: Reclutando
+     Phase: PHASE2
+     Enrollment: 350
+     Primary completion: 2027-05-30 ESTIMATED
+     Study completion: 2027-11-30 ESTIMATED
+     Last update posted: 2026-06-15
+     → https://clinicaltrials.gov/study/NCT05548296
+
+🔵 [GPCR]
+  🔵 GLOW — aleniglipron / GSBR-1290 — obesidad oral
+     NCT: NCT06693843 | Status: Activo, sin reclutamiento
+     Phase: PHASE2
+     Enrollment: 220
+     Primary completion: 2025-10-24 ACTUAL
+     Study completion: 2026-08 ESTIMATED
+     Last update posted: 2026-04-28
+     → https://clinicaltrials.gov/study/NCT06693843
+
+🟢 [INSM]
+  🟢 ASPEN — brensocatib — bronchiectasis
+     NCT: NCT04594369 | Status: Ensayo completado
+     Phase: PHASE3
+     Enrollment: 1767
+     Primary completion: 2024-10-28 ACTUAL
+     Study completion: 2024-10-28 ACTUAL
+     Last update posted: 2025-12-16
+     → https://clinicaltrials.gov/study/NCT04594369
+
+======================================================================
+Fuente: ClinicalTrials.gov API v2
+======================================================================

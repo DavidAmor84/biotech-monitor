@@ -1,0 +1,1106 @@
+{
+  "version": "v9.0",
+  "generado": "21/06/2026 15:23",
+  "fecha": "2026-06-21",
+  "resumen": {
+    "total_ensayos": 18,
+    "alertas_rojas": 0,
+    "alertas_verdes": 5,
+    "alertas_amarillas": 0,
+    "alertas_azules": 13,
+    "errores": 0
+  },
+  "empresas": {
+    "DYN": {
+      "ensayos": [
+        {
+          "nct": "NCT05524883",
+          "nombre_usuario": "DELIVER — z-rostudirsen / DYNE-251 — DMD exon 51",
+          "titulo": "Safety, Tolerability, Pharmacodynamic, Efficacy, and Pharmacokinetic Study of DYNE-251 in Participants With Duchenne Muscular Dystrophy Amenable to Exon 51 Skipping",
+          "titulo_oficial": "A Randomized, Double-Blind, Placebo-Controlled, Multiple Ascending Dose Study Assessing Safety, Tolerability, Pharmacodynamics, Efficacy, and Pharmacokinetics of DYNE-251 Administered to Participants With Duchenne Muscular Dystrophy Amenable to Exon 51 Skipping",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "status_desc": "Activo, sin reclutamiento",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE1, PHASE2",
+          "enrollment": 86,
+          "primary_completion_date": "2029-11",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2029-11",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2022-08-12",
+          "last_update_posted": "2025-08-13",
+          "conditions": [
+            "Duchenne Muscular Dystrophy (DMD)"
+          ],
+          "interventions": [
+            "DYNE-251",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05524883",
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        },
+        {
+          "nct": "NCT05481879",
+          "nombre_usuario": "ACHIEVE — z-basivarsen / DYNE-101 — DM1",
+          "titulo": "Safety, Tolerability, Pharmacodynamic, Efficacy, and Pharmacokinetic Study of DYNE-101 in Participants With Myotonic Dystrophy Type 1",
+          "titulo_oficial": "A Randomized, Placebo-Controlled, Multiple Ascending Dose Study Assessing Safety, Tolerability, Pharmacodynamics, Efficacy, and Pharmacokinetics of DYNE-101 Administered to Participants With Myotonic Dystrophy Type 1",
+          "status": "RECRUITING",
+          "status_desc": "Reclutando",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE1, PHASE2",
+          "enrollment": 116,
+          "primary_completion_date": "2029-07",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2029-07",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2022-09-05",
+          "last_update_posted": "2026-05-12",
+          "conditions": [
+            "Myotonic Dystrophy Type 1 (DM1)"
+          ],
+          "interventions": [
+            "DYNE-101",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05481879",
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        },
+        {
+          "nct": "NCT07486934",
+          "nombre_usuario": "HARMONIA — z-basivarsen — DM1 confirmatorio",
+          "titulo": "Efficacy, Safety, and Tolerability of Zeleciment Basivarsen (DYNE-101) in Participants With Myotonic Dystrophy Type 1",
+          "titulo_oficial": "A Phase 3, Randomized, Double-Blind, 48-Week Placebo-Controlled Study to Assess the Efficacy, Safety, and Tolerability of DYNE-101 Administered to Participants With Myotonic Dystrophy Type 1",
+          "status": "RECRUITING",
+          "status_desc": "Reclutando",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE3",
+          "enrollment": 150,
+          "primary_completion_date": "2028-07",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2029-01",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2026-04",
+          "last_update_posted": "2026-06-01",
+          "conditions": [
+            "Myotonic Dystrophy Type 1 (DM1)",
+            "DM1",
+            "Myotonic Dystrophy",
+            "Steinert Disease",
+            "Steinert"
+          ],
+          "interventions": [
+            "zeleciment basivarsen (DYNE-101)",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07486934",
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    "OCUL": {
+      "ensayos": [
+        {
+          "nct": "NCT06223958",
+          "nombre_usuario": "SOL-1 — AXPAXLI — wet AMD",
+          "titulo": "Study to Evaluate the Efficacy and Safety of Intravitreal OTX-TKI (Ocular Therapeutix) (Axitinib Implant) in Subjects With Neovascular Age-Related Macular Degeneration",
+          "titulo_oficial": "A Phase 3, Multicenter, Double-Masked, Randomized, Parallel-Group Study to Evaluate the Efficacy and Safety of Intravitreal OTX-TKI (Axitinib Implant) in Subjects With Neovascular Age-Related Macular Degeneration (nAMD)",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "status_desc": "Activo, sin reclutamiento",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE3",
+          "enrollment": 344,
+          "primary_completion_date": "2026-04-29",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2027-09-27",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2024-01-29",
+          "last_update_posted": "2025-04-18",
+          "conditions": [
+            "Neovascular Age-Related Macular Degeneration"
+          ],
+          "interventions": [
+            "OTX-TKI (axitinib implant)",
+            "Aflibercept"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06223958",
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        },
+        {
+          "nct": "NCT06495918",
+          "nombre_usuario": "SOL-R — AXPAXLI — wet AMD",
+          "titulo": "Study to Evaluate the Efficacy and Safety of Intravitreal OTX-TKI (Axitinib Implant) in Subjects With Neovascular Age- Related Macular Degeneration",
+          "titulo_oficial": "A Phase 3, Multicenter, Double-Masked, Randomized, Parallel Group Study to Evaluate the Efficacy and Safety of Intravitreal OTX-TKI (Axitinib Implant) in Subjects With Neovascular Age- Related Macular Degeneration",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "status_desc": "Activo, sin reclutamiento",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE3",
+          "enrollment": 825,
+          "primary_completion_date": "2027-01-08",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2027-01-08",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2024-11-27",
+          "last_update_posted": "2025-06-17",
+          "conditions": [
+            "Neovascular Age-related Macular Degeneration"
+          ],
+          "interventions": [
+            "OTX-TKI",
+            "Aflibercept",
+            "Aflibercept"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06495918",
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    "TARA": {
+      "ensayos": [
+        {
+          "nct": "NCT05015946",
+          "nombre_usuario": "ADVANCED-2 — TARA-002 — NMIBC",
+          "titulo": "Handball-based Exercise and Type 2 Diabetes",
+          "titulo_oficial": "Handball-based Exercise for People Diagnosed With Type 2 Diabetes: a Feasibility Study",
+          "status": "COMPLETED",
+          "status_desc": "Ensayo completado",
+          "nivel_base": "verde",
+          "badge_base": "🟢",
+          "phase": "NA",
+          "enrollment": 10,
+          "primary_completion_date": "2021-12-15",
+          "primary_completion_type": "ACTUAL",
+          "study_completion_date": "2021-12-20",
+          "study_completion_type": "ACTUAL",
+          "start_date": "2021-09-01",
+          "last_update_posted": "2022-03-04",
+          "conditions": [
+            "Type 2 Diabetes"
+          ],
+          "interventions": [
+            "Small-sided team handball training"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05015946",
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "verde",
+          "badge": "🟢",
+          "error": null
+        }
+      ],
+      "nivel": "verde",
+      "badge": "🟢"
+    },
+    "ABVX": {
+      "ensayos": [
+        {
+          "nct": "NCT05507203",
+          "nombre_usuario": "ABTECT-1 — obefazimod — UC",
+          "titulo": "ABTECT-1 - ABX464 Treatment Evaluation for Ulcerative Colitis Therapy -1",
+          "titulo_oficial": "A Randomized, Double-blind, Placebo-controlled, Multicenter Phase III Study to Evaluate the Efficacy and Safety of ABX464 Once Daily for Induction Treatment in Subjects With Moderately to Severely Active Ulcerative Colitis",
+          "status": "COMPLETED",
+          "status_desc": "Ensayo completado",
+          "nivel_base": "verde",
+          "badge_base": "🟢",
+          "phase": "PHASE3",
+          "enrollment": 639,
+          "primary_completion_date": "2025-06-24",
+          "primary_completion_type": "ACTUAL",
+          "study_completion_date": "2025-06-25",
+          "study_completion_type": "ACTUAL",
+          "start_date": "2022-10-10",
+          "last_update_posted": "2025-10-24",
+          "conditions": [
+            "Ulcerative Colitis"
+          ],
+          "interventions": [
+            "ABX464",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05507203",
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "verde",
+          "badge": "🟢",
+          "error": null
+        },
+        {
+          "nct": "NCT05507216",
+          "nombre_usuario": "ABTECT-2 — obefazimod — UC",
+          "titulo": "ABTECT-2 - ABX464 Treatment Evaluation for Ulcerative Colitis Therapy -2",
+          "titulo_oficial": "A Randomized, Double-blind, Placebo-controlled, Multicenter Phase III Study to Evaluate the Efficacy and Safety of ABX464 Once Daily for Induction Treatment in Subjects With Moderately to Severely Active Ulcerative Colitis",
+          "status": "COMPLETED",
+          "status_desc": "Ensayo completado",
+          "nivel_base": "verde",
+          "badge_base": "🟢",
+          "phase": "PHASE3",
+          "enrollment": 636,
+          "primary_completion_date": "2025-06-24",
+          "primary_completion_type": "ACTUAL",
+          "study_completion_date": "2025-07-15",
+          "study_completion_type": "ACTUAL",
+          "start_date": "2022-12-21",
+          "last_update_posted": "2025-10-24",
+          "conditions": [
+            "Ulcerative Colitis"
+          ],
+          "interventions": [
+            "ABX464",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05507216",
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "verde",
+          "badge": "🟢",
+          "error": null
+        }
+      ],
+      "nivel": "verde",
+      "badge": "🟢"
+    },
+    "VERA": {
+      "ensayos": [
+        {
+          "nct": "NCT04716231",
+          "nombre_usuario": "ORIGIN 3 — atacicept — IgAN",
+          "titulo": "Atacicept in Subjects With IgA Nephropathy",
+          "titulo_oficial": "A Phase 2b/3, Multi-part, Randomized, Double-Blinded, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Atacicept in Subjects With IgA Nephropathy (IgAN)",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "status_desc": "Activo, sin reclutamiento",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE3",
+          "enrollment": 376,
+          "primary_completion_date": "2025-05-15",
+          "primary_completion_type": "ACTUAL",
+          "study_completion_date": "2028-07",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2023-06-29",
+          "last_update_posted": "2025-09-30",
+          "conditions": [
+            "IgA Nephropathy",
+            "Berger Disease"
+          ],
+          "interventions": [
+            "Atacicept",
+            "Placebo to match Atacicept"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT04716231",
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    "SNDX": {
+      "ensayos": [
+        {
+          "nct": "NCT04065399",
+          "nombre_usuario": "AUGMENT-101 — revumenib — KMT2Ar/NPM1m leukemia",
+          "titulo": "A Study of Revumenib in R/R Leukemias Including Those With an MLL/KMT2A Gene Rearrangement or NPM1 Mutation",
+          "titulo_oficial": "A Phase 1/2, Open-label, Dose-Escalation and Dose-Expansion Cohort Study of SNDX-5613 in Patients With Relapsed/Refractory Leukemias, Including Those Harboring an MLL/KMT2A Gene Rearrangement or Nucleophosmin 1 (NPM1) Mutation",
+          "status": "RECRUITING",
+          "status_desc": "Reclutando",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE1, PHASE2",
+          "enrollment": 447,
+          "primary_completion_date": "2027-12-15",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2027-12-15",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2019-11-05",
+          "last_update_posted": "2026-03-18",
+          "conditions": [
+            "Acute Myeloid Leukemia",
+            "Acute Lymphoblastic Leukemia",
+            "Mixed Lineage Acute Leukemia",
+            "Mixed Phenotype Acute Leukemia",
+            "Acute Leukemia of Ambiguous Lineage"
+          ],
+          "interventions": [
+            "revumenib",
+            "cobicistat"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT04065399",
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        },
+        {
+          "nct": "NCT07211958",
+          "nombre_usuario": "REVEAL — revumenib — NPM1m AML frontline",
+          "titulo": "Study of Revumenib in Combination With Intensive Chemotherapy in Newly Diagnosed Acute Myeloid Leukemia (AML) With a NPM1 Mutation",
+          "titulo_oficial": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study of Revumenib in Combination With Intensive Chemotherapy in Participants With Newly Diagnosed AML With an NPM1 Mutation",
+          "status": "RECRUITING",
+          "status_desc": "Reclutando",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE3",
+          "enrollment": 468,
+          "primary_completion_date": "2029-06",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2031-01",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2025-11-25",
+          "last_update_posted": "2026-05-20",
+          "conditions": [
+            "Acute Myeloid Leukemias"
+          ],
+          "interventions": [
+            "Revumenib",
+            "Placebo",
+            "Intensive Chemotherapy Regimen"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT07211958",
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    "VKTX": {
+      "ensayos": [
+        {
+          "nct": "NCT05948826",
+          "nombre_usuario": "VENTURE — VK2735 SC — obesidad",
+          "titulo": "First in Human Study of TORL-3-600 in Participants With Advanced Cancer",
+          "titulo_oficial": "A Phase 1, First in Human, Dose-Escalation Study of TORL-3-600 in Participants With Advanced Cancer",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "status_desc": "Activo, sin reclutamiento",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE1",
+          "enrollment": 70,
+          "primary_completion_date": "2026-06-25",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2026-09-15",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2023-09-29",
+          "last_update_posted": "2025-10-10",
+          "conditions": [
+            "Advanced Solid Tumor",
+            "Colorectal Cancer"
+          ],
+          "interventions": [
+            "TORL-3-600"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05948826",
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        },
+        {
+          "nct": "NCT06119360",
+          "nombre_usuario": "VANQUISH — VK2735 oral — obesidad",
+          "titulo": "Comparison of Two Different Lightwand Intubation Techniques in Cervical Immobilized Patients",
+          "titulo_oficial": "Comparison of the Intubation Success Rate Between Two Techniques Using Lightwand in Patients Undergoing Spine Surgery: Conventional vs. Face-to-face Technique",
+          "status": "COMPLETED",
+          "status_desc": "Ensayo completado",
+          "nivel_base": "verde",
+          "badge_base": "🟢",
+          "phase": "NA",
+          "enrollment": 176,
+          "primary_completion_date": "2019-02-13",
+          "primary_completion_type": "ACTUAL",
+          "study_completion_date": "2019-08-31",
+          "study_completion_type": "ACTUAL",
+          "start_date": "2018-12-12",
+          "last_update_posted": "2023-11-07",
+          "conditions": [
+            "Intubation; Difficult or Failed"
+          ],
+          "interventions": [
+            "Face-to-face approach",
+            "Conventional approach"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06119360",
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "verde",
+          "badge": "🟢",
+          "error": null
+        }
+      ],
+      "nivel": "verde",
+      "badge": "🟢"
+    },
+    "BEAM": {
+      "ensayos": [
+        {
+          "nct": "NCT05456880",
+          "nombre_usuario": "BEACON — BEAM-101 / risto-cel — SCD",
+          "titulo": "BEACON: A Study Evaluating the Safety and Efficacy of BEAM-101 in Patients With Severe Sickle Cell Disease",
+          "titulo_oficial": "A Phase 1/2 Study Evaluating the Safety and Efficacy of a Single Dose of Autologous CD34+ Base Edited Hematopoietic Stem Cells (BEAM-101) in Patients With Sickle Cell Disease and Severe Vaso-Occlusive Crises (Beacon Trial)",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "status_desc": "Activo, sin reclutamiento",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE1, PHASE2",
+          "enrollment": 15,
+          "primary_completion_date": "2028-02",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2028-02",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2022-08-30",
+          "last_update_posted": "2025-12-16",
+          "conditions": [
+            "Sickle Cell Disease"
+          ],
+          "interventions": [
+            "BEAM-101"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05456880",
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        },
+        {
+          "nct": "NCT06389877",
+          "nombre_usuario": "BEAM-302 — AATD",
+          "titulo": "A Study to Evaluate the Safety and Efficacy of BEAM-302 in Adult Patients With Alpha-1 Antitrypsin Deficiency (AATD)",
+          "titulo_oficial": "A Phase 1/2 Dose-exploration and Dose-expansion Study to Evaluate the Safety and Efficacy of BEAM-302 in Adult Patients With Alpha-1 Antitrypsin Deficiency (AATD)-Associated Lung Disease and/or Liver Disease",
+          "status": "RECRUITING",
+          "status_desc": "Reclutando",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE1, PHASE2",
+          "enrollment": 106,
+          "primary_completion_date": "2028-05",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2030-05",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2024-06-19",
+          "last_update_posted": "2026-03-20",
+          "conditions": [
+            "Alpha 1-Antitrypsin Deficiency"
+          ],
+          "interventions": [
+            "BEAM-302"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06389877",
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    "ACRV": {
+      "ensayos": [
+        {
+          "nct": "NCT05548296",
+          "nombre_usuario": "ACR-368 + OncoSignature — ovario/endometrio/urotelial",
+          "titulo": "A Phase 2 Study of ACR-368 in Endometrial Adenocarcinoma",
+          "titulo_oficial": "A Phase 2 Study of ACR-368 Therapy in Subjects With Endometrial Cancer",
+          "status": "RECRUITING",
+          "status_desc": "Reclutando",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE2",
+          "enrollment": 350,
+          "primary_completion_date": "2027-05-30",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2027-11-30",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2022-08-29",
+          "last_update_posted": "2026-06-15",
+          "conditions": [
+            "Endometrial Adenocarcinoma"
+          ],
+          "interventions": [
+            "ACR-368",
+            "Gemcitabine",
+            "OncoSignature"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT05548296",
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    "GPCR": {
+      "ensayos": [
+        {
+          "nct": "NCT06693843",
+          "nombre_usuario": "GLOW — aleniglipron / GSBR-1290 — obesidad oral",
+          "titulo": "A Phase 2b, Dose-range Finding Study of the Efficacy and Safety of Multiple Doses of Aleniglipron (GSBR-1290) in Participants Living With Obesity or Overweight With at Least One Weight-related Comorbidity",
+          "titulo_oficial": "A Phase 2b, Randomized, Double-blind, Placebo-controlled, Dose-range Finding Study of the Efficacy and Safety of Multiple Doses of Aleniglipron (GSBR-1290) in Participants Living With Obesity (Body Mass Index ≥ 30 kg/m2) or Overweight (Body Mass Index ≥ 27 kg/m2) With at Least One Weight-related Comorbidity",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "status_desc": "Activo, sin reclutamiento",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE2",
+          "enrollment": 220,
+          "primary_completion_date": "2025-10-24",
+          "primary_completion_type": "ACTUAL",
+          "study_completion_date": "2026-08",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2024-10-28",
+          "last_update_posted": "2026-04-28",
+          "conditions": [
+            "Obesity, Overweight, or Chronic Weight Management"
+          ],
+          "interventions": [
+            "Aleniglipron or Placebo",
+            "Aleniglipron or Placebo",
+            "Aleniglipron or Placebo",
+            "Aleniglipron",
+            "Aleniglipron",
+            "Aleniglipron",
+            "Aleniglipron"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06693843",
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    "INSM": {
+      "ensayos": [
+        {
+          "nct": "NCT04594369",
+          "nombre_usuario": "ASPEN — brensocatib — bronchiectasis",
+          "titulo": "A Study to Assess the Efficacy, Safety, and Tolerability of Brensocatib in Participants With Non-Cystic Fibrosis Bronchiectasis",
+          "titulo_oficial": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study to Assess the Efficacy, Safety, and Tolerability of Brensocatib Administered Once Daily for 52 Weeks in Subjects With Non-Cystic Fibrosis Bronchiectasis - The ASPEN Study",
+          "status": "COMPLETED",
+          "status_desc": "Ensayo completado",
+          "nivel_base": "verde",
+          "badge_base": "🟢",
+          "phase": "PHASE3",
+          "enrollment": 1767,
+          "primary_completion_date": "2024-10-28",
+          "primary_completion_type": "ACTUAL",
+          "study_completion_date": "2024-10-28",
+          "study_completion_type": "ACTUAL",
+          "start_date": "2020-12-01",
+          "last_update_posted": "2025-12-16",
+          "conditions": [
+            "Non-Cystic Fibrosis Bronchiectasis"
+          ],
+          "interventions": [
+            "Brensocatib 10 mg",
+            "Brensocatib 25 mg",
+            "Placebo"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT04594369",
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "verde",
+          "badge": "🟢",
+          "error": null
+        }
+      ],
+      "nivel": "verde",
+      "badge": "🟢"
+    }
+  },
+  "alertas": [
+    {
+      "ticker": "DYN",
+      "nct": "NCT05524883",
+      "nombre": "DELIVER — z-rostudirsen / DYNE-251 — DMD exon 51",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "primary_completion_date": "2029-11",
+      "mensaje": "Activo, sin reclutamiento",
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05524883"
+    },
+    {
+      "ticker": "DYN",
+      "nct": "NCT05481879",
+      "nombre": "ACHIEVE — z-basivarsen / DYNE-101 — DM1",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "RECRUITING",
+      "primary_completion_date": "2029-07",
+      "mensaje": "Reclutando",
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05481879"
+    },
+    {
+      "ticker": "DYN",
+      "nct": "NCT07486934",
+      "nombre": "HARMONIA — z-basivarsen — DM1 confirmatorio",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "RECRUITING",
+      "primary_completion_date": "2028-07",
+      "mensaje": "Reclutando",
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07486934"
+    },
+    {
+      "ticker": "OCUL",
+      "nct": "NCT06223958",
+      "nombre": "SOL-1 — AXPAXLI — wet AMD",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "primary_completion_date": "2026-04-29",
+      "mensaje": "Activo, sin reclutamiento",
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06223958"
+    },
+    {
+      "ticker": "OCUL",
+      "nct": "NCT06495918",
+      "nombre": "SOL-R — AXPAXLI — wet AMD",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "primary_completion_date": "2027-01-08",
+      "mensaje": "Activo, sin reclutamiento",
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06495918"
+    },
+    {
+      "ticker": "TARA",
+      "nct": "NCT05015946",
+      "nombre": "ADVANCED-2 — TARA-002 — NMIBC",
+      "nivel": "verde",
+      "badge": "🟢",
+      "status": "COMPLETED",
+      "primary_completion_date": "2021-12-15",
+      "mensaje": "Ensayo completado",
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05015946"
+    },
+    {
+      "ticker": "ABVX",
+      "nct": "NCT05507203",
+      "nombre": "ABTECT-1 — obefazimod — UC",
+      "nivel": "verde",
+      "badge": "🟢",
+      "status": "COMPLETED",
+      "primary_completion_date": "2025-06-24",
+      "mensaje": "Ensayo completado",
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05507203"
+    },
+    {
+      "ticker": "ABVX",
+      "nct": "NCT05507216",
+      "nombre": "ABTECT-2 — obefazimod — UC",
+      "nivel": "verde",
+      "badge": "🟢",
+      "status": "COMPLETED",
+      "primary_completion_date": "2025-06-24",
+      "mensaje": "Ensayo completado",
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05507216"
+    },
+    {
+      "ticker": "VERA",
+      "nct": "NCT04716231",
+      "nombre": "ORIGIN 3 — atacicept — IgAN",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "primary_completion_date": "2025-05-15",
+      "mensaje": "Activo, sin reclutamiento",
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT04716231"
+    },
+    {
+      "ticker": "SNDX",
+      "nct": "NCT04065399",
+      "nombre": "AUGMENT-101 — revumenib — KMT2Ar/NPM1m leukemia",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "RECRUITING",
+      "primary_completion_date": "2027-12-15",
+      "mensaje": "Reclutando",
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT04065399"
+    },
+    {
+      "ticker": "SNDX",
+      "nct": "NCT07211958",
+      "nombre": "REVEAL — revumenib — NPM1m AML frontline",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "RECRUITING",
+      "primary_completion_date": "2029-06",
+      "mensaje": "Reclutando",
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07211958"
+    },
+    {
+      "ticker": "VKTX",
+      "nct": "NCT05948826",
+      "nombre": "VENTURE — VK2735 SC — obesidad",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "primary_completion_date": "2026-06-25",
+      "mensaje": "Activo, sin reclutamiento",
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05948826"
+    },
+    {
+      "ticker": "VKTX",
+      "nct": "NCT06119360",
+      "nombre": "VANQUISH — VK2735 oral — obesidad",
+      "nivel": "verde",
+      "badge": "🟢",
+      "status": "COMPLETED",
+      "primary_completion_date": "2019-02-13",
+      "mensaje": "Ensayo completado",
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06119360"
+    },
+    {
+      "ticker": "BEAM",
+      "nct": "NCT05456880",
+      "nombre": "BEACON — BEAM-101 / risto-cel — SCD",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "primary_completion_date": "2028-02",
+      "mensaje": "Activo, sin reclutamiento",
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05456880"
+    },
+    {
+      "ticker": "BEAM",
+      "nct": "NCT06389877",
+      "nombre": "BEAM-302 — AATD",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "RECRUITING",
+      "primary_completion_date": "2028-05",
+      "mensaje": "Reclutando",
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06389877"
+    },
+    {
+      "ticker": "ACRV",
+      "nct": "NCT05548296",
+      "nombre": "ACR-368 + OncoSignature — ovario/endometrio/urotelial",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "RECRUITING",
+      "primary_completion_date": "2027-05-30",
+      "mensaje": "Reclutando",
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT05548296"
+    },
+    {
+      "ticker": "GPCR",
+      "nct": "NCT06693843",
+      "nombre": "GLOW — aleniglipron / GSBR-1290 — obesidad oral",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "primary_completion_date": "2025-10-24",
+      "mensaje": "Activo, sin reclutamiento",
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06693843"
+    },
+    {
+      "ticker": "INSM",
+      "nct": "NCT04594369",
+      "nombre": "ASPEN — brensocatib — bronchiectasis",
+      "nivel": "verde",
+      "badge": "🟢",
+      "status": "COMPLETED",
+      "primary_completion_date": "2024-10-28",
+      "mensaje": "Ensayo completado",
+      "cambios": [
+        {
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT04594369"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+name: Monitor ClinicalTrials
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 8 * * 1-5"
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run ClinicalTrials monitor
+        run: python clinicaltrials_monitor.py
+
+      - name: Commit results
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add clinicaltrials_resultado.json clinicaltrials_reporte.txt clinicaltrials_cache.json
+          git commit -m "Actualizar ClinicalTrials monitor" || echo "Sin cambios"
+          git push

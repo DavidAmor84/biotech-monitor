@@ -10,18 +10,18 @@ Módulos activos:
   5. S-3 / 424B4: importe oferta → riesgo dilución cuantificado
   6. ClinicalTrials.gov API → status ensayos cartera
   7. Caché inteligente → solo re-descarga si hay cambios (optimiza GitHub Actions)
-
+ 
 CÓMO USAR:
   python sec_edgar_monitor.py          → últimos 7 días
   python sec_edgar_monitor.py 30       → últimos 30 días
   python sec_edgar_monitor.py 7 VERA,INSM,SNDX  → filtrar tickers
-
+ 
 Genera en la misma carpeta:
   - sec_monitor_reporte.txt     → reporte legible
   - sec_monitor_resultado.json  → datos para el dashboard web
   - sec_monitor_cache.json      → caché interna (no subir al dashboard)
 """
-
+ 
 import urllib.request
 import urllib.error
 import json
@@ -33,14 +33,14 @@ import difflib
 import xml.etree.ElementTree as ET
 import hashlib
 import time
-
+ 
 # ── CARTERA ───────────────────────────────────────────────────────────────────
 TICKERS_CARTERA = [
     "SNDX", "ARGX", "DYN", "DNLI", "VKTX", "VRTX",
     "ALNY", "BEAM", "OCUL", "CAI", "GPCR", "ABVX",
     "VERA", "ACRV", "TARA", "SENS", "INSM", "NWL"
 ]
-
+ 
 NOMBRES_ESPERADOS = {
     "SNDX": "Syndax Pharmaceuticals",
     "ARGX": "argenx SE",
@@ -61,29 +61,66 @@ NOMBRES_ESPERADOS = {
     "INSM": "Insmed Inc",
     "NWL":  "NewPrinces SpA (BIT — no SEC)",
 }
-
-# NCT IDs de los ensayos principales de la cartera
+ 
+# NCT IDs verificados desde fuentes oficiales (IR empresas, ClinicalTrials.gov, publicaciones peer-reviewed)
+# Última verificación: junio 2026
 CLINICALTRIALS_CARTERA = {
-    "SNDX": [{"nct": "NCT04603300", "nombre": "EMERGE Ph3 (revumenib AML)"},
-             {"nct": "NCT05185622", "nombre": "SAVE Ph2 (revumenib AML frontline)"}],
-    "DYN":  [{"nct": "NCT05540860", "nombre": "DELIVER Ph3 (DYNE-251 DMD)"},
-             {"nct": "NCT06339827", "nombre": "ACHIEVE Ph3 (DYNE-101 DM1)"}],
-    "VKTX": [{"nct": "NCT05948826", "nombre": "VENTURE Ph2b (VK2735 SC obesidad)"},
-             {"nct": "NCT06119360", "nombre": "VANQUISH Ph2 (VK2735 oral obesidad)"}],
-    "BEAM": [{"nct": "NCT05456880", "nombre": "BEACON Ph1/2 (BEAM-101 SCD)"},
-             {"nct": "NCT05456893", "nombre": "Ph1 (BEAM-302 A1ATD)"}],
-    "OCUL": [{"nct": "NCT05536297", "nombre": "HELIOS-1 Ph3 (AXPAXLI wet AMD)"},
-             {"nct": "NCT06100081", "nombre": "HELIOS-3 Ph2 (AXPAXLI DR)"}],
-    "ABVX": [{"nct": "NCT04745806", "nombre": "ABTECT Ph3 (obefazimod UC inducción)"},
-             {"nct": "NCT05076916", "nombre": "ABTECT Ph3 mantenimiento"}],
-    "VERA": [{"nct": "NCT04287985", "nombre": "ORIGIN Ph3 (atacicept IgAN)"}],
-    "ACRV": [{"nct": "NCT05116774", "nombre": "Ph2 (ACR-368 + OncoSignature)"}],
-    "TARA": [{"nct": "NCT03002103",  "nombre": "Ph2 (TARA-002 LM)"}],
-    "GPCR": [{"nct": "NCT05805709", "nombre": "Ph2b (aleniglipron obesidad)"}],
-    "INSM": [{"nct": "NCT04053543", "nombre": "ASPEN Ph3 (brensocatib bronchiectasis)"}],
-    "DNLI": [{"nct": "NCT04532047", "nombre": "Ph2/3 (DNL310 Hunter AVLAYAH)"}],
+    "SNDX": [
+        # AUGMENT-101: ensayo pivotal registracional revumenib — base de aprobación dic 2024
+        {"nct": "NCT04065399", "nombre": "AUGMENT-101 Ph1/2 (revumenib KMT2Ar/NPM1m)"},
+        # REVEAL: Ph3 frontline NPM1m AML + quimioterapia intensiva — iniciado 2025
+        {"nct": "NCT07211958", "nombre": "REVEAL Ph3 (revumenib NPM1m AML frontline)"},
+    ],
+    "DYN":  [
+        # DELIVER Ph1/2: z-rostudirsen (DYNE-251) DMD exon 51 — REC completada, BLA en revisión
+        {"nct": "NCT05524883", "nombre": "DELIVER Ph1/2 (z-rostudirsen DMD exon 51)"},
+        # ACHIEVE Ph1/2: z-basivarsen (DYNE-101) DM1 — registracional en curso
+        {"nct": "NCT05481879", "nombre": "ACHIEVE Ph1/2 registracional (z-basivarsen DM1)"},
+        # HARMONIA Ph3: z-basivarsen DM1 confirmatorio — iniciado marzo 2026
+        {"nct": "NCT07486934", "nombre": "HARMONIA Ph3 (z-basivarsen DM1 confirmatorio)"},
+    ],
+    "VKTX": [
+        # VENTURE Ph2b: VK2735 SC obesidad — datos esperados Q3 2026
+        {"nct": "NCT05948826", "nombre": "VENTURE Ph2b (VK2735 SC obesidad)"},
+        # VANQUISH Ph2: VK2735 oral obesidad — datos 12.2% peso en 13 semanas
+        {"nct": "NCT06119360", "nombre": "VANQUISH Ph2 (VK2735 oral obesidad)"},
+    ],
+    "BEAM": [
+        # BEACON Ph1/2: risto-cel (BEAM-101) SCD — RMAT agosto 2025, BLA fin 2026
+        {"nct": "NCT05456880", "nombre": "BEACON Ph1/2 (risto-cel BEAM-101 SCD)"},
+        # Ph1/2: BEAM-302 AATD — primera corrección genética in vivo demostrada
+        {"nct": "NCT06389877", "nombre": "Ph1/2 (BEAM-302 AATD corrección genética in vivo)"},
+    ],
+    "OCUL": [
+        # SOL-1 Ph3: AXPAXLI wet AMD superioridad — primario cumplido (74.1% vs 55.8%, p=0.0006)
+        {"nct": "NCT06223958", "nombre": "SOL-1 Ph3 superioridad (AXPAXLI wet AMD)"},
+        # SOL-R Ph3: AXPAXLI wet AMD no inferioridad — enrollment completado dic 2025
+        {"nct": "NCT06495918", "nombre": "SOL-R Ph3 no inferioridad (AXPAXLI wet AMD)"},
+    ],
+    "ABVX": [
+        # ABTECT-1 Ph3: obefazimod UC inducción — primario cumplido 50mg (jul 2025)
+        {"nct": "NCT05507203", "nombre": "ABTECT-1 Ph3 inducción (obefazimod UC)"},
+        # ABTECT-2 Ph3: obefazimod UC inducción AT-failure — primario cumplido 50mg
+        {"nct": "NCT05507216", "nombre": "ABTECT-2 Ph3 inducción AT-failure (obefazimod UC)"},
+    ],
+    "VERA": [
+        # ORIGIN 3 Ph3: atacicept IgAN — BLA en revisión FDA, PDUFA 7 julio 2026
+        {"nct": "NCT04716231", "nombre": "ORIGIN 3 Ph3 (atacicept IgAN) — PDUFA 7 jul 2026"},
+    ],
+    "ACRV": [
+        # Ph1b/2: ACR-368 + OncoSignature ovario/endometrio/urotelial — Fast Track + BDD
+        {"nct": "NCT05548296", "nombre": "Ph1b/2 (ACR-368 OncoSignature ovario/endometrio)"},
+    ],
+    "GPCR": [
+        # Ph2b GLOW: aleniglipron (GSBR-1290) obesidad oral — 16.3% peso a 44 sem
+        {"nct": "NCT06693843", "nombre": "Ph2b GLOW (aleniglipron obesidad oral)"},
+    ],
+    "INSM": [
+        # ASPEN Ph3: brensocatib bronchiectasis — COMPLETADO, aprobado ago 2025 (BRINSUPRI)
+        {"nct": "NCT04594369", "nombre": "ASPEN Ph3 (brensocatib bronchiectasis) — COMPLETADO/APROBADO"},
+    ],
 }
-
+ 
 ALIAS_EMPRESAS = {
     "ABVX": ["Abivax", "Abivax S.A.", "Abivax SA"],
     "ARGX": ["argenx", "argenx SE", "ARGENX SE"],
@@ -95,21 +132,21 @@ ALIAS_EMPRESAS = {
     "DNLI": ["Denali Therapeutics", "DENALI THERAPEUTICS INC"],
     "SENS": ["Senseonics", "Senseonics Holdings", "SENSEONICS HOLDINGS INC"],
 }
-
+ 
 NO_SEC = {
     "NWL": {"cik": None, "nombre": "NewPrinces SpA (BIT — no SEC)"}
 }
-
+ 
 SEC_TICKERS_URL  = "https://www.sec.gov/files/company_tickers.json"
 CLINICALTRIALS_URL = "https://clinicaltrials.gov/api/v2/studies/{nct}?fields=NCTId,BriefTitle,OverallStatus,Phase,EnrollmentCount,StartDate,PrimaryCompletionDate,LastUpdatePostDate"
-
+ 
 # Forms que se monitorizan
 FORMS_OBJETIVO = {"8-K","8-K/A","4","4/A","S-3","S-3/A","S-1","424B4","424B5","10-Q","10-Q/A"}
-
+ 
 # ── CACHÉ ─────────────────────────────────────────────────────────────────────
 CACHE = {}
 CACHE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "sec_monitor_cache.json")
-
+ 
 def cargar_cache():
     global CACHE
     if os.path.exists(CACHE_FILE):
@@ -120,14 +157,14 @@ def cargar_cache():
             CACHE = {}
     else:
         CACHE = {}
-
+ 
 def guardar_cache():
     try:
         with open(CACHE_FILE, "w", encoding="utf-8") as f:
             json.dump(CACHE, f, ensure_ascii=False, indent=2, default=str)
     except Exception:
         pass
-
+ 
 def cache_get(url):
     """Devuelve (contenido, hash) si está en caché y no ha caducado (24h)."""
     entry = CACHE.get(url)
@@ -142,20 +179,20 @@ def cache_get(url):
         except Exception:
             return None, None
     return entry.get("content"), entry.get("hash")
-
+ 
 def cache_set(url, content, content_hash):
     CACHE[url] = {
         "content": content,
         "hash": content_hash,
         "ts": datetime.datetime.now().isoformat()
     }
-
+ 
 # ── FETCH ─────────────────────────────────────────────────────────────────────
 HEADERS = {
     "User-Agent": "Modelo Biotech v3.0 david@biotech.es",
     "Accept": "application/json, text/html, application/xml, */*",
 }
-
+ 
 def fetch_raw(url, timeout=20):
     """Descarga texto plano con caché."""
     cached_content, cached_hash = cache_get(url)
@@ -174,28 +211,28 @@ def fetch_raw(url, timeout=20):
         if cached_content:
             return cached_content, False  # fallback a caché
         raise e
-
+ 
 def fetch_json(url, timeout=20):
     content, changed = fetch_raw(url, timeout)
     return json.loads(content), changed
-
+ 
 def fetch_text(url, timeout=20):
     return fetch_raw(url, timeout)
-
+ 
 def safe_sleep(s=0.25):
     """Pausa cortés para no saturar la SEC."""
     time.sleep(s)
-
+ 
 # ── UTILIDADES DE FECHA ───────────────────────────────────────────────────────
 def fecha_desde(dias):
     return (datetime.datetime.now() - datetime.timedelta(days=dias)).strftime("%Y-%m-%d")
-
+ 
 def fecha_hoy():
     return datetime.datetime.now().strftime("%Y-%m-%d")
-
+ 
 def ahora_str():
     return datetime.datetime.now().strftime("%d/%m/%Y %H:%M")
-
+ 
 # ── VALIDACIÓN CIK ────────────────────────────────────────────────────────────
 def normalizar_nombre(nombre):
     if not nombre:
@@ -211,13 +248,13 @@ def normalizar_nombre(nombre):
     for k,v in reemplazos.items():
         nombre = nombre.replace(k, v)
     return " ".join(nombre.split())
-
+ 
 def similitud_nombre(a, b):
     na, nb = normalizar_nombre(a), normalizar_nombre(b)
     if not na or not nb:
         return 0.0
     return difflib.SequenceMatcher(None, na, nb).ratio()
-
+ 
 def validar_empresa_sec(ticker, nombre_esperado, nombre_sec, umbral=0.45):
     ticker = ticker.upper().strip()
     candidatos = [nombre_esperado] + ALIAS_EMPRESAS.get(ticker, [])
@@ -238,7 +275,7 @@ def validar_empresa_sec(ticker, nombre_esperado, nombre_sec, umbral=0.45):
             f"Similitud: {mejor_score:.2f}. Ticker bloqueado."
         )
     return True, mejor_score, None
-
+ 
 # ── CARGAR CARTERA DESDE SEC ──────────────────────────────────────────────────
 def cargar_mapa_ticker_cik():
     data, _ = fetch_json(SEC_TICKERS_URL)
@@ -253,7 +290,7 @@ def cargar_mapa_ticker_cik():
                 "nombre": title or NOMBRES_ESPERADOS.get(ticker, ticker)
             }
     return mapa
-
+ 
 def construir_cartera_desde_sec(tickers):
     mapa_sec = cargar_mapa_ticker_cik()
     cartera = {}
@@ -277,9 +314,9 @@ def construir_cartera_desde_sec(tickers):
                 "error":  "Ticker no encontrado en company_tickers.json"
             }
     return cartera
-
+ 
 CARTERA = {}
-
+ 
 # ── CLASIFICACIÓN BÁSICA ──────────────────────────────────────────────────────
 KEYWORDS_ROJO = [
     "clinical hold","complete response letter","crl","refuse to file",
@@ -299,7 +336,7 @@ KEYWORDS_AMARILLO = [
     "at-the-market","atm","convertible notes","shelf registration",
     "prospectus supplement","secondary offering",
 ]
-
+ 
 # Items 8-K con su clasificación
 ITEMS_8K = {
     "1.01": ("verde",  "Acuerdo material (colaboración, licencia, M&A)"),
@@ -317,7 +354,7 @@ ITEMS_8K = {
     "8.01": ("azul",   "Otros eventos — revisar"),
     "9.01": ("azul",   "Exhibits financieros"),
 }
-
+ 
 def clasificar_base(form, desc="", doc=""):
     texto = (desc + " " + doc).lower()
     if form in ("S-3","S-3/A","S-1"):
@@ -340,7 +377,7 @@ def clasificar_base(form, desc="", doc=""):
                 return "amarillo","🟡 MEDIA", f"8-K — Posible dilución: '{kw}'"
         return "azul","🔵 INFO","8-K — Evento material. Revisar."
     return "azul","🔵 INFO", f"{form} — Revisar"
-
+ 
 # ── MÓDULO 2: FORM 4 XML ──────────────────────────────────────────────────────
 def parsear_form4(url):
     """
@@ -358,36 +395,40 @@ def parsear_form4(url):
         "resumen_detail": None,
     }
     try:
-        # Intentar URL XML (Form 4 tiene versión .xml)
-        xml_url = url.replace(".htm", ".xml") if url.endswith(".htm") else url
-        # Buscar el XML index para encontrar el archivo correcto
+        # La SEC sirve Form 4 con transformador XSL en la URL (/xslF345X06/)
+        # Hay que eliminarlo para obtener el XML puro y parseable
+        xml_url = url
+        if "/xslF345X06/" in xml_url:
+            xml_url = xml_url.replace("/xslF345X06/", "/")
+        if xml_url.endswith(".htm"):
+            xml_url = xml_url.replace(".htm", ".xml")
         content, _ = fetch_text(xml_url, timeout=15)
         safe_sleep()
-
+ 
         root = ET.fromstring(content)
         ns = {"": root.tag.split("}")[0].strip("{") if "}" in root.tag else ""}
-
+ 
         def find_text(tag):
             # Busca con y sin namespace
             el = root.find(".//" + tag)
             if el is None and ns.get(""):
                 el = root.find(".//{%s}%s" % (ns[""], tag))
             return el.text.strip() if el is not None and el.text else None
-
+ 
         result["insider_nombre"] = find_text("rptOwnerName")
         result["insider_cargo"]  = find_text("officerTitle") or find_text("rptOwnerRelationship")
-
+ 
         # Buscar transacciones no derivadas
         trans_nodes = root.findall(".//nonDerivativeTransaction")
         if not trans_nodes:
             trans_nodes = root.findall(".//derivativeTransaction")
-
+ 
         if trans_nodes:
             tn = trans_nodes[0]
             def tn_text(tag):
                 el = tn.find(".//" + tag)
                 return el.text.strip() if el is not None and el.text else None
-
+ 
             tipo_code = tn_text("transactionCode") or ""
             tipos = {"P":"Compra","S":"Venta","A":"Concesión","D":"Disposición",
                      "M":"Ejercicio opción","G":"Donación","F":"Retención impuestos"}
@@ -396,7 +437,7 @@ def parsear_form4(url):
             result["transaccion_precio"]   = tn_text("transactionPricePerShare")
             result["transaccion_fecha"]    = tn_text("transactionDate")
             result["acciones_post"]        = tn_text("sharesOwnedFollowingTransaction")
-
+ 
         # Construir resumen legible
         partes = []
         if result["insider_nombre"]: partes.append(result["insider_nombre"])
@@ -415,12 +456,12 @@ def parsear_form4(url):
             except Exception:
                 pass
         result["resumen_detail"] = " ".join(partes) if partes else None
-
+ 
     except Exception as e:
         result["resumen_detail"] = f"Form 4 — parse error: {str(e)[:80]}"
-
+ 
     return result
-
+ 
 # ── MÓDULO 3: 8-K ITEMS + TEXTO ──────────────────────────────────────────────
 def parsear_8k(url):
     """
@@ -440,19 +481,19 @@ def parsear_8k(url):
     try:
         content, _ = fetch_text(url, timeout=20)
         safe_sleep()
-
+ 
         # Limpiar HTML básico
         texto = re.sub(r'<[^>]+>', ' ', content)
         texto = re.sub(r'&nbsp;', ' ', texto)
         texto = re.sub(r'&#\d+;', ' ', texto)
         texto = re.sub(r'\s+', ' ', texto).strip()
         texto_lower = texto.lower()
-
+ 
         # Detectar Items reportados
         items_encontrados = re.findall(r'item\s+(\d+\.\d+)', texto_lower)
         items_unicos = list(dict.fromkeys(items_encontrados))
         result["items_detectados"] = items_unicos[:8]  # máximo 8
-
+ 
         # Clasificar por Item más relevante
         mejor_nivel = "azul"
         mejor_desc  = None
@@ -463,7 +504,7 @@ def parsear_8k(url):
                 if orden_prioridad.index(niv) < orden_prioridad.index(mejor_nivel):
                     mejor_nivel = niv
                     mejor_desc  = f"Item {item_num}: {desc}"
-
+ 
         # Si no hay Items reconocidos, clasificar por keywords en el cuerpo
         if not mejor_desc:
             for kw in KEYWORDS_ROJO:
@@ -483,21 +524,21 @@ def parsear_8k(url):
                         mejor_nivel = "amarillo"
                         mejor_desc  = f"Keyword dilución en cuerpo: '{kw}'"
                         break
-
+ 
         badges = {"rojo":"🔴 ALTA","verde":"🟢 ALTA","amarillo":"🟡 MEDIA","azul":"🔵 INFO"}
         result["nivel_ajustado"]   = mejor_nivel
         result["badge_ajustado"]   = badges.get(mejor_nivel, "🔵 INFO")
         result["resumen_ajustado"] = mejor_desc or "8-K — Sin clasificación específica por Item"
-
+ 
         # Extracto del cuerpo (buscar párrafo con información real)
         extracto_raw = texto[200:1800] if len(texto) > 200 else texto
         result["extracto"] = extracto_raw[:800].strip()
-
+ 
     except Exception as e:
         result["resumen_ajustado"] = f"8-K — Error lectura: {str(e)[:80]}"
-
+ 
     return result
-
+ 
 # ── MÓDULO 4: 10-Q FINANCIERO ─────────────────────────────────────────────────
 CASH_PATTERNS = [
     r'cash[,\s]+cash equivalents[,\s]+and[,\s]+(?:short[- ]term[,\s]+)?investments?\s*[:\$]?\s*\$?\s*([\d,\.]+)',
@@ -506,7 +547,7 @@ CASH_PATTERNS = [
 ]
 SHARES_PATTERN = r'(\d[\d,\.]+)\s*(?:thousand\s+)?shares?\s+(?:of\s+)?(?:common\s+stock\s+)?(?:issued\s+and\s+)?outstanding'
 BURN_PATTERN   = r'net cash used in operating activities\s*[:\$]?\s*\(?\$?\s*([\d,\.]+)'
-
+ 
 def parsear_10q(url, ticker=""):
     """
     Descarga el 10-Q y extrae:
@@ -531,17 +572,17 @@ def parsear_10q(url, ticker=""):
     try:
         content, _ = fetch_text(url, timeout=25)
         safe_sleep()
-
+ 
         texto = re.sub(r'<[^>]+>', ' ', content)
         texto = re.sub(r'\s+', ' ', texto).strip()
         texto_lower = texto.lower()
-
+ 
         # Detectar flags críticos
         result["litigios_detectados"] = "legal proceedings" in texto_lower and (
             "plaintiff" in texto_lower or "lawsuit" in texto_lower or "litigation" in texto_lower)
         result["shelf_mencionado"]   = "shelf registration" in texto_lower or "s-3" in texto_lower
         result["going_concern"]      = "going concern" in texto_lower or "substantial doubt" in texto_lower
-
+ 
         # Extraer caja (en miles o millones — SEC suele usar miles)
         for pat in CASH_PATTERNS:
             m = re.search(pat, texto_lower)
@@ -556,7 +597,7 @@ def parsear_10q(url, ticker=""):
                     break
                 except Exception:
                     pass
-
+ 
         # Burn rate (net cash used in operations)
         m = re.search(BURN_PATTERN, texto_lower)
         if m:
@@ -571,7 +612,7 @@ def parsear_10q(url, ticker=""):
                     result["runway_meses"] = int(result["caja_mm"] / result["burn_mensual_mm"])
             except Exception:
                 pass
-
+ 
         # Shares outstanding
         m = re.search(SHARES_PATTERN, texto_lower)
         if m:
@@ -583,12 +624,12 @@ def parsear_10q(url, ticker=""):
                 result["shares_outstanding_mm"] = round(val, 1)
             except Exception:
                 pass
-
+ 
         # Extracto zona financiera
         idx = texto_lower.find("cash and cash equivalents")
         if idx > 0:
             result["extracto_financiero"] = texto[max(0,idx-50):idx+300].strip()
-
+ 
         # Construir resumen
         partes = []
         if result["caja_mm"]:        partes.append(f"Caja: ${result['caja_mm']}M")
@@ -599,12 +640,12 @@ def parsear_10q(url, ticker=""):
         if result["litigios_detectados"]: partes.append("⚖️ Litigios activos")
         if result["shelf_mencionado"]: partes.append("📋 Shelf mencionado")
         result["resumen_10q"] = " · ".join(partes) if partes else "10-Q — Sin datos financieros extraíbles"
-
+ 
     except Exception as e:
         result["resumen_10q"] = f"10-Q — Error lectura: {str(e)[:80]}"
-
+ 
     return result
-
+ 
 # ── MÓDULO 5: S-3 / 424B IMPORTE OFERTA ──────────────────────────────────────
 OFERTA_PATTERNS = [
     r'aggregate\s+(?:offering\s+)?(?:amount|price)\s+of\s+\$?([\d,\.]+)\s*(?:million|billion)?',
@@ -612,7 +653,7 @@ OFERTA_PATTERNS = [
     r'total\s+(?:gross\s+)?proceeds?\s+(?:of\s+)?\$?([\d,\.]+)\s*(?:million|billion)?',
     r'offering\s+(?:price|amount)\s*(?:of\s+)?\$\s*([\d,\.]+)',
 ]
-
+ 
 def parsear_prospecto(url):
     """
     Descarga S-3 o 424B y extrae el importe total de la oferta.
@@ -630,7 +671,7 @@ def parsear_prospecto(url):
         texto = re.sub(r'<[^>]+>', ' ', content)
         texto = re.sub(r'\s+', ' ', texto).strip()
         texto_lower = texto.lower()
-
+ 
         # Tipo de oferta
         if "at-the-market" in texto_lower or "atm" in texto_lower:
             result["tipo_oferta"] = "ATM (At-The-Market)"
@@ -642,7 +683,7 @@ def parsear_prospecto(url):
             result["tipo_oferta"] = "Notas convertibles"
         else:
             result["tipo_oferta"] = "Oferta pública"
-
+ 
         # Importe
         for pat in OFERTA_PATTERNS:
             m = re.search(pat, texto_lower)
@@ -659,7 +700,7 @@ def parsear_prospecto(url):
                     break
                 except Exception:
                     pass
-
+ 
         # Riesgo dilución por tamaño
         if result["importe_mm"]:
             imp = result["importe_mm"]
@@ -669,18 +710,18 @@ def parsear_prospecto(url):
                 result["riesgo_dilucion"] = "🟡 MEDIO"
             else:
                 result["riesgo_dilucion"] = "🟢 BAJO"
-
+ 
         partes = []
         if result["tipo_oferta"]:  partes.append(result["tipo_oferta"])
         if result["importe_mm"]:   partes.append(f"${result['importe_mm']}M")
         if result["riesgo_dilucion"]: partes.append(f"Dilución {result['riesgo_dilucion']}")
         result["resumen_oferta"] = " · ".join(partes) if partes else "Prospecto — Importe no detectado"
-
+ 
     except Exception as e:
         result["resumen_oferta"] = f"Prospecto — Error: {str(e)[:80]}"
-
+ 
     return result
-
+ 
 # ── MÓDULO 6: CLINICALTRIALS.GOV ─────────────────────────────────────────────
 STATUS_COLORS = {
     "RECRUITING":           ("verde",  "🟢", "Reclutando activamente"),
@@ -693,7 +734,7 @@ STATUS_COLORS = {
     "ENROLLING_BY_INVITATION":("azul", "🔵", "Reclutamiento por invitación"),
     "UNKNOWN":              ("azul",   "🔵", "Estado desconocido"),
 }
-
+ 
 def consultar_clinicaltrials(ticker):
     """
     Consulta la API v2 de ClinicalTrials.gov para los ensayos del ticker.
@@ -702,7 +743,7 @@ def consultar_clinicaltrials(ticker):
     ensayos_config = CLINICALTRIALS_CARTERA.get(ticker, [])
     if not ensayos_config:
         return []
-
+ 
     resultados = []
     for ensayo in ensayos_config:
         nct = ensayo["nct"]
@@ -711,22 +752,22 @@ def consultar_clinicaltrials(ticker):
         try:
             data, changed = fetch_json(url, timeout=15)
             safe_sleep(0.3)
-
+ 
             study = data.get("studies", [{}])[0] if "studies" in data else data
             proto = study.get("protocolSection", study)
             status_mod  = proto.get("statusModule", {})
             design_mod  = proto.get("designModule", {})
             id_mod      = proto.get("identificationModule", {})
-
+ 
             status_raw  = status_mod.get("overallStatus", "UNKNOWN").upper().replace(" ","_")
             status_info = STATUS_COLORS.get(status_raw, ("azul","🔵","Estado: "+status_raw))
             nivel, badge, desc_status = status_info
-
+ 
             enrollment  = design_mod.get("enrollmentInfo", {}).get("count")
             titulo      = id_mod.get("briefTitle", nombre_ensayo)
             ultima_act  = status_mod.get("lastUpdatePostDateStruct", {}).get("date", "")
             fecha_prim  = status_mod.get("primaryCompletionDateStruct", {}).get("date", "")
-
+ 
             resultados.append({
                 "nct":           nct,
                 "nombre":        nombre_ensayo,
@@ -750,9 +791,9 @@ def consultar_clinicaltrials(ticker):
                 "badge":  "🔵",
                 "url":    f"https://clinicaltrials.gov/study/{nct}",
             })
-
+ 
     return resultados
-
+ 
 # ── CONSULTA EDGAR PRINCIPAL ──────────────────────────────────────────────────
 def get_filings(ticker, cik, dias, nombre_esperado=None):
     cik_padded = cik.zfill(10)
@@ -761,38 +802,38 @@ def get_filings(ticker, cik, dias, nombre_esperado=None):
         data, _ = fetch_json(url)
     except Exception as e:
         return [], str(e)
-
+ 
     company_name_sec = data.get("name", "")
     if company_name_sec and nombre_esperado:
         empresa_ok, score, aviso = validar_empresa_sec(ticker, nombre_esperado, company_name_sec)
         print(f"      Empresa SEC: {company_name_sec} | Validación: {'✅' if empresa_ok else '⚠️'} ({score:.2f})")
         if not empresa_ok:
             return [], aviso
-
+ 
     recent = data.get("filings", {}).get("recent", {})
     if not recent:
         return [], "Sin datos"
-
+ 
     forms        = recent.get("form", [])
     dates        = recent.get("filingDate", [])
     accessions   = recent.get("accessionNumber", [])
     primaries    = recent.get("primaryDocument", [])
     descriptions = recent.get("primaryDocDescription", [])
-
+ 
     cutoff  = fecha_desde(dias)
     cik_num = cik.lstrip("0")
     results = []
-
+ 
     for form, date, acc, prim, desc in zip(forms, dates, accessions, primaries, descriptions):
         if date < cutoff:
             continue  # usar continue en lugar de break por seguridad
         if form not in FORMS_OBJETIVO:
             continue
-
+ 
         acc_fmt = acc.replace("-","")
         url_doc = f"https://www.sec.gov/Archives/edgar/data/{cik_num}/{acc_fmt}/{prim}"
         nivel, badge, resumen = clasificar_base(form, desc, prim)
-
+ 
         filing = {
             "form":       form,
             "fecha":      date,
@@ -808,9 +849,9 @@ def get_filings(ticker, cik, dias, nombre_esperado=None):
             "10q_detail":      None,
             "prospecto_detail":None,
         }
-
+ 
         safe_sleep(0.2)
-
+ 
         # ── Módulo 2: Form 4 ──
         if form in ("4","4/A"):
             print(f"         → Parseando Form 4 XML...")
@@ -823,7 +864,7 @@ def get_filings(ticker, cik, dias, nombre_esperado=None):
                     filing["nivel"] = "verde"
                     filing["badge"] = "🟢 ALTA"
                     filing["resumen"] = f"Insider BUY: {f4['resumen_detail']}"
-
+ 
         # ── Módulo 3: 8-K ──
         elif form in ("8-K","8-K/A"):
             print(f"         → Leyendo cuerpo 8-K...")
@@ -835,7 +876,7 @@ def get_filings(ticker, cik, dias, nombre_esperado=None):
                 filing["resumen"] = k8["resumen_ajustado"]
                 if k8.get("items_detectados"):
                     filing["resumen"] += f" [Items: {', '.join(k8['items_detectados'])}]"
-
+ 
         # ── Módulo 4: 10-Q ──
         elif form in ("10-Q","10-Q/A"):
             print(f"         → Extrayendo financiero 10-Q...")
@@ -849,7 +890,7 @@ def get_filings(ticker, cik, dias, nombre_esperado=None):
             elif q10.get("litigios_detectados") or q10.get("shelf_mencionado"):
                 filing["nivel"] = "amarillo"
                 filing["badge"] = "🟡 MEDIA"
-
+ 
         # ── Módulo 5: S-3 / 424B ──
         elif form in ("424B4","424B5","S-3","S-3/A"):
             print(f"         → Analizando prospecto/oferta...")
@@ -864,11 +905,11 @@ def get_filings(ticker, cik, dias, nombre_esperado=None):
             elif pr.get("importe_mm") and pr["importe_mm"] >= 75:
                 filing["nivel"] = "amarillo"
                 filing["badge"] = "🟡 MEDIA"
-
+ 
         results.append(filing)
-
+ 
     return results, None
-
+ 
 # ── RESUMEN POR TICKER ────────────────────────────────────────────────────────
 def resumen_ticker(filings):
     niveles = [f["nivel"] for f in filings]
@@ -877,30 +918,30 @@ def resumen_ticker(filings):
     if "amarillo" in niveles: return "amarillo","🟡"
     if "azul"     in niveles: return "azul",    "🔵"
     return "ok", "✅"
-
+ 
 # ── RUNNER ────────────────────────────────────────────────────────────────────
 def run_monitor(dias=7, tickers_filtro=None):
     global CARTERA
-
+ 
     cargar_cache()
-
+ 
     tickers = tickers_filtro or TICKERS_CARTERA
     tickers = [t.strip().upper() for t in tickers if t.strip()]
-
+ 
     print("Cargando CIK oficiales desde SEC company_tickers.json...")
     try:
         CARTERA = construir_cartera_desde_sec(TICKERS_CARTERA)
     except Exception as e:
         print(f"❌ No se pudo cargar mapa CIK: {e}")
         CARTERA = {t: {"cik": None, "nombre": NOMBRES_ESPERADOS.get(t, t), "error": str(e)} for t in TICKERS_CARTERA}
-
+ 
     ahora = ahora_str()
     print(f"\n{'═'*62}")
     print(f"  SEC EDGAR Monitor v3 — Modelo Biotech v3.0")
     print(f"  Generado: {ahora}")
     print(f"  Período: últimos {dias} días ({fecha_desde(dias)} → {fecha_hoy()})")
     print(f"{'═'*62}\n")
-
+ 
     dashboard = {
         "version":      "v3",
         "generado":     ahora,
@@ -920,7 +961,7 @@ def run_monitor(dias=7, tickers_filtro=None):
         "todos_filings":    [],
         "clinicaltrials":   {},
     }
-
+ 
     # ── SEC EDGAR por ticker ──
     for ticker in tickers:
         ticker = ticker.strip().upper()
@@ -933,10 +974,10 @@ def run_monitor(dias=7, tickers_filtro=None):
             print(f"  [{ticker}] ⚪ {err} — omitido")
             dashboard["tickers"][ticker] = {"nombre": info["nombre"], "filings": [], "nivel": "na", "badge": "⚪", "error": err}
             continue
-
+ 
         print(f"  [{ticker}] Consultando SEC EDGAR...")
         filings, error = get_filings(ticker, info["cik"], dias, info.get("nombre_esperado", info["nombre"]))
-
+ 
         if error:
             print(f"    ❌ {error}")
             dashboard["tickers"][ticker] = {
@@ -944,9 +985,9 @@ def run_monitor(dias=7, tickers_filtro=None):
                 "filings": [], "nivel": "error", "badge": "❌", "error": error
             }
             continue
-
+ 
         nivel_ticker, badge_ticker = resumen_ticker(filings) if filings else ("ok","✅")
-
+ 
         if filings:
             print(f"    {badge_ticker} {len(filings)} filing(s)")
             for f in filings:
@@ -963,7 +1004,7 @@ def run_monitor(dias=7, tickers_filtro=None):
         else:
             print(f"    ✅ Sin novedades")
             dashboard["resumen"]["sin_novedad"] += 1
-
+ 
         dashboard["tickers"][ticker] = {
             "nombre":           info["nombre"],
             "nombre_esperado":  info.get("nombre_esperado", info["nombre"]),
@@ -975,7 +1016,7 @@ def run_monitor(dias=7, tickers_filtro=None):
             "badge":            badge_ticker,
             "error":            None,
         }
-
+ 
     # ── ClinicalTrials.gov ──
     print(f"\n{'─'*50}")
     print(f"  ClinicalTrials.gov — Monitorizando {len(CLINICALTRIALS_CARTERA)} tickers...")
@@ -994,14 +1035,14 @@ def run_monitor(dias=7, tickers_filtro=None):
                 print(f"    {badge} {nombre} → {estado}")
                 if e.get("changed"):
                     print(f"       ⚡ CAMBIO DETECTADO vs caché anterior")
-
+ 
     # Ordenar
     dashboard["todos_filings"].sort(key=lambda x: x["fecha"], reverse=True)
     dashboard["alertas_criticas"].sort(key=lambda x: x["fecha"], reverse=True)
-
+ 
     guardar_cache()
     return dashboard
-
+ 
 # ── REPORTE TXT ───────────────────────────────────────────────────────────────
 def generar_reporte(dashboard):
     r = dashboard["resumen"]
@@ -1015,7 +1056,7 @@ def generar_reporte(dashboard):
                  f"🔴 {r['alertas_rojas']} | 🟢 {r['alertas_verdes']} | "
                  f"🟡 {r['alertas_amarillas']} | 🔵 {r['alertas_azules']} | "
                  f"✅ {r['sin_novedad']} sin novedad")
-
+ 
     criticos = dashboard["alertas_criticas"]
     if criticos:
         lines.append(f"\n{'─'*50}")
@@ -1032,7 +1073,7 @@ def generar_reporte(dashboard):
             if a.get("prospecto_detail",{}) and a["prospecto_detail"].get("resumen_oferta"):
                 lines.append(f"  Oferta: {a['prospecto_detail']['resumen_oferta']}")
             lines.append(f"  → {a['url']}")
-
+ 
     lines.append(f"\n{'─'*50}")
     lines.append("DETALLE POR TICKER — SEC EDGAR")
     lines.append("─" * 50)
@@ -1053,7 +1094,7 @@ def generar_reporte(dashboard):
             if f.get("prospecto_detail",{}) and f["prospecto_detail"].get("resumen_oferta"):
                 lines.append(f"     Oferta: {f['prospecto_detail']['resumen_oferta']}")
             lines.append(f"     → {f['url']}")
-
+ 
     # ClinicalTrials
     ct = dashboard.get("clinicaltrials", {})
     if ct:
@@ -1075,34 +1116,34 @@ def generar_reporte(dashboard):
                     if e.get("fecha_completion_primaria"): lines.append(f"       Primary completion: {e['fecha_completion_primaria']}")
                     if e.get("ultima_actualizacion"): lines.append(f"       Última actualización: {e['ultima_actualizacion']}")
                     lines.append(f"       → {e['url']}")
-
+ 
     lines.append(f"\n{'═'*62}")
     lines.append("Fuentes: SEC EDGAR API · ClinicalTrials.gov API v2")
     lines.append("Modelo Biotech v3.0 · SEC EDGAR Monitor v3")
     lines.append("═" * 62)
     return "\n".join(lines)
-
+ 
 # ── MAIN ──────────────────────────────────────────────────────────────────────
 if __name__ == "__main__":
     dias   = int(sys.argv[1]) if len(sys.argv) > 1 else 7
     filtro = sys.argv[2].upper().split(",") if len(sys.argv) > 2 else None
-
+ 
     dashboard = run_monitor(dias=dias, tickers_filtro=filtro)
     reporte   = generar_reporte(dashboard)
-
+ 
     print("\n" + reporte)
-
+ 
     script_dir = os.path.dirname(os.path.abspath(__file__))
-
+ 
     ruta_txt  = os.path.join(script_dir, "sec_monitor_reporte.txt")
     ruta_json = os.path.join(script_dir, "sec_monitor_resultado.json")
-
+ 
     with open(ruta_txt, "w", encoding="utf-8") as f:
         f.write(reporte)
-
+ 
     with open(ruta_json, "w", encoding="utf-8") as f:
         json.dump(dashboard, f, ensure_ascii=False, indent=2, default=str)
-
+ 
     print(f"\n💾 Reporte TXT  → {ruta_txt}")
     print(f"💾 JSON dashboard → {ruta_json}")
     print(f"💾 Caché interna → {CACHE_FILE}")

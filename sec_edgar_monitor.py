@@ -19,30 +19,122 @@ import json
 import datetime
 import sys
 import os
+import difflib
 
 # ── CARTERA ───────────────────────────────────────────────────────────────────
-CARTERA = {
-    "SNDX": {"cik": "0001157377", "nombre": "Syndax Pharmaceuticals"},
-    "ARGX": {"cik": "0001673139", "nombre": "argenx SE"},
-    "DYN":  {"cik": "0001689987", "nombre": "Dyne Therapeutics"},
-    "DNLI": {"cik": "0001635881", "nombre": "Denali Therapeutics"},
-    "VKTX": {"cik": "0001591587", "nombre": "Viking Therapeutics"},
-    "VRTX": {"cik": "0000875320", "nombre": "Vertex Pharmaceuticals"},
-    "ALNY": {"cik": "0001178670", "nombre": "Alnylam Pharmaceuticals"},
-    "BEAM": {"cik": "0001742924", "nombre": "Beam Therapeutics"},
-    "OCUL": {"cik": "0001410172", "nombre": "Ocular Therapeutix"},
-    "CAI":  {"cik": "0001979428", "nombre": "Caris Life Sciences"},
-    "GPCR": {"cik": "0001819189", "nombre": "Structure Therapeutics"},
-    "ABVX": {"cik": "0001628171", "nombre": "Abivax SA"},
-    "VERA": {"cik": "0001671750", "nombre": "Vera Therapeutics"},
-    "ACRV": {"cik": "0001826397", "nombre": "Acrivon Therapeutics"},
-    "TARA": {"cik": "0001372514", "nombre": "Protara Therapeutics"},
-    "SENS": {"cik": "0001289419", "nombre": "Senseonics Holdings"},
-    "INSM": {"cik": "0001104506", "nombre": "Insmed Inc"},
-    "NWL":  {"cik": None,         "nombre": "NewPrinces SpA (BIT — no SEC)"},
-    "NRIX": {"cik": "0001732955", "nombre": "Nurix Therapeutics"},
-    "GENB": {"cik": "0001867597", "nombre": "Generate Biomedicines"},
+# Solo tickers reales de la cartera. Los CIK se obtienen automáticamente desde:
+# https://www.sec.gov/files/company_tickers.json
+#
+# NWL cotiza en Italia y no tiene CIK SEC, por eso se mantiene como no SEC.
+TICKERS_CARTERA = [
+    "SNDX", "ARGX", "DYN", "DNLI", "VKTX", "VRTX",
+    "ALNY", "BEAM", "OCUL", "CAI", "GPCR", "ABVX",
+    "VERA", "ACRV", "TARA", "SENS", "INSM", "NWL"
+]
+
+NOMBRES_ESPERADOS = {
+    "SNDX": "Syndax Pharmaceuticals",
+    "ARGX": "argenx SE",
+    "DYN":  "Dyne Therapeutics",
+    "DNLI": "Denali Therapeutics",
+    "VKTX": "Viking Therapeutics",
+    "VRTX": "Vertex Pharmaceuticals",
+    "ALNY": "Alnylam Pharmaceuticals",
+    "BEAM": "Beam Therapeutics",
+    "OCUL": "Ocular Therapeutix",
+    "CAI":  "Caris Life Sciences",
+    "GPCR": "Structure Therapeutics",
+    "ABVX": "Abivax SA",
+    "VERA": "Vera Therapeutics",
+    "ACRV": "Acrivon Therapeutics",
+    "TARA": "Protara Therapeutics",
+    "SENS": "Senseonics Holdings",
+    "INSM": "Insmed Inc",
+    "NWL":  "NewPrinces SpA (BIT — no SEC)",
 }
+
+
+# Alias aceptados para evitar falsos positivos con ADR, nombres legales o mayúsculas SEC.
+ALIAS_EMPRESAS = {
+    "ABVX": ["Abivax", "Abivax S.A.", "Abivax SA"],
+    "ARGX": ["argenx", "argenx SE", "ARGENX SE"],
+    "GPCR": ["Structure Therapeutics", "Structure Therapeutics Inc."],
+    "ALNY": ["Alnylam Pharmaceuticals", "ALNYLAM PHARMACEUTICALS, INC."],
+    "VRTX": ["Vertex Pharmaceuticals", "VERTEX PHARMACEUTICALS INC"],
+    "INSM": ["Insmed", "INSMED Inc"],
+}
+
+NO_SEC = {
+    "NWL": {"cik": None, "nombre": "NewPrinces SpA (BIT — no SEC)"}
+}
+
+SEC_TICKERS_URL = "https://www.sec.gov/files/company_tickers.json"
+
+
+def cargar_mapa_ticker_cik():
+    """
+    Descarga el mapa oficial ticker → CIK de la SEC.
+    Devuelve un diccionario:
+      {
+        "ABVX": {"cik": "000XXXXXXXX", "nombre": "Nombre oficial SEC"},
+        ...
+      }
+    """
+    data = fetch_json(SEC_TICKERS_URL)
+    mapa = {}
+
+    for item in data.values():
+        ticker = str(item.get("ticker", "")).upper().strip()
+        cik_str = str(item.get("cik_str", "")).strip()
+        title = str(item.get("title", "")).strip()
+
+        if ticker and cik_str:
+            mapa[ticker] = {
+                "cik": cik_str.zfill(10),
+                "nombre": title or NOMBRES_ESPERADOS.get(ticker, ticker)
+            }
+
+    return mapa
+
+
+def construir_cartera_desde_sec(tickers):
+    """
+    Construye CARTERA usando el fichero oficial de la SEC.
+    Así evita CIK escritos a mano y reduce errores como ABVX → RVMD.
+    """
+    mapa_sec = cargar_mapa_ticker_cik()
+    cartera = {}
+
+    for ticker in tickers:
+        ticker = ticker.upper().strip()
+
+        if ticker in NO_SEC:
+            cartera[ticker] = NO_SEC[ticker]
+            continue
+
+        encontrado = mapa_sec.get(ticker)
+
+        if encontrado:
+            cartera[ticker] = {
+                "cik": encontrado["cik"],
+                "nombre": encontrado["nombre"],
+                "nombre_esperado": NOMBRES_ESPERADOS.get(ticker, encontrado["nombre"]),
+                "origen_cik": "SEC company_tickers.json"
+            }
+        else:
+            cartera[ticker] = {
+                "cik": None,
+                "nombre": NOMBRES_ESPERADOS.get(ticker, ticker),
+                "nombre_esperado": NOMBRES_ESPERADOS.get(ticker, ticker),
+                "origen_cik": "No encontrado en SEC company_tickers.json",
+                "error": "Ticker no encontrado en el mapa oficial ticker → CIK de la SEC"
+            }
+
+    return cartera
+
+
+# Se rellena automáticamente al arrancar el monitor.
+CARTERA = {}
 
 # ── CLASIFICACIÓN ─────────────────────────────────────────────────────────────
 KEYWORDS_ROJO = [
@@ -81,6 +173,69 @@ def clasificar(form, desc="", doc=""):
         return "azul", "🔵 INFO", "8-K — Evento material. Revisar."
     return "azul", "🔵 INFO", f"{form} — Revisar"
 
+
+# ── VALIDACIÓN CIK / EMPRESA ──────────────────────────────────────────────────
+def normalizar_nombre(nombre):
+    """Normaliza nombres para comparar la empresa esperada con la devuelta por SEC."""
+    if not nombre:
+        return ""
+    nombre = nombre.upper()
+    reemplazos = {
+        " INC.": "", " INC": "", " CORPORATION": "", " CORP.": "", " CORP": "",
+        " LTD.": "", " LTD": "", " LIMITED": "", " PLC": "", " S.A.": "",
+        " SA": "", " SE": "", " N.V.": "", " NV": "", " AG": "",
+        " THERAPEUTICS": "", " PHARMACEUTICALS": "", " PHARMA": "",
+        ",": "", ".": "", "-": " ", "_": " "
+    }
+    for k, v in reemplazos.items():
+        nombre = nombre.replace(k, v)
+    return " ".join(nombre.split())
+
+
+def similitud_nombre(nombre_esperado, nombre_sec):
+    """Devuelve una similitud 0-1 entre el nombre esperado y el nombre oficial SEC."""
+    a = normalizar_nombre(nombre_esperado)
+    b = normalizar_nombre(nombre_sec)
+    if not a or not b:
+        return 0.0
+    return difflib.SequenceMatcher(None, a, b).ratio()
+
+
+def validar_empresa_sec(ticker, nombre_esperado, nombre_sec, umbral=0.45):
+    """
+    Comprueba que el CIK devuelva una empresa razonablemente parecida.
+    Usa alias para ADR y nombres legales. Si falla, el ticker se bloquea.
+    """
+    ticker = ticker.upper().strip()
+    candidatos = [nombre_esperado] + ALIAS_EMPRESAS.get(ticker, [])
+
+    mejor_score = 0.0
+    mejor_nombre = nombre_esperado
+
+    for candidato in candidatos:
+        score = similitud_nombre(candidato, nombre_sec)
+        if score > mejor_score:
+            mejor_score = score
+            mejor_nombre = candidato
+
+    # Coincidencia directa por nombre normalizado: más fuerte que el ratio.
+    sec_norm = normalizar_nombre(nombre_sec)
+    for candidato in candidatos:
+        cand_norm = normalizar_nombre(candidato)
+        if cand_norm and (cand_norm in sec_norm or sec_norm in cand_norm):
+            return True, 1.00, None
+
+    if mejor_score < umbral:
+        return False, mejor_score, (
+            f"Posible CIK incorrecto o empresa no coincidente. "
+            f"Ticker: {ticker}. Esperado: '{nombre_esperado}'. SEC: '{nombre_sec}'. "
+            f"Mejor coincidencia: '{mejor_nombre}'. Similitud: {mejor_score:.2f}. "
+            f"Se ignora este ticker para evitar alertas falsas."
+        )
+
+    return True, mejor_score, None
+
+
 # ── FETCH ─────────────────────────────────────────────────────────────────────
 def fetch_json(url):
     req = urllib.request.Request(url)
@@ -99,13 +254,25 @@ def ahora_str():
     return datetime.datetime.now().strftime("%d/%m/%Y %H:%M")
 
 # ── CONSULTA EDGAR ────────────────────────────────────────────────────────────
-def get_filings(ticker, cik, dias):
+def get_filings(ticker, cik, dias, nombre_esperado=None):
     cik_padded = cik.zfill(10)
     url = f"https://data.sec.gov/submissions/CIK{cik_padded}.json"
     try:
         data = fetch_json(url)
     except Exception as e:
         return [], str(e)
+
+    # Comprobación adicional: validar que el CIK corresponde a la empresa esperada
+    company_name_sec = data.get("name", "")
+    if company_name_sec:
+        print(f"      Empresa SEC: {company_name_sec}")
+        if nombre_esperado:
+            empresa_ok, score, aviso = validar_empresa_sec(ticker, nombre_esperado, company_name_sec)
+            if empresa_ok:
+                print(f"      Validación CIK: ✅ OK ({score:.2f})")
+            else:
+                print(f"      Validación CIK: ⚠️ ALERTA ({score:.2f})")
+                return [], aviso
 
     recent = data.get("filings", {}).get("recent", {})
     if not recent:
@@ -136,6 +303,7 @@ def get_filings(ticker, cik, dias):
             "badge":   badge,
             "resumen": resumen,
             "detalle": desc or prim or "",
+            "empresa_sec": company_name_sec,
             "url":     url_doc,
         })
 
@@ -153,7 +321,18 @@ def resumen_ticker(filings):
 
 # ── RUNNER ────────────────────────────────────────────────────────────────────
 def run_monitor(dias=7, tickers_filtro=None):
-    tickers = tickers_filtro or list(CARTERA.keys())
+    global CARTERA
+
+    tickers = tickers_filtro or TICKERS_CARTERA
+    tickers = [t.strip().upper() for t in tickers if t.strip()]
+
+    print("Cargando CIK oficiales desde SEC company_tickers.json...")
+    try:
+        CARTERA = construir_cartera_desde_sec(TICKERS_CARTERA)
+    except Exception as e:
+        print(f"❌ No se pudo cargar el mapa oficial ticker → CIK de la SEC: {e}")
+        CARTERA = {t: {"cik": None, "nombre": NOMBRES_ESPERADOS.get(t, t), "error": str(e)} for t in TICKERS_CARTERA}
+
     ahora   = ahora_str()
 
     print(f"\n{'═'*62}")
@@ -182,24 +361,36 @@ def run_monitor(dias=7, tickers_filtro=None):
     }
 
     for ticker in tickers:
+        ticker = ticker.strip().upper()
         info = CARTERA.get(ticker)
         if not info:
+            print(f"  [{ticker}] ⚠️ No está en CARTERA — omitido")
+            dashboard["tickers"][ticker] = {
+                "nombre": None, "filings": [],
+                "nivel": "omitido", "badge": "⚠️", "error": "Ticker no incluido en CARTERA"
+            }
             continue
         if not info["cik"]:
-            print(f"  [{ticker}] ⚪ Sin CIK SEC — omitido")
+            err = info.get("error") or "Sin CIK SEC"
+            print(f"  [{ticker}] ⚪ {err} — omitido")
             dashboard["tickers"][ticker] = {
                 "nombre": info["nombre"], "filings": [],
-                "nivel": "na", "badge": "⚪", "error": "Sin CIK SEC"
+                "nivel": "na", "badge": "⚪", "error": err
             }
             continue
 
         print(f"  [{ticker}] Consultando...", end=" ")
-        filings, error = get_filings(ticker, info["cik"], dias)
+        filings, error = get_filings(ticker, info["cik"], dias, info.get("nombre_esperado", info["nombre"]))
 
         if error:
             print(f"❌ {error}")
             dashboard["tickers"][ticker] = {
-                "nombre": info["nombre"], "filings": [],
+                "nombre": info["nombre"],
+                "nombre_esperado": info.get("nombre_esperado", info["nombre"]),
+                "cik": info.get("cik"),
+                "origen_cik": info.get("origen_cik"),
+                "validacion_empresa": "ERROR",
+                "filings": [],
                 "nivel": "error", "badge": "❌", "error": error
             }
             continue
@@ -229,6 +420,10 @@ def run_monitor(dias=7, tickers_filtro=None):
 
         dashboard["tickers"][ticker] = {
             "nombre":  info["nombre"],
+            "nombre_esperado": info.get("nombre_esperado", info["nombre"]),
+            "cik": info.get("cik"),
+            "origen_cik": info.get("origen_cik"),
+            "validacion_empresa": "OK",
             "filings": filings,
             "nivel":   nivel_ticker,
             "badge":   badge_ticker,
@@ -265,6 +460,8 @@ def generar_reporte(dashboard):
             lines.append(f"\n  [{a['ticker']}] {a['nombre']}")
             lines.append(f"  {a['badge']} {a['form']} | {a['fecha']}")
             lines.append(f"  {a['resumen']}")
+            if a.get("empresa_sec"):
+                lines.append(f"  Empresa SEC: {a['empresa_sec']}")
             lines.append(f"  Detalle: {a['detalle']}")
             lines.append(f"  → {a['url']}")
 
@@ -283,6 +480,8 @@ def generar_reporte(dashboard):
         lines.append(f"\n  {badge} [{ticker}] {data['nombre']} — {len(filings)} filing(s)")
         for f in filings:
             lines.append(f"     {f['badge']} {f['form']} | {f['fecha']} | {f['resumen']}")
+            if f.get("empresa_sec"):
+                lines.append(f"     Empresa SEC: {f['empresa_sec']}")
             lines.append(f"     → {f['url']}")
 
     lines.append(f"\n{'═'*62}")
@@ -317,3 +516,4 @@ if __name__ == "__main__":
     print(f"\n💾 Reporte TXT → {ruta_txt}")
     print(f"💾 JSON dashboard → {ruta_json}")
     print(f"\n✅ Listo. Sube sec_monitor_resultado.json a Netlify junto con el HTML.")
+

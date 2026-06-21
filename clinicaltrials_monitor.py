@@ -108,8 +108,8 @@ CLINICALTRIALS_CARTERA = {
             "condition_keywords": ["ulcerative colitis"],
         },
         {
-            "nct": "NCT05787340",
-            "nombre": "ABTECT mantenimiento 44sem — obefazimod — UC ✅ DATOS POSITIVOS 1 jun 2026 · NDA Q4 2026",
+            "nct": "NCT05535946",
+            "nombre": "ABTECT mantenimiento 44sem — obefazimod (ABX464-107) — UC ✅ DATOS POSITIVOS 1 jun 2026 · NDA Q4 2026",
             "sponsor_keywords": ["abivax"],
             "drug_keywords": ["obefazimod", "abx464", "abx-464"],
             "condition_keywords": ["ulcerative colitis"],
@@ -329,7 +329,7 @@ CLINICALTRIALS_CARTERA = {
         },
         {
             # mivelsiran CAA Ph2: datos primarios impactarían precio masivamente si positivos
-            "nct": "NCT06939371",
+            "nct": "NCT06393712",
             "nombre": "cAPPricorn-1 Ph2 — mivelsiran — CAA (cerebral amyloid angiopathy) · 200 pac.",
             "sponsor_keywords": ["alnylam"],
             "drug_keywords": ["mivelsiran", "aln-app"],
@@ -451,10 +451,11 @@ WATCHLIST_CARTERA = {
 
     "VRTX": [
         {
-            # VX-264 Ph1/2: zimislecel sin inmunosupresión — si FORWARD-101 tiene problemas,
-            # este se convierte en el activo principal de T1D
+            # VX-264 DISCONTINUED (marzo 2025): no cumplió endpoint eficacia (C-peptide).
+            # Plan B T1D eliminado. FORWARD-101 (zimislecel) es el único activo viable.
+            # Mantenemos en watchlist solo para detectar si Vertex anuncia nuevo programa encapsulado.
             "nct": "NCT05210530",
-            "nombre": "VX-264 Ph1/2 — zimislecel encapsulado — T1D sin inmunosupresión",
+            "nombre": "VX-264 — DISCONTINUED ⚠️ (mar2025 no cumplió eficacia) · solo si Vertex anuncia sucesor",
             "watchlist": True,
             "sponsor_keywords": ["vertex"],
             "drug_keywords": ["vx-264", "zimislecel"],
@@ -498,10 +499,11 @@ WATCHLIST_CARTERA = {
 
     "DNLI": [
         {
-            # DNL919 Ph1/2: tividenofusp alfa para Alzheimer (BBB platform segundo activo)
-            # Si datos positivos → rerating masivo de la plataforma TransportVehicle
+            # DNL919 TERMINATED (confirmado jun2026) — eliminado del watchlist activo
+            # Se mantiene como referencia histórica: pipeline Alzheimer DNLI más temprano de lo previsto
+            # NCT05225532 = TERMINATED — no hay plan B BBB platform para AD a corto plazo
             "nct": "NCT05225532",
-            "nombre": "DNL919 Ph1/2 — tividenofusp-enabled — Alzheimer · 2ª aplicación BBB platform",
+            "nombre": "DNL919 — TERMINATED ⚠️ — Alzheimer BBB platform · MONITORIZAR solo si hay sustituto",
             "watchlist": True,
             "sponsor_keywords": ["denali"],
             "drug_keywords": ["dnl919", "dnl-919", "biib"],

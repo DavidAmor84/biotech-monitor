@@ -1,6 +1,6 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 21/06/2026 11:45 | Período: últimos 7 días
+Generado: 21/06/2026 11:59 | Período: últimos 7 días
 Desde: 2026-06-14 → Hasta: 2026-06-21
 ══════════════════════════════════════════════════════════════
 
@@ -27,14 +27,14 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [ARGX] Sin novedades
 
   🟢 [DYN] Dyne Therapeutics, Inc. — 4 filing(s)
-     🟡 MEDIA 4 | 2026-06-17 | Form 4 — parse error: mismatched tag: line 29, column 16
-     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
+     🟡 MEDIA 4 | 2026-06-17 | Kerr Douglas (Chief Medical Officer) → Venta
+     Insider: Kerr Douglas (Chief Medical Officer) → Venta
      → https://www.sec.gov/Archives/edgar/data/1818794/000181418926000002/xslF345X06/ownership.xml
-     🟡 MEDIA 4 | 2026-06-17 | Form 4 — parse error: mismatched tag: line 29, column 16
-     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
+     🟡 MEDIA 4 | 2026-06-17 | Friedl-Naderer Johanna (Chief Commercial Officer) → Venta
+     Insider: Friedl-Naderer Johanna (Chief Commercial Officer) → Venta
      → https://www.sec.gov/Archives/edgar/data/1818794/000191559826000002/xslF345X06/ownership.xml
-     🟡 MEDIA 4 | 2026-06-17 | Form 4 — parse error: mismatched tag: line 29, column 16
-     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
+     🟡 MEDIA 4 | 2026-06-17 | Cox John (CEO & President) → Venta
+     Insider: Cox John (CEO & President) → Venta
      → https://www.sec.gov/Archives/edgar/data/1818794/000149842826000002/xslF345X06/ownership.xml
      🟢 ALTA 8-K | 2026-06-17 | Item 1.01: Acuerdo material (colaboración, licencia, M&A) [Items: 1.01, 2.03]
      → https://www.sec.gov/Archives/edgar/data/1818794/000181879426000003/dyn-20260616.htm
@@ -45,36 +45,36 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [VKTX] Sin novedades
 
   🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 1 filing(s)
-     🟡 MEDIA 4 | 2026-06-17 | Form 4 — parse error: mismatched tag: line 29, column 16
-     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
+     🟡 MEDIA 4 | 2026-06-17 | Bozic Carmen (EVP and CMO) → Venta
+     Insider: Bozic Carmen (EVP and CMO) → Venta
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000235/xslF345X06/wk-form4_1781727153.xml
   ✅ [ALNY] Sin novedades
   ✅ [BEAM] Sin novedades
 
   🟡 [OCUL] OCULAR THERAPEUTIX, INC — 1 filing(s)
-     🟡 MEDIA 4 | 2026-06-18 | Form 4 — parse error: mismatched tag: line 29, column 16
-     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
+     🟡 MEDIA 4 | 2026-06-18 | Dugel Pravin (See Remarks) → Donación
+     Insider: Dugel Pravin (See Remarks) → Donación
      → https://www.sec.gov/Archives/edgar/data/1393434/000110465926075709/xslF345X06/tm2618141-1_4seq1.xml
   ✅ [CAI] Sin novedades
 
   🟡 [GPCR] Structure Therapeutics Inc. — 7 filing(s)
-     🟡 MEDIA 4 | 2026-06-18 | Form 4 — parse error: mismatched tag: line 29, column 16
-     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
+     🟡 MEDIA 4 | 2026-06-18 | Russell Angus C. → Concesión
+     Insider: Russell Angus C. → Concesión
      → https://www.sec.gov/Archives/edgar/data/1888886/000153400226000002/xslF345X06/form4-06182026_050614.xml
-     🟡 MEDIA 4 | 2026-06-18 | Form 4 — parse error: mismatched tag: line 29, column 16
-     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
+     🟡 MEDIA 4 | 2026-06-18 | LOVE TED W → Concesión
+     Insider: LOVE TED W → Concesión
      → https://www.sec.gov/Archives/edgar/data/1888886/000118891926000010/xslF345X06/form4-06182026_050611.xml
-     🟡 MEDIA 4 | 2026-06-18 | Form 4 — parse error: mismatched tag: line 29, column 16
-     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
+     🟡 MEDIA 4 | 2026-06-18 | Waldstreicher Joanne → Concesión
+     Insider: Waldstreicher Joanne → Concesión
      → https://www.sec.gov/Archives/edgar/data/1888886/000196241326000002/xslF345X06/form4-06182026_050609.xml
-     🟡 MEDIA 4 | 2026-06-18 | Form 4 — parse error: mismatched tag: line 29, column 16
-     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
+     🟡 MEDIA 4 | 2026-06-18 | DOBMEIER ERIC → Concesión
+     Insider: DOBMEIER ERIC → Concesión
      → https://www.sec.gov/Archives/edgar/data/1888886/000120278526000004/xslF345X06/form4-06182026_050606.xml
-     🟡 MEDIA 4 | 2026-06-18 | Form 4 — parse error: mismatched tag: line 29, column 16
-     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
+     🟡 MEDIA 4 | 2026-06-18 | TETLOW SHARON → Concesión
+     Insider: TETLOW SHARON → Concesión
      → https://www.sec.gov/Archives/edgar/data/1888886/000132856526000002/xslF345X06/form4-06182026_050604.xml
-     🟡 MEDIA 4 | 2026-06-18 | Form 4 — parse error: mismatched tag: line 29, column 16
-     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
+     🟡 MEDIA 4 | 2026-06-18 | WELCH DANIEL G → Concesión
+     Insider: WELCH DANIEL G → Concesión
      → https://www.sec.gov/Archives/edgar/data/1888886/000120619926000002/xslF345X06/form4-06182026_050603.xml
      🔵 INFO 8-K | 2026-06-18 | 8-K — Sin clasificación específica por Item [Items: 5.07]
      → https://www.sec.gov/Archives/edgar/data/1888886/000110465926075720/tm2618249d1_8k.htm
@@ -86,51 +86,51 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1781174/000119312526274410/acrv-20260617.htm
 
   🟡 [TARA] Protara Therapeutics, Inc. — 9 filing(s)
-     🟡 MEDIA 4 | 2026-06-16 | Form 4 — parse error: mismatched tag: line 29, column 16
-     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
+     🟡 MEDIA 4 | 2026-06-16 | Levy Richard S → Concesión
+     Insider: Levy Richard S → Concesión
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026069250/xslF345X06/marketforms-73187.xml
-     🟡 MEDIA 4 | 2026-06-16 | Form 4 — parse error: mismatched tag: line 29, column 16
-     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
+     🟡 MEDIA 4 | 2026-06-16 | Solomon Michael Edward → Concesión
+     Insider: Solomon Michael Edward → Concesión
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026069249/xslF345X06/marketforms-73186.xml
-     🟡 MEDIA 4 | 2026-06-16 | Form 4 — parse error: mismatched tag: line 29, column 16
-     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
+     🟡 MEDIA 4 | 2026-06-16 | Smith Cynthia → Concesión
+     Insider: Smith Cynthia → Concesión
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026069248/xslF345X06/marketforms-73185.xml
-     🟡 MEDIA 4 | 2026-06-16 | Form 4 — parse error: mismatched tag: line 29, column 16
-     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
+     🟡 MEDIA 4 | 2026-06-16 | SARGEN GREGORY → Concesión
+     Insider: SARGEN GREGORY → Concesión
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026069247/xslF345X06/marketforms-73184.xml
-     🟡 MEDIA 4 | 2026-06-16 | Form 4 — parse error: mismatched tag: line 29, column 16
-     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
+     🟡 MEDIA 4 | 2026-06-16 | Huang Jane → Concesión
+     Insider: Huang Jane → Concesión
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026069246/xslF345X06/marketforms-73183.xml
-     🟡 MEDIA 4 | 2026-06-16 | Form 4 — parse error: mismatched tag: line 29, column 16
-     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
+     🟡 MEDIA 4 | 2026-06-16 | GARCEAU ROGER → Concesión
+     Insider: GARCEAU ROGER → Concesión
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026069245/xslF345X06/marketforms-73182.xml
-     🟡 MEDIA 4 | 2026-06-16 | Form 4 — parse error: mismatched tag: line 29, column 16
-     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
+     🟡 MEDIA 4 | 2026-06-16 | Flannelly Barry P → Concesión
+     Insider: Flannelly Barry P → Concesión
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026069244/xslF345X06/marketforms-73181.xml
-     🟡 MEDIA 4 | 2026-06-16 | Form 4 — parse error: mismatched tag: line 29, column 16
-     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
+     🟡 MEDIA 4 | 2026-06-16 | BESHAR LUKE M → Concesión
+     Insider: BESHAR LUKE M → Concesión
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026069243/xslF345X06/marketforms-73180.xml
      🔵 INFO 8-K | 2026-06-15 | 8-K — Sin clasificación específica por Item [Items: 5.07]
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026068774/ea0294030-8k_protara.htm
 
   🟡 [SENS] Senseonics Holdings, Inc. — 6 filing(s)
-     🟡 MEDIA 4 | 2026-06-17 | Form 4 — parse error: mismatched tag: line 29, column 16
-     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
+     🟡 MEDIA 4 | 2026-06-17 | Kaufman Francine (Chief Medical Officer) → Retención impuestos
+     Insider: Kaufman Francine (Chief Medical Officer) → Retención impuestos
      → https://www.sec.gov/Archives/edgar/data/1616543/000176979126000006/xslF345X06/form4-06172026_040617.xml
-     🟡 MEDIA 4 | 2026-06-17 | Form 4 — parse error: mismatched tag: line 29, column 16
-     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
+     🟡 MEDIA 4 | 2026-06-17 | JAIN Mukul (Chief Operating Officer) → Retención impuestos
+     Insider: JAIN Mukul (Chief Operating Officer) → Retención impuestos
      → https://www.sec.gov/Archives/edgar/data/1616543/000166759326000006/xslF345X06/form4-06172026_040616.xml
-     🟡 MEDIA 4 | 2026-06-17 | Form 4 — parse error: mismatched tag: line 29, column 16
-     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
+     🟡 MEDIA 4 | 2026-06-17 | Sullivan Frederick T. (Chief Financial Officer) → Retención impuestos
+     Insider: Sullivan Frederick T. (Chief Financial Officer) → Retención impuestos
      → https://www.sec.gov/Archives/edgar/data/1616543/000194453926000006/xslF345X06/form4-06172026_040619.xml
-     🟡 MEDIA 4 | 2026-06-17 | Form 4 — parse error: mismatched tag: line 29, column 16
-     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
+     🟡 MEDIA 4 | 2026-06-17 | Horton Kenneth L (GC & Corp. Development Advisor) → Retención impuestos
+     Insider: Horton Kenneth L (GC & Corp. Development Advisor) → Retención impuestos
      → https://www.sec.gov/Archives/edgar/data/1616543/000155204726000006/xslF345X06/form4-06172026_040614.xml
-     🟡 MEDIA 4 | 2026-06-17 | Form 4 — parse error: mismatched tag: line 29, column 16
-     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
+     🟡 MEDIA 4 | 2026-06-17 | HANSEN BRIAN B (Chief Commercial Officer) → Retención impuestos
+     Insider: HANSEN BRIAN B (Chief Commercial Officer) → Retención impuestos
      → https://www.sec.gov/Archives/edgar/data/1616543/000154237726000004/xslF345X06/form4-06172026_040612.xml
-     🟡 MEDIA 4 | 2026-06-17 | Form 4 — parse error: mismatched tag: line 29, column 16
-     Insider: Form 4 — parse error: mismatched tag: line 29, column 16
+     🟡 MEDIA 4 | 2026-06-17 | Goodnow Timothy T (President and CEO) → Retención impuestos
+     Insider: Goodnow Timothy T (President and CEO) → Retención impuestos
      → https://www.sec.gov/Archives/edgar/data/1616543/000166758826000008/xslF345X06/form4-06172026_040610.xml
   ✅ [INSM] Sin novedades
   ⚪ [NWL] Sin CIK SEC
@@ -140,40 +140,38 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
 ──────────────────────────────────────────────────
 
   [SNDX]
-    🟢 EMERGE Ph3 (revumenib AML) ⚡CAMBIO
-       Status: Completado
-       Enrollment: 32 pacientes
-       Primary completion: 2023-06-30
-       Última actualización: 2023-07-28
-       → https://clinicaltrials.gov/study/NCT04603300
-    🟢 SAVE Ph2 (revumenib AML frontline) ⚡CAMBIO
-       Status: Completado
-       Enrollment: 54 pacientes
-       Primary completion: 2024-07-16
-       Última actualización: 2025-10-24
-       → https://clinicaltrials.gov/study/NCT05185622
+    🟢 AUGMENT-101 Ph1/2 (revumenib KMT2Ar/NPM1m) ⚡CAMBIO
+       Status: Reclutando activamente
+       Enrollment: 447 pacientes
+       Primary completion: 2027-12-15
+       Última actualización: 2026-03-18
+       → https://clinicaltrials.gov/study/NCT04065399
+    🟢 REVEAL Ph3 (revumenib NPM1m AML frontline) ⚡CAMBIO
+       Status: Reclutando activamente
+       Enrollment: 468 pacientes
+       Primary completion: 2029-06
+       Última actualización: 2026-05-20
+       → https://clinicaltrials.gov/study/NCT07211958
 
   [DYN]
-    🔵 DELIVER Ph3 (DYNE-251 DMD) ⚡CAMBIO
+    🔵 DELIVER Ph1/2 (z-rostudirsen DMD exon 51) ⚡CAMBIO
        Status: Activo — sin reclutamiento
-       Enrollment: 76 pacientes
-       Primary completion: 2027-01
-       Última actualización: 2025-11-12
-       → https://clinicaltrials.gov/study/NCT05540860
-    🟢 ACHIEVE Ph3 (DYNE-101 DM1) ⚡CAMBIO
+       Enrollment: 86 pacientes
+       Primary completion: 2029-11
+       Última actualización: 2025-08-13
+       → https://clinicaltrials.gov/study/NCT05524883
+    🟢 ACHIEVE Ph1/2 registracional (z-basivarsen DM1) ⚡CAMBIO
        Status: Reclutando activamente
-       Enrollment: 70 pacientes
-       Primary completion: 2027-05
-       Última actualización: 2026-06-17
-       → https://clinicaltrials.gov/study/NCT06339827
-
-  [DNLI]
-    🟢 Ph2/3 (DNL310 Hunter AVLAYAH) ⚡CAMBIO
+       Enrollment: 116 pacientes
+       Primary completion: 2029-07
+       Última actualización: 2026-05-12
+       → https://clinicaltrials.gov/study/NCT05481879
+    🟢 HARMONIA Ph3 (z-basivarsen DM1 confirmatorio) ⚡CAMBIO
        Status: Reclutando activamente
-       Enrollment: 10 pacientes
-       Primary completion: 2031-07-31
-       Última actualización: 2026-03-17
-       → https://clinicaltrials.gov/study/NCT04532047
+       Enrollment: 150 pacientes
+       Primary completion: 2028-07
+       Última actualización: 2026-06-01
+       → https://clinicaltrials.gov/study/NCT07486934
 
   [VKTX]
     🔵 VENTURE Ph2b (VK2735 SC obesidad) ⚡CAMBIO
@@ -190,86 +188,78 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        → https://clinicaltrials.gov/study/NCT06119360
 
   [BEAM]
-    🔵 BEACON Ph1/2 (BEAM-101 SCD) ⚡CAMBIO
+    🔵 BEACON Ph1/2 (risto-cel BEAM-101 SCD) ⚡CAMBIO
        Status: Activo — sin reclutamiento
        Enrollment: 15 pacientes
        Primary completion: 2028-02
        Última actualización: 2025-12-16
        → https://clinicaltrials.gov/study/NCT05456880
-    🟢 Ph1 (BEAM-302 A1ATD) ⚡CAMBIO
+    🟢 Ph1/2 (BEAM-302 AATD corrección genética in vivo) ⚡CAMBIO
        Status: Reclutando activamente
-       Enrollment: 95 pacientes
-       Primary completion: 2027-09-09
-       Última actualización: 2025-05-06
-       → https://clinicaltrials.gov/study/NCT05456893
+       Enrollment: 106 pacientes
+       Primary completion: 2028-05
+       Última actualización: 2026-03-20
+       → https://clinicaltrials.gov/study/NCT06389877
 
   [OCUL]
-    🟢 HELIOS-1 Ph3 (AXPAXLI wet AMD) ⚡CAMBIO
-       Status: Completado
-       Enrollment: 278 pacientes
-       Primary completion: 2025-04-10
-       Última actualización: 2026-05-18
-       → https://clinicaltrials.gov/study/NCT05536297
-    🔵 HELIOS-3 Ph2 (AXPAXLI DR) ⚡CAMBIO
-       Status: Estado desconocido
-       Enrollment: 35 pacientes
-       Primary completion: 2025-12-31
-       Última actualización: 2023-10-25
-       → https://clinicaltrials.gov/study/NCT06100081
+    🔵 SOL-1 Ph3 superioridad (AXPAXLI wet AMD) ⚡CAMBIO
+       Status: Activo — sin reclutamiento
+       Enrollment: 344 pacientes
+       Primary completion: 2026-04-29
+       Última actualización: 2025-04-18
+       → https://clinicaltrials.gov/study/NCT06223958
+    🔵 SOL-R Ph3 no inferioridad (AXPAXLI wet AMD) ⚡CAMBIO
+       Status: Activo — sin reclutamiento
+       Enrollment: 825 pacientes
+       Primary completion: 2027-01-08
+       Última actualización: 2025-06-17
+       → https://clinicaltrials.gov/study/NCT06495918
 
   [GPCR]
-    🟢 Ph2b (aleniglipron obesidad) ⚡CAMBIO
-       Status: Reclutando activamente
-       Enrollment: 2145 pacientes
-       Primary completion: 2026-06-05
-       Última actualización: 2025-09-04
-       → https://clinicaltrials.gov/study/NCT05805709
+    🔵 Ph2b GLOW (aleniglipron obesidad oral) ⚡CAMBIO
+       Status: Activo — sin reclutamiento
+       Enrollment: 220 pacientes
+       Primary completion: 2025-10-24
+       Última actualización: 2026-04-28
+       → https://clinicaltrials.gov/study/NCT06693843
 
   [ABVX]
-    🔴 ABTECT Ph3 (obefazimod UC inducción) ⚡CAMBIO
-       Status: Terminado anticipadamente
-       Enrollment: 6 pacientes
-       Primary completion: 2023-01-01
-       Última actualización: 2024-11-15
-       → https://clinicaltrials.gov/study/NCT04745806
-    🟢 ABTECT Ph3 mantenimiento ⚡CAMBIO
+    🟢 ABTECT-1 Ph3 inducción (obefazimod UC) ⚡CAMBIO
        Status: Completado
-       Enrollment: 53 pacientes
-       Primary completion: 2015-05
-       Última actualización: 2021-10-13
-       → https://clinicaltrials.gov/study/NCT05076916
+       Enrollment: 639 pacientes
+       Primary completion: 2025-06-24
+       Última actualización: 2025-10-24
+       → https://clinicaltrials.gov/study/NCT05507203
+    🟢 ABTECT-2 Ph3 inducción AT-failure (obefazimod UC) ⚡CAMBIO
+       Status: Completado
+       Enrollment: 636 pacientes
+       Primary completion: 2025-06-24
+       Última actualización: 2025-10-24
+       → https://clinicaltrials.gov/study/NCT05507216
 
   [VERA]
-    🟢 ORIGIN Ph3 (atacicept IgAN) ⚡CAMBIO
-       Status: Completado
-       Enrollment: 155 pacientes
-       Primary completion: 2023-05-19
-       Última actualización: 2026-04-24
-       → https://clinicaltrials.gov/study/NCT04287985
+    🔵 ORIGIN 3 Ph3 (atacicept IgAN) — PDUFA 7 jul 2026 ⚡CAMBIO
+       Status: Activo — sin reclutamiento
+       Enrollment: 376 pacientes
+       Primary completion: 2025-05-15
+       Última actualización: 2025-09-30
+       → https://clinicaltrials.gov/study/NCT04716231
 
   [ACRV]
-    🔴 Ph2 (ACR-368 + OncoSignature) ⚡CAMBIO
-       Status: Terminado anticipadamente
-       Enrollment: 12 pacientes
-       Primary completion: 2023-09-14
-       Última actualización: 2025-03-07
-       → https://clinicaltrials.gov/study/NCT05116774
-
-  [TARA]
-    🔴 Ph2 (TARA-002 LM) ⚡CAMBIO
-       Status: Suspendido
-       Enrollment: 420 pacientes
-       Primary completion: 2025-03
-       Última actualización: 2023-04-26
-       → https://clinicaltrials.gov/study/NCT03002103
+    🟢 Ph1b/2 (ACR-368 OncoSignature ovario/endometrio) ⚡CAMBIO
+       Status: Reclutando activamente
+       Enrollment: 350 pacientes
+       Primary completion: 2027-05-30
+       Última actualización: 2026-06-15
+       → https://clinicaltrials.gov/study/NCT05548296
 
   [INSM]
-    🔴 ASPEN Ph3 (brensocatib bronchiectasis) ⚡CAMBIO
-       Status: Terminado anticipadamente
-       Enrollment: 33 pacientes
-       Primary completion: 2020-08-12
-       Última actualización: 2020-08-26
-       → https://clinicaltrials.gov/study/NCT04053543
+    🟢 ASPEN Ph3 (brensocatib bronchiectasis) — COMPLETADO/APROBADO ⚡CAMBIO
+       Status: Completado
+       Enrollment: 1767 pacientes
+       Primary completion: 2024-10-28
+       Última actualización: 2025-12-16
+       → https://clinicaltrials.gov/study/NCT04594369
 
 ══════════════════════════════════════════════════════════════
 Fuentes: SEC EDGAR API · ClinicalTrials.gov API v2

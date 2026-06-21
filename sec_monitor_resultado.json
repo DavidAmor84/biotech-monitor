@@ -1,6 +1,6 @@
 {
   "version": "v3",
-  "generado": "21/06/2026 14:05",
+  "generado": "21/06/2026 14:27",
   "periodo_dias": 7,
   "desde": "2026-06-14",
   "hasta": "2026-06-21",
@@ -8,8 +8,8 @@
     "total_filings": 30,
     "alertas_rojas": 0,
     "alertas_verdes": 1,
-    "alertas_amarillas": 6,
-    "alertas_azules": 23,
+    "alertas_amarillas": 5,
+    "alertas_azules": 24,
     "sin_novedad": 9
   },
   "tickers": {
@@ -529,9 +529,9 @@
         {
           "form": "8-K",
           "fecha": "2026-06-17",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Item 5.02: Cambio directivos / plan de compensación [Items: 5.02, 5.07, 9.01]",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Item 5.02: Plan de incentivos / compensación aprobado - informativo [Items: 5.02, 5.07, 9.01]",
           "detalle": "8-K",
           "empresa_sec": "Acrivon Therapeutics, Inc.",
           "url": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526274410/acrv-20260617.htm",
@@ -544,16 +544,16 @@
             ],
             "clasificacion_item": null,
             "extracto": "Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. On June 17, 2026, Acrivon Therapeutics, Inc. (the Company ) held its 2026 annual meeting of stockholders (the Annual Meeting ). At the Annual Meeting, the Company s stockholders approved the Acrivon Therapeutics, Inc. Amended and Restated 2022 Equity Incentive Plan (the Amended and Restated 2022 Plan ), which previously had been approved by the Company s Board of Directors (the Board ), subject to stockholder approval. The following paragraphs provide a summary of certain terms of the Amended and Restated 2022 Plan. The purposes of the Amended and Restated 2022 Plan are to secure and retain the services of employees, non-employee directors and consultants, provide incentives for such persons to exert maximum efforts for the success of the Company and its affiliates, and provide such persons with an opportunity to benefit from increases in the value of the Company s common stock through the granting of equity-based awards. Under the Amended and Restated 2022 Plan, the Company may grant incentive stock options, nonstatutory stock options, stock appreciation rights, restricted stock awards, restricted stock unit awards, performance awards and other stock-based awards. Subject to the terms and conditions of the Amended and Rest",
-            "nivel_ajustado": "amarillo",
-            "badge_ajustado": "🟡 MEDIA",
-            "resumen_ajustado": "Item 5.02: Cambio directivos / plan de compensación"
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "Item 5.02: Plan de incentivos / compensación aprobado - informativo"
           },
           "10q_detail": null,
           "prospecto_detail": null
         }
       ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "TARA": {
@@ -1407,9 +1407,9 @@
       "nombre": "Acrivon Therapeutics, Inc.",
       "form": "8-K",
       "fecha": "2026-06-17",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Item 5.02: Cambio directivos / plan de compensación [Items: 5.02, 5.07, 9.01]",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Item 5.02: Plan de incentivos / compensación aprobado - informativo [Items: 5.02, 5.07, 9.01]",
       "detalle": "8-K",
       "empresa_sec": "Acrivon Therapeutics, Inc.",
       "url": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526274410/acrv-20260617.htm",
@@ -1422,9 +1422,9 @@
         ],
         "clasificacion_item": null,
         "extracto": "Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. On June 17, 2026, Acrivon Therapeutics, Inc. (the Company ) held its 2026 annual meeting of stockholders (the Annual Meeting ). At the Annual Meeting, the Company s stockholders approved the Acrivon Therapeutics, Inc. Amended and Restated 2022 Equity Incentive Plan (the Amended and Restated 2022 Plan ), which previously had been approved by the Company s Board of Directors (the Board ), subject to stockholder approval. The following paragraphs provide a summary of certain terms of the Amended and Restated 2022 Plan. The purposes of the Amended and Restated 2022 Plan are to secure and retain the services of employees, non-employee directors and consultants, provide incentives for such persons to exert maximum efforts for the success of the Company and its affiliates, and provide such persons with an opportunity to benefit from increases in the value of the Company s common stock through the granting of equity-based awards. Under the Amended and Restated 2022 Plan, the Company may grant incentive stock options, nonstatutory stock options, stock appreciation rights, restricted stock awards, restricted stock unit awards, performance awards and other stock-based awards. Subject to the terms and conditions of the Amended and Rest",
-        "nivel_ajustado": "amarillo",
-        "badge_ajustado": "🟡 MEDIA",
-        "resumen_ajustado": "Item 5.02: Cambio directivos / plan de compensación"
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "Item 5.02: Plan de incentivos / compensación aprobado - informativo"
       },
       "10q_detail": null,
       "prospecto_detail": null

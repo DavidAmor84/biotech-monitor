@@ -1,15 +1,15 @@
 {
   "version": "v9.1",
-  "generado": "21/06/2026 16:59",
+  "generado": "21/06/2026 17:06",
   "fecha": "2026-06-21",
   "resumen": {
-    "total_ensayos": 18,
-    "validacion_ok": 15,
-    "validacion_error": 3,
-    "alertas_rojas": 3,
-    "alertas_verdes": 3,
+    "total_ensayos": 19,
+    "validacion_ok": 19,
+    "validacion_error": 0,
+    "alertas_rojas": 0,
+    "alertas_verdes": 4,
     "alertas_amarillas": 0,
-    "alertas_azules": 12,
+    "alertas_azules": 15,
     "errores": 0
   },
   "empresas": {
@@ -63,14 +63,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "validacion_ok",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Validación: — → True"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -123,14 +116,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "validacion_ok",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Validación: — → True"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -188,14 +174,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "validacion_ok",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Validación: — → True"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -259,14 +238,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "validacion_ok",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Validación: — → True"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -325,14 +297,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "validacion_ok",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Validación: — → True"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -344,46 +309,38 @@
     "TARA": {
       "ensayos": [
         {
-          "nct": "NCT05015946",
-          "nombre_usuario": "ADVANCED-2 — TARA-002 — NMIBC",
-          "titulo": "Handball-based Exercise and Type 2 Diabetes",
-          "titulo_oficial": "Handball-based Exercise for People Diagnosed With Type 2 Diabetes: a Feasibility Study",
-          "sponsor": "University College of Northern Denmark",
-          "collaborators": [
-            "Danish Handball Federation",
-            "The Danish Diabetes Association",
-            "Research Unit for General Practice in Aalborg"
-          ],
-          "status": "COMPLETED",
-          "status_desc": "NCT no validado contra empresa/fármaco/indicación",
-          "nivel_base": "verde",
-          "badge_base": "🟢",
-          "phase": "NA",
-          "enrollment": 10,
-          "primary_completion_date": "2021-12-15",
-          "primary_completion_type": "ACTUAL",
-          "study_completion_date": "2021-12-20",
-          "study_completion_type": "ACTUAL",
-          "start_date": "2021-09-01",
-          "last_update_posted": "2022-03-04",
+          "nct": "NCT05951179",
+          "nombre_usuario": "ADVANCED-2 — TARA-002 — NMIBC (BCG-naïve/unresponsive CIS)",
+          "titulo": "Safety and Efficacy Study of Intravesical Instillation of TARA-002 in Adults With High-grade Non-muscle Invasive Bladder Cancer",
+          "titulo_oficial": "A Phase 2, Open-Label Study to Evaluate the Safety and Efficacy of Intravesical Instillation of TARA-002 in Adults With High-Grade Non-Muscle Invasive Bladder Cancer",
+          "sponsor": "Protara Therapeutics",
+          "collaborators": [],
+          "status": "RECRUITING",
+          "status_desc": "Reclutando",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE2",
+          "enrollment": 131,
+          "primary_completion_date": "2031-10",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2032-03",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2023-09-15",
+          "last_update_posted": "2026-05-18",
           "conditions": [
-            "Type 2 Diabetes"
+            "Non-muscle Invasive Bladder Cancer"
           ],
           "interventions": [
-            "Small-sided team handball training"
+            "TARA-002"
           ],
-          "url": "https://clinicaltrials.gov/study/NCT05015946",
+          "url": "https://clinicaltrials.gov/study/NCT05951179",
           "validacion": {
-            "ok": false,
-            "errores": [
-              "Sponsor no coincide",
-              "Fármaco/intervención no coincide",
-              "Indicación no coincide"
-            ],
+            "ok": true,
+            "errores": [],
             "detalles": {
-              "sponsor_text": "University College of Northern Denmark Danish Handball Federation The Danish Diabetes Association Research Unit for General Practice in Aalborg",
-              "drug_text": "Handball-based Exercise and Type 2 Diabetes Handball-based Exercise for People Diagnosed With Type 2 Diabetes: a Feasibility Study Small-sided team handball training",
-              "condition_text": "Handball-based Exercise and Type 2 Diabetes Handball-based Exercise for People Diagnosed With Type 2 Diabetes: a Feasibility Study Type 2 Diabetes"
+              "sponsor_text": "Protara Therapeutics ",
+              "drug_text": "Safety and Efficacy Study of Intravesical Instillation of TARA-002 in Adults With High-grade Non-muscle Invasive Bladder Cancer A Phase 2, Open-Label Study to Evaluate the Safety and Efficacy of Intravesical Instillation of TARA-002 in Adults With High-Grade Non-Muscle Invasive Bladder Cancer TARA-002",
+              "condition_text": "Safety and Efficacy Study of Intravesical Instillation of TARA-002 in Adults With High-grade Non-muscle Invasive Bladder Cancer A Phase 2, Open-Label Study to Evaluate the Safety and Efficacy of Intravesical Instillation of TARA-002 in Adults With High-Grade Non-Muscle Invasive Bladder Cancer Non-muscle Invasive Bladder Cancer"
             },
             "sponsor_keywords": [
               "protara"
@@ -394,31 +351,26 @@
             "condition_keywords": [
               "nmibc",
               "non-muscle invasive bladder cancer",
-              "bladder cancer"
+              "bladder cancer",
+              "carcinoma in situ"
             ]
           },
-          "validacion_ok": false,
+          "validacion_ok": true,
           "cambios": [
             {
-              "tipo": "validacion_ok",
-              "nivel": "rojo",
-              "badge": "❌",
-              "mensaje": "Validación: — → False"
-            },
-            {
-              "tipo": "validacion",
-              "nivel": "rojo",
-              "badge": "❌",
-              "mensaje": "Sponsor no coincide; Fármaco/intervención no coincide; Indicación no coincide"
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
             }
           ],
-          "nivel": "rojo",
-          "badge": "❌",
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         }
       ],
-      "nivel": "rojo",
-      "badge": "🔴"
+      "nivel": "azul",
+      "badge": "🔵"
     },
     "ABVX": {
       "ensayos": [
@@ -470,14 +422,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "validacion_ok",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Validación: — → True"
-            }
-          ],
+          "cambios": [],
           "nivel": "verde",
           "badge": "🟢",
           "error": null
@@ -530,14 +475,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "validacion_ok",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Validación: — → True"
-            }
-          ],
+          "cambios": [],
           "nivel": "verde",
           "badge": "🟢",
           "error": null
@@ -597,14 +535,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "validacion_ok",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Validación: — → True"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -670,14 +601,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "validacion_ok",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Validación: — → True"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -731,14 +655,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "validacion_ok",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Validación: — → True"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -750,45 +667,38 @@
     "VKTX": {
       "ensayos": [
         {
-          "nct": "NCT05948826",
-          "nombre_usuario": "VENTURE — VK2735 SC — obesidad",
-          "titulo": "First in Human Study of TORL-3-600 in Participants With Advanced Cancer",
-          "titulo_oficial": "A Phase 1, First in Human, Dose-Escalation Study of TORL-3-600 in Participants With Advanced Cancer",
-          "sponsor": "TORL Biotherapeutics, LLC",
-          "collaborators": [
-            "Translational Research in Oncology"
-          ],
+          "nct": "NCT07104500",
+          "nombre_usuario": "VANQUISH-1 Ph3 — VK2735 SC — obesidad (sin T2D)",
+          "titulo": "VK2735 for Weight Management Phase 3",
+          "titulo_oficial": "A Phase 3 Randomized, Double-Blind, Placebo-Controlled, 78-Week Efficacy and Safety Study of VK2735 Administered Subcutaneously for Weight Management in Participants Without Type 2 Diabetes Who Are Obese, or Overweight With at Least One Weight-related Comorbid Condition",
+          "sponsor": "Viking Therapeutics, Inc.",
+          "collaborators": [],
           "status": "ACTIVE_NOT_RECRUITING",
-          "status_desc": "NCT no validado contra empresa/fármaco/indicación",
+          "status_desc": "Activo, sin reclutamiento",
           "nivel_base": "azul",
           "badge_base": "🔵",
-          "phase": "PHASE1",
-          "enrollment": 70,
-          "primary_completion_date": "2026-06-25",
+          "phase": "PHASE3",
+          "enrollment": 4500,
+          "primary_completion_date": "2027-07-01",
           "primary_completion_type": "ESTIMATED",
-          "study_completion_date": "2026-09-15",
+          "study_completion_date": "2027-08-01",
           "study_completion_type": "ESTIMATED",
-          "start_date": "2023-09-29",
-          "last_update_posted": "2025-10-10",
+          "start_date": "2025-06-23",
+          "last_update_posted": "2025-11-24",
           "conditions": [
-            "Advanced Solid Tumor",
-            "Colorectal Cancer"
+            "Weight Loss"
           ],
           "interventions": [
-            "TORL-3-600"
+            "VK2735"
           ],
-          "url": "https://clinicaltrials.gov/study/NCT05948826",
+          "url": "https://clinicaltrials.gov/study/NCT07104500",
           "validacion": {
-            "ok": false,
-            "errores": [
-              "Sponsor no coincide",
-              "Fármaco/intervención no coincide",
-              "Indicación no coincide"
-            ],
+            "ok": true,
+            "errores": [],
             "detalles": {
-              "sponsor_text": "TORL Biotherapeutics, LLC Translational Research in Oncology",
-              "drug_text": "First in Human Study of TORL-3-600 in Participants With Advanced Cancer A Phase 1, First in Human, Dose-Escalation Study of TORL-3-600 in Participants With Advanced Cancer TORL-3-600",
-              "condition_text": "First in Human Study of TORL-3-600 in Participants With Advanced Cancer A Phase 1, First in Human, Dose-Escalation Study of TORL-3-600 in Participants With Advanced Cancer Advanced Solid Tumor Colorectal Cancer"
+              "sponsor_text": "Viking Therapeutics, Inc. ",
+              "drug_text": "VK2735 for Weight Management Phase 3 A Phase 3 Randomized, Double-Blind, Placebo-Controlled, 78-Week Efficacy and Safety Study of VK2735 Administered Subcutaneously for Weight Management in Participants Without Type 2 Diabetes Who Are Obese, or Overweight With at Least One Weight-related Comorbid Condition VK2735",
+              "condition_text": "VK2735 for Weight Management Phase 3 A Phase 3 Randomized, Double-Blind, Placebo-Controlled, 78-Week Efficacy and Safety Study of VK2735 Administered Subcutaneously for Weight Management in Participants Without Type 2 Diabetes Who Are Obese, or Overweight With at Least One Weight-related Comorbid Condition Weight Loss"
             },
             "sponsor_keywords": [
               "viking therapeutics"
@@ -803,63 +713,114 @@
               "weight"
             ]
           },
-          "validacion_ok": false,
+          "validacion_ok": true,
           "cambios": [
             {
-              "tipo": "validacion_ok",
-              "nivel": "rojo",
-              "badge": "❌",
-              "mensaje": "Validación: — → False"
-            },
-            {
-              "tipo": "validacion",
-              "nivel": "rojo",
-              "badge": "❌",
-              "mensaje": "Sponsor no coincide; Fármaco/intervención no coincide; Indicación no coincide"
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
             }
           ],
-          "nivel": "rojo",
-          "badge": "❌",
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         },
         {
-          "nct": "NCT06119360",
-          "nombre_usuario": "VANQUISH — VK2735 oral — obesidad",
-          "titulo": "Comparison of Two Different Lightwand Intubation Techniques in Cervical Immobilized Patients",
-          "titulo_oficial": "Comparison of the Intubation Success Rate Between Two Techniques Using Lightwand in Patients Undergoing Spine Surgery: Conventional vs. Face-to-face Technique",
-          "sponsor": "Kyung Hee University Hospital at Gangdong",
+          "nct": "NCT07104383",
+          "nombre_usuario": "VANQUISH-2 Ph3 — VK2735 SC — obesidad + T2D",
+          "titulo": "VK2735 for Weight Management Type 2 Diabetes Phase 3 (VANQUISH 2)",
+          "titulo_oficial": "A Phase 3 Randomized, Double-Blind, Placebo-Controlled, 78-Week Efficacy and Safety Study of VK2735 Administered Subcutaneously for Weight Management in Participants With Type 2 Diabetes Who Are Obese, or Overweight",
+          "sponsor": "Viking Therapeutics, Inc.",
           "collaborators": [],
-          "status": "COMPLETED",
-          "status_desc": "NCT no validado contra empresa/fármaco/indicación",
-          "nivel_base": "verde",
-          "badge_base": "🟢",
-          "phase": "NA",
-          "enrollment": 176,
-          "primary_completion_date": "2019-02-13",
-          "primary_completion_type": "ACTUAL",
-          "study_completion_date": "2019-08-31",
-          "study_completion_type": "ACTUAL",
-          "start_date": "2018-12-12",
-          "last_update_posted": "2023-11-07",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "status_desc": "Activo, sin reclutamiento",
+          "nivel_base": "azul",
+          "badge_base": "🔵",
+          "phase": "PHASE3",
+          "enrollment": 1100,
+          "primary_completion_date": "2027-07-01",
+          "primary_completion_type": "ESTIMATED",
+          "study_completion_date": "2027-08-01",
+          "study_completion_type": "ESTIMATED",
+          "start_date": "2025-06-23",
+          "last_update_posted": "2026-04-07",
           "conditions": [
-            "Intubation; Difficult or Failed"
+            "Weight Loss"
           ],
           "interventions": [
-            "Face-to-face approach",
-            "Conventional approach"
+            "VK2735"
           ],
-          "url": "https://clinicaltrials.gov/study/NCT06119360",
+          "url": "https://clinicaltrials.gov/study/NCT07104383",
           "validacion": {
-            "ok": false,
-            "errores": [
-              "Sponsor no coincide",
-              "Fármaco/intervención no coincide",
-              "Indicación no coincide"
-            ],
+            "ok": true,
+            "errores": [],
             "detalles": {
-              "sponsor_text": "Kyung Hee University Hospital at Gangdong ",
-              "drug_text": "Comparison of Two Different Lightwand Intubation Techniques in Cervical Immobilized Patients Comparison of the Intubation Success Rate Between Two Techniques Using Lightwand in Patients Undergoing Spine Surgery: Conventional vs. Face-to-face Technique Face-to-face approach Conventional approach",
-              "condition_text": "Comparison of Two Different Lightwand Intubation Techniques in Cervical Immobilized Patients Comparison of the Intubation Success Rate Between Two Techniques Using Lightwand in Patients Undergoing Spine Surgery: Conventional vs. Face-to-face Technique Intubation; Difficult or Failed"
+              "sponsor_text": "Viking Therapeutics, Inc. ",
+              "drug_text": "VK2735 for Weight Management Type 2 Diabetes Phase 3 (VANQUISH 2) A Phase 3 Randomized, Double-Blind, Placebo-Controlled, 78-Week Efficacy and Safety Study of VK2735 Administered Subcutaneously for Weight Management in Participants With Type 2 Diabetes Who Are Obese, or Overweight VK2735",
+              "condition_text": "VK2735 for Weight Management Type 2 Diabetes Phase 3 (VANQUISH 2) A Phase 3 Randomized, Double-Blind, Placebo-Controlled, 78-Week Efficacy and Safety Study of VK2735 Administered Subcutaneously for Weight Management in Participants With Type 2 Diabetes Who Are Obese, or Overweight Weight Loss"
+            },
+            "sponsor_keywords": [
+              "viking therapeutics"
+            ],
+            "drug_keywords": [
+              "vk2735",
+              "vk-2735"
+            ],
+            "condition_keywords": [
+              "obesity",
+              "overweight",
+              "weight",
+              "type 2 diabetes"
+            ]
+          },
+          "validacion_ok": true,
+          "cambios": [
+            {
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
+            }
+          ],
+          "nivel": "azul",
+          "badge": "🔵",
+          "error": null
+        },
+        {
+          "nct": "NCT06828055",
+          "nombre_usuario": "VENTURE-Oral Ph2 — VK2735 oral — obesidad",
+          "titulo": "VK2735 for Weight Management Phase 2 (Venture Oral Dosing)",
+          "titulo_oficial": "A Phase 2 Randomized, Double-Blind, Placebo-Controlled, 13-week Dose Finding Study of VK2735 Oral Formulation for Weight Management in Subjects Who Are Obese, or Overweight With at Least One Weight-related Comorbid Condition",
+          "sponsor": "Viking Therapeutics, Inc.",
+          "collaborators": [],
+          "status": "COMPLETED",
+          "status_desc": "Ensayo completado",
+          "nivel_base": "verde",
+          "badge_base": "🟢",
+          "phase": "PHASE2",
+          "enrollment": 280,
+          "primary_completion_date": "2025-06-24",
+          "primary_completion_type": "ACTUAL",
+          "study_completion_date": "2025-08-15",
+          "study_completion_type": "ACTUAL",
+          "start_date": "2024-12-18",
+          "last_update_posted": "2025-10-06",
+          "conditions": [
+            "Weight Loss"
+          ],
+          "interventions": [
+            "Placebo",
+            "VK2735"
+          ],
+          "url": "https://clinicaltrials.gov/study/NCT06828055",
+          "validacion": {
+            "ok": true,
+            "errores": [],
+            "detalles": {
+              "sponsor_text": "Viking Therapeutics, Inc. ",
+              "drug_text": "VK2735 for Weight Management Phase 2 (Venture Oral Dosing) A Phase 2 Randomized, Double-Blind, Placebo-Controlled, 13-week Dose Finding Study of VK2735 Oral Formulation for Weight Management in Subjects Who Are Obese, or Overweight With at Least One Weight-related Comorbid Condition Placebo VK2735",
+              "condition_text": "VK2735 for Weight Management Phase 2 (Venture Oral Dosing) A Phase 2 Randomized, Double-Blind, Placebo-Controlled, 13-week Dose Finding Study of VK2735 Oral Formulation for Weight Management in Subjects Who Are Obese, or Overweight With at Least One Weight-related Comorbid Condition Weight Loss"
             },
             "sponsor_keywords": [
               "viking therapeutics"
@@ -874,28 +835,22 @@
               "weight"
             ]
           },
-          "validacion_ok": false,
+          "validacion_ok": true,
           "cambios": [
             {
-              "tipo": "validacion_ok",
-              "nivel": "rojo",
-              "badge": "❌",
-              "mensaje": "Validación: — → False"
-            },
-            {
-              "tipo": "validacion",
-              "nivel": "rojo",
-              "badge": "❌",
-              "mensaje": "Sponsor no coincide; Fármaco/intervención no coincide; Indicación no coincide"
+              "tipo": "nuevo",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Primer registro en caché"
             }
           ],
-          "nivel": "rojo",
-          "badge": "❌",
+          "nivel": "verde",
+          "badge": "🟢",
           "error": null
         }
       ],
-      "nivel": "rojo",
-      "badge": "🔴"
+      "nivel": "verde",
+      "badge": "🟢"
     },
     "BEAM": {
       "ensayos": [
@@ -945,14 +900,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "validacion_ok",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Validación: — → True"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1005,14 +953,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "validacion_ok",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Validación: — → True"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1076,14 +1017,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "validacion_ok",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Validación: — → True"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1149,14 +1083,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "validacion_ok",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Validación: — → True"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1214,14 +1141,7 @@
             ]
           },
           "validacion_ok": true,
-          "cambios": [
-            {
-              "tipo": "validacion_ok",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Validación: — → True"
-            }
-          ],
+          "cambios": [],
           "nivel": "verde",
           "badge": "🟢",
           "error": null
@@ -1233,140 +1153,25 @@
   },
   "alertas": [
     {
-      "ticker": "DYN",
-      "nct": "NCT05524883",
-      "nombre": "DELIVER — z-rostudirsen / DYNE-251 — DMD exon 51",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "primary_completion_date": "2029-11",
-      "mensaje": "Activo, sin reclutamiento",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "validacion_ok",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Validación: — → True"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT05524883"
-    },
-    {
-      "ticker": "DYN",
-      "nct": "NCT05481879",
-      "nombre": "ACHIEVE — z-basivarsen / DYNE-101 — DM1",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2029-07",
-      "mensaje": "Reclutando",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "validacion_ok",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Validación: — → True"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT05481879"
-    },
-    {
-      "ticker": "DYN",
-      "nct": "NCT07486934",
-      "nombre": "HARMONIA — z-basivarsen — DM1 confirmatorio",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2028-07",
-      "mensaje": "Reclutando",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "validacion_ok",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Validación: — → True"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07486934"
-    },
-    {
-      "ticker": "OCUL",
-      "nct": "NCT06223958",
-      "nombre": "SOL-1 — AXPAXLI / OTX-TKI — wet AMD",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "primary_completion_date": "2026-04-29",
-      "mensaje": "Activo, sin reclutamiento",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "validacion_ok",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Validación: — → True"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06223958"
-    },
-    {
-      "ticker": "OCUL",
-      "nct": "NCT06495918",
-      "nombre": "SOL-R — AXPAXLI / OTX-TKI — wet AMD",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "primary_completion_date": "2027-01-08",
-      "mensaje": "Activo, sin reclutamiento",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "validacion_ok",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Validación: — → True"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06495918"
-    },
-    {
       "ticker": "TARA",
-      "nct": "NCT05015946",
-      "nombre": "ADVANCED-2 — TARA-002 — NMIBC",
-      "nivel": "rojo",
-      "badge": "❌",
-      "status": "COMPLETED",
-      "primary_completion_date": "2021-12-15",
-      "mensaje": "NCT no validado contra empresa/fármaco/indicación",
-      "validacion_ok": false,
-      "errores_validacion": [
-        "Sponsor no coincide",
-        "Fármaco/intervención no coincide",
-        "Indicación no coincide"
-      ],
+      "nct": "NCT05951179",
+      "nombre": "ADVANCED-2 — TARA-002 — NMIBC (BCG-naïve/unresponsive CIS)",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "RECRUITING",
+      "primary_completion_date": "2031-10",
+      "mensaje": "Reclutando",
+      "validacion_ok": true,
+      "errores_validacion": [],
       "cambios": [
         {
-          "tipo": "validacion_ok",
-          "nivel": "rojo",
-          "badge": "❌",
-          "mensaje": "Validación: — → False"
-        },
-        {
-          "tipo": "validacion",
-          "nivel": "rojo",
-          "badge": "❌",
-          "mensaje": "Sponsor no coincide; Fármaco/intervención no coincide; Indicación no coincide"
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
         }
       ],
-      "url": "https://clinicaltrials.gov/study/NCT05015946"
+      "url": "https://clinicaltrials.gov/study/NCT05951179"
     },
     {
       "ticker": "ABVX",
@@ -1379,14 +1184,7 @@
       "mensaje": "Ensayo completado",
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "validacion_ok",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Validación: — → True"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT05507203"
     },
     {
@@ -1400,224 +1198,71 @@
       "mensaje": "Ensayo completado",
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "validacion_ok",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Validación: — → True"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT05507216"
     },
     {
-      "ticker": "VERA",
-      "nct": "NCT04716231",
-      "nombre": "ORIGIN 3 — atacicept — IgAN",
+      "ticker": "VKTX",
+      "nct": "NCT07104500",
+      "nombre": "VANQUISH-1 Ph3 — VK2735 SC — obesidad (sin T2D)",
       "nivel": "azul",
       "badge": "🔵",
       "status": "ACTIVE_NOT_RECRUITING",
-      "primary_completion_date": "2025-05-15",
+      "primary_completion_date": "2027-07-01",
       "mensaje": "Activo, sin reclutamiento",
       "validacion_ok": true,
       "errores_validacion": [],
       "cambios": [
         {
-          "tipo": "validacion_ok",
+          "tipo": "nuevo",
           "nivel": "azul",
           "badge": "🔵",
-          "mensaje": "Validación: — → True"
+          "mensaje": "Primer registro en caché"
         }
       ],
-      "url": "https://clinicaltrials.gov/study/NCT04716231"
-    },
-    {
-      "ticker": "SNDX",
-      "nct": "NCT04065399",
-      "nombre": "AUGMENT-101 — revumenib — KMT2Ar/NPM1m leukemia",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2027-12-15",
-      "mensaje": "Reclutando",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "validacion_ok",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Validación: — → True"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT04065399"
-    },
-    {
-      "ticker": "SNDX",
-      "nct": "NCT07211958",
-      "nombre": "REVEAL — revumenib — NPM1m AML frontline",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2029-06",
-      "mensaje": "Reclutando",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "validacion_ok",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Validación: — → True"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07211958"
+      "url": "https://clinicaltrials.gov/study/NCT07104500"
     },
     {
       "ticker": "VKTX",
-      "nct": "NCT05948826",
-      "nombre": "VENTURE — VK2735 SC — obesidad",
-      "nivel": "rojo",
-      "badge": "❌",
+      "nct": "NCT07104383",
+      "nombre": "VANQUISH-2 Ph3 — VK2735 SC — obesidad + T2D",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "ACTIVE_NOT_RECRUITING",
-      "primary_completion_date": "2026-06-25",
-      "mensaje": "NCT no validado contra empresa/fármaco/indicación",
-      "validacion_ok": false,
-      "errores_validacion": [
-        "Sponsor no coincide",
-        "Fármaco/intervención no coincide",
-        "Indicación no coincide"
-      ],
+      "primary_completion_date": "2027-07-01",
+      "mensaje": "Activo, sin reclutamiento",
+      "validacion_ok": true,
+      "errores_validacion": [],
       "cambios": [
         {
-          "tipo": "validacion_ok",
-          "nivel": "rojo",
-          "badge": "❌",
-          "mensaje": "Validación: — → False"
-        },
-        {
-          "tipo": "validacion",
-          "nivel": "rojo",
-          "badge": "❌",
-          "mensaje": "Sponsor no coincide; Fármaco/intervención no coincide; Indicación no coincide"
+          "tipo": "nuevo",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Primer registro en caché"
         }
       ],
-      "url": "https://clinicaltrials.gov/study/NCT05948826"
+      "url": "https://clinicaltrials.gov/study/NCT07104383"
     },
     {
       "ticker": "VKTX",
-      "nct": "NCT06119360",
-      "nombre": "VANQUISH — VK2735 oral — obesidad",
-      "nivel": "rojo",
-      "badge": "❌",
+      "nct": "NCT06828055",
+      "nombre": "VENTURE-Oral Ph2 — VK2735 oral — obesidad",
+      "nivel": "verde",
+      "badge": "🟢",
       "status": "COMPLETED",
-      "primary_completion_date": "2019-02-13",
-      "mensaje": "NCT no validado contra empresa/fármaco/indicación",
-      "validacion_ok": false,
-      "errores_validacion": [
-        "Sponsor no coincide",
-        "Fármaco/intervención no coincide",
-        "Indicación no coincide"
-      ],
-      "cambios": [
-        {
-          "tipo": "validacion_ok",
-          "nivel": "rojo",
-          "badge": "❌",
-          "mensaje": "Validación: — → False"
-        },
-        {
-          "tipo": "validacion",
-          "nivel": "rojo",
-          "badge": "❌",
-          "mensaje": "Sponsor no coincide; Fármaco/intervención no coincide; Indicación no coincide"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06119360"
-    },
-    {
-      "ticker": "BEAM",
-      "nct": "NCT05456880",
-      "nombre": "BEACON — BEAM-101 / risto-cel — SCD",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "primary_completion_date": "2028-02",
-      "mensaje": "Activo, sin reclutamiento",
+      "primary_completion_date": "2025-06-24",
+      "mensaje": "Ensayo completado",
       "validacion_ok": true,
       "errores_validacion": [],
       "cambios": [
         {
-          "tipo": "validacion_ok",
+          "tipo": "nuevo",
           "nivel": "azul",
           "badge": "🔵",
-          "mensaje": "Validación: — → True"
+          "mensaje": "Primer registro en caché"
         }
       ],
-      "url": "https://clinicaltrials.gov/study/NCT05456880"
-    },
-    {
-      "ticker": "BEAM",
-      "nct": "NCT06389877",
-      "nombre": "BEAM-302 — AATD",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2028-05",
-      "mensaje": "Reclutando",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "validacion_ok",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Validación: — → True"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06389877"
-    },
-    {
-      "ticker": "ACRV",
-      "nct": "NCT05548296",
-      "nombre": "ACR-368 + OncoSignature — ovario/endometrio/urotelial",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2027-05-30",
-      "mensaje": "Reclutando",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "validacion_ok",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Validación: — → True"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT05548296"
-    },
-    {
-      "ticker": "GPCR",
-      "nct": "NCT06693843",
-      "nombre": "GLOW — aleniglipron / GSBR-1290 — obesidad oral",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "primary_completion_date": "2025-10-24",
-      "mensaje": "Activo, sin reclutamiento",
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "validacion_ok",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Validación: — → True"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06693843"
+      "url": "https://clinicaltrials.gov/study/NCT06828055"
     },
     {
       "ticker": "INSM",
@@ -1630,76 +1275,9 @@
       "mensaje": "Ensayo completado",
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "validacion_ok",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Validación: — → True"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT04594369"
     }
   ],
-  "errores_validacion": [
-    {
-      "ticker": "TARA",
-      "nct": "NCT05015946",
-      "nombre": "ADVANCED-2 — TARA-002 — NMIBC",
-      "errores": [
-        "Sponsor no coincide",
-        "Fármaco/intervención no coincide",
-        "Indicación no coincide"
-      ],
-      "sponsor_detectado": "University College of Northern Denmark",
-      "titulo_detectado": "Handball-based Exercise and Type 2 Diabetes",
-      "conditions": [
-        "Type 2 Diabetes"
-      ],
-      "interventions": [
-        "Small-sided team handball training"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT05015946"
-    },
-    {
-      "ticker": "VKTX",
-      "nct": "NCT05948826",
-      "nombre": "VENTURE — VK2735 SC — obesidad",
-      "errores": [
-        "Sponsor no coincide",
-        "Fármaco/intervención no coincide",
-        "Indicación no coincide"
-      ],
-      "sponsor_detectado": "TORL Biotherapeutics, LLC",
-      "titulo_detectado": "First in Human Study of TORL-3-600 in Participants With Advanced Cancer",
-      "conditions": [
-        "Advanced Solid Tumor",
-        "Colorectal Cancer"
-      ],
-      "interventions": [
-        "TORL-3-600"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT05948826"
-    },
-    {
-      "ticker": "VKTX",
-      "nct": "NCT06119360",
-      "nombre": "VANQUISH — VK2735 oral — obesidad",
-      "errores": [
-        "Sponsor no coincide",
-        "Fármaco/intervención no coincide",
-        "Indicación no coincide"
-      ],
-      "sponsor_detectado": "Kyung Hee University Hospital at Gangdong",
-      "titulo_detectado": "Comparison of Two Different Lightwand Intubation Techniques in Cervical Immobilized Patients",
-      "conditions": [
-        "Intubation; Difficult or Failed"
-      ],
-      "interventions": [
-        "Face-to-face approach",
-        "Conventional approach"
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06119360"
-    }
-  ]
+  "errores_validacion": []
 }

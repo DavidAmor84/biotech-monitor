@@ -59,17 +59,17 @@
     "sponsor": "Ocular Therapeutix, Inc.",
     "validacion_ok": true
   },
-  "NCT05015946": {
-    "status": "COMPLETED",
-    "primary_completion_date": "2021-12-15",
-    "study_completion_date": "2021-12-20",
-    "last_update_posted": "2022-03-04",
-    "enrollment": 10,
-    "titulo": "Handball-based Exercise and Type 2 Diabetes",
+  "NCT05951179": {
+    "status": "RECRUITING",
+    "primary_completion_date": "2031-10",
+    "study_completion_date": "2032-03",
+    "last_update_posted": "2026-05-18",
+    "enrollment": 131,
+    "titulo": "Safety and Efficacy Study of Intravesical Instillation of TARA-002 in Adults With High-grade Non-muscle Invasive Bladder Cancer",
     "ticker": "TARA",
-    "nombre_usuario": "ADVANCED-2 — TARA-002 — NMIBC",
-    "sponsor": "University College of Northern Denmark",
-    "validacion_ok": false
+    "nombre_usuario": "ADVANCED-2 — TARA-002 — NMIBC (BCG-naïve/unresponsive CIS)",
+    "sponsor": "Protara Therapeutics",
+    "validacion_ok": true
   },
   "NCT05507203": {
     "status": "COMPLETED",
@@ -131,29 +131,41 @@
     "sponsor": "Syndax Pharmaceuticals",
     "validacion_ok": true
   },
-  "NCT05948826": {
+  "NCT07104500": {
     "status": "ACTIVE_NOT_RECRUITING",
-    "primary_completion_date": "2026-06-25",
-    "study_completion_date": "2026-09-15",
-    "last_update_posted": "2025-10-10",
-    "enrollment": 70,
-    "titulo": "First in Human Study of TORL-3-600 in Participants With Advanced Cancer",
+    "primary_completion_date": "2027-07-01",
+    "study_completion_date": "2027-08-01",
+    "last_update_posted": "2025-11-24",
+    "enrollment": 4500,
+    "titulo": "VK2735 for Weight Management Phase 3",
     "ticker": "VKTX",
-    "nombre_usuario": "VENTURE — VK2735 SC — obesidad",
-    "sponsor": "TORL Biotherapeutics, LLC",
-    "validacion_ok": false
+    "nombre_usuario": "VANQUISH-1 Ph3 — VK2735 SC — obesidad (sin T2D)",
+    "sponsor": "Viking Therapeutics, Inc.",
+    "validacion_ok": true
   },
-  "NCT06119360": {
-    "status": "COMPLETED",
-    "primary_completion_date": "2019-02-13",
-    "study_completion_date": "2019-08-31",
-    "last_update_posted": "2023-11-07",
-    "enrollment": 176,
-    "titulo": "Comparison of Two Different Lightwand Intubation Techniques in Cervical Immobilized Patients",
+  "NCT07104383": {
+    "status": "ACTIVE_NOT_RECRUITING",
+    "primary_completion_date": "2027-07-01",
+    "study_completion_date": "2027-08-01",
+    "last_update_posted": "2026-04-07",
+    "enrollment": 1100,
+    "titulo": "VK2735 for Weight Management Type 2 Diabetes Phase 3 (VANQUISH 2)",
     "ticker": "VKTX",
-    "nombre_usuario": "VANQUISH — VK2735 oral — obesidad",
-    "sponsor": "Kyung Hee University Hospital at Gangdong",
-    "validacion_ok": false
+    "nombre_usuario": "VANQUISH-2 Ph3 — VK2735 SC — obesidad + T2D",
+    "sponsor": "Viking Therapeutics, Inc.",
+    "validacion_ok": true
+  },
+  "NCT06828055": {
+    "status": "COMPLETED",
+    "primary_completion_date": "2025-06-24",
+    "study_completion_date": "2025-08-15",
+    "last_update_posted": "2025-10-06",
+    "enrollment": 280,
+    "titulo": "VK2735 for Weight Management Phase 2 (Venture Oral Dosing)",
+    "ticker": "VKTX",
+    "nombre_usuario": "VENTURE-Oral Ph2 — VK2735 oral — obesidad",
+    "sponsor": "Viking Therapeutics, Inc.",
+    "validacion_ok": true
   },
   "NCT05456880": {
     "status": "ACTIVE_NOT_RECRUITING",

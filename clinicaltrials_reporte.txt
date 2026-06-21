@@ -1,254 +1,17 @@
-============================================================================
-CLINICALTRIALS MONITOR v9.2 · Modelo Biotech
-Generado: 21/06/2026 17:38
-============================================================================
-RESUMEN: 40 ensayos | Validación OK: 40 | Errores validación: 0 | 🔴 0 | 🟢 4 | 🟡 2 | 🔵 34 | Errores API: 0
+====================================================================================
+CLINICALTRIALS MONITOR v9.3 · Modelo Biotech
+Generado: 21/06/2026 18:02
+====================================================================================
+RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 4 | 🟡 22 | 🔵 8 | Errores API: 0
 
-----------------------------------------------------------------------------
-ALERTAS / CAMBIOS
-----------------------------------------------------------------------------
-
-[ABVX] 🟢 ABTECT-1 Ph3 inducción — obefazimod — UC ✅ COMPLETADO positivo
-NCT: NCT05507203 | Status: COMPLETED
-Primary completion: 2025-06-24
-→ https://clinicaltrials.gov/study/NCT05507203
-
-[ABVX] 🟢 ABTECT-2 Ph3 inducción AT-failure — obefazimod — UC ✅ COMPLETADO positivo
-NCT: NCT05507216 | Status: COMPLETED
-Primary completion: 2025-06-24
-→ https://clinicaltrials.gov/study/NCT05507216
-
-[ABVX] 🔵 ABTECT mantenimiento 44sem — obefazimod (ABX464-107) — UC ✅ DATOS POSITIVOS 1 jun 2026 · NDA Q4 2026
-NCT: NCT05535946 | Status: ACTIVE_NOT_RECRUITING
-Primary completion: 2026-04
-  🔵 Primer registro en caché
-→ https://clinicaltrials.gov/study/NCT05535946
-
-[VKTX] 🟢 VENTURE-Oral Ph2 — VK2735 oral — obesidad ✅ COMPLETADO positivo ago2025 · Ph3 oral en preparación
-NCT: NCT06828055 | Status: COMPLETED
-Primary completion: 2025-06-24
-→ https://clinicaltrials.gov/study/NCT06828055
-
-[INSM] 🟢 ASPEN Ph3 — brensocatib — bronchiectasis ✅ APROBADO ago2025 (BRINSUPRI)
-NCT: NCT04594369 | Status: COMPLETED
-Primary completion: 2024-10-28
-→ https://clinicaltrials.gov/study/NCT04594369
-
-[ALNY] 🔵 cAPPricorn-1 Ph2 — mivelsiran — CAA (cerebral amyloid angiopathy) · 200 pac.
-NCT: NCT06393712 | Status: RECRUITING
-Primary completion: 2027-08-09
-  🔵 Primer registro en caché
-→ https://clinicaltrials.gov/study/NCT06393712
-
-----------------------------------------------------------------------------
+------------------------------------------------------------------------------------
 DETALLE POR EMPRESA
-----------------------------------------------------------------------------
+------------------------------------------------------------------------------------
 
-🔵 [DYN]
-  🔵 DELIVER Ph1/2 registracional — z-rostudirsen — DMD exon 51 · BLA en revisión FDA | Validación: OK
-     NCT: NCT05524883 | Status: Activo, sin reclutamiento
-     Sponsor: Dyne Therapeutics
-     Phase: PHASE1, PHASE2
-     Enrollment: 86
-     Primary completion: 2029-11 ESTIMATED
-     Study completion: 2029-11 ESTIMATED
-     Last update posted: 2025-08-13
-     → https://clinicaltrials.gov/study/NCT05524883
-  🔵 ACHIEVE Ph1/2 registracional — z-basivarsen — DM1 · Accel. Approval Q1 2027 | Validación: OK
-     NCT: NCT05481879 | Status: Reclutando
-     Sponsor: Dyne Therapeutics
-     Phase: PHASE1, PHASE2
-     Enrollment: 116
-     Primary completion: 2029-07 ESTIMATED
-     Study completion: 2029-07 ESTIMATED
-     Last update posted: 2026-05-12
-     → https://clinicaltrials.gov/study/NCT05481879
-  🔵 HARMONIA Ph3 — z-basivarsen — DM1 confirmatorio · primary 2028 | Validación: OK
-     NCT: NCT07486934 | Status: Reclutando
-     Sponsor: Dyne Therapeutics
-     Phase: PHASE3
-     Enrollment: 150
-     Primary completion: 2028-07 ESTIMATED
-     Study completion: 2029-01 ESTIMATED
-     Last update posted: 2026-06-01
-     → https://clinicaltrials.gov/study/NCT07486934
-
-🔵 [OCUL]
-  🔵 SOL-1 Ph3 superioridad — AXPAXLI — wet AMD ✅ datos feb2026 · NDA inminente | Validación: OK
-     NCT: NCT06223958 | Status: Activo, sin reclutamiento
-     Sponsor: Ocular Therapeutix, Inc.
-     Phase: PHASE3
-     Enrollment: 344
-     Primary completion: 2026-04-29 ESTIMATED
-     Study completion: 2027-09-27 ESTIMATED
-     Last update posted: 2025-04-18
-     → https://clinicaltrials.gov/study/NCT06223958
-  🔵 SOL-R Ph3 no inferioridad — AXPAXLI — wet AMD · datos Q1 2027 | Validación: OK
-     NCT: NCT06495918 | Status: Activo, sin reclutamiento
-     Sponsor: Ocular Therapeutix, Inc.
-     Phase: PHASE3
-     Enrollment: 825
-     Primary completion: 2027-01-08 ESTIMATED
-     Study completion: 2027-01-08 ESTIMATED
-     Last update posted: 2025-06-17
-     → https://clinicaltrials.gov/study/NCT06495918
-
-🔵 [TARA]
-  🔵 ADVANCED-2 Ph2 — TARA-002 — NMIBC BCG-naïve/unresponsive CIS | Validación: OK
-     NCT: NCT05951179 | Status: Reclutando
-     Sponsor: Protara Therapeutics
-     Phase: PHASE2
-     Enrollment: 131
-     Primary completion: 2031-10 ESTIMATED
-     Study completion: 2032-03 ESTIMATED
-     Last update posted: 2026-05-18
-     → https://clinicaltrials.gov/study/NCT05951179
-
-🟢 [ABVX]
-  🟢 ABTECT-1 Ph3 inducción — obefazimod — UC ✅ COMPLETADO positivo | Validación: OK
-     NCT: NCT05507203 | Status: Ensayo completado
-     Sponsor: Abivax S.A.
-     Phase: PHASE3
-     Enrollment: 639
-     Primary completion: 2025-06-24 ACTUAL
-     Study completion: 2025-06-25 ACTUAL
-     Last update posted: 2025-10-24
-     → https://clinicaltrials.gov/study/NCT05507203
-  🟢 ABTECT-2 Ph3 inducción AT-failure — obefazimod — UC ✅ COMPLETADO positivo | Validación: OK
-     NCT: NCT05507216 | Status: Ensayo completado
-     Sponsor: Abivax S.A.
-     Phase: PHASE3
-     Enrollment: 636
-     Primary completion: 2025-06-24 ACTUAL
-     Study completion: 2025-07-15 ACTUAL
-     Last update posted: 2025-10-24
-     → https://clinicaltrials.gov/study/NCT05507216
-  🔵 ABTECT mantenimiento 44sem — obefazimod (ABX464-107) — UC ✅ DATOS POSITIVOS 1 jun 2026 · NDA Q4 2026 | Validación: OK
-     NCT: NCT05535946 | Status: Activo, sin reclutamiento
-     Sponsor: Abivax S.A.
-     Phase: PHASE3
-     Enrollment: 1116
-     Primary completion: 2026-04 ESTIMATED
-     Study completion: 2030-05 ESTIMATED
-     Last update posted: 2025-10-24
-     → https://clinicaltrials.gov/study/NCT05535946
-
-🔵 [VERA]
-  🔵 ORIGIN 3 Ph3 — atacicept — IgAN · PDUFA 7 jul 2026 🔴 INMINENTE | Validación: OK
-     NCT: NCT04716231 | Status: Activo, sin reclutamiento
-     Sponsor: Vera Therapeutics, Inc.
-     Phase: PHASE3
-     Enrollment: 376
-     Primary completion: 2025-05-15 ACTUAL
-     Study completion: 2028-07 ESTIMATED
-     Last update posted: 2025-09-30
-     → https://clinicaltrials.gov/study/NCT04716231
-
-🔵 [SNDX]
-  🔵 AUGMENT-101 Ph1/2 — revumenib — KMT2Ar/NPM1m R/R leukemia (base comercial) | Validación: OK
-     NCT: NCT04065399 | Status: Reclutando
-     Sponsor: Syndax Pharmaceuticals
-     Phase: PHASE1, PHASE2
-     Enrollment: 447
-     Primary completion: 2027-12-15 ESTIMATED
-     Study completion: 2027-12-15 ESTIMATED
-     Last update posted: 2026-03-18
-     → https://clinicaltrials.gov/study/NCT04065399
-  🔵 REVEAL Ph3 — revumenib — NPM1m AML frontline · primary 2029 | Validación: OK
-     NCT: NCT07211958 | Status: Reclutando
-     Sponsor: Syndax Pharmaceuticals
-     Phase: PHASE3
-     Enrollment: 468
-     Primary completion: 2029-06 ESTIMATED
-     Study completion: 2031-01 ESTIMATED
-     Last update posted: 2026-05-20
-     → https://clinicaltrials.gov/study/NCT07211958
-
-🟢 [VKTX]
-  🔵 VANQUISH-1 Ph3 — VK2735 SC — obesidad sin T2D · 4.500 pac. · datos 2027 | Validación: OK
-     NCT: NCT07104500 | Status: Activo, sin reclutamiento
-     Sponsor: Viking Therapeutics, Inc.
-     Phase: PHASE3
-     Enrollment: 4500
-     Primary completion: 2027-07-01 ESTIMATED
-     Study completion: 2027-08-01 ESTIMATED
-     Last update posted: 2025-11-24
-     → https://clinicaltrials.gov/study/NCT07104500
-  🔵 VANQUISH-2 Ph3 — VK2735 SC — obesidad + T2D · 1.100 pac. · datos 2027 | Validación: OK
-     NCT: NCT07104383 | Status: Activo, sin reclutamiento
-     Sponsor: Viking Therapeutics, Inc.
-     Phase: PHASE3
-     Enrollment: 1100
-     Primary completion: 2027-07-01 ESTIMATED
-     Study completion: 2027-08-01 ESTIMATED
-     Last update posted: 2026-04-07
-     → https://clinicaltrials.gov/study/NCT07104383
-  🟢 VENTURE-Oral Ph2 — VK2735 oral — obesidad ✅ COMPLETADO positivo ago2025 · Ph3 oral en preparación | Validación: OK
-     NCT: NCT06828055 | Status: Ensayo completado
-     Sponsor: Viking Therapeutics, Inc.
-     Phase: PHASE2
-     Enrollment: 280
-     Primary completion: 2025-06-24 ACTUAL
-     Study completion: 2025-08-15 ACTUAL
-     Last update posted: 2025-10-06
-     → https://clinicaltrials.gov/study/NCT06828055
-
-🔵 [BEAM]
-  🔵 BEACON Ph1/2 — risto-cel (BEAM-101) — SCD · RMAT · BLA fin 2026 | Validación: OK
-     NCT: NCT05456880 | Status: Activo, sin reclutamiento
-     Sponsor: Beam Therapeutics Inc.
-     Phase: PHASE1, PHASE2
-     Enrollment: 15
-     Primary completion: 2028-02 ESTIMATED
-     Study completion: 2028-02 ESTIMATED
-     Last update posted: 2025-12-16
-     → https://clinicaltrials.gov/study/NCT05456880
-  🔵 Ph1/2 — BEAM-302 — AATD · primera corrección genética in vivo · RMAT may2025 | Validación: OK
-     NCT: NCT06389877 | Status: Reclutando
-     Sponsor: Beam Therapeutics Inc.
-     Phase: PHASE1, PHASE2
-     Enrollment: 106
-     Primary completion: 2028-05 ESTIMATED
-     Study completion: 2030-05 ESTIMATED
-     Last update posted: 2026-03-20
-     → https://clinicaltrials.gov/study/NCT06389877
-
-🔵 [ACRV]
-  🔵 Ph1b/2 registracional — ACR-368 + OncoSignature — endometrio/ovario · primary 2027 | Validación: OK
-     NCT: NCT05548296 | Status: Reclutando
-     Sponsor: Acrivon Therapeutics
-     Phase: PHASE2
-     Enrollment: 350
-     Primary completion: 2027-05-30 ESTIMATED
-     Study completion: 2027-11-30 ESTIMATED
-     Last update posted: 2026-06-15
-     → https://clinicaltrials.gov/study/NCT05548296
-
-🔵 [GPCR]
-  🔵 GLOW Ph2b — aleniglipron oral GLP-1 — obesidad · primario oct2025 · datos 44sem inminentes | Validación: OK
-     NCT: NCT06693843 | Status: Activo, sin reclutamiento
-     Sponsor: Gasherbrum Bio, Inc., a wholly owned subsidiary of Structure Therapeutics
-     Phase: PHASE2
-     Enrollment: 220
-     Primary completion: 2025-10-24 ACTUAL
-     Study completion: 2026-08 ESTIMATED
-     Last update posted: 2026-04-28
-     → https://clinicaltrials.gov/study/NCT06693843
-
-🟢 [INSM]
-  🟢 ASPEN Ph3 — brensocatib — bronchiectasis ✅ APROBADO ago2025 (BRINSUPRI) | Validación: OK
-     NCT: NCT04594369 | Status: Ensayo completado
-     Sponsor: Insmed Incorporated
-     Phase: PHASE3
-     Enrollment: 1767
-     Primary completion: 2024-10-28 ACTUAL
-     Study completion: 2024-10-28 ACTUAL
-     Last update posted: 2025-12-16
-     → https://clinicaltrials.gov/study/NCT04594369
-
-🟡 [ARGX]
-  🔵 ADAPT OCULUS Ph3 — efgartigimod SC — ocular MG ✅ datos positivos feb2026 · sBLA planeado | Validación: OK
-     NCT: NCT06558279 | Status: Activo, sin reclutamiento
+🟡 [ARGX] · Score relevancia: 37
+  🟡 ⭐⭐⭐ ADAPT OCULUS Ph3 — efgartigimod SC — ocular MG | Prioridad: alta | Validación: OK
+     NCT: NCT06558279 | Status: Activo, sin reclutamiento | Tipo: pivotal
+     Catalizador: sBLA / expansión indicación | Ventana: 2026
      Sponsor: argenx
      Phase: PHASE3
      Enrollment: 141
@@ -256,8 +19,9 @@ DETALLE POR EMPRESA
      Study completion: 2027-12 ESTIMATED
      Last update posted: 2025-12-15
      → https://clinicaltrials.gov/study/NCT06558279
-  🔵 ADAPT SERON Ph3 — efgartigimod IV — seronegative gMG · Priority Review PDUFA may2026 | Validación: OK
-     NCT: NCT06298552 | Status: Activo, sin reclutamiento
+  🟡 ⭐⭐⭐ ADAPT SERON Ph3 — efgartigimod IV — seronegative gMG | Prioridad: alta | Validación: OK
+     NCT: NCT06298552 | Status: Activo, sin reclutamiento | Tipo: regulatorio
+     Catalizador: PDUFA / expansión gMG | Ventana: 2026
      Sponsor: argenx
      Phase: PHASE3
      Enrollment: 119
@@ -265,8 +29,9 @@ DETALLE POR EMPRESA
      Study completion: 2027-06 ESTIMATED
      Last update posted: 2025-11-05
      → https://clinicaltrials.gov/study/NCT06298552
-  🔵 UNITY Ph3 — efgartigimod SC — Sjögren's Disease · primary 2027 | Validación: OK
-     NCT: NCT06684847 | Status: Activo, sin reclutamiento
+  🔵 ⭐⭐ UNITY Ph3 — efgartigimod SC — Sjögren's Disease | Prioridad: media | Validación: OK
+     NCT: NCT06684847 | Status: Activo, sin reclutamiento | Tipo: pivotal
+     Catalizador: datos Phase 3 | Ventana: 2027
      Sponsor: argenx
      Phase: PHASE3
      Enrollment: 631
@@ -274,26 +39,9 @@ DETALLE POR EMPRESA
      Study completion: 2028-07 ESTIMATED
      Last update posted: 2026-04-16
      → https://clinicaltrials.gov/study/NCT06684847
-  🔵 advance NEXT Ph3 — efgartigimod IV — ITP expansión indicación | Validación: OK
-     NCT: NCT06544499 | Status: Reclutando
-     Sponsor: argenx
-     Phase: PHASE3
-     Enrollment: 69
-     Primary completion: 2028-06 ESTIMATED
-     Study completion: 2028-06 ESTIMATED
-     Last update posted: 2026-05-01
-     → https://clinicaltrials.gov/study/NCT06544499
-  🟡 VitaliThy Ph3 (A) — efgartigimod SC — Graves' Disease · inicio jun2026 | Validación: OK
-     NCT: NCT07596849 | Status: Aún no recluta
-     Sponsor: argenx
-     Phase: PHASE3
-     Enrollment: 230
-     Primary completion: 2028-06 ESTIMATED
-     Study completion: 2030-05 ESTIMATED
-     Last update posted: 2026-05-19
-     → https://clinicaltrials.gov/study/NCT07596849
-  🔵 EMPASSION Ph3 — empasiprubart vs IVIg — MMN · primary 2027 | Validación: OK
-     NCT: NCT06742190 | Status: Activo, sin reclutamiento
+  🔵 ⭐⭐ EMPASSION Ph3 — empasiprubart vs IVIg — MMN | Prioridad: media | Validación: OK
+     NCT: NCT06742190 | Status: Activo, sin reclutamiento | Tipo: pivotal
+     Catalizador: datos Phase 3 | Ventana: 2026-2027
      Sponsor: argenx
      Phase: PHASE3
      Enrollment: 154
@@ -301,8 +49,9 @@ DETALLE POR EMPRESA
      Study completion: 2029-12 ESTIMATED
      Last update posted: 2026-05-20
      → https://clinicaltrials.gov/study/NCT06742190
-  🔵 emvigorate Ph3 — empasiprubart vs IVIg — CIDP head-to-head | Validación: OK
-     NCT: NCT06920004 | Status: Reclutando
+  🔵 ⭐⭐ emvigorate Ph3 — empasiprubart vs IVIg — CIDP head-to-head | Prioridad: media | Validación: OK
+     NCT: NCT06920004 | Status: Reclutando | Tipo: pivotal
+     Catalizador: datos Phase 3 | Ventana: 2027-2030
      Sponsor: argenx
      Phase: PHASE3
      Enrollment: 218
@@ -311,9 +60,282 @@ DETALLE POR EMPRESA
      Last update posted: 2026-06-12
      → https://clinicaltrials.gov/study/NCT06920004
 
-🔵 [DNLI]
-  🔵 COMPASS Ph2/3 confirmatorio — tividenofusp alfa (AVLAYAH) — Hunter MPS II | Validación: OK
-     NCT: NCT05371613 | Status: Reclutando
+🟡 [DYN] · Score relevancia: 29
+  🟡 ⭐⭐⭐ DELIVER Ph1/2 registracional — z-rostudirsen — DMD exon 51 · BLA en revisión FDA | Prioridad: alta | Validación: OK
+     NCT: NCT05524883 | Status: Activo, sin reclutamiento | Tipo: registracional
+     Catalizador: BLA / posible aprobación acelerada | Ventana: 2026-2027
+     Sponsor: Dyne Therapeutics
+     Phase: PHASE1, PHASE2
+     Enrollment: 86
+     Primary completion: 2029-11 ESTIMATED
+     Study completion: 2029-11 ESTIMATED
+     Last update posted: 2025-08-13
+     → https://clinicaltrials.gov/study/NCT05524883
+  🟡 ⭐⭐⭐ ACHIEVE Ph1/2 registracional — z-basivarsen — DM1 · Accel. Approval Q1 2027 | Prioridad: alta | Validación: OK
+     NCT: NCT05481879 | Status: Reclutando | Tipo: registracional
+     Catalizador: posible aprobación acelerada | Ventana: 2027
+     Sponsor: Dyne Therapeutics
+     Phase: PHASE1, PHASE2
+     Enrollment: 116
+     Primary completion: 2029-07 ESTIMATED
+     Study completion: 2029-07 ESTIMATED
+     Last update posted: 2026-05-12
+     → https://clinicaltrials.gov/study/NCT05481879
+  🟡 ⭐⭐⭐ HARMONIA Ph3 — z-basivarsen — DM1 confirmatorio · primary 2028 | Prioridad: alta | Validación: OK
+     NCT: NCT07486934 | Status: Reclutando | Tipo: pivotal
+     Catalizador: confirmatorio Phase 3 | Ventana: 2028
+     Sponsor: Dyne Therapeutics
+     Phase: PHASE3
+     Enrollment: 150
+     Primary completion: 2028-07 ESTIMATED
+     Study completion: 2029-01 ESTIMATED
+     Last update posted: 2026-06-01
+     → https://clinicaltrials.gov/study/NCT07486934
+
+🟢 [VKTX] · Score relevancia: 29
+  🟡 ⭐⭐⭐ VANQUISH-1 Ph3 — VK2735 SC — obesidad sin T2D | Prioridad: alta | Validación: OK
+     NCT: NCT07104500 | Status: Activo, sin reclutamiento | Tipo: pivotal
+     Catalizador: datos Phase 3 obesidad | Ventana: 2027
+     Sponsor: Viking Therapeutics, Inc.
+     Phase: PHASE3
+     Enrollment: 4500
+     Primary completion: 2027-07-01 ESTIMATED
+     Study completion: 2027-08-01 ESTIMATED
+     Last update posted: 2025-11-24
+     → https://clinicaltrials.gov/study/NCT07104500
+  🟡 ⭐⭐⭐ VANQUISH-2 Ph3 — VK2735 SC — obesidad + T2D | Prioridad: alta | Validación: OK
+     NCT: NCT07104383 | Status: Activo, sin reclutamiento | Tipo: pivotal
+     Catalizador: datos Phase 3 obesidad/T2D | Ventana: 2027
+     Sponsor: Viking Therapeutics, Inc.
+     Phase: PHASE3
+     Enrollment: 1100
+     Primary completion: 2027-07-01 ESTIMATED
+     Study completion: 2027-08-01 ESTIMATED
+     Last update posted: 2026-04-07
+     → https://clinicaltrials.gov/study/NCT07104383
+  🟢 ⭐⭐⭐ VENTURE-Oral Ph2 — VK2735 oral — obesidad | Prioridad: alta | Validación: OK
+     NCT: NCT06828055 | Status: Ensayo completado | Tipo: phase2_oral
+     Catalizador: transición a Phase 3 oral | Ventana: 2026-2027
+     Sponsor: Viking Therapeutics, Inc.
+     Phase: PHASE2
+     Enrollment: 280
+     Primary completion: 2025-06-24 ACTUAL
+     Study completion: 2025-08-15 ACTUAL
+     Last update posted: 2025-10-06
+     → https://clinicaltrials.gov/study/NCT06828055
+
+🟢 [ABVX] · Score relevancia: 28
+  🟡 ⭐⭐⭐ ABTECT mantenimiento 44sem — obefazimod (ABX464-107) — UC | Prioridad: alta | Validación: OK
+     NCT: NCT05535946 | Status: Activo, sin reclutamiento | Tipo: pivotal_mantenimiento
+     Catalizador: datos mantenimiento / NDA | Ventana: 2026
+     Sponsor: Abivax S.A.
+     Phase: PHASE3
+     Enrollment: 1116
+     Primary completion: 2026-04 ESTIMATED
+     Study completion: 2030-05 ESTIMATED
+     Last update posted: 2025-10-24
+     → https://clinicaltrials.gov/study/NCT05535946
+  🟢 ⭐⭐⭐ ABTECT-1 Ph3 inducción — obefazimod — UC | Prioridad: alta | Validación: OK
+     NCT: NCT05507203 | Status: Ensayo completado | Tipo: pivotal
+     Catalizador: datos Phase 3 / paquete NDA | Ventana: 2026
+     Sponsor: Abivax S.A.
+     Phase: PHASE3
+     Enrollment: 639
+     Primary completion: 2025-06-24 ACTUAL
+     Study completion: 2025-06-25 ACTUAL
+     Last update posted: 2025-10-24
+     → https://clinicaltrials.gov/study/NCT05507203
+  🟢 ⭐⭐⭐ ABTECT-2 Ph3 inducción AT-failure — obefazimod — UC | Prioridad: alta | Validación: OK
+     NCT: NCT05507216 | Status: Ensayo completado | Tipo: pivotal
+     Catalizador: datos Phase 3 / paquete NDA | Ventana: 2026
+     Sponsor: Abivax S.A.
+     Phase: PHASE3
+     Enrollment: 636
+     Primary completion: 2025-06-24 ACTUAL
+     Study completion: 2025-07-15 ACTUAL
+     Last update posted: 2025-10-24
+     → https://clinicaltrials.gov/study/NCT05507216
+
+🟡 [ALNY] · Score relevancia: 28
+  🟡 ⭐⭐⭐ TRITON-CM Ph3 — nucresiran — ATTR-CM | Prioridad: alta | Validación: OK
+     NCT: NCT07052903 | Status: Reclutando | Tipo: pivotal
+     Catalizador: ATTR-CM Phase 3 | Ventana: 2030
+     Sponsor: Alnylam Pharmaceuticals
+     Phase: PHASE3
+     Enrollment: 1250
+     Primary completion: 2030-05-28 ESTIMATED
+     Study completion: 2032-11-30 ESTIMATED
+     Last update posted: 2026-06-12
+     → https://clinicaltrials.gov/study/NCT07052903
+  🔵 ⭐⭐ ZENITH Ph3 CVOT — zilebesiran — hipertensión | Prioridad: media | Validación: OK
+     NCT: NCT07181109 | Status: Reclutando | Tipo: cvot
+     Catalizador: CVOT / MACE endpoint | Ventana: 2030
+     Sponsor: Alnylam Pharmaceuticals
+     Phase: PHASE3
+     Enrollment: 11000
+     Primary completion: 2030-09-30 ESTIMATED
+     Study completion: 2030-09-30 ESTIMATED
+     Last update posted: 2026-06-12
+     → https://clinicaltrials.gov/study/NCT07181109
+  🔵 ⭐⭐ TRITON-PN Ph3 — nucresiran — hATTR-PN | Prioridad: media | Validación: OK
+     NCT: NCT07223203 | Status: Reclutando | Tipo: pivotal
+     Catalizador: hATTR-PN Phase 3 | Ventana: 2027-2031
+     Sponsor: Alnylam Pharmaceuticals
+     Phase: PHASE3
+     Enrollment: 125
+     Primary completion: 2027-12-27 ESTIMATED
+     Study completion: 2031-06-12 ESTIMATED
+     Last update posted: 2026-06-12
+     → https://clinicaltrials.gov/study/NCT07223203
+  🔵 ⭐⭐ cAPPricorn-1 Ph2 — mivelsiran — CAA | Prioridad: media | Validación: OK
+     NCT: NCT06393712 | Status: Reclutando | Tipo: phase2
+     Catalizador: datos Phase 2 CNS | Ventana: 2027-2029
+     Sponsor: Alnylam Pharmaceuticals
+     Phase: PHASE2
+     Enrollment: 200
+     Primary completion: 2027-08-09 ESTIMATED
+     Study completion: 2029-12-14 ESTIMATED
+     Last update posted: 2026-06-12
+     → https://clinicaltrials.gov/study/NCT06393712
+
+🟡 [VRTX] · Score relevancia: 24
+  🟡 ⭐⭐⭐ RAINIER Ph3 — povetacicept — IgAN | Prioridad: alta | Validación: OK
+     NCT: NCT06564142 | Status: Activo, sin reclutamiento | Tipo: pivotal
+     Catalizador: BLA / datos Phase 3 | Ventana: 2028
+     Sponsor: Alpine Immune Sciences Inc, A Subsidiary of Vertex
+     Phase: PHASE3
+     Enrollment: 605
+     Primary completion: 2028-01-30 ESTIMATED
+     Study completion: 2028-01-30 ESTIMATED
+     Last update posted: 2026-05-15
+     → https://clinicaltrials.gov/study/NCT06564142
+  🟡 ⭐⭐⭐ AMPLITUDE Ph2/3 — inaxaplin (VX-147) — AMKD | Prioridad: alta | Validación: OK
+     NCT: NCT05312879 | Status: Reclutando | Tipo: pivotal
+     Catalizador: interim analysis / breakthrough | Ventana: 2026-2028
+     Sponsor: Vertex Pharmaceuticals Incorporated
+     Phase: PHASE2, PHASE3
+     Enrollment: 466
+     Primary completion: 2028-06-02 ESTIMATED
+     Study completion: 2030-05-07 ESTIMATED
+     Last update posted: 2026-06-02
+     → https://clinicaltrials.gov/study/NCT05312879
+  🟡 ⭐⭐⭐ FORWARD-101 Ph1/2/3 — zimislecel (VX-880) — T1D | Prioridad: alta | Validación: OK
+     NCT: NCT04786262 | Status: Reclutando | Tipo: cell_therapy
+     Catalizador: datos Phase 3 | Ventana: 2026-2030
+     Sponsor: Vertex Pharmaceuticals Incorporated
+     Phase: PHASE3
+     Enrollment: 52
+     Primary completion: 2027-06-30 ESTIMATED
+     Study completion: 2030-06-30 ESTIMATED
+     Last update posted: 2026-03-17
+     → https://clinicaltrials.gov/study/NCT04786262
+
+🟡 [OCUL] · Score relevancia: 19
+  🟡 ⭐⭐⭐ SOL-1 Ph3 superioridad — AXPAXLI — wet AMD · NDA inminente | Prioridad: alta | Validación: OK
+     NCT: NCT06223958 | Status: Activo, sin reclutamiento | Tipo: pivotal
+     Catalizador: NDA / datos SOL-1 | Ventana: 2026
+     Sponsor: Ocular Therapeutix, Inc.
+     Phase: PHASE3
+     Enrollment: 344
+     Primary completion: 2026-04-29 ESTIMATED
+     Study completion: 2027-09-27 ESTIMATED
+     Last update posted: 2025-04-18
+     → https://clinicaltrials.gov/study/NCT06223958
+  🟡 ⭐⭐⭐ SOL-R Ph3 no inferioridad — AXPAXLI — wet AMD · datos Q1 2027 | Prioridad: alta | Validación: OK
+     NCT: NCT06495918 | Status: Activo, sin reclutamiento | Tipo: pivotal
+     Catalizador: datos SOL-R | Ventana: 2027
+     Sponsor: Ocular Therapeutix, Inc.
+     Phase: PHASE3
+     Enrollment: 825
+     Primary completion: 2027-01-08 ESTIMATED
+     Study completion: 2027-01-08 ESTIMATED
+     Last update posted: 2025-06-17
+     → https://clinicaltrials.gov/study/NCT06495918
+
+🟡 [SNDX] · Score relevancia: 16
+  🟡 ⭐⭐⭐ AUGMENT-101 Ph1/2 — revumenib — KMT2Ar/NPM1m R/R leukemia | Prioridad: alta | Validación: OK
+     NCT: NCT04065399 | Status: Reclutando | Tipo: base_comercial
+     Catalizador: expansión etiqueta / ventas | Ventana: 2026-2027
+     Sponsor: Syndax Pharmaceuticals
+     Phase: PHASE1, PHASE2
+     Enrollment: 447
+     Primary completion: 2027-12-15 ESTIMATED
+     Study completion: 2027-12-15 ESTIMATED
+     Last update posted: 2026-03-18
+     → https://clinicaltrials.gov/study/NCT04065399
+  🟡 ⭐⭐⭐ REVEAL Ph3 — revumenib — NPM1m AML frontline | Prioridad: alta | Validación: OK
+     NCT: NCT07211958 | Status: Reclutando | Tipo: pivotal
+     Catalizador: frontline AML | Ventana: 2029
+     Sponsor: Syndax Pharmaceuticals
+     Phase: PHASE3
+     Enrollment: 468
+     Primary completion: 2029-06 ESTIMATED
+     Study completion: 2031-01 ESTIMATED
+     Last update posted: 2026-05-20
+     → https://clinicaltrials.gov/study/NCT07211958
+
+🟡 [BEAM] · Score relevancia: 14
+  🟡 ⭐⭐⭐ BEACON Ph1/2 — risto-cel (BEAM-101) — SCD | Prioridad: alta | Validación: OK
+     NCT: NCT05456880 | Status: Activo, sin reclutamiento | Tipo: registracional
+     Catalizador: BLA / RMAT | Ventana: 2026-2028
+     Sponsor: Beam Therapeutics Inc.
+     Phase: PHASE1, PHASE2
+     Enrollment: 15
+     Primary completion: 2028-02 ESTIMATED
+     Study completion: 2028-02 ESTIMATED
+     Last update posted: 2025-12-16
+     → https://clinicaltrials.gov/study/NCT05456880
+  🔵 ⭐⭐ Ph1/2 — BEAM-302 — AATD | Prioridad: media | Validación: OK
+     NCT: NCT06389877 | Status: Reclutando | Tipo: phase1_2
+     Catalizador: datos tempranos | Ventana: 2026-2028
+     Sponsor: Beam Therapeutics Inc.
+     Phase: PHASE1, PHASE2
+     Enrollment: 106
+     Primary completion: 2028-05 ESTIMATED
+     Study completion: 2030-05 ESTIMATED
+     Last update posted: 2026-03-20
+     → https://clinicaltrials.gov/study/NCT06389877
+
+🟡 [VERA] · Score relevancia: 10
+  🟡 ⭐⭐⭐ ORIGIN 3 Ph3 — atacicept — IgAN · PDUFA inminente | Prioridad: alta | Validación: OK
+     NCT: NCT04716231 | Status: Activo, sin reclutamiento | Tipo: regulatorio
+     Catalizador: PDUFA / aprobación | Ventana: 2026
+     Sponsor: Vera Therapeutics, Inc.
+     Phase: PHASE3
+     Enrollment: 376
+     Primary completion: 2025-05-15 ACTUAL
+     Study completion: 2028-07 ESTIMATED
+     Last update posted: 2025-09-30
+     → https://clinicaltrials.gov/study/NCT04716231
+
+🟡 [TARA] · Score relevancia: 9
+  🟡 ⭐⭐⭐ ADVANCED-2 Ph2 — TARA-002 — NMIBC BCG-naïve/unresponsive CIS | Prioridad: alta | Validación: OK
+     NCT: NCT05951179 | Status: Reclutando | Tipo: phase2_registracional
+     Catalizador: datos ADVANCED-2 | Ventana: 2026-2027
+     Sponsor: Protara Therapeutics
+     Phase: PHASE2
+     Enrollment: 131
+     Primary completion: 2031-10 ESTIMATED
+     Study completion: 2032-03 ESTIMATED
+     Last update posted: 2026-05-18
+     → https://clinicaltrials.gov/study/NCT05951179
+
+🟡 [GPCR] · Score relevancia: 9
+  🟡 ⭐⭐⭐ GLOW Ph2b — aleniglipron oral GLP-1 — obesidad | Prioridad: alta | Validación: OK
+     NCT: NCT06693843 | Status: Activo, sin reclutamiento | Tipo: phase2b
+     Catalizador: datos 44 semanas / paso a Phase 3 | Ventana: 2026
+     Sponsor: Gasherbrum Bio, Inc., a wholly owned subsidiary of Structure Therapeutics
+     Phase: PHASE2
+     Enrollment: 220
+     Primary completion: 2025-10-24 ACTUAL
+     Study completion: 2026-08 ESTIMATED
+     Last update posted: 2026-04-28
+     → https://clinicaltrials.gov/study/NCT06693843
+
+🟡 [DNLI] · Score relevancia: 9
+  🟡 ⭐⭐⭐ COMPASS Ph2/3 — tividenofusp alfa (DNL310) — Hunter MPS II | Prioridad: alta | Validación: OK
+     NCT: NCT05371613 | Status: Reclutando | Tipo: pivotal
+     Catalizador: Phase 2/3 / posible aprobación | Ventana: 2027
      Sponsor: Denali Therapeutics Inc.
      Phase: PHASE2, PHASE3
      Enrollment: 63
@@ -322,112 +344,34 @@ DETALLE POR EMPRESA
      Last update posted: 2025-08-05
      → https://clinicaltrials.gov/study/NCT05371613
 
-🟡 [ALNY]
-  🔵 ZENITH Ph3 CVOT — zilebesiran — hipertensión · 11.000 pac. co-Roche · MACE endpoint | Validación: OK
-     NCT: NCT07181109 | Status: Reclutando
-     Sponsor: Alnylam Pharmaceuticals
-     Phase: PHASE3
-     Enrollment: 11000
-     Primary completion: 2030-09-30 ESTIMATED
-     Study completion: 2030-09-30 ESTIMATED
-     Last update posted: 2026-06-12
-     → https://clinicaltrials.gov/study/NCT07181109
-  🔵 TRITON-CM Ph3 CVOT — nucresiran — ATTR-CM · 1.750 pac. · lanzamiento ~2030 | Validación: OK
-     NCT: NCT07052903 | Status: Reclutando
-     Sponsor: Alnylam Pharmaceuticals
-     Phase: PHASE3
-     Enrollment: 1250
-     Primary completion: 2030-05-28 ESTIMATED
-     Study completion: 2032-11-30 ESTIMATED
-     Last update posted: 2026-06-12
-     → https://clinicaltrials.gov/study/NCT07052903
-  🔵 TRITON-PN Ph3 — nucresiran — hATTR-PN vs vutrisiran · 125 pac. | Validación: OK
-     NCT: NCT07223203 | Status: Reclutando
-     Sponsor: Alnylam Pharmaceuticals
-     Phase: PHASE3
-     Enrollment: 125
-     Primary completion: 2027-12-27 ESTIMATED
-     Study completion: 2031-06-12 ESTIMATED
-     Last update posted: 2026-06-12
-     → https://clinicaltrials.gov/study/NCT07223203
-  🔵 cAPPricorn-1 Ph2 — mivelsiran — CAA (cerebral amyloid angiopathy) · 200 pac. | Validación: OK
-     NCT: NCT06393712 | Status: Reclutando
-     Sponsor: Alnylam Pharmaceuticals
+🟡 [ACRV] · Score relevancia: 8
+  🟡 ⭐⭐⭐ Ph1b/2 registracional — ACR-368 + OncoSignature — endometrio/ovario | Prioridad: alta | Validación: OK
+     NCT: NCT05548296 | Status: Reclutando | Tipo: phase2_registracional
+     Catalizador: datos registracionales / biomarcador | Ventana: 2027
+     Sponsor: Acrivon Therapeutics
      Phase: PHASE2
-     Enrollment: 200
-     Primary completion: 2027-08-09 ESTIMATED
-     Study completion: 2029-12-14 ESTIMATED
-     Last update posted: 2026-06-12
-     → https://clinicaltrials.gov/study/NCT06393712
-  🟡 Ph2 — mivelsiran — Alzheimer's Disease (Down syndrome-associated) · inicio jul2026 | Validación: OK
-     NCT: NCT07636811 | Status: Aún no recluta
-     Sponsor: Alnylam Pharmaceuticals
-     Phase: PHASE2
-     Enrollment: 58
-     Primary completion: 2030-05-18 ESTIMATED
-     Study completion: 2031-07-23 ESTIMATED
-     Last update posted: 2026-06-09
-     → https://clinicaltrials.gov/study/NCT07636811
-
-🔵 [VRTX]
-  🔵 RAINIER Ph3 — povetacicept — IgAN · BLA rolling review · datos W36 positivos mar2026 | Validación: OK
-     NCT: NCT06564142 | Status: Activo, sin reclutamiento
-     Sponsor: Alpine Immune Sciences Inc, A Subsidiary of Vertex
-     Phase: PHASE3
-     Enrollment: 605
-     Primary completion: 2028-01-30 ESTIMATED
-     Study completion: 2028-01-30 ESTIMATED
-     Last update posted: 2026-05-15
-     → https://clinicaltrials.gov/study/NCT06564142
-  🔵 OLYMPUS Ph2b/3 — povetacicept — pMN (membranous nephropathy) · pivotal | Validación: OK
-     NCT: NCT07204275 | Status: Reclutando
-     Sponsor: Vertex Pharmaceuticals Incorporated
-     Phase: PHASE2, PHASE3
-     Enrollment: 176
-     Primary completion: 2028-12-29 ESTIMATED
-     Study completion: 2028-12-29 ESTIMATED
-     Last update posted: 2026-06-05
-     → https://clinicaltrials.gov/study/NCT07204275
-  🔵 AMPLITUDE Ph2/3 — inaxaplin (VX-147) — AMKD · IA datos fin2026 · Breakthrough Therapy | Validación: OK
-     NCT: NCT05312879 | Status: Reclutando
-     Sponsor: Vertex Pharmaceuticals Incorporated
-     Phase: PHASE2, PHASE3
-     Enrollment: 466
-     Primary completion: 2028-06-02 ESTIMATED
-     Study completion: 2030-05-07 ESTIMATED
-     Last update posted: 2026-06-02
-     → https://clinicaltrials.gov/study/NCT05312879
-  🔵 FORWARD-101 Ph1/2/3 — zimislecel (VX-880) — T1D islet cell · NEJM jun2025 · datos Ph3 2026 | Validación: OK
-     NCT: NCT04786262 | Status: Reclutando
-     Sponsor: Vertex Pharmaceuticals Incorporated
-     Phase: PHASE3
-     Enrollment: 52
-     Primary completion: 2027-06-30 ESTIMATED
-     Study completion: 2030-06-30 ESTIMATED
-     Last update posted: 2026-03-17
-     → https://clinicaltrials.gov/study/NCT04786262
-  🔵 Ph3 DPN (1) — suzetrigine (JOURNAVX) — dolor neuropático diabético · primary 2027 | Validación: OK
-     NCT: NCT06628908 | Status: Reclutando
-     Sponsor: Vertex Pharmaceuticals Incorporated
-     Phase: PHASE3
-     Enrollment: 1100
-     Primary completion: 2027-05-31 ESTIMATED
-     Study completion: 2027-05-31 ESTIMATED
+     Enrollment: 350
+     Primary completion: 2027-05-30 ESTIMATED
+     Study completion: 2027-11-30 ESTIMATED
      Last update posted: 2026-06-15
-     → https://clinicaltrials.gov/study/NCT06628908
-  🔵 Ph3 DPN (2) — suzetrigine (JOURNAVX) — dolor neuropático diabético · inicio nov2025 | Validación: OK
-     NCT: NCT07231419 | Status: Reclutando
-     Sponsor: Vertex Pharmaceuticals Incorporated
-     Phase: PHASE3
-     Enrollment: 734
-     Primary completion: 2027-04-06 ESTIMATED
-     Study completion: 2027-04-06 ESTIMATED
-     Last update posted: 2026-05-19
-     → https://clinicaltrials.gov/study/NCT07231419
+     → https://clinicaltrials.gov/study/NCT05548296
 
-🔵 [SENS]
-  🔵 ENHANCE — Eversense 365 CGM 1 año implantable ✅ COMPLETADO · FDA cleared sep2024 | Validación: OK
-     NCT: NCT05131139 | Status: Estado: UNKNOWN
+🟢 [INSM] · Score relevancia: 6
+  🟢 ⭐⭐ ASPEN Ph3 — brensocatib — bronchiectasis | Prioridad: media | Validación: OK
+     NCT: NCT04594369 | Status: Ensayo completado | Tipo: aprobado
+     Catalizador: comercialización / label | Ventana: 2026
+     Sponsor: Insmed Incorporated
+     Phase: PHASE3
+     Enrollment: 1767
+     Primary completion: 2024-10-28 ACTUAL
+     Study completion: 2024-10-28 ACTUAL
+     Last update posted: 2025-12-16
+     → https://clinicaltrials.gov/study/NCT04594369
+
+🔵 [SENS] · Score relevancia: 5
+  🔵 ⭐⭐ ENHANCE — Eversense 365 CGM | Prioridad: media | Validación: OK
+     NCT: NCT05131139 | Status: Estado: UNKNOWN | Tipo: device
+     Catalizador: FDA / comercialización | Ventana: 2026
      Sponsor: Senseonics, Inc.
      Phase: NA
      Enrollment: 350
@@ -436,8 +380,6 @@ DETALLE POR EMPRESA
      Last update posted: 2023-04-26
      → https://clinicaltrials.gov/study/NCT05131139
 
-👁️  WATCHLIST: 9 ensayos monitorizados sin cambios
-
-============================================================================
+====================================================================================
 Fuente: ClinicalTrials.gov API v2
-============================================================================
+====================================================================================

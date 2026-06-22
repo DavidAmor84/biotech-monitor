@@ -1063,6 +1063,7 @@ function updatePrices(){
     btn.textContent = "🔄 Actualizar precios";
     totAct = DATA.reduce(function(s,d){return s+d.cant*d.pa;},0);
     render();
+    buildWatchlist();
   });
 }
 

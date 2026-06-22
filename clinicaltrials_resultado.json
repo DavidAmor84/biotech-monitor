@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "21/06/2026 18:02",
-  "fecha": "2026-06-21",
+  "generado": "22/06/2026 20:15",
+  "fecha": "2026-06-22",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -11,8 +11,8 @@
     "validacion_error": 0,
     "alertas_rojas": 0,
     "alertas_verdes": 4,
-    "alertas_amarillas": 22,
-    "alertas_azules": 8,
+    "alertas_amarillas": 0,
+    "alertas_azules": 30,
     "errores": 0
   },
   "empresas": {
@@ -73,16 +73,9 @@
           "ventana": "2026-2027",
           "monitorizar": true,
           "peso_importancia": 10,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Prioridad: — → alta"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         },
         {
@@ -140,16 +133,9 @@
           "ventana": "2027",
           "monitorizar": true,
           "peso_importancia": 10,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Prioridad: — → alta"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         },
         {
@@ -212,21 +198,14 @@
           "ventana": "2028",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Prioridad: — → alta"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         }
       ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "score_relevancia": 29
     },
     "OCUL": {
@@ -291,16 +270,9 @@
           "ventana": "2026",
           "monitorizar": true,
           "peso_importancia": 10,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Prioridad: — → alta"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         },
         {
@@ -364,21 +336,14 @@
           "ventana": "2027",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Prioridad: — → alta"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         }
       ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "score_relevancia": 19
     },
     "TARA": {
@@ -438,21 +403,14 @@
           "ventana": "2026-2027",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Prioridad: — → alta"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         }
       ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "score_relevancia": 9
     },
     "ABVX": {
@@ -512,14 +470,7 @@
           "ventana": "2026",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Prioridad: — → alta"
-            }
-          ],
+          "cambios": [],
           "nivel": "verde",
           "badge": "🟢",
           "error": null
@@ -579,14 +530,7 @@
           "ventana": "2026",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Prioridad: — → alta"
-            }
-          ],
+          "cambios": [],
           "nivel": "verde",
           "badge": "🟢",
           "error": null
@@ -646,16 +590,9 @@
           "ventana": "2026",
           "monitorizar": true,
           "peso_importancia": 10,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Prioridad: — → alta"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         }
       ],
@@ -721,21 +658,14 @@
           "ventana": "2026",
           "monitorizar": true,
           "peso_importancia": 10,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Prioridad: — → alta"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         }
       ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "score_relevancia": 10
     },
     "SNDX": {
@@ -803,16 +733,9 @@
           "ventana": "2026-2027",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Prioridad: — → alta"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         },
         {
@@ -871,21 +794,14 @@
           "ventana": "2029",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Prioridad: — → alta"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         }
       ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "score_relevancia": 16
     },
     "VKTX": {
@@ -945,16 +861,9 @@
           "ventana": "2027",
           "monitorizar": true,
           "peso_importancia": 10,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Prioridad: — → alta"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         },
         {
@@ -1013,16 +922,9 @@
           "ventana": "2027",
           "monitorizar": true,
           "peso_importancia": 10,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Prioridad: — → alta"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         },
         {
@@ -1081,14 +983,7 @@
           "ventana": "2026-2027",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Prioridad: — → alta"
-            }
-          ],
+          "cambios": [],
           "nivel": "verde",
           "badge": "🟢",
           "error": null
@@ -1153,16 +1048,9 @@
           "ventana": "2026-2028",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Prioridad: — → alta"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         },
         {
@@ -1220,21 +1108,14 @@
           "ventana": "2026-2028",
           "monitorizar": true,
           "peso_importancia": 6,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Prioridad: — → media"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
         }
       ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "score_relevancia": 14
     },
     "ACRV": {
@@ -1299,21 +1180,14 @@
           "ventana": "2027",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Prioridad: — → alta"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         }
       ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "score_relevancia": 8
     },
     "GPCR": {
@@ -1380,21 +1254,14 @@
           "ventana": "2026",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Prioridad: — → alta"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         }
       ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "score_relevancia": 9
     },
     "INSM": {
@@ -1453,14 +1320,7 @@
           "ventana": "2026",
           "monitorizar": true,
           "peso_importancia": 6,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Prioridad: — → media"
-            }
-          ],
+          "cambios": [],
           "nivel": "verde",
           "badge": "🟢",
           "error": null
@@ -1529,16 +1389,9 @@
           "ventana": "2026",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Prioridad: — → alta"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         },
         {
@@ -1601,16 +1454,9 @@
           "ventana": "2026",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Prioridad: — → alta"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         },
         {
@@ -1669,14 +1515,7 @@
           "ventana": "2027",
           "monitorizar": true,
           "peso_importancia": 7,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Prioridad: — → media"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1738,14 +1577,7 @@
           "ventana": "2026-2027",
           "monitorizar": true,
           "peso_importancia": 7,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Prioridad: — → media"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1808,21 +1640,14 @@
           "ventana": "2027-2030",
           "monitorizar": true,
           "peso_importancia": 7,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Prioridad: — → media"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
         }
       ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "score_relevancia": 37
     },
     "DNLI": {
@@ -1884,21 +1709,14 @@
           "ventana": "2027",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Prioridad: — → alta"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         }
       ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "score_relevancia": 9
     },
     "ALNY": {
@@ -1961,14 +1779,7 @@
           "ventana": "2030",
           "monitorizar": true,
           "peso_importancia": 7,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Prioridad: — → media"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2029,16 +1840,9 @@
           "ventana": "2030",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Prioridad: — → alta"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         },
         {
@@ -2098,14 +1902,7 @@
           "ventana": "2027-2031",
           "monitorizar": true,
           "peso_importancia": 7,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Prioridad: — → media"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2166,21 +1963,14 @@
           "ventana": "2027-2029",
           "monitorizar": true,
           "peso_importancia": 6,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Prioridad: — → media"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
         }
       ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "score_relevancia": 28
     },
     "VRTX": {
@@ -2240,16 +2030,9 @@
           "ventana": "2028",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Prioridad: — → alta"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         },
         {
@@ -2307,16 +2090,9 @@
           "ventana": "2026-2028",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Prioridad: — → alta"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         },
         {
@@ -2374,21 +2150,14 @@
           "ventana": "2026-2030",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Prioridad: — → alta"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         }
       ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "score_relevancia": 24
     },
     "SENS": {
@@ -2448,14 +2217,7 @@
           "ventana": "2026",
           "monitorizar": true,
           "peso_importancia": 5,
-          "cambios": [
-            {
-              "tipo": "prioridad",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Prioridad: — → media"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2471,8 +2233,8 @@
       "ticker": "DYN",
       "nct": "NCT05524883",
       "nombre": "DELIVER Ph1/2 registracional — z-rostudirsen — DMD exon 51 · BLA en revisión FDA",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "ACTIVE_NOT_RECRUITING",
       "primary_completion_date": "2029-11",
       "mensaje": "Activo, sin reclutamiento",
@@ -2484,22 +2246,15 @@
       "peso_importancia": 10,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Prioridad: — → alta"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT05524883"
     },
     {
       "ticker": "DYN",
       "nct": "NCT05481879",
       "nombre": "ACHIEVE Ph1/2 registracional — z-basivarsen — DM1 · Accel. Approval Q1 2027",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "RECRUITING",
       "primary_completion_date": "2029-07",
       "mensaje": "Reclutando",
@@ -2511,22 +2266,15 @@
       "peso_importancia": 10,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Prioridad: — → alta"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT05481879"
     },
     {
       "ticker": "DYN",
       "nct": "NCT07486934",
       "nombre": "HARMONIA Ph3 — z-basivarsen — DM1 confirmatorio · primary 2028",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "RECRUITING",
       "primary_completion_date": "2028-07",
       "mensaje": "Reclutando",
@@ -2538,22 +2286,15 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Prioridad: — → alta"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT07486934"
     },
     {
       "ticker": "OCUL",
       "nct": "NCT06223958",
       "nombre": "SOL-1 Ph3 superioridad — AXPAXLI — wet AMD · NDA inminente",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "ACTIVE_NOT_RECRUITING",
       "primary_completion_date": "2026-04-29",
       "mensaje": "Activo, sin reclutamiento",
@@ -2565,22 +2306,15 @@
       "peso_importancia": 10,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Prioridad: — → alta"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT06223958"
     },
     {
       "ticker": "OCUL",
       "nct": "NCT06495918",
       "nombre": "SOL-R Ph3 no inferioridad — AXPAXLI — wet AMD · datos Q1 2027",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "ACTIVE_NOT_RECRUITING",
       "primary_completion_date": "2027-01-08",
       "mensaje": "Activo, sin reclutamiento",
@@ -2592,22 +2326,15 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Prioridad: — → alta"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT06495918"
     },
     {
       "ticker": "TARA",
       "nct": "NCT05951179",
       "nombre": "ADVANCED-2 Ph2 — TARA-002 — NMIBC BCG-naïve/unresponsive CIS",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "RECRUITING",
       "primary_completion_date": "2031-10",
       "mensaje": "Reclutando",
@@ -2619,14 +2346,7 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Prioridad: — → alta"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT05951179"
     },
     {
@@ -2646,14 +2366,7 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Prioridad: — → alta"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT05507203"
     },
     {
@@ -2673,22 +2386,15 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Prioridad: — → alta"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT05507216"
     },
     {
       "ticker": "ABVX",
       "nct": "NCT05535946",
       "nombre": "ABTECT mantenimiento 44sem — obefazimod (ABX464-107) — UC",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "ACTIVE_NOT_RECRUITING",
       "primary_completion_date": "2026-04",
       "mensaje": "Activo, sin reclutamiento",
@@ -2700,22 +2406,15 @@
       "peso_importancia": 10,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Prioridad: — → alta"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT05535946"
     },
     {
       "ticker": "VERA",
       "nct": "NCT04716231",
       "nombre": "ORIGIN 3 Ph3 — atacicept — IgAN · PDUFA inminente",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "ACTIVE_NOT_RECRUITING",
       "primary_completion_date": "2025-05-15",
       "mensaje": "Activo, sin reclutamiento",
@@ -2727,22 +2426,15 @@
       "peso_importancia": 10,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Prioridad: — → alta"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT04716231"
     },
     {
       "ticker": "SNDX",
       "nct": "NCT04065399",
       "nombre": "AUGMENT-101 Ph1/2 — revumenib — KMT2Ar/NPM1m R/R leukemia",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "RECRUITING",
       "primary_completion_date": "2027-12-15",
       "mensaje": "Reclutando",
@@ -2754,22 +2446,15 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Prioridad: — → alta"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT04065399"
     },
     {
       "ticker": "SNDX",
       "nct": "NCT07211958",
       "nombre": "REVEAL Ph3 — revumenib — NPM1m AML frontline",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "RECRUITING",
       "primary_completion_date": "2029-06",
       "mensaje": "Reclutando",
@@ -2781,22 +2466,15 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Prioridad: — → alta"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT07211958"
     },
     {
       "ticker": "VKTX",
       "nct": "NCT07104500",
       "nombre": "VANQUISH-1 Ph3 — VK2735 SC — obesidad sin T2D",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "ACTIVE_NOT_RECRUITING",
       "primary_completion_date": "2027-07-01",
       "mensaje": "Activo, sin reclutamiento",
@@ -2808,22 +2486,15 @@
       "peso_importancia": 10,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Prioridad: — → alta"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT07104500"
     },
     {
       "ticker": "VKTX",
       "nct": "NCT07104383",
       "nombre": "VANQUISH-2 Ph3 — VK2735 SC — obesidad + T2D",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "ACTIVE_NOT_RECRUITING",
       "primary_completion_date": "2027-07-01",
       "mensaje": "Activo, sin reclutamiento",
@@ -2835,14 +2506,7 @@
       "peso_importancia": 10,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Prioridad: — → alta"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT07104383"
     },
     {
@@ -2862,22 +2526,15 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Prioridad: — → alta"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT06828055"
     },
     {
       "ticker": "BEAM",
       "nct": "NCT05456880",
       "nombre": "BEACON Ph1/2 — risto-cel (BEAM-101) — SCD",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "ACTIVE_NOT_RECRUITING",
       "primary_completion_date": "2028-02",
       "mensaje": "Activo, sin reclutamiento",
@@ -2889,49 +2546,15 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Prioridad: — → alta"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT05456880"
-    },
-    {
-      "ticker": "BEAM",
-      "nct": "NCT06389877",
-      "nombre": "Ph1/2 — BEAM-302 — AATD",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2028-05",
-      "mensaje": "Reclutando",
-      "prioridad": "media",
-      "estrellas": "⭐⭐",
-      "tipo": "phase1_2",
-      "catalizador": "datos tempranos",
-      "ventana": "2026-2028",
-      "peso_importancia": 6,
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Prioridad: — → media"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06389877"
     },
     {
       "ticker": "ACRV",
       "nct": "NCT05548296",
       "nombre": "Ph1b/2 registracional — ACR-368 + OncoSignature — endometrio/ovario",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "RECRUITING",
       "primary_completion_date": "2027-05-30",
       "mensaje": "Reclutando",
@@ -2943,22 +2566,15 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Prioridad: — → alta"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT05548296"
     },
     {
       "ticker": "GPCR",
       "nct": "NCT06693843",
       "nombre": "GLOW Ph2b — aleniglipron oral GLP-1 — obesidad",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "ACTIVE_NOT_RECRUITING",
       "primary_completion_date": "2025-10-24",
       "mensaje": "Activo, sin reclutamiento",
@@ -2970,14 +2586,7 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Prioridad: — → alta"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT06693843"
     },
     {
@@ -2997,22 +2606,15 @@
       "peso_importancia": 6,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Prioridad: — → media"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT04594369"
     },
     {
       "ticker": "ARGX",
       "nct": "NCT06558279",
       "nombre": "ADAPT OCULUS Ph3 — efgartigimod SC — ocular MG",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "ACTIVE_NOT_RECRUITING",
       "primary_completion_date": "2026-01",
       "mensaje": "Activo, sin reclutamiento",
@@ -3024,22 +2626,15 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Prioridad: — → alta"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT06558279"
     },
     {
       "ticker": "ARGX",
       "nct": "NCT06298552",
       "nombre": "ADAPT SERON Ph3 — efgartigimod IV — seronegative gMG",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "ACTIVE_NOT_RECRUITING",
       "primary_completion_date": "2025-06-30",
       "mensaje": "Activo, sin reclutamiento",
@@ -3051,103 +2646,15 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Prioridad: — → alta"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT06298552"
-    },
-    {
-      "ticker": "ARGX",
-      "nct": "NCT06684847",
-      "nombre": "UNITY Ph3 — efgartigimod SC — Sjögren's Disease",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "primary_completion_date": "2027-07",
-      "mensaje": "Activo, sin reclutamiento",
-      "prioridad": "media",
-      "estrellas": "⭐⭐",
-      "tipo": "pivotal",
-      "catalizador": "datos Phase 3",
-      "ventana": "2027",
-      "peso_importancia": 7,
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Prioridad: — → media"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06684847"
-    },
-    {
-      "ticker": "ARGX",
-      "nct": "NCT06742190",
-      "nombre": "EMPASSION Ph3 — empasiprubart vs IVIg — MMN",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "primary_completion_date": "2026-09",
-      "mensaje": "Activo, sin reclutamiento",
-      "prioridad": "media",
-      "estrellas": "⭐⭐",
-      "tipo": "pivotal",
-      "catalizador": "datos Phase 3",
-      "ventana": "2026-2027",
-      "peso_importancia": 7,
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Prioridad: — → media"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06742190"
-    },
-    {
-      "ticker": "ARGX",
-      "nct": "NCT06920004",
-      "nombre": "emvigorate Ph3 — empasiprubart vs IVIg — CIDP head-to-head",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2027-09",
-      "mensaje": "Reclutando",
-      "prioridad": "media",
-      "estrellas": "⭐⭐",
-      "tipo": "pivotal",
-      "catalizador": "datos Phase 3",
-      "ventana": "2027-2030",
-      "peso_importancia": 7,
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Prioridad: — → media"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06920004"
     },
     {
       "ticker": "DNLI",
       "nct": "NCT05371613",
       "nombre": "COMPASS Ph2/3 — tividenofusp alfa (DNL310) — Hunter MPS II",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "RECRUITING",
       "primary_completion_date": "2027-12",
       "mensaje": "Reclutando",
@@ -3159,49 +2666,15 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Prioridad: — → alta"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT05371613"
-    },
-    {
-      "ticker": "ALNY",
-      "nct": "NCT07181109",
-      "nombre": "ZENITH Ph3 CVOT — zilebesiran — hipertensión",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2030-09-30",
-      "mensaje": "Reclutando",
-      "prioridad": "media",
-      "estrellas": "⭐⭐",
-      "tipo": "cvot",
-      "catalizador": "CVOT / MACE endpoint",
-      "ventana": "2030",
-      "peso_importancia": 7,
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Prioridad: — → media"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07181109"
     },
     {
       "ticker": "ALNY",
       "nct": "NCT07052903",
       "nombre": "TRITON-CM Ph3 — nucresiran — ATTR-CM",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "RECRUITING",
       "primary_completion_date": "2030-05-28",
       "mensaje": "Reclutando",
@@ -3213,76 +2686,15 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Prioridad: — → alta"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT07052903"
-    },
-    {
-      "ticker": "ALNY",
-      "nct": "NCT07223203",
-      "nombre": "TRITON-PN Ph3 — nucresiran — hATTR-PN",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2027-12-27",
-      "mensaje": "Reclutando",
-      "prioridad": "media",
-      "estrellas": "⭐⭐",
-      "tipo": "pivotal",
-      "catalizador": "hATTR-PN Phase 3",
-      "ventana": "2027-2031",
-      "peso_importancia": 7,
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Prioridad: — → media"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07223203"
-    },
-    {
-      "ticker": "ALNY",
-      "nct": "NCT06393712",
-      "nombre": "cAPPricorn-1 Ph2 — mivelsiran — CAA",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2027-08-09",
-      "mensaje": "Reclutando",
-      "prioridad": "media",
-      "estrellas": "⭐⭐",
-      "tipo": "phase2",
-      "catalizador": "datos Phase 2 CNS",
-      "ventana": "2027-2029",
-      "peso_importancia": 6,
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Prioridad: — → media"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06393712"
     },
     {
       "ticker": "VRTX",
       "nct": "NCT06564142",
       "nombre": "RAINIER Ph3 — povetacicept — IgAN",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "ACTIVE_NOT_RECRUITING",
       "primary_completion_date": "2028-01-30",
       "mensaje": "Activo, sin reclutamiento",
@@ -3294,22 +2706,15 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Prioridad: — → alta"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT06564142"
     },
     {
       "ticker": "VRTX",
       "nct": "NCT05312879",
       "nombre": "AMPLITUDE Ph2/3 — inaxaplin (VX-147) — AMKD",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "RECRUITING",
       "primary_completion_date": "2028-06-02",
       "mensaje": "Reclutando",
@@ -3321,22 +2726,15 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Prioridad: — → alta"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT05312879"
     },
     {
       "ticker": "VRTX",
       "nct": "NCT04786262",
       "nombre": "FORWARD-101 Ph1/2/3 — zimislecel (VX-880) — T1D",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "RECRUITING",
       "primary_completion_date": "2027-06-30",
       "mensaje": "Reclutando",
@@ -3348,42 +2746,8 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Prioridad: — → alta"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT04786262"
-    },
-    {
-      "ticker": "SENS",
-      "nct": "NCT05131139",
-      "nombre": "ENHANCE — Eversense 365 CGM",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "UNKNOWN",
-      "primary_completion_date": "2025-03-30",
-      "mensaje": "Estado: UNKNOWN",
-      "prioridad": "media",
-      "estrellas": "⭐⭐",
-      "tipo": "device",
-      "catalizador": "FDA / comercialización",
-      "ventana": "2026",
-      "peso_importancia": 5,
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "prioridad",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Prioridad: — → media"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT05131139"
     }
   ],
   "errores_validacion": []

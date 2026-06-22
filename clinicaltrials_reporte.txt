@@ -1,15 +1,15 @@
 ====================================================================================
 CLINICALTRIALS MONITOR v9.3 · Modelo Biotech
-Generado: 21/06/2026 18:02
+Generado: 22/06/2026 20:15
 ====================================================================================
-RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 4 | 🟡 22 | 🔵 8 | Errores API: 0
+RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 4 | 🟡 0 | 🔵 30 | Errores API: 0
 
 ------------------------------------------------------------------------------------
 DETALLE POR EMPRESA
 ------------------------------------------------------------------------------------
 
-🟡 [ARGX] · Score relevancia: 37
-  🟡 ⭐⭐⭐ ADAPT OCULUS Ph3 — efgartigimod SC — ocular MG | Prioridad: alta | Validación: OK
+🔵 [ARGX] · Score relevancia: 37
+  🔵 ⭐⭐⭐ ADAPT OCULUS Ph3 — efgartigimod SC — ocular MG | Prioridad: alta | Validación: OK
      NCT: NCT06558279 | Status: Activo, sin reclutamiento | Tipo: pivotal
      Catalizador: sBLA / expansión indicación | Ventana: 2026
      Sponsor: argenx
@@ -19,7 +19,7 @@ DETALLE POR EMPRESA
      Study completion: 2027-12 ESTIMATED
      Last update posted: 2025-12-15
      → https://clinicaltrials.gov/study/NCT06558279
-  🟡 ⭐⭐⭐ ADAPT SERON Ph3 — efgartigimod IV — seronegative gMG | Prioridad: alta | Validación: OK
+  🔵 ⭐⭐⭐ ADAPT SERON Ph3 — efgartigimod IV — seronegative gMG | Prioridad: alta | Validación: OK
      NCT: NCT06298552 | Status: Activo, sin reclutamiento | Tipo: regulatorio
      Catalizador: PDUFA / expansión gMG | Ventana: 2026
      Sponsor: argenx
@@ -60,8 +60,8 @@ DETALLE POR EMPRESA
      Last update posted: 2026-06-12
      → https://clinicaltrials.gov/study/NCT06920004
 
-🟡 [DYN] · Score relevancia: 29
-  🟡 ⭐⭐⭐ DELIVER Ph1/2 registracional — z-rostudirsen — DMD exon 51 · BLA en revisión FDA | Prioridad: alta | Validación: OK
+🔵 [DYN] · Score relevancia: 29
+  🔵 ⭐⭐⭐ DELIVER Ph1/2 registracional — z-rostudirsen — DMD exon 51 · BLA en revisión FDA | Prioridad: alta | Validación: OK
      NCT: NCT05524883 | Status: Activo, sin reclutamiento | Tipo: registracional
      Catalizador: BLA / posible aprobación acelerada | Ventana: 2026-2027
      Sponsor: Dyne Therapeutics
@@ -71,7 +71,7 @@ DETALLE POR EMPRESA
      Study completion: 2029-11 ESTIMATED
      Last update posted: 2025-08-13
      → https://clinicaltrials.gov/study/NCT05524883
-  🟡 ⭐⭐⭐ ACHIEVE Ph1/2 registracional — z-basivarsen — DM1 · Accel. Approval Q1 2027 | Prioridad: alta | Validación: OK
+  🔵 ⭐⭐⭐ ACHIEVE Ph1/2 registracional — z-basivarsen — DM1 · Accel. Approval Q1 2027 | Prioridad: alta | Validación: OK
      NCT: NCT05481879 | Status: Reclutando | Tipo: registracional
      Catalizador: posible aprobación acelerada | Ventana: 2027
      Sponsor: Dyne Therapeutics
@@ -81,7 +81,7 @@ DETALLE POR EMPRESA
      Study completion: 2029-07 ESTIMATED
      Last update posted: 2026-05-12
      → https://clinicaltrials.gov/study/NCT05481879
-  🟡 ⭐⭐⭐ HARMONIA Ph3 — z-basivarsen — DM1 confirmatorio · primary 2028 | Prioridad: alta | Validación: OK
+  🔵 ⭐⭐⭐ HARMONIA Ph3 — z-basivarsen — DM1 confirmatorio · primary 2028 | Prioridad: alta | Validación: OK
      NCT: NCT07486934 | Status: Reclutando | Tipo: pivotal
      Catalizador: confirmatorio Phase 3 | Ventana: 2028
      Sponsor: Dyne Therapeutics
@@ -93,7 +93,7 @@ DETALLE POR EMPRESA
      → https://clinicaltrials.gov/study/NCT07486934
 
 🟢 [VKTX] · Score relevancia: 29
-  🟡 ⭐⭐⭐ VANQUISH-1 Ph3 — VK2735 SC — obesidad sin T2D | Prioridad: alta | Validación: OK
+  🔵 ⭐⭐⭐ VANQUISH-1 Ph3 — VK2735 SC — obesidad sin T2D | Prioridad: alta | Validación: OK
      NCT: NCT07104500 | Status: Activo, sin reclutamiento | Tipo: pivotal
      Catalizador: datos Phase 3 obesidad | Ventana: 2027
      Sponsor: Viking Therapeutics, Inc.
@@ -103,7 +103,7 @@ DETALLE POR EMPRESA
      Study completion: 2027-08-01 ESTIMATED
      Last update posted: 2025-11-24
      → https://clinicaltrials.gov/study/NCT07104500
-  🟡 ⭐⭐⭐ VANQUISH-2 Ph3 — VK2735 SC — obesidad + T2D | Prioridad: alta | Validación: OK
+  🔵 ⭐⭐⭐ VANQUISH-2 Ph3 — VK2735 SC — obesidad + T2D | Prioridad: alta | Validación: OK
      NCT: NCT07104383 | Status: Activo, sin reclutamiento | Tipo: pivotal
      Catalizador: datos Phase 3 obesidad/T2D | Ventana: 2027
      Sponsor: Viking Therapeutics, Inc.
@@ -125,7 +125,7 @@ DETALLE POR EMPRESA
      → https://clinicaltrials.gov/study/NCT06828055
 
 🟢 [ABVX] · Score relevancia: 28
-  🟡 ⭐⭐⭐ ABTECT mantenimiento 44sem — obefazimod (ABX464-107) — UC | Prioridad: alta | Validación: OK
+  🔵 ⭐⭐⭐ ABTECT mantenimiento 44sem — obefazimod (ABX464-107) — UC | Prioridad: alta | Validación: OK
      NCT: NCT05535946 | Status: Activo, sin reclutamiento | Tipo: pivotal_mantenimiento
      Catalizador: datos mantenimiento / NDA | Ventana: 2026
      Sponsor: Abivax S.A.
@@ -156,8 +156,8 @@ DETALLE POR EMPRESA
      Last update posted: 2025-10-24
      → https://clinicaltrials.gov/study/NCT05507216
 
-🟡 [ALNY] · Score relevancia: 28
-  🟡 ⭐⭐⭐ TRITON-CM Ph3 — nucresiran — ATTR-CM | Prioridad: alta | Validación: OK
+🔵 [ALNY] · Score relevancia: 28
+  🔵 ⭐⭐⭐ TRITON-CM Ph3 — nucresiran — ATTR-CM | Prioridad: alta | Validación: OK
      NCT: NCT07052903 | Status: Reclutando | Tipo: pivotal
      Catalizador: ATTR-CM Phase 3 | Ventana: 2030
      Sponsor: Alnylam Pharmaceuticals
@@ -198,8 +198,8 @@ DETALLE POR EMPRESA
      Last update posted: 2026-06-12
      → https://clinicaltrials.gov/study/NCT06393712
 
-🟡 [VRTX] · Score relevancia: 24
-  🟡 ⭐⭐⭐ RAINIER Ph3 — povetacicept — IgAN | Prioridad: alta | Validación: OK
+🔵 [VRTX] · Score relevancia: 24
+  🔵 ⭐⭐⭐ RAINIER Ph3 — povetacicept — IgAN | Prioridad: alta | Validación: OK
      NCT: NCT06564142 | Status: Activo, sin reclutamiento | Tipo: pivotal
      Catalizador: BLA / datos Phase 3 | Ventana: 2028
      Sponsor: Alpine Immune Sciences Inc, A Subsidiary of Vertex
@@ -209,7 +209,7 @@ DETALLE POR EMPRESA
      Study completion: 2028-01-30 ESTIMATED
      Last update posted: 2026-05-15
      → https://clinicaltrials.gov/study/NCT06564142
-  🟡 ⭐⭐⭐ AMPLITUDE Ph2/3 — inaxaplin (VX-147) — AMKD | Prioridad: alta | Validación: OK
+  🔵 ⭐⭐⭐ AMPLITUDE Ph2/3 — inaxaplin (VX-147) — AMKD | Prioridad: alta | Validación: OK
      NCT: NCT05312879 | Status: Reclutando | Tipo: pivotal
      Catalizador: interim analysis / breakthrough | Ventana: 2026-2028
      Sponsor: Vertex Pharmaceuticals Incorporated
@@ -219,7 +219,7 @@ DETALLE POR EMPRESA
      Study completion: 2030-05-07 ESTIMATED
      Last update posted: 2026-06-02
      → https://clinicaltrials.gov/study/NCT05312879
-  🟡 ⭐⭐⭐ FORWARD-101 Ph1/2/3 — zimislecel (VX-880) — T1D | Prioridad: alta | Validación: OK
+  🔵 ⭐⭐⭐ FORWARD-101 Ph1/2/3 — zimislecel (VX-880) — T1D | Prioridad: alta | Validación: OK
      NCT: NCT04786262 | Status: Reclutando | Tipo: cell_therapy
      Catalizador: datos Phase 3 | Ventana: 2026-2030
      Sponsor: Vertex Pharmaceuticals Incorporated
@@ -230,8 +230,8 @@ DETALLE POR EMPRESA
      Last update posted: 2026-03-17
      → https://clinicaltrials.gov/study/NCT04786262
 
-🟡 [OCUL] · Score relevancia: 19
-  🟡 ⭐⭐⭐ SOL-1 Ph3 superioridad — AXPAXLI — wet AMD · NDA inminente | Prioridad: alta | Validación: OK
+🔵 [OCUL] · Score relevancia: 19
+  🔵 ⭐⭐⭐ SOL-1 Ph3 superioridad — AXPAXLI — wet AMD · NDA inminente | Prioridad: alta | Validación: OK
      NCT: NCT06223958 | Status: Activo, sin reclutamiento | Tipo: pivotal
      Catalizador: NDA / datos SOL-1 | Ventana: 2026
      Sponsor: Ocular Therapeutix, Inc.
@@ -241,7 +241,7 @@ DETALLE POR EMPRESA
      Study completion: 2027-09-27 ESTIMATED
      Last update posted: 2025-04-18
      → https://clinicaltrials.gov/study/NCT06223958
-  🟡 ⭐⭐⭐ SOL-R Ph3 no inferioridad — AXPAXLI — wet AMD · datos Q1 2027 | Prioridad: alta | Validación: OK
+  🔵 ⭐⭐⭐ SOL-R Ph3 no inferioridad — AXPAXLI — wet AMD · datos Q1 2027 | Prioridad: alta | Validación: OK
      NCT: NCT06495918 | Status: Activo, sin reclutamiento | Tipo: pivotal
      Catalizador: datos SOL-R | Ventana: 2027
      Sponsor: Ocular Therapeutix, Inc.
@@ -252,8 +252,8 @@ DETALLE POR EMPRESA
      Last update posted: 2025-06-17
      → https://clinicaltrials.gov/study/NCT06495918
 
-🟡 [SNDX] · Score relevancia: 16
-  🟡 ⭐⭐⭐ AUGMENT-101 Ph1/2 — revumenib — KMT2Ar/NPM1m R/R leukemia | Prioridad: alta | Validación: OK
+🔵 [SNDX] · Score relevancia: 16
+  🔵 ⭐⭐⭐ AUGMENT-101 Ph1/2 — revumenib — KMT2Ar/NPM1m R/R leukemia | Prioridad: alta | Validación: OK
      NCT: NCT04065399 | Status: Reclutando | Tipo: base_comercial
      Catalizador: expansión etiqueta / ventas | Ventana: 2026-2027
      Sponsor: Syndax Pharmaceuticals
@@ -263,7 +263,7 @@ DETALLE POR EMPRESA
      Study completion: 2027-12-15 ESTIMATED
      Last update posted: 2026-03-18
      → https://clinicaltrials.gov/study/NCT04065399
-  🟡 ⭐⭐⭐ REVEAL Ph3 — revumenib — NPM1m AML frontline | Prioridad: alta | Validación: OK
+  🔵 ⭐⭐⭐ REVEAL Ph3 — revumenib — NPM1m AML frontline | Prioridad: alta | Validación: OK
      NCT: NCT07211958 | Status: Reclutando | Tipo: pivotal
      Catalizador: frontline AML | Ventana: 2029
      Sponsor: Syndax Pharmaceuticals
@@ -274,8 +274,8 @@ DETALLE POR EMPRESA
      Last update posted: 2026-05-20
      → https://clinicaltrials.gov/study/NCT07211958
 
-🟡 [BEAM] · Score relevancia: 14
-  🟡 ⭐⭐⭐ BEACON Ph1/2 — risto-cel (BEAM-101) — SCD | Prioridad: alta | Validación: OK
+🔵 [BEAM] · Score relevancia: 14
+  🔵 ⭐⭐⭐ BEACON Ph1/2 — risto-cel (BEAM-101) — SCD | Prioridad: alta | Validación: OK
      NCT: NCT05456880 | Status: Activo, sin reclutamiento | Tipo: registracional
      Catalizador: BLA / RMAT | Ventana: 2026-2028
      Sponsor: Beam Therapeutics Inc.
@@ -296,8 +296,8 @@ DETALLE POR EMPRESA
      Last update posted: 2026-03-20
      → https://clinicaltrials.gov/study/NCT06389877
 
-🟡 [VERA] · Score relevancia: 10
-  🟡 ⭐⭐⭐ ORIGIN 3 Ph3 — atacicept — IgAN · PDUFA inminente | Prioridad: alta | Validación: OK
+🔵 [VERA] · Score relevancia: 10
+  🔵 ⭐⭐⭐ ORIGIN 3 Ph3 — atacicept — IgAN · PDUFA inminente | Prioridad: alta | Validación: OK
      NCT: NCT04716231 | Status: Activo, sin reclutamiento | Tipo: regulatorio
      Catalizador: PDUFA / aprobación | Ventana: 2026
      Sponsor: Vera Therapeutics, Inc.
@@ -308,8 +308,8 @@ DETALLE POR EMPRESA
      Last update posted: 2025-09-30
      → https://clinicaltrials.gov/study/NCT04716231
 
-🟡 [TARA] · Score relevancia: 9
-  🟡 ⭐⭐⭐ ADVANCED-2 Ph2 — TARA-002 — NMIBC BCG-naïve/unresponsive CIS | Prioridad: alta | Validación: OK
+🔵 [TARA] · Score relevancia: 9
+  🔵 ⭐⭐⭐ ADVANCED-2 Ph2 — TARA-002 — NMIBC BCG-naïve/unresponsive CIS | Prioridad: alta | Validación: OK
      NCT: NCT05951179 | Status: Reclutando | Tipo: phase2_registracional
      Catalizador: datos ADVANCED-2 | Ventana: 2026-2027
      Sponsor: Protara Therapeutics
@@ -320,8 +320,8 @@ DETALLE POR EMPRESA
      Last update posted: 2026-05-18
      → https://clinicaltrials.gov/study/NCT05951179
 
-🟡 [GPCR] · Score relevancia: 9
-  🟡 ⭐⭐⭐ GLOW Ph2b — aleniglipron oral GLP-1 — obesidad | Prioridad: alta | Validación: OK
+🔵 [GPCR] · Score relevancia: 9
+  🔵 ⭐⭐⭐ GLOW Ph2b — aleniglipron oral GLP-1 — obesidad | Prioridad: alta | Validación: OK
      NCT: NCT06693843 | Status: Activo, sin reclutamiento | Tipo: phase2b
      Catalizador: datos 44 semanas / paso a Phase 3 | Ventana: 2026
      Sponsor: Gasherbrum Bio, Inc., a wholly owned subsidiary of Structure Therapeutics
@@ -332,8 +332,8 @@ DETALLE POR EMPRESA
      Last update posted: 2026-04-28
      → https://clinicaltrials.gov/study/NCT06693843
 
-🟡 [DNLI] · Score relevancia: 9
-  🟡 ⭐⭐⭐ COMPASS Ph2/3 — tividenofusp alfa (DNL310) — Hunter MPS II | Prioridad: alta | Validación: OK
+🔵 [DNLI] · Score relevancia: 9
+  🔵 ⭐⭐⭐ COMPASS Ph2/3 — tividenofusp alfa (DNL310) — Hunter MPS II | Prioridad: alta | Validación: OK
      NCT: NCT05371613 | Status: Reclutando | Tipo: pivotal
      Catalizador: Phase 2/3 / posible aprobación | Ventana: 2027
      Sponsor: Denali Therapeutics Inc.
@@ -344,8 +344,8 @@ DETALLE POR EMPRESA
      Last update posted: 2025-08-05
      → https://clinicaltrials.gov/study/NCT05371613
 
-🟡 [ACRV] · Score relevancia: 8
-  🟡 ⭐⭐⭐ Ph1b/2 registracional — ACR-368 + OncoSignature — endometrio/ovario | Prioridad: alta | Validación: OK
+🔵 [ACRV] · Score relevancia: 8
+  🔵 ⭐⭐⭐ Ph1b/2 registracional — ACR-368 + OncoSignature — endometrio/ovario | Prioridad: alta | Validación: OK
      NCT: NCT05548296 | Status: Reclutando | Tipo: phase2_registracional
      Catalizador: datos registracionales / biomarcador | Ventana: 2027
      Sponsor: Acrivon Therapeutics

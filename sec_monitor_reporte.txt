@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 22/06/2026 19:56 | Período: últimos 7 días
-Desde: 2026-06-15 → Hasta: 2026-06-22
+Generado: 23/06/2026 13:53 | Período: últimos 7 días
+Desde: 2026-06-16 → Hasta: 2026-06-23
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 30 filings | 🔴 0 | 🟢 1 | 🟡 5 | 🔵 24 | ✅ 9 sin novedad
+RESUMEN: 39 filings | 🔴 0 | 🟢 1 | 🟡 7 | 🔵 31 | ✅ 8 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (1)
@@ -21,7 +21,12 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [SNDX] Sin novedades
   ✅ [ARGX] Sin novedades
 
-  🟡 [DYN] Dyne Therapeutics, Inc. — 4 filing(s)
+  🟡 [DYN] Dyne Therapeutics, Inc. — 6 filing(s)
+     🟡 MEDIA 8-K | 2026-06-22 | Item 5.02: Cambio directivo relevante [Items: 5.02]
+     → https://www.sec.gov/Archives/edgar/data/1818794/000181879426000005/dyn-20260622.htm
+     🟡 MEDIA 4 | 2026-06-22 | Kersten Dirk → Venta 37,454 acciones @ $20.14 | Post: 4,159,119 | Rutinaria/RSU/impuestos
+     Insider: Kersten Dirk → Venta 37,454 acciones @ $20.14 | Post: 4,159,119 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1818794/000119312526277529/xslF345X06/ownership.xml
      🟡 MEDIA 4 | 2026-06-17 | Kerr Douglas (Chief Medical Officer) → Venta 887 acciones @ $18.33 | Post: 169,155 | Rutinaria/RSU/impuestos
      Insider: Kerr Douglas (Chief Medical Officer) → Venta 887 acciones @ $18.33 | Post: 169,155 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1818794/000181418926000002/xslF345X06/ownership.xml
@@ -44,7 +49,11 @@ DETALLE POR TICKER — SEC EDGAR
      Insider: Bozic Carmen (EVP and CMO) → Venta 4,062 acciones @ $450.00 | Post: 16,953 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000235/xslF345X06/wk-form4_1781727153.xml
   ✅ [ALNY] Sin novedades
-  ✅ [BEAM] Sin novedades
+
+  🔵 [BEAM] Beam Therapeutics Inc. — 1 filing(s)
+     🔵 INFO 4 | 2026-06-22 | Ciaramella Giuseppe (President) → Ejercicio opción 6,505 acciones @ $0.67 | Post: 224,911 | Rutinaria/RSU/impuestos
+     Insider: Ciaramella Giuseppe (President) → Ejercicio opción 6,505 acciones @ $0.67 | Post: 224,911 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1745999/000119312526277509/xslF345X06/ownership.xml
 
   🔵 [OCUL] OCULAR THERAPEUTIX, INC — 1 filing(s)
      🔵 INFO 4 | 2026-06-18 | Dugel Pravin (Director / See Remarks) → Donación 50,092 acciones @ $0.00 | Post: 2,547,078
@@ -76,11 +85,32 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [ABVX] Sin novedades
   ✅ [VERA] Sin novedades
 
-  🔵 [ACRV] Acrivon Therapeutics, Inc. — 1 filing(s)
+  🔵 [ACRV] Acrivon Therapeutics, Inc. — 8 filing(s)
+     🔵 INFO 4 | 2026-06-22 | RA CAPITAL MANAGEMENT, L.P. → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
+     Insider: RA CAPITAL MANAGEMENT, L.P. → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000123191926000686/xslF345X06/form4-06222026_080632.xml
+     🔵 INFO 4 | 2026-06-22 | TOMSICEK MICHAEL JOHN → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
+     Insider: TOMSICEK MICHAEL JOHN → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003042/xslF345X06/form4.xml
+     🔵 INFO 4 | 2026-06-22 | Shacham Sharon → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
+     Insider: Shacham Sharon → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003041/xslF345X06/form4.xml
+     🔵 INFO 4 | 2026-06-22 | Palani Santhosh → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
+     Insider: Palani Santhosh → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003035/xslF345X06/form4.xml
+     🔵 INFO 4 | 2026-06-22 | Magovcevic-Liebisch Ivana → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
+     Insider: Magovcevic-Liebisch Ivana → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003034/xslF345X06/form4.xml
+     🔵 INFO 4 | 2026-06-22 | DiRocco Derek → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
+     Insider: DiRocco Derek → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003033/xslF345X06/form4.xml
+     🔵 INFO 4 | 2026-06-22 | BAUM CHARLES M → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
+     Insider: BAUM CHARLES M → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003024/xslF345X06/form4.xml
      🔵 INFO 8-K | 2026-06-17 | Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02, 5.07, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1781174/000119312526274410/acrv-20260617.htm
 
-  🔵 [TARA] Protara Therapeutics, Inc. — 9 filing(s)
+  🔵 [TARA] Protara Therapeutics, Inc. — 8 filing(s)
      🔵 INFO 4 | 2026-06-16 | Levy Richard S → Concesión 31,000 acciones @ $0.00 | Post: 31,000 | Rutinaria/RSU/impuestos
      Insider: Levy Richard S → Concesión 31,000 acciones @ $0.00 | Post: 31,000 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026069250/xslF345X06/marketforms-73187.xml
@@ -105,8 +135,6 @@ DETALLE POR TICKER — SEC EDGAR
      🔵 INFO 4 | 2026-06-16 | BESHAR LUKE M → Concesión 31,000 acciones @ $0.00 | Post: 31,000 | Rutinaria/RSU/impuestos
      Insider: BESHAR LUKE M → Concesión 31,000 acciones @ $0.00 | Post: 31,000 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026069243/xslF345X06/marketforms-73180.xml
-     🔵 INFO 8-K | 2026-06-15 | Item 5.07: Votación junta accionistas [Items: 5.07]
-     → https://www.sec.gov/Archives/edgar/data/1359931/000121390026068774/ea0294030-8k_protara.htm
 
   🔵 [SENS] Senseonics Holdings, Inc. — 6 filing(s)
      🔵 INFO 4 | 2026-06-17 | Kaufman Francine (Chief Medical Officer) → Retención impuestos 4,010 acciones @ $7.18 | Post: 177,057 | Rutinaria/RSU/impuestos

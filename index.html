@@ -748,25 +748,36 @@ function onMonitorLoaded(){
   buildWatchlist();
 }
 
+function urlSinCache(url){
+  var separador = url.indexOf("?") === -1 ? "?" : "&";
+  return url + separador + "t=" + Date.now();
+}
+
+function fetchJsonSinCache(url){
+  return fetch(urlSinCache(url), {
+    cache: "no-store",
+    headers: { "Cache-Control": "no-cache" }
+  }).then(function(r){
+    if(r.ok) return r.json();
+    throw new Error("No se pudo cargar " + url + " · HTTP " + r.status);
+  });
+}
+
 function fetchMonitores(){
-  // SEC EDGAR
-  fetch("https://davidamor84.github.io/biotech-monitor/sec_monitor_resultado.json")
-    .then(function(r){ if(r.ok) return r.json(); throw new Error(); })
+  // SEC EDGAR — anti-caché para evitar que GitHub Pages/navegador sirva JSON antiguo
+  fetchJsonSinCache("https://davidamor84.github.io/biotech-monitor/sec_monitor_resultado.json")
     .then(function(d){ secData=d; mostrarBanner(); onMonitorLoaded(); })
     .catch(function(){
-      fetch("sec_monitor_resultado.json")
-        .then(function(r){ if(r.ok) return r.json(); throw new Error(); })
+      fetchJsonSinCache("sec_monitor_resultado.json")
         .then(function(d){ secData=d; mostrarBanner(); onMonitorLoaded(); })
         .catch(function(){ onMonitorLoaded(); });
     });
 
-  // CLINICALTRIALS
-  fetch("https://davidamor84.github.io/biotech-monitor/clinicaltrials_resultado.json")
-    .then(function(r){ if(r.ok) return r.json(); throw new Error(); })
+  // CLINICALTRIALS — anti-caché para forzar siempre la versión más reciente
+  fetchJsonSinCache("https://davidamor84.github.io/biotech-monitor/clinicaltrials_resultado.json")
     .then(function(d){ ctData=d; onMonitorLoaded(); })
     .catch(function(){
-      fetch("clinicaltrials_resultado.json")
-        .then(function(r){ if(r.ok) return r.json(); throw new Error(); })
+      fetchJsonSinCache("clinicaltrials_resultado.json")
         .then(function(d){ ctData=d; onMonitorLoaded(); })
         .catch(function(){ onMonitorLoaded(); });
     });
@@ -1258,13 +1269,11 @@ function buildSecEdgar(){
       +'</label>'
       +'<div style="margin-top:12px;font-size:10px;color:#556688">O nombra el archivo <b>sec_monitor_resultado.json</b> y súbelo a Netlify</div>'
       +'</div>';
-    // Intentar cargar automáticamente desde GitHub Pages
-    fetch("https://davidamor84.github.io/biotech-monitor/sec_monitor_resultado.json")
-      .then(function(r){ if(r.ok) return r.json(); throw new Error("no found"); })
+    // Intentar cargar automáticamente desde GitHub Pages evitando caché
+    fetchJsonSinCache("https://davidamor84.github.io/biotech-monitor/sec_monitor_resultado.json")
       .then(function(d){ secData=d; buildSecEdgar(); mostrarBanner(); })
       .catch(function(){
-        fetch("sec_monitor_resultado.json")
-          .then(function(r){ if(r.ok) return r.json(); throw new Error("no found"); })
+        fetchJsonSinCache("sec_monitor_resultado.json")
           .then(function(d){ secData=d; buildSecEdgar(); mostrarBanner(); })
           .catch(function(){ });
       });

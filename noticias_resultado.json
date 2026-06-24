@@ -1,0 +1,630 @@
+{
+  "generado": "24/06/2026 10:13 UTC",
+  "plazo_horas": 72,
+  "desde": "2026-06-21",
+  "hasta": "2026-06-24",
+  "tickers": {
+    "SNDX": {
+      "nombre": "SNDX",
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
+    },
+    "ARGX": {
+      "nombre": "ARGX",
+      "noticias": [
+        {
+          "ticker": "ARGX",
+          "titulo": "argenx SE (ARGX) Discusses R&D Spotlight on Advancing FcRn Leadership in Autoimmune Myositis Transcript",
+          "resumen": "argenx SE (ARGX) Discusses R&D Spotlight on Advancing FcRn Leadership in Autoimmune Myositis June 23, 2026 2:00 PM EDTCompany ParticipantsBeth...",
+          "fuente": "SeekingAlpha",
+          "fecha": "24 Jun 2026 01:32 UTC",
+          "url": "https://finnhub.io/api/news?id=eb2377ef93e7897441553c5cd31549b51f9c6d0916268cdec56a76bf052dad1f",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ARGX",
+          "titulo": "argenx SE (ARGX) Discusses R&D Spotlight on Advancing FcRn Leadership in Autoimmune Myositis - Slideshow",
+          "resumen": "2026-06-23. The following slide deck was published by argenx SE in conjunction with this event.",
+          "fuente": "SeekingAlpha",
+          "fecha": "23 Jun 2026 17:33 UTC",
+          "url": "https://finnhub.io/api/news?id=f04ed3e9305d0507009a1dd87688d8642871a57f98ed8a4d19e132adbf31362d",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 2
+    },
+    "DYN": {
+      "nombre": "DYN",
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
+    },
+    "DNLI": {
+      "nombre": "DNLI",
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
+    },
+    "VKTX": {
+      "nombre": "VKTX",
+      "noticias": [
+        {
+          "ticker": "VKTX",
+          "titulo": "Chip Bloodbath Hits Nasdaq 100 As South Korea Plunges: Stock Market Today",
+          "resumen": "A global semiconductor sell-off hammered the Nasdaq on Tuesday, but a rotation into defensives and small caps kept the Dow green.",
+          "fuente": "Benzinga",
+          "fecha": "23 Jun 2026 12:45 UTC",
+          "url": "https://finnhub.io/api/news?id=f5b02fa4588be1ab5d66470a80e1a66276c92487186c7cad79742a80030094c3",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/06/23/Financial-Market-Crash-Concept-With-Red-.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
+    },
+    "VRTX": {
+      "nombre": "VRTX",
+      "noticias": [
+        {
+          "ticker": "VRTX",
+          "titulo": "Healthcare's Quiet Comeback: Innovation, Obesity Drugs And New Opportunities",
+          "resumen": "After lagging expectations during recent market volatility, the healthcare sector is showing signs of strength. TD Asset Management's Jacky He explains what's driving the sectorâs rebound.",
+          "fuente": "SeekingAlpha",
+          "fecha": "23 Jun 2026 14:50 UTC",
+          "url": "https://finnhub.io/api/news?id=6a016defe1b9dc53f0a16467941078ed767221dc5a1d439272f088d00e57048c",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2194222145/image_2194222145.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex Pharmaceuticals (VRTX) Stock After Strong Multi‑Year Run Is The Price Still Reasonable",
+          "resumen": "If you are wondering whether Vertex Pharmaceuticals is priced fairly after its recent run, a good starting point is understanding what the current share price implies about future expectations. The stock last closed at US$466.79, with returns of 3.0% over the past week, 7.4% over the past month, 3.2",
+          "fuente": "Yahoo",
+          "fecha": "23 Jun 2026 13:12 UTC",
+          "url": "https://finnhub.io/api/news?id=f4edb5917bb8a5297a6ee5ae6fe967df2df43b5324d397588ee440ab24e4425a",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Positive Pediatric CASGEVY Data Might Change The Case For Investing In Vertex Pharmaceuticals (VRTX)",
+          "resumen": "Vertex Pharmaceuticals recently reported Phase 3 data showing that its CRISPR-based therapy CASGEVY delivered strong clinical benefits and a consistent safety profile in children ages 5–11 with severe sickle cell disease and transfusion-dependent beta thalassemia, with all evaluable patients achievi",
+          "fuente": "Yahoo",
+          "fecha": "23 Jun 2026 12:08 UTC",
+          "url": "https://finnhub.io/api/news?id=736e533818ca750eccbea95344aec246aef570b83d9c5b45fdb4110d01859432",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex Pharmaceuticals (NASDAQ:VRTX): A GARP Growth Stock with Reasonable Valuation and Strong Fundamentals",
+          "resumen": "Vertex Pharmaceuticals (VRTX) fits the GARP strategy with a Growth Rating of 7, reasonable valuation below industry peers, strong profitability, and zero debt, making it a compelling growth-at-a-reasonable-price candidate.",
+          "fuente": "ChartMill",
+          "fecha": "23 Jun 2026 11:30 UTC",
+          "url": "https://finnhub.io/api/news?id=2e537296495676e7e9129ba974d1a66699556185dc39d75aa97ea4e70171a72e",
+          "imagen": "https://www.chartmill.com/images/uploads/Affordable_Growth_500_264px_webp_add6a3aa59.webp",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Moderna: The Comeback Is Now In Full Swing",
+          "resumen": "Moderna, Inc. shifts beyond Covid with mRNA vaccines like mFlusiva, combo shots, and oncology catalysts. Click for more on MRNA stock prospects.",
+          "fuente": "SeekingAlpha",
+          "fecha": "23 Jun 2026 08:21 UTC",
+          "url": "https://finnhub.io/api/news?id=d9e536315b97c3074e2a19053e6928ca3cc7f6cc86cc2c744f0b11afce046908",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1928832415/image_1928832415.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 5
+    },
+    "ALNY": {
+      "nombre": "ALNY",
+      "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam Pharmaceuticals, Inc. (ALNY) and GENESIS Pharma Expand Commercial Partnership",
+          "resumen": "Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) is one of the 12 Best AI Drug Discovery Stocks Hedge Funds Are Loading Up On. On June 10, GENESIS Pharma said it expanded its commercial partnership with Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) to include Denmark, Finland, Norway, and Sweden. It extens",
+          "fuente": "Yahoo",
+          "fecha": "23 Jun 2026 19:53 UTC",
+          "url": "https://finnhub.io/api/news?id=36b8334383a7523947d4dcf4be255e536b38f1b1fa9381eb347fab6862ef39dd",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam Pharmaceuticals (ALNY), Inceptive Form $2B Partnership to Advance RNAi Drug Discovery",
+          "resumen": "Alnylam Pharmaceuticals Inc. (NASDAQ:ALNY) is one of the most promising long-term stocks to buy according to analysts. On June 3, Alnylam and Inceptive Nucleics, which builds foundation models of life, announced a collaboration valued at up to $2 billion to accelerate the discovery of RNAi therapeut",
+          "fuente": "Yahoo",
+          "fecha": "23 Jun 2026 19:18 UTC",
+          "url": "https://finnhub.io/api/news?id=81a3e0e12adee0af5e0cd8872615a40161a4a74e912140b521d38ec0706f8f18",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam (ALNY) Expands Its RNAi Therapeutics Reach Into Four More Nordic Countries",
+          "resumen": "Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) is one of the most promising healthcare stocks according to Wall Street analysts. On June 10, GENESIS Pharma announced the expansion of its commercial partnership with Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) to cover four Nordic countries, that is, Swe",
+          "fuente": "Yahoo",
+          "fecha": "22 Jun 2026 14:15 UTC",
+          "url": "https://finnhub.io/api/news?id=c0614b9614a0316087a96ee2033319e607212c385d24c375b77e78a920175d20",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam Pharmaceuticals Inc (NASDAQ:ALNY) Passes the \"Little Book\" Test with Explosive Growth and Upward Momentum",
+          "resumen": "Alnylam Pharmaceuticals (ALNY) checks all eight boxes of Louis Navellier's growth-stock formula, with 288% EPS growth, 82.57% revenue surge, and a 53.68% ROE making it a textbook \"Little Book\" candidate.",
+          "fuente": "ChartMill",
+          "fecha": "22 Jun 2026 12:40 UTC",
+          "url": "https://finnhub.io/api/news?id=44f8cd1f60f020b9c01ed58ee0c8670240794ab02cf9b602080d8c4dd78ed364",
+          "imagen": "https://www.chartmill.com/images/uploads/thumbnail_article_navellier_3be8c6e05a.webp",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Can Alnylam's Broader Portfolio Ease Its Dependence on Amvuttra?",
+          "resumen": "Amvuttra is the primary driver of ALNY's revenues, but growth from Givlaari, Oxlumo and Leqvio may help diversify the company's top line.",
+          "fuente": "Yahoo",
+          "fecha": "22 Jun 2026 12:26 UTC",
+          "url": "https://finnhub.io/api/news?id=ef546d5d629d354fb699b2392ffb8c3cbb60f594ace359008e68d913f479e5b4",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 5
+    },
+    "BEAM": {
+      "nombre": "BEAM",
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
+    },
+    "OCUL": {
+      "nombre": "OCUL",
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
+    },
+    "CAI": {
+      "nombre": "CAI",
+      "noticias": [
+        {
+          "ticker": "CAI",
+          "titulo": "GeneDx: Why I Think The Selloff Went Too Far",
+          "resumen": "GeneDx owns one of the largest rare disease genomic databases, creating a durable competitive advantage and AI-driven value creation. See why WGS stock is a buy.",
+          "fuente": "SeekingAlpha",
+          "fecha": "22 Jun 2026 08:52 UTC",
+          "url": "https://finnhub.io/api/news?id=3e5ec099f007be972ac89d716ee9e59e3a1fdb586491e243a8574cbaf1747e0b",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2203738408/image_2203738408.jpg?io=getty-c-w1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
+    },
+    "GPCR": {
+      "nombre": "GPCR",
+      "noticias": [
+        {
+          "ticker": "GPCR",
+          "titulo": "Less Volume, More Premium: Post-Ozempic Economics Are Killing The Quantity Model",
+          "resumen": "As millions take GLP-1 drugs, packaged food giants face declining volumes while protein brands and specialty grocers win.",
+          "fuente": "Benzinga",
+          "fecha": "22 Jun 2026 07:15 UTC",
+          "url": "https://finnhub.io/api/news?id=da0f27088ae0df413ebf4fac686d9f2ab5c033cb7baeba795f4d4c7131c78a49",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/06/22/Drug-Use-Surges-Among-Patients.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
+    },
+    "ABVX": {
+      "nombre": "ABVX",
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
+    },
+    "VERA": {
+      "nombre": "VERA",
+      "noticias": [
+        {
+          "ticker": "VERA",
+          "titulo": "Healthcare's Quiet Comeback: Innovation, Obesity Drugs And New Opportunities",
+          "resumen": "After lagging expectations during recent market volatility, the healthcare sector is showing signs of strength. TD Asset Management's Jacky He explains what's driving the sectorâs rebound.",
+          "fuente": "SeekingAlpha",
+          "fecha": "23 Jun 2026 14:50 UTC",
+          "url": "https://finnhub.io/api/news?id=6a016defe1b9dc53f0a16467941078ed767221dc5a1d439272f088d00e57048c",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2194222145/image_2194222145.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
+    },
+    "ACRV": {
+      "nombre": "ACRV",
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
+    },
+    "TARA": {
+      "nombre": "TARA",
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
+    },
+    "SENS": {
+      "nombre": "SENS",
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
+    },
+    "INSM": {
+      "nombre": "INSM",
+      "noticias": [
+        {
+          "ticker": "INSM",
+          "titulo": "Tuesday's after hours session: top gainers and losers",
+          "resumen": "As the regular session of the US market on Tuesday comes to an end, let's delve into the after-hours session and discover the top gainers and losers shaping the post-market sentiment.",
+          "fuente": "ChartMill",
+          "fecha": "23 Jun 2026 21:00 UTC",
+          "url": "https://finnhub.io/api/news?id=ee75d57bf125298443d7f2573cfc827a4166bd7a948f13a91f2f360fa8bf7ff2",
+          "imagen": "https://www.chartmill.com/images/uploads/CM_Aftermarket_Movers_Small_free_e077945a19.webp",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "Kymera Therapeutics (KYMR) Soars 10.0%: Is Further Upside Left in the Stock?",
+          "resumen": "Kymera Therapeutics (KYMR) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions could translate into further price increase in the near term.",
+          "fuente": "Yahoo",
+          "fecha": "23 Jun 2026 14:24 UTC",
+          "url": "https://finnhub.io/api/news?id=a08345f0f1035c26d85534dfa54b1cdcd4d026490fa44c573c3d26248ffaa4d7",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "Insmed Appoints Samuele Butera as Senior Vice President, General Manager, Global Respiratory",
+          "resumen": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced the appointment of Samuele Butera as Senior Vice President, General Manager, Global R",
+          "fuente": "Yahoo",
+          "fecha": "23 Jun 2026 11:00 UTC",
+          "url": "https://finnhub.io/api/news?id=327aaa27d3756d2200a32ada992e592b7ef12d2e4bd3096fd022a5b705d620dd",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "Should Insmed’s (INSM) NASDAQ-100 Exit and TPIP Focus Require Action From Investors?",
+          "resumen": "Insmed Incorporated was removed from the NASDAQ-100 Index on 19 June 2026, even as investor focus intensified on its experimental lung drug TPIP. Analyst commentary now emphasizes TPIP’s upcoming clinical data as a potential turning point for Insmed’s rare respiratory disease portfolio and overall o",
+          "fuente": "Yahoo",
+          "fecha": "23 Jun 2026 00:13 UTC",
+          "url": "https://finnhub.io/api/news?id=2385b363c823b678074424cdf37e08b06d7bc4b411af167fdb96b38dcfb67a29",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "Is Insmed (INSM) One of the Most Promising Healthcare Stocks After Cantor Fitzgerald’s Target Raise?",
+          "resumen": "Insmed Incorporated (NASDAQ:INSM) is one of the most promising healthcare stocks according to Wall Street analysts. On June 10, Cantor Fitzgerald reaffirmed its Overweight rating on Insmed Incorporated (NASDAQ:INSM) and raised its price target from $230 to $235. The firm pointed to an upcoming data ",
+          "fuente": "Yahoo",
+          "fecha": "22 Jun 2026 14:14 UTC",
+          "url": "https://finnhub.io/api/news?id=4e2973e96d48f4ce158d958187751ac9e93f028d59de03a8533a503567576cb4",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 5
+    }
+  },
+  "resumen": {
+    "total_noticias": 21,
+    "tickers_con_noticias": 8,
+    "alertas_urgentes": 4,
+    "sin_noticias": 9
+  },
+  "todas_noticias": [
+    {
+      "ticker": "CAI",
+      "titulo": "GeneDx: Why I Think The Selloff Went Too Far",
+      "resumen": "GeneDx owns one of the largest rare disease genomic databases, creating a durable competitive advantage and AI-driven value creation. See why WGS stock is a buy.",
+      "fuente": "SeekingAlpha",
+      "fecha": "22 Jun 2026 08:52 UTC",
+      "url": "https://finnhub.io/api/news?id=3e5ec099f007be972ac89d716ee9e59e3a1fdb586491e243a8574cbaf1747e0b",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2203738408/image_2203738408.jpg?io=getty-c-w1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Can Alnylam's Broader Portfolio Ease Its Dependence on Amvuttra?",
+      "resumen": "Amvuttra is the primary driver of ALNY's revenues, but growth from Givlaari, Oxlumo and Leqvio may help diversify the company's top line.",
+      "fuente": "Yahoo",
+      "fecha": "22 Jun 2026 12:26 UTC",
+      "url": "https://finnhub.io/api/news?id=ef546d5d629d354fb699b2392ffb8c3cbb60f594ace359008e68d913f479e5b4",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam Pharmaceuticals Inc (NASDAQ:ALNY) Passes the \"Little Book\" Test with Explosive Growth and Upward Momentum",
+      "resumen": "Alnylam Pharmaceuticals (ALNY) checks all eight boxes of Louis Navellier's growth-stock formula, with 288% EPS growth, 82.57% revenue surge, and a 53.68% ROE making it a textbook \"Little Book\" candidate.",
+      "fuente": "ChartMill",
+      "fecha": "22 Jun 2026 12:40 UTC",
+      "url": "https://finnhub.io/api/news?id=44f8cd1f60f020b9c01ed58ee0c8670240794ab02cf9b602080d8c4dd78ed364",
+      "imagen": "https://www.chartmill.com/images/uploads/thumbnail_article_navellier_3be8c6e05a.webp",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Is Insmed (INSM) One of the Most Promising Healthcare Stocks After Cantor Fitzgerald’s Target Raise?",
+      "resumen": "Insmed Incorporated (NASDAQ:INSM) is one of the most promising healthcare stocks according to Wall Street analysts. On June 10, Cantor Fitzgerald reaffirmed its Overweight rating on Insmed Incorporated (NASDAQ:INSM) and raised its price target from $230 to $235. The firm pointed to an upcoming data ",
+      "fuente": "Yahoo",
+      "fecha": "22 Jun 2026 14:14 UTC",
+      "url": "https://finnhub.io/api/news?id=4e2973e96d48f4ce158d958187751ac9e93f028d59de03a8533a503567576cb4",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam (ALNY) Expands Its RNAi Therapeutics Reach Into Four More Nordic Countries",
+      "resumen": "Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) is one of the most promising healthcare stocks according to Wall Street analysts. On June 10, GENESIS Pharma announced the expansion of its commercial partnership with Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) to cover four Nordic countries, that is, Swe",
+      "fuente": "Yahoo",
+      "fecha": "22 Jun 2026 14:15 UTC",
+      "url": "https://finnhub.io/api/news?id=c0614b9614a0316087a96ee2033319e607212c385d24c375b77e78a920175d20",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Should Insmed’s (INSM) NASDAQ-100 Exit and TPIP Focus Require Action From Investors?",
+      "resumen": "Insmed Incorporated was removed from the NASDAQ-100 Index on 19 June 2026, even as investor focus intensified on its experimental lung drug TPIP. Analyst commentary now emphasizes TPIP’s upcoming clinical data as a potential turning point for Insmed’s rare respiratory disease portfolio and overall o",
+      "fuente": "Yahoo",
+      "fecha": "23 Jun 2026 00:13 UTC",
+      "url": "https://finnhub.io/api/news?id=2385b363c823b678074424cdf37e08b06d7bc4b411af167fdb96b38dcfb67a29",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals (NASDAQ:VRTX): A GARP Growth Stock with Reasonable Valuation and Strong Fundamentals",
+      "resumen": "Vertex Pharmaceuticals (VRTX) fits the GARP strategy with a Growth Rating of 7, reasonable valuation below industry peers, strong profitability, and zero debt, making it a compelling growth-at-a-reasonable-price candidate.",
+      "fuente": "ChartMill",
+      "fecha": "23 Jun 2026 11:30 UTC",
+      "url": "https://finnhub.io/api/news?id=2e537296495676e7e9129ba974d1a66699556185dc39d75aa97ea4e70171a72e",
+      "imagen": "https://www.chartmill.com/images/uploads/Affordable_Growth_500_264px_webp_add6a3aa59.webp",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Positive Pediatric CASGEVY Data Might Change The Case For Investing In Vertex Pharmaceuticals (VRTX)",
+      "resumen": "Vertex Pharmaceuticals recently reported Phase 3 data showing that its CRISPR-based therapy CASGEVY delivered strong clinical benefits and a consistent safety profile in children ages 5–11 with severe sickle cell disease and transfusion-dependent beta thalassemia, with all evaluable patients achievi",
+      "fuente": "Yahoo",
+      "fecha": "23 Jun 2026 12:08 UTC",
+      "url": "https://finnhub.io/api/news?id=736e533818ca750eccbea95344aec246aef570b83d9c5b45fdb4110d01859432",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Kymera Therapeutics (KYMR) Soars 10.0%: Is Further Upside Left in the Stock?",
+      "resumen": "Kymera Therapeutics (KYMR) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions could translate into further price increase in the near term.",
+      "fuente": "Yahoo",
+      "fecha": "23 Jun 2026 14:24 UTC",
+      "url": "https://finnhub.io/api/news?id=a08345f0f1035c26d85534dfa54b1cdcd4d026490fa44c573c3d26248ffaa4d7",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam Pharmaceuticals (ALNY), Inceptive Form $2B Partnership to Advance RNAi Drug Discovery",
+      "resumen": "Alnylam Pharmaceuticals Inc. (NASDAQ:ALNY) is one of the most promising long-term stocks to buy according to analysts. On June 3, Alnylam and Inceptive Nucleics, which builds foundation models of life, announced a collaboration valued at up to $2 billion to accelerate the discovery of RNAi therapeut",
+      "fuente": "Yahoo",
+      "fecha": "23 Jun 2026 19:18 UTC",
+      "url": "https://finnhub.io/api/news?id=81a3e0e12adee0af5e0cd8872615a40161a4a74e912140b521d38ec0706f8f18",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam Pharmaceuticals, Inc. (ALNY) and GENESIS Pharma Expand Commercial Partnership",
+      "resumen": "Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) is one of the 12 Best AI Drug Discovery Stocks Hedge Funds Are Loading Up On. On June 10, GENESIS Pharma said it expanded its commercial partnership with Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) to include Denmark, Finland, Norway, and Sweden. It extens",
+      "fuente": "Yahoo",
+      "fecha": "23 Jun 2026 19:53 UTC",
+      "url": "https://finnhub.io/api/news?id=36b8334383a7523947d4dcf4be255e536b38f1b1fa9381eb347fab6862ef39dd",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "GPCR",
+      "titulo": "Less Volume, More Premium: Post-Ozempic Economics Are Killing The Quantity Model",
+      "resumen": "As millions take GLP-1 drugs, packaged food giants face declining volumes while protein brands and specialty grocers win.",
+      "fuente": "Benzinga",
+      "fecha": "22 Jun 2026 07:15 UTC",
+      "url": "https://finnhub.io/api/news?id=da0f27088ae0df413ebf4fac686d9f2ab5c033cb7baeba795f4d4c7131c78a49",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/06/22/Drug-Use-Surges-Among-Patients.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Moderna: The Comeback Is Now In Full Swing",
+      "resumen": "Moderna, Inc. shifts beyond Covid with mRNA vaccines like mFlusiva, combo shots, and oncology catalysts. Click for more on MRNA stock prospects.",
+      "fuente": "SeekingAlpha",
+      "fecha": "23 Jun 2026 08:21 UTC",
+      "url": "https://finnhub.io/api/news?id=d9e536315b97c3074e2a19053e6928ca3cc7f6cc86cc2c744f0b11afce046908",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1928832415/image_1928832415.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Insmed Appoints Samuele Butera as Senior Vice President, General Manager, Global Respiratory",
+      "resumen": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced the appointment of Samuele Butera as Senior Vice President, General Manager, Global R",
+      "fuente": "Yahoo",
+      "fecha": "23 Jun 2026 11:00 UTC",
+      "url": "https://finnhub.io/api/news?id=327aaa27d3756d2200a32ada992e592b7ef12d2e4bd3096fd022a5b705d620dd",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Chip Bloodbath Hits Nasdaq 100 As South Korea Plunges: Stock Market Today",
+      "resumen": "A global semiconductor sell-off hammered the Nasdaq on Tuesday, but a rotation into defensives and small caps kept the Dow green.",
+      "fuente": "Benzinga",
+      "fecha": "23 Jun 2026 12:45 UTC",
+      "url": "https://finnhub.io/api/news?id=f5b02fa4588be1ab5d66470a80e1a66276c92487186c7cad79742a80030094c3",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/06/23/Financial-Market-Crash-Concept-With-Red-.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals (VRTX) Stock After Strong Multi‑Year Run Is The Price Still Reasonable",
+      "resumen": "If you are wondering whether Vertex Pharmaceuticals is priced fairly after its recent run, a good starting point is understanding what the current share price implies about future expectations. The stock last closed at US$466.79, with returns of 3.0% over the past week, 7.4% over the past month, 3.2",
+      "fuente": "Yahoo",
+      "fecha": "23 Jun 2026 13:12 UTC",
+      "url": "https://finnhub.io/api/news?id=f4edb5917bb8a5297a6ee5ae6fe967df2df43b5324d397588ee440ab24e4425a",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Healthcare's Quiet Comeback: Innovation, Obesity Drugs And New Opportunities",
+      "resumen": "After lagging expectations during recent market volatility, the healthcare sector is showing signs of strength. TD Asset Management's Jacky He explains what's driving the sectorâs rebound.",
+      "fuente": "SeekingAlpha",
+      "fecha": "23 Jun 2026 14:50 UTC",
+      "url": "https://finnhub.io/api/news?id=6a016defe1b9dc53f0a16467941078ed767221dc5a1d439272f088d00e57048c",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2194222145/image_2194222145.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VERA",
+      "titulo": "Healthcare's Quiet Comeback: Innovation, Obesity Drugs And New Opportunities",
+      "resumen": "After lagging expectations during recent market volatility, the healthcare sector is showing signs of strength. TD Asset Management's Jacky He explains what's driving the sectorâs rebound.",
+      "fuente": "SeekingAlpha",
+      "fecha": "23 Jun 2026 14:50 UTC",
+      "url": "https://finnhub.io/api/news?id=6a016defe1b9dc53f0a16467941078ed767221dc5a1d439272f088d00e57048c",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2194222145/image_2194222145.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "argenx SE (ARGX) Discusses R&D Spotlight on Advancing FcRn Leadership in Autoimmune Myositis - Slideshow",
+      "resumen": "2026-06-23. The following slide deck was published by argenx SE in conjunction with this event.",
+      "fuente": "SeekingAlpha",
+      "fecha": "23 Jun 2026 17:33 UTC",
+      "url": "https://finnhub.io/api/news?id=f04ed3e9305d0507009a1dd87688d8642871a57f98ed8a4d19e132adbf31362d",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Tuesday's after hours session: top gainers and losers",
+      "resumen": "As the regular session of the US market on Tuesday comes to an end, let's delve into the after-hours session and discover the top gainers and losers shaping the post-market sentiment.",
+      "fuente": "ChartMill",
+      "fecha": "23 Jun 2026 21:00 UTC",
+      "url": "https://finnhub.io/api/news?id=ee75d57bf125298443d7f2573cfc827a4166bd7a948f13a91f2f360fa8bf7ff2",
+      "imagen": "https://www.chartmill.com/images/uploads/CM_Aftermarket_Movers_Small_free_e077945a19.webp",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "argenx SE (ARGX) Discusses R&D Spotlight on Advancing FcRn Leadership in Autoimmune Myositis Transcript",
+      "resumen": "argenx SE (ARGX) Discusses R&D Spotlight on Advancing FcRn Leadership in Autoimmune Myositis June 23, 2026 2:00 PM EDTCompany ParticipantsBeth...",
+      "fuente": "SeekingAlpha",
+      "fecha": "24 Jun 2026 01:32 UTC",
+      "url": "https://finnhub.io/api/news?id=eb2377ef93e7897441553c5cd31549b51f9c6d0916268cdec56a76bf052dad1f",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    }
+  ]
+}

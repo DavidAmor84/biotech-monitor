@@ -1,6 +1,6 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 24/06/2026 07:31 | Período: últimos 7 días
+Generado: 24/06/2026 15:40 | Período: últimos 7 días
 Desde: 2026-06-17 → Hasta: 2026-06-24
 ══════════════════════════════════════════════════════════════
 
@@ -154,7 +154,7 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Reclutando activamente
        Enrollment: 468 pacientes
        Primary completion: 2029-06
-       Última actualización: 2026-05-20
+       Última actualización: 2026-06-24
        → https://clinicaltrials.gov/study/NCT07211958
 
   [DYN]

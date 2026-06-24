@@ -1,6 +1,6 @@
 {
   "version": "v3",
-  "generado": "24/06/2026 07:31",
+  "generado": "24/06/2026 15:40",
   "periodo_dias": 7,
   "desde": "2026-06-17",
   "hasta": "2026-06-24",
@@ -2034,7 +2034,7 @@
         "nivel": "verde",
         "badge": "🟢",
         "enrollment": 468,
-        "ultima_actualizacion": "2026-05-20",
+        "ultima_actualizacion": "2026-06-24",
         "fecha_completion_primaria": "2029-06",
         "changed": true,
         "url": "https://clinicaltrials.gov/study/NCT07211958"

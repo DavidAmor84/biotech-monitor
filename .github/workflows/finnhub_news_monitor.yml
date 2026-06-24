@@ -1,0 +1,32 @@
+name: Finnhub News Monitor
+
+on:
+  schedule:
+    - cron: '15 7 * * 1-5'   # Lun-Vie 7:15 UTC (después de SEC y CT)
+  workflow_dispatch:           # Ejecución manual desde GitHub
+
+jobs:
+  run-news-monitor:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Finnhub News Monitor
+        run: python finnhub_news_monitor.py
+
+      - name: Commit y push noticias_resultado.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add noticias_resultado.json
+          git diff --cached --quiet || git commit -m "🗞️ Noticias update $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push

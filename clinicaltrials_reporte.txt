@@ -1,6 +1,6 @@
 ====================================================================================
 CLINICALTRIALS MONITOR v9.3 · Modelo Biotech
-Generado: 24/06/2026 07:30
+Generado: 24/06/2026 10:53
 ====================================================================================
 RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 4 | 🟡 0 | 🔵 30 | Errores API: 0
 
@@ -19,9 +19,9 @@ DETALLE POR EMPRESA
      Study completion: 2027-12 ESTIMATED
      Last update posted: 2025-12-15
      → https://clinicaltrials.gov/study/NCT06558279
-  🔵 ⭐⭐⭐ ADAPT SERON Ph3 — efgartigimod IV — seronegative gMG | Prioridad: alta | Validación: OK
-     NCT: NCT06298552 | Status: Activo, sin reclutamiento | Tipo: regulatorio
-     Catalizador: PDUFA / expansión gMG | Ventana: 2026
+  🔵 ⭐⭐⭐ ADAPT SERON ✅ APROBADO 8 may2026 — efgartigimod IV — seronegative gMG (label expansion todos serotipos) | Prioridad: alta | Validación: OK
+     NCT: NCT06298552 | Status: Activo, sin reclutamiento | Tipo: aprobado
+     Catalizador: ✅ APROBADO FDA 8 may2026 — 1ª terapia gMG independiente del anticuerpo | Ventana: aprobado
      Sponsor: argenx
      Phase: PHASE3
      Enrollment: 119
@@ -297,9 +297,9 @@ DETALLE POR EMPRESA
      → https://clinicaltrials.gov/study/NCT06389877
 
 🔵 [VERA] · Score relevancia: 10
-  🔵 ⭐⭐⭐ ORIGIN 3 Ph3 — atacicept — IgAN · PDUFA inminente | Prioridad: alta | Validación: OK
+  🔵 ⭐⭐⭐ ORIGIN 3 Ph3 — atacicept — IgAN · PDUFA 7 jul 2026 ⚡ URGENTE | Prioridad: alta | Validación: OK
      NCT: NCT04716231 | Status: Activo, sin reclutamiento | Tipo: regulatorio
-     Catalizador: PDUFA / aprobación | Ventana: 2026
+     Catalizador: PDUFA 7 jul 2026 — catalizador más próximo de cartera | Ventana: jul 2026
      Sponsor: Vera Therapeutics, Inc.
      Phase: PHASE3
      Enrollment: 376

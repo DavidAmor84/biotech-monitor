@@ -159,14 +159,14 @@ CLINICALTRIALS_CARTERA = {
     "VERA": [
         {
             "nct": "NCT04716231",
-            "nombre": "ORIGIN 3 Ph3 — atacicept — IgAN · PDUFA inminente",
+            "nombre": "ORIGIN 3 Ph3 — atacicept — IgAN · PDUFA 7 jul 2026 ⚡ URGENTE",
             "sponsor_keywords": ["vera therapeutics"],
             "drug_keywords": ["atacicept"],
             "condition_keywords": ["iga nephropathy", "igan", "berger"],
             "prioridad": "alta",
             "tipo": "regulatorio",
-            "catalizador": "PDUFA / aprobación",
-            "ventana": "2026",
+            "catalizador": "PDUFA 7 jul 2026 — catalizador más próximo de cartera",
+            "ventana": "jul 2026",
             "monitorizar": True,
             "peso_importancia": 10,
         },
@@ -336,14 +336,14 @@ CLINICALTRIALS_CARTERA = {
         },
         {
             "nct": "NCT06298552",
-            "nombre": "ADAPT SERON Ph3 — efgartigimod IV — seronegative gMG",
+            "nombre": "ADAPT SERON ✅ APROBADO 8 may2026 — efgartigimod IV — seronegative gMG (label expansion todos serotipos)",
             "sponsor_keywords": ["argenx"],
             "drug_keywords": ["efgartigimod", "vyvgart", "argx-113"],
             "condition_keywords": ["myasthenia gravis", "seronegative", "mg"],
             "prioridad": "alta",
-            "tipo": "regulatorio",
-            "catalizador": "PDUFA / expansión gMG",
-            "ventana": "2026",
+            "tipo": "aprobado",
+            "catalizador": "✅ APROBADO FDA 8 may2026 — 1ª terapia gMG independiente del anticuerpo",
+            "ventana": "aprobado",
             "monitorizar": True,
             "peso_importancia": 8,
         },
@@ -1038,7 +1038,6 @@ def generar_reporte(dashboard):
         lines.append("\n" + "-" * 84)
         lines.append("❌ ERRORES DE VALIDACIÓN — POSIBLES NCT INCORRECTOS")
         lines.append("-" * 84)
-
         for e in dashboard["errores_validacion"]:
             lines.append(f"\n[{e['ticker']}] {e['nombre']}")
             lines.append(f"NCT: {e['nct']}")
@@ -1059,18 +1058,15 @@ def generar_reporte(dashboard):
 
     for ticker, data in empresas_ordenadas:
         lines.append(f"\n{data['badge']} [{ticker}] · Score relevancia: {data.get('score_relevancia', 0)}")
-
         ensayos_ordenados = sorted(
             data["ensayos"],
             key=lambda e: e.get("peso_importancia", 0),
             reverse=True,
         )
-
         for e in ensayos_ordenados:
             if e.get("error"):
                 lines.append(f"  ❌ {e['nombre_usuario']} ({e['nct']}): {e['error']}")
                 continue
-
             valid = "OK" if e.get("validacion_ok") else "ERROR"
             lines.append(
                 f"  {e['badge']} {e.get('estrellas', '')} {e['nombre_usuario']} "

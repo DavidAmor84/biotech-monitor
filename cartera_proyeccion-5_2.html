@@ -239,7 +239,7 @@
   <div id="secBanner" style="display:none;margin-bottom:12px;border-radius:8px;padding:10px 16px;cursor:pointer;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:space-between;gap:10px" onclick="abrirSecEdgar()" title="Click para ver Watchlist con alertas"></div>
   <div class="hl">Biotech Premium · Modelo v3.1</div>
   <div class="ht">Cartera Biotech 2026 — 2027</div>
-  <div class="hs">Monitor automático SEC EDGAR · ClinicalTrials · Escenarios ponderados · Ajuste EUR/USD</div>
+  <div class="hs">Monitor automático SEC EDGAR · ClinicalTrials · Modelo v3.1 · Partnerships · Plataforma · Asimetría</div>
 
   <div style="display:flex;align-items:center;gap:10px;margin-bottom:12px;flex-wrap:wrap">
     <button id="btnUpdate" onclick="updatePrices()" style="background:#1e2035;border:1px solid #3344aa;color:#00bcd4;padding:8px 18px;border-radius:8px;font-size:12px;font-weight:700;cursor:pointer;transition:all .15s" onmouseover="this.style.background='#2a3060'" onmouseout="this.style.background='#1e2035'">🔄 Actualizar precios</button>
@@ -248,36 +248,9 @@
 
   <div class="tabs">
     <div class="tab active" onclick="showTab('watchlist',this)">📋 Watchlist</div>
-    <div class="tab" onclick="showTab('noticias',this)">📰 Noticias</div>
     <div class="tab" onclick="showTab('scenarios',this)">📊 Escenarios</div>
     <div class="tab" onclick="showTab('pos',this)">🎯 PoS por ticker</div>
     <div class="tab" onclick="showTab('pos_adj',this)">⚖️ Proyección ajustada PoS</div>
-  </div>
-
-  <!-- TAB NOTICIAS -->
-  <div id="tab-noticias" style="display:none">
-    <!-- Barra búsqueda + filtros -->
-    <div style="background:#181928;border:1px solid #2a2d4a;border-radius:10px;padding:14px 16px;margin-bottom:14px">
-      <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:10px">
-        <input id="news-search" type="text" placeholder="🔍 Buscar en titulares..." oninput="filtrarNoticias()"
-          style="flex:1;min-width:200px;background:#1e2035;border:1px solid #2a2d4a;border-radius:8px;padding:8px 12px;color:#c0ccee;font-size:12px;outline:none"/>
-        <button onclick="filtrarNoticias()" style="background:#1e2035;border:1px solid #3344aa;color:#00bcd4;padding:8px 16px;border-radius:8px;font-size:12px;font-weight:700;cursor:pointer">Buscar</button>
-        <button onclick="limpiarBusqueda()" style="background:#1e2035;border:1px solid #2a2d4a;color:#8899bb;padding:8px 12px;border-radius:8px;font-size:12px;cursor:pointer">✕ Limpiar</button>
-      </div>
-      <!-- Filtro tickers -->
-      <div id="news-ticker-filters" style="display:flex;gap:5px;flex-wrap:wrap;margin-bottom:8px"></div>
-      <!-- Filtro urgencia -->
-      <div style="display:flex;gap:6px;flex-wrap:wrap">
-        <span style="font-size:10px;color:#8899bb;padding-top:4px">Filtro:</span>
-        <button class="news-filt-btn active" onclick="setNewsFiltro('todos',this)" style="padding:3px 10px;border-radius:6px;font-size:10px;font-weight:700;cursor:pointer;border:1px solid #00bcd4;color:#00bcd4;background:rgba(0,188,212,.1)">Todas</button>
-        <button class="news-filt-btn" onclick="setNewsFiltro('urgente',this)" style="padding:3px 10px;border-radius:6px;font-size:10px;font-weight:700;cursor:pointer;border:1px solid #2a2d4a;color:#8899bb;background:#1e2035">🔴 Urgentes</button>
-        <button class="news-filt-btn" onclick="setNewsFiltro('normal',this)" style="padding:3px 10px;border-radius:6px;font-size:10px;font-weight:700;cursor:pointer;border:1px solid #2a2d4a;color:#8899bb;background:#1e2035">🔵 Informativas</button>
-      </div>
-    </div>
-    <!-- Estado + contador -->
-    <div id="news-status" style="font-size:11px;color:#8899bb;margin-bottom:12px"></div>
-    <!-- Feed noticias -->
-    <div id="news-feed"></div>
   </div>
 
   <!-- TAB WATCHLIST — HOME -->
@@ -295,7 +268,7 @@
   <!-- TAB 1: SCENARIOS -->
   <div id="tab-scenarios" style="display:none">
     <div class="matrix">
-      <div class="sec-title">Mapa de retornos desde precio de entrada</div>
+      <div class="sec-title">Mapa de retornos desde precio de entrada · Modelo v3.1 · Escenarios actualizados 22 jun 2026</div>
       <div class="matrix-grid" id="matrixGrid"></div>
       <div class="mhint">Pulsa cualquier celda para explorar ese escenario ↓</div>
     </div>
@@ -353,9 +326,9 @@
   <!-- TAB 2: PoS -->
   <div id="tab-pos" style="display:none">
     <div class="note-box">
-      <strong>Modelo Biotech v3.1 · Tasas BIO/IQVIA 2024:</strong><br>
+      <strong>Tasas BIO/IQVIA 2024 usadas:</strong><br>
       PoS ajustadas con <strong>datos clínicos reales de junio 2026</strong>, no con tasas promedio BIO/IQVIA. Cada ticker refleja la fase actual, calidad de los datos publicados y designaciones FDA.<br><br>
-      <strong>Modificadores aplicados:</strong> Ya aprobado (+40–50pp base) · Ph3 con SPA + superioridad demostrada (+20–25pp) · Publicado en NEJM (+10pp) · Breakthrough Therapy (+10pp) · Datos inducción Ph3 positivos (+8pp) · Riesgo legal activo (−15pp) · Ph3 recién iniciado (−10pp) · Competencia directa establecida (−5–10pp) · Micro-cap + dilución probable (−10pp)
+      <strong>Modelo v3.1 — Modificadores aplicados:</strong> Ya aprobado (+40–50pp) · Ph3 SPA superioridad (+20–25pp) · NEJM (+10pp) · BTD (+10pp) · Riesgo legal activo (−15pp) · Ph3 recién iniciado (−10pp) · Competencia directa (−5–10pp) · Micro-cap + dilución (−10pp) · Plataforma validada (+5pp) · Sin partnership (−3pp)
     </div>
     <div class="pos-grid" id="posGrid"></div>
   </div>
@@ -393,7 +366,7 @@
     </div>
   </div>
 
-  <div class="footer">⚠️ No es consejo de inversión. Modelo Biotech v3.1 · Scores y PoS basados en datos clínicos reales publicados a junio 2026. ARGX y NWL cotizan en EUR. ✅ = fármaco aprobado o datos Ph3 publicados. EUR/USD ajustable — consenso bancos apunta a 1.20–1.25 a fin 2026.</div>
+  <div class="footer">⚠️ No es consejo de inversión. Modelo Biotech v3.1 · PoS y scores actualizados jun 2026. ARGX y NWL cotizan en EUR. ✅ = fármaco aprobado. ⚠️ = alerta activa. Modelo v3.1 incluye Partnerships · Plataforma · Asimetría · Ciclo · Balance · HTA · Ejecución comercial.</div>
 </div>
 
 <script>
@@ -401,138 +374,118 @@
 var secData = null;
 var secFiltro = "todos";
 var ctData = null;
-var newsData = null;
 var monitoresLoaded = 0;
-var MONITORES_TOTAL = 3;
 
 var DATA = [
-  // PoS y precios actualizados · 19 jun 2026
+  // PoS y escenarios actualizados · 22 jun 2026 · Modelo v3.1
   {ticker:"SNDX",empresa:"Syndax Pharmaceuticals",cant:275,pm:19.49,pa:19.00,
-   p26:{pes:14,base:30,opt:44},p27:{pes:16,base:38,opt:62},tipo:"C",
-   indicacion:"Oncología hematológica (AML) — YA APROBADO · Ejecución comercial bajo consenso",pos:0.76,
-   precioExito:48,precioFracaso:12,
-   cat:"✅ SAVE trial EHA 2026: régimen all-oral revumenib+decitabine/cedazuridine+venetoclax muestra remisiones profundas en AML. R&D Day 14 jul — updates axatilimab (fibrosis pulmonar, GvHD) + revumenib AML frontline (EVOLVE-2). Analistas PT $31-40. +5.2% semana post-EHA.",
-   riesgo:"⚠️ v3.1 Gap 6 — Balance: $250M notas convertibles ejecutadas jun 2026 (>30% market cap — pasivo real). Gap 5 — Ejecución comercial: Q1 2026 $49M vs consenso $65-70M — rampa lenta. Dilución histórica >50% en 3 años (señal negativa). Competencia menin inhibidores creciente. Guggenheim baja PT $34→$31.",
-   score:13.8,veredicto:"VIGILAR",sizing:"Posición pequeña (1–2%)"},
+   p26:{pes:12,base:26,opt:40},p27:{pes:14,base:34,opt:56},tipo:"C",
+   indicacion:"Oncología hematológica (AML) — YA APROBADO",pos:0.76,
+   precioExito:42,precioFracaso:10,
+   cat:"✅ SAVE trial EHA 2026: régimen all-oral revumenib+decitabine/cedazuridine+venetoclax muestra remisiones profundas. +5.2% semana pasada. R&D Day 14 jul (axatilimab fibrosis pulmonar + AML frontline). Analistas PT $31-40.",
+   riesgo:"📊 Score v3.1: 13.8/20 VIGILAR · ⚠️ $250M convertibles jun 2026 = 17% market cap — riesgo dilución masiva si precio cae. Revenue Q1 $49M vs consenso $65-70M — ramp lenta sistemática. Ejecución comercial 0.8/3 (companion dx + equipo inexperto + cobicistat)."},
   {ticker:"ARGX",empresa:"argenx SE",cant:4,pm:693.03,pa:773.80,
    p26:{pes:720,base:950,opt:1080},p27:{pes:820,base:1150,opt:1500},tipo:"C",
-   indicacion:"Autoinmune comercial (gMG, CIDP, ITP) — YA COMERCIAL · Plataforma FcRn best-in-class",pos:0.93,
+   indicacion:"Autoinmune comercial (gMG, CIDP, ITP) — YA COMERCIAL",pos:0.93,
    precioExito:1200,precioFracaso:600,
-   cat:"✅ v3.1 Gap 2.8 Plataforma 3/3: efgartigimod en 5+ indicaciones aprobadas/en desarrollo (gMG, CIDP, ITP, miositis, Sjögren). Gap 2.7 Partnership 2.5/3: colaboraciones históricas ABBVIE + Zymeworks. Revenue +88% YoY ($4.2B 2025). VYVGART aprobado gMG seronegativo mayo 2026. Gap 5 Ejecución 3/3: guidance superado 4 trimestres consecutivos. Nueva CEO Karen Massey.",
-   riesgo:"Valoración exigente (P/S ~20x) — única crítica real. Competencia FcRn (rozanolixizumab, nipocalimab) en desarrollo pero ninguno con track record comercial de ARGX. Riesgo ejecución global ya demostrado como bajo.",
-   score:18.5,veredicto:"COMPRAR",sizing:"Posición core (5–8%)"},
+   cat:"✅ Revenue +88% YoY ($4.2B 2025). VYVGART aprobado gMG todos los adultos (mayo 2026). Nueva CEO Karen Massey. Datos EULAR 2026: efgartigimod sostenido en miositis y Sjögren. Goldman Sachs + Wedbush reiteran Buy esta semana.",
+   riesgo:"📊 Score v3.1: 18.5/20 COMPRAR · Valoración exigente (P/S ~20x). Competencia FcRn creciente. Riesgo ejecución global, no regulatorio."},
   {ticker:"DYN",empresa:"Dyne Therapeutics",cant:200,pm:18.09,pa:19.80,
    p26:{pes:10,base:20,opt:30},p27:{pes:12,base:32,opt:58},tipo:"B",
-   indicacion:"Rare disease neuromuscular (DMD + DM1) — Timeline 2027-2028",pos:0.35,
+   indicacion:"Rare disease neuromuscular (DMD + DM1) · ⚠️ Insiders vendiendo",pos:0.32,
    precioExito:52,precioFracaso:6,
-   cat:"⚠️ DELIVER (DMD) datos cardiopulmonares positivos — señal clínica real. HARMONIA Ph3 DM1 iniciado marzo 2026 con endpoint biomarcador. Accel. Approval DM1 posible Q1 2027 si datos bioMK sólidos. Cap ~$1.8B con dos activos clínicos activos.",
-   riesgo:"🔴 v3.1 Gap 3.1 INSIDER ALERT: CEO Gregory Cox + CMO + CCO vendiendo simultáneamente en mercado abierto — señal de alarma máxima según framework v3.1. 8-K 16 jun 2026 (Item 1.01 acuerdo material) pendiente análisis completo. Gap 2.7: sin partnership activo — riesgo dilutivo total hasta 2027. Ph3 HARMONIA recién iniciado — datos clínicos no antes de 2027-2028. Piper Sandler cita DYN como posición cautelosa jun 2026.",
-   score:12.8,veredicto:"VIGILAR",sizing:"Posición pequeña (1–2%)"},
+   cat:"⚠️ DELIVER (DMD) datos cardiopulmonares positivos. HARMONIA Ph3 DM1 iniciado marzo 2026. Accel. Approval DM1 datos Q1 2027. Timeline más largo de lo esperado.",
+   riesgo:"📊 Score v3.1: 12.8/20 VIGILAR · ⚠️ CEO Cox + CMO Kerr + CCO Friedl-Naderer vendieron misma semana 8-K material jun 2026 — verificar plan 10b5-1 urgente. Sin partnership activo. Ph3 HARMONIA datos 2027-2028."},
   {ticker:"DNLI",empresa:"Denali Therapeutics",cant:160,pm:19.40,pa:23.31,
-   p26:{pes:16,base:28,opt:40},p27:{pes:19,base:38,opt:58},tipo:"C",
-   indicacion:"Rare disease neurológica (Hunter) — YA APROBADO · Plataforma ETV BBB-crossing",pos:0.81,
-   precioExito:52,precioFracaso:13,
-   cat:"✅ AVLAYAH aprobado FDA marzo 2026 — 1er biológico diseñado para cruzar BBB (plataforma ETV). 91% reducción CSF HS. Publicado en NEJM. v3.1 Gap 2.8 Plataforma 2.5/3: ETV aplicable a Hunter, Parkinson, ALS (shots on goal independientes). PRV $195M detectado por SEC Monitor — ingreso extraordinario 2026. Lanzamiento comercial en curso.",
-   riesgo:"Takeda terminó colaboración (Gap 2.7 penaliza 1.5/3 por ausencia de partner activo). Riesgo ejecución rare disease: cobertura insurance, identificación pacientes (Gap 5: 1.5/3). COMPASS study pendiente — pipeline CNS en validación.",
-   score:15.8,veredicto:"COMPRAR",sizing:"Posición normal (3–5%)"},
+   p26:{pes:18,base:30,opt:44},p27:{pes:21,base:42,opt:62},tipo:"C",
+   indicacion:"Rare disease neurológica (Hunter) — YA APROBADO",pos:0.81,
+   precioExito:55,precioFracaso:15,
+   cat:"✅ AVLAYAH aprobado FDA marzo 2026 — 1er biológico diseñado para cruzar BBB. 91% reducción CSF HS. NEJM publicado. ✅ PRV vendido jun 2026 por $195M cash sin dilución (+$1.30/acc). Lanzamiento comercial en curso.",
+   riesgo:"📊 Score v3.1: 15.8/20 COMPRAR · Takeda terminó colaboración. Riesgo: ejecución ventas rare disease, cobertura insurance. COMPASS study pendiente de resultados."},
   {ticker:"VKTX",empresa:"Viking Therapeutics",cant:50,pm:32.75,pa:30.38,
    p26:{pes:22,base:50,opt:98},p27:{pes:20,base:72,opt:140},tipo:"B",
-   indicacion:"Metabólico/Obesidad (GLP-1/GIP dual, SC + oral) — Ph3 datos Q3 2026",pos:0.46,
+   indicacion:"Metabólico/Obesidad (GLP-1/GIP dual, SC + oral)",pos:0.46,
    precioExito:118,precioFracaso:15,
-   cat:"⚡ VANQUISH-2 enrollment completo — datos Ph3 esperados Q3 2026. Oral VK2735 Ph2: 12.2% pérdida peso a 13 sem (datos cortos). Pfizer discontinúa danuglipron → gap en sector oral GLP-1 beneficia VKTX. Consenso PT $92.72. Único dual GLP-1/GIP con datos SC + oral.",
-   riesgo:"⚠️ v3.1 Gap 2.7: SIN PARTNERSHIP activo (0/3) — único en sector obesidad sin deal Big Pharma. Necesita superar >15% pérdida peso en 52 sem vs Lilly orforglipron Ph3 + Novo semaglutide oral. Competencia brutal — cualquier dato de Lilly superior elimina diferenciación. YTD -38.9%. Dilución probable si VANQUISH-2 mixto.",
-   score:13.2,veredicto:"VIGILAR",sizing:"Posición pequeña (1–2%)"},
+   cat:"⚡ VANQUISH-2 enrollment completo, datos Q3 2026. Oral VK2735 Ph2: 12.2% pérdida peso a 13 sem. Pfizer discontinúa danuglipron → beneficia todo el sector oral GLP-1. Consenso PT $92.72.",
+   riesgo:"📊 Score v3.1: 13.2/20 VIGILAR · Competencia brutal: Lilly orforglipron Ph3 + Novo semaglutide oral. Necesita superar >15% pérdida peso a 52 sem. YTD -38.9%."},
   {ticker:"VRTX",empresa:"Vertex Pharmaceuticals",cant:5,pm:441.38,pa:451.63,
    p26:{pes:410,base:490,opt:530},p27:{pes:440,base:540,opt:615},tipo:"C",
-   indicacion:"Comercial CF, drepanocitosis, dolor, renal — YA COMERCIAL · Plataforma multiindicación",pos:0.93,
+   indicacion:"Comercial CF, drepanocitosis, dolor — YA COMERCIAL",pos:0.93,
    precioExito:615,precioFracaso:375,
-   cat:"✅ v3.1 Gap 2.8 Plataforma 3/3: 5 indicaciones aprobadas distintas (CF, drepanocitosis CASGEVY, dolor JOURNAVX, CF pediátrico ALYFTREK, APOL1 kidney en Ph3). Gap 5 Ejecución 3/3: Revenue Q1 2026 $2.99B (+8% YoY), guidance 2026 $12.95-13.1B superado sistemáticamente. ALYFTREK datos pediátricos Ph3 positivos esta semana. No-CF >$500M objetivo 2026.",
-   riesgo:"Riesgo fundamental mínimo (monopolio efectivo CF). IRA negociación precios Medicare ~2033 — horizonte lejano. Competencia CF prácticamente inexistente. Único riesgo real: ejecución pipeline no-CF si APOL1 o pain fallan Ph3.",
-   score:19.0,veredicto:"COMPRAR",sizing:"Posición core (5–8%)"},
+   cat:"✅ Revenue Q1 2026: $2.99B (+8% YoY). Guidance 2026: $12.95–13.1B. ALYFTREK datos pediátricos Ph3 positivos esta semana. CASGEVY + JOURNAVX en rampa. No-CF >$500M objetivo 2026.",
+   riesgo:"📊 Score v3.1: 19.0/20 COMPRAR · Bajo riesgo fundamental. IRA: negociación precios Medicare ~2033. Competencia CF limitada (monopolio efectivo)."},
   {ticker:"NWL",empresa:"NewPrinces SpA",cant:135,pm:16.95,pa:14.89,
    p26:{pes:13,base:19,opt:28},p27:{pes:14,base:23,opt:36},tipo:"M",
-   indicacion:"Food & Beverage — YA COMERCIAL (no biotech) · Value play BIT",pos:0.72,
+   indicacion:"Food & Beverage — YA COMERCIAL (no biotech)",pos:0.72,
    precioExito:32,precioFracaso:11,
-   cat:"✅ EPS +138% en FY2025, revenue €2.96B (+80%). Plasmon (Heinz baby food) integrado. P/E ~8x vs sector ~15-18x — descuento de valoración claro. Catalizador clave: integración Carrefour Italia + Q2 earnings. v3.1: no aplican Partes 2-9 biotech — evaluado como value play industrial.",
-   riesgo:"Liquidez muy baja (BIT:NWL — mercado estrecho). Sin seguimiento institucional relevante. Re-rating estructural puede tardar 12-24 meses. v3.1 Gap 4: cotiza en EUR, sin riesgo HTA pero también sin catalíticos biotech. Posición oportunista, no de modelo.",
-   score:13.5,veredicto:"VIGILAR",sizing:"Posición pequeña (1–2%)"},
+   cat:"✅ EPS +138% en FY2025, revenue €2.96B (+80%). Plasmon (Heinz baby food) adquirido. P/E ~8x. Catalizador clave: integración Carrefour Italia — seguimiento Q2 earnings.",
+   riesgo:"📊 Score v3.1: 13.5/20 VIGILAR · Liquidez baja (BIT:NWL). Poco seguimiento institucional. Re-rating puede tardar sin catalizador externo claro."},
   {ticker:"ALNY",empresa:"Alnylam Pharmaceuticals",cant:8,pm:297.47,pa:278.09,
-   p26:{pes:260,base:315,opt:330},p27:{pes:290,base:385,opt:460},tipo:"C",
-   indicacion:"Comercial RNAi (ATTR, AHP, PH1, hemofilia) — YA COMERCIAL · 4 productos aprobados",pos:0.89,
-   precioExito:460,precioFracaso:248,
-   cat:"✅ v3.1 Gap 2.7 Partnership 3/3: Roche ZENITH Ph3 (zilebesiran HTA, deal >$1B total) — partner máxima calidad eliminando riesgo Ph3. Gap 2.8 Plataforma 3/3: RNAi en ATTR (ONPATTRO, AMVUTTRA), AHP, PH1, hemofilia (Qfitlia 2025) — 5+ indicaciones independientes. Gap 5 Ejecución 3/3. Nucresiran (ATTR-CM) Ph3 en curso. Pipeline más amplio en historia de la empresa.",
-   riesgo:"Competencia ATTR creciente (Pfizer tafamidis, BridgeBio acoramidis) — presión de precio en indicación madura. Mayor upside en 2027 cuando maduran Ph3s de zilebesiran y nucresiran. Riesgo bajo dado track record comercial demostrado.",
-   score:18.0,veredicto:"COMPRAR",sizing:"Posición core (5–8%)"},
+   p26:{pes:268,base:330,opt:360},p27:{pes:300,base:410,opt:490},tipo:"C",
+   indicacion:"Comercial RNAi (ATTR, AHP, PH1) — YA COMERCIAL",pos:0.89,
+   precioExito:490,precioFracaso:255,
+   cat:"✅ Comercial consolidado (cap ~$37.7B). Zilebesiran (HTA) Ph3 + Nucresiran (ATTR) Ph3. Qfitlia (hemofilia) lanzado 2025. Pipeline más amplio en historia de la empresa.",
+   riesgo:"📊 Score v3.1: 18.0/20 COMPRAR · Competencia ATTR creciente (Pfizer tafamidis). Mayor upside en 2027 cuando maduran Ph3s. Riesgo bajo."},
   {ticker:"BEAM",empresa:"Beam Therapeutics",cant:70,pm:31.41,pa:34.14,
-   p26:{pes:18,base:36,opt:58},p27:{pes:22,base:55,opt:90},tipo:"B",
-   indicacion:"Gene editing base (hemoglobinopatías, A1ATD) — BLA fin 2026 · Ciclo fondo -60%",pos:0.32,
-   precioExito:85,precioFracaso:12,
-   cat:"✅ v3.1 Gap 2.8 Plataforma 2.5/3: base editing first-in-class modal — tecnología imposible con CRISPR convencional (precisión sin corte doble cadena). risto-cel NEJM publication confirmada. RMAT designation. BLA submission planeado fin 2026 — catalizador registracional real. BEAM-302 (A1ATD) Ph1 en curso como shot on goal independiente. v3.1 Gap 3 ciclo fondo: gene editing -60% desde máximos → sizing ×1.5.",
-   riesgo:"PoS BLA 32% — sector deprimido pero no por razones científicas (fracasos CRISPR ajenos). Ph1/2 temprano en A1ATD. Alta quema caja: runway ~18 meses. Sin partnership activo (Gap 2.7: 0/3). BLA fin 2026 es el catalizador definitivo — sin eso, revisión de tesis obligatoria en Q1 2027.",
-   score:13.5,veredicto:"VIGILAR",sizing:"Posición pequeña ×1.5 ciclo fondo"},
+   p26:{pes:18,base:42,opt:70},p27:{pes:22,base:65,opt:110},tipo:"B",
+   indicacion:"Gene editing base (hemoglobinopatías, A1ATD) — Reclasificado growth",pos:0.35,
+   precioExito:95,precioFracaso:12,
+   cat:"✅ risto-cel NEJM publicado. BLA submission planeado fin 2026. RMAT ago2025. Gene editing sector -60% desde máximos → ciclo en fondo → SIZING x1.5 recomendado. BEAM-302 Ph1 RMAT may2025. Plataforma first-in-class modal.",
+   riesgo:"📊 Score v3.1: 13.5/20 VIGILAR · Sector deprimido. Ph1/2 temprano en A1ATD. Alta quema caja. Catalizador registracional BLA 2026 es el hito clave — sin eso, revisión a la baja."},
   {ticker:"OCUL",empresa:"Ocular Therapeutix",cant:240,pm:8.97,pa:9.43,
    p26:{pes:7,base:15,opt:23},p27:{pes:10,base:21,opt:34},tipo:"B",
-   indicacion:"Oftalmología wet AMD — Ph3 completado, SPA FDA, NDA inminente",pos:0.82,
+   indicacion:"Oftalmología wet AMD — Ph3 completado, NDA inminente",pos:0.82,
    precioExito:31,precioFracaso:5,
-   cat:"✅ SOL-1 Ph3: AXPAXLI 74.1% vs 55.8% aflibercept (p=0.0006) — PRIMERA superioridad demostrada en wet AMD. v3.1 Gap 2.5: SPA FDA firmado (endpoint acordado +15pp PoS). 505(b)(2) pathway. NDA submission inminente post-Investor Day 17 jun. Duración extendida vs anti-VEGF mensual — ventaja de conveniencia real.",
-   riesgo:"505(b)(2) pathway FDA no garantizado — si FDA pide datos adicionales, timeline se alarga. Posicionamiento precio vs anti-VEGF establecidos (Eylea, Lucentis) muy establecidos. Competencia Regeneron/Roche con red comercial masiva. Equipo comercial pequeño — primer lanzamiento (Gap 5: 0.5/1).",
-   score:15.0,veredicto:"COMPRAR",sizing:"Posición normal (3–5%)"},
+   cat:"✅ SOL-1 Ph3: AXPAXLI 74.1% vs 55.8% aflibercept (p=0.0006). 1er superioridad wet AMD. SPA FDA. Investor Day 17 jun 2026 — patrón habitual de debilidad post-evento. NDA submission inminente.",
+   riesgo:"📊 Score v3.1: 15.0/20 COMPRAR · 505b2 pathway FDA (no garantizado). Posicionamiento precio vs anti-VEGF establecidos. Competencia Regeneron/Roche muy establecida."},
   {ticker:"CAI",empresa:"Caris Life Sciences",cant:100,pm:15.99,pa:18.47,
    p26:{pes:14,base:24,opt:36},p27:{pes:17,base:32,opt:52},tipo:"C",
-   indicacion:"Diagnóstico oncológico molecular — YA COMERCIAL · Crecimiento 79% YoY",pos:0.80,
+   indicacion:"Diagnóstico oncológico molecular — YA COMERCIAL",pos:0.80,
    precioExito:42,precioFracaso:11,
-   cat:"✅ Q1 2026: $216M revenue (+79% YoY). Margen bruto 65%. Adjusted EBITDA positivo — inflexión financiera real. v3.1 Gap 8: base accionarial quality — crossover investors pre-IPO (Blackstone, Goldman) siguen en posición post-IPO. Caris Assure (liquid biopsy) en expansión. Caris Detect (MCED) 2027 como siguiente catalizador de crecimiento.",
-   riesgo:"Competencia Foundation Medicine (Roche), Tempus AI (cotiza con prima) — mercado no monopolístico. Valoración comprimida post-IPO vs peers — necesita 2-3 trimestres sosteniendo márgenes para re-rating. Sin moat tecnológico claro vs competidores.",
-   score:14.5,veredicto:"VIGILAR",sizing:"Posición pequeña (1–2%)"},
+   cat:"✅ Q1 2026: $216M revenue (+79% YoY). Margen bruto 65%. Adjusted EBITDA positivo. Caris Assure (liquid biopsy) en expansión. Caris Detect (MCED) 2027.",
+   riesgo:"📊 Score v3.1: 14.5/20 VIGILAR · Competencia Foundation Medicine (Roche), Tempus AI. Valoración comprimida post-IPO vs peers. Necesita demostrar sostenibilidad márgenes."},
   {ticker:"GPCR",empresa:"Structure Therapeutics",cant:40,pm:38.34,pa:44.51,
    p26:{pes:30,base:65,opt:110},p27:{pes:28,base:85,opt:155},tipo:"B",
-   indicacion:"Metabólico/Obesidad oral GLP-1 — Ph2 completado, Ph3 inicio H2 2026",pos:0.42,
+   indicacion:"Metabólico/Obesidad oral GLP-1 — Ph2 completado, Ph3 H2 2026",pos:0.42,
    precioExito:130,precioFracaso:18,
-   cat:"✅ Aleniglipron Ph2: 16.3% pérdida peso a 44 sem — MAYOR eficacia oral GLP-1 reportada a fecha. v3.1 Gap 2.5: diseño Ph2 sólido, datos peer-reviewed. Ph3 inicio H2 2026 — Pfizer discontinúa danuglipron → gap competitivo real en oral. IP aleniglipron defensible: GPCR biased agonism diferenciado. Consenso PT $109 (+145% upside). Cap $3B.",
-   riesgo:"Competencia Lilly orforglipron (Ph3 en curso con datos 52 sem) + Novo semaglutide oral. Ph3 no iniciado aún — riesgo ejecución enrollment. YTD -30.1% pese a datos sólidos: mercado escéptico con oral GLP-1 hasta ver 52 sem. Sin partnership activo (Gap 2.7 penaliza).",
-   score:14.0,veredicto:"VIGILAR",sizing:"Posición pequeña (1–2%)"},
+   cat:"✅ Aleniglipron Ph2: 16.3% pérdida peso a 44 sem — mayor eficacia oral GLP-1 reportada. Ph3 inicio H2 2026. Pfizer discontinúa danuglipron → gap competitivo. Consenso PT $109. Cap $3B.",
+   riesgo:"📊 Score v3.1: 14.0/20 VIGILAR · Competencia Lilly orforglipron + Novo semaglutide oral. Ph3 no iniciado aún. YTD -30.1% pese a datos sólidos."},
   {ticker:"ABVX",empresa:"Abivax SA",cant:13,pm:77.33,pa:99.15,
-   p26:{pes:45,base:95,opt:155},p27:{pes:38,base:95,opt:175},tipo:"B",
-   indicacion:"Autoinmune (UC) — Ph3 inducción + mantenimiento positivos · Riesgo litigio crítico",pos:0.39,
-   precioExito:170,precioFracaso:33,
-   cat:"✅ ABTECT inducción (+) + mantenimiento Ph3 POSITIVO. 7 años datos OLE sin señales seguridad. NDA planeado Q4 2026. Múltiples analistas Buy (Piper Sandler, Guggenheim, Barclays). PT medio $149. Obefazimod MoA único (miR-124) diferenciado de biologics IL-12/23, JAK inhibidores.",
-   riesgo:"🔴 v3.1 Gap 6 CRÍTICO: 4 class actions COORDINADAS (Gross Law, Schall Law, Levi & Korsinsky, Bronstein) — pasivo contingente no modelado en balance, potencialmente mayor que caja. Gap 4 HTA EU CRÍTICO: >60% revenue potencial en EU — G-BA Alemania (Zusatznutzen dosis-dependiente), NICE UK (QALY threshold), HAS Francia pueden comprimir precio drásticamente o rechazar reembolso. Score reducido 14.0→11.5 por estos dos gaps v3.1.",
-   score:11.5,veredicto:"VIGILAR",sizing:"Especulativa (<1%)"},
+   p26:{pes:38,base:75,opt:120},p27:{pes:30,base:80,opt:145},tipo:"B",
+   indicacion:"Autoinmune (UC) — Ph3 inducción positiva, mantenimiento pendiente · ⚠️ Riesgo legal activo",pos:0.33,
+   precioExito:140,precioFracaso:28,
+   cat:"✅ ABTECT inducción (+). 7 años datos OLE sin señales seguridad. Datos mantenimiento Ph3 pendientes Q2-Q3 2026. Múltiples analistas reiteran Buy esta semana (Piper Sandler, Guggenheim, Barclays). PT medio $149.",
+   riesgo:"📊 Score v3.1: 11.5/20 VIGILAR · ⚠️ 4 CLASS ACTIONS COORDINADAS (Gross Law, Schall Law, Levi & Korsinsky, Bronstein) — riesgo crítico. HTA Europa >60% revenue potencial. Settlement estimado $30-80M impacta caja NDA Q4 2026. REDUCIR SIZING hasta resolución."},
   {ticker:"VERA",empresa:"Vera Therapeutics",cant:35,pm:32.14,pa:35.09,
    p26:{pes:26,base:62,opt:100},p27:{pes:32,base:85,opt:130},tipo:"B",
-   indicacion:"Autoinmune renal IgAN — PDUFA 7 jul 2026 ⚡ 13 DÍAS",pos:0.80,
+   indicacion:"Autoinmune renal IgAN — PDUFA 7 jul 2026 ⚡ URGENTE",pos:0.80,
    precioExito:108,precioFracaso:18,
-   cat:"✅ ORIGIN Ph3: 46% reducción proteinuria vs 6.8% placebo (p<0.0001). NEJM. Breakthrough Therapy + Fast Track. PDUFA 7 jul 2026. FDA alineada — análisis eGFR adelantado Q3 2026 → sBLA Q4 2026 aprobación completa. Cap $2.85B. Cash $597M (>2 años runway post-aprobación). PT medio analistas $78.",
-   riesgo:"v3.1 Gap 5 Ejecución comercial: primer lanzamiento sin experiencia propia (equipo <50 reps, sin track record) — riesgo real post-PDUFA. Precio atacicept $168K/año vs sparsentan establece benchmark. Competencia IgAN: sparsentan (aprobado), iptacopan, zigakibart en llegada. PDUFA 7 jul = catalizador binario más próximo de toda la cartera.",
-   score:15.2,veredicto:"COMPRAR",sizing:"Posición normal (3–5%)"},
+   cat:"✅ ORIGIN Ph3: 46% reducción proteinuria vs 6.8% placebo (p<0.0001). NEJM. Breakthrough Therapy. PDUFA 7 jul 2026 — 15 DIAS. Sin AdCom convocado (señal positiva). FDA alineada eGFR Q3 2026. Si positivo → evaluar BTRSSTN parcial.",
+   riesgo:"📊 Score v3.1: 15.2/20 COMPRAR · Competencia IgAN: sparsentan (aprobado), iptacopan, zigakibart. PDUFA 7 jul es el catalizador binario más próximo de toda la cartera. 18 días."},
   {ticker:"ACRV",empresa:"Acrivon Therapeutics",cant:700,pm:1.67,pa:1.57,
    p26:{pes:0.7,base:2.0,opt:4},p27:{pes:0.5,base:3.0,opt:7},tipo:"B",
-   indicacion:"Oncología (ovario, endometrio) — Ph2 en curso · DESCARTAR v3.1",pos:0.18,
+   indicacion:"Oncología (ovario, endometrio) — Ph2 en curso",pos:0.18,
    precioExito:6,precioFracaso:0.55,
-   cat:"ACR-368 (CHK1/2 inhibidor) + OncoSignature companion dx biomarcador propio. Ph2 datos pendientes H2 2026. Precision oncology con selección de pacientes — diferenciador real si datos positivos.",
-   riesgo:"🔴 DESCARTAR v3.1 (7.8/20): Micro-cap <$50M mkt cap — dilución casi segura antes de cualquier catalizador (Gap 4.2). Oncología Ph2→aprobación PoS base 5-8%. Sin partnership activo. Sin caja suficiente para Ph3 sin financiación adicional. Posición legacy — holding únicamente para catalizador H2 2026, sin añadir.",
-   score:7.8,veredicto:"DESCARTAR",sizing:"Legacy H2 2026"},
+   cat:"ACR-368 (CHK1/2 inh) + OncoSignature dx companion. Ph2 datos pendientes H2 2026. Precision oncology con biomarcador propio.",
+   riesgo:"📊 Score v3.1: 7.8/20 DESCARTAR · Micro-cap (<$50M mkt cap). Dilución casi segura antes de cualquier catalizador. Oncología Ph2→aprobación: 5-10% base + biomarker bonus. Holding para catalizador H2 2026."},
   {ticker:"TARA",empresa:"Protara Therapeutics",cant:200,pm:5.27,pa:3.98,
    p26:{pes:2,base:4.5,opt:7},p27:{pes:1.5,base:5.5,opt:10},tipo:"B",
-   indicacion:"Rare disease (LM) + urooncología NMIBC · DESCARTAR v3.1",pos:0.25,
+   indicacion:"Rare disease (LM) + urooncología NMIBC",pos:0.25,
    precioExito:9,precioFracaso:1.50,
-   cat:"TARA-002 (lymphatic malformations Orphan Drug) Ph2 en curso. IV choline chloride NMIBC indicación secundaria. Dos activos independientes, pero sin catalizador próximo definido H2 2026.",
-   riesgo:"🔴 DESCARTAR v3.1 (8.8/20): caja limitada — runway incierto (Gap 4.1). Alta probabilidad dilución antes de datos (Gap 4.2 >50% histórica). Warrant mechanics pueden generar volatilidad sin news real. Sin catalizador registracional claro hasta 2027. Posición legacy — holding H2 2026, sin añadir.",
-   score:8.8,veredicto:"DESCARTAR",sizing:"Legacy H2 2026"},
+   cat:"TARA-002 (lymphatic malformations Orphan) Ph2. IV choline chloride (NMIBC). Dos activos, sin catalizador próximo definido H2 2026. Warrant mechanics pueden generar volatilidad sin news.",
+   riesgo:"📊 Score v3.1: 8.8/20 DESCARTAR · Caja limitada. Alta probabilidad dilución. Sin catalizador registracional claro hasta 2027. Posición especulativa — holding para H2 2026."},
   {ticker:"SENS",empresa:"Senseonics Holdings",cant:80,pm:8.91,pa:6.74,
    p26:{pes:5,base:9,opt:14},p27:{pes:6,base:12,opt:19},tipo:"M",
-   indicacion:"MedTech CGM implantable (diabetes) — Eversense 365 único 1 año",pos:0.74,
+   indicacion:"MedTech CGM implantable (diabetes)",pos:0.74,
    precioExito:17,precioFracaso:4,
-   cat:"✅ Q1 2026: revenue +85% YoY ($11.7M). Guidance 2026: $60-64M. Eversense 365 — único CGM implantable de 1 año (diferenciación real vs Dexcom G7/Abbott Libre 3 que son 10-14 días). Expansión Europa via asset deals jun 2026. Inflexión comercial real en curso.",
-   riesgo:"v3.1 Gap 4.2 Dilución: $92M reciente — 15-20% de shares (overhang real). Competencia CGM masivamente establecida: Dexcom + Abbott con >95% market share, red médica construida. Adopción implantable lenta — requiere procedimiento en consulta. Gap 5 Ejecución: equipo comercial pequeño vs gigantes.",
-   score:11.8,veredicto:"VIGILAR",sizing:"Especulativa (<1%)"},
+   cat:"✅ Q1 2026: revenue +85% YoY ($11.7M). Guidance 2026: $60-64M. Eversense 365 (único CGM implantable 1 año) en adopción. Expansión Europa via asset deals jun 2026.",
+   riesgo:"📊 Score v3.1: 11.8/20 VIGILAR · Dilución reciente $92M. Competencia CGM: Dexcom G7 + Abbott Libre 3 muy establecidos. Diferenciación: único implantable 365 días, pero adopción lenta."},
   {ticker:"INSM",empresa:"Insmed Inc",cant:14,pm:97.10,pa:95.80,
-   p26:{pes:100,base:175,opt:225},p27:{pes:115,base:215,opt:270},tipo:"C",
-   indicacion:"Respiratory comercial (Bronchiectasis + MAC) — YA COMERCIAL · Único aprobado",pos:0.91,
-   precioExito:240,precioFracaso:80,
-   cat:"✅ v3.1 Gap 5 Ejecución 3/3: BRINSUPRI ejecución excepcional — oral (no IV), único aprobado sin competencia directa, sin companion dx requerido, retención >95% días en terapia. Q1 2026: $207.9M BRINSUPRI (+44% vs Q4). Revenue total $306M. Guidance >$1B 2026. Gap 2.8: 2 mecanismos independientes (bronchiectasis non-CF + MAC). Aprobación Japón H2 2026. Q2 earnings 30 jul catalizador clave.",
-   riesgo:"Sin competencia directa aprobada — principal fortaleza también es principal riesgo si llega competidor. Costes lanzamiento BRINSUPRI aún elevados → pre-rentable. Caída -45% desde máximos parcialmente recuperada. Q2 earnings 30 jul: si guidance no se mantiene >$1B, corrección probable.",
-   score:17.5,veredicto:"COMPRAR",sizing:"Posición normal (3–5%)"}
+   p26:{pes:105,base:185,opt:240},p27:{pes:120,base:230,opt:290},tipo:"C",
+   indicacion:"Respiratory comercial (Bronchiectasis + MAC) — YA COMERCIAL",pos:0.91,
+   precioExito:260,precioFracaso:85,
+   cat:"✅ BRINSUPRI Q1 2026: $207.9M (+44% vs Q4). Revenue total $306M. Guidance >$1B 2026. Track hacia rentabilidad. Aprobación Japón H2 2026. Q2 earnings 30 jul 2026 catalizador clave.",
+   riesgo:"📊 Score v3.1: 17.5/20 COMPRAR · Sin competencia directa aprobada. Caída -45% desde máximos ya recuperada parcialmente. Costes de lanzamiento BRINSUPRI aún elevados → pre-rentable. Q2 earnings 30 jul definitivos."}
 ];
 
 var SCENARIOS={
@@ -715,7 +668,7 @@ function buildAdj(){
 }
 
 function showTab(name,el){
-  ["watchlist","noticias","scenarios","pos","pos_adj"].forEach(function(t){
+  ["watchlist","scenarios","pos","pos_adj"].forEach(function(t){
     var el2=document.getElementById("tab-"+t);
     if(el2)el2.style.display="none";
   });
@@ -724,7 +677,6 @@ function showTab(name,el){
   if(tabEl)tabEl.style.display="block";
   el.classList.add("active");
   if(name==="watchlist")buildWatchlist();
-  if(name==="noticias")buildNoticias();
   if(name==="pos")buildPos();
   if(name==="pos_adj")buildAdj();
 }
@@ -793,48 +745,29 @@ function abrirSecEdgar(){
 // ── ESTADO GLOBAL MONITORES ─────────────────────────────────────────────────
 function onMonitorLoaded(){
   monitoresLoaded++;
-  if(monitoresLoaded >= MONITORES_TOTAL) buildWatchlist();
-  else buildWatchlist(); // rebuild parcial con lo que hay
+  buildWatchlist();
 }
-
-function urlSinCache(url){
-  var sep = url.indexOf("?") === -1 ? "?" : "&";
-  return url + sep + "_t=" + Date.now();
-}
-
-var FETCH_OPTS = { cache: "no-store", headers: { "Cache-Control": "no-cache" } };
 
 function fetchMonitores(){
   // SEC EDGAR
-  fetch(urlSinCache("https://davidamor84.github.io/biotech-monitor/sec_monitor_resultado.json"), FETCH_OPTS)
+  fetch("https://davidamor84.github.io/biotech-monitor/sec_monitor_resultado.json")
     .then(function(r){ if(r.ok) return r.json(); throw new Error(); })
     .then(function(d){ secData=d; mostrarBanner(); onMonitorLoaded(); })
     .catch(function(){
-      fetch(urlSinCache("sec_monitor_resultado.json"), FETCH_OPTS)
+      fetch("sec_monitor_resultado.json")
         .then(function(r){ if(r.ok) return r.json(); throw new Error(); })
         .then(function(d){ secData=d; mostrarBanner(); onMonitorLoaded(); })
         .catch(function(){ onMonitorLoaded(); });
     });
 
   // CLINICALTRIALS
-  fetch(urlSinCache("https://davidamor84.github.io/biotech-monitor/clinicaltrials_resultado.json"), FETCH_OPTS)
+  fetch("https://davidamor84.github.io/biotech-monitor/clinicaltrials_resultado.json")
     .then(function(r){ if(r.ok) return r.json(); throw new Error(); })
     .then(function(d){ ctData=d; onMonitorLoaded(); })
     .catch(function(){
-      fetch(urlSinCache("clinicaltrials_resultado.json"), FETCH_OPTS)
+      fetch("clinicaltrials_resultado.json")
         .then(function(r){ if(r.ok) return r.json(); throw new Error(); })
         .then(function(d){ ctData=d; onMonitorLoaded(); })
-        .catch(function(){ onMonitorLoaded(); });
-    });
-
-  // NOTICIAS FINNHUB
-  fetch(urlSinCache("https://davidamor84.github.io/biotech-monitor/noticias_resultado.json"), FETCH_OPTS)
-    .then(function(r){ if(r.ok) return r.json(); throw new Error(); })
-    .then(function(d){ newsData=d; onMonitorLoaded(); })
-    .catch(function(){
-      fetch(urlSinCache("noticias_resultado.json"), FETCH_OPTS)
-        .then(function(r){ if(r.ok) return r.json(); throw new Error(); })
-        .then(function(d){ newsData=d; onMonitorLoaded(); })
         .catch(function(){ onMonitorLoaded(); });
     });
 }
@@ -861,18 +794,6 @@ function nivelColor(n){
 }
 function nivelBadge(n){
   return n==="rojo"?"🔴":n==="verde"?"🟢":n==="amarillo"?"🟡":"🔵";
-}
-
-function getNewsAlertas(ticker){
-  if(!newsData) return [];
-  var td = (newsData.tickers||{})[ticker];
-  return td ? (td.noticias||[]) : [];
-}
-
-function getTickerNewsNivel(ticker){
-  if(!newsData) return null;
-  var td = (newsData.tickers||{})[ticker];
-  return td ? td.nivel : null;
 }
 
 function getSecAlertas(ticker){
@@ -924,9 +845,6 @@ function buildWatchlist(){
     {lbl:"ClinicalTrials",
      val:ctData ? (ctData.resumen.total_ensayos||0)+" ensayos · "+(ctData.resumen.validacion_error||0)+" errores" : "⏳",
      sub:ctData ? "actualizado "+ctData.generado : "cargando...",c:"#9c88ff"},
-    {lbl:"Noticias 72h",
-     val:newsData ? (newsData.resumen.total_noticias||0)+"📰 "+(newsData.resumen.alertas_urgentes||0)+"🔴" : "⏳",
-     sub:newsData ? "actualizado "+newsData.generado : "cargando...",c:"#ff9a5c"},
   ].map(function(c){
     return '<div style="background:#181928;border:1px solid #2a2d4a;border-radius:10px;padding:12px 14px">'
       +'<div style="font-size:9px;color:#8899bb;text-transform:uppercase;letter-spacing:1px;margin-bottom:4px;font-weight:600">'+c.lbl+'</div>'
@@ -954,15 +872,6 @@ function buildWatchlist(){
   } else {
     monHtml += '<div style="background:#1e2035;border:1px solid #2a2d4a;border-radius:6px;padding:5px 10px;font-size:10px;color:#556688">🧬 ClinicalTrials · cargando...</div>';
   }
-  if(newsData){
-    var rn=newsData.resumen||{};
-    var hasUrg=rn.alertas_urgentes>0;
-    var coln=hasUrg?"#ff9a5c":"#ff9a5c";
-    monHtml += '<div style="background:'+coln+'18;border:1px solid '+coln+'44;border-radius:6px;padding:5px 10px;font-size:10px;font-weight:700;color:'+coln+'">'
-      +'📰 Noticias 72h · '+rn.total_noticias+' noticias · '+(hasUrg?rn.alertas_urgentes+' urgentes · ':'')+newsData.generado+'</div>';
-  } else {
-    monHtml += '<div style="background:#1e2035;border:1px solid #2a2d4a;border-radius:6px;padding:5px 10px;font-size:10px;color:#556688">📰 Noticias 72h · cargando...</div>';
-  }
   document.getElementById("wl-monitor-status").innerHTML = monHtml;
 
   // ── Tarjetas por posición ─────────────────────────────────────────────────
@@ -974,8 +883,6 @@ function buildWatchlist(){
     var plColor = pl >= 0 ? "#3dffaa" : "#ff6b6b";
     var tc = tipoC(d.tipo);
     var pc = posColor(d.pos);
-    var scColor = d.score>=16?"#3dffaa":d.score>=15?"#3dffaa":d.score>=9?"#ffe566":"#ff6b6b";
-    var scBg = d.score>=15?"rgba(61,255,170,.12)":d.score>=9?"rgba(255,229,102,.10)":"rgba(255,107,107,.12)";
 
     // Alertas SEC
     var secAlertas = getSecAlertas(d.ticker);
@@ -984,10 +891,6 @@ function buildWatchlist(){
     // Alertas ClinicalTrials
     var ctAlertas = getCtAlertas(d.ticker);
     var ctNivel = getTickerCtNivel(d.ticker);
-
-    // Noticias Finnhub
-    var newsAlertas = getNewsAlertas(d.ticker);
-    var newsNivel = getTickerNewsNivel(d.ticker);
 
     // Badge principal de la tarjeta — peor nivel entre SEC y CT
     var niveles = ["rojo","verde","amarillo","azul"];
@@ -1005,25 +908,12 @@ function buildWatchlist(){
       alertBadges += '<span class="wl-alert-dot" style="background:'+nivelColor(sn)+'22;color:'+nivelColor(sn)+'">'+nivelBadge(sn)+' SEC '+secAlertas.length+'</span>';
     }
     if(ctAlertas.length > 0){
+      var cn = ctNivel || "azul";
       alertBadges += '<span class="wl-alert-dot" style="background:#9c88ff22;color:#9c88ff">🧬 '+ctAlertas.length+' ensayos</span>';
-    }
-    if(newsAlertas.length > 0){
-      var urgentes = newsAlertas.filter(function(n){return n.urgente;}).length;
-      var nc = urgentes > 0 ? "#ff9a5c" : "#8899bb";
-      alertBadges += '<span class="wl-alert-dot" style="background:'+nc+'22;color:'+nc+'">'+(urgentes>0?"🔴":"📰")+' '+newsAlertas.length+' noticias'+(urgentes?' · '+urgentes+' urgente'+(urgentes>1?'s':''):'')+'</span>';
     }
 
     // Contenido expandible
     var expandHtml = '<div class="wl-expand" id="wl-exp-'+d.ticker+'">';
-
-    // Score v3.1
-    expandHtml += '<div class="wl-expand-section">'
-      +'<div class="wl-expand-title">Modelo Biotech v3.1</div>'
-      +'<div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">'
-        +'<span style="font-size:20px;font-weight:900;color:'+scColor+'">'+d.score.toFixed(1)+'/20</span>'
-        +'<span style="background:'+scBg+';color:'+scColor+';padding:3px 10px;border-radius:6px;font-size:11px;font-weight:700">'+d.veredicto+'</span>'
-        +'<span style="font-size:10px;color:#8899bb">'+d.sizing+'</span>'
-      +'</div></div>';
 
     // Catalizador
     expandHtml += '<div class="wl-expand-section">'
@@ -1051,28 +941,6 @@ function buildWatchlist(){
       expandHtml += '<div class="wl-no-alerts">Cargando datos SEC...</div>';
     } else {
       expandHtml += '<div class="wl-no-alerts">Sin filings recientes</div>';
-    }
-    expandHtml += '</div>';
-
-    // Noticias Finnhub
-    expandHtml += '<div class="wl-expand-section">'
-      +'<div class="wl-expand-title">📰 Noticias 72h · Finnhub</div>';
-    if(newsAlertas.length > 0){
-      expandHtml += newsAlertas.map(function(n){
-        var nc = n.urgente ? "#ff9a5c" : "#8899bb";
-        return '<div class="wl-filing '+(n.urgente?"amarillo":"azul")+'" style="border-left-color:'+nc+'">'
-          +'<div class="wl-filing-top">'
-            +'<span class="wl-filing-form" style="color:'+nc+'">'+n.badge+' '+n.fuente+'</span>'
-            +'<span class="wl-filing-fecha">'+n.fecha+'</span>'
-          +'</div>'
-          +'<div class="wl-filing-desc" style="font-weight:'+(n.urgente?"700":"400")+'">'+n.titulo+'</div>'
-          +(n.url?'<div style="margin-top:3px"><a href="'+n.url+'" target="_blank" style="color:#5566cc;font-size:9px">Leer noticia →</a></div>':'')
-          +'</div>';
-      }).join("");
-    } else if(!newsData){
-      expandHtml += '<div class="wl-no-alerts">Cargando noticias...</div>';
-    } else {
-      expandHtml += '<div class="wl-no-alerts">Sin noticias en 72h</div>';
     }
     expandHtml += '</div>';
 
@@ -1117,8 +985,6 @@ function buildWatchlist(){
           +'<div class="wl-card-badges">'
             +'<span class="wl-badge" style="background:'+tc+'22;color:'+tc+'">'+d.tipo+'</span>'
             +'<span class="wl-badge" style="background:'+pc+'22;color:'+pc+'">'+(d.pos*100).toFixed(0)+'% PoS</span>'
-            +'<span class="wl-badge" style="background:'+scBg+';color:'+scColor+';border:1px solid '+scColor+'44">v3.1 '+d.score.toFixed(1)+'</span>'
-            +'<span class="wl-badge" style="background:'+scBg+';color:'+scColor+'">'+d.veredicto+'</span>'
           +'</div>'
         +'</div>'
       +'</div>'
@@ -1138,140 +1004,7 @@ function toggleWlCard(ticker){
 
 render();
 
-// ── BUSCADOR DE NOTICIAS ─────────────────────────────────────────────────────
-var newsFiltroTipo = "todos";
-var newsFiltroTicker = null;
-
-function buildNoticias(){
-  var el = document.getElementById("news-feed");
-  var statusEl = document.getElementById("news-status");
-  var tickerEl = document.getElementById("news-ticker-filters");
-
-  if(!newsData){
-    el.innerHTML = '<div style="text-align:center;padding:40px;color:#8899bb;font-size:13px">'
-      +'<div style="font-size:32px;margin-bottom:12px">📰</div>'
-      +'<div>Cargando noticias desde Finnhub...</div>'
-      +'<div style="font-size:11px;margin-top:8px;color:#556688">El monitor corre Lun-Vie a las 7:15 UTC</div>'
-      +'</div>';
-    return;
-  }
-
-  // Construir filtros de ticker
-  var tickers = Object.keys(newsData.tickers||{}).filter(function(t){
-    return (newsData.tickers[t].noticias||[]).length > 0;
-  });
-
-  tickerEl.innerHTML = ['<button class="news-tick-btn'+(newsFiltroTicker===null?" tick-active":"")+'" onclick="setNewsTicker(null,this)" style="padding:3px 10px;border-radius:6px;font-size:10px;font-weight:700;cursor:pointer;border:1px solid '+(newsFiltroTicker===null?"#ffe566":"#2a2d4a")+';color:'+(newsFiltroTicker===null?"#ffe566":"#8899bb")+';background:'+(newsFiltroTicker===null?"rgba(255,229,102,.1)":"#1e2035")+'">Todos</button>']
-    .concat(tickers.map(function(t){
-      var n = newsData.tickers[t];
-      var col = n.nivel==="rojo"?"#ff6b6b":n.nivel==="azul"?"#00bcd4":"#8899bb";
-      var active = newsFiltroTicker===t;
-      return '<button class="news-tick-btn" onclick="setNewsTicker(\''+t+'\',this)" style="padding:3px 10px;border-radius:6px;font-size:10px;font-weight:700;cursor:pointer;border:1px solid '+(active?"#ffe566":"#2a2d4a")+';color:'+(active?"#ffe566":col)+';background:'+(active?"rgba(255,229,102,.1)":"#1e2035")+'">'
-        +(n.nivel==="rojo"?"🔴 ":"")+(n.nivel==="azul"?"🔵 ":"")+t+' <span style="opacity:.6">('+n.total+')</span></button>';
-    })).join("");
-
-  filtrarNoticias();
-}
-
-function filtrarNoticias(){
-  if(!newsData) return;
-  var el = document.getElementById("news-feed");
-  var statusEl = document.getElementById("news-status");
-  var query = (document.getElementById("news-search")||{}).value || "";
-  query = query.toLowerCase().trim();
-
-  var todas = newsData.todas_noticias || [];
-
-  // Filtrar por ticker
-  var filtradas = todas;
-  if(newsFiltroTicker){
-    filtradas = filtradas.filter(function(n){ return n.ticker===newsFiltroTicker; });
-  }
-  // Filtrar por tipo
-  if(newsFiltroTipo==="urgente"){
-    filtradas = filtradas.filter(function(n){ return n.urgente; });
-  } else if(newsFiltroTipo==="normal"){
-    filtradas = filtradas.filter(function(n){ return !n.urgente; });
-  }
-  // Filtrar por búsqueda
-  if(query){
-    filtradas = filtradas.filter(function(n){
-      return (n.titulo||"").toLowerCase().includes(query)
-          || (n.resumen||"").toLowerCase().includes(query)
-          || (n.ticker||"").toLowerCase().includes(query)
-          || (n.fuente||"").toLowerCase().includes(query);
-    });
-  }
-
-  var r = newsData.resumen||{};
-  statusEl.innerHTML = 'Mostrando <span style="color:#ffe566;font-weight:700">'+filtradas.length+'</span> noticias'
-    + (query?' para <span style="color:#00bcd4">"'+query+'"</span>':'')
-    + (newsFiltroTicker?' · ticker <span style="color:#ffe566">'+newsFiltroTicker+'</span>':'')
-    + ' · '+(r.alertas_urgentes||0)+' urgentes · actualizado '+newsData.generado;
-
-  if(filtradas.length===0){
-    el.innerHTML = '<div style="text-align:center;padding:40px;color:#8899bb;font-size:13px">'
-      +(query?'Sin resultados para "'+query+'"':'Sin noticias en este filtro')
-      +'</div>';
-    return;
-  }
-
-  el.innerHTML = filtradas.map(function(n){
-    var nc = n.urgente?"#ff9a5c":"#5566cc";
-    var bc = n.urgente?"rgba(255,154,92,.08)":"rgba(24,25,40,1)";
-    var bl = n.urgente?"#ff9a5c":"#2a2d4a";
-    // Highlight query en titulo
-    var titulo = n.titulo||"";
-    if(query){
-      var re = new RegExp('('+query.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','gi');
-      titulo = titulo.replace(re,'<mark style="background:rgba(255,229,102,.3);color:#ffe566;border-radius:2px">$1</mark>');
-    }
-    return '<div style="background:'+bc+';border:1px solid #2a2d4a;border-left:3px solid '+bl+';border-radius:10px;padding:12px 16px;margin-bottom:8px;display:flex;gap:14px;align-items:flex-start">'
-      +'<div style="min-width:52px">'
-        +'<div style="font-size:13px;font-weight:800;color:#ffe566">'+n.ticker+'</div>'
-        +'<div style="font-size:9px;color:#556688;margin-top:2px">'+n.fuente+'</div>'
-      +'</div>'
-      +'<div style="flex:1;min-width:0">'
-        +(n.urgente?'<span style="background:rgba(255,154,92,.15);color:#ff9a5c;padding:2px 7px;border-radius:4px;font-size:9px;font-weight:700;margin-bottom:5px;display:inline-block">🔴 URGENTE</span><br>':'')
-        +'<div style="font-size:12px;font-weight:'+(n.urgente?"700":"500")+';color:#c0ccee;margin-bottom:4px;line-height:1.4">'+titulo+'</div>'
-        +(n.resumen?'<div style="font-size:10px;color:#8899bb;line-height:1.5;margin-bottom:4px">'+n.resumen.substring(0,200)+(n.resumen.length>200?"...":"")+'</div>':'')
-        +'<div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap">'
-          +'<span style="font-size:9px;color:#556688">'+n.fecha+'</span>'
-          +(n.url?'<a href="'+n.url+'" target="_blank" style="font-size:10px;color:#5566cc;text-decoration:none">Leer noticia →</a>':'')
-        +'</div>'
-      +'</div>'
-      +'</div>';
-  }).join("");
-}
-
-function setNewsFiltro(tipo, el){
-  newsFiltroTipo = tipo;
-  document.querySelectorAll(".news-filt-btn").forEach(function(b){
-    b.style.borderColor="#2a2d4a"; b.style.color="#8899bb"; b.style.background="#1e2035";
-  });
-  el.style.borderColor="#00bcd4"; el.style.color="#00bcd4"; el.style.background="rgba(0,188,212,.1)";
-  filtrarNoticias();
-}
-
-function setNewsTicker(ticker, el){
-  newsFiltroTicker = ticker;
-  // Reconstruir botones de ticker para actualizar estilos
-  buildNoticias();
-}
-
-function limpiarBusqueda(){
-  var inp = document.getElementById("news-search");
-  if(inp) inp.value = "";
-  newsFiltroTicker = null;
-  newsFiltroTipo = "todos";
-  document.querySelectorAll(".news-filt-btn").forEach(function(b,i){
-    if(i===0){ b.style.borderColor="#00bcd4"; b.style.color="#00bcd4"; b.style.background="rgba(0,188,212,.1)"; }
-    else { b.style.borderColor="#2a2d4a"; b.style.color="#8899bb"; b.style.background="#1e2035"; }
-  });
-  buildNoticias();
-}
-
-
+// ── API ACTUALIZACIÓN DE PRECIOS ─────────────────────────────────────────────
 var FINNHUB_TOKEN = "d8o115hr01qvtr6lomngd8o115hr01qvtr6lomo0";
 var AV_KEY        = "NPGRU3E42IH7NP13";
 
@@ -1358,7 +1091,7 @@ var NOTICIAS = [
    fecha:"19 jun 2026"},
   {ticker:"GENB",  tipo:"🟡 NEUTRAL",color:"#ffe566",
    title:"ARK Invest acumula posición · Analistas PT medio $24",
-   desc:"ARK compra GENB validando narrativa AI+bio. 11 analistas con PT medio $24.23 (+88% upside). Score Modelo v3.1: 13.2/20 → VIGILAR. Sin catalizador registracional hasta 2029-2030. Ph3 SOLAIRIA enrollment en curso.",
+   desc:"ARK compra GENB validando narrativa AI+bio. 11 analistas con PT medio $24.23 (+88% upside). Score Modelo v3.0: 13.2/20 → VIGILAR. Sin catalizador registracional hasta 2029-2030. Ph3 SOLAIRIA enrollment en curso.",
    fecha:"15-19 jun 2026"},
 ];
 
@@ -1422,7 +1155,7 @@ var CATALIZADORES = [
    fecha:"2027"},
 ];
 
-// ── ANÁLISIS MODELO v3.1 — Track record candidatos externos ──────────────────
+// ── ANÁLISIS MODELO v3.0 ─────────────────────────────────────────────────────
 var ANALISIS = [
   {ticker:"NRIX", empresa:"Nurix Therapeutics",
    fecha:"19 jun 2026", score:16.1, veredicto:"COMPRAR", verdColor:"#3dffaa", verdBg:"rgba(61,255,170,.12)",
@@ -1526,11 +1259,11 @@ function buildSecEdgar(){
       +'<div style="margin-top:12px;font-size:10px;color:#556688">O nombra el archivo <b>sec_monitor_resultado.json</b> y súbelo a Netlify</div>'
       +'</div>';
     // Intentar cargar automáticamente desde GitHub Pages
-    fetch(urlSinCache("https://davidamor84.github.io/biotech-monitor/sec_monitor_resultado.json"), FETCH_OPTS)
+    fetch("https://davidamor84.github.io/biotech-monitor/sec_monitor_resultado.json")
       .then(function(r){ if(r.ok) return r.json(); throw new Error("no found"); })
       .then(function(d){ secData=d; buildSecEdgar(); mostrarBanner(); })
       .catch(function(){
-        fetch(urlSinCache("sec_monitor_resultado.json"), FETCH_OPTS)
+        fetch("sec_monitor_resultado.json")
           .then(function(r){ if(r.ok) return r.json(); throw new Error("no found"); })
           .then(function(d){ secData=d; buildSecEdgar(); mostrarBanner(); })
           .catch(function(){ });

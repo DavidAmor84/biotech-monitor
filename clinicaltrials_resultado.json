@@ -1,6 +1,6 @@
 {
   "version": "v9.3",
-  "generado": "24/06/2026 10:53",
+  "generado": "24/06/2026 16:37",
   "fecha": "2026-06-24",
   "resumen": {
     "total_ensayos": 34,
@@ -756,7 +756,7 @@
           "study_completion_date": "2031-01",
           "study_completion_type": "ESTIMATED",
           "start_date": "2025-11-25",
-          "last_update_posted": "2026-05-20",
+          "last_update_posted": "2026-06-24",
           "conditions": [
             "Acute Myeloid Leukemias"
           ],
@@ -794,7 +794,14 @@
           "ventana": "2029",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-05-20 → 2026-06-24"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2466,7 +2473,14 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-05-20 → 2026-06-24"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT07211958"
     },
     {

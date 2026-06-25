@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 24/06/2026 15:40 | Período: últimos 7 días
-Desde: 2026-06-17 → Hasta: 2026-06-24
+Generado: 25/06/2026 07:08 | Período: últimos 7 días
+Desde: 2026-06-18 → Hasta: 2026-06-25
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 33 filings | 🔴 0 | 🟢 1 | 🟡 8 | 🔵 24 | ✅ 9 sin novedad
+RESUMEN: 25 filings | 🔴 0 | 🟢 1 | 🟡 6 | 🔵 18 | ✅ 8 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (1)
@@ -21,7 +21,10 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [SNDX] Sin novedades
   ✅ [ARGX] Sin novedades
 
-  🟡 [DYN] Dyne Therapeutics, Inc. — 7 filing(s)
+  🟡 [DYN] Dyne Therapeutics, Inc. — 4 filing(s)
+     🟡 MEDIA 4 | 2026-06-24 | Kersten Dirk → Venta 190,676 acciones @ $20.57 | Post: 3,921,542 | Rutinaria/RSU/impuestos
+     Insider: Kersten Dirk → Venta 190,676 acciones @ $20.57 | Post: 3,921,542 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1818794/000119312526281119/xslF345X06/ownership.xml
      🔵 INFO 4 | 2026-06-23 | Greene Barry E → Concesión 57,463 acciones @ $0.00 | Post: 57,463
      Insider: Greene Barry E → Concesión 57,463 acciones @ $0.00 | Post: 57,463
      → https://www.sec.gov/Archives/edgar/data/1818794/000129196326000008/xslF345X06/ownership.xml
@@ -30,30 +33,16 @@ DETALLE POR TICKER — SEC EDGAR
      🟡 MEDIA 4 | 2026-06-22 | Kersten Dirk → Venta 37,454 acciones @ $20.14 | Post: 4,159,119 | Rutinaria/RSU/impuestos
      Insider: Kersten Dirk → Venta 37,454 acciones @ $20.14 | Post: 4,159,119 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1818794/000119312526277529/xslF345X06/ownership.xml
-     🟡 MEDIA 4 | 2026-06-17 | Kerr Douglas (Chief Medical Officer) → Venta 887 acciones @ $18.33 | Post: 169,155 | Rutinaria/RSU/impuestos
-     Insider: Kerr Douglas (Chief Medical Officer) → Venta 887 acciones @ $18.33 | Post: 169,155 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1818794/000181418926000002/xslF345X06/ownership.xml
-     🟡 MEDIA 4 | 2026-06-17 | Friedl-Naderer Johanna (Chief Commercial Officer) → Venta 145 acciones @ $18.33 | Post: 154,208 | Rutinaria/RSU/impuestos
-     Insider: Friedl-Naderer Johanna (Chief Commercial Officer) → Venta 145 acciones @ $18.33 | Post: 154,208 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1818794/000191559826000002/xslF345X06/ownership.xml
-     🟡 MEDIA 4 | 2026-06-17 | Cox John (CEO & President) → Venta 2,683 acciones @ $18.33 | Post: 368,151 | Rutinaria/RSU/impuestos
-     Insider: Cox John (CEO & President) → Venta 2,683 acciones @ $18.33 | Post: 368,151 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1818794/000149842826000002/xslF345X06/ownership.xml
-     🟡 MEDIA 8-K | 2026-06-17 | 8-K — Deuda/financiación no dilutiva; revisar coste, covenants y runway [Items: 1.01, 2.03]
-     → https://www.sec.gov/Archives/edgar/data/1818794/000181879426000003/dyn-20260616.htm
 
   🟢 [DNLI] Denali Therapeutics Inc. — 1 filing(s)
      🟢 ALTA 8-K | 2026-06-18 | 8-K — Evento positivo potencial: Asset purchase / venta de activo [Items: 1.01, 7.01, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1714899/000171489926000081/dnli-20260612.htm
   ✅ [VKTX] Sin novedades
 
-  🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 2 filing(s)
+  🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 1 filing(s)
      🟡 MEDIA 4 | 2026-06-23 | Bozic Carmen (EVP and CMO) → Venta 1,020 acciones @ $462.17 | Post: 15,933 | Rutinaria/RSU/impuestos
      Insider: Bozic Carmen (EVP and CMO) → Venta 1,020 acciones @ $462.17 | Post: 15,933 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000237/xslF345X06/wk-form4_1782245334.xml
-     🟡 MEDIA 4 | 2026-06-17 | Bozic Carmen (EVP and CMO) → Venta 4,062 acciones @ $450.00 | Post: 16,953 | Rutinaria/RSU/impuestos
-     Insider: Bozic Carmen (EVP and CMO) → Venta 4,062 acciones @ $450.00 | Post: 16,953 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000235/xslF345X06/wk-form4_1781727153.xml
   ✅ [ALNY] Sin novedades
 
   🔵 [BEAM] Beam Therapeutics Inc. — 1 filing(s)
@@ -89,9 +78,13 @@ DETALLE POR TICKER — SEC EDGAR
      🔵 INFO 8-K | 2026-06-18 | Item 5.07: Votación junta accionistas [Items: 5.07]
      → https://www.sec.gov/Archives/edgar/data/1888886/000110465926075720/tm2618249d1_8k.htm
   ✅ [ABVX] Sin novedades
-  ✅ [VERA] Sin novedades
 
-  🔵 [ACRV] Acrivon Therapeutics, Inc. — 8 filing(s)
+  🟡 [VERA] Vera Therapeutics, Inc. — 1 filing(s)
+     🟡 MEDIA 4 | 2026-06-24 | Fordyce Marshall (PRESIDENT AND CEO) → Venta 18,412 acciones @ $37.93 | Post: 198,332 | Rutinaria/RSU/impuestos
+     Insider: Fordyce Marshall (PRESIDENT AND CEO) → Venta 18,412 acciones @ $37.93 | Post: 198,332 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1831828/000185945326000008/xslF345X06/form4-06242026_080643.xml
+
+  🔵 [ACRV] Acrivon Therapeutics, Inc. — 7 filing(s)
      🔵 INFO 4 | 2026-06-22 | RA CAPITAL MANAGEMENT, L.P. → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
      Insider: RA CAPITAL MANAGEMENT, L.P. → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1781174/000123191926000686/xslF345X06/form4-06222026_080632.xml
@@ -113,30 +106,16 @@ DETALLE POR TICKER — SEC EDGAR
      🔵 INFO 4 | 2026-06-22 | BAUM CHARLES M → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
      Insider: BAUM CHARLES M → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003024/xslF345X06/form4.xml
-     🔵 INFO 8-K | 2026-06-17 | Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02, 5.07, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1781174/000119312526274410/acrv-20260617.htm
   ✅ [TARA] Sin novedades
+  ✅ [SENS] Sin novedades
 
-  🔵 [SENS] Senseonics Holdings, Inc. — 6 filing(s)
-     🔵 INFO 4 | 2026-06-17 | Kaufman Francine (Chief Medical Officer) → Retención impuestos 4,010 acciones @ $7.18 | Post: 177,057 | Rutinaria/RSU/impuestos
-     Insider: Kaufman Francine (Chief Medical Officer) → Retención impuestos 4,010 acciones @ $7.18 | Post: 177,057 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1616543/000176979126000006/xslF345X06/form4-06172026_040617.xml
-     🔵 INFO 4 | 2026-06-17 | JAIN Mukul (Chief Operating Officer) → Retención impuestos 16,194 acciones @ $7.18 | Post: 500,863 | Rutinaria/RSU/impuestos
-     Insider: JAIN Mukul (Chief Operating Officer) → Retención impuestos 16,194 acciones @ $7.18 | Post: 500,863 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1616543/000166759326000006/xslF345X06/form4-06172026_040616.xml
-     🔵 INFO 4 | 2026-06-17 | Sullivan Frederick T. (Chief Financial Officer) → Retención impuestos 5,397 acciones @ $7.18 | Post: 226,477 | Rutinaria/RSU/impuestos
-     Insider: Sullivan Frederick T. (Chief Financial Officer) → Retención impuestos 5,397 acciones @ $7.18 | Post: 226,477 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1616543/000194453926000006/xslF345X06/form4-06172026_040619.xml
-     🔵 INFO 4 | 2026-06-17 | Horton Kenneth L (GC & Corp. Development Advisor) → Retención impuestos 9,545 acciones @ $7.18 | Post: 285,512 | Rutinaria/RSU/impuestos
-     Insider: Horton Kenneth L (GC & Corp. Development Advisor) → Retención impuestos 9,545 acciones @ $7.18 | Post: 285,512 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1616543/000155204726000006/xslF345X06/form4-06172026_040614.xml
-     🔵 INFO 4 | 2026-06-17 | HANSEN BRIAN B (Chief Commercial Officer) → Retención impuestos 5,420 acciones @ $7.18 | Post: 126,937 | Rutinaria/RSU/impuestos
-     Insider: HANSEN BRIAN B (Chief Commercial Officer) → Retención impuestos 5,420 acciones @ $7.18 | Post: 126,937 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1616543/000154237726000004/xslF345X06/form4-06172026_040612.xml
-     🔵 INFO 4 | 2026-06-17 | Goodnow Timothy T (President and CEO) → Retención impuestos 32,598 acciones @ $7.18 | Post: 1,143,748 | Rutinaria/RSU/impuestos
-     Insider: Goodnow Timothy T (President and CEO) → Retención impuestos 32,598 acciones @ $7.18 | Post: 1,143,748 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1616543/000166758826000008/xslF345X06/form4-06172026_040610.xml
-  ✅ [INSM] Sin novedades
+  🟡 [INSM] INSMED Inc — 2 filing(s)
+     🔵 INFO 4 | 2026-06-24 | Butera Samuele (SVP, GM, Global Respiratory) → Concesión 7,342 acciones | Post: 7,342 | Rutinaria/RSU/impuestos
+     Insider: Butera Samuele (SVP, GM, Global Respiratory) → Concesión 7,342 acciones | Post: 7,342 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1104506/000214009826000005/xslF345X06/wk-form4_1782332113.xml
+     🟡 MEDIA 4 | 2026-06-24 | Smith Michael Alexander (Chief Legal Officer) → Venta 1,806 acciones @ $95.82 | Post: 37,648 | Rutinaria/RSU/impuestos
+     Insider: Smith Michael Alexander (Chief Legal Officer) → Venta 1,806 acciones @ $95.82 | Post: 37,648 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1104506/000187027826000020/xslF345X06/wk-form4_1782331897.xml
   ⚪ [NWL] Sin CIK SEC
 
 ──────────────────────────────────────────────────

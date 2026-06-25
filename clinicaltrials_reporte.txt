@@ -1,6 +1,6 @@
 ====================================================================================
 CLINICALTRIALS MONITOR v9.3 · Modelo Biotech
-Generado: 25/06/2026 07:06
+Generado: 25/06/2026 16:41
 ====================================================================================
 RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 4 | 🟡 0 | 🔵 30 | Errores API: 0
 
@@ -217,7 +217,7 @@ DETALLE POR EMPRESA
      Enrollment: 466
      Primary completion: 2028-06-02 ESTIMATED
      Study completion: 2030-05-07 ESTIMATED
-     Last update posted: 2026-06-02
+     Last update posted: 2026-06-25
      → https://clinicaltrials.gov/study/NCT05312879
   🔵 ⭐⭐⭐ FORWARD-101 Ph1/2/3 — zimislecel (VX-880) — T1D | Prioridad: alta | Validación: OK
      NCT: NCT04786262 | Status: Reclutando | Tipo: cell_therapy

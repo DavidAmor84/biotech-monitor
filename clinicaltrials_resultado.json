@@ -1,6 +1,6 @@
 {
   "version": "v9.3",
-  "generado": "25/06/2026 07:06",
+  "generado": "25/06/2026 16:41",
   "fecha": "2026-06-25",
   "resumen": {
     "total_ensayos": 34,
@@ -2053,7 +2053,7 @@
           "study_completion_date": "2030-05-07",
           "study_completion_type": "ESTIMATED",
           "start_date": "2022-03-30",
-          "last_update_posted": "2026-06-02",
+          "last_update_posted": "2026-06-25",
           "conditions": [
             "Proteinuric Kidney Disease"
           ],
@@ -2090,7 +2090,14 @@
           "ventana": "2026-2028",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-06-02 → 2026-06-25"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2726,7 +2733,14 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-06-02 → 2026-06-25"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT05312879"
     },
     {

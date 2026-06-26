@@ -1,0 +1,41 @@
+name: Biotech Radar — Actualización semanal
+
+on:
+  schedule:
+    # Cada lunes a las 07:00 UTC (08:00 hora española invierno / 09:00 verano)
+    - cron: "0 7 * * 1"
+  workflow_dispatch:   # permite ejecutar manualmente desde GitHub
+
+jobs:
+  update-radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    permissions:
+      contents: write   # necesario para hacer push del JSON generado
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install requests pandas yfinance
+
+      - name: Ejecutar Biotech Radar Engine
+        run: |
+          python biotech_radar_engine.py \
+            --user-agent "davidamor84 biotech-radar github-actions"
+
+      - name: Commit y push radar_resultado.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add radar_resultado.json
+          # Solo hace commit si hay cambios
+          git diff --staged --quiet || git commit -m "Biotech Radar · actualización $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push

@@ -118,8 +118,8 @@ def get_json_cached(session: requests.Session, url: str, cache_name: str,
     cp = CACHE_DIR / cache_name
     if cp.exists() and not refresh:
         return json.loads(cp.read_text(encoding="utf-8"))
-    hdrs = dict(session.headers)
-    if "www.sec.gov" in url: hdrs["Host"] = "www.sec.gov"
+    # Construir headers sin el Host de sesión — dejamos que requests lo derive de la URL
+    hdrs = {k: v for k, v in session.headers.items() if k.lower() != "host"}
     r = session.get(url, headers=hdrs, timeout=30)
     time.sleep(sleep_s)
     r.raise_for_status()
@@ -732,7 +732,7 @@ def main():
     sec_session.headers.update({
         "User-Agent": args.user_agent,
         "Accept-Encoding": "gzip, deflate",
-        "Host": "data.sec.gov",
+        # No fijar Host aquí — cada llamada usa el host correcto según la URL
     })
     print("Descargando SEC financials...")
     financials = get_sec_financials(universe, sec_session)

@@ -45,6 +45,7 @@ OTHER_LISTED_URL  = "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt
 SEC_TICKERS_URL   = "https://data.sec.gov/files/company_tickers.json"
 SEC_SUBMISSIONS   = "https://data.sec.gov/submissions/CIK{cik}.json"
 SEC_FACTS         = "https://data.sec.gov/api/xbrl/companyfacts/CIK{cik}.json"
+SEC_CSV_PATH      = HERE / "sec_financials.csv"   # CSV local — prioridad sobre API
 CTGOV_URL         = "https://clinicaltrials.gov/api/v2/studies"
 
 BIOTECH_KEYWORDS = [
@@ -242,6 +243,47 @@ def sum_latest(facts, tags):
             total += v
             used.append(t or tag)
     return (total if used else None), used
+
+def load_sec_from_csv(universe: list[dict]) -> dict[str, dict] | None:
+    """Lee sec_financials.csv si existe en el repo. Devuelve None si no existe."""
+    if not SEC_CSV_PATH.exists():
+        return None
+    try:
+        df = pd.read_csv(SEC_CSV_PATH)
+        df["ticker"] = df["ticker"].astype(str).str.upper().str.strip()
+        results = {}
+        for _, row in df.iterrows():
+            ticker = row["ticker"]
+            def g(col):
+                v = row.get(col)
+                if v is None or (isinstance(v, float) and pd.isna(v)):
+                    return None
+                return v
+            cash_m   = safe_float(g("cash_and_investments")) or safe_float(g("cash"))
+            debt_m   = safe_float(g("total_debt")) or 0
+            runway   = safe_float(g("cash_runway_months"))
+            opcf     = safe_float(g("operating_cf_quarter"))
+            shares   = safe_float(g("shares_outstanding"))
+            results[ticker] = {
+                "cash":                  cash_m,
+                "debt":                  debt_m,
+                "quarterly_burn":        safe_float(g("quarterly_burn")),
+                "operating_cf_quarter":  opcf,
+                "cash_runway_months":    runway,
+                "shares_outstanding":    shares,
+                "cash_per_share":        safe_float(g("cash_per_share")),
+                "offering_180d":         str(g("recent_offering_180d") or "").lower() == "true",
+                "offering_365d":         str(g("recent_offering_365d") or "").lower() == "true",
+                "dilution_risk":         str(g("dilution_risk") or "UNKNOWN"),
+                "sec_quality":           str(g("sec_data_quality") or "LOW"),
+            }
+        tickers_found = sum(1 for t in [c["ticker"] for c in universe] if t in results)
+        print(f"sec_financials.csv cargado: {len(results)} filas, {tickers_found} tickers del universo")
+        return results
+    except Exception as e:
+        print(f"Error leyendo sec_financials.csv: {e}")
+        return None
+
 
 def get_sec_financials(universe: list[dict], session: requests.Session) -> dict[str, dict]:
     # Cargar mapa CIK
@@ -727,19 +769,23 @@ def main():
     # Paso 1 — Universo
     universe = build_universe(args.limit)
 
-    # Paso 2 — SEC
-    sec_session = requests.Session()
-    sec_session.headers.update({
-        "User-Agent": args.user_agent,
-        "Accept-Encoding": "gzip, deflate",
-    })
-    print("Descargando SEC financials...")
-    try:
-        financials = get_sec_financials(universe, sec_session)
-        print(f"SEC OK: {sum(1 for v in financials.values() if 'error' not in v)} tickers con datos")
-    except Exception as e:
-        print(f"AVISO: SEC financials fallaron ({e}) — continuando sin datos financieros SEC")
-        financials = {c["ticker"]: {"error": str(e)} for c in universe}
+    # Paso 2 — SEC financials (CSV local tiene prioridad sobre API)
+    financials = load_sec_from_csv(universe)
+    if financials is None:
+        print("sec_financials.csv no encontrado — intentando API SEC...")
+        sec_session = requests.Session()
+        sec_session.headers.update({
+            "User-Agent": args.user_agent,
+            "Accept-Encoding": "gzip, deflate",
+        })
+        try:
+            financials = get_sec_financials(universe, sec_session)
+            print(f"SEC API OK: {sum(1 for v in financials.values() if 'error' not in v)} tickers con datos")
+        except Exception as e:
+            print(f"AVISO: SEC API falló ({e}) — sin datos financieros SEC")
+            financials = {c["ticker"]: {"error": str(e)} for c in universe}
+    else:
+        print("Usando sec_financials.csv como fuente de datos SEC")
 
     # Paso 3 — Precios
     print("Descargando precios yfinance...")

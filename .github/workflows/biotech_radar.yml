@@ -27,10 +27,11 @@ jobs:
         run: pip install requests pandas yfinance
 
       - name: Ejecutar Biotech Radar Engine
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
         run: |
           python biotech_radar_engine.py \
-            --user-agent "davidamor84 biotech-radar github-actions"
-
+            --user-agent "$SEC_USER_AGENT"
       - name: Commit y push radar_resultado.json
         run: |
           git config user.name  "github-actions[bot]"

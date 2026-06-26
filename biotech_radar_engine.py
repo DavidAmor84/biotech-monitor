@@ -42,7 +42,7 @@ CACHE_DIR.mkdir(exist_ok=True)
 # ── CONFIGURACIÓN ─────────────────────────────────────────────────────────────
 NASDAQ_LISTED_URL = "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
 OTHER_LISTED_URL  = "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
-SEC_TICKERS_URL   = "https://www.sec.gov/files/company_tickers.json"
+SEC_TICKERS_URL   = "https://data.sec.gov/files/company_tickers.json"
 SEC_SUBMISSIONS   = "https://data.sec.gov/submissions/CIK{cik}.json"
 SEC_FACTS         = "https://data.sec.gov/api/xbrl/companyfacts/CIK{cik}.json"
 CTGOV_URL         = "https://clinicaltrials.gov/api/v2/studies"
@@ -732,10 +732,14 @@ def main():
     sec_session.headers.update({
         "User-Agent": args.user_agent,
         "Accept-Encoding": "gzip, deflate",
-        # No fijar Host aquí — cada llamada usa el host correcto según la URL
     })
     print("Descargando SEC financials...")
-    financials = get_sec_financials(universe, sec_session)
+    try:
+        financials = get_sec_financials(universe, sec_session)
+        print(f"SEC OK: {sum(1 for v in financials.values() if 'error' not in v)} tickers con datos")
+    except Exception as e:
+        print(f"AVISO: SEC financials fallaron ({e}) — continuando sin datos financieros SEC")
+        financials = {c["ticker"]: {"error": str(e)} for c in universe}
 
     # Paso 3 — Precios
     print("Descargando precios yfinance...")

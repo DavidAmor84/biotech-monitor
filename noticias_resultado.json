@@ -1,18 +1,55 @@
 {
-  "generado": "25/06/2026 16:11 UTC",
+  "generado": "26/06/2026 15:32 UTC",
   "plazo_horas": 72,
-  "desde": "2026-06-22",
-  "hasta": "2026-06-25",
+  "desde": "2026-06-23",
+  "hasta": "2026-06-26",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "SNDX",
+          "titulo": "Jazz Pharmaceuticals: Why It's Time To Cash Out (Rating Downgrade)",
+          "resumen": "Jazz Pharmaceuticals' shares are in the distribution phase because Zepzelca failed to show a survival benefit over irinotecan. See why JAZZ stock is downgraded to hold.",
+          "fuente": "SeekingAlpha",
+          "fecha": "26 Jun 2026 09:22 UTC",
+          "url": "https://finnhub.io/api/news?id=8f1bf596ce182e56e350eee0da5f22dee126d24c8d2f65b0f0da933c699ddae7",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2260722103/image_2260722103.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "ARGX": {
       "nombre": "ARGX",
       "noticias": [
+        {
+          "ticker": "ARGX",
+          "titulo": "Argenx Analyst Is Bullish Despite Changes To Phase 3 Myositis Study",
+          "resumen": "HC Wainwright sees over $1 billion in sales potential for Argenx&#39;s Vyvgart in IMNM despite myositis trial changes.",
+          "fuente": "Benzinga",
+          "fecha": "25 Jun 2026 13:57 UTC",
+          "url": "https://finnhub.io/api/news?id=d77364eec3ef36fa1bee465d6274385af7fb86949ed89ae31b32ab5d66df0a02",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/06/25/biotech-lab.jpg?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ARGX",
+          "titulo": "HC Wainwright & Co. Reiterates Buy on argenx, Maintains $940 Price Target",
+          "resumen": "HC Wainwright &amp; Co.  analyst Douglas Tsao   reiterates argenx (NASDAQ:ARGX) with a Buy and maintains $940 price target.",
+          "fuente": "Benzinga",
+          "fecha": "25 Jun 2026 08:28 UTC",
+          "url": "https://finnhub.io/api/news?id=dc452c71386cdae9c453c4de85c22e07174b17aa87211b583c33e083a537ed03",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "ARGX",
           "titulo": "Okta To Rally More Than 18%? Here Are 10 Top Analyst Forecasts For Wednesday",
@@ -48,22 +85,10 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "argenx SE (ARGX) Discusses R&D Spotlight on Advancing FcRn Leadership in Autoimmune Myositis - Slideshow",
-          "resumen": "2026-06-23. The following slide deck was published by argenx SE in conjunction with this event.",
-          "fuente": "SeekingAlpha",
-          "fecha": "23 Jun 2026 17:33 UTC",
-          "url": "https://finnhub.io/api/news?id=f04ed3e9305d0507009a1dd87688d8642871a57f98ed8a4d19e132adbf31362d",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
-      "nivel": "azul",
-      "total": 4
+      "nivel": "rojo",
+      "total": 5
     },
     "DYN": {
       "nombre": "DYN",
@@ -103,26 +128,26 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "Chip Bloodbath Hits Nasdaq 100 As South Korea Plunges: Stock Market Today",
-          "resumen": "A global semiconductor sell-off hammered the Nasdaq on Tuesday, but a rotation into defensives and small caps kept the Dow green.",
-          "fuente": "Benzinga",
-          "fecha": "23 Jun 2026 12:45 UTC",
-          "url": "https://finnhub.io/api/news?id=f5b02fa4588be1ab5d66470a80e1a66276c92487186c7cad79742a80030094c3",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/06/23/Financial-Market-Crash-Concept-With-Red-.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 2
     },
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
+        {
+          "ticker": "VRTX",
+          "titulo": "Beam Therapeutics: A Better Entry Point Is Likely Coming (Rating Downgrade)",
+          "resumen": "Beam Therapeutics could have a moat around its business due to Risto-cel showing competitive efficacy. See why BEAM stock is downgraded to a hold.",
+          "fuente": "SeekingAlpha",
+          "fecha": "26 Jun 2026 08:40 UTC",
+          "url": "https://finnhub.io/api/news?id=ba405cbb5351c150f0bceddf11fff95636a06e4fa33d4125056aa50956322117",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2250056975/image_2250056975.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "VRTX",
           "titulo": "Why the Market Dipped But Vertex Pharmaceuticals (VRTX) Gained Today",
@@ -170,18 +195,6 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Healthcare's Quiet Comeback: Innovation, Obesity Drugs And New Opportunities",
-          "resumen": "After lagging expectations during recent market volatility, the healthcare sector is showing signs of strength. TD Asset Management's Jacky He explains what's driving the sectorâs rebound.",
-          "fuente": "SeekingAlpha",
-          "fecha": "23 Jun 2026 14:50 UTC",
-          "url": "https://finnhub.io/api/news?id=6a016defe1b9dc53f0a16467941078ed767221dc5a1d439272f088d00e57048c",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2194222145/image_2194222145.jpg?io=getty-c-w1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -190,6 +203,30 @@
     "ALNY": {
       "nombre": "ALNY",
       "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam Pharmaceuticals, Inc. (ALNY) Discusses ALN-6400 RNAi Therapy Targeting Plasminogen for Rare Bleeding Disorders Transcript",
+          "resumen": "Alnylam Pharmaceuticals, Inc. (ALNY) Discusses ALN-6400 RNAi Therapy Targeting Plasminogen for Rare Bleeding Disorders June 25, 2026 11:00 AM EDTCompany...",
+          "fuente": "SeekingAlpha",
+          "fecha": "25 Jun 2026 17:12 UTC",
+          "url": "https://finnhub.io/api/news?id=09fc01529483992be9241be7f5df8af40184fec6d0d7bb0c142e41284a9ff801",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam Pharmaceuticals, Inc. (ALNY) Discusses ALN-6400 RNAi Therapy Targeting Plasminogen for Rare Bleeding Disorders - Slideshow",
+          "resumen": "2026-06-25. The following slide deck was published by Alnylam Pharmaceuticals, Inc.",
+          "fuente": "SeekingAlpha",
+          "fecha": "25 Jun 2026 13:43 UTC",
+          "url": "https://finnhub.io/api/news?id=da699616d255539459a4fb05af7ac6f2980dba87686743618eb181eb731e0392",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "ALNY",
           "titulo": "Komodo Expands Strategic Partnership With Alnylam to Scale AI-Powered Intelligence Platform",
@@ -225,28 +262,29 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Alnylam Pharmaceuticals (ALNY), Inceptive Form $2B Partnership to Advance RNAi Drug Discovery",
-          "resumen": "Alnylam Pharmaceuticals Inc. (NASDAQ:ALNY) is one of the most promising long-term stocks to buy according to analysts. On June 3, Alnylam and Inceptive Nucleics, which builds foundation models of life, announced a collaboration valued at up to $2 billion to accelerate the discovery of RNAi therapeut",
-          "fuente": "Yahoo",
-          "fecha": "23 Jun 2026 19:18 UTC",
-          "url": "https://finnhub.io/api/news?id=81a3e0e12adee0af5e0cd8872615a40161a4a74e912140b521d38ec0706f8f18",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 4
+      "total": 5
     },
     "BEAM": {
       "nombre": "BEAM",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "BEAM",
+          "titulo": "Beam Therapeutics: A Better Entry Point Is Likely Coming (Rating Downgrade)",
+          "resumen": "Beam Therapeutics could have a moat around its business due to Risto-cel showing competitive efficacy. See why BEAM stock is downgraded to a hold.",
+          "fuente": "SeekingAlpha",
+          "fecha": "26 Jun 2026 08:40 UTC",
+          "url": "https://finnhub.io/api/news?id=ba405cbb5351c150f0bceddf11fff95636a06e4fa33d4125056aa50956322117",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2250056975/image_2250056975.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "OCUL": {
       "nombre": "OCUL",
@@ -287,22 +325,9 @@
     },
     "VERA": {
       "nombre": "VERA",
-      "noticias": [
-        {
-          "ticker": "VERA",
-          "titulo": "Healthcare's Quiet Comeback: Innovation, Obesity Drugs And New Opportunities",
-          "resumen": "After lagging expectations during recent market volatility, the healthcare sector is showing signs of strength. TD Asset Management's Jacky He explains what's driving the sectorâs rebound.",
-          "fuente": "SeekingAlpha",
-          "fecha": "23 Jun 2026 14:50 UTC",
-          "url": "https://finnhub.io/api/news?id=6a016defe1b9dc53f0a16467941078ed767221dc5a1d439272f088d00e57048c",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2194222145/image_2194222145.jpg?io=getty-c-w1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "ACRV": {
       "nombre": "ACRV",
@@ -336,91 +361,19 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "Kymera Therapeutics (KYMR) Soars 10.0%: Is Further Upside Left in the Stock?",
-          "resumen": "Kymera Therapeutics (KYMR) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions could translate into further price increase in the near term.",
-          "fuente": "Yahoo",
-          "fecha": "23 Jun 2026 14:24 UTC",
-          "url": "https://finnhub.io/api/news?id=a08345f0f1035c26d85534dfa54b1cdcd4d026490fa44c573c3d26248ffaa4d7",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "Insmed Appoints Samuele Butera as Senior Vice President, General Manager, Global Respiratory",
-          "resumen": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced the appointment of Samuele Butera as Senior Vice President, General Manager, Global R",
-          "fuente": "Yahoo",
-          "fecha": "23 Jun 2026 11:00 UTC",
-          "url": "https://finnhub.io/api/news?id=327aaa27d3756d2200a32ada992e592b7ef12d2e4bd3096fd022a5b705d620dd",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "Should Insmed’s (INSM) NASDAQ-100 Exit and TPIP Focus Require Action From Investors?",
-          "resumen": "Insmed Incorporated was removed from the NASDAQ-100 Index on 19 June 2026, even as investor focus intensified on its experimental lung drug TPIP. Analyst commentary now emphasizes TPIP’s upcoming clinical data as a potential turning point for Insmed’s rare respiratory disease portfolio and overall o",
-          "fuente": "Yahoo",
-          "fecha": "23 Jun 2026 00:13 UTC",
-          "url": "https://finnhub.io/api/news?id=2385b363c823b678074424cdf37e08b06d7bc4b411af167fdb96b38dcfb67a29",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
-      "nivel": "rojo",
-      "total": 4
+      "nivel": "azul",
+      "total": 1
     }
   },
   "resumen": {
-    "total_noticias": 22,
-    "tickers_con_noticias": 7,
+    "total_noticias": 21,
+    "tickers_con_noticias": 8,
     "alertas_urgentes": 4,
-    "sin_noticias": 10
+    "sin_noticias": 9
   },
   "todas_noticias": [
-    {
-      "ticker": "INSM",
-      "titulo": "Should Insmed’s (INSM) NASDAQ-100 Exit and TPIP Focus Require Action From Investors?",
-      "resumen": "Insmed Incorporated was removed from the NASDAQ-100 Index on 19 June 2026, even as investor focus intensified on its experimental lung drug TPIP. Analyst commentary now emphasizes TPIP’s upcoming clinical data as a potential turning point for Insmed’s rare respiratory disease portfolio and overall o",
-      "fuente": "Yahoo",
-      "fecha": "23 Jun 2026 00:13 UTC",
-      "url": "https://finnhub.io/api/news?id=2385b363c823b678074424cdf37e08b06d7bc4b411af167fdb96b38dcfb67a29",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "Kymera Therapeutics (KYMR) Soars 10.0%: Is Further Upside Left in the Stock?",
-      "resumen": "Kymera Therapeutics (KYMR) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions could translate into further price increase in the near term.",
-      "fuente": "Yahoo",
-      "fecha": "23 Jun 2026 14:24 UTC",
-      "url": "https://finnhub.io/api/news?id=a08345f0f1035c26d85534dfa54b1cdcd4d026490fa44c573c3d26248ffaa4d7",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Alnylam Pharmaceuticals (ALNY), Inceptive Form $2B Partnership to Advance RNAi Drug Discovery",
-      "resumen": "Alnylam Pharmaceuticals Inc. (NASDAQ:ALNY) is one of the most promising long-term stocks to buy according to analysts. On June 3, Alnylam and Inceptive Nucleics, which builds foundation models of life, announced a collaboration valued at up to $2 billion to accelerate the discovery of RNAi therapeut",
-      "fuente": "Yahoo",
-      "fecha": "23 Jun 2026 19:18 UTC",
-      "url": "https://finnhub.io/api/news?id=81a3e0e12adee0af5e0cd8872615a40161a4a74e912140b521d38ec0706f8f18",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "ALNY",
       "titulo": "Alnylam Pharmaceuticals, Inc. (ALNY) and GENESIS Pharma Expand Commercial Partnership",
@@ -494,52 +447,16 @@
       "badge": "🔴"
     },
     {
-      "ticker": "INSM",
-      "titulo": "Insmed Appoints Samuele Butera as Senior Vice President, General Manager, Global Respiratory",
-      "resumen": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced the appointment of Samuele Butera as Senior Vice President, General Manager, Global R",
-      "fuente": "Yahoo",
-      "fecha": "23 Jun 2026 11:00 UTC",
-      "url": "https://finnhub.io/api/news?id=327aaa27d3756d2200a32ada992e592b7ef12d2e4bd3096fd022a5b705d620dd",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "Chip Bloodbath Hits Nasdaq 100 As South Korea Plunges: Stock Market Today",
-      "resumen": "A global semiconductor sell-off hammered the Nasdaq on Tuesday, but a rotation into defensives and small caps kept the Dow green.",
+      "ticker": "ARGX",
+      "titulo": "Argenx Analyst Is Bullish Despite Changes To Phase 3 Myositis Study",
+      "resumen": "HC Wainwright sees over $1 billion in sales potential for Argenx&#39;s Vyvgart in IMNM despite myositis trial changes.",
       "fuente": "Benzinga",
-      "fecha": "23 Jun 2026 12:45 UTC",
-      "url": "https://finnhub.io/api/news?id=f5b02fa4588be1ab5d66470a80e1a66276c92487186c7cad79742a80030094c3",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/06/23/Financial-Market-Crash-Concept-With-Red-.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Healthcare's Quiet Comeback: Innovation, Obesity Drugs And New Opportunities",
-      "resumen": "After lagging expectations during recent market volatility, the healthcare sector is showing signs of strength. TD Asset Management's Jacky He explains what's driving the sectorâs rebound.",
-      "fuente": "SeekingAlpha",
-      "fecha": "23 Jun 2026 14:50 UTC",
-      "url": "https://finnhub.io/api/news?id=6a016defe1b9dc53f0a16467941078ed767221dc5a1d439272f088d00e57048c",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2194222145/image_2194222145.jpg?io=getty-c-w1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VERA",
-      "titulo": "Healthcare's Quiet Comeback: Innovation, Obesity Drugs And New Opportunities",
-      "resumen": "After lagging expectations during recent market volatility, the healthcare sector is showing signs of strength. TD Asset Management's Jacky He explains what's driving the sectorâs rebound.",
-      "fuente": "SeekingAlpha",
-      "fecha": "23 Jun 2026 14:50 UTC",
-      "url": "https://finnhub.io/api/news?id=6a016defe1b9dc53f0a16467941078ed767221dc5a1d439272f088d00e57048c",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2194222145/image_2194222145.jpg?io=getty-c-w1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "fecha": "25 Jun 2026 13:57 UTC",
+      "url": "https://finnhub.io/api/news?id=d77364eec3ef36fa1bee465d6274385af7fb86949ed89ae31b32ab5d66df0a02",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/06/25/biotech-lab.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "VRTX",
@@ -549,18 +466,6 @@
       "fecha": "23 Jun 2026 15:50 UTC",
       "url": "https://finnhub.io/api/news?id=c642c31397f9ef461dafed417b03bb5b4adf8b4c322ad403f6dd4c72035448ee",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "argenx SE (ARGX) Discusses R&D Spotlight on Advancing FcRn Leadership in Autoimmune Myositis - Slideshow",
-      "resumen": "2026-06-23. The following slide deck was published by argenx SE in conjunction with this event.",
-      "fuente": "SeekingAlpha",
-      "fecha": "23 Jun 2026 17:33 UTC",
-      "url": "https://finnhub.io/api/news?id=f04ed3e9305d0507009a1dd87688d8642871a57f98ed8a4d19e132adbf31362d",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
@@ -638,6 +543,18 @@
       "badge": "🔵"
     },
     {
+      "ticker": "ARGX",
+      "titulo": "HC Wainwright & Co. Reiterates Buy on argenx, Maintains $940 Price Target",
+      "resumen": "HC Wainwright &amp; Co.  analyst Douglas Tsao   reiterates argenx (NASDAQ:ARGX) with a Buy and maintains $940 price target.",
+      "fuente": "Benzinga",
+      "fecha": "25 Jun 2026 08:28 UTC",
+      "url": "https://finnhub.io/api/news?id=dc452c71386cdae9c453c4de85c22e07174b17aa87211b583c33e083a537ed03",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
       "ticker": "OCUL",
       "titulo": "Chardan Capital Maintains Buy on Ocular Therapeutix, Raises Price Target to $23",
       "resumen": "Chardan Capital  analyst Andreas Argyrides   maintains Ocular Therapeutix (NASDAQ:OCUL) with a Buy and raises the price target from $21 to $23.",
@@ -645,6 +562,66 @@
       "fecha": "25 Jun 2026 09:34 UTC",
       "url": "https://finnhub.io/api/news?id=a619698e47246acd5db3a60dbc39dfb41133135d612af149fb3e7917cae6bf39",
       "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam Pharmaceuticals, Inc. (ALNY) Discusses ALN-6400 RNAi Therapy Targeting Plasminogen for Rare Bleeding Disorders - Slideshow",
+      "resumen": "2026-06-25. The following slide deck was published by Alnylam Pharmaceuticals, Inc.",
+      "fuente": "SeekingAlpha",
+      "fecha": "25 Jun 2026 13:43 UTC",
+      "url": "https://finnhub.io/api/news?id=da699616d255539459a4fb05af7ac6f2980dba87686743618eb181eb731e0392",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam Pharmaceuticals, Inc. (ALNY) Discusses ALN-6400 RNAi Therapy Targeting Plasminogen for Rare Bleeding Disorders Transcript",
+      "resumen": "Alnylam Pharmaceuticals, Inc. (ALNY) Discusses ALN-6400 RNAi Therapy Targeting Plasminogen for Rare Bleeding Disorders June 25, 2026 11:00 AM EDTCompany...",
+      "fuente": "SeekingAlpha",
+      "fecha": "25 Jun 2026 17:12 UTC",
+      "url": "https://finnhub.io/api/news?id=09fc01529483992be9241be7f5df8af40184fec6d0d7bb0c142e41284a9ff801",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Beam Therapeutics: A Better Entry Point Is Likely Coming (Rating Downgrade)",
+      "resumen": "Beam Therapeutics could have a moat around its business due to Risto-cel showing competitive efficacy. See why BEAM stock is downgraded to a hold.",
+      "fuente": "SeekingAlpha",
+      "fecha": "26 Jun 2026 08:40 UTC",
+      "url": "https://finnhub.io/api/news?id=ba405cbb5351c150f0bceddf11fff95636a06e4fa33d4125056aa50956322117",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2250056975/image_2250056975.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "Beam Therapeutics: A Better Entry Point Is Likely Coming (Rating Downgrade)",
+      "resumen": "Beam Therapeutics could have a moat around its business due to Risto-cel showing competitive efficacy. See why BEAM stock is downgraded to a hold.",
+      "fuente": "SeekingAlpha",
+      "fecha": "26 Jun 2026 08:40 UTC",
+      "url": "https://finnhub.io/api/news?id=ba405cbb5351c150f0bceddf11fff95636a06e4fa33d4125056aa50956322117",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2250056975/image_2250056975.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "SNDX",
+      "titulo": "Jazz Pharmaceuticals: Why It's Time To Cash Out (Rating Downgrade)",
+      "resumen": "Jazz Pharmaceuticals' shares are in the distribution phase because Zepzelca failed to show a survival benefit over irinotecan. See why JAZZ stock is downgraded to hold.",
+      "fuente": "SeekingAlpha",
+      "fecha": "26 Jun 2026 09:22 UTC",
+      "url": "https://finnhub.io/api/news?id=8f1bf596ce182e56e350eee0da5f22dee126d24c8d2f65b0f0da933c699ddae7",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2260722103/image_2260722103.jpg?io=getty-c-w1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "25/06/2026 07:08",
+  "generado": "26/06/2026 15:31",
   "periodo_dias": 7,
-  "desde": "2026-06-18",
-  "hasta": "2026-06-25",
+  "desde": "2026-06-19",
+  "hasta": "2026-06-26",
   "resumen": {
-    "total_filings": 25,
+    "total_filings": 17,
     "alertas_rojas": 0,
-    "alertas_verdes": 1,
-    "alertas_amarillas": 6,
-    "alertas_azules": 18,
-    "sin_novedad": 8
+    "alertas_verdes": 0,
+    "alertas_amarillas": 7,
+    "alertas_azules": 10,
+    "sin_novedad": 11
   },
   "tickers": {
     "SNDX": {
@@ -42,6 +42,32 @@
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
       "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-06-26",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Rhodes Jason P → Venta 77,855 acciones @ $21.13 | Post: 4,805,639 | Rutinaria/RSU/impuestos",
+          "detalle": "xslF345X06/form4-06262026_120619.xml",
+          "empresa_sec": "Dyne Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000157701426000010/xslF345X06/form4-06262026_120619.xml",
+          "form4_detail": {
+            "insider_nombre": "Rhodes Jason P",
+            "insider_cargo": null,
+            "transaccion_codigo": "S",
+            "transaccion_tipo": "Venta",
+            "transaccion_acciones": "77855",
+            "transaccion_precio": "21.13",
+            "transaccion_fecha": "2026-06-23",
+            "acciones_post": "4805639",
+            "footnotes": "Shares were sold pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on March 19, 2026. The price reported in Column 4 is a weighted average price. These securities were sold in multiple transactions at prices ranging from $21.00 to $21.50 inclusive. The Reporting Persons undertake to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of securities sold at each separate price within the ranges set forth in footnotes (2), (6) and (7). The shares are held directly by Atlas Venture Fund XI, L.P. (\"Atlas Venture Fund XI\"). The general partner of Atlas Venture Fund XI is Atlas Venture Associates XI, L.P. (\"AVA XI LP\"). Atlas Venture Associates XI, LLC (\"AVA XI LLC\") is the general partner of AVA XI LP. The Reporting Person is a member of AVA XI LLC and disclaims Section 16 beneficial ownership of such securities held by Atlas Venture Fund XI, except to the extent of his pecuniary interest therein, if any. The shares are owned directly by Atlas Venture Opportunity Fund II, L.P. (\"AVOF II\"). Atlas Venture Associates Opportunity II, LP (\"AVAO II LP\") is the general partner of AVOF II. Atlas Venture Associates Opportunity II, LLC (\"AVAO II LLC\") is the general partner of AVAO II LP. The Reporting Person is a member of AVAO II LLC and disclaims Section 16 beneficial ownership of such securities held by AVOF II, except to the extent of his pecuniary inter",
+            "es_rutinaria": true,
+            "resumen_detail": "Rhodes Jason P → Venta 77,855 acciones @ $21.13 | Post: 4,805,639 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
         {
           "form": "4",
           "fecha": "2026-06-24",
@@ -154,35 +180,9 @@
       "cik": "0001714899",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "8-K",
-          "fecha": "2026-06-18",
-          "nivel": "verde",
-          "badge": "🟢 ALTA",
-          "resumen": "8-K — Evento positivo potencial: Asset purchase / venta de activo [Items: 1.01, 7.01, 9.01]",
-          "detalle": "8-K",
-          "empresa_sec": "Denali Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000081/dnli-20260612.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "1.01",
-              "7.01",
-              "9.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 1.01 Entry into a Material Definitive Agreement On June 12, 2026, Denali Therapeutics Inc. (the Company ) entered into an asset purchase agreement (the PRV Transfer Agreement ), pursuant to which the Company agreed to sell its Rare Pediatric Disease Priority Review Voucher ( PRV ). The Company was awarded the voucher under a U.S. Food and Drug Administration ( FDA ) program intended to encourage the development of certain rare pediatric disease product applications. The Company received the PRV when AVLAYAHTM (tividenofusp alfa) was approved by the FDA for the treatment of Hunter syndrome (mucopolysaccharidosis type II; MPS II) in March 2026. Pursuant to the PRV Transfer Agreement, the buyer agreed to pay the Company $195 million, payable in cash, upon the closing of the sale. The PRV Transfer Agreement contains customary representations, warranties, covenants, and indemnification provisions subject to certain limitations. The transaction remains subject to customary closing conditions, including the expiration or termination of the applicable waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976. The foregoing description of the PRV Transfer Agreement does not purport to be complete and is qualified in its entirety by the full text of the PRV Transfer Agreement, which will be filed as an exhibit to a subsequent filing with the Securities and Exchange Commission (SEC). Item 7.01 Regulation FD Disclosure On June 18, 2026, the Company issued a press release announcing the matters disclosed in this report. A copy of the press release is attached as",
-            "nivel_ajustado": "verde",
-            "badge_ajustado": "🟢 ALTA",
-            "resumen_ajustado": "8-K — Evento positivo potencial: Asset purchase / venta de activo"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "verde",
-      "badge": "🟢",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "VKTX": {
@@ -289,36 +289,9 @@
       "cik": "0001393434",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-06-18",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Dugel Pravin (Director / See Remarks) → Donación 50,092 acciones @ $0.00 | Post: 2,547,078",
-          "detalle": "OWNERSHIP DOCUMENT",
-          "empresa_sec": "OCULAR THERAPEUTIX, INC",
-          "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926075709/xslF345X06/tm2618141-1_4seq1.xml",
-          "form4_detail": {
-            "insider_nombre": "Dugel Pravin",
-            "insider_cargo": "Director / See Remarks",
-            "transaccion_codigo": "G",
-            "transaccion_tipo": "Donación",
-            "transaccion_acciones": "50092",
-            "transaccion_precio": "0",
-            "transaccion_fecha": "2026-06-16",
-            "acciones_post": "2547078",
-            "footnotes": "On June 16, 2026, the reporting person transferred 50,092 shares to his spouse for no consideration.",
-            "es_rutinaria": false,
-            "resumen_detail": "Dugel Pravin (Director / See Remarks) → Donación 50,092 acciones @ $0.00 | Post: 2,547,078"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "CAI": {
@@ -338,189 +311,9 @@
       "cik": "0001888886",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-06-18",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Russell Angus C. → Concesión 39,453 acciones @ $0.00 | Post: 39,453",
-          "detalle": "xslF345X06/form4-06182026_050614.xml",
-          "empresa_sec": "Structure Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000153400226000002/xslF345X06/form4-06182026_050614.xml",
-          "form4_detail": {
-            "insider_nombre": "Russell Angus C.",
-            "insider_cargo": null,
-            "transaccion_codigo": "A",
-            "transaccion_tipo": "Concesión",
-            "transaccion_acciones": "39453",
-            "transaccion_precio": "0",
-            "transaccion_fecha": "2026-06-17",
-            "acciones_post": "39453",
-            "footnotes": "The option exercise price per share is equal to the fair market value per Ordinary Share on the grant date based on the trading price of the Issuer's American Depositary Shares (\"ADSs\"). The shares vest in equal monthly installments over the 12 months following June 17, 2026, provided that the grant will in any case be fully vested on the date immediately prior to the date of the Issuer's 2027 annual shareholder meeting, The Ordinary Shares of the Issuer may be represented by ADSs. Each ADS represents three Ordinary Shares of the Issuer.",
-            "es_rutinaria": false,
-            "resumen_detail": "Russell Angus C. → Concesión 39,453 acciones @ $0.00 | Post: 39,453"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-06-18",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "LOVE TED W → Concesión 39,453 acciones @ $0.00 | Post: 39,453",
-          "detalle": "xslF345X06/form4-06182026_050611.xml",
-          "empresa_sec": "Structure Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000118891926000010/xslF345X06/form4-06182026_050611.xml",
-          "form4_detail": {
-            "insider_nombre": "LOVE TED W",
-            "insider_cargo": null,
-            "transaccion_codigo": "A",
-            "transaccion_tipo": "Concesión",
-            "transaccion_acciones": "39453",
-            "transaccion_precio": "0",
-            "transaccion_fecha": "2026-06-17",
-            "acciones_post": "39453",
-            "footnotes": "The option exercise price per share is equal to the fair market value per Ordinary Share on the grant date based on the trading price of the Issuer's American Depositary Shares (\"ADSs\"). The shares vest in equal monthly installments over the 12 months following June 17, 2026, provided that the grant will in any case be fully vested on the date immediately prior to the date of the Issuer's 2027 annual shareholder meeting, The Ordinary Shares of the Issuer may be represented by ADSs. Each ADS represents three Ordinary Shares of the Issuer.",
-            "es_rutinaria": false,
-            "resumen_detail": "LOVE TED W → Concesión 39,453 acciones @ $0.00 | Post: 39,453"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-06-18",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Waldstreicher Joanne → Concesión 39,453 acciones @ $0.00 | Post: 39,453",
-          "detalle": "xslF345X06/form4-06182026_050609.xml",
-          "empresa_sec": "Structure Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000196241326000002/xslF345X06/form4-06182026_050609.xml",
-          "form4_detail": {
-            "insider_nombre": "Waldstreicher Joanne",
-            "insider_cargo": null,
-            "transaccion_codigo": "A",
-            "transaccion_tipo": "Concesión",
-            "transaccion_acciones": "39453",
-            "transaccion_precio": "0",
-            "transaccion_fecha": "2026-06-17",
-            "acciones_post": "39453",
-            "footnotes": "The option exercise price per share is equal to the fair market value per Ordinary Share on the grant date based on the trading price of the Issuer's American Depositary Shares (\"ADSs\"). The shares vest in equal monthly installments over the 12 months following June 17, 2026, provided that the grant will in any case be fully vested on the date immediately prior to the date of the Issuer's 2027 annual shareholder meeting, The Ordinary Shares of the Issuer may be represented by ADSs. Each ADS represents three Ordinary Shares of the Issuer.",
-            "es_rutinaria": false,
-            "resumen_detail": "Waldstreicher Joanne → Concesión 39,453 acciones @ $0.00 | Post: 39,453"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-06-18",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "DOBMEIER ERIC → Concesión 39,453 acciones @ $0.00 | Post: 39,453",
-          "detalle": "xslF345X06/form4-06182026_050606.xml",
-          "empresa_sec": "Structure Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000120278526000004/xslF345X06/form4-06182026_050606.xml",
-          "form4_detail": {
-            "insider_nombre": "DOBMEIER ERIC",
-            "insider_cargo": null,
-            "transaccion_codigo": "A",
-            "transaccion_tipo": "Concesión",
-            "transaccion_acciones": "39453",
-            "transaccion_precio": "0",
-            "transaccion_fecha": "2026-06-17",
-            "acciones_post": "39453",
-            "footnotes": "The option exercise price per share is equal to the fair market value per Ordinary Share on the grant date based on the trading price of the Issuer's American Depositary Shares (\"ADSs\"). The shares vest in equal monthly installments over the 12 months following June 17, 2026, provided that the grant will in any case be fully vested on the date immediately prior to the date of the Issuer's 2027 annual shareholder meeting, The Ordinary Shares of the Issuer may be represented by ADSs. Each ADS represents three Ordinary Shares of the Issuer.",
-            "es_rutinaria": false,
-            "resumen_detail": "DOBMEIER ERIC → Concesión 39,453 acciones @ $0.00 | Post: 39,453"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-06-18",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "TETLOW SHARON → Concesión 39,453 acciones @ $0.00 | Post: 39,453",
-          "detalle": "xslF345X06/form4-06182026_050604.xml",
-          "empresa_sec": "Structure Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000132856526000002/xslF345X06/form4-06182026_050604.xml",
-          "form4_detail": {
-            "insider_nombre": "TETLOW SHARON",
-            "insider_cargo": null,
-            "transaccion_codigo": "A",
-            "transaccion_tipo": "Concesión",
-            "transaccion_acciones": "39453",
-            "transaccion_precio": "0",
-            "transaccion_fecha": "2026-06-17",
-            "acciones_post": "39453",
-            "footnotes": "The option exercise price per share is equal to the fair market value per Ordinary Share on the grant date based on the trading price of the Issuer's American Depositary Shares (\"ADSs\"). The shares vest in equal monthly installments over the 12 months following June 17, 2026, provided that the grant will in any case be fully vested on the date immediately prior to the date of the Issuer's 2027 annual shareholder meeting, The Ordinary Shares of the Issuer may be represented by ADSs. Each ADS represents three Ordinary Shares of the Issuer.",
-            "es_rutinaria": false,
-            "resumen_detail": "TETLOW SHARON → Concesión 39,453 acciones @ $0.00 | Post: 39,453"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-06-18",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "WELCH DANIEL G → Concesión 39,453 acciones @ $0.00 | Post: 39,453",
-          "detalle": "xslF345X06/form4-06182026_050603.xml",
-          "empresa_sec": "Structure Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000120619926000002/xslF345X06/form4-06182026_050603.xml",
-          "form4_detail": {
-            "insider_nombre": "WELCH DANIEL G",
-            "insider_cargo": null,
-            "transaccion_codigo": "A",
-            "transaccion_tipo": "Concesión",
-            "transaccion_acciones": "39453",
-            "transaccion_precio": "0",
-            "transaccion_fecha": "2026-06-17",
-            "acciones_post": "39453",
-            "footnotes": "The option exercise price per share is equal to the fair market value per Ordinary Share on the grant date based on the trading price of the Issuer's American Depositary Shares (\"ADSs\"). The shares vest in equal monthly installments over the 12 months following June 17, 2026, provided that the grant will in any case be fully vested on the date immediately prior to the date of the Issuer's 2027 annual shareholder meeting, The Ordinary Shares of the Issuer may be represented by ADSs. Each ADS represents three Ordinary Shares of the Issuer.",
-            "es_rutinaria": false,
-            "resumen_detail": "WELCH DANIEL G → Concesión 39,453 acciones @ $0.00 | Post: 39,453"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "8-K",
-          "fecha": "2026-06-18",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Item 5.07: Votación junta accionistas [Items: 5.07]",
-          "detalle": "FORM 8-K",
-          "empresa_sec": "Structure Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000110465926075720/tm2618249d1_8k.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "5.07"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 5.07 Submission of Matters to a Vote of Security Holders. On June 17, 2026, Structure Therapeutics Inc. (the Company ) held its 2026 Annual General Meeting of Shareholders (the Annual General Meeting ). As of April 20, 2026, the record date for the Annual General Meeting, 213,213,565 ordinary shares were outstanding and entitled to vote at the Annual General Meeting. A summary of the matters voted upon by shareholders at the Annual General Meeting is set forth below. Proposal 1: Election of Directors Ted W. Love M.D., Raymond Stevens, Ph.D. and Daniel G. Welch were elected as a Class III directors, to hold office until the 2029 Annual General Meeting of Shareholders and their successors are duly elected and qualified, or until their earlier death, resignation or removal. The final voting results are as follows: Name of Director Elected Votes For Votes Against Abstentions Broker Non-Votes Ted W. Love, M.D. 164,241,780 533,358 172,641 -0- Raymond Stevens, Ph.D. 164,373,741 400,929 173,109 -0- Daniel G. Welch 161,336,058 3,429,342 182,379 -0- Proposal 2: Ratification of Appointment of Independent Registered Public Accounting Firm The Company s shareholders ratified the appointment by the Audit Committee of the Company s Board of Directors of Ernst &amp; Young LLP as the Company s independent registered public accounting firm for the fiscal year ending December 31, 2026. The final voting results are as follows: Votes For Votes Against Abstentions Broker Non-Votes 164,767,215 20,784 159,780 -0- Proposal 3: Advisory vote on the compensation of the Company s named executive o",
-            "nivel_ajustado": "azul",
-            "badge_ajustado": "🔵 INFO",
-            "resumen_ajustado": "Item 5.07: Votación junta accionistas"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "ABVX": {
@@ -860,36 +653,36 @@
       "error": "Sin CIK SEC"
     }
   },
-  "alertas_criticas": [
+  "alertas_criticas": [],
+  "todos_filings": [
     {
-      "ticker": "DNLI",
-      "nombre": "Denali Therapeutics Inc.",
-      "form": "8-K",
-      "fecha": "2026-06-18",
-      "nivel": "verde",
-      "badge": "🟢 ALTA",
-      "resumen": "8-K — Evento positivo potencial: Asset purchase / venta de activo [Items: 1.01, 7.01, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "Denali Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000081/dnli-20260612.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "1.01",
-          "7.01",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 1.01 Entry into a Material Definitive Agreement On June 12, 2026, Denali Therapeutics Inc. (the Company ) entered into an asset purchase agreement (the PRV Transfer Agreement ), pursuant to which the Company agreed to sell its Rare Pediatric Disease Priority Review Voucher ( PRV ). The Company was awarded the voucher under a U.S. Food and Drug Administration ( FDA ) program intended to encourage the development of certain rare pediatric disease product applications. The Company received the PRV when AVLAYAHTM (tividenofusp alfa) was approved by the FDA for the treatment of Hunter syndrome (mucopolysaccharidosis type II; MPS II) in March 2026. Pursuant to the PRV Transfer Agreement, the buyer agreed to pay the Company $195 million, payable in cash, upon the closing of the sale. The PRV Transfer Agreement contains customary representations, warranties, covenants, and indemnification provisions subject to certain limitations. The transaction remains subject to customary closing conditions, including the expiration or termination of the applicable waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976. The foregoing description of the PRV Transfer Agreement does not purport to be complete and is qualified in its entirety by the full text of the PRV Transfer Agreement, which will be filed as an exhibit to a subsequent filing with the Securities and Exchange Commission (SEC). Item 7.01 Regulation FD Disclosure On June 18, 2026, the Company issued a press release announcing the matters disclosed in this report. A copy of the press release is attached as",
-        "nivel_ajustado": "verde",
-        "badge_ajustado": "🟢 ALTA",
-        "resumen_ajustado": "8-K — Evento positivo potencial: Asset purchase / venta de activo"
+      "ticker": "DYN",
+      "nombre": "Dyne Therapeutics, Inc.",
+      "form": "4",
+      "fecha": "2026-06-26",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Rhodes Jason P → Venta 77,855 acciones @ $21.13 | Post: 4,805,639 | Rutinaria/RSU/impuestos",
+      "detalle": "xslF345X06/form4-06262026_120619.xml",
+      "empresa_sec": "Dyne Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000157701426000010/xslF345X06/form4-06262026_120619.xml",
+      "form4_detail": {
+        "insider_nombre": "Rhodes Jason P",
+        "insider_cargo": null,
+        "transaccion_codigo": "S",
+        "transaccion_tipo": "Venta",
+        "transaccion_acciones": "77855",
+        "transaccion_precio": "21.13",
+        "transaccion_fecha": "2026-06-23",
+        "acciones_post": "4805639",
+        "footnotes": "Shares were sold pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on March 19, 2026. The price reported in Column 4 is a weighted average price. These securities were sold in multiple transactions at prices ranging from $21.00 to $21.50 inclusive. The Reporting Persons undertake to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of securities sold at each separate price within the ranges set forth in footnotes (2), (6) and (7). The shares are held directly by Atlas Venture Fund XI, L.P. (\"Atlas Venture Fund XI\"). The general partner of Atlas Venture Fund XI is Atlas Venture Associates XI, L.P. (\"AVA XI LP\"). Atlas Venture Associates XI, LLC (\"AVA XI LLC\") is the general partner of AVA XI LP. The Reporting Person is a member of AVA XI LLC and disclaims Section 16 beneficial ownership of such securities held by Atlas Venture Fund XI, except to the extent of his pecuniary interest therein, if any. The shares are owned directly by Atlas Venture Opportunity Fund II, L.P. (\"AVOF II\"). Atlas Venture Associates Opportunity II, LP (\"AVAO II LP\") is the general partner of AVOF II. Atlas Venture Associates Opportunity II, LLC (\"AVAO II LLC\") is the general partner of AVAO II LP. The Reporting Person is a member of AVAO II LLC and disclaims Section 16 beneficial ownership of such securities held by AVOF II, except to the extent of his pecuniary inter",
+        "es_rutinaria": true,
+        "resumen_detail": "Rhodes Jason P → Venta 77,855 acciones @ $21.13 | Post: 4,805,639 | Rutinaria/RSU/impuestos"
       },
+      "8k_detail": null,
       "10q_detail": null,
       "prospecto_detail": null
-    }
-  ],
-  "todos_filings": [
+    },
     {
       "ticker": "DYN",
       "nombre": "Dyne Therapeutics, Inc.",
@@ -1332,254 +1125,6 @@
         "resumen_detail": "BAUM CHARLES M → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos"
       },
       "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "DNLI",
-      "nombre": "Denali Therapeutics Inc.",
-      "form": "8-K",
-      "fecha": "2026-06-18",
-      "nivel": "verde",
-      "badge": "🟢 ALTA",
-      "resumen": "8-K — Evento positivo potencial: Asset purchase / venta de activo [Items: 1.01, 7.01, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "Denali Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000081/dnli-20260612.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "1.01",
-          "7.01",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 1.01 Entry into a Material Definitive Agreement On June 12, 2026, Denali Therapeutics Inc. (the Company ) entered into an asset purchase agreement (the PRV Transfer Agreement ), pursuant to which the Company agreed to sell its Rare Pediatric Disease Priority Review Voucher ( PRV ). The Company was awarded the voucher under a U.S. Food and Drug Administration ( FDA ) program intended to encourage the development of certain rare pediatric disease product applications. The Company received the PRV when AVLAYAHTM (tividenofusp alfa) was approved by the FDA for the treatment of Hunter syndrome (mucopolysaccharidosis type II; MPS II) in March 2026. Pursuant to the PRV Transfer Agreement, the buyer agreed to pay the Company $195 million, payable in cash, upon the closing of the sale. The PRV Transfer Agreement contains customary representations, warranties, covenants, and indemnification provisions subject to certain limitations. The transaction remains subject to customary closing conditions, including the expiration or termination of the applicable waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976. The foregoing description of the PRV Transfer Agreement does not purport to be complete and is qualified in its entirety by the full text of the PRV Transfer Agreement, which will be filed as an exhibit to a subsequent filing with the Securities and Exchange Commission (SEC). Item 7.01 Regulation FD Disclosure On June 18, 2026, the Company issued a press release announcing the matters disclosed in this report. A copy of the press release is attached as",
-        "nivel_ajustado": "verde",
-        "badge_ajustado": "🟢 ALTA",
-        "resumen_ajustado": "8-K — Evento positivo potencial: Asset purchase / venta de activo"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "OCUL",
-      "nombre": "OCULAR THERAPEUTIX, INC",
-      "form": "4",
-      "fecha": "2026-06-18",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Dugel Pravin (Director / See Remarks) → Donación 50,092 acciones @ $0.00 | Post: 2,547,078",
-      "detalle": "OWNERSHIP DOCUMENT",
-      "empresa_sec": "OCULAR THERAPEUTIX, INC",
-      "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926075709/xslF345X06/tm2618141-1_4seq1.xml",
-      "form4_detail": {
-        "insider_nombre": "Dugel Pravin",
-        "insider_cargo": "Director / See Remarks",
-        "transaccion_codigo": "G",
-        "transaccion_tipo": "Donación",
-        "transaccion_acciones": "50092",
-        "transaccion_precio": "0",
-        "transaccion_fecha": "2026-06-16",
-        "acciones_post": "2547078",
-        "footnotes": "On June 16, 2026, the reporting person transferred 50,092 shares to his spouse for no consideration.",
-        "es_rutinaria": false,
-        "resumen_detail": "Dugel Pravin (Director / See Remarks) → Donación 50,092 acciones @ $0.00 | Post: 2,547,078"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "GPCR",
-      "nombre": "Structure Therapeutics Inc.",
-      "form": "4",
-      "fecha": "2026-06-18",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Russell Angus C. → Concesión 39,453 acciones @ $0.00 | Post: 39,453",
-      "detalle": "xslF345X06/form4-06182026_050614.xml",
-      "empresa_sec": "Structure Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000153400226000002/xslF345X06/form4-06182026_050614.xml",
-      "form4_detail": {
-        "insider_nombre": "Russell Angus C.",
-        "insider_cargo": null,
-        "transaccion_codigo": "A",
-        "transaccion_tipo": "Concesión",
-        "transaccion_acciones": "39453",
-        "transaccion_precio": "0",
-        "transaccion_fecha": "2026-06-17",
-        "acciones_post": "39453",
-        "footnotes": "The option exercise price per share is equal to the fair market value per Ordinary Share on the grant date based on the trading price of the Issuer's American Depositary Shares (\"ADSs\"). The shares vest in equal monthly installments over the 12 months following June 17, 2026, provided that the grant will in any case be fully vested on the date immediately prior to the date of the Issuer's 2027 annual shareholder meeting, The Ordinary Shares of the Issuer may be represented by ADSs. Each ADS represents three Ordinary Shares of the Issuer.",
-        "es_rutinaria": false,
-        "resumen_detail": "Russell Angus C. → Concesión 39,453 acciones @ $0.00 | Post: 39,453"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "GPCR",
-      "nombre": "Structure Therapeutics Inc.",
-      "form": "4",
-      "fecha": "2026-06-18",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "LOVE TED W → Concesión 39,453 acciones @ $0.00 | Post: 39,453",
-      "detalle": "xslF345X06/form4-06182026_050611.xml",
-      "empresa_sec": "Structure Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000118891926000010/xslF345X06/form4-06182026_050611.xml",
-      "form4_detail": {
-        "insider_nombre": "LOVE TED W",
-        "insider_cargo": null,
-        "transaccion_codigo": "A",
-        "transaccion_tipo": "Concesión",
-        "transaccion_acciones": "39453",
-        "transaccion_precio": "0",
-        "transaccion_fecha": "2026-06-17",
-        "acciones_post": "39453",
-        "footnotes": "The option exercise price per share is equal to the fair market value per Ordinary Share on the grant date based on the trading price of the Issuer's American Depositary Shares (\"ADSs\"). The shares vest in equal monthly installments over the 12 months following June 17, 2026, provided that the grant will in any case be fully vested on the date immediately prior to the date of the Issuer's 2027 annual shareholder meeting, The Ordinary Shares of the Issuer may be represented by ADSs. Each ADS represents three Ordinary Shares of the Issuer.",
-        "es_rutinaria": false,
-        "resumen_detail": "LOVE TED W → Concesión 39,453 acciones @ $0.00 | Post: 39,453"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "GPCR",
-      "nombre": "Structure Therapeutics Inc.",
-      "form": "4",
-      "fecha": "2026-06-18",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Waldstreicher Joanne → Concesión 39,453 acciones @ $0.00 | Post: 39,453",
-      "detalle": "xslF345X06/form4-06182026_050609.xml",
-      "empresa_sec": "Structure Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000196241326000002/xslF345X06/form4-06182026_050609.xml",
-      "form4_detail": {
-        "insider_nombre": "Waldstreicher Joanne",
-        "insider_cargo": null,
-        "transaccion_codigo": "A",
-        "transaccion_tipo": "Concesión",
-        "transaccion_acciones": "39453",
-        "transaccion_precio": "0",
-        "transaccion_fecha": "2026-06-17",
-        "acciones_post": "39453",
-        "footnotes": "The option exercise price per share is equal to the fair market value per Ordinary Share on the grant date based on the trading price of the Issuer's American Depositary Shares (\"ADSs\"). The shares vest in equal monthly installments over the 12 months following June 17, 2026, provided that the grant will in any case be fully vested on the date immediately prior to the date of the Issuer's 2027 annual shareholder meeting, The Ordinary Shares of the Issuer may be represented by ADSs. Each ADS represents three Ordinary Shares of the Issuer.",
-        "es_rutinaria": false,
-        "resumen_detail": "Waldstreicher Joanne → Concesión 39,453 acciones @ $0.00 | Post: 39,453"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "GPCR",
-      "nombre": "Structure Therapeutics Inc.",
-      "form": "4",
-      "fecha": "2026-06-18",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "DOBMEIER ERIC → Concesión 39,453 acciones @ $0.00 | Post: 39,453",
-      "detalle": "xslF345X06/form4-06182026_050606.xml",
-      "empresa_sec": "Structure Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000120278526000004/xslF345X06/form4-06182026_050606.xml",
-      "form4_detail": {
-        "insider_nombre": "DOBMEIER ERIC",
-        "insider_cargo": null,
-        "transaccion_codigo": "A",
-        "transaccion_tipo": "Concesión",
-        "transaccion_acciones": "39453",
-        "transaccion_precio": "0",
-        "transaccion_fecha": "2026-06-17",
-        "acciones_post": "39453",
-        "footnotes": "The option exercise price per share is equal to the fair market value per Ordinary Share on the grant date based on the trading price of the Issuer's American Depositary Shares (\"ADSs\"). The shares vest in equal monthly installments over the 12 months following June 17, 2026, provided that the grant will in any case be fully vested on the date immediately prior to the date of the Issuer's 2027 annual shareholder meeting, The Ordinary Shares of the Issuer may be represented by ADSs. Each ADS represents three Ordinary Shares of the Issuer.",
-        "es_rutinaria": false,
-        "resumen_detail": "DOBMEIER ERIC → Concesión 39,453 acciones @ $0.00 | Post: 39,453"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "GPCR",
-      "nombre": "Structure Therapeutics Inc.",
-      "form": "4",
-      "fecha": "2026-06-18",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "TETLOW SHARON → Concesión 39,453 acciones @ $0.00 | Post: 39,453",
-      "detalle": "xslF345X06/form4-06182026_050604.xml",
-      "empresa_sec": "Structure Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000132856526000002/xslF345X06/form4-06182026_050604.xml",
-      "form4_detail": {
-        "insider_nombre": "TETLOW SHARON",
-        "insider_cargo": null,
-        "transaccion_codigo": "A",
-        "transaccion_tipo": "Concesión",
-        "transaccion_acciones": "39453",
-        "transaccion_precio": "0",
-        "transaccion_fecha": "2026-06-17",
-        "acciones_post": "39453",
-        "footnotes": "The option exercise price per share is equal to the fair market value per Ordinary Share on the grant date based on the trading price of the Issuer's American Depositary Shares (\"ADSs\"). The shares vest in equal monthly installments over the 12 months following June 17, 2026, provided that the grant will in any case be fully vested on the date immediately prior to the date of the Issuer's 2027 annual shareholder meeting, The Ordinary Shares of the Issuer may be represented by ADSs. Each ADS represents three Ordinary Shares of the Issuer.",
-        "es_rutinaria": false,
-        "resumen_detail": "TETLOW SHARON → Concesión 39,453 acciones @ $0.00 | Post: 39,453"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "GPCR",
-      "nombre": "Structure Therapeutics Inc.",
-      "form": "4",
-      "fecha": "2026-06-18",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "WELCH DANIEL G → Concesión 39,453 acciones @ $0.00 | Post: 39,453",
-      "detalle": "xslF345X06/form4-06182026_050603.xml",
-      "empresa_sec": "Structure Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000120619926000002/xslF345X06/form4-06182026_050603.xml",
-      "form4_detail": {
-        "insider_nombre": "WELCH DANIEL G",
-        "insider_cargo": null,
-        "transaccion_codigo": "A",
-        "transaccion_tipo": "Concesión",
-        "transaccion_acciones": "39453",
-        "transaccion_precio": "0",
-        "transaccion_fecha": "2026-06-17",
-        "acciones_post": "39453",
-        "footnotes": "The option exercise price per share is equal to the fair market value per Ordinary Share on the grant date based on the trading price of the Issuer's American Depositary Shares (\"ADSs\"). The shares vest in equal monthly installments over the 12 months following June 17, 2026, provided that the grant will in any case be fully vested on the date immediately prior to the date of the Issuer's 2027 annual shareholder meeting, The Ordinary Shares of the Issuer may be represented by ADSs. Each ADS represents three Ordinary Shares of the Issuer.",
-        "es_rutinaria": false,
-        "resumen_detail": "WELCH DANIEL G → Concesión 39,453 acciones @ $0.00 | Post: 39,453"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "GPCR",
-      "nombre": "Structure Therapeutics Inc.",
-      "form": "8-K",
-      "fecha": "2026-06-18",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Item 5.07: Votación junta accionistas [Items: 5.07]",
-      "detalle": "FORM 8-K",
-      "empresa_sec": "Structure Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000110465926075720/tm2618249d1_8k.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "5.07"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 5.07 Submission of Matters to a Vote of Security Holders. On June 17, 2026, Structure Therapeutics Inc. (the Company ) held its 2026 Annual General Meeting of Shareholders (the Annual General Meeting ). As of April 20, 2026, the record date for the Annual General Meeting, 213,213,565 ordinary shares were outstanding and entitled to vote at the Annual General Meeting. A summary of the matters voted upon by shareholders at the Annual General Meeting is set forth below. Proposal 1: Election of Directors Ted W. Love M.D., Raymond Stevens, Ph.D. and Daniel G. Welch were elected as a Class III directors, to hold office until the 2029 Annual General Meeting of Shareholders and their successors are duly elected and qualified, or until their earlier death, resignation or removal. The final voting results are as follows: Name of Director Elected Votes For Votes Against Abstentions Broker Non-Votes Ted W. Love, M.D. 164,241,780 533,358 172,641 -0- Raymond Stevens, Ph.D. 164,373,741 400,929 173,109 -0- Daniel G. Welch 161,336,058 3,429,342 182,379 -0- Proposal 2: Ratification of Appointment of Independent Registered Public Accounting Firm The Company s shareholders ratified the appointment by the Audit Committee of the Company s Board of Directors of Ernst &amp; Young LLP as the Company s independent registered public accounting firm for the fiscal year ending December 31, 2026. The final voting results are as follows: Votes For Votes Against Abstentions Broker Non-Votes 164,767,215 20,784 159,780 -0- Proposal 3: Advisory vote on the compensation of the Company s named executive o",
-        "nivel_ajustado": "azul",
-        "badge_ajustado": "🔵 INFO",
-        "resumen_ajustado": "Item 5.07: Votación junta accionistas"
-      },
       "10q_detail": null,
       "prospecto_detail": null
     }

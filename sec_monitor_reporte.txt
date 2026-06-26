@@ -1,19 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 25/06/2026 07:08 | Período: últimos 7 días
-Desde: 2026-06-18 → Hasta: 2026-06-25
+Generado: 26/06/2026 15:31 | Período: últimos 7 días
+Desde: 2026-06-19 → Hasta: 2026-06-26
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 25 filings | 🔴 0 | 🟢 1 | 🟡 6 | 🔵 18 | ✅ 8 sin novedad
-
-──────────────────────────────────────────────────
-🚨 ALERTAS CRÍTICAS (1)
-──────────────────────────────────────────────────
-
-  [DNLI] Denali Therapeutics Inc.
-  🟢 ALTA 8-K | 2026-06-18
-  8-K — Evento positivo potencial: Asset purchase / venta de activo [Items: 1.01, 7.01, 9.01]
-  → https://www.sec.gov/Archives/edgar/data/1714899/000171489926000081/dnli-20260612.htm
+RESUMEN: 17 filings | 🔴 0 | 🟢 0 | 🟡 7 | 🔵 10 | ✅ 11 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -21,7 +12,10 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [SNDX] Sin novedades
   ✅ [ARGX] Sin novedades
 
-  🟡 [DYN] Dyne Therapeutics, Inc. — 4 filing(s)
+  🟡 [DYN] Dyne Therapeutics, Inc. — 5 filing(s)
+     🟡 MEDIA 4 | 2026-06-26 | Rhodes Jason P → Venta 77,855 acciones @ $21.13 | Post: 4,805,639 | Rutinaria/RSU/impuestos
+     Insider: Rhodes Jason P → Venta 77,855 acciones @ $21.13 | Post: 4,805,639 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1818794/000157701426000010/xslF345X06/form4-06262026_120619.xml
      🟡 MEDIA 4 | 2026-06-24 | Kersten Dirk → Venta 190,676 acciones @ $20.57 | Post: 3,921,542 | Rutinaria/RSU/impuestos
      Insider: Kersten Dirk → Venta 190,676 acciones @ $20.57 | Post: 3,921,542 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1818794/000119312526281119/xslF345X06/ownership.xml
@@ -33,10 +27,7 @@ DETALLE POR TICKER — SEC EDGAR
      🟡 MEDIA 4 | 2026-06-22 | Kersten Dirk → Venta 37,454 acciones @ $20.14 | Post: 4,159,119 | Rutinaria/RSU/impuestos
      Insider: Kersten Dirk → Venta 37,454 acciones @ $20.14 | Post: 4,159,119 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1818794/000119312526277529/xslF345X06/ownership.xml
-
-  🟢 [DNLI] Denali Therapeutics Inc. — 1 filing(s)
-     🟢 ALTA 8-K | 2026-06-18 | 8-K — Evento positivo potencial: Asset purchase / venta de activo [Items: 1.01, 7.01, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1714899/000171489926000081/dnli-20260612.htm
+  ✅ [DNLI] Sin novedades
   ✅ [VKTX] Sin novedades
 
   🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 1 filing(s)
@@ -49,34 +40,9 @@ DETALLE POR TICKER — SEC EDGAR
      🔵 INFO 4 | 2026-06-22 | Ciaramella Giuseppe (President) → Ejercicio opción 6,505 acciones @ $0.67 | Post: 224,911 | Rutinaria/RSU/impuestos
      Insider: Ciaramella Giuseppe (President) → Ejercicio opción 6,505 acciones @ $0.67 | Post: 224,911 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1745999/000119312526277509/xslF345X06/ownership.xml
-
-  🔵 [OCUL] OCULAR THERAPEUTIX, INC — 1 filing(s)
-     🔵 INFO 4 | 2026-06-18 | Dugel Pravin (Director / See Remarks) → Donación 50,092 acciones @ $0.00 | Post: 2,547,078
-     Insider: Dugel Pravin (Director / See Remarks) → Donación 50,092 acciones @ $0.00 | Post: 2,547,078
-     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926075709/xslF345X06/tm2618141-1_4seq1.xml
+  ✅ [OCUL] Sin novedades
   ✅ [CAI] Sin novedades
-
-  🔵 [GPCR] Structure Therapeutics Inc. — 7 filing(s)
-     🔵 INFO 4 | 2026-06-18 | Russell Angus C. → Concesión 39,453 acciones @ $0.00 | Post: 39,453
-     Insider: Russell Angus C. → Concesión 39,453 acciones @ $0.00 | Post: 39,453
-     → https://www.sec.gov/Archives/edgar/data/1888886/000153400226000002/xslF345X06/form4-06182026_050614.xml
-     🔵 INFO 4 | 2026-06-18 | LOVE TED W → Concesión 39,453 acciones @ $0.00 | Post: 39,453
-     Insider: LOVE TED W → Concesión 39,453 acciones @ $0.00 | Post: 39,453
-     → https://www.sec.gov/Archives/edgar/data/1888886/000118891926000010/xslF345X06/form4-06182026_050611.xml
-     🔵 INFO 4 | 2026-06-18 | Waldstreicher Joanne → Concesión 39,453 acciones @ $0.00 | Post: 39,453
-     Insider: Waldstreicher Joanne → Concesión 39,453 acciones @ $0.00 | Post: 39,453
-     → https://www.sec.gov/Archives/edgar/data/1888886/000196241326000002/xslF345X06/form4-06182026_050609.xml
-     🔵 INFO 4 | 2026-06-18 | DOBMEIER ERIC → Concesión 39,453 acciones @ $0.00 | Post: 39,453
-     Insider: DOBMEIER ERIC → Concesión 39,453 acciones @ $0.00 | Post: 39,453
-     → https://www.sec.gov/Archives/edgar/data/1888886/000120278526000004/xslF345X06/form4-06182026_050606.xml
-     🔵 INFO 4 | 2026-06-18 | TETLOW SHARON → Concesión 39,453 acciones @ $0.00 | Post: 39,453
-     Insider: TETLOW SHARON → Concesión 39,453 acciones @ $0.00 | Post: 39,453
-     → https://www.sec.gov/Archives/edgar/data/1888886/000132856526000002/xslF345X06/form4-06182026_050604.xml
-     🔵 INFO 4 | 2026-06-18 | WELCH DANIEL G → Concesión 39,453 acciones @ $0.00 | Post: 39,453
-     Insider: WELCH DANIEL G → Concesión 39,453 acciones @ $0.00 | Post: 39,453
-     → https://www.sec.gov/Archives/edgar/data/1888886/000120619926000002/xslF345X06/form4-06182026_050603.xml
-     🔵 INFO 8-K | 2026-06-18 | Item 5.07: Votación junta accionistas [Items: 5.07]
-     → https://www.sec.gov/Archives/edgar/data/1888886/000110465926075720/tm2618249d1_8k.htm
+  ✅ [GPCR] Sin novedades
   ✅ [ABVX] Sin novedades
 
   🟡 [VERA] Vera Therapeutics, Inc. — 1 filing(s)

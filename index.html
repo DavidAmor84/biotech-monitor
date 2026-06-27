@@ -267,6 +267,7 @@
     <div class="tab" onclick="showTab('pos',this)">🎯 PoS por ticker</div>
     <div class="tab" onclick="showTab('pos_adj',this)">⚖️ Proyección ajustada PoS</div>
     <div class="tab" onclick="showTab('radar',this)">🔭 Radar v3.2</div>
+    <div class="tab" onclick="showTab('radar_v4',this)">🔬 Radar v4.0</div>
   </div>
 
   <!-- TAB NOTICIAS -->
@@ -448,6 +449,44 @@
       </table>
     </div>
     <div style="font-size:10px;color:#334466;text-align:center">⚠️ No es consejo de inversión. Scoring automático preliminar — requiere análisis manual con Modelo v3.2 completo.</div>
+  </div>
+
+  <!-- TAB RADAR v4.0 -->
+  <div id="tab-radar_v4" style="display:none">
+    <div style="background:#181928;border:1px solid #2a2d4a;border-radius:12px;padding:16px 20px;margin-bottom:16px">
+      <div style="font-size:10px;color:#8899bb;letter-spacing:2px;text-transform:uppercase;margin-bottom:6px;font-weight:600">Motor de cribado mejorado</div>
+      <div style="font-size:18px;font-weight:900;color:#fff;margin-bottom:4px">Biotech Radar v4.0</div>
+      <div style="font-size:11px;color:#8899bb;line-height:1.8">
+        <span style="color:#3dffaa">✓ Penalizaciones de calidad de label</span> ·
+        <span style="color:#3dffaa">✓ Filtro ratio upside/downside ≥3x</span> ·
+        <span style="color:#3dffaa">✓ Flags de alerta automáticos</span>
+      </div>
+    </div>
+    <div id="rv4-resumen" style="display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin-bottom:14px"></div>
+    <div id="rv4-meta" style="font-size:10px;color:#556688;margin-bottom:12px"></div>
+    <div id="rv4-leyenda" style="background:#181928;border:1px solid #2a2d4a;border-radius:8px;padding:10px 14px;margin-bottom:14px;display:none">
+      <div style="font-size:9px;color:#5566aa;text-transform:uppercase;letter-spacing:1.5px;font-weight:700;margin-bottom:8px">Leyenda de flags</div>
+      <div id="rv4-leyenda-content" style="display:flex;flex-wrap:wrap;gap:8px"></div>
+    </div>
+    <div style="display:flex;gap:6px;margin-bottom:12px;flex-wrap:wrap;align-items:center">
+      <div style="font-size:10px;color:#8899bb;margin-right:4px">Filtrar:</div>
+      <div class="sec-filter-btn active" onclick="rv4Filtrar('todos',this)">Todos</div>
+      <div class="sec-filter-btn" onclick="rv4Filtrar('PRIORIDAD',this)" style="color:#b388ff">⬟ Prioridad</div>
+      <div class="sec-filter-btn" onclick="rv4Filtrar('ANALIZAR',this)" style="color:#00bcd4">◉ Analizar</div>
+      <div class="sec-filter-btn" onclick="rv4Filtrar('WATCHLIST',this)" style="color:#3dffaa">◎ Watchlist</div>
+      <div class="sec-filter-btn" onclick="rv4Filtrar('DESCARTAR',this)" style="color:#ff6b6b">✕ Descartar</div>
+      <div class="sec-filter-btn" onclick="rv4Filtrar('gap',this)" style="color:#ff9a5c">⚠ Score gap</div>
+      <input id="rv4-search" type="text" placeholder="Buscar ticker..."
+        style="background:#1e2035;border:1px solid #2a2d4a;border-radius:6px;padding:4px 10px;font-size:10px;color:#c0ccee;width:110px"
+        oninput="rv4FiltrarSearch(this)">
+    </div>
+    <div id="rv4-grid" style="display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-bottom:18px"></div>
+    <div id="rv4-empty" style="display:none;background:#181928;border:1px solid #2a2d4a;border-radius:10px;padding:32px;text-align:center">
+      <div style="font-size:28px;margin-bottom:8px">🔬</div>
+      <div style="font-size:13px;color:#c0ccee;margin-bottom:6px">Sin datos del Radar v4.0</div>
+      <div style="font-size:11px;color:#8899bb">Sube <code style="color:#ffe566">biotech_radar_resultado.json</code> al repo para ver los candidatos con scores ajustados.</div>
+    </div>
+    <div style="font-size:10px;color:#556688;margin-top:4px">⚠️ Score v4 es pre-análisis. Aplicar Modelo Biotech v3.2 completo antes de cualquier decisión.</div>
   </div>
 
   <div class="footer">⚠️ No es consejo de inversión. Modelo Biotech v3.1 · Scores y PoS basados en datos clínicos reales publicados a junio 2026. ARGX y NWL cotizan en EUR. ✅ = fármaco aprobado o datos Ph3 publicados. EUR/USD ajustable — consenso bancos apunta a 1.20–1.25 a fin 2026.</div>
@@ -772,7 +811,7 @@ function buildAdj(){
 }
 
 function showTab(name,el){
-  ["watchlist","noticias","scenarios","pos","pos_adj","radar"].forEach(function(t){
+  ["watchlist","noticias","scenarios","pos","pos_adj","radar","radar_v4"].forEach(function(t){
     var el2=document.getElementById("tab-"+t);
     if(el2)el2.style.display="none";
   });
@@ -785,6 +824,7 @@ function showTab(name,el){
   if(name==="pos")buildPos();
   if(name==="pos_adj")buildAdj();
   if(name==="radar")buildRadar();
+  if(name==="radar_v4"){if(!radarV4Data)fetchRadarV4();else buildRv4();}
 }
 
 function setFx(val,el){
@@ -1571,60 +1611,4 @@ function buildRv4Grid(){
   });
   if(rv4SearchTerm)filtrados=filtrados.filter(function(c){
     return(c.ticker||"").toLowerCase().indexOf(rv4SearchTerm)>=0
-      ||(c.empresa||"").toLowerCase().indexOf(rv4SearchTerm)>=0;
-  });
-  var grid=document.getElementById("rv4-grid"),empty=document.getElementById("rv4-empty");
-  if(!grid)return;
-  if(filtrados.length===0){grid.innerHTML="";if(empty)empty.style.display="block";return;}
-  if(empty)empty.style.display="none";
-  grid.innerHTML=filtrados.map(function(c){
-    var vc=RV4_C[c.veredicto]||"#8899bb",vb=RV4_BG[c.veredicto]||"rgba(136,153,187,.10)";
-    var diff=parseFloat((c.score_v4-c.score_base).toFixed(1));
-    var diffStr=diff!==0
-      ?'<span style="color:'+(diff<0?"#ff6b6b":"#3dffaa")+';font-size:9px;margin-left:4px">'+(diff>0?"+":"")+diff+'</span>'
-      :"";
-    var flagsHtml=(c.flags||[]).map(function(f){
-      var def=defs[f]||{emoji:"?",color:"#8899bb",label:f};
-      return'<span title="'+def.label+'" style="background:'+def.color+'22;color:'+def.color
-        +';padding:2px 6px;border-radius:4px;font-size:9px;font-weight:700;cursor:default">'+def.emoji+'</span>';
-    }).join(" ");
-    var ratioHtml="";
-    if(c.ratio_ud!=null){
-      var rok=c.ratio_ud>=3,rc=rok?"#3dffaa":"#ff6b6b";
-      ratioHtml='<span style="background:'+rc+'22;color:'+rc
-        +';padding:2px 7px;border-radius:4px;font-size:9px;font-weight:700">⚖ '
-        +c.ratio_ud.toFixed(1)+'x'+(rok?" ✅":" ❌")+'</span>';
-    }
-    var pc=c.pos_ajustada>=70?"#3dffaa":c.pos_ajustada>=50?"#ffe566":"#ff9a5c";
-    var razonesHtml=(c.razones_ajuste||[]).length>0
-      ?'<div style="margin-top:8px;padding:8px;background:#13142a;border-radius:6px;font-size:9px;color:#8899bb;line-height:1.7">'
-        +(c.razones_ajuste||[]).map(function(r){return"• "+r;}).join("<br>")+'</div>'
-      :"";
-    var borderCol=diff<-3?"#ff6b6b55":diff>3?"#3dffaa55":"#2a2d4a";
-    return'<div style="background:#181928;border:1px solid '+borderCol
-      +';border-radius:10px;padding:14px 16px;border-left:3px solid '+vc+'">'
-      +'<div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:10px">'
-        +'<div>'
-          +'<div style="font-size:15px;font-weight:900;color:#ffe566">'+c.ticker+'</div>'
-          +'<div style="font-size:9px;color:#8899bb;margin-top:1px">'+c.empresa+'</div>'
-          +'<div style="font-size:9px;color:#7788aa;margin-top:2px">'+(c.area||"")+(c.fase?" · "+c.fase.toUpperCase():"")+'</div>'
-        +'</div>'
-        +'<div style="text-align:right">'
-          +'<div style="font-size:20px;font-weight:900;color:'+vc+'">'+c.score_v4.toFixed(1)+'</div>'
-          +'<div style="font-size:9px;color:#8899bb">'+diffStr+' base '+c.score_base.toFixed(1)+'</div>'
-          +'<div style="background:'+vb+';color:'+vc+';padding:2px 8px;border-radius:4px;font-size:9px;font-weight:700;margin-top:4px">'+c.veredicto+'</div>'
-        +'</div>'
-      +'</div>'
-      +'<div style="display:flex;gap:6px;margin-bottom:8px;flex-wrap:wrap;align-items:center">'
-        +'<span style="background:'+pc+'22;color:'+pc+';padding:2px 7px;border-radius:4px;font-size:9px;font-weight:700">PoS '+c.pos_ajustada+'%</span>'
-        +ratioHtml
-        +(c.activos?'<span style="background:#1e2035;color:#8899bb;padding:2px 7px;border-radius:4px;font-size:9px">'+c.activos+' activos</span>':"")
-      +'</div>'
-      +(flagsHtml?'<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:6px">'+flagsHtml+'</div>':"")
-      +razonesHtml
-      +'</div>';
-  }).join("");
-}
-
-function rv4Filtrar(tipo,el){
-  docume
+      ||(c.empresa||"").toLowerCase()

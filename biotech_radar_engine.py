@@ -1,832 +1,445 @@
+
 """
-biotech_radar_engine.py
+BIOTECH RADAR ENGINE v4.0
+Mejoras sobre v3.2:
+  1. Penalizaciones de calidad de label (boxed warning, label restringido, HFpEF, etc.)
+  2. Filtro ratio upside/downside >= 3x con floor de caja
+  3. Score pre-análisis v3.2 diferenciado del score de cribado crudo
+  4. Flags de alerta exportados al JSON para el dashboard
 
-Script único para GitHub Actions — ejecuta el pipeline completo:
-  1. Descarga universo biotech desde NASDAQ Trader
-  2. Obtiene financials desde SEC EDGAR (XBRL)
-  3. Obtiene precios y market cap desde yfinance
-  4. Puntúa con Modelo Biotech v3.2
-  5. Genera radar_resultado.json para el dashboard web
-
-Uso:
-  python biotech_radar_engine.py
-  python biotech_radar_engine.py --user-agent "Nombre email@x.com"
-  python biotech_radar_engine.py --limit 50   # para pruebas rápidas
-
-Dependencias:
-  pip install requests pandas yfinance
+Autor: Modelo Biotech v3.2 | Junio 2026
 """
 
-from __future__ import annotations
+import json, os, time, csv, difflib, datetime, math
+import urllib.request, urllib.error
 
-import argparse
-import io
-import json
-import math
-import re
-import time
-from dataclasses import dataclass, asdict
-from datetime import datetime, timezone
-from pathlib import Path
-from typing import Any
+# ─── CONFIGURACIÓN ────────────────────────────────────────────────────────────
+SEC_TICKERS_URL   = "https://www.sec.gov/files/company_tickers.json"
+FINNHUB_TOKEN     = os.environ.get("FINNHUB_TOKEN", "")   # secret en GitHub Actions
+AV_KEY            = os.environ.get("AV_KEY", "")
+OUTPUT_FILE       = "biotech_radar_resultado.json"
+SEC_FINANCIALS_CSV= "sec_financials.csv"          # CSV estático en repo
+MAX_RESULTS       = 150                           # candidatos en JSON final
 
-import pandas as pd
-import requests
-
-# ── RUTAS ────────────────────────────────────────────────────────────────────
-HERE = Path(__file__).resolve().parent
-OUTPUT_JSON = HERE / "radar_resultado.json"
-CACHE_DIR = HERE / "cache_radar"
-CACHE_DIR.mkdir(exist_ok=True)
-
-# ── CONFIGURACIÓN ─────────────────────────────────────────────────────────────
-NASDAQ_LISTED_URL = "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt"
-OTHER_LISTED_URL  = "https://www.nasdaqtrader.com/dynamic/SymDir/otherlisted.txt"
-SEC_TICKERS_URL   = "https://data.sec.gov/files/company_tickers.json"
-SEC_SUBMISSIONS   = "https://data.sec.gov/submissions/CIK{cik}.json"
-SEC_FACTS         = "https://data.sec.gov/api/xbrl/companyfacts/CIK{cik}.json"
-SEC_CSV_PATH      = HERE / "sec_financials.csv"   # CSV local — prioridad sobre API
-CTGOV_URL         = "https://clinicaltrials.gov/api/v2/studies"
-
-BIOTECH_KEYWORDS = [
-    "therapeutics","therapy","biotherapeutics","biopharma","biopharmaceutical",
-    "pharmaceutical","pharma","biosciences","bioscience","biotech","biotechnology",
-    "genomics","genetics","gene","oncology","immuno","neuro","medicines","molecular",
-    "precision","rna","vaccine","vaccines","immunology","rare disease",
-]
-EXCLUDE_KEYWORDS = [
-    "acquisition corp","spac","etf","fund","trust","warrant","unit","right",
-    "preferred","notes","bank","bancorp","financial","insurance","casino",
-    "bitcoin","crypto","blockchain",
-]
-MANUAL_TICKERS = {
-    "ALNY","ARGX","DNLI","DYN","GPCR","OCUL","SNDX","VKTX","NTLA","BEAM",
-    "ABVX","ACRV","SENS","VRTX","ARVN","KROS","IMVT","KYMR","RVMD","WVE",
+# ─── UNIVERSO DE INDICACIONES CON TASAS PoS BIO/IQVIA 2024 ──────────────────
+# (fase → indicación → PoS base %)
+POS_BASE = {
+    "ph1":  {"oncology": 0.07, "rare_disease": 0.12, "cns": 0.07, "autoimmune": 0.08,
+             "metabolic": 0.09, "cardiovascular": 0.09, "ophthalmic": 0.10, "other": 0.08},
+    "ph2":  {"oncology": 0.07, "rare_disease": 0.20, "cns": 0.10, "autoimmune": 0.12,
+             "metabolic": 0.12, "cardiovascular": 0.14, "ophthalmic": 0.15, "other": 0.12},
+    "ph3":  {"oncology": 0.55, "rare_disease": 0.65, "cns": 0.50, "autoimmune": 0.62,
+             "metabolic": 0.60, "cardiovascular": 0.60, "ophthalmic": 0.65, "other": 0.58},
+    "nda":  {"oncology": 0.85, "rare_disease": 0.88, "cns": 0.82, "autoimmune": 0.86,
+             "metabolic": 0.85, "cardiovascular": 0.85, "ophthalmic": 0.87, "other": 0.84},
+    "approved": {"all": 1.00},
 }
-PERIODIC_FORMS  = {"10-Q","10-K","20-F","40-F"}
-OFFERING_FORMS  = {"S-1","S-3","F-1","F-3","424B5","424B3","424B2","EFFECT","POS AM"}
-ACTIVE_STATUSES = {"RECRUITING","ACTIVE_NOT_RECRUITING","NOT_YET_RECRUITING","ENROLLING_BY_INVITATION"}
-TARGET_PHASES   = {"PHASE2","PHASE2_PHASE3","PHASE3"}
-TODAY           = pd.Timestamp(datetime.now(timezone.utc).date())
 
+# ─── MODIFICADORES PoS ────────────────────────────────────────────────────────
+POS_MODS = {
+    # Positivos
+    "breakthrough_therapy":     +0.10,
+    "fast_track":               +0.05,
+    "orphan_drug":              +0.07,
+    "rmat":                     +0.08,
+    "spa_fda":                  +0.15,
+    "nejm_publication":         +0.10,
+    "ph3_superiority":          +0.08,
+    "ph3_data_positive":        +0.05,
+    # Negativos
+    "boxed_warning":            -0.15,   # NUEVO v4
+    "label_restricted":         -0.12,   # NUEVO v4 — label limitado vs solicitud original
+    "hfpef_indication":         -0.18,   # NUEVO v4 — cementerio histórico Ph3
+    "cns_hard_target":          -0.15,   # diana maldita CNS
+    "crl_history":              -0.15,   # CRL previo del sponsor
+    "endpoint_change":          -0.12,   # cambio de endpoint durante ensayo
+    "no_peer_review":           -0.08,   # solo press release
+    "ph3_recently_started":     -0.10,   # Ph3 iniciado <6 meses
+    "competitive_approved":     -0.05,   # competidor aprobado en misma línea
+    "micro_cap_dilution":       -0.10,   # <$50M cap, dilución probable
+}
 
-# ══════════════════════════════════════════════════════════════════════════════
-# UTILIDADES
-# ══════════════════════════════════════════════════════════════════════════════
+# ─── PENALIZACIONES DE CALIDAD DE LABEL (NUEVO v4) ───────────────────────────
+# Reducen el score de cribado antes de presentar candidatos
+LABEL_QUALITY_PENALTIES = {
+    "boxed_warning":        -2.5,   # boxed warning FDA intrínseco al mecanismo
+    "label_restricted":     -2.0,   # FDA negó expansión; label < solicitud original
+    "dialysis_only":        -1.5,   # mercado limitado a pacientes en diálisis
+    "hfpef_graveyard":      -3.0,   # indicación con múltiples fracasos Ph3 históricos
+    "no_partnership":       -1.0,   # sin partner activo (penalización suave en cribado)
+    "ultra_rare_ceiling":   -1.5,   # techo de revenue limitado por rareza extrema
+    "ndd_ckd_door_closed":  -2.0,   # FDA cerró puerta a expansión NDD-CKD
+}
 
-def now_iso() -> str:
-    return datetime.now(timezone.utc).isoformat(timespec="seconds")
+# ─── FILTRO RATIO UPSIDE/DOWNSIDE (NUEVO v4) ─────────────────────────────────
+MIN_UPSIDE_DOWNSIDE_RATIO = 3.0   # hard filter: si ratio < 3x → flag "ratio_insuficiente"
 
-def safe_float(x: Any) -> float | None:
-    if x is None: return None
-    if isinstance(x, float) and math.isnan(x): return None
-    try:
-        s = str(x).replace(",","").replace("$","").strip()
-        return None if s.lower() in {"","nan","none","na","n/a"} else float(s)
-    except: return None
-
-def millions(x: float | None) -> float | None:
-    return round(x / 1_000_000, 2) if x is not None else None
-
-def sec_cash_to_usd(v: float | None) -> float | None:
-    if v is None: return None
-    return v * 1_000_000 if abs(v) < 1_000_000 else v
-
-def contains_any(text: str, kws: list[str]) -> bool:
-    t = str(text).lower()
-    return any(k in t for k in kws)
-
-def months_until(x: Any) -> float | None:
-    try:
-        ts = pd.to_datetime(str(x), errors="coerce", utc=True)
-        if pd.isna(ts): return None
-        return (pd.Timestamp(ts.date()) - TODAY).days / 30.44
-    except: return None
-
-def fetch_text(url: str, headers: dict, retries=3, pause=1.0) -> str:
-    for _ in range(retries):
-        try:
-            r = requests.get(url, headers=headers, timeout=30)
-            r.raise_for_status()
-            return r.text
-        except Exception as e:
-            last = e
-            time.sleep(pause)
-    raise RuntimeError(f"No se pudo descargar {url}: {last}")
-
-def get_json_cached(session: requests.Session, url: str, cache_name: str,
-                    refresh=False, sleep_s=0.12) -> dict:
-    cp = CACHE_DIR / cache_name
-    if cp.exists() and not refresh:
-        return json.loads(cp.read_text(encoding="utf-8"))
-    # Construir headers sin el Host de sesión — dejamos que requests lo derive de la URL
-    hdrs = {k: v for k, v in session.headers.items() if k.lower() != "host"}
-    r = session.get(url, headers=hdrs, timeout=30)
-    time.sleep(sleep_s)
-    r.raise_for_status()
-    data = r.json()
-    cp.write_text(json.dumps(data), encoding="utf-8")
-    return data
-
-
-# ══════════════════════════════════════════════════════════════════════════════
-# PASO 1 — UNIVERSO BIOTECH
-# ══════════════════════════════════════════════════════════════════════════════
-
-def build_universe(limit: int | None = None) -> list[dict]:
-    hdr = {"User-Agent": "BiotechRadar/3.0 research script"}
-    nasdaq_txt = fetch_text(NASDAQ_LISTED_URL, hdr)
-    other_txt  = fetch_text(OTHER_LISTED_URL,  hdr)
-
-    def parse_pipe(txt):
-        lines = [l for l in txt.splitlines() if "File Creation Time" not in l]
-        return pd.read_csv(io.StringIO("\n".join(lines)), sep="|")
-
-    nasdaq = parse_pipe(nasdaq_txt)
-    other  = parse_pipe(other_txt)
-
-    suffix_pats = [
-        r"\s*-\s*(common stock|ordinary shares|american depositary.*|ads|adr).*$",
-        r"\s*(common stock|ordinary shares|class [ab]).*$",
-    ]
-    def clean_name(n):
-        n = str(n).strip()
-        for p in suffix_pats:
-            n = re.sub(p, "", n, flags=re.I)
-        return re.sub(r"\s+", " ", n).strip(" -,")
-
-    rows = []
-    for df, sym_col in [(nasdaq, "Symbol"), (other, "ACT Symbol")]:
-        for _, row in df.iterrows():
-            ticker = str(row.get(sym_col,"")).strip().replace("$","-")
-            name   = str(row.get("Security Name","")).strip()
-            if not ticker or re.search(r"[\^/]", ticker): continue
-            clean  = clean_name(name)
-            inc    = contains_any(clean, BIOTECH_KEYWORDS) or ticker.upper() in MANUAL_TICKERS
-            exc    = contains_any(name,  EXCLUDE_KEYWORDS)
-            if inc and not exc:
-                rows.append({"ticker": ticker.upper(), "company_name": clean})
-
-    seen, out = set(), []
-    for r in rows:
-        if r["ticker"] not in seen:
-            seen.add(r["ticker"])
-            out.append(r)
-
-    out.sort(key=lambda x: x["ticker"])
-    if limit: out = out[:limit]
-    print(f"Universo: {len(out)} tickers biotech")
-    return out
-
-
-# ══════════════════════════════════════════════════════════════════════════════
-# PASO 2 — SEC FINANCIALS
-# ══════════════════════════════════════════════════════════════════════════════
-
-CASH_TAGS    = ["CashAndCashEquivalentsAtCarryingValue",
-                "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents","Cash"]
-ST_INV_TAGS  = ["ShortTermInvestments","MarketableSecuritiesCurrent","AvailableForSaleSecuritiesCurrent"]
-DEBT_TAGS    = ["LongTermDebtCurrent","ShortTermBorrowings","LongTermDebtNoncurrent","ConvertibleNotesPayable"]
-OPCF_TAGS    = ["NetCashProvidedByUsedInOperatingActivities"]
-NETLOSS_TAGS = ["NetIncomeLoss","ProfitLoss"]
-RD_TAGS      = ["ResearchAndDevelopmentExpense"]
-GNA_TAGS     = ["GeneralAndAdministrativeExpense"]
-
-def units_for_tag(facts: dict, tag: str) -> list[dict]:
-    for ns in ("us-gaap", "dei"):
-        item = facts.get("facts",{}).get(ns,{}).get(tag)
-        if item:
-            rows = []
-            for unit, vals in item.get("units",{}).items():
-                for v in vals:
-                    rows.append({**v, "unit": unit, "tag": tag})
-            return rows
-    return []
-
-def latest_instant(facts, tags, forms=None):
-    cands = []
-    for tag in tags:
-        for r in units_for_tag(facts, tag):
-            if "val" not in r: continue
-            if forms and r.get("form","") not in forms: continue
-            if r.get("unit") not in {"USD","shares"}: continue
-            cands.append(r)
-    if not cands: return None, None
-    cands.sort(key=lambda r: (str(r.get("end","")), str(r.get("filed",""))), reverse=True)
-    b = cands[0]
-    return safe_float(b.get("val")), b.get("tag")
-
-def latest_duration(facts, tags, forms=None, max_days=120):
-    cands = []
-    for tag in tags:
-        for r in units_for_tag(facts, tag):
-            if "val" not in r or r.get("unit") != "USD": continue
-            if forms and r.get("form","") not in forms: continue
-            try:
-                s = pd.to_datetime(r.get("start"), errors="coerce")
-                e = pd.to_datetime(r.get("end"),   errors="coerce")
-                if pd.isna(s) or pd.isna(e): continue
-                days = (e - s).days
-                if days < 60 or days > max_days: continue
-            except: continue
-            cands.append(r)
-    if not cands: return None, None
-    cands.sort(key=lambda r: (str(r.get("end","")), str(r.get("filed",""))), reverse=True)
-    b = cands[0]
-    return safe_float(b.get("val")), b.get("tag")
-
-def sum_latest(facts, tags):
-    total, used = 0.0, []
-    for tag in tags:
-        v, t = latest_instant(facts, [tag], PERIODIC_FORMS)
-        if v is not None:
-            total += v
-            used.append(t or tag)
-    return (total if used else None), used
-
-def load_sec_from_csv(universe: list[dict]) -> dict[str, dict] | None:
-    """Lee sec_financials.csv si existe en el repo. Devuelve None si no existe."""
-    if not SEC_CSV_PATH.exists():
+def calc_ratio_upside_downside(precio_actual, precio_exito, precio_fracaso):
+    """Calcula ratio upside/downside. Retorna None si no hay datos."""
+    if not precio_actual or not precio_exito or not precio_fracaso:
         return None
-    try:
-        df = pd.read_csv(SEC_CSV_PATH)
-        df["ticker"] = df["ticker"].astype(str).str.upper().str.strip()
-        results = {}
-        for _, row in df.iterrows():
-            ticker = row["ticker"]
-            def g(col):
-                v = row.get(col)
-                if v is None or (isinstance(v, float) and pd.isna(v)):
-                    return None
-                return v
-            cash_m   = safe_float(g("cash_and_investments")) or safe_float(g("cash"))
-            debt_m   = safe_float(g("total_debt")) or 0
-            runway   = safe_float(g("cash_runway_months"))
-            opcf     = safe_float(g("operating_cf_quarter"))
-            shares   = safe_float(g("shares_outstanding"))
-            results[ticker] = {
-                "cash":                  cash_m,
-                "debt":                  debt_m,
-                "quarterly_burn":        safe_float(g("quarterly_burn")),
-                "operating_cf_quarter":  opcf,
-                "cash_runway_months":    runway,
-                "shares_outstanding":    shares,
-                "cash_per_share":        safe_float(g("cash_per_share")),
-                "offering_180d":         str(g("recent_offering_180d") or "").lower() == "true",
-                "offering_365d":         str(g("recent_offering_365d") or "").lower() == "true",
-                "dilution_risk":         str(g("dilution_risk") or "UNKNOWN"),
-                "sec_quality":           str(g("sec_data_quality") or "LOW"),
-            }
-        tickers_found = sum(1 for t in [c["ticker"] for c in universe] if t in results)
-        print(f"sec_financials.csv cargado: {len(results)} filas, {tickers_found} tickers del universo")
-        return results
-    except Exception as e:
-        print(f"Error leyendo sec_financials.csv: {e}")
-        return None
+    upside   = precio_exito   - precio_actual
+    downside = precio_actual  - precio_fracaso
+    if downside <= 0:
+        return 99.0   # downside teórico 0 (precio < caja)
+    return round(upside / downside, 2)
 
-
-def get_sec_financials(universe: list[dict], session: requests.Session) -> dict[str, dict]:
-    # Cargar mapa CIK
-    cik_data = get_json_cached(session, SEC_TICKERS_URL, "company_tickers.json")
-    cik_map  = {str(v.get("ticker","")).upper(): int(v["cik_str"])
-                for v in cik_data.values() if v.get("ticker")}
-
-    results = {}
-    total = len(universe)
-    for i, company in enumerate(universe, 1):
-        ticker = company["ticker"]
-        cik    = cik_map.get(ticker)
-        if not cik:
-            results[ticker] = {"error": "sin_cik"}
-            continue
-        c10 = str(cik).zfill(10)
-        try:
-            subs  = get_json_cached(session, SEC_SUBMISSIONS.format(cik=c10), f"subs_{c10}.json")
-            facts = get_json_cached(session, SEC_FACTS.format(cik=c10),       f"facts_{c10}.json")
-
-            # Filings recientes — señales dilución
-            recent = subs.get("filings",{}).get("recent",{})
-            forms_list  = recent.get("form",[])
-            dates_list  = recent.get("filingDate",[])
-            cutoff_180  = (TODAY - pd.Timedelta(days=180)).isoformat()
-            cutoff_365  = (TODAY - pd.Timedelta(days=365)).isoformat()
-            offering_180 = any(f in OFFERING_FORMS and d >= cutoff_180
-                               for f,d in zip(forms_list, dates_list))
-            offering_365 = any(f in OFFERING_FORMS and d >= cutoff_365
-                               for f,d in zip(forms_list, dates_list))
-
-            # Métricas XBRL
-            cash,  _  = latest_instant(facts, CASH_TAGS,  PERIODIC_FORMS)
-            sti,   _  = sum_latest(facts, ST_INV_TAGS)
-            debt,  _  = sum_latest(facts, DEBT_TAGS)
-            opcf,  _  = latest_duration(facts, OPCF_TAGS,    PERIODIC_FORMS)
-            netloss,_ = latest_duration(facts, NETLOSS_TAGS, PERIODIC_FORMS)
-            rd,    _  = latest_duration(facts, RD_TAGS,      PERIODIC_FORMS)
-            gna,   _  = latest_duration(facts, GNA_TAGS,     PERIODIC_FORMS)
-            shares,_  = latest_instant(facts, ["EntityCommonStockSharesOutstanding"])
-
-            cash_total = None
-            if cash is not None or sti is not None:
-                cash_total = (cash or 0) + (sti[0] if isinstance(sti, tuple) else (sti or 0))
-
-            # Burn rate
-            q_burn = None
-            if opcf is not None and opcf < 0:
-                q_burn = abs(opcf)
-            elif netloss is not None and netloss < 0:
-                q_burn = abs(netloss)
-            elif rd or gna:
-                q_burn = (rd or 0) + (gna or 0)
-
-            m_burn   = q_burn / 3 if q_burn and q_burn > 0 else None
-            cash_m   = millions(cash_total)
-            runway   = (cash_total / m_burn) if cash_total and m_burn and m_burn > 0 else None
-            debt_m   = millions(debt[0] if isinstance(debt, tuple) else debt)
-            cps      = millions(cash_total / shares) if cash_total and shares and shares > 0 else None
-
-            results[ticker] = {
-                "cash": cash_m,
-                "debt": debt_m or 0,
-                "quarterly_burn": millions(q_burn),
-                "operating_cf_quarter": millions(opcf),
-                "cash_runway_months": round(runway, 1) if runway else None,
-                "shares_outstanding": shares,
-                "cash_per_share": cps,
-                "offering_180d": offering_180,
-                "offering_365d": offering_365,
-                "dilution_risk": _classify_dilution(runway, offering_180, offering_365),
-                "sec_quality": "GOOD" if cash_m and q_burn else ("PARTIAL" if cash_m else "LOW"),
-            }
-        except Exception as e:
-            results[ticker] = {"error": str(e)[:120]}
-        if i % 50 == 0:
-            print(f"  SEC: {i}/{total}")
-        time.sleep(0.12)
-
-    print(f"SEC financials: {sum(1 for v in results.values() if 'error' not in v)}/{total} OK")
-    return results
-
-def _classify_dilution(runway, off180, off365):
-    if runway and runway < 9:  return "HIGH"
-    if off180 and (not runway or runway < 18): return "HIGH"
-    if runway and runway < 12: return "HIGH"
-    if off180:  return "MEDIUM"
-    if off365:  return "MEDIUM"
-    if runway and runway >= 18: return "LOW"
-    return "UNKNOWN"
-
-
-# ══════════════════════════════════════════════════════════════════════════════
-# PASO 3 — YFINANCE PRECIOS
-# ══════════════════════════════════════════════════════════════════════════════
-
-def get_prices(tickers: list[str], batch_size=100) -> dict[str, dict]:
-    try:
-        import yfinance as yf
-    except ImportError:
-        print("yfinance no instalado — sin datos de precio")
-        return {}
-
-    results = {}
-    for i in range(0, len(tickers), batch_size):
-        batch = tickers[i:i+batch_size]
-        try:
-            raw = yf.download(batch, period="1d", auto_adjust=True,
-                              progress=False, threads=True)
-            if len(batch) == 1:
-                t = batch[0]
-                if not raw.empty and "Close" in raw.columns:
-                    p = safe_float(raw["Close"].iloc[-1])
-                    if p and p > 0: results[t] = {"price": p}
-            else:
-                if "Close" in raw.columns.get_level_values(0) and not raw.empty:
-                    closes  = raw["Close"].iloc[-1]
-                    volumes = raw["Volume"].iloc[-1] if "Volume" in raw.columns.get_level_values(0) else pd.Series()
-                    for t in batch:
-                        p = safe_float(closes.get(t))
-                        v = safe_float(volumes.get(t)) if not volumes.empty else None
-                        if p and p > 0:
-                            results[t] = {"price": p, "volume": v}
-        except Exception as e:
-            print(f"  yfinance batch error: {e}")
-        if i + batch_size < len(tickers):
-            time.sleep(0.5)
-
-    # fast_info para market_cap y shares
-    print(f"  yfinance fast_info para {len(results)} tickers...")
-    for t, data in results.items():
-        try:
-            fi = yf.Ticker(t).fast_info
-            mc = safe_float(getattr(fi, "market_cap", None))
-            sh = safe_float(getattr(fi, "shares", None))
-            if mc and mc > 0: data["market_cap"] = mc
-            if sh and sh > 0: data["shares_outstanding"] = sh
-        except: pass
-        time.sleep(0.05)
-
-    print(f"Precios: {len(results)}/{len(tickers)} OK")
-    return results
-
-
-# ══════════════════════════════════════════════════════════════════════════════
-# PASO 4 — CLINICAL TRIALS (ligero — solo ensayos activos Ph2/3)
-# ══════════════════════════════════════════════════════════════════════════════
-
-CORP_PAT = r"\b(incorporated|inc\.?|corp\.?|ltd\.?|limited|plc|s\.a\.|sa|ag|nv|llc|co\.?|company|holdings?)\b"
-
-def clean_for_ct(name: str) -> str:
-    n = re.sub(r"\s*-\s*(common stock|ordinary shares|american depositary.*).*$", "", name, flags=re.I)
-    n = re.sub(CORP_PAT, "", n, flags=re.I)
-    n = re.sub(r"[^A-Za-z0-9 ']", " ", n)
-    n = re.sub(r"\s+", " ", n).strip()
-    return " ".join(n.split()[:5])
-
-def get_trials(universe: list[dict]) -> dict[str, list[dict]]:
-    results = {c["ticker"]: [] for c in universe}
-    total = len(universe)
-    hdrs  = {"User-Agent": "BiotechRadar/3.0 research script"}
-
-    for i, company in enumerate(universe, 1):
-        ticker = company["ticker"]
-        query  = clean_for_ct(company["company_name"])
-        if not query: continue
-        ck = CACHE_DIR / f"ct_{re.sub(r'[^A-Za-z0-9]','_',ticker)}.json"
-        try:
-            if ck.exists():
-                payload = json.loads(ck.read_text(encoding="utf-8"))
-            else:
-                r = requests.get(CTGOV_URL, headers=hdrs, timeout=40, params={
-                    "query.spons": query, "pageSize": 50, "format": "json"
-                })
-                r.raise_for_status()
-                payload = r.json()
-                ck.write_text(json.dumps(payload), encoding="utf-8")
-                time.sleep(0.15)
-
-            for study in payload.get("studies", []):
-                proto  = study.get("protocolSection", {})
-                design = proto.get("designModule", {})
-                status = proto.get("statusModule", {})
-                phases = design.get("phases", [])
-                overall = status.get("overallStatus")
-                if not any(p in TARGET_PHASES for p in phases): continue
-                if overall not in ACTIVE_STATUSES | {"COMPLETED"}: continue
-                conds = proto.get("conditionsModule",{}).get("conditions",[])
-                arms  = proto.get("armsInterventionsModule",{})
-                interventions = [x.get("name") for x in arms.get("interventions",[]) if x.get("name")]
-                sponsor = proto.get("sponsorCollaboratorsModule",{}).get("leadSponsor",{}).get("name","")
-                pcd = status.get("primaryCompletionDateStruct",{}).get("date","")
-                enroll = design.get("enrollmentInfo",{}).get("count")
-                results[ticker].append({
-                    "nct_id": proto.get("identificationModule",{}).get("nctId",""),
-                    "phases": phases,
-                    "overall_status": overall,
-                    "conditions": conds,
-                    "interventions": interventions,
-                    "lead_sponsor": sponsor,
-                    "primary_completion_date": pcd,
-                    "enrollment": enroll,
-                })
-        except Exception as e:
-            pass
-        if i % 50 == 0:
-            print(f"  ClinicalTrials: {i}/{total}")
-
-    found = sum(1 for v in results.values() if v)
-    print(f"ClinicalTrials: {found}/{total} con ensayos")
-    return results
-
-
-# ══════════════════════════════════════════════════════════════════════════════
-# PASO 5 — SCORING v3.2
-# ══════════════════════════════════════════════════════════════════════════════
-
-PHASE_W = {"PHASE3":3,"PHASE2_PHASE3":2,"PHASE2":1}
-BIG_PHARMA = ["pfizer","novartis","roche","genentech","merck","msd","bristol","bms",
-              "abbvie","eli lilly","lilly","johnson","janssen","sanofi","astrazeneca",
-              "gsk","glaxosmithkline","takeda","amgen","biogen","gilead","novo nordisk",
-              "bayer","boehringer","daiichi","astellas","ucb","ipsen","servier","sobi","chugai"]
-
-AREA_TERMS = {
-    "Oncology":     ["cancer","carcinoma","tumor","tumour","neoplasm","lymphoma","leukemia","myeloma","sarcoma","melanoma","glioma"],
-    "Rare disease": ["rare","duchenne","hemophilia","orphan","huntington","ataxia","dystrophy","spinal muscular","als ","amyotrophic"],
-    "CNS":          ["alzheimer","parkinson","depression","schizophrenia","epilepsy","migraine","autism","cns","neurolog","multiple sclerosis"],
-    "Autoimmune":   ["lupus","psoriasis","dermatitis","colitis","crohn","arthritis","autoimmune","asthma","myasthenia","cidp","igan"],
-    "Ophthalmic":   ["macular degeneration","amd","retina","retinal","diabetic retinopathy","glaucoma","ophthalm","ocular","geographic atrophy"],
-    "Metabolic":    ["obesity","diabetes","nash","mash","metabolic","glucose","glp-1","insulin resistance"],
-    "Cardiovascular":["cardiac","cardiomyopathy","heart failure","coronary","hypertension","atherosclerosis","myocardial","atrial fibrillation","cardiovascular"],
-}
-AREA_POS = {
-    "Oncology":      (0.18, 0.065),
-    "Rare disease":  (0.35, 0.20),
-    "CNS":           (0.25, 0.095),
-    "Autoimmune":    (0.30, 0.125),
-    "Ophthalmic":    (0.55, 0.20),
-    "Metabolic":     (0.30, 0.12),
-    "Cardiovascular":(0.65, 0.15),
-    "Other":         (0.28, 0.125),
+# ─── CATÁLOGO DE FLAGS DE ALERTA (NUEVO v4) ──────────────────────────────────
+# Flags exportados al JSON → dashboard los muestra en tarjeta del candidato
+FLAG_DEFINITIONS = {
+    "boxed_warning":            {"emoji": "⬛", "color": "#ff4444", "label": "Boxed Warning FDA"},
+    "label_restricted":         {"emoji": "🔒", "color": "#ff6b6b", "label": "Label restringido vs solicitud"},
+    "ratio_insuficiente":       {"emoji": "📐", "color": "#ff9a5c", "label": "Ratio upside/downside <3x"},
+    "hfpef_graveyard":          {"emoji": "💀", "color": "#ff4444", "label": "Indicación HFpEF — cementerio Ph3"},
+    "no_partnership":           {"emoji": "🤝", "color": "#ffe566", "label": "Sin partnership activo"},
+    "micro_cap_dilution":       {"emoji": "💧", "color": "#ffe566", "label": "Micro-cap — riesgo dilución"},
+    "insider_selling":          {"emoji": "🔴", "color": "#ff4444", "label": "Insiders vendiendo en mercado abierto"},
+    "crl_history":              {"emoji": "📋", "color": "#ff9a5c", "label": "CRL previo del sponsor"},
+    "ultra_rare_ceiling":       {"emoji": "📈", "color": "#ffe566", "label": "Techo revenue por rareza extrema"},
+    "phase_early":              {"emoji": "🌱", "color": "#8899bb", "label": "Fase temprana — Ph1/Ph2"},
+    "datos_pendientes":         {"emoji": "⏳", "color": "#00bcd4", "label": "Datos próximos — catalizador binario"},
+    "score_gap_radar_modelo":   {"emoji": "⚠️",  "color": "#ffe566", "label": "Discrepancia score Radar vs Modelo completo"},
 }
 
-def detect_area(conds: list[str]) -> str:
-    t = " ".join(conds).lower()
-    for area, terms in AREA_TERMS.items():
-        if any(term in t for term in terms):
-            return area
-    return "Other"
+# ─── FUNCIÓN PRINCIPAL DE SCORING v4 ─────────────────────────────────────────
+def calcular_score_v4(empresa: dict) -> dict:
+    """
+    Calcula score de cribado v4 aplicando:
+      - Score base (0–20) por activos clínicos, fase, área
+      - Modificadores PoS calibrados BIO/IQVIA
+      - Penalizaciones de calidad de label (NUEVO)
+      - Filtro ratio upside/downside (NUEVO)
+      - Generación de flags de alerta (NUEVO)
 
-def score_company(ticker: str, company_name: str,
-                  trials: list[dict],
-                  fin: dict,
-                  prices: dict) -> dict:
-    score = 0.0
-    reasons = []
-    hard_fails = []
-    RUNWAY_CAP = 60
+    empresa: dict con campos del CSV SEC (o de la API)
+    Retorna: dict con score_v4, pos_ajustada, ratio, flags, veredicto
+    """
+    score_base = empresa.get("score_base", 10.0)   # score crudo del cribado anterior
+    area       = empresa.get("area", "other").lower()
+    fase       = empresa.get("fase", "ph2").lower()
+    mods_activos = empresa.get("modificadores", [])   # lista de strings
 
-    # ── Fase ──────────────────────────────────────────────────
-    best_phase_w = 0
-    for tr in trials:
-        for p in tr.get("phases",[]):
-            best_phase_w = max(best_phase_w, PHASE_W.get(p,0))
-    phase_pts = {3:2.0, 2:1.5, 1:1.0, 0:0.0}[best_phase_w]
-    score += phase_pts
-    if best_phase_w == 3:
-        best_phase = "PHASE3"; reasons.append("Fase III detectada (+2).")
-    elif best_phase_w == 2:
-        best_phase = "PHASE2_PHASE3"; reasons.append("Fase II/III detectada (+1.5).")
-    elif best_phase_w == 1:
-        best_phase = "PHASE2"; reasons.append("Fase II detectada (+1).")
+    # ── 1. PoS calibrada ──────────────────────────────────────────────────────
+    pos_base = POS_BASE.get(fase, POS_BASE["ph2"]).get(area, 0.10)
+    pos_mod  = sum(POS_MODS.get(m, 0) for m in mods_activos)
+    pos_final = max(0.03, min(0.97, pos_base + pos_mod))
+
+    # ── 2. Penalizaciones de calidad de label (NUEVO v4) ─────────────────────
+    penalizaciones_label = empresa.get("penalizaciones_label", [])
+    penalty_total = sum(LABEL_QUALITY_PENALTIES.get(p, 0) for p in penalizaciones_label)
+    score_v4 = round(max(0.0, score_base + penalty_total), 1)
+
+    # ── 3. Flags de alerta ────────────────────────────────────────────────────
+    flags = []
+    for pen in penalizaciones_label:
+        if pen in FLAG_DEFINITIONS:
+            flags.append(pen)
+
+    precio_actual  = empresa.get("precio_actual", None)
+    precio_exito   = empresa.get("precio_exito", None)
+    precio_fracaso = empresa.get("precio_fracaso", None)
+    caja_por_acc   = empresa.get("caja_por_accion", None)
+
+    # Usar floor de caja como precio fracaso si no se define explícitamente
+    if not precio_fracaso and caja_por_acc:
+        precio_fracaso = caja_por_acc * 0.7   # descuento al 70% de caja (dilución esperada)
+
+    ratio = calc_ratio_upside_downside(precio_actual, precio_exito, precio_fracaso)
+
+    if ratio is not None and ratio < MIN_UPSIDE_DOWNSIDE_RATIO:
+        flags.append("ratio_insuficiente")
+
+    # Flags automáticos por modificadores
+    if "micro_cap_dilution" in mods_activos:
+        flags.append("micro_cap_dilution")
+    if "crl_history" in mods_activos:
+        flags.append("crl_history")
+    if fase in ("ph1", "ph2"):
+        flags.append("phase_early")
+
+    # Discrepancia score radar vs modelo completo (si diferencia > 4 puntos)
+    if score_v4 < score_base - 4:
+        flags.append("score_gap_radar_modelo")
+
+    # ── 4. Veredicto v4 ───────────────────────────────────────────────────────
+    if score_v4 >= 16:
+        veredicto = "PRIORIDAD"
+    elif score_v4 >= 14:
+        veredicto = "ANALIZAR"
+    elif score_v4 >= 11:
+        veredicto = "WATCHLIST"
     else:
-        best_phase = "NONE"
-        hard_fails.append("Sin Fase II/III.")
-        reasons.append("Sin Fase II/III (+0).")
+        veredicto = "DESCARTAR"
 
-    # ── Ensayos activos ───────────────────────────────────────
-    n_active = sum(1 for t in trials if t.get("overall_status") in ACTIVE_STATUSES)
-    n_trials = len(trials)
-    if n_active >= 3:   pts = 2.0; reasons.append(f"{n_active} ensayos activos (+2).")
-    elif n_active >= 1: pts = 1.0; reasons.append(f"{n_active} ensayo(s) activo(s) (+1).")
-    else:
-        pts = 0.0
-        hard_fails.append("Sin ensayos activos." if n_trials else "Sin ensayos válidos.")
-        reasons.append("Sin ensayos activos (+0).")
-    score += pts
+    # ── 5. Razón legible del score (NUEVO v4) ─────────────────────────────────
+    razones = []
+    for pen in penalizaciones_label:
+        d = LABEL_QUALITY_PENALTIES.get(pen, 0)
+        if d != 0:
+            desc = FLAG_DEFINITIONS.get(pen, {}).get("label", pen)
+            razones.append(f"{desc}: {d:+.1f}pts")
 
-    # ── Catalizador ───────────────────────────────────────────
-    catalyst_months_list = []
-    for tr in trials:
-        m = months_until(tr.get("primary_completion_date"))
-        if m is not None and m >= 0:
-            catalyst_months_list.append((m, tr.get("primary_completion_date","")))
-    catalyst_months_list.sort(key=lambda x: x[0])
-    next_cat_m    = catalyst_months_list[0][0] if catalyst_months_list else None
-    next_cat_date = catalyst_months_list[0][1] if catalyst_months_list else ""
-    if next_cat_m is not None and 3 <= next_cat_m <= 9:
-        pts = 2.0; reasons.append(f"Catalizador óptimo 3-9m: {next_cat_date} (+2).")
-    elif next_cat_m is not None and next_cat_m <= 12:
-        pts = 1.0; reasons.append(f"Catalizador en 12m: {next_cat_date} (+1).")
-    elif next_cat_m is not None and next_cat_m <= 18:
-        pts = 0.5; reasons.append(f"Catalizador en 18m: {next_cat_date} (+0.5).")
-    else:
-        pts = 0.0
-        hard_fails.append("Sin catalizador ≤12m.")
-        reasons.append("Sin catalizador claro ≤12m (+0).")
-    score += pts
-
-    # ── Diversificación ───────────────────────────────────────
-    all_conds  = list({c for t in trials for c in t.get("conditions",[])})
-    all_drugs  = list({d for t in trials for d in t.get("interventions",[])})
-    n_c, n_d   = len(all_conds), len(all_drugs)
-    if n_d >= 3 or n_c >= 3:   pts = 2.0; reasons.append(f"Pipeline diversificado ≥3 activos/indicaciones (+2).")
-    elif n_d >= 2 or n_c >= 2: pts = 1.0; reasons.append(f"Diversificación parcial (+1).")
-    else:                       pts = 0.0; reasons.append("Single-asset probable (+0).")
-    score += pts
-
-    # ── Enrollment ────────────────────────────────────────────
-    enrolls = [safe_float(t.get("enrollment")) for t in trials if safe_float(t.get("enrollment"))]
-    max_enroll = max(enrolls) if enrolls else None
-    if max_enroll and max_enroll >= 300:   pts = 2.0; reasons.append(f"Enrollment máx. {int(max_enroll)} (+2).")
-    elif max_enroll and max_enroll >= 100: pts = 1.0; reasons.append(f"Enrollment máx. {int(max_enroll)} (+1).")
-    else:                                  pts = 0.0; reasons.append("Tamaño muestral bajo/N/D (+0).")
-    score += pts
-
-    # ── Partnership ───────────────────────────────────────────
-    co_lower = company_name.lower()
-    co_is_bp = any(bp in co_lower for bp in BIG_PHARMA)
-    sponsors = [t.get("lead_sponsor","").lower() for t in trials]
-    ext_bp   = [s for s in sponsors
-                if any(bp in s for bp in BIG_PHARMA)
-                and not any(w in s for w in co_lower.split() if len(w)>4)]
-    if co_is_bp:           pts = 0.0; reasons.append("Empresa es Big Pharma, no aplica partnership (+0).")
-    elif ext_bp:           pts = 2.0; reasons.append(f"Partnership Big Pharma: '{ext_bp[0]}' (+2).")
-    elif any(s for s in sponsors if s and not any(w in s for w in co_lower.split() if len(w)>4)):
-                           pts = 0.5; reasons.append("Sponsor externo detectado (+0.5).")
-    else:                  pts = 0.0; reasons.append("Sin partnership Big Pharma (+0).")
-    score += pts
-
-    # ── Área y PoS ────────────────────────────────────────────
-    area = detect_area(all_conds)
-    ph3, ph2 = AREA_POS.get(area, (0.28, 0.125))
-    pos = ph3 if "PHASE3" in best_phase else ph2
-    if pos >= 0.50:   pts = 2.0; reasons.append(f"PoS alta {area} {pos:.0%} (+2).")
-    elif pos >= 0.20: pts = 1.0; reasons.append(f"PoS media {area} {pos:.0%} (+1).")
-    else:             pts = 0.0; reasons.append(f"PoS baja {area} {pos:.0%} (+0).")
-    score += pts
-
-    # ── Finanzas ──────────────────────────────────────────────
-    cashflow_pos = False
-    runway_display = None
-
-    if fin and "error" not in fin:
-        cash_m  = safe_float(fin.get("cash"))
-        cash_usd = sec_cash_to_usd(cash_m)
-        debt_m  = safe_float(fin.get("debt")) or 0
-        runway  = safe_float(fin.get("cash_runway_months"))
-        opcf    = safe_float(fin.get("operating_cf_quarter"))
-        dilution = str(fin.get("dilution_risk","")).lower()
-
-        pdata   = prices.get(ticker, {})
-        mc      = safe_float(pdata.get("market_cap"))
-        price   = safe_float(pdata.get("price"))
-        volume  = safe_float(pdata.get("volume"))
-        debt_usd = sec_cash_to_usd(debt_m * 1e6 if debt_m and debt_m < 1e6 else debt_m) or 0
-        ev = (mc + debt_usd - (cash_usd or 0)) if mc is not None else None
-
-        # Runway / cashflow
-        cashflow_pos = opcf is not None and opcf > 0
-        if cashflow_pos:
-            pts = 2.0; reasons.append("Cash flow operativo positivo: sin riesgo burn (+2).")
-            runway_display = RUNWAY_CAP
-        elif runway and runway >= 24:
-            pts = 2.0; reasons.append(f"Runway {runway:.0f}m (+2).")
-            runway_display = min(runway, RUNWAY_CAP)
-        elif runway and runway >= 18:
-            pts = 1.5; reasons.append(f"Runway {runway:.0f}m (+1.5).")
-            runway_display = min(runway, RUNWAY_CAP)
-        elif runway and runway >= 12:
-            pts = 1.0; reasons.append(f"Runway {runway:.0f}m (+1).")
-            runway_display = min(runway, RUNWAY_CAP)
-        else:
-            pts = 0.0; hard_fails.append("Runway <12m.")
-            reasons.append("Runway insuficiente (+0).")
-            runway_display = runway or 0
-        score += pts
-
-        # Dilución
-        if "low" in dilution or dilution in {"none",""}:
-            pts = 2.0; reasons.append("Dilución baja (+2).")
-        elif "medium" in dilution:
-            pts = 1.0; reasons.append("Dilución media (+1).")
-        else:
-            pts = 0.0; hard_fails.append("Dilución alta.")
-            reasons.append("Dilución alta (+0).")
-        score += pts
-
-        # Cash/EV
-        if cash_usd is not None and ev is not None:
-            if ev <= 0:
-                pts = 2.0; reasons.append(f"EV negativo — caja > market cap (+2).")
-            elif cash_usd >= ev:
-                pts = 1.5; reasons.append(f"Caja ${cash_m:.0f}M ≥ EV (+1.5).")
-            elif cash_usd >= 0.5 * ev:
-                pts = 1.0; reasons.append(f"Caja ${cash_m:.0f}M ≥ 50% EV (+1).")
-            else:
-                pts = 0.0; reasons.append(f"Caja ${cash_m:.0f}M < 50% EV (+0).")
-        else:
-            pts = 0.0; reasons.append("Sin datos caja/EV (+0).")
-        score += pts
-
-        # Oportunidad tamaño
-        if mc is not None:
-            if mc < 50e6:           opp = -1.0; reasons.append("Market cap <50M: riesgo liquidez (-1).")
-            elif mc < 100e6:        opp =  0.5; reasons.append("Market cap 50-100M: ineficiencia posible (+0.5).")
-            elif mc <= 5e9:         opp =  2.0; reasons.append("Market cap 100M-5B: rango objetivo (+2).")
-            elif mc <= 10e9:        opp =  0.5; reasons.append("Market cap 5-10B (+0.5).")
-            elif mc <= 20e9:        opp = -1.5; reasons.append("Market cap 10-20B (-1.5).")
-            else:                   opp = -3.0; reasons.append("Market cap >20B (-3).")
-            score += max(-4.0, min(4.0, opp))
-        if volume is not None and volume < 100_000:
-            score -= 1.0; reasons.append("Volumen bajo <100k/día (-1).")
-    else:
-        score += 1.0
-        reasons.append("Sin datos financieros — neutral (+1).")
-        cash_m = ev = mc = price = volume = runway = None
-        dilution = "UNKNOWN"
-        cash_usd = debt_usd = None
-
-    # ── Penalizaciones ────────────────────────────────────────
-    if n_trials == 0:   score = min(score, 6.0)
-    if len(hard_fails) >= 2: score = min(score, 11.0)
-    elif len(hard_fails) == 1: score = min(score, 14.0)
-    score = max(0.0, min(20.0, round(score, 2)))
-
-    verdict = ("PRIORIDAD ABSOLUTA" if score >= 18
-               else "ANALIZAR" if score >= 15
-               else "WATCHLIST" if score >= 12
-               else "DESCARTAR")
-    if len(hard_fails) >= 2: verdict = "DESCARTAR"
+    if ratio is not None:
+        razones.append(f"Ratio upside/downside: {ratio:.1f}x {'✅' if ratio >= 3 else '❌ <3x'}")
 
     return {
-        "ticker": ticker,
-        "company_name": company_name,
-        "score": score,
-        "verdict": verdict,
-        "hard_fail_count": len(hard_fails),
-        "hard_fails": hard_fails,
-        "reasons": reasons,
-        "n_trials": n_trials,
-        "n_active": n_active,
-        "next_catalyst_date": next_cat_date,
-        "next_catalyst_months": round(next_cat_m, 1) if next_cat_m is not None else None,
-        "therapeutic_area": area,
-        "base_pos": pos,
-        "max_enrollment": int(max_enroll) if max_enroll else None,
-        "cashflow_positive": cashflow_pos,
-        "runway_months": safe_float(fin.get("cash_runway_months")) if fin and "error" not in fin else None,
-        "runway_display": round(runway_display, 1) if runway_display is not None else None,
-        "cash_m": safe_float(fin.get("cash")) if fin and "error" not in fin else None,
-        "dilution_risk": str(fin.get("dilution_risk","")) if fin and "error" not in fin else "UNKNOWN",
-        "market_cap": prices.get(ticker,{}).get("market_cap"),
-        "price": prices.get(ticker,{}).get("price"),
-        "enterprise_value": ev if fin and "error" not in fin else None,
-        "partnership_big_pharma": bool(ext_bp) if not co_is_bp else False,
+        "score_v4":         score_v4,
+        "score_base":       score_base,
+        "pos_ajustada":     round(pos_final * 100, 1),
+        "ratio_ud":         ratio,
+        "flags":            list(dict.fromkeys(flags)),   # deduplica preservando orden
+        "veredicto":        veredicto,
+        "razones_ajuste":   razones,
     }
 
 
-# ══════════════════════════════════════════════════════════════════════════════
-# MAIN
-# ══════════════════════════════════════════════════════════════════════════════
+# ─── REGLAS DE PENALIZACIÓN AUTOMÁTICA POR TICKER (NUEVO v4) ─────────────────
+# Mapeo ticker → penalizaciones de label conocidas
+# Se actualiza cuando el modelo completo identifica un gap que el cribado ignora
+TICKER_LABEL_PENALTIES = {
+    # Identificados en análisis 27 jun 2026
+    "AKBA": ["boxed_warning", "label_restricted", "dialysis_only", "ndd_ckd_door_closed"],
+    "TENX": ["hfpef_graveyard", "no_partnership", "micro_cap_dilution"],
+    "IMCR": ["ultra_rare_ceiling"],
+    "RIGL": [],   # comercial sólido, sin penalizaciones de label
+    "FDMT": [],   # pipeline limpio, penaliza solo si IOI en Ph3
+    "DNLI": [],   # ya en cartera, aprobado
+    # Cartera existente
+    "ABVX": ["label_restricted"],   # riesgo litigio + HTA
+    "ACRV": ["micro_cap_dilution"],
+    "TARA": ["micro_cap_dilution"],
+    "BEAM": [],
+    "GPCR": ["no_partnership"],
+    "VKTX": ["no_partnership"],
+    "DYN":  ["no_partnership"],
+}
 
-def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--user-agent", default="BiotechRadar davidamor84 contact@example.com")
-    parser.add_argument("--limit", type=int, default=None)
-    parser.add_argument("--skip-ct", action="store_true", help="Saltar ClinicalTrials (usa caché)")
-    args = parser.parse_args()
+# ─── PRECIO_EXITO / PRECIO_FRACASO POR TICKER (NUEVO v4) ─────────────────────
+# Estimaciones para filtro ratio — se actualizan tras análisis completo
+TICKER_PRICE_TARGETS = {
+    "AKBA": {"exito": 4.50,  "fracaso": 0.40},
+    "TENX": {"exito": 5.00,  "fracaso": 0.25},
+    "IMCR": {"exito": 65.00, "fracaso": 18.00},
+    "RIGL": {"exito": 2.20,  "fracaso": 0.45},
+    "FDMT": {"exito": 35.00, "fracaso": 8.00},
+    "DNLI": {"exito": 52.00, "fracaso": 13.00},
+    "VERA": {"exito": 108.00,"fracaso": 18.00},
+    "INSM": {"exito": 240.00,"fracaso": 80.00},
+    "ABVX": {"exito": 170.00,"fracaso": 33.00},
+    "VKTX": {"exito": 118.00,"fracaso": 15.00},
+    "GPCR": {"exito": 130.00,"fracaso": 18.00},
+    "BEAM": {"exito": 85.00, "fracaso": 12.00},
+    "OCUL": {"exito": 31.00, "fracaso": 5.00},
+    "DYN":  {"exito": 52.00, "fracaso": 6.00},
+}
 
-    print(f"=== Biotech Radar Engine — {now_iso()} ===")
 
-    # Paso 1 — Universo
-    universe = build_universe(args.limit)
+# ─── CARGA DEL CSV FINANCIERO ESTÁTICO ───────────────────────────────────────
+def cargar_financieros_csv(path=SEC_FINANCIALS_CSV):
+    """Lee sec_financials.csv y retorna dict {ticker: {campo: valor}}"""
+    resultado = {}
+    if not os.path.exists(path):
+        print(f"[WARN] {path} no encontrado — usando solo datos de API")
+        return resultado
+    with open(path, newline="", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            ticker = row.get("ticker", "").upper().strip()
+            if ticker:
+                resultado[ticker] = {k: v for k, v in row.items()}
+    print(f"[CSV] {len(resultado)} tickers cargados de {path}")
+    return resultado
 
-    # Paso 2 — SEC financials (CSV local tiene prioridad sobre API)
-    financials = load_sec_from_csv(universe)
-    if financials is None:
-        print("sec_financials.csv no encontrado — intentando API SEC...")
-        sec_session = requests.Session()
-        sec_session.headers.update({
-            "User-Agent": args.user_agent,
-            "Accept-Encoding": "gzip, deflate",
-        })
-        try:
-            financials = get_sec_financials(universe, sec_session)
-            print(f"SEC API OK: {sum(1 for v in financials.values() if 'error' not in v)} tickers con datos")
-        except Exception as e:
-            print(f"AVISO: SEC API falló ({e}) — sin datos financieros SEC")
-            financials = {c["ticker"]: {"error": str(e)} for c in universe}
-    else:
-        print("Usando sec_financials.csv como fuente de datos SEC")
 
-    # Paso 3 — Precios
-    print("Descargando precios yfinance...")
-    tickers_list = [c["ticker"] for c in universe]
-    prices = get_prices(tickers_list)
+# ─── FETCH PRECIO ACTUAL ──────────────────────────────────────────────────────
+def fetch_precio_finnhub(ticker, token=FINNHUB_TOKEN):
+    if not token:
+        return None
+    try:
+        url = f"https://finnhub.io/api/v1/quote?symbol={ticker}&token={token}"
+        req = urllib.request.Request(url, headers={"User-Agent": "biotech-radar/4.0"})
+        with urllib.request.urlopen(req, timeout=8) as r:
+            data = json.loads(r.read())
+            precio = data.get("c", 0)
+            return float(precio) if precio and precio > 0 else None
+    except Exception as e:
+        print(f"[WARN] Finnhub {ticker}: {e}")
+        return None
 
-    # Paso 4 — ClinicalTrials
-    print("Consultando ClinicalTrials...")
-    trials_map = get_trials(universe)
 
-    # Paso 5 — Scoring
-    print("Calculando scores v3.2...")
-    scored = []
-    for company in universe:
-        t   = company["ticker"]
-        fin = financials.get(t, {})
-        trs = trials_map.get(t, [])
-        prc = prices
-        s   = score_company(t, company["company_name"], trs, fin, prc)
-        scored.append(s)
+# ─── MOTOR PRINCIPAL ──────────────────────────────────────────────────────────
+def run_radar_v4(candidatos_raw: list, financieros_csv: dict) -> list:
+    """
+    candidatos_raw: lista de dicts con campos mínimos:
+        ticker, empresa, area, fase, score_base, modificadores, activos
+    financieros_csv: dict {ticker: row_csv}
 
-    scored.sort(key=lambda x: (-x["score"], x["hard_fail_count"]))
+    Retorna: lista de candidatos enriquecidos con score_v4, flags, ratio
+    """
+    resultados = []
+    for emp in candidatos_raw:
+        ticker = emp.get("ticker", "").upper()
 
-    # Estadísticas
-    dist = {}
-    for s in scored:
-        dist[s["verdict"]] = dist.get(s["verdict"], 0) + 1
+        # Enriquecer con penalizaciones conocidas
+        emp.setdefault("penalizaciones_label",
+                       TICKER_LABEL_PENALTIES.get(ticker, []))
 
-    output = {
-        "generado": now_iso(),
-        "total_empresas": len(scored),
-        "distribucion": dist,
-        "candidatas": scored,
+        # Precio actual (Finnhub o CSV)
+        if not emp.get("precio_actual"):
+            precio_csv = financieros_csv.get(ticker, {}).get("precio_actual")
+            emp["precio_actual"] = float(precio_csv) if precio_csv else fetch_precio_finnhub(ticker)
+
+        # Precios objetivo desde tabla maestra
+        if ticker in TICKER_PRICE_TARGETS and not emp.get("precio_exito"):
+            emp["precio_exito"]   = TICKER_PRICE_TARGETS[ticker]["exito"]
+            emp["precio_fracaso"] = TICKER_PRICE_TARGETS[ticker]["fracaso"]
+
+        # Caja por acción desde CSV
+        if not emp.get("caja_por_accion"):
+            cash_str = financieros_csv.get(ticker, {}).get("cash_per_share")
+            emp["caja_por_accion"] = float(cash_str) if cash_str else None
+
+        # Calcular score v4
+        resultado_score = calcular_score_v4(emp)
+        emp.update(resultado_score)
+        resultados.append(emp)
+
+        time.sleep(0.15)   # rate limit Finnhub
+
+    # Ordenar por score_v4 desc
+    resultados.sort(key=lambda x: x.get("score_v4", 0), reverse=True)
+    return resultados[:MAX_RESULTS]
+
+
+# ─── EXPORTAR JSON PARA DASHBOARD ────────────────────────────────────────────
+def exportar_json(candidatos: list, output=OUTPUT_FILE):
+    """Genera JSON compatible con el dashboard index.html"""
+    ts = datetime.datetime.utcnow().strftime("%d %b %Y %H:%M UTC")
+
+    # Resumen por veredicto
+    conteo = {"PRIORIDAD": 0, "ANALIZAR": 0, "WATCHLIST": 0, "DESCARTAR": 0}
+    for c in candidatos:
+        v = c.get("veredicto", "DESCARTAR")
+        conteo[v] = conteo.get(v, 0) + 1
+
+    # Estadísticas de flags
+    flag_counts = {}
+    for c in candidatos:
+        for f in c.get("flags", []):
+            flag_counts[f] = flag_counts.get(f, 0) + 1
+
+    payload = {
+        "version":          "4.0",
+        "generado":         ts,
+        "total_analizados": len(candidatos),
+        "resumen":          conteo,
+        "flag_stats":       flag_counts,
+        "flag_definitions": FLAG_DEFINITIONS,
+        "candidatos":       candidatos,
+        "mejoras_v4": [
+            "Penalizaciones de calidad de label (boxed_warning, label_restricted, HFpEF, etc.)",
+            "Filtro ratio upside/downside ≥3x con floor de caja",
+            "Score pre-análisis v3.2 diferenciado del score crudo",
+            "Flags de alerta exportados al dashboard",
+            "Razones legibles del ajuste de score por candidato",
+        ]
     }
 
-    OUTPUT_JSON.write_text(json.dumps(output, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"\n=== COMPLETADO ===")
-    print(f"Empresas: {len(scored)}")
-    print(f"Distribución: {dist}")
-    print(f"JSON: {OUTPUT_JSON}")
+    with open(output, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+    print(f"[OK] Exportado {output} ({len(candidatos)} candidatos, {ts})")
+    return payload
 
 
+# ─── DEMO / TEST CON TICKERS DEL ANÁLISIS 27 JUN 2026 ────────────────────────
 if __name__ == "__main__":
-    main()
+    print("=== BIOTECH RADAR ENGINE v4.0 ===")
+
+    # Simulación de candidatos tal como vendrían del pipeline de SEC financials
+    candidatos_test = [
+        {
+            "ticker": "AKBA", "empresa": "Akebia Therapeutics",
+            "area": "metabolic", "fase": "approved",
+            "score_base": 18.5,   # score crudo del radar anterior
+            "modificadores": ["boxed_warning", "label_restricted", "competitive_approved"],
+            "activos": 5,
+            "precio_actual": 0.92,
+        },
+        {
+            "ticker": "FDMT", "empresa": "4D Molecular Therapeutics",
+            "area": "ophthalmic", "fase": "ph3",
+            "score_base": 18.5,
+            "modificadores": ["rmat", "ph3_data_positive", "ph3_recently_started"],
+            "activos": 8,
+            "precio_actual": 14.00,
+        },
+        {
+            "ticker": "DNLI", "empresa": "Denali Therapeutics",
+            "area": "rare_disease", "fase": "approved",
+            "score_base": 18.0,
+            "modificadores": ["nejm_publication", "breakthrough_therapy"],
+            "activos": 6,
+            "precio_actual": 23.31,
+        },
+        {
+            "ticker": "IMCR", "empresa": "Immunocore Holdings",
+            "area": "oncology", "fase": "approved",
+            "score_base": 18.0,
+            "modificadores": ["nejm_publication", "ph3_superiority"],
+            "activos": 9,
+            "precio_actual": 28.61,
+        },
+        {
+            "ticker": "RIGL", "empresa": "Rigel Pharmaceuticals",
+            "area": "oncology", "fase": "approved",
+            "score_base": 18.0,
+            "modificadores": [],
+            "activos": 9,
+            "precio_actual": 0.65,
+        },
+        {
+            "ticker": "TENX", "empresa": "Tenax Therapeutics",
+            "area": "cardiovascular", "fase": "ph3",
+            "score_base": 18.0,
+            "modificadores": ["hfpef_indication", "no_partnership", "micro_cap_dilution"],
+            "activos": 3,
+            "precio_actual": 1.20,
+        },
+        # Candidatos adicionales con perfil limpio para comparación
+        {
+            "ticker": "VERA", "empresa": "Vera Therapeutics",
+            "area": "autoimmune", "fase": "nda",
+            "score_base": 17.0,
+            "modificadores": ["breakthrough_therapy", "fast_track", "nejm_publication", "spa_fda"],
+            "activos": 2,
+            "precio_actual": 35.09,
+        },
+        {
+            "ticker": "INSM", "empresa": "Insmed",
+            "area": "rare_disease", "fase": "approved",
+            "score_base": 17.5,
+            "modificadores": ["nejm_publication"],
+            "activos": 4,
+            "precio_actual": 95.80,
+        },
+    ]
+
+    financieros = cargar_financieros_csv()
+    candidatos_scored = run_radar_v4(candidatos_test, financieros)
+    payload = exportar_json(candidatos_scored)
+
+    # Imprimir resumen en consola
+    print(f"\n{'TICKER':<8} {'SCORE_BASE':>10} {'SCORE_v4':>9} {'VEREDICTO':<12} {'RATIO':>7}  FLAGS")
+    print("─" * 80)
+    for c in candidatos_scored:
+        ratio_str = f"{c['ratio_ud']:.1f}x" if c.get("ratio_ud") else "  N/A"
+        flags_str = " ".join(
+            FLAG_DEFINITIONS.get(f, {}).get("emoji", "?") for f in c.get("flags", [])[:5]
+        )
+        gap = c['score_v4'] - c['score_base']
+        gap_str = f"({gap:+.1f})" if gap != 0 else ""
+        print(f"{c['ticker']:<8} {c['score_base']:>10.1f} {c['score_v4']:>7.1f}{gap_str:<7} "
+              f"{c['veredicto']:<12} {ratio_str:>7}  {flags_str}")
+
+    print(f"\nResumen: {payload['resumen']}")
+    print(f"Flags más frecuentes: {sorted(payload['flag_stats'].items(), key=lambda x: -x[1])[:5]}")

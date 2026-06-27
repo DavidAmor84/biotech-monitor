@@ -1612,3 +1612,348 @@ function buildRv4Grid(){
   if(rv4SearchTerm)filtrados=filtrados.filter(function(c){
     return(c.ticker||"").toLowerCase().indexOf(rv4SearchTerm)>=0
       ||(c.empresa||"").toLowerCase()
+.indexOf(rv4SearchTerm)>=0;
+  });
+  var grid=document.getElementById("rv4-grid"),empty=document.getElementById("rv4-empty");
+  if(!grid)return;
+  if(filtrados.length===0){grid.innerHTML="";if(empty)empty.style.display="block";return;}
+  if(empty)empty.style.display="none";
+  grid.innerHTML=filtrados.map(function(c){
+    var vc=RV4_C[c.veredicto]||"#8899bb",vb=RV4_BG[c.veredicto]||"rgba(136,153,187,.10)";
+    var diff=parseFloat((c.score_v4-c.score_base).toFixed(1));
+    var diffStr=diff!==0
+      ?'<span style="color:'+(diff<0?"#ff6b6b":"#3dffaa")+';font-size:9px;margin-left:4px">'+(diff>0?"+":"")+diff+'</span>'
+      :"";
+    var flagsHtml=(c.flags||[]).map(function(f){
+      var def=defs[f]||{emoji:"?",color:"#8899bb",label:f};
+      return'<span title="'+def.label+'" style="background:'+def.color+'22;color:'+def.color
+        +';padding:2px 6px;border-radius:4px;font-size:9px;font-weight:700;cursor:default">'+def.emoji+'</span>';
+    }).join(" ");
+    var ratioHtml="";
+    if(c.ratio_ud!=null){
+      var rok=c.ratio_ud>=3,rc=rok?"#3dffaa":"#ff6b6b";
+      ratioHtml='<span style="background:'+rc+'22;color:'+rc+';padding:2px 7px;border-radius:4px;font-size:9px;font-weight:700">⚖ '+c.ratio_ud.toFixed(1)+'x'+(rok?" ✅":" ❌")+'</span>';
+    }
+    var pc=c.pos_ajustada>=70?"#3dffaa":c.pos_ajustada>=50?"#ffe566":"#ff9a5c";
+    var razonesHtml=(c.razones_ajuste||[]).length>0
+      ?'<div style="margin-top:8px;padding:8px;background:#13142a;border-radius:6px;font-size:9px;color:#8899bb;line-height:1.7">'
+        +(c.razones_ajuste||[]).map(function(r){return"• "+r;}).join("<br>")+'</div>'
+      :"";
+    var borderCol=diff<-3?"#ff6b6b55":diff>3?"#3dffaa55":"#2a2d4a";
+    return'<div style="background:#181928;border:1px solid '+borderCol+';border-radius:10px;padding:14px 16px;border-left:3px solid '+vc+'">'
+      +'<div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:10px">'
+        +'<div>'
+          +'<div style="font-size:15px;font-weight:900;color:#ffe566">'+c.ticker+'</div>'
+          +'<div style="font-size:9px;color:#8899bb;margin-top:1px">'+c.empresa+'</div>'
+          +'<div style="font-size:9px;color:#7788aa;margin-top:2px">'+(c.area||"")+(c.fase?" · "+c.fase.toUpperCase():"")+'</div>'
+        +'</div>'
+        +'<div style="text-align:right">'
+          +'<div style="font-size:20px;font-weight:900;color:'+vc+'">'+c.score_v4.toFixed(1)+'</div>'
+          +'<div style="font-size:9px;color:#8899bb">'+diffStr+' base '+c.score_base.toFixed(1)+'</div>'
+          +'<div style="background:'+vb+';color:'+vc+';padding:2px 8px;border-radius:4px;font-size:9px;font-weight:700;margin-top:4px">'+c.veredicto+'</div>'
+        +'</div>'
+      +'</div>'
+      +'<div style="display:flex;gap:6px;margin-bottom:8px;flex-wrap:wrap;align-items:center">'
+        +'<span style="background:'+pc+'22;color:'+pc+';padding:2px 7px;border-radius:4px;font-size:9px;font-weight:700">PoS '+c.pos_ajustada+'%</span>'
+        +ratioHtml
+        +(c.activos?'<span style="background:#1e2035;color:#8899bb;padding:2px 7px;border-radius:4px;font-size:9px">'+c.activos+' activos</span>':"")
+      +'</div>'
+      +(flagsHtml?'<div style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:6px">'+flagsHtml+'</div>':"")
+      +razonesHtml
+      +'</div>';
+  }).join("");
+}
+
+function rv4Filtrar(tipo,el){
+  document.querySelectorAll("#tab-radar_v4 .sec-filter-btn").forEach(function(b){b.classList.remove("active");});
+  if(el&&el.classList)el.classList.add("active");
+  rv4FiltroActual=tipo;rv4SearchTerm="";
+  var si=document.getElementById("rv4-search");if(si)si.value="";
+  buildRv4Grid();
+}
+function rv4FiltrarSearch(el){
+  rv4SearchTerm=(el.value||"").toLowerCase().trim();
+  rv4FiltroActual="search";
+  buildRv4Grid();
+}
+function buildRv4Empty(){
+  var e=document.getElementById("rv4-empty"),g=document.getElementById("rv4-grid");
+  if(e)e.style.display="block";if(g)g.innerHTML="";
+}
+// ── SEC EDGAR ─────────────────────────────────────────────────────────────────
+
+function buildSecEdgar(){
+  var el = document.getElementById("secedgarContent");
+  if(!secData){
+    el.innerHTML = '<div class="sec-no-data">'
+      +'<div style="font-size:32px;margin-bottom:12px">🔍</div>'
+      +'<div style="font-size:13px;color:#c0ccee;margin-bottom:8px"><b>Sin datos SEC EDGAR</b></div>'
+      +'<div style="font-size:11px;color:#8899bb;margin-bottom:16px">Ejecuta el script en tu ordenador y sube <b>sec_monitor_resultado.json</b> a Netlify junto con este HTML.</div>'
+      +'<label class="sec-upload-btn" style="display:inline-block;cursor:pointer">'
+      +'📂 Cargar JSON localmente'
+      +'<input type="file" accept=".json" style="display:none" onchange="cargarJsonLocal(event)">'
+      +'</label>'
+      +'<div style="margin-top:12px;font-size:10px;color:#556688">O nombra el archivo <b>sec_monitor_resultado.json</b> y súbelo a Netlify</div>'
+      +'</div>';
+    fetch(urlSinCache("https://davidamor84.github.io/biotech-monitor/sec_monitor_resultado.json"), FETCH_OPTS)
+      .then(function(r){ if(r.ok) return r.json(); throw new Error("no found"); })
+      .then(function(d){ secData=d; buildSecEdgar(); mostrarBanner(); })
+      .catch(function(){
+        fetch(urlSinCache("sec_monitor_resultado.json"), FETCH_OPTS)
+          .then(function(r){ if(r.ok) return r.json(); throw new Error("no found"); })
+          .then(function(d){ secData=d; buildSecEdgar(); mostrarBanner(); })
+          .catch(function(){ });
+      });
+    return;
+  }
+  renderSecEdgar(el);
+}
+
+function cargarJsonLocal(event){
+  var file = event.target.files[0];
+  if(!file) return;
+  var status = document.getElementById("jsonLoadStatus");
+  if(status) status.textContent = "⏳ Cargando...";
+  var reader = new FileReader();
+  reader.onload = function(e){
+    try{
+      secData = JSON.parse(e.target.result);
+      if(status) status.innerHTML = "<span style='color:#3dffaa'>✅ "+file.name+" cargado · "+secData.generado+"</span>";
+      mostrarBanner();
+      renderSecEdgar(document.getElementById("secedgarContent"));
+    } catch(err){
+      if(status) status.innerHTML = "<span style='color:#ff6b6b'>❌ Error al leer el JSON</span>";
+    }
+  };
+  reader.readAsText(file);
+}
+
+function renderSecEdgar(el){
+  var r = secData.resumen || {};
+  var todos = secData.todos_filings || [];
+  var filtrados = todos;
+  if(secFiltro === "rojo")    filtrados = todos.filter(function(f){return f.nivel==="rojo";});
+  if(secFiltro === "verde")   filtrados = todos.filter(function(f){return f.nivel==="verde";});
+  if(secFiltro === "amarillo")filtrados = todos.filter(function(f){return f.nivel==="amarillo";});
+  if(secFiltro === "azul")    filtrados = todos.filter(function(f){return f.nivel==="azul";});
+  var nivelColor = {"rojo":"#ff6b6b","verde":"#3dffaa","amarillo":"#ffe566","azul":"#00bcd4","ok":"#3dffaa"};
+  var html = "";
+  html += '<div class="sec-meta">Generado: <b>'+secData.generado+'</b> · Período: últimos <b>'+secData.periodo_dias+'</b> días ('+secData.desde+' → '+secData.hasta+')</div>';
+  html += '<div class="sec-summary">'
+    +'<div class="sec-sum-card"><div class="sec-sum-num" style="color:#c0ccee">'+r.total_filings+'</div><div class="sec-sum-lbl">Total filings</div></div>'
+    +'<div class="sec-sum-card"><div class="sec-sum-num" style="color:#ff6b6b">'+r.alertas_rojas+'</div><div class="sec-sum-lbl">🔴 Críticos</div></div>'
+    +'<div class="sec-sum-card"><div class="sec-sum-num" style="color:#3dffaa">'+r.alertas_verdes+'</div><div class="sec-sum-lbl">🟢 Positivos</div></div>'
+    +'<div class="sec-sum-card"><div class="sec-sum-num" style="color:#ffe566">'+r.alertas_amarillas+'</div><div class="sec-sum-lbl">🟡 Medios</div></div>'
+    +'<div class="sec-sum-card"><div class="sec-sum-num" style="color:#3dffaa">'+r.sin_novedad+'</div><div class="sec-sum-lbl">✅ Sin novedad</div></div>'
+    +'</div>';
+  html += '<div class="sec-ticker-grid">';
+  var tickers = secData.tickers || {};
+  Object.keys(tickers).forEach(function(t){
+    var td = tickers[t];
+    if(td.error === "Sin CIK SEC") return;
+    var badge = td.badge || "✅";
+    var n = (td.filings||[]).length;
+    var bc = nivelColor[td.nivel] || "#8899bb";
+    html += '<div class="sec-ticker-card" onclick="filtrarTicker(\''+t+'\')" style="border-left:3px solid '+bc+'">'
+      +'<div class="sec-ticker-header">'
+        +'<div class="sec-ticker-name">'+t+'</div>'
+        +'<div class="sec-ticker-badge">'+badge+'</div>'
+      +'</div>'
+      +'<div class="sec-ticker-empresa">'+td.nombre+'</div>'
+      +'<div class="sec-ticker-count">'+(n>0?n+' filing(s)':'Sin novedades')+'</div>'
+      +'</div>';
+  });
+  html += '</div>';
+  html += '<div class="sec-filter-bar">'
+    +'<div class="sec-filter-btn'+(secFiltro==="todos"?" active":"")+'" onclick="setSecFiltro(\'todos\')">Todos ('+todos.length+')</div>'
+    +'<div class="sec-filter-btn'+(secFiltro==="rojo"?" active":"")+'" onclick="setSecFiltro(\'rojo\')" style="color:#ff6b6b">🔴 Críticos</div>'
+    +'<div class="sec-filter-btn'+(secFiltro==="verde"?" active":"")+'" onclick="setSecFiltro(\'verde\')" style="color:#3dffaa">🟢 Positivos</div>'
+    +'<div class="sec-filter-btn'+(secFiltro==="amarillo"?" active":"")+'" onclick="setSecFiltro(\'amarillo\')" style="color:#ffe566">🟡 Insider/Dilución</div>'
+    +'<div class="sec-filter-btn'+(secFiltro==="azul"?" active":"")+'" onclick="setSecFiltro(\'azul\')" style="color:#00bcd4">🔵 Informativos</div>'
+    +'</div>';
+  html += '<div class="sec-filing-list">';
+  if(filtrados.length === 0){
+    html += '<div style="text-align:center;color:#8899bb;padding:24px;font-size:12px">No hay filings en esta categoría</div>';
+  } else {
+    filtrados.forEach(function(f){
+      var fc = nivelColor[f.nivel] || "#8899bb";
+      html += '<div class="sec-filing '+f.nivel+'">'
+        +'<div class="sec-filing-top">'
+          +'<span class="sec-filing-ticker">'+f.ticker+'</span>'
+          +'<span class="sec-filing-form" style="color:'+fc+'">'+f.badge+' '+f.form+'</span>'
+          +'<span class="sec-filing-fecha">'+f.fecha+'</span>'
+        +'</div>'
+        +'<div class="sec-filing-resumen">'+f.resumen+'</div>'
+        +(f.detalle?'<div class="sec-filing-detalle">'+f.detalle+'</div>':'')
+        +'<div class="sec-filing-url"><a href="'+f.url+'" target="_blank">🔗 Ver documento en SEC EDGAR →</a></div>'
+        +'</div>';
+    });
+  }
+  html += '</div>';
+  el.innerHTML = html;
+}
+
+function setSecFiltro(filtro){
+  secFiltro = filtro;
+  renderSecEdgar(document.getElementById("secedgarContent"));
+}
+
+function filtrarTicker(ticker){
+  var el = document.getElementById("secedgarContent");
+  var todos = secData.todos_filings || [];
+  var filtrados = todos.filter(function(f){return f.ticker===ticker;});
+  var nivelColor = {"rojo":"#ff6b6b","verde":"#3dffaa","amarillo":"#ffe566","azul":"#00bcd4"};
+  var html = '<div style="margin-bottom:12px;display:flex;align-items:center;gap:10px">'
+    +'<span style="font-size:14px;font-weight:800;color:#ffe566">'+ticker+'</span>'
+    +'<span style="font-size:11px;color:#8899bb">'+filtrados.length+' filing(s)</span>'
+    +'<div class="sec-filter-btn active" onclick="buildSecEdgar()" style="margin-left:auto">← Volver</div>'
+    +'</div><div class="sec-filing-list">';
+  if(filtrados.length===0){
+    html += '<div style="text-align:center;color:#8899bb;padding:24px;font-size:12px">Sin filings para '+ticker+'</div>';
+  } else {
+    filtrados.forEach(function(f){
+      var fc = nivelColor[f.nivel]||"#8899bb";
+      html += '<div class="sec-filing '+f.nivel+'">'
+        +'<div class="sec-filing-top">'
+          +'<span class="sec-filing-form" style="color:'+fc+'">'+f.badge+' '+f.form+'</span>'
+          +'<span class="sec-filing-fecha">'+f.fecha+'</span>'
+        +'</div>'
+        +'<div class="sec-filing-resumen">'+f.resumen+'</div>'
+        +(f.detalle?'<div class="sec-filing-detalle">'+f.detalle+'</div>':'')
+        +'<div class="sec-filing-url"><a href="'+f.url+'" target="_blank">🔗 Ver en SEC EDGAR →</a></div>'
+        +'</div>';
+    });
+  }
+  html += '</div>';
+  el.innerHTML = html;
+}
+var radarData=null,radarFiltered=[],radarSortCol="score",radarSortDir="desc",radarFilterVerdict="all",radarLoaded=false;
+var RADAR_AREA_COLORS={"Oncology":"#9c8fff","Rare disease":"#ff9a5c","CNS":"#ffe566","Autoimmune":"#5af0a0","Ophthalmic":"#00bcd4","Metabolic":"#ff6b9d","Cardiovascular":"#5aacff","Other":"#7788aa"};
+
+function buildRadar(){if(!radarLoaded){radarLoaded=true;loadRadarData();}}
+
+function loadRadarData(){
+  var s=document.getElementById("radar-status");
+  if(s)s.textContent="⏳ Cargando datos del radar...";
+  fetch(urlSinCache("https://davidamor84.github.io/biotech-monitor/radar_resultado.json"),FETCH_OPTS)
+    .then(function(r){if(!r.ok)throw new Error(r.status);return r.json();})
+    .then(function(d){radarData=d;renderRadar();})
+    .catch(function(){
+      fetch(urlSinCache("radar_resultado.json"),FETCH_OPTS)
+        .then(function(r){if(!r.ok)throw new Error(r.status);return r.json();})
+        .then(function(d){radarData=d;renderRadar();})
+        .catch(function(e){var el=document.getElementById("radar-status");if(el)el.innerHTML='<span style="color:#ff6b6b">⚠️ Sin datos — ejecuta el engine primero</span>';});
+    });
+}
+
+function renderRadar(){
+  if(!radarData)return;
+  var s=document.getElementById("radar-status");
+  if(s)s.innerHTML='<span style="color:#3dffaa">✅ Actualizado: '+radarData.generado+'</span> · <span style="color:#8899bb">'+radarData.total_empresas+' empresas</span>';
+  var dist=radarData.distribucion||{};
+  document.getElementById("rdr-kpi-total").textContent=radarData.total_empresas||"—";
+  document.getElementById("rdr-kpi-priority").textContent=dist["PRIORIDAD ABSOLUTA"]||0;
+  document.getElementById("rdr-kpi-analizar").textContent=dist["ANALIZAR"]||0;
+  document.getElementById("rdr-kpi-watchlist").textContent=dist["WATCHLIST"]||0;
+  var sel=document.getElementById("rdr-area-filter");
+  sel.innerHTML='<option value="">Todas las áreas</option>';
+  var areas=new Set((radarData.candidatas||[]).map(function(d){return d.therapeutic_area;}).filter(Boolean));
+  areas.forEach(function(a){var o=document.createElement("option");o.value=a;o.textContent=a;sel.appendChild(o);});
+  radarRenderTable();
+}
+
+function radarSetFilter(v,el){
+  radarFilterVerdict=v;
+  document.querySelectorAll(".rdr-filter-btn").forEach(function(b){b.classList.remove("active");});
+  el.classList.add("active");
+  radarRenderTable();
+}
+
+function radarRenderTable(){
+  if(!radarData)return;
+  var area=document.getElementById("rdr-area-filter").value;
+  var query=(document.getElementById("rdr-search").value||"").toLowerCase().trim();
+  radarFiltered=(radarData.candidatas||[]).filter(function(d){
+    if(radarFilterVerdict!=="all"&&d.verdict!==radarFilterVerdict)return false;
+    if(area&&d.therapeutic_area!==area)return false;
+    if(query&&!d.ticker.toLowerCase().includes(query)&&!(d.company_name||"").toLowerCase().includes(query))return false;
+    return true;
+  });
+  radarFiltered.sort(function(a,b){
+    var av=a[radarSortCol],bv=b[radarSortCol];
+    if(av==null)av=radarSortDir==="asc"?Infinity:-Infinity;
+    if(bv==null)bv=radarSortDir==="asc"?Infinity:-Infinity;
+    if(typeof av==="string")av=av.toLowerCase();
+    if(typeof bv==="string")bv=bv.toLowerCase();
+    return radarSortDir==="asc"?(av>bv?1:av<bv?-1:0):(av<bv?1:av>bv?-1:0);
+  });
+  var tbody=document.getElementById("rdr-tbody");
+  if(!radarFiltered.length){tbody.innerHTML='<tr><td colspan="9" style="text-align:center;color:#556688;padding:30px">Sin resultados</td></tr>';return;}
+  tbody.innerHTML=radarFiltered.map(function(d,i){
+    var s=d.score||0,pct=(s/20*100).toFixed(0),sc=s>=18?"#9c8fff":s>=15?"#5aacff":s>=12?"#7fff5a":"#556688";
+    var vCls=d.verdict==="PRIORIDAD ABSOLUTA"?"rdr-b-priority":d.verdict==="ANALIZAR"?"rdr-b-analizar":d.verdict==="WATCHLIST"?"rdr-b-watchlist":"rdr-b-descartar";
+    var vLbl=d.verdict==="PRIORIDAD ABSOLUTA"?"PRIORIDAD":d.verdict||"—";
+    var ac=RADAR_AREA_COLORS[d.therapeutic_area]||"#7788aa";
+    var mc=d.market_cap,mcStr=mc==null?"—":mc>=1e9?"$"+(mc/1e9).toFixed(1)+"B":"$"+(mc/1e6).toFixed(0)+"M";
+    var dlCol=(d.dilution_risk||"").toUpperCase()==="LOW"?"#3dffaa":(d.dilution_risk||"").toUpperCase()==="MEDIUM"?"#ffe566":"#ff6b6b";
+    var runStr=d.cashflow_positive?"CF+":d.runway_display!=null?d.runway_display.toFixed(0)+"m":"—";
+    var runCol=d.cashflow_positive?"#3dffaa":"#c0ccee";
+    return '<tr onclick="radarShowDetail('+i+')" style="cursor:pointer">'
+      +'<td style="font-weight:700;color:#ffe566">'+d.ticker+'</td>'
+      +'<td><span style="display:inline-block;width:44px;height:5px;background:#1e2035;border-radius:3px;vertical-align:middle;margin-right:5px"><span style="display:block;width:'+pct+'%;height:5px;background:'+sc+';border-radius:3px"></span></span><span style="font-size:11px;color:'+sc+'">'+s.toFixed(1)+'</span></td>'
+      +'<td><span class="rdr-badge '+vCls+'">'+vLbl+'</span></td>'
+      +'<td><span style="font-size:10px;padding:2px 7px;border-radius:4px;background:'+ac+'22;color:'+ac+'">'+d.therapeutic_area+'</span></td>'
+      +'<td style="text-align:center;color:#c0ccee">'+d.n_active+'</td>'
+      +'<td style="font-size:11px;color:#aabbdd">'+(d.next_catalyst_date||"—")+'</td>'
+      +'<td style="font-size:11px;color:'+runCol+'">'+runStr+'</td>'
+      +'<td style="font-size:10px;font-weight:700;color:'+dlCol+'">'+(d.dilution_risk||"—")+'</td>'
+      +'<td style="font-size:11px;color:#aabbdd">'+mcStr+'</td>'
+      +'</tr>';
+  }).join("");
+}
+
+function radarSortBy(col){
+  if(radarSortCol===col)radarSortDir=radarSortDir==="asc"?"desc":"asc";
+  else{radarSortCol=col;radarSortDir=col==="score"?"desc":"asc";}
+  radarRenderTable();
+}
+
+function radarShowDetail(idx){
+  var d=radarFiltered[idx];if(!d)return;
+  var sc=d.score>=18?"#9c8fff":d.score>=15?"#5aacff":d.score>=12?"#7fff5a":"#556688";
+  var fmtM=function(v){return v==null?"—":v>=1e9?"$"+(v/1e9).toFixed(1)+"B":"$"+(v/1e6).toFixed(0)+"M";};
+  var html='<div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;margin-bottom:12px">'
+    +'<div><div style="font-size:16px;font-weight:900;color:#ffe566">'+d.ticker+' <span style="font-size:11px;color:#8899bb;font-weight:400">'+d.company_name+'</span></div>'
+    +'<div style="margin-top:5px;display:flex;gap:8px;align-items:center">'
+    +'<span style="font-size:20px;font-weight:900;color:'+sc+'">'+d.score.toFixed(1)+'/20</span>'
+    +'<span class="rdr-badge '+(d.verdict==="PRIORIDAD ABSOLUTA"?"rdr-b-priority":d.verdict==="ANALIZAR"?"rdr-b-analizar":"rdr-b-watchlist")+'">'+(d.verdict==="PRIORIDAD ABSOLUTA"?"PRIORIDAD":d.verdict)+'</span>'
+    +'<span style="font-size:10px;padding:2px 7px;border-radius:4px;background:'+(RADAR_AREA_COLORS[d.therapeutic_area]||"#7788aa")+'22;color:'+(RADAR_AREA_COLORS[d.therapeutic_area]||"#7788aa")+'">'+d.therapeutic_area+'</span>'
+    +'</div></div>'
+    +(d.price!=null?'<div style="text-align:right"><div style="font-size:18px;font-weight:800;color:#c0ccee">$'+d.price.toFixed(2)+'</div><div style="font-size:11px;color:#8899bb">'+fmtM(d.market_cap)+'</div></div>':'')
+    +'</div>';
+  var cards=[
+    ["Ensayos activos",d.n_active+" / "+d.n_trials,"#c0ccee"],
+    ["Catalizador",d.next_catalyst_date||"—","#aabbdd"],
+    ["Runway",d.cashflow_positive?"CF+":(d.runway_months!=null?d.runway_months.toFixed(0)+"m":"—"),d.cashflow_positive?"#3dffaa":"#c0ccee"],
+    ["Dilución",d.dilution_risk||"—",d.dilution_risk==="LOW"?"#3dffaa":d.dilution_risk==="MEDIUM"?"#ffe566":"#ff6b6b"],
+    ["Caja SEC",d.cash_m!=null?"$"+d.cash_m.toFixed(0)+"M":"—","#c0ccee"],
+    ["EV",fmtM(d.enterprise_value),d.enterprise_value!=null&&d.enterprise_value<0?"#3dffaa":"#c0ccee"],
+    ["PoS base",d.base_pos!=null?(d.base_pos*100).toFixed(0)+"%":"—","#c0ccee"],
+    ["Partnership BP",d.partnership_big_pharma?"✅ Sí":"—",d.partnership_big_pharma?"#3dffaa":"#8899bb"]
+  ];
+  html+='<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-bottom:12px">';
+  cards.forEach(function(c){html+='<div style="background:#181928;border:1px solid #2a2d4a;border-radius:8px;padding:9px 11px"><div style="font-size:8px;color:#556688;text-transform:uppercase;letter-spacing:1px;margin-bottom:3px">'+c[0]+'</div><div style="font-size:13px;font-weight:700;color:'+c[2]+'">'+c[1]+'</div></div>';});
+  html+='</div>';
+  if(d.hard_fails&&d.hard_fails.length)html+='<div style="background:rgba(255,107,107,.08);border:1px solid rgba(255,107,107,.25);border-radius:6px;padding:8px 12px;margin-bottom:10px;font-size:11px;color:#ff8888">⚠️ '+d.hard_fails.join(" · ")+'</div>';
+  html+='<div style="font-size:9px;color:#556688;text-transform:uppercase;letter-spacing:1px;margin-bottom:6px;font-weight:700">Razones del score</div>'
+    +'<div style="font-size:11px;color:#8899bb;line-height:1.9;max-height:180px;overflow-y:auto">'
+    +(d.reasons||[]).map(function(r){return '<div style="padding:2px 0;border-bottom:1px solid #1e2035">'+r+'</div>';}).join("")+'</div>';
+  var panel=document.getElementById("rdr-detail");
+  panel.innerHTML='<button onclick="document.getElementById(\'rdr-detail\').style.display=\'none\'" style="float:right;background:none;border:1px solid #2a2d4a;color:#8899bb;padding:3px 10px;border-radius:5px;cursor:pointer;font-size:11px;margin-bottom:8px">✕ cerrar</button>'+html;
+  panel.style.display="block";
+  panel.scrollIntoView({behavior:"smooth",block:"start"});
+}
+
+</script>
+</body>
+</html>

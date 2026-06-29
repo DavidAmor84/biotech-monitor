@@ -1,94 +1,20 @@
 {
-  "generado": "26/06/2026 15:32 UTC",
+  "generado": "29/06/2026 14:25 UTC",
   "plazo_horas": 72,
-  "desde": "2026-06-23",
-  "hasta": "2026-06-26",
+  "desde": "2026-06-26",
+  "hasta": "2026-06-29",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
-      "noticias": [
-        {
-          "ticker": "SNDX",
-          "titulo": "Jazz Pharmaceuticals: Why It's Time To Cash Out (Rating Downgrade)",
-          "resumen": "Jazz Pharmaceuticals' shares are in the distribution phase because Zepzelca failed to show a survival benefit over irinotecan. See why JAZZ stock is downgraded to hold.",
-          "fuente": "SeekingAlpha",
-          "fecha": "26 Jun 2026 09:22 UTC",
-          "url": "https://finnhub.io/api/news?id=8f1bf596ce182e56e350eee0da5f22dee126d24c8d2f65b0f0da933c699ddae7",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2260722103/image_2260722103.jpg?io=getty-c-w1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "ARGX": {
       "nombre": "ARGX",
-      "noticias": [
-        {
-          "ticker": "ARGX",
-          "titulo": "Argenx Analyst Is Bullish Despite Changes To Phase 3 Myositis Study",
-          "resumen": "HC Wainwright sees over $1 billion in sales potential for Argenx&#39;s Vyvgart in IMNM despite myositis trial changes.",
-          "fuente": "Benzinga",
-          "fecha": "25 Jun 2026 13:57 UTC",
-          "url": "https://finnhub.io/api/news?id=d77364eec3ef36fa1bee465d6274385af7fb86949ed89ae31b32ab5d66df0a02",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/06/25/biotech-lab.jpg?width=2048&height=1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "HC Wainwright & Co. Reiterates Buy on argenx, Maintains $940 Price Target",
-          "resumen": "HC Wainwright &amp; Co.  analyst Douglas Tsao   reiterates argenx (NASDAQ:ARGX) with a Buy and maintains $940 price target.",
-          "fuente": "Benzinga",
-          "fecha": "25 Jun 2026 08:28 UTC",
-          "url": "https://finnhub.io/api/news?id=dc452c71386cdae9c453c4de85c22e07174b17aa87211b583c33e083a537ed03",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "Okta To Rally More Than 18%? Here Are 10 Top Analyst Forecasts For Wednesday",
-          "resumen": "Top Wall Street analysts changed their outlook on top names. See all analyst rating changes, including upgrades/downgrades, on analyst ratings page.",
-          "fuente": "Benzinga",
-          "fecha": "24 Jun 2026 08:56 UTC",
-          "url": "https://finnhub.io/api/news?id=f1b9264fc7dabe1078ef49957dab996b8d677f24b00753727e5111c01d34a8a6",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/06/24/Okta-Sign-Building-In-Soma-District--Okt.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "Morgan Stanley Maintains Overweight on argenx, Raises Price Target to $1180",
-          "resumen": "Morgan Stanley  analyst Matthew Harrison   maintains argenx (NASDAQ:ARGX) with a Overweight and raises the price target from $1170 to $1180.",
-          "fuente": "Benzinga",
-          "fecha": "24 Jun 2026 08:50 UTC",
-          "url": "https://finnhub.io/api/news?id=822c9f72400871e01b19be194e35a7a115bd9f3d655cec3618e2b9c5ffae9185",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "argenx SE (ARGX) Discusses R&D Spotlight on Advancing FcRn Leadership in Autoimmune Myositis Transcript",
-          "resumen": "argenx SE (ARGX) Discusses R&D Spotlight on Advancing FcRn Leadership in Autoimmune Myositis June 23, 2026 2:00 PM EDTCompany ParticipantsBeth...",
-          "fuente": "SeekingAlpha",
-          "fecha": "24 Jun 2026 01:32 UTC",
-          "url": "https://finnhub.io/api/news?id=eb2377ef93e7897441553c5cd31549b51f9c6d0916268cdec56a76bf052dad1f",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 5
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "DYN": {
       "nombre": "DYN",
@@ -104,93 +30,32 @@
     },
     "VKTX": {
       "nombre": "VKTX",
-      "noticias": [
-        {
-          "ticker": "VKTX",
-          "titulo": "Viking Advances New Amylin-Based Weight-Loss Drug Into Human Trials",
-          "resumen": "Viking Therapeutics launches Phase 1 trial for obesity drug VK3019, a dual amylin/calcitonin receptor agonist. Read about the study.",
-          "fuente": "Benzinga",
-          "fecha": "24 Jun 2026 09:01 UTC",
-          "url": "https://finnhub.io/api/news?id=3334d6635525d07b69c76753fd8297fbec313bc850e1a62d26aa8a8a8a55594f",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/06/24/Woman-Stepping-On-Floor-Scale-And-Measur.jpg?width=2048&height=1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "Viking Therapeutics Initiates Phase 1 Ascending Dose Trial Of VK3019, An Investigational Dual Amylin And Calcitonin Receptor Agonist For Weight Loss; Data Expected In 3Q26",
-          "resumen": "Viking Therapeutics, Inc. (&#34;Viking&#34;) (NASDAQ:VKTX), a clinical-stage biopharmaceutical company focused on the development of novel therapies for metabolic and endocrine disorders, announced today the initiation",
-          "fuente": "Benzinga",
-          "fecha": "24 Jun 2026 07:08 UTC",
-          "url": "https://finnhub.io/api/news?id=b4039e3ec265af434b6556dd1ed682b527e56925c81a9b232146053a6963e1ba",
-          "imagen": "",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 2
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
         {
           "ticker": "VRTX",
-          "titulo": "Beam Therapeutics: A Better Entry Point Is Likely Coming (Rating Downgrade)",
-          "resumen": "Beam Therapeutics could have a moat around its business due to Risto-cel showing competitive efficacy. See why BEAM stock is downgraded to a hold.",
-          "fuente": "SeekingAlpha",
-          "fecha": "26 Jun 2026 08:40 UTC",
-          "url": "https://finnhub.io/api/news?id=ba405cbb5351c150f0bceddf11fff95636a06e4fa33d4125056aa50956322117",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2250056975/image_2250056975.jpg?io=getty-c-w1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Why the Market Dipped But Vertex Pharmaceuticals (VRTX) Gained Today",
-          "resumen": "In the most recent trading session, Vertex Pharmaceuticals (VRTX) closed at $475.12, indicating a +1.43% shift from the previous trading day.",
+          "titulo": "CRISPR Therapeutics AG vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy in 2026?",
+          "resumen": "From gene-editing breakthroughs to blockbuster cystic fibrosis drugs, these two industry leaders present sharply contrasting financials and risk profiles.",
           "fuente": "Yahoo",
-          "fecha": "24 Jun 2026 22:00 UTC",
-          "url": "https://finnhub.io/api/news?id=e5aa64b728f83c77a1e4a350fbf27a70abe2b9ba3f11f8499cb9f215ca4ceac4",
+          "fecha": "27 Jun 2026 10:20 UTC",
+          "url": "https://finnhub.io/api/news?id=51bf5a48b04117b7a6c58f6383c5d05d5fab39ef4742ac35838beb847ec58dd3",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex Energy Announces 6,000 bpd Group III Base Oil Expansion Project",
-          "resumen": "HOUSTON, June 24, 2026--Vertex Energy, Inc. (\"Vertex\" or the \"Company\") today announced it is advancing a project at its Mobile, Alabama refinery to produce crude-derived conventional Group III base oils through the Company’s existing hydrocracker and related processing infrastructure, providing lub",
-          "fuente": "Yahoo",
-          "fecha": "24 Jun 2026 14:00 UTC",
-          "url": "https://finnhub.io/api/news?id=8754b6c870f15453540296beaa40b34d9c900e41320a44ce7052cf06fa530b35",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals: Povetacicept May Redefine Growth Narrative (Rating Upgrade)",
-          "resumen": "Vertex Pharmaceuticals: R&D wins beyond cystic fibrosis, with the povetacicept FDA decision coming for IgA nephropathy. Click for this VRTX update.",
-          "fuente": "SeekingAlpha",
-          "fecha": "24 Jun 2026 09:08 UTC",
-          "url": "https://finnhub.io/api/news?id=253be52f81d05c6e520168b36d6171d836afc0c3383f8076989054b7615008b7",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2219926893/image_2219926893.jpg?io=getty-c-w1536",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
         },
         {
           "ticker": "VRTX",
-          "titulo": "The Biotech Sector Looks Ready for a Multi-Year Breakout—Here's What to Watch.",
-          "resumen": "The iShares Nasdaq Biotechnology ETF (IBB) is trading just 1.47% below its 52-week high, signaling a potential multi-year sector breakout.",
+          "titulo": "Why the Market Dipped But Vertex Pharmaceuticals (VRTX) Gained Today",
+          "resumen": "In the closing of the recent trading day, Vertex Pharmaceuticals (VRTX) stood at $491.34, denoting a +2.32% move from the preceding trading day.",
           "fuente": "Yahoo",
-          "fecha": "23 Jun 2026 15:50 UTC",
-          "url": "https://finnhub.io/api/news?id=c642c31397f9ef461dafed417b03bb5b4adf8b4c322ad403f6dd4c72035448ee",
+          "fecha": "26 Jun 2026 21:50 UTC",
+          "url": "https://finnhub.io/api/news?id=ed5abd1fbe9d526d8fc5c2f40585991dc4b9fad448ebf9c38b643cbc90d3c448",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
@@ -198,112 +63,25 @@
         }
       ],
       "nivel": "rojo",
-      "total": 5
+      "total": 2
     },
     "ALNY": {
       "nombre": "ALNY",
-      "noticias": [
-        {
-          "ticker": "ALNY",
-          "titulo": "Alnylam Pharmaceuticals, Inc. (ALNY) Discusses ALN-6400 RNAi Therapy Targeting Plasminogen for Rare Bleeding Disorders Transcript",
-          "resumen": "Alnylam Pharmaceuticals, Inc. (ALNY) Discusses ALN-6400 RNAi Therapy Targeting Plasminogen for Rare Bleeding Disorders June 25, 2026 11:00 AM EDTCompany...",
-          "fuente": "SeekingAlpha",
-          "fecha": "25 Jun 2026 17:12 UTC",
-          "url": "https://finnhub.io/api/news?id=09fc01529483992be9241be7f5df8af40184fec6d0d7bb0c142e41284a9ff801",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Alnylam Pharmaceuticals, Inc. (ALNY) Discusses ALN-6400 RNAi Therapy Targeting Plasminogen for Rare Bleeding Disorders - Slideshow",
-          "resumen": "2026-06-25. The following slide deck was published by Alnylam Pharmaceuticals, Inc.",
-          "fuente": "SeekingAlpha",
-          "fecha": "25 Jun 2026 13:43 UTC",
-          "url": "https://finnhub.io/api/news?id=da699616d255539459a4fb05af7ac6f2980dba87686743618eb181eb731e0392",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Komodo Expands Strategic Partnership With Alnylam to Scale AI-Powered Intelligence Platform",
-          "resumen": "NEW YORK & SAN FRANCISCO, June 25, 2026--Komodo Health®, the leader in AI-powered healthcare intelligence, today announced an expanded strategic partnership with Alnylam Pharmaceuticals (Nasdaq: ALNY), the leading RNAi therapeutics company to scale Marmot™, Komodo’s analytics AI platform, across key",
-          "fuente": "Yahoo",
-          "fecha": "25 Jun 2026 13:00 UTC",
-          "url": "https://finnhub.io/api/news?id=987cf2982ab584446fd5a723a2f0d2e5e2c42b10695df8fef02ea8db8ab6cbfd",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Komodo Health Expands Strategic Partnership With Alnylam Pharma To Scale Marmot, Komodo’s Analytics AI Platform, Across Key Enterprise Functions At Alnylam",
-          "resumen": "Expanded agreement extends Marmot across key enterprise functions, advancing a new operating model for AI-powered decision-making in Life SciencesKomodo also unveils new Marmot capabilities to move organizations beyond",
-          "fuente": "Benzinga",
-          "fecha": "25 Jun 2026 09:03 UTC",
-          "url": "https://finnhub.io/api/news?id=711e4ef02e818ea38e28db86aa86f277bb55f5b527dfe4c1691e696b222a97d8",
-          "imagen": "",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Alnylam Pharmaceuticals, Inc. (ALNY) and GENESIS Pharma Expand Commercial Partnership",
-          "resumen": "Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) is one of the 12 Best AI Drug Discovery Stocks Hedge Funds Are Loading Up On. On June 10, GENESIS Pharma said it expanded its commercial partnership with Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) to include Denmark, Finland, Norway, and Sweden. It extens",
-          "fuente": "Yahoo",
-          "fecha": "23 Jun 2026 19:53 UTC",
-          "url": "https://finnhub.io/api/news?id=36b8334383a7523947d4dcf4be255e536b38f1b1fa9381eb347fab6862ef39dd",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 5
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "BEAM": {
       "nombre": "BEAM",
-      "noticias": [
-        {
-          "ticker": "BEAM",
-          "titulo": "Beam Therapeutics: A Better Entry Point Is Likely Coming (Rating Downgrade)",
-          "resumen": "Beam Therapeutics could have a moat around its business due to Risto-cel showing competitive efficacy. See why BEAM stock is downgraded to a hold.",
-          "fuente": "SeekingAlpha",
-          "fecha": "26 Jun 2026 08:40 UTC",
-          "url": "https://finnhub.io/api/news?id=ba405cbb5351c150f0bceddf11fff95636a06e4fa33d4125056aa50956322117",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2250056975/image_2250056975.jpg?io=getty-c-w1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "OCUL": {
       "nombre": "OCUL",
-      "noticias": [
-        {
-          "ticker": "OCUL",
-          "titulo": "Chardan Capital Maintains Buy on Ocular Therapeutix, Raises Price Target to $23",
-          "resumen": "Chardan Capital  analyst Andreas Argyrides   maintains Ocular Therapeutix (NASDAQ:OCUL) with a Buy and raises the price target from $21 to $23.",
-          "fuente": "Benzinga",
-          "fecha": "25 Jun 2026 09:34 UTC",
-          "url": "https://finnhub.io/api/news?id=a619698e47246acd5db3a60dbc39dfb41133135d612af149fb3e7917cae6bf39",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "CAI": {
       "nombre": "CAI",
@@ -349,279 +127,38 @@
     },
     "INSM": {
       "nombre": "INSM",
-      "noticias": [
-        {
-          "ticker": "INSM",
-          "titulo": "Tuesday's after hours session: top gainers and losers",
-          "resumen": "As the regular session of the US market on Tuesday comes to an end, let's delve into the after-hours session and discover the top gainers and losers shaping the post-market sentiment.",
-          "fuente": "ChartMill",
-          "fecha": "23 Jun 2026 21:00 UTC",
-          "url": "https://finnhub.io/api/news?id=ee75d57bf125298443d7f2573cfc827a4166bd7a948f13a91f2f360fa8bf7ff2",
-          "imagen": "https://www.chartmill.com/images/uploads/CM_Aftermarket_Movers_Small_free_e077945a19.webp",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     }
   },
   "resumen": {
-    "total_noticias": 21,
-    "tickers_con_noticias": 8,
-    "alertas_urgentes": 4,
-    "sin_noticias": 9
+    "total_noticias": 2,
+    "tickers_con_noticias": 1,
+    "alertas_urgentes": 1,
+    "sin_noticias": 16
   },
   "todas_noticias": [
     {
-      "ticker": "ALNY",
-      "titulo": "Alnylam Pharmaceuticals, Inc. (ALNY) and GENESIS Pharma Expand Commercial Partnership",
-      "resumen": "Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) is one of the 12 Best AI Drug Discovery Stocks Hedge Funds Are Loading Up On. On June 10, GENESIS Pharma said it expanded its commercial partnership with Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) to include Denmark, Finland, Norway, and Sweden. It extens",
-      "fuente": "Yahoo",
-      "fecha": "23 Jun 2026 19:53 UTC",
-      "url": "https://finnhub.io/api/news?id=36b8334383a7523947d4dcf4be255e536b38f1b1fa9381eb347fab6862ef39dd",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "Viking Therapeutics Initiates Phase 1 Ascending Dose Trial Of VK3019, An Investigational Dual Amylin And Calcitonin Receptor Agonist For Weight Loss; Data Expected In 3Q26",
-      "resumen": "Viking Therapeutics, Inc. (&#34;Viking&#34;) (NASDAQ:VKTX), a clinical-stage biopharmaceutical company focused on the development of novel therapies for metabolic and endocrine disorders, announced today the initiation",
-      "fuente": "Benzinga",
-      "fecha": "24 Jun 2026 07:08 UTC",
-      "url": "https://finnhub.io/api/news?id=b4039e3ec265af434b6556dd1ed682b527e56925c81a9b232146053a6963e1ba",
-      "imagen": "",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "Viking Advances New Amylin-Based Weight-Loss Drug Into Human Trials",
-      "resumen": "Viking Therapeutics launches Phase 1 trial for obesity drug VK3019, a dual amylin/calcitonin receptor agonist. Read about the study.",
-      "fuente": "Benzinga",
-      "fecha": "24 Jun 2026 09:01 UTC",
-      "url": "https://finnhub.io/api/news?id=3334d6635525d07b69c76753fd8297fbec313bc850e1a62d26aa8a8a8a55594f",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/06/24/Woman-Stepping-On-Floor-Scale-And-Measur.jpg?width=2048&height=1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
       "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals: Povetacicept May Redefine Growth Narrative (Rating Upgrade)",
-      "resumen": "Vertex Pharmaceuticals: R&D wins beyond cystic fibrosis, with the povetacicept FDA decision coming for IgA nephropathy. Click for this VRTX update.",
-      "fuente": "SeekingAlpha",
-      "fecha": "24 Jun 2026 09:08 UTC",
-      "url": "https://finnhub.io/api/news?id=253be52f81d05c6e520168b36d6171d836afc0c3383f8076989054b7615008b7",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2219926893/image_2219926893.jpg?io=getty-c-w1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Komodo Health Expands Strategic Partnership With Alnylam Pharma To Scale Marmot, Komodo’s Analytics AI Platform, Across Key Enterprise Functions At Alnylam",
-      "resumen": "Expanded agreement extends Marmot across key enterprise functions, advancing a new operating model for AI-powered decision-making in Life SciencesKomodo also unveils new Marmot capabilities to move organizations beyond",
-      "fuente": "Benzinga",
-      "fecha": "25 Jun 2026 09:03 UTC",
-      "url": "https://finnhub.io/api/news?id=711e4ef02e818ea38e28db86aa86f277bb55f5b527dfe4c1691e696b222a97d8",
-      "imagen": "",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Komodo Expands Strategic Partnership With Alnylam to Scale AI-Powered Intelligence Platform",
-      "resumen": "NEW YORK & SAN FRANCISCO, June 25, 2026--Komodo Health®, the leader in AI-powered healthcare intelligence, today announced an expanded strategic partnership with Alnylam Pharmaceuticals (Nasdaq: ALNY), the leading RNAi therapeutics company to scale Marmot™, Komodo’s analytics AI platform, across key",
+      "titulo": "CRISPR Therapeutics AG vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy in 2026?",
+      "resumen": "From gene-editing breakthroughs to blockbuster cystic fibrosis drugs, these two industry leaders present sharply contrasting financials and risk profiles.",
       "fuente": "Yahoo",
-      "fecha": "25 Jun 2026 13:00 UTC",
-      "url": "https://finnhub.io/api/news?id=987cf2982ab584446fd5a723a2f0d2e5e2c42b10695df8fef02ea8db8ab6cbfd",
+      "fecha": "27 Jun 2026 10:20 UTC",
+      "url": "https://finnhub.io/api/news?id=51bf5a48b04117b7a6c58f6383c5d05d5fab39ef4742ac35838beb847ec58dd3",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "Argenx Analyst Is Bullish Despite Changes To Phase 3 Myositis Study",
-      "resumen": "HC Wainwright sees over $1 billion in sales potential for Argenx&#39;s Vyvgart in IMNM despite myositis trial changes.",
-      "fuente": "Benzinga",
-      "fecha": "25 Jun 2026 13:57 UTC",
-      "url": "https://finnhub.io/api/news?id=d77364eec3ef36fa1bee465d6274385af7fb86949ed89ae31b32ab5d66df0a02",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/06/25/biotech-lab.jpg?width=2048&height=1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "The Biotech Sector Looks Ready for a Multi-Year Breakout—Here's What to Watch.",
-      "resumen": "The iShares Nasdaq Biotechnology ETF (IBB) is trading just 1.47% below its 52-week high, signaling a potential multi-year sector breakout.",
-      "fuente": "Yahoo",
-      "fecha": "23 Jun 2026 15:50 UTC",
-      "url": "https://finnhub.io/api/news?id=c642c31397f9ef461dafed417b03bb5b4adf8b4c322ad403f6dd4c72035448ee",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "Tuesday's after hours session: top gainers and losers",
-      "resumen": "As the regular session of the US market on Tuesday comes to an end, let's delve into the after-hours session and discover the top gainers and losers shaping the post-market sentiment.",
-      "fuente": "ChartMill",
-      "fecha": "23 Jun 2026 21:00 UTC",
-      "url": "https://finnhub.io/api/news?id=ee75d57bf125298443d7f2573cfc827a4166bd7a948f13a91f2f360fa8bf7ff2",
-      "imagen": "https://www.chartmill.com/images/uploads/CM_Aftermarket_Movers_Small_free_e077945a19.webp",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "argenx SE (ARGX) Discusses R&D Spotlight on Advancing FcRn Leadership in Autoimmune Myositis Transcript",
-      "resumen": "argenx SE (ARGX) Discusses R&D Spotlight on Advancing FcRn Leadership in Autoimmune Myositis June 23, 2026 2:00 PM EDTCompany ParticipantsBeth...",
-      "fuente": "SeekingAlpha",
-      "fecha": "24 Jun 2026 01:32 UTC",
-      "url": "https://finnhub.io/api/news?id=eb2377ef93e7897441553c5cd31549b51f9c6d0916268cdec56a76bf052dad1f",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "Morgan Stanley Maintains Overweight on argenx, Raises Price Target to $1180",
-      "resumen": "Morgan Stanley  analyst Matthew Harrison   maintains argenx (NASDAQ:ARGX) with a Overweight and raises the price target from $1170 to $1180.",
-      "fuente": "Benzinga",
-      "fecha": "24 Jun 2026 08:50 UTC",
-      "url": "https://finnhub.io/api/news?id=822c9f72400871e01b19be194e35a7a115bd9f3d655cec3618e2b9c5ffae9185",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "Okta To Rally More Than 18%? Here Are 10 Top Analyst Forecasts For Wednesday",
-      "resumen": "Top Wall Street analysts changed their outlook on top names. See all analyst rating changes, including upgrades/downgrades, on analyst ratings page.",
-      "fuente": "Benzinga",
-      "fecha": "24 Jun 2026 08:56 UTC",
-      "url": "https://finnhub.io/api/news?id=f1b9264fc7dabe1078ef49957dab996b8d677f24b00753727e5111c01d34a8a6",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/06/24/Okta-Sign-Building-In-Soma-District--Okt.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex Energy Announces 6,000 bpd Group III Base Oil Expansion Project",
-      "resumen": "HOUSTON, June 24, 2026--Vertex Energy, Inc. (\"Vertex\" or the \"Company\") today announced it is advancing a project at its Mobile, Alabama refinery to produce crude-derived conventional Group III base oils through the Company’s existing hydrocracker and related processing infrastructure, providing lub",
-      "fuente": "Yahoo",
-      "fecha": "24 Jun 2026 14:00 UTC",
-      "url": "https://finnhub.io/api/news?id=8754b6c870f15453540296beaa40b34d9c900e41320a44ce7052cf06fa530b35",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
     },
     {
       "ticker": "VRTX",
       "titulo": "Why the Market Dipped But Vertex Pharmaceuticals (VRTX) Gained Today",
-      "resumen": "In the most recent trading session, Vertex Pharmaceuticals (VRTX) closed at $475.12, indicating a +1.43% shift from the previous trading day.",
+      "resumen": "In the closing of the recent trading day, Vertex Pharmaceuticals (VRTX) stood at $491.34, denoting a +2.32% move from the preceding trading day.",
       "fuente": "Yahoo",
-      "fecha": "24 Jun 2026 22:00 UTC",
-      "url": "https://finnhub.io/api/news?id=e5aa64b728f83c77a1e4a350fbf27a70abe2b9ba3f11f8499cb9f215ca4ceac4",
+      "fecha": "26 Jun 2026 21:50 UTC",
+      "url": "https://finnhub.io/api/news?id=ed5abd1fbe9d526d8fc5c2f40585991dc4b9fad448ebf9c38b643cbc90d3c448",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "HC Wainwright & Co. Reiterates Buy on argenx, Maintains $940 Price Target",
-      "resumen": "HC Wainwright &amp; Co.  analyst Douglas Tsao   reiterates argenx (NASDAQ:ARGX) with a Buy and maintains $940 price target.",
-      "fuente": "Benzinga",
-      "fecha": "25 Jun 2026 08:28 UTC",
-      "url": "https://finnhub.io/api/news?id=dc452c71386cdae9c453c4de85c22e07174b17aa87211b583c33e083a537ed03",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "OCUL",
-      "titulo": "Chardan Capital Maintains Buy on Ocular Therapeutix, Raises Price Target to $23",
-      "resumen": "Chardan Capital  analyst Andreas Argyrides   maintains Ocular Therapeutix (NASDAQ:OCUL) with a Buy and raises the price target from $21 to $23.",
-      "fuente": "Benzinga",
-      "fecha": "25 Jun 2026 09:34 UTC",
-      "url": "https://finnhub.io/api/news?id=a619698e47246acd5db3a60dbc39dfb41133135d612af149fb3e7917cae6bf39",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Alnylam Pharmaceuticals, Inc. (ALNY) Discusses ALN-6400 RNAi Therapy Targeting Plasminogen for Rare Bleeding Disorders - Slideshow",
-      "resumen": "2026-06-25. The following slide deck was published by Alnylam Pharmaceuticals, Inc.",
-      "fuente": "SeekingAlpha",
-      "fecha": "25 Jun 2026 13:43 UTC",
-      "url": "https://finnhub.io/api/news?id=da699616d255539459a4fb05af7ac6f2980dba87686743618eb181eb731e0392",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Alnylam Pharmaceuticals, Inc. (ALNY) Discusses ALN-6400 RNAi Therapy Targeting Plasminogen for Rare Bleeding Disorders Transcript",
-      "resumen": "Alnylam Pharmaceuticals, Inc. (ALNY) Discusses ALN-6400 RNAi Therapy Targeting Plasminogen for Rare Bleeding Disorders June 25, 2026 11:00 AM EDTCompany...",
-      "fuente": "SeekingAlpha",
-      "fecha": "25 Jun 2026 17:12 UTC",
-      "url": "https://finnhub.io/api/news?id=09fc01529483992be9241be7f5df8af40184fec6d0d7bb0c142e41284a9ff801",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Beam Therapeutics: A Better Entry Point Is Likely Coming (Rating Downgrade)",
-      "resumen": "Beam Therapeutics could have a moat around its business due to Risto-cel showing competitive efficacy. See why BEAM stock is downgraded to a hold.",
-      "fuente": "SeekingAlpha",
-      "fecha": "26 Jun 2026 08:40 UTC",
-      "url": "https://finnhub.io/api/news?id=ba405cbb5351c150f0bceddf11fff95636a06e4fa33d4125056aa50956322117",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2250056975/image_2250056975.jpg?io=getty-c-w1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "BEAM",
-      "titulo": "Beam Therapeutics: A Better Entry Point Is Likely Coming (Rating Downgrade)",
-      "resumen": "Beam Therapeutics could have a moat around its business due to Risto-cel showing competitive efficacy. See why BEAM stock is downgraded to a hold.",
-      "fuente": "SeekingAlpha",
-      "fecha": "26 Jun 2026 08:40 UTC",
-      "url": "https://finnhub.io/api/news?id=ba405cbb5351c150f0bceddf11fff95636a06e4fa33d4125056aa50956322117",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2250056975/image_2250056975.jpg?io=getty-c-w1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "SNDX",
-      "titulo": "Jazz Pharmaceuticals: Why It's Time To Cash Out (Rating Downgrade)",
-      "resumen": "Jazz Pharmaceuticals' shares are in the distribution phase because Zepzelca failed to show a survival benefit over irinotecan. See why JAZZ stock is downgraded to hold.",
-      "fuente": "SeekingAlpha",
-      "fecha": "26 Jun 2026 09:22 UTC",
-      "url": "https://finnhub.io/api/news?id=8f1bf596ce182e56e350eee0da5f22dee126d24c8d2f65b0f0da933c699ddae7",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2260722103/image_2260722103.jpg?io=getty-c-w1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

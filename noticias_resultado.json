@@ -1,5 +1,5 @@
 {
-  "generado": "29/06/2026 14:25 UTC",
+  "generado": "29/06/2026 17:19 UTC",
   "plazo_horas": 72,
   "desde": "2026-06-26",
   "hasta": "2026-06-29",
@@ -39,6 +39,18 @@
       "noticias": [
         {
           "ticker": "VRTX",
+          "titulo": "Nephrotic Syndrome Market Set for Robust Growth During the Forecast Period (2026-2036), Driven by Emerging Therapies and Expanding Research | DelveInsight",
+          "resumen": "Recently published Nephrotic Syndrome Market Insights report includes a comprehensive understanding of current treatment practices, nephrotic syndrome emerging drugs, market share of individual therapies, and current and forecasted market size from 2022 to 2036, segmented into leading markets [the U",
+          "fuente": "Yahoo",
+          "fecha": "29 Jun 2026 14:31 UTC",
+          "url": "https://finnhub.io/api/news?id=3484cd2804e17574e52f5dc75211e2bdaed85ba2dc7204ea87eeb546c4c90f85",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
           "titulo": "CRISPR Therapeutics AG vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy in 2026?",
           "resumen": "From gene-editing breakthroughs to blockbuster cystic fibrosis drugs, these two industry leaders present sharply contrasting financials and risk profiles.",
           "fuente": "Yahoo",
@@ -63,13 +75,38 @@
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 3
     },
     "ALNY": {
       "nombre": "ALNY",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "Applied Materials To Rally Around 20%? Here Are 10 Top Analyst Forecasts For Monday",
+          "resumen": "Top Wall Street analysts upgraded and downgraded several top companies, including Applied Materials, Robinhood, Liquidia, Airbnb, Praxis, Alnylam, and Uniqure.",
+          "fuente": "Benzinga",
+          "fecha": "29 Jun 2026 09:05 UTC",
+          "url": "https://finnhub.io/api/news?id=bcabc12b645ae4b1c086f075ea464babe64a982b4417658943ba9f568ab3e2dc",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/06/29/Santa-Clara--California---April-26--2018.jpg?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "HC Wainwright & Co. Maintains Buy on Alnylam Pharmaceuticals, Lowers Price Target to $470",
+          "resumen": "HC Wainwright &amp; Co.  analyst Patrick R. Trucchio   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Buy and lowers the price target from $510 to $470.",
+          "fuente": "Benzinga",
+          "fecha": "29 Jun 2026 06:10 UTC",
+          "url": "https://finnhub.io/api/news?id=6de52c530a96b66bd4b037cc535f9ab106c56b3fe46b6df49add0a17c407745f",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 2
     },
     "BEAM": {
       "nombre": "BEAM",
@@ -133,10 +170,10 @@
     }
   },
   "resumen": {
-    "total_noticias": 2,
-    "tickers_con_noticias": 1,
-    "alertas_urgentes": 1,
-    "sin_noticias": 16
+    "total_noticias": 5,
+    "tickers_con_noticias": 2,
+    "alertas_urgentes": 2,
+    "sin_noticias": 15
   },
   "todas_noticias": [
     {
@@ -152,12 +189,48 @@
       "badge": "🔴"
     },
     {
+      "ticker": "ALNY",
+      "titulo": "Applied Materials To Rally Around 20%? Here Are 10 Top Analyst Forecasts For Monday",
+      "resumen": "Top Wall Street analysts upgraded and downgraded several top companies, including Applied Materials, Robinhood, Liquidia, Airbnb, Praxis, Alnylam, and Uniqure.",
+      "fuente": "Benzinga",
+      "fecha": "29 Jun 2026 09:05 UTC",
+      "url": "https://finnhub.io/api/news?id=bcabc12b645ae4b1c086f075ea464babe64a982b4417658943ba9f568ab3e2dc",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/06/29/Santa-Clara--California---April-26--2018.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
       "ticker": "VRTX",
       "titulo": "Why the Market Dipped But Vertex Pharmaceuticals (VRTX) Gained Today",
       "resumen": "In the closing of the recent trading day, Vertex Pharmaceuticals (VRTX) stood at $491.34, denoting a +2.32% move from the preceding trading day.",
       "fuente": "Yahoo",
       "fecha": "26 Jun 2026 21:50 UTC",
       "url": "https://finnhub.io/api/news?id=ed5abd1fbe9d526d8fc5c2f40585991dc4b9fad448ebf9c38b643cbc90d3c448",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "HC Wainwright & Co. Maintains Buy on Alnylam Pharmaceuticals, Lowers Price Target to $470",
+      "resumen": "HC Wainwright &amp; Co.  analyst Patrick R. Trucchio   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Buy and lowers the price target from $510 to $470.",
+      "fuente": "Benzinga",
+      "fecha": "29 Jun 2026 06:10 UTC",
+      "url": "https://finnhub.io/api/news?id=6de52c530a96b66bd4b037cc535f9ab106c56b3fe46b6df49add0a17c407745f",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Nephrotic Syndrome Market Set for Robust Growth During the Forecast Period (2026-2036), Driven by Emerging Therapies and Expanding Research | DelveInsight",
+      "resumen": "Recently published Nephrotic Syndrome Market Insights report includes a comprehensive understanding of current treatment practices, nephrotic syndrome emerging drugs, market share of individual therapies, and current and forecasted market size from 2022 to 2036, segmented into leading markets [the U",
+      "fuente": "Yahoo",
+      "fecha": "29 Jun 2026 14:31 UTC",
+      "url": "https://finnhub.io/api/news?id=3484cd2804e17574e52f5dc75211e2bdaed85ba2dc7204ea87eeb546c4c90f85",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",

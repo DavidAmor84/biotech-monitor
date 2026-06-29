@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 26/06/2026 15:31 | Período: últimos 7 días
-Desde: 2026-06-19 → Hasta: 2026-06-26
+Generado: 29/06/2026 14:23 | Período: últimos 7 días
+Desde: 2026-06-22 → Hasta: 2026-06-29
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 17 filings | 🔴 0 | 🟢 0 | 🟡 7 | 🔵 10 | ✅ 11 sin novedad
+RESUMEN: 19 filings | 🔴 0 | 🟢 0 | 🟡 8 | 🔵 11 | ✅ 11 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -12,7 +12,10 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [SNDX] Sin novedades
   ✅ [ARGX] Sin novedades
 
-  🟡 [DYN] Dyne Therapeutics, Inc. — 5 filing(s)
+  🟡 [DYN] Dyne Therapeutics, Inc. — 6 filing(s)
+     🟡 MEDIA 4 | 2026-06-26 | Lucera Erick (Chief Financial Officer) → Venta 2,362 acciones @ $20.37 | Post: 121,563 | Rutinaria/RSU/impuestos
+     Insider: Lucera Erick (Chief Financial Officer) → Venta 2,362 acciones @ $20.37 | Post: 121,563 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1818794/000119312526285505/xslF345X06/ownership.xml
      🟡 MEDIA 4 | 2026-06-26 | Rhodes Jason P → Venta 77,855 acciones @ $21.13 | Post: 4,805,639 | Rutinaria/RSU/impuestos
      Insider: Rhodes Jason P → Venta 77,855 acciones @ $21.13 | Post: 4,805,639 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1818794/000157701426000010/xslF345X06/form4-06262026_120619.xml
@@ -75,7 +78,10 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [TARA] Sin novedades
   ✅ [SENS] Sin novedades
 
-  🟡 [INSM] INSMED Inc — 2 filing(s)
+  🟡 [INSM] INSMED Inc — 3 filing(s)
+     🔵 INFO 4 | 2026-06-26 | Lewis William (Director / Chair and CEO) → Ejercicio opción 12,518 acciones @ $30.46 | Post: 271,435 | Rutinaria/RSU/impuestos
+     Insider: Lewis William (Director / Chair and CEO) → Ejercicio opción 12,518 acciones @ $30.46 | Post: 271,435 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1104506/000140205126000038/xslF345X06/wk-form4_1782504217.xml
      🔵 INFO 4 | 2026-06-24 | Butera Samuele (SVP, GM, Global Respiratory) → Concesión 7,342 acciones | Post: 7,342 | Rutinaria/RSU/impuestos
      Insider: Butera Samuele (SVP, GM, Global Respiratory) → Concesión 7,342 acciones | Post: 7,342 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1104506/000214009826000005/xslF345X06/wk-form4_1782332113.xml
@@ -119,7 +125,7 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Reclutando activamente
        Enrollment: 150 pacientes
        Primary completion: 2028-07
-       Última actualización: 2026-06-01
+       Última actualización: 2026-06-29
        → https://clinicaltrials.gov/study/NCT07486934
 
   [VKTX]

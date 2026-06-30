@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 29/06/2026 17:18 | Período: últimos 7 días
-Desde: 2026-06-22 → Hasta: 2026-06-29
+Generado: 30/06/2026 13:29 | Período: últimos 7 días
+Desde: 2026-06-23 → Hasta: 2026-06-30
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 19 filings | 🔴 0 | 🟢 0 | 🟡 8 | 🔵 11 | ✅ 11 sin novedad
+RESUMEN: 12 filings | 🔴 0 | 🟢 0 | 🟡 8 | 🔵 4 | ✅ 10 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -12,7 +12,7 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [SNDX] Sin novedades
   ✅ [ARGX] Sin novedades
 
-  🟡 [DYN] Dyne Therapeutics, Inc. — 6 filing(s)
+  🟡 [DYN] Dyne Therapeutics, Inc. — 4 filing(s)
      🟡 MEDIA 4 | 2026-06-26 | Lucera Erick (Chief Financial Officer) → Venta 2,362 acciones @ $20.37 | Post: 121,563 | Rutinaria/RSU/impuestos
      Insider: Lucera Erick (Chief Financial Officer) → Venta 2,362 acciones @ $20.37 | Post: 121,563 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1818794/000119312526285505/xslF345X06/ownership.xml
@@ -25,11 +25,6 @@ DETALLE POR TICKER — SEC EDGAR
      🔵 INFO 4 | 2026-06-23 | Greene Barry E → Concesión 57,463 acciones @ $0.00 | Post: 57,463
      Insider: Greene Barry E → Concesión 57,463 acciones @ $0.00 | Post: 57,463
      → https://www.sec.gov/Archives/edgar/data/1818794/000129196326000008/xslF345X06/ownership.xml
-     🟡 MEDIA 8-K | 2026-06-22 | Item 5.02: Cambio directivo relevante [Items: 5.02]
-     → https://www.sec.gov/Archives/edgar/data/1818794/000181879426000005/dyn-20260622.htm
-     🟡 MEDIA 4 | 2026-06-22 | Kersten Dirk → Venta 37,454 acciones @ $20.14 | Post: 4,159,119 | Rutinaria/RSU/impuestos
-     Insider: Kersten Dirk → Venta 37,454 acciones @ $20.14 | Post: 4,159,119 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1818794/000119312526277529/xslF345X06/ownership.xml
   ✅ [DNLI] Sin novedades
   ✅ [VKTX] Sin novedades
 
@@ -39,43 +34,28 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000237/xslF345X06/wk-form4_1782245334.xml
   ✅ [ALNY] Sin novedades
 
-  🔵 [BEAM] Beam Therapeutics Inc. — 1 filing(s)
-     🔵 INFO 4 | 2026-06-22 | Ciaramella Giuseppe (President) → Ejercicio opción 6,505 acciones @ $0.67 | Post: 224,911 | Rutinaria/RSU/impuestos
-     Insider: Ciaramella Giuseppe (President) → Ejercicio opción 6,505 acciones @ $0.67 | Post: 224,911 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1745999/000119312526277509/xslF345X06/ownership.xml
+  🟡 [BEAM] Beam Therapeutics Inc. — 1 filing(s)
+     🟡 MEDIA 4 | 2026-06-29 | FMR LLC → Venta 33,372 acciones @ $35.12 | Post: 1,106,071
+     Insider: FMR LLC → Venta 33,372 acciones @ $35.12 | Post: 1,106,071
+     → https://www.sec.gov/Archives/edgar/data/1745999/000119312526288078/xslF345X06/ownership.xml
   ✅ [OCUL] Sin novedades
   ✅ [CAI] Sin novedades
-  ✅ [GPCR] Sin novedades
+
+  🔵 [GPCR] Structure Therapeutics Inc. — 1 filing(s)
+     🔵 INFO 4 | 2026-06-29 | Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 23,634 acciones @ $0.34 | Post: 252,594 | Rutinaria/RSU/impuestos
+     Insider: Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 23,634 acciones @ $0.34 | Post: 252,594 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1888886/000196292626000005/xslF345X06/form4-06302026_120631.xml
   ✅ [ABVX] Sin novedades
 
   🟡 [VERA] Vera Therapeutics, Inc. — 1 filing(s)
      🟡 MEDIA 4 | 2026-06-24 | Fordyce Marshall (PRESIDENT AND CEO) → Venta 18,412 acciones @ $37.93 | Post: 198,332 | Rutinaria/RSU/impuestos
      Insider: Fordyce Marshall (PRESIDENT AND CEO) → Venta 18,412 acciones @ $37.93 | Post: 198,332 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1831828/000185945326000008/xslF345X06/form4-06242026_080643.xml
+  ✅ [ACRV] Sin novedades
 
-  🔵 [ACRV] Acrivon Therapeutics, Inc. — 7 filing(s)
-     🔵 INFO 4 | 2026-06-22 | RA CAPITAL MANAGEMENT, L.P. → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
-     Insider: RA CAPITAL MANAGEMENT, L.P. → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1781174/000123191926000686/xslF345X06/form4-06222026_080632.xml
-     🔵 INFO 4 | 2026-06-22 | TOMSICEK MICHAEL JOHN → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
-     Insider: TOMSICEK MICHAEL JOHN → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003042/xslF345X06/form4.xml
-     🔵 INFO 4 | 2026-06-22 | Shacham Sharon → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
-     Insider: Shacham Sharon → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003041/xslF345X06/form4.xml
-     🔵 INFO 4 | 2026-06-22 | Palani Santhosh → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
-     Insider: Palani Santhosh → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003035/xslF345X06/form4.xml
-     🔵 INFO 4 | 2026-06-22 | Magovcevic-Liebisch Ivana → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
-     Insider: Magovcevic-Liebisch Ivana → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003034/xslF345X06/form4.xml
-     🔵 INFO 4 | 2026-06-22 | DiRocco Derek → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
-     Insider: DiRocco Derek → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003033/xslF345X06/form4.xml
-     🔵 INFO 4 | 2026-06-22 | BAUM CHARLES M → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
-     Insider: BAUM CHARLES M → Concesión 20,275 acciones @ $0.00 | Post: 20,275 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003024/xslF345X06/form4.xml
-  ✅ [TARA] Sin novedades
+  🟡 [TARA] Protara Therapeutics, Inc. — 1 filing(s)
+     🟡 MEDIA 8-K | 2026-06-29 | Item 5.02: Cambio directivo relevante [Items: 5.02]
+     → https://www.sec.gov/Archives/edgar/data/1359931/000121390026073184/ea0296286-8k_protara.htm
   ✅ [SENS] Sin novedades
 
   🟡 [INSM] INSMED Inc — 3 filing(s)
@@ -125,7 +105,7 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Reclutando activamente
        Enrollment: 150 pacientes
        Primary completion: 2028-07
-       Última actualización: 2026-06-29
+       Última actualización: 2026-06-30
        → https://clinicaltrials.gov/study/NCT07486934
 
   [VKTX]

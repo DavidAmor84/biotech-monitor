@@ -1,8 +1,8 @@
 {
-  "generado": "29/06/2026 17:19 UTC",
+  "generado": "30/06/2026 13:30 UTC",
   "plazo_horas": 72,
-  "desde": "2026-06-26",
-  "hasta": "2026-06-29",
+  "desde": "2026-06-27",
+  "hasta": "2026-06-30",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -12,9 +12,22 @@
     },
     "ARGX": {
       "nombre": "ARGX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ARGX",
+          "titulo": "ValuEngine Weekly Market Summary And Commentary",
+          "resumen": "U.S. equity markets were mixed this week, with weakness in growth and technology offset by strength in defensive and health care sectors. ",
+          "fuente": "SeekingAlpha",
+          "fecha": "30 Jun 2026 00:55 UTC",
+          "url": "https://finnhub.io/api/news?id=42ebca08725488bcaeb7da6f8764e5eef18c6f7dac01e2607f09e5a0cc3cdc75",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2228869477/image_2228869477.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "DYN": {
       "nombre": "DYN",
@@ -51,30 +64,30 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "CRISPR Therapeutics AG vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy in 2026?",
-          "resumen": "From gene-editing breakthroughs to blockbuster cystic fibrosis drugs, these two industry leaders present sharply contrasting financials and risk profiles.",
-          "fuente": "Yahoo",
-          "fecha": "27 Jun 2026 10:20 UTC",
-          "url": "https://finnhub.io/api/news?id=51bf5a48b04117b7a6c58f6383c5d05d5fab39ef4742ac35838beb847ec58dd3",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
+          "titulo": "Final Trades: Vertex Pharma, Verizon, IBM and Corning",
+          "resumen": "CNBC’s “Halftime Report” Investment Committee discusses their top stocks to watch for the second half of the day's trading session.",
+          "fuente": "CNBC",
+          "fecha": "29 Jun 2026 13:13 UTC",
+          "url": "https://finnhub.io/api/news?id=4709d5ca306bbc1855ff81a039eead68fd90197ec3bd3dd346939cc5bdb0782e",
+          "imagen": "https://image.cnbcfm.com/api/v1/image/108328225-17827525071782752505-46850070738-1080pnbcnews.jpg?v=1782752506&w=1920&h=1080",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
         },
         {
           "ticker": "VRTX",
-          "titulo": "Why the Market Dipped But Vertex Pharmaceuticals (VRTX) Gained Today",
-          "resumen": "In the closing of the recent trading day, Vertex Pharmaceuticals (VRTX) stood at $491.34, denoting a +2.32% move from the preceding trading day.",
-          "fuente": "Yahoo",
-          "fecha": "26 Jun 2026 21:50 UTC",
-          "url": "https://finnhub.io/api/news?id=ed5abd1fbe9d526d8fc5c2f40585991dc4b9fad448ebf9c38b643cbc90d3c448",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "titulo": "$100 Invested In Vertex Pharmaceuticals 5 Years Ago Would Be Worth This Much Today",
+          "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) has outperformed the market over the past 5 years by 8.53% on an annualized basis producing an average annual return of 19.73%. Currently, Vertex Pharmaceuticals has a market",
+          "fuente": "Benzinga",
+          "fecha": "29 Jun 2026 11:30 UTC",
+          "url": "https://finnhub.io/api/news?id=3dc68a4a1dcaa2ec5804c683de8351e726b2d77494d28eccc55d3c4ed76b593a",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_3.jpg?width=2048&height=1536",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         }
       ],
-      "nivel": "rojo",
+      "nivel": "azul",
       "total": 3
     },
     "ALNY": {
@@ -110,9 +123,22 @@
     },
     "BEAM": {
       "nombre": "BEAM",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "BEAM",
+          "titulo": "Powder Keg Stocks: 10 Most‑Shorted Names Primed For A Monster Squeeze (CORRECTED)",
+          "resumen": "Data show high levels of short interest in 10 stocks, including Avis Budget, RH, Lucid and CleanSpark.",
+          "fuente": "Benzinga",
+          "fecha": "29 Jun 2026 11:14 UTC",
+          "url": "https://finnhub.io/api/news?id=5cab442e44a297348839958a1d35b40591a983680187c1cf82ed097d2600299d",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/06/29/Old-Black-Cannonball-On-Red-Background-b.jpg?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "OCUL": {
       "nombre": "OCUL",
@@ -134,9 +160,46 @@
     },
     "ABVX": {
       "nombre": "ABVX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ABVX",
+          "titulo": "Tuesday's pre-market session: top gainers and losers",
+          "resumen": "Before the opening bell on Tuesday, let's take a glimpse of the US markets and explore the top gainers and losers in today's pre-market session.",
+          "fuente": "ChartMill",
+          "fecha": "30 Jun 2026 12:30 UTC",
+          "url": "https://finnhub.io/api/news?id=cd0f11c5be842c0bba95b9f1d733b52b0427f09d994d9ab5b72d8bda6b35f57d",
+          "imagen": "https://www.chartmill.com/images/uploads/CM_Premarket_Movers_Small_free_90289f6b81.webp",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ABVX",
+          "titulo": "ABIVAX Société Anonyme (ABVX) Discusses ABTECT Maintenance Part 2 Results and Updated Obefazimod Safety and Efficacy Data in Ulcerative Colitis Transcript",
+          "resumen": "ABIVAX SociÃ©tÃ© Anonyme (ABVX) Discusses ABTECT Maintenance Part 2 Results and Updated Obefazimod Safety and Efficacy Data in Ulcerative Colitis June 29,...",
+          "fuente": "SeekingAlpha",
+          "fecha": "30 Jun 2026 03:02 UTC",
+          "url": "https://finnhub.io/api/news?id=ee51e5158373b0f9fee35b2ca1d9d3fcf32972511c4f28ece9f8b1303c4ebb62",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ABVX",
+          "titulo": "10 Health Care Stocks With Whale Alerts In Today’s Session",
+          "resumen": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
+          "fuente": "Benzinga",
+          "fecha": "29 Jun 2026 13:35 UTC",
+          "url": "https://finnhub.io/api/news?id=3b510a05254eac4da2d0a1d40f52879e479eca6c746029ac93824db3dbb6fbc7",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 3
     },
     "VERA": {
       "nombre": "VERA",
@@ -170,24 +233,12 @@
     }
   },
   "resumen": {
-    "total_noticias": 5,
-    "tickers_con_noticias": 2,
-    "alertas_urgentes": 2,
-    "sin_noticias": 15
+    "total_noticias": 10,
+    "tickers_con_noticias": 5,
+    "alertas_urgentes": 3,
+    "sin_noticias": 12
   },
   "todas_noticias": [
-    {
-      "ticker": "VRTX",
-      "titulo": "CRISPR Therapeutics AG vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy in 2026?",
-      "resumen": "From gene-editing breakthroughs to blockbuster cystic fibrosis drugs, these two industry leaders present sharply contrasting financials and risk profiles.",
-      "fuente": "Yahoo",
-      "fecha": "27 Jun 2026 10:20 UTC",
-      "url": "https://finnhub.io/api/news?id=51bf5a48b04117b7a6c58f6383c5d05d5fab39ef4742ac35838beb847ec58dd3",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "ALNY",
       "titulo": "Applied Materials To Rally Around 20%? Here Are 10 Top Analyst Forecasts For Monday",
@@ -201,16 +252,28 @@
       "badge": "🔴"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "Why the Market Dipped But Vertex Pharmaceuticals (VRTX) Gained Today",
-      "resumen": "In the closing of the recent trading day, Vertex Pharmaceuticals (VRTX) stood at $491.34, denoting a +2.32% move from the preceding trading day.",
-      "fuente": "Yahoo",
-      "fecha": "26 Jun 2026 21:50 UTC",
-      "url": "https://finnhub.io/api/news?id=ed5abd1fbe9d526d8fc5c2f40585991dc4b9fad448ebf9c38b643cbc90d3c448",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "ticker": "BEAM",
+      "titulo": "Powder Keg Stocks: 10 Most‑Shorted Names Primed For A Monster Squeeze (CORRECTED)",
+      "resumen": "Data show high levels of short interest in 10 stocks, including Avis Budget, RH, Lucid and CleanSpark.",
+      "fuente": "Benzinga",
+      "fecha": "29 Jun 2026 11:14 UTC",
+      "url": "https://finnhub.io/api/news?id=5cab442e44a297348839958a1d35b40591a983680187c1cf82ed097d2600299d",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/06/29/Old-Black-Cannonball-On-Red-Background-b.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ABVX",
+      "titulo": "ABIVAX Société Anonyme (ABVX) Discusses ABTECT Maintenance Part 2 Results and Updated Obefazimod Safety and Efficacy Data in Ulcerative Colitis Transcript",
+      "resumen": "ABIVAX SociÃ©tÃ© Anonyme (ABVX) Discusses ABTECT Maintenance Part 2 Results and Updated Obefazimod Safety and Efficacy Data in Ulcerative Colitis June 29,...",
+      "fuente": "SeekingAlpha",
+      "fecha": "30 Jun 2026 03:02 UTC",
+      "url": "https://finnhub.io/api/news?id=ee51e5158373b0f9fee35b2ca1d9d3fcf32972511c4f28ece9f8b1303c4ebb62",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "ALNY",
@@ -226,12 +289,72 @@
     },
     {
       "ticker": "VRTX",
+      "titulo": "$100 Invested In Vertex Pharmaceuticals 5 Years Ago Would Be Worth This Much Today",
+      "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) has outperformed the market over the past 5 years by 8.53% on an annualized basis producing an average annual return of 19.73%. Currently, Vertex Pharmaceuticals has a market",
+      "fuente": "Benzinga",
+      "fecha": "29 Jun 2026 11:30 UTC",
+      "url": "https://finnhub.io/api/news?id=3dc68a4a1dcaa2ec5804c683de8351e726b2d77494d28eccc55d3c4ed76b593a",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_3.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Final Trades: Vertex Pharma, Verizon, IBM and Corning",
+      "resumen": "CNBC’s “Halftime Report” Investment Committee discusses their top stocks to watch for the second half of the day's trading session.",
+      "fuente": "CNBC",
+      "fecha": "29 Jun 2026 13:13 UTC",
+      "url": "https://finnhub.io/api/news?id=4709d5ca306bbc1855ff81a039eead68fd90197ec3bd3dd346939cc5bdb0782e",
+      "imagen": "https://image.cnbcfm.com/api/v1/image/108328225-17827525071782752505-46850070738-1080pnbcnews.jpg?v=1782752506&w=1920&h=1080",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ABVX",
+      "titulo": "10 Health Care Stocks With Whale Alerts In Today’s Session",
+      "resumen": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
+      "fuente": "Benzinga",
+      "fecha": "29 Jun 2026 13:35 UTC",
+      "url": "https://finnhub.io/api/news?id=3b510a05254eac4da2d0a1d40f52879e479eca6c746029ac93824db3dbb6fbc7",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
       "titulo": "Nephrotic Syndrome Market Set for Robust Growth During the Forecast Period (2026-2036), Driven by Emerging Therapies and Expanding Research | DelveInsight",
       "resumen": "Recently published Nephrotic Syndrome Market Insights report includes a comprehensive understanding of current treatment practices, nephrotic syndrome emerging drugs, market share of individual therapies, and current and forecasted market size from 2022 to 2036, segmented into leading markets [the U",
       "fuente": "Yahoo",
       "fecha": "29 Jun 2026 14:31 UTC",
       "url": "https://finnhub.io/api/news?id=3484cd2804e17574e52f5dc75211e2bdaed85ba2dc7204ea87eeb546c4c90f85",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "ValuEngine Weekly Market Summary And Commentary",
+      "resumen": "U.S. equity markets were mixed this week, with weakness in growth and technology offset by strength in defensive and health care sectors. ",
+      "fuente": "SeekingAlpha",
+      "fecha": "30 Jun 2026 00:55 UTC",
+      "url": "https://finnhub.io/api/news?id=42ebca08725488bcaeb7da6f8764e5eef18c6f7dac01e2607f09e5a0cc3cdc75",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2228869477/image_2228869477.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ABVX",
+      "titulo": "Tuesday's pre-market session: top gainers and losers",
+      "resumen": "Before the opening bell on Tuesday, let's take a glimpse of the US markets and explore the top gainers and losers in today's pre-market session.",
+      "fuente": "ChartMill",
+      "fecha": "30 Jun 2026 12:30 UTC",
+      "url": "https://finnhub.io/api/news?id=cd0f11c5be842c0bba95b9f1d733b52b0427f09d994d9ab5b72d8bda6b35f57d",
+      "imagen": "https://www.chartmill.com/images/uploads/CM_Premarket_Movers_Small_free_90289f6b81.webp",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "29/06/2026 17:58",
-  "fecha": "2026-06-29",
+  "generado": "30/06/2026 16:36",
+  "fecha": "2026-06-30",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -156,7 +156,7 @@
           "study_completion_date": "2029-01",
           "study_completion_type": "ESTIMATED",
           "start_date": "2026-05-14",
-          "last_update_posted": "2026-06-29",
+          "last_update_posted": "2026-06-30",
           "conditions": [
             "Myotonic Dystrophy Type 1 (DM1)",
             "DM1",
@@ -198,7 +198,14 @@
           "ventana": "2028",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-06-29 → 2026-06-30"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -366,7 +373,7 @@
           "study_completion_date": "2032-03",
           "study_completion_type": "ESTIMATED",
           "start_date": "2023-09-15",
-          "last_update_posted": "2026-05-18",
+          "last_update_posted": "2026-06-30",
           "conditions": [
             "Non-muscle Invasive Bladder Cancer"
           ],
@@ -403,7 +410,14 @@
           "ventana": "2026-2027",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-05-18 → 2026-06-30"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2113,7 +2127,7 @@
           "study_completion_date": "2030-06-30",
           "study_completion_type": "ESTIMATED",
           "start_date": "2021-03-29",
-          "last_update_posted": "2026-03-17",
+          "last_update_posted": "2026-06-30",
           "conditions": [
             "Diabetes Mellitus, Type 1",
             "Impaired Hypoglycemic Awareness",
@@ -2150,7 +2164,14 @@
           "ventana": "2026-2030",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-03-17 → 2026-06-30"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2286,7 +2307,14 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-06-29 → 2026-06-30"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT07486934"
     },
     {
@@ -2346,7 +2374,14 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-05-18 → 2026-06-30"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT05951179"
     },
     {
@@ -2746,7 +2781,14 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-03-17 → 2026-06-30"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT04786262"
     }
   ],

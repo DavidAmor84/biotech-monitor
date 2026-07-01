@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "30/06/2026 16:36",
-  "fecha": "2026-06-30",
+  "generado": "01/07/2026 17:01",
+  "fecha": "2026-07-01",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -198,14 +198,7 @@
           "ventana": "2028",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2026-06-29 → 2026-06-30"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -410,14 +403,7 @@
           "ventana": "2026-2027",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2026-05-18 → 2026-06-30"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2164,14 +2150,7 @@
           "ventana": "2026-2030",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2026-03-17 → 2026-06-30"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2307,14 +2286,7 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2026-06-29 → 2026-06-30"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT07486934"
     },
     {
@@ -2374,14 +2346,7 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2026-05-18 → 2026-06-30"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT05951179"
     },
     {
@@ -2781,14 +2746,7 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2026-03-17 → 2026-06-30"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT04786262"
     }
   ],

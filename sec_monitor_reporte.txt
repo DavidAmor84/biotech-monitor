@@ -1,10 +1,20 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 30/06/2026 13:29 | Período: últimos 7 días
-Desde: 2026-06-23 → Hasta: 2026-06-30
+Generado: 01/07/2026 16:11 | Período: últimos 7 días
+Desde: 2026-06-24 → Hasta: 2026-07-01
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 12 filings | 🔴 0 | 🟢 0 | 🟡 8 | 🔵 4 | ✅ 10 sin novedad
+RESUMEN: 13 filings | 🔴 1 | 🟢 0 | 🟡 9 | 🔵 3 | ✅ 9 sin novedad
+
+──────────────────────────────────────────────────
+🚨 ALERTAS CRÍTICAS (1)
+──────────────────────────────────────────────────
+
+  [ABVX] Abivax S.A.
+  🔴 ALTA 424B5 | 2026-06-30
+  ATM (At-The-Market)
+  Oferta: ATM (At-The-Market)
+  → https://www.sec.gov/Archives/edgar/data/1956827/000119312526290817/d111359d424b5.htm
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -13,6 +23,9 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [ARGX] Sin novedades
 
   🟡 [DYN] Dyne Therapeutics, Inc. — 4 filing(s)
+     🟡 MEDIA 4 | 2026-06-30 | Rhodes Jason P → Venta 162,954 acciones @ $21.28 | Post: 4,579,456 | Rutinaria/RSU/impuestos
+     Insider: Rhodes Jason P → Venta 162,954 acciones @ $21.28 | Post: 4,579,456 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1818794/000157701426000012/xslF345X06/form4-06302026_110610.xml
      🟡 MEDIA 4 | 2026-06-26 | Lucera Erick (Chief Financial Officer) → Venta 2,362 acciones @ $20.37 | Post: 121,563 | Rutinaria/RSU/impuestos
      Insider: Lucera Erick (Chief Financial Officer) → Venta 2,362 acciones @ $20.37 | Post: 121,563 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1818794/000119312526285505/xslF345X06/ownership.xml
@@ -22,16 +35,13 @@ DETALLE POR TICKER — SEC EDGAR
      🟡 MEDIA 4 | 2026-06-24 | Kersten Dirk → Venta 190,676 acciones @ $20.57 | Post: 3,921,542 | Rutinaria/RSU/impuestos
      Insider: Kersten Dirk → Venta 190,676 acciones @ $20.57 | Post: 3,921,542 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1818794/000119312526281119/xslF345X06/ownership.xml
-     🔵 INFO 4 | 2026-06-23 | Greene Barry E → Concesión 57,463 acciones @ $0.00 | Post: 57,463
-     Insider: Greene Barry E → Concesión 57,463 acciones @ $0.00 | Post: 57,463
-     → https://www.sec.gov/Archives/edgar/data/1818794/000129196326000008/xslF345X06/ownership.xml
   ✅ [DNLI] Sin novedades
   ✅ [VKTX] Sin novedades
 
   🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 1 filing(s)
-     🟡 MEDIA 4 | 2026-06-23 | Bozic Carmen (EVP and CMO) → Venta 1,020 acciones @ $462.17 | Post: 15,933 | Rutinaria/RSU/impuestos
-     Insider: Bozic Carmen (EVP and CMO) → Venta 1,020 acciones @ $462.17 | Post: 15,933 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000237/xslF345X06/wk-form4_1782245334.xml
+     🟡 MEDIA 4 | 2026-06-30 | Bozic Carmen (EVP and CMO) → Venta 596 acciones @ $482.50 | Post: 15,337 | Rutinaria/RSU/impuestos
+     Insider: Bozic Carmen (EVP and CMO) → Venta 596 acciones @ $482.50 | Post: 15,337 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000239/xslF345X06/wk-form4_1782850180.xml
   ✅ [ALNY] Sin novedades
 
   🟡 [BEAM] Beam Therapeutics Inc. — 1 filing(s)
@@ -45,7 +55,11 @@ DETALLE POR TICKER — SEC EDGAR
      🔵 INFO 4 | 2026-06-29 | Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 23,634 acciones @ $0.34 | Post: 252,594 | Rutinaria/RSU/impuestos
      Insider: Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 23,634 acciones @ $0.34 | Post: 252,594 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1888886/000196292626000005/xslF345X06/form4-06302026_120631.xml
-  ✅ [ABVX] Sin novedades
+
+  🔴 [ABVX] Abivax S.A. — 1 filing(s)
+     🔴 ALTA 424B5 | 2026-06-30 | ATM (At-The-Market)
+     Oferta: ATM (At-The-Market)
+     → https://www.sec.gov/Archives/edgar/data/1956827/000119312526290817/d111359d424b5.htm
 
   🟡 [VERA] Vera Therapeutics, Inc. — 1 filing(s)
      🟡 MEDIA 4 | 2026-06-24 | Fordyce Marshall (PRESIDENT AND CEO) → Venta 18,412 acciones @ $37.93 | Post: 198,332 | Rutinaria/RSU/impuestos

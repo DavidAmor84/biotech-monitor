@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "30/06/2026 13:29",
+  "generado": "01/07/2026 16:11",
   "periodo_dias": 7,
-  "desde": "2026-06-23",
-  "hasta": "2026-06-30",
+  "desde": "2026-06-24",
+  "hasta": "2026-07-01",
   "resumen": {
-    "total_filings": 12,
-    "alertas_rojas": 0,
+    "total_filings": 13,
+    "alertas_rojas": 1,
     "alertas_verdes": 0,
-    "alertas_amarillas": 8,
-    "alertas_azules": 4,
-    "sin_novedad": 10
+    "alertas_amarillas": 9,
+    "alertas_azules": 3,
+    "sin_novedad": 9
   },
   "tickers": {
     "SNDX": {
@@ -42,6 +42,32 @@
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
       "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-06-30",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Rhodes Jason P → Venta 162,954 acciones @ $21.28 | Post: 4,579,456 | Rutinaria/RSU/impuestos",
+          "detalle": "xslF345X06/form4-06302026_110610.xml",
+          "empresa_sec": "Dyne Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000157701426000012/xslF345X06/form4-06302026_110610.xml",
+          "form4_detail": {
+            "insider_nombre": "Rhodes Jason P",
+            "insider_cargo": null,
+            "transaccion_codigo": "S",
+            "transaccion_tipo": "Venta",
+            "transaccion_acciones": "162954",
+            "transaccion_precio": "21.28",
+            "transaccion_fecha": "2026-06-26",
+            "acciones_post": "4579456",
+            "footnotes": "Shares were sold pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on March 19, 2026. The price reported in Column 4 is a weighted average price. These securities were sold in multiple transactions at prices ranging from $21.00 to $21.61 inclusive. The Reporting Persons undertake to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of securities sold at each separate price within the ranges set forth in footnotes (2) and (6). The shares are held directly by Atlas Venture Fund XI, L.P. (\"Atlas Venture Fund XI\"). The general partner of Atlas Venture Fund XI is Atlas Venture Associates XI, L.P. (\"AVA XI LP\"). Atlas Venture Associates XI, LLC (\"AVA XI LLC\") is the general partner of AVA XI LP. The Reporting Person is a member of AVA XI LLC and disclaims Section 16 beneficial ownership of such securities held by Atlas Venture Fund XI, except to the extent of his pecuniary interest therein, if any. The shares are owned directly by Atlas Venture Opportunity Fund II, L.P. (\"AVOF II\"). Atlas Venture Associates Opportunity II, LP (\"AVAO II LP\") is the general partner of AVOF II. Atlas Venture Associates Opportunity II, LLC (\"AVAO II LLC\") is the general partner of AVAO II LP. The Reporting Person is a member of AVAO II LLC and disclaims Section 16 beneficial ownership of such securities held by AVOF II, except to the extent of his pecuniary interest t",
+            "es_rutinaria": true,
+            "resumen_detail": "Rhodes Jason P → Venta 162,954 acciones @ $21.28 | Post: 4,579,456 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
         {
           "form": "4",
           "fecha": "2026-06-26",
@@ -119,32 +145,6 @@
           "8k_detail": null,
           "10q_detail": null,
           "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-06-23",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Greene Barry E → Concesión 57,463 acciones @ $0.00 | Post: 57,463",
-          "detalle": "4",
-          "empresa_sec": "Dyne Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000129196326000008/xslF345X06/ownership.xml",
-          "form4_detail": {
-            "insider_nombre": "Greene Barry E",
-            "insider_cargo": null,
-            "transaccion_codigo": "A",
-            "transaccion_tipo": "Concesión",
-            "transaccion_acciones": "57463",
-            "transaccion_precio": "0.00",
-            "transaccion_fecha": "2026-06-22",
-            "acciones_post": "57463",
-            "footnotes": "The option was granted on June 22, 2026. The shares underlying the option are scheduled to vest over three years in equal monthly installments through June 22, 2029.",
-            "es_rutinaria": false,
-            "resumen_detail": "Greene Barry E → Concesión 57,463 acciones @ $0.00 | Post: 57,463"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
         }
       ],
       "nivel": "amarillo",
@@ -182,25 +182,25 @@
       "filings": [
         {
           "form": "4",
-          "fecha": "2026-06-23",
+          "fecha": "2026-06-30",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
-          "resumen": "Bozic Carmen (EVP and CMO) → Venta 1,020 acciones @ $462.17 | Post: 15,933 | Rutinaria/RSU/impuestos",
+          "resumen": "Bozic Carmen (EVP and CMO) → Venta 596 acciones @ $482.50 | Post: 15,337 | Rutinaria/RSU/impuestos",
           "detalle": "FORM 4",
           "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
-          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000237/xslF345X06/wk-form4_1782245334.xml",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000239/xslF345X06/wk-form4_1782850180.xml",
           "form4_detail": {
             "insider_nombre": "Bozic Carmen",
             "insider_cargo": "EVP and CMO",
             "transaccion_codigo": "S",
             "transaccion_tipo": "Venta",
-            "transaccion_acciones": "1020",
-            "transaccion_precio": "462.17",
-            "transaccion_fecha": "2026-06-18",
-            "acciones_post": "15933",
+            "transaccion_acciones": "596",
+            "transaccion_precio": "482.50",
+            "transaccion_fecha": "2026-06-26",
+            "acciones_post": "15337",
             "footnotes": "Transaction made pursuant to Dr. Bozic's company approved trading plan under Rule 10b5-1, which was entered into on 11/20/2025.",
             "es_rutinaria": true,
-            "resumen_detail": "Bozic Carmen (EVP and CMO) → Venta 1,020 acciones @ $462.17 | Post: 15,933 | Rutinaria/RSU/impuestos"
+            "resumen_detail": "Bozic Carmen (EVP and CMO) → Venta 596 acciones @ $482.50 | Post: 15,337 | Rutinaria/RSU/impuestos"
           },
           "8k_detail": null,
           "10q_detail": null,
@@ -326,9 +326,29 @@
       "cik": "0001956827",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "424B5",
+          "fecha": "2026-06-30",
+          "nivel": "rojo",
+          "badge": "🔴 ALTA",
+          "resumen": "ATM (At-The-Market)",
+          "detalle": "424B5",
+          "empresa_sec": "Abivax S.A.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1956827/000119312526290817/d111359d424b5.htm",
+          "form4_detail": null,
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": {
+            "importe_mm": null,
+            "tipo_oferta": "ATM (At-The-Market)",
+            "riesgo_dilucion": null,
+            "resumen_oferta": "ATM (At-The-Market)"
+          }
+        }
+      ],
+      "nivel": "rojo",
+      "badge": "🔴",
       "error": null
     },
     "VERA": {
@@ -524,8 +544,107 @@
       "error": "Sin CIK SEC"
     }
   },
-  "alertas_criticas": [],
+  "alertas_criticas": [
+    {
+      "ticker": "ABVX",
+      "nombre": "Abivax S.A.",
+      "form": "424B5",
+      "fecha": "2026-06-30",
+      "nivel": "rojo",
+      "badge": "🔴 ALTA",
+      "resumen": "ATM (At-The-Market)",
+      "detalle": "424B5",
+      "empresa_sec": "Abivax S.A.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1956827/000119312526290817/d111359d424b5.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": {
+        "importe_mm": null,
+        "tipo_oferta": "ATM (At-The-Market)",
+        "riesgo_dilucion": null,
+        "resumen_oferta": "ATM (At-The-Market)"
+      }
+    }
+  ],
   "todos_filings": [
+    {
+      "ticker": "DYN",
+      "nombre": "Dyne Therapeutics, Inc.",
+      "form": "4",
+      "fecha": "2026-06-30",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Rhodes Jason P → Venta 162,954 acciones @ $21.28 | Post: 4,579,456 | Rutinaria/RSU/impuestos",
+      "detalle": "xslF345X06/form4-06302026_110610.xml",
+      "empresa_sec": "Dyne Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000157701426000012/xslF345X06/form4-06302026_110610.xml",
+      "form4_detail": {
+        "insider_nombre": "Rhodes Jason P",
+        "insider_cargo": null,
+        "transaccion_codigo": "S",
+        "transaccion_tipo": "Venta",
+        "transaccion_acciones": "162954",
+        "transaccion_precio": "21.28",
+        "transaccion_fecha": "2026-06-26",
+        "acciones_post": "4579456",
+        "footnotes": "Shares were sold pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on March 19, 2026. The price reported in Column 4 is a weighted average price. These securities were sold in multiple transactions at prices ranging from $21.00 to $21.61 inclusive. The Reporting Persons undertake to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of securities sold at each separate price within the ranges set forth in footnotes (2) and (6). The shares are held directly by Atlas Venture Fund XI, L.P. (\"Atlas Venture Fund XI\"). The general partner of Atlas Venture Fund XI is Atlas Venture Associates XI, L.P. (\"AVA XI LP\"). Atlas Venture Associates XI, LLC (\"AVA XI LLC\") is the general partner of AVA XI LP. The Reporting Person is a member of AVA XI LLC and disclaims Section 16 beneficial ownership of such securities held by Atlas Venture Fund XI, except to the extent of his pecuniary interest therein, if any. The shares are owned directly by Atlas Venture Opportunity Fund II, L.P. (\"AVOF II\"). Atlas Venture Associates Opportunity II, LP (\"AVAO II LP\") is the general partner of AVOF II. Atlas Venture Associates Opportunity II, LLC (\"AVAO II LLC\") is the general partner of AVAO II LP. The Reporting Person is a member of AVAO II LLC and disclaims Section 16 beneficial ownership of such securities held by AVOF II, except to the extent of his pecuniary interest t",
+        "es_rutinaria": true,
+        "resumen_detail": "Rhodes Jason P → Venta 162,954 acciones @ $21.28 | Post: 4,579,456 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "VRTX",
+      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
+      "form": "4",
+      "fecha": "2026-06-30",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Bozic Carmen (EVP and CMO) → Venta 596 acciones @ $482.50 | Post: 15,337 | Rutinaria/RSU/impuestos",
+      "detalle": "FORM 4",
+      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000239/xslF345X06/wk-form4_1782850180.xml",
+      "form4_detail": {
+        "insider_nombre": "Bozic Carmen",
+        "insider_cargo": "EVP and CMO",
+        "transaccion_codigo": "S",
+        "transaccion_tipo": "Venta",
+        "transaccion_acciones": "596",
+        "transaccion_precio": "482.50",
+        "transaccion_fecha": "2026-06-26",
+        "acciones_post": "15337",
+        "footnotes": "Transaction made pursuant to Dr. Bozic's company approved trading plan under Rule 10b5-1, which was entered into on 11/20/2025.",
+        "es_rutinaria": true,
+        "resumen_detail": "Bozic Carmen (EVP and CMO) → Venta 596 acciones @ $482.50 | Post: 15,337 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "ABVX",
+      "nombre": "Abivax S.A.",
+      "form": "424B5",
+      "fecha": "2026-06-30",
+      "nivel": "rojo",
+      "badge": "🔴 ALTA",
+      "resumen": "ATM (At-The-Market)",
+      "detalle": "424B5",
+      "empresa_sec": "Abivax S.A.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1956827/000119312526290817/d111359d424b5.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": {
+        "importe_mm": null,
+        "tipo_oferta": "ATM (At-The-Market)",
+        "riesgo_dilucion": null,
+        "resumen_oferta": "ATM (At-The-Market)"
+      }
+    },
     {
       "ticker": "BEAM",
       "nombre": "Beam Therapeutics Inc.",
@@ -798,62 +917,6 @@
         "footnotes": "This transaction was effected pursuant to a 10b5-1 trading plan adopted by the Reporting Person on November 7, 2025, in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934, as amended.",
         "es_rutinaria": true,
         "resumen_detail": "Smith Michael Alexander (Chief Legal Officer) → Venta 1,806 acciones @ $95.82 | Post: 37,648 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "DYN",
-      "nombre": "Dyne Therapeutics, Inc.",
-      "form": "4",
-      "fecha": "2026-06-23",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Greene Barry E → Concesión 57,463 acciones @ $0.00 | Post: 57,463",
-      "detalle": "4",
-      "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000129196326000008/xslF345X06/ownership.xml",
-      "form4_detail": {
-        "insider_nombre": "Greene Barry E",
-        "insider_cargo": null,
-        "transaccion_codigo": "A",
-        "transaccion_tipo": "Concesión",
-        "transaccion_acciones": "57463",
-        "transaccion_precio": "0.00",
-        "transaccion_fecha": "2026-06-22",
-        "acciones_post": "57463",
-        "footnotes": "The option was granted on June 22, 2026. The shares underlying the option are scheduled to vest over three years in equal monthly installments through June 22, 2029.",
-        "es_rutinaria": false,
-        "resumen_detail": "Greene Barry E → Concesión 57,463 acciones @ $0.00 | Post: 57,463"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "VRTX",
-      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
-      "form": "4",
-      "fecha": "2026-06-23",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Bozic Carmen (EVP and CMO) → Venta 1,020 acciones @ $462.17 | Post: 15,933 | Rutinaria/RSU/impuestos",
-      "detalle": "FORM 4",
-      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
-      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000237/xslF345X06/wk-form4_1782245334.xml",
-      "form4_detail": {
-        "insider_nombre": "Bozic Carmen",
-        "insider_cargo": "EVP and CMO",
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "1020",
-        "transaccion_precio": "462.17",
-        "transaccion_fecha": "2026-06-18",
-        "acciones_post": "15933",
-        "footnotes": "Transaction made pursuant to Dr. Bozic's company approved trading plan under Rule 10b5-1, which was entered into on 11/20/2025.",
-        "es_rutinaria": true,
-        "resumen_detail": "Bozic Carmen (EVP and CMO) → Venta 1,020 acciones @ $462.17 | Post: 15,933 | Rutinaria/RSU/impuestos"
       },
       "8k_detail": null,
       "10q_detail": null,

@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 01/07/2026 16:11 | Período: últimos 7 días
-Desde: 2026-06-24 → Hasta: 2026-07-01
+Generado: 02/07/2026 13:21 | Período: últimos 7 días
+Desde: 2026-06-25 → Hasta: 2026-07-02
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 13 filings | 🔴 1 | 🟢 0 | 🟡 9 | 🔵 3 | ✅ 9 sin novedad
+RESUMEN: 11 filings | 🔴 1 | 🟢 0 | 🟡 6 | 🔵 4 | ✅ 10 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (1)
@@ -22,7 +22,7 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [SNDX] Sin novedades
   ✅ [ARGX] Sin novedades
 
-  🟡 [DYN] Dyne Therapeutics, Inc. — 4 filing(s)
+  🟡 [DYN] Dyne Therapeutics, Inc. — 3 filing(s)
      🟡 MEDIA 4 | 2026-06-30 | Rhodes Jason P → Venta 162,954 acciones @ $21.28 | Post: 4,579,456 | Rutinaria/RSU/impuestos
      Insider: Rhodes Jason P → Venta 162,954 acciones @ $21.28 | Post: 4,579,456 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1818794/000157701426000012/xslF345X06/form4-06302026_110610.xml
@@ -32,9 +32,6 @@ DETALLE POR TICKER — SEC EDGAR
      🟡 MEDIA 4 | 2026-06-26 | Rhodes Jason P → Venta 77,855 acciones @ $21.13 | Post: 4,805,639 | Rutinaria/RSU/impuestos
      Insider: Rhodes Jason P → Venta 77,855 acciones @ $21.13 | Post: 4,805,639 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1818794/000157701426000010/xslF345X06/form4-06262026_120619.xml
-     🟡 MEDIA 4 | 2026-06-24 | Kersten Dirk → Venta 190,676 acciones @ $20.57 | Post: 3,921,542 | Rutinaria/RSU/impuestos
-     Insider: Kersten Dirk → Venta 190,676 acciones @ $20.57 | Post: 3,921,542 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1818794/000119312526281119/xslF345X06/ownership.xml
   ✅ [DNLI] Sin novedades
   ✅ [VKTX] Sin novedades
 
@@ -44,7 +41,10 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000239/xslF345X06/wk-form4_1782850180.xml
   ✅ [ALNY] Sin novedades
 
-  🟡 [BEAM] Beam Therapeutics Inc. — 1 filing(s)
+  🟡 [BEAM] Beam Therapeutics Inc. — 2 filing(s)
+     🔵 INFO 4 | 2026-07-01 | Evans John M. (CEO) → Ejercicio opción 18,663 acciones @ $0.67 | Post: 1,065,868 | Rutinaria/RSU/impuestos
+     Insider: Evans John M. (CEO) → Ejercicio opción 18,663 acciones @ $0.67 | Post: 1,065,868 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1745999/000119312526292526/xslF345X06/ownership.xml
      🟡 MEDIA 4 | 2026-06-29 | FMR LLC → Venta 33,372 acciones @ $35.12 | Post: 1,106,071
      Insider: FMR LLC → Venta 33,372 acciones @ $35.12 | Post: 1,106,071
      → https://www.sec.gov/Archives/edgar/data/1745999/000119312526288078/xslF345X06/ownership.xml
@@ -60,28 +60,21 @@ DETALLE POR TICKER — SEC EDGAR
      🔴 ALTA 424B5 | 2026-06-30 | ATM (At-The-Market)
      Oferta: ATM (At-The-Market)
      → https://www.sec.gov/Archives/edgar/data/1956827/000119312526290817/d111359d424b5.htm
-
-  🟡 [VERA] Vera Therapeutics, Inc. — 1 filing(s)
-     🟡 MEDIA 4 | 2026-06-24 | Fordyce Marshall (PRESIDENT AND CEO) → Venta 18,412 acciones @ $37.93 | Post: 198,332 | Rutinaria/RSU/impuestos
-     Insider: Fordyce Marshall (PRESIDENT AND CEO) → Venta 18,412 acciones @ $37.93 | Post: 198,332 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1831828/000185945326000008/xslF345X06/form4-06242026_080643.xml
+  ✅ [VERA] Sin novedades
   ✅ [ACRV] Sin novedades
 
-  🟡 [TARA] Protara Therapeutics, Inc. — 1 filing(s)
+  🟡 [TARA] Protara Therapeutics, Inc. — 2 filing(s)
+     🔵 INFO 4 | 2026-07-01 | Shefferman Jesse (CEO and President) → Ejercicio opción 215,687 acciones @ $1.91 | Post: 937,519 | Rutinaria/RSU/impuestos
+     Insider: Shefferman Jesse (CEO and President) → Ejercicio opción 215,687 acciones @ $1.91 | Post: 937,519 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1359931/000121390026074238/xslF345X06/marketforms-73501.xml
      🟡 MEDIA 8-K | 2026-06-29 | Item 5.02: Cambio directivo relevante [Items: 5.02]
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026073184/ea0296286-8k_protara.htm
   ✅ [SENS] Sin novedades
 
-  🟡 [INSM] INSMED Inc — 3 filing(s)
+  🔵 [INSM] INSMED Inc — 1 filing(s)
      🔵 INFO 4 | 2026-06-26 | Lewis William (Director / Chair and CEO) → Ejercicio opción 12,518 acciones @ $30.46 | Post: 271,435 | Rutinaria/RSU/impuestos
      Insider: Lewis William (Director / Chair and CEO) → Ejercicio opción 12,518 acciones @ $30.46 | Post: 271,435 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1104506/000140205126000038/xslF345X06/wk-form4_1782504217.xml
-     🔵 INFO 4 | 2026-06-24 | Butera Samuele (SVP, GM, Global Respiratory) → Concesión 7,342 acciones | Post: 7,342 | Rutinaria/RSU/impuestos
-     Insider: Butera Samuele (SVP, GM, Global Respiratory) → Concesión 7,342 acciones | Post: 7,342 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1104506/000214009826000005/xslF345X06/wk-form4_1782332113.xml
-     🟡 MEDIA 4 | 2026-06-24 | Smith Michael Alexander (Chief Legal Officer) → Venta 1,806 acciones @ $95.82 | Post: 37,648 | Rutinaria/RSU/impuestos
-     Insider: Smith Michael Alexander (Chief Legal Officer) → Venta 1,806 acciones @ $95.82 | Post: 37,648 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1104506/000187027826000020/xslF345X06/wk-form4_1782331897.xml
   ⚪ [NWL] Sin CIK SEC
 
 ──────────────────────────────────────────────────

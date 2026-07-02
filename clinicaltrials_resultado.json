@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "01/07/2026 17:01",
-  "fecha": "2026-07-01",
+  "generado": "02/07/2026 16:16",
+  "fecha": "2026-07-02",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -11,8 +11,8 @@
     "validacion_error": 0,
     "alertas_rojas": 0,
     "alertas_verdes": 4,
-    "alertas_amarillas": 0,
-    "alertas_azules": 30,
+    "alertas_amarillas": 1,
+    "alertas_azules": 29,
     "errores": 0
   },
   "empresas": {
@@ -1345,12 +1345,12 @@
           "badge_base": "🔵",
           "phase": "PHASE3",
           "enrollment": 141,
-          "primary_completion_date": "2026-01",
-          "primary_completion_type": "ESTIMATED",
+          "primary_completion_date": "2026-01-12",
+          "primary_completion_type": "ACTUAL",
           "study_completion_date": "2027-12",
           "study_completion_type": "ESTIMATED",
           "start_date": "2024-09-18",
-          "last_update_posted": "2025-12-15",
+          "last_update_posted": "2026-07-02",
           "conditions": [
             "Myasthenia Gravis, Ocular"
           ],
@@ -1389,9 +1389,22 @@
           "ventana": "2026",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [],
-          "nivel": "azul",
-          "badge": "🔵",
+          "cambios": [
+            {
+              "tipo": "primary_completion_date",
+              "nivel": "amarillo",
+              "badge": "🟡",
+              "mensaje": "Primary completion: 2026-01 → 2026-01-12"
+            },
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2025-12-15 → 2026-07-02"
+            }
+          ],
+          "nivel": "amarillo",
+          "badge": "🟡",
           "error": null
         },
         {
@@ -1646,8 +1659,8 @@
           "error": null
         }
       ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "nivel": "amarillo",
+      "badge": "🟡",
       "score_relevancia": 37
     },
     "DNLI": {
@@ -2613,10 +2626,10 @@
       "ticker": "ARGX",
       "nct": "NCT06558279",
       "nombre": "ADAPT OCULUS Ph3 — efgartigimod SC — ocular MG",
-      "nivel": "azul",
-      "badge": "🔵",
+      "nivel": "amarillo",
+      "badge": "🟡",
       "status": "ACTIVE_NOT_RECRUITING",
-      "primary_completion_date": "2026-01",
+      "primary_completion_date": "2026-01-12",
       "mensaje": "Activo, sin reclutamiento",
       "prioridad": "alta",
       "estrellas": "⭐⭐⭐",
@@ -2626,7 +2639,20 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "primary_completion_date",
+          "nivel": "amarillo",
+          "badge": "🟡",
+          "mensaje": "Primary completion: 2026-01 → 2026-01-12"
+        },
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2025-12-15 → 2026-07-02"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT06558279"
     },
     {

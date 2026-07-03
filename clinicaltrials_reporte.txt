@@ -1,15 +1,15 @@
 ====================================================================================
 CLINICALTRIALS MONITOR v9.3 · Modelo Biotech
-Generado: 02/07/2026 16:16
+Generado: 03/07/2026 15:45
 ====================================================================================
-RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 4 | 🟡 1 | 🔵 29 | Errores API: 0
+RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 4 | 🟡 0 | 🔵 30 | Errores API: 0
 
 ------------------------------------------------------------------------------------
 DETALLE POR EMPRESA
 ------------------------------------------------------------------------------------
 
-🟡 [ARGX] · Score relevancia: 37
-  🟡 ⭐⭐⭐ ADAPT OCULUS Ph3 — efgartigimod SC — ocular MG | Prioridad: alta | Validación: OK
+🔵 [ARGX] · Score relevancia: 37
+  🔵 ⭐⭐⭐ ADAPT OCULUS Ph3 — efgartigimod SC — ocular MG | Prioridad: alta | Validación: OK
      NCT: NCT06558279 | Status: Activo, sin reclutamiento | Tipo: pivotal
      Catalizador: sBLA / expansión indicación | Ventana: 2026
      Sponsor: argenx

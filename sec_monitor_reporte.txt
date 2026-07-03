@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 02/07/2026 13:21 | Período: últimos 7 días
-Desde: 2026-06-25 → Hasta: 2026-07-02
+Generado: 03/07/2026 13:23 | Período: últimos 7 días
+Desde: 2026-06-26 → Hasta: 2026-07-03
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 11 filings | 🔴 1 | 🟢 0 | 🟡 6 | 🔵 4 | ✅ 10 sin novedad
+RESUMEN: 17 filings | 🔴 1 | 🟢 0 | 🟡 8 | 🔵 8 | ✅ 9 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (1)
@@ -41,7 +41,10 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000239/xslF345X06/wk-form4_1782850180.xml
   ✅ [ALNY] Sin novedades
 
-  🟡 [BEAM] Beam Therapeutics Inc. — 2 filing(s)
+  🟡 [BEAM] Beam Therapeutics Inc. — 3 filing(s)
+     🟡 MEDIA 4 | 2026-07-02 | Simon Amy (Chief Medical Officer) → Venta 373 acciones @ $34.73 | Post: 102,363 | Rutinaria/RSU/impuestos
+     Insider: Simon Amy (Chief Medical Officer) → Venta 373 acciones @ $34.73 | Post: 102,363 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1745999/000119312526294478/xslF345X06/ownership.xml
      🔵 INFO 4 | 2026-07-01 | Evans John M. (CEO) → Ejercicio opción 18,663 acciones @ $0.67 | Post: 1,065,868 | Rutinaria/RSU/impuestos
      Insider: Evans John M. (CEO) → Ejercicio opción 18,663 acciones @ $0.67 | Post: 1,065,868 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1745999/000119312526292526/xslF345X06/ownership.xml
@@ -56,7 +59,10 @@ DETALLE POR TICKER — SEC EDGAR
      Insider: Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 23,634 acciones @ $0.34 | Post: 252,594 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1888886/000196292626000005/xslF345X06/form4-06302026_120631.xml
 
-  🔴 [ABVX] Abivax S.A. — 1 filing(s)
+  🔴 [ABVX] Abivax S.A. — 2 filing(s)
+     🟡 MEDIA 424B5 | 2026-07-02 | ATM (At-The-Market) · $125.0M · Dilución 🟡 MEDIO
+     Oferta: ATM (At-The-Market) · $125.0M · Dilución 🟡 MEDIO
+     → https://www.sec.gov/Archives/edgar/data/1956827/000119312526294491/d111359d424b5.htm
      🔴 ALTA 424B5 | 2026-06-30 | ATM (At-The-Market)
      Oferta: ATM (At-The-Market)
      → https://www.sec.gov/Archives/edgar/data/1956827/000119312526290817/d111359d424b5.htm
@@ -69,7 +75,20 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026074238/xslF345X06/marketforms-73501.xml
      🟡 MEDIA 8-K | 2026-06-29 | Item 5.02: Cambio directivo relevante [Items: 5.02]
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026073184/ea0296286-8k_protara.htm
-  ✅ [SENS] Sin novedades
+
+  🔵 [SENS] Senseonics Holdings, Inc. — 4 filing(s)
+     🔵 INFO 4 | 2026-07-02 | Prince Douglas S → Concesión 1,515 acciones @ $5.36 | Post: 69,331 | Rutinaria/RSU/impuestos
+     Insider: Prince Douglas S → Concesión 1,515 acciones @ $5.36 | Post: 69,331 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1616543/000166699526000008/xslF345X06/form4-07022026_040707.xml
+     🔵 INFO 4 | 2026-07-02 | ROEDER DOUGLAS A → Concesión 2,751 acciones @ $5.36 | Post: 157,238 | Rutinaria/RSU/impuestos
+     Insider: ROEDER DOUGLAS A → Concesión 2,751 acciones @ $5.36 | Post: 157,238 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1616543/000127073526000012/xslF345X06/form4-07022026_040705.xml
+     🔵 INFO 4 | 2026-07-02 | Fiorentino Edward → Concesión 2,635 acciones @ $5.36 | Post: 85,974 | Rutinaria/RSU/impuestos
+     Insider: Fiorentino Edward → Concesión 2,635 acciones @ $5.36 | Post: 85,974 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1616543/000166697226000008/xslF345X06/form4-07022026_040703.xml
+     🔵 INFO 4 | 2026-07-02 | Steven Edelman → Concesión 2,402 acciones @ $5.36 | Post: 91,083 | Rutinaria/RSU/impuestos
+     Insider: Steven Edelman → Concesión 2,402 acciones @ $5.36 | Post: 91,083 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1616543/000168335426000008/xslF345X06/form4-07022026_040701.xml
 
   🔵 [INSM] INSMED Inc — 1 filing(s)
      🔵 INFO 4 | 2026-06-26 | Lewis William (Director / Chair and CEO) → Ejercicio opción 12,518 acciones @ $30.46 | Post: 271,435 | Rutinaria/RSU/impuestos

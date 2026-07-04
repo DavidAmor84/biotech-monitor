@@ -1,8 +1,8 @@
 {
-  "generado": "02/07/2026 13:21 UTC",
+  "generado": "04/07/2026 16:46 UTC",
   "plazo_horas": 72,
-  "desde": "2026-06-29",
-  "hasta": "2026-07-02",
+  "desde": "2026-07-01",
+  "hasta": "2026-07-04",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -15,12 +15,12 @@
       "noticias": [
         {
           "ticker": "ARGX",
-          "titulo": "ValuEngine Weekly Market Summary And Commentary",
-          "resumen": "U.S. equity markets were mixed this week, with weakness in growth and technology offset by strength in defensive and health care sectors. ",
-          "fuente": "SeekingAlpha",
-          "fecha": "30 Jun 2026 00:55 UTC",
-          "url": "https://finnhub.io/api/news?id=42ebca08725488bcaeb7da6f8764e5eef18c6f7dac01e2607f09e5a0cc3cdc75",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2228869477/image_2228869477.jpg?io=getty-c-w1536",
+          "titulo": "B of A Securities Maintains Buy on argenx, Raises Price Target to $1088",
+          "resumen": "B of A Securities  analyst Tazeen Ahmad   maintains argenx (NASDAQ:ARGX) with a Buy and raises the price target from $1016 to $1088.",
+          "fuente": "Benzinga",
+          "fecha": "02 Jul 2026 10:40 UTC",
+          "url": "https://finnhub.io/api/news?id=0abef68bc85503176de67cd75614b6d67448db1bf6031ce9bb609622f9888d0e",
+          "imagen": "",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
@@ -52,11 +52,11 @@
       "noticias": [
         {
           "ticker": "VRTX",
-          "titulo": "Vertex Announces US FDA Approval for Expanded Use of CASGEVY® for the Treatment of People Ages 2 Years and Older With Sickle Cell Disease or Transfusion-Dependent Beta Thalassemia",
-          "resumen": "BOSTON, July 01, 2026--Vertex Pharmaceuticals Incorporated (Nasdaq: VRTX) announced today that the U.S. Food and Drug Administration (FDA) has approved expanded use of CASGEVY® (exagamglogene autotemcel) for the treatment of people ages 2 years and older with either sickle cell disease (SCD) with re",
+          "titulo": "Vertex Pharmaceuticals (VRTX) Wins FDA Approval To Treat Two Year Olds With CASGEVY",
+          "resumen": "FDA approved expanded use of CASGEVY for children as young as two years with sickle cell disease and transfusion-dependent beta thalassemia. The approval makes CASGEVY the first gene therapy of its kind available to this pediatric group in the U.S. Vertex Pharmaceuticals estimates that roughly 5,500",
           "fuente": "Yahoo",
-          "fecha": "01 Jul 2026 23:58 UTC",
-          "url": "https://finnhub.io/api/news?id=52c78d706a9db26b953f778e31d58f1170246e7fa12bbe322dba66842da12231",
+          "fecha": "03 Jul 2026 14:14 UTC",
+          "url": "https://finnhub.io/api/news?id=164514ebcd3205bc9d7843b1a883a6d608485a78053c7498fd497b1b6ed57149",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -64,23 +64,11 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "FDA Approves First Gene Therapy for Young Children with Sickle Cell Disease; The FDA Granted The Approval To Vertex Pharmaceuticals",
-          "resumen": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-young-children-sickle-cell-disease",
-          "fuente": "Benzinga",
-          "fecha": "01 Jul 2026 17:35 UTC",
-          "url": "https://finnhub.io/api/news?id=268614001cd2f46dfa4636da0a14a563496e8b276f8fd548a34621718f20b41e",
-          "imagen": "",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Dyne Therapeutics vs. Vertex Pharmaceuticals: Which Drug Innovator Stock Is a Better Buy in 2026?",
-          "resumen": "Dyne pursues rare disease breakthroughs while Vertex leverages blockbuster profits for pipeline expansion, how do their risk profiles and financials compare?",
+          "titulo": "Wall Street Bulls Look Optimistic About Vertex (VRTX): Should You Buy?",
+          "resumen": "According to the average brokerage recommendation (ABR), one should invest in Vertex (VRTX). It is debatable whether this highly sought-after metric is effective because Wall Street analysts' recommendations tend to be overly optimistic. Would it be worth investing in the stock?",
           "fuente": "Yahoo",
-          "fecha": "01 Jul 2026 15:58 UTC",
-          "url": "https://finnhub.io/api/news?id=f809eb95c2ba749784fb8f26e5efe1123f3d87eeb7903960514ce5cfb6aba57e",
+          "fecha": "03 Jul 2026 13:30 UTC",
+          "url": "https://finnhub.io/api/news?id=d9b3f70e5cbfec650076df510039c9b294de258754fa8ceab3fefe6e371539da",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -88,27 +76,39 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "Investors Heavily Search Vertex Pharmaceuticals Incorporated (VRTX): Here is What You Need to Know",
-          "resumen": "Zacks.com users have recently been watching Vertex (VRTX) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+          "titulo": "Arcutis vs. Vertex: Which Pharmaceutical Maker Stock Is a Better Buy in 2026?",
+          "resumen": "Arcutis doubled revenue last year while Vertex delivered strong profits and cash flow. Explore how each company stacks up on growth, risk, and value.",
           "fuente": "Yahoo",
-          "fecha": "01 Jul 2026 13:00 UTC",
-          "url": "https://finnhub.io/api/news?id=a48c3c90f16d60a978311a8ebd93c83c1fe2fb8e887de08d8f69040a7579da8c",
+          "fecha": "03 Jul 2026 12:57 UTC",
+          "url": "https://finnhub.io/api/news?id=92522537e3d1ab8ebfeed0d9f2ee31c2a2644d7b65f7cadb0b4eef4e0f969b4b",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
         },
         {
           "ticker": "VRTX",
-          "titulo": "Vortex Energy Corp. Announces LIFE Offering",
-          "resumen": "NOT FOR DISTRIBUTION TO UNITED STATES NEWS WIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES VANCOUVER, British Columbia, June 30, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) announces that it intends to complete a non-brokered p",
+          "titulo": "CRSP, VRTX Stocks Surge As FDA Clears Casgevy For Children Ages 2 And Up",
+          "resumen": "The fresh FDA approval allows the use of the cell therapy in patients as young as two years old with sickle cell disease (SCD) who have recurrent vaso-occlusive crises or transfusion-dependent beta thalassemia (TDT).",
           "fuente": "Yahoo",
-          "fecha": "30 Jun 2026 21:14 UTC",
-          "url": "https://finnhub.io/api/news?id=767475560b340dce1e6b69feccc5e61184cfb6c2e1dcc7efa801ce5ee94fff44",
+          "fecha": "02 Jul 2026 21:16 UTC",
+          "url": "https://finnhub.io/api/news?id=326cbb0a582da9491c50a786271e36ae869915ccb646b59899c45d78f7507188",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex Gets FDA Nod for Expanded Use of Casgevy in SCD & TDT",
+          "resumen": "VRTX gets FDA approval to expand Casgevy use in patients aged two and older with SCD or TDT, a first for genetic therapies in both inherited blood disorders.",
+          "fuente": "Yahoo",
+          "fecha": "02 Jul 2026 14:42 UTC",
+          "url": "https://finnhub.io/api/news?id=e34d320bd39ab0f00f5a7ffcf504ea6725eaf7e11d8bd5a03965f29079d17aed",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
@@ -117,6 +117,30 @@
     "ALNY": {
       "nombre": "ALNY",
       "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam Pharmaceuticals (NASDAQ:ALNY): An Affordable Growth Stock with Explosive Momentum and a Reasonable Price",
+          "resumen": "Alnylam Pharmaceuticals (ALNY) combines explosive earnings growth with a reasonable valuation, fitting the Affordable Growth (GARP) strategy perfectly for balanced upside.",
+          "fuente": "ChartMill",
+          "fecha": "03 Jul 2026 12:40 UTC",
+          "url": "https://finnhub.io/api/news?id=a4ace305bdde6827a0e8de9428d839158cd5f1ca504101b4d76baf6cef005053",
+          "imagen": "https://www.chartmill.com/images/uploads/Affordable_Growth_500_264px_webp_add6a3aa59.webp",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "What Offers Alnylam Pharmaceuticals (ALNY) Sustained Long-Term Growth?",
+          "resumen": "Brown Advisory, an investment management company, released its “Brown Large-Cap Growth Strategy” for the first-quarter 2026 investor letter. A copy of the letter is available to download here. The Brown Advisory Large-Cap Growth Strategy experienced a decline in the first quarter of 2026, modestly t",
+          "fuente": "Yahoo",
+          "fecha": "03 Jul 2026 11:59 UTC",
+          "url": "https://finnhub.io/api/news?id=f1ca76349e0f641af5b3d588bfb0a231fdca85e09255c5064c25d399c7ababe2",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "ALNY",
           "titulo": "Wall Street Thinks This Biotech Stock Can Soar 45%. Here's Why Analysts Are Right.",
@@ -143,26 +167,13 @@
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 4
     },
     "BEAM": {
       "nombre": "BEAM",
-      "noticias": [
-        {
-          "ticker": "BEAM",
-          "titulo": "Vertex Pharmaceuticals Has One Of The Widest And Most Durable Moats In Biotech",
-          "resumen": "Vertex Pharmaceuticals Incorporated offers predictable CF cash flows and pipeline catalysts in pain, hematology & renal (Pove for IgAN). Click for this VRTX update.",
-          "fuente": "SeekingAlpha",
-          "fecha": "30 Jun 2026 09:03 UTC",
-          "url": "https://finnhub.io/api/news?id=e10497ea38e4fbad71eb7072d597a29bb43582fc3c78ed5ce80d21a5cf7c2964",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2194222148/image_2194222148.jpg?io=getty-c-w1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "OCUL": {
       "nombre": "OCUL",
@@ -172,38 +183,52 @@
     },
     "CAI": {
       "nombre": "CAI",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "CAI",
+          "titulo": "BTIG Reiterates Buy on Caris Life Sciences, Maintains $32 Price Target",
+          "resumen": "BTIG  analyst Mark Massaro   reiterates Caris Life Sciences (NASDAQ:CAI) with a Buy and maintains $32 price target.",
+          "fuente": "Benzinga",
+          "fecha": "02 Jul 2026 06:23 UTC",
+          "url": "https://finnhub.io/api/news?id=35864e580f91446551085ab0534dcc9d2bd39e4f6725e2fdb7504f12b86221fc",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "GPCR": {
       "nombre": "GPCR",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "GPCR",
+          "titulo": "Structure Therapeutics (GPCR) Is A Hidden Biotech Multibagger Stock To Buy Now",
+          "resumen": "Structure Therapeutics Inc. (NASDAQ:GPCR) is one of the 8 Hidden Multibagger Stocks to Buy Now. On June 7, Cantor Fitzgerald analyst Prakhar Agrawal reiterated a Buy rating on Structure Therapeutics Inc. (NASDAQ:GPCR) and set a price target of $101. The firm’s price target implies an additional 95% ",
+          "fuente": "Yahoo",
+          "fecha": "03 Jul 2026 13:41 UTC",
+          "url": "https://finnhub.io/api/news?id=9c3a9bda760b227baa90fcc8f3c32aeb180a58ce25854ecd387d3f22b5ef6063",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "ABVX": {
       "nombre": "ABVX",
       "noticias": [
         {
           "ticker": "ABVX",
-          "titulo": "10 Health Care Stocks With Whale Alerts In Today’s Session",
-          "resumen": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
+          "titulo": "Truist Securities Maintains Buy on Abivax, Raises Price Target to $155",
+          "resumen": "Truist Securities  analyst Gregory Renza   maintains Abivax (NASDAQ:ABVX) with a Buy and raises the price target from $135 to $155.",
           "fuente": "Benzinga",
-          "fecha": "01 Jul 2026 13:35 UTC",
-          "url": "https://finnhub.io/api/news?id=9303d0dc724ac5ea9deded30fc9ac909a20e85866a083b2eebefedc86eaa6c6f",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ABVX",
-          "titulo": "Citizens Reiterates Market Outperform on Abivax, Maintains $187 Price Target",
-          "resumen": "Citizens  analyst Jason N. Butler   reiterates Abivax (NASDAQ:ABVX) with a Market Outperform and maintains $187 price target.",
-          "fuente": "Benzinga",
-          "fecha": "01 Jul 2026 09:41 UTC",
-          "url": "https://finnhub.io/api/news?id=2f04a847a5d3f5fd649627d1f66e1adf77a91094bf3782ada1f002ef878827ee",
+          "fecha": "02 Jul 2026 07:42 UTC",
+          "url": "https://finnhub.io/api/news?id=4409d0ab17e8a0909893ee06acd667614891174f9c559d9e8a7699c595cdd65c",
           "imagen": "",
           "urgente": false,
           "nivel": "azul",
@@ -211,43 +236,19 @@
         },
         {
           "ticker": "ABVX",
-          "titulo": "Abivax Announces Pricing Of Underwritten Public Offering Of 6.40M ADSs At $125.00 Each",
-          "resumen": "Abivax Announces Pricing of Oversubscribed and Upsized $800M (€702M) Public Offering of American Depositary SharesUpsized offering increased from the previously announced $600M to $800M at $125.00 per ADS, priced at a",
+          "titulo": "Why SurgePays Shares Are Trading Higher By 59%; Here Are 20 Stocks Moving Premarket",
+          "resumen": "Surgepays Inc (NASDAQ: SURG) rose in pre-market trading after amending agreement with wireless network provider, shares jumped 59% to $0.66.",
           "fuente": "Benzinga",
-          "fecha": "01 Jul 2026 08:40 UTC",
-          "url": "https://finnhub.io/api/news?id=c6c80a8f8aa1b96220830ed19daca2e8fe91fb6b9108a0f2641602e747885d1d",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ABVX",
-          "titulo": "ABIVAX Société Anonyme (ABVX) Discusses ABTECT Maintenance Part 2 Results and Updated Obefazimod Safety and Efficacy Data in Ulcerative Colitis - Slideshow",
-          "resumen": "2026-07-01. The following slide deck was published by ABIVAX SociÃ©tÃ© Anonyme in conjunction with this event.",
-          "fuente": "SeekingAlpha",
-          "fecha": "01 Jul 2026 06:25 UTC",
-          "url": "https://finnhub.io/api/news?id=eb0808cf18969015d023e80dfb0a2f5a622c0ced9e9ed92909dee4557f2a95a6",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ABVX",
-          "titulo": "Here are the top movers in Tuesday's session.",
-          "resumen": "Intrigued by the market activity one hour before the close of the markets on Tuesday? Uncover the key winners and losers of today's session in our insightful analysis.",
-          "fuente": "ChartMill",
-          "fecha": "30 Jun 2026 19:00 UTC",
-          "url": "https://finnhub.io/api/news?id=fad25eef12a642e98dbe665f41546d47de2a35fea1f559fa3c4e00b0de846213",
-          "imagen": "https://www.chartmill.com/images/uploads/CM_Top_Movers_Small_free_2b4ff2fc22.webp",
+          "fecha": "02 Jul 2026 05:32 UTC",
+          "url": "https://finnhub.io/api/news?id=9a87ef23a11fef7d962e83e3809955dc3bbe23be0565eb70366ac8d95965096e",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/02/Section-Of-A-Financial-Newspaper-Titled-.jpg?width=2048&height=1536",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         }
       ],
-      "nivel": "rojo",
-      "total": 5
+      "nivel": "azul",
+      "total": 2
     },
     "VERA": {
       "nombre": "VERA",
@@ -282,59 +283,11 @@
   },
   "resumen": {
     "total_noticias": 14,
-    "tickers_con_noticias": 5,
-    "alertas_urgentes": 3,
-    "sin_noticias": 12
+    "tickers_con_noticias": 6,
+    "alertas_urgentes": 2,
+    "sin_noticias": 11
   },
   "todas_noticias": [
-    {
-      "ticker": "ABVX",
-      "titulo": "ABIVAX Société Anonyme (ABVX) Discusses ABTECT Maintenance Part 2 Results and Updated Obefazimod Safety and Efficacy Data in Ulcerative Colitis - Slideshow",
-      "resumen": "2026-07-01. The following slide deck was published by ABIVAX SociÃ©tÃ© Anonyme in conjunction with this event.",
-      "fuente": "SeekingAlpha",
-      "fecha": "01 Jul 2026 06:25 UTC",
-      "url": "https://finnhub.io/api/news?id=eb0808cf18969015d023e80dfb0a2f5a622c0ced9e9ed92909dee4557f2a95a6",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Dyne Therapeutics vs. Vertex Pharmaceuticals: Which Drug Innovator Stock Is a Better Buy in 2026?",
-      "resumen": "Dyne pursues rare disease breakthroughs while Vertex leverages blockbuster profits for pipeline expansion, how do their risk profiles and financials compare?",
-      "fuente": "Yahoo",
-      "fecha": "01 Jul 2026 15:58 UTC",
-      "url": "https://finnhub.io/api/news?id=f809eb95c2ba749784fb8f26e5efe1123f3d87eeb7903960514ce5cfb6aba57e",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "FDA Approves First Gene Therapy for Young Children with Sickle Cell Disease; The FDA Granted The Approval To Vertex Pharmaceuticals",
-      "resumen": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-young-children-sickle-cell-disease",
-      "fuente": "Benzinga",
-      "fecha": "01 Jul 2026 17:35 UTC",
-      "url": "https://finnhub.io/api/news?id=268614001cd2f46dfa4636da0a14a563496e8b276f8fd548a34621718f20b41e",
-      "imagen": "",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex Announces US FDA Approval for Expanded Use of CASGEVY® for the Treatment of People Ages 2 Years and Older With Sickle Cell Disease or Transfusion-Dependent Beta Thalassemia",
-      "resumen": "BOSTON, July 01, 2026--Vertex Pharmaceuticals Incorporated (Nasdaq: VRTX) announced today that the U.S. Food and Drug Administration (FDA) has approved expanded use of CASGEVY® (exagamglogene autotemcel) for the treatment of people ages 2 years and older with either sickle cell disease (SCD) with re",
-      "fuente": "Yahoo",
-      "fecha": "01 Jul 2026 23:58 UTC",
-      "url": "https://finnhub.io/api/news?id=52c78d706a9db26b953f778e31d58f1170246e7fa12bbe322dba66842da12231",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "ALNY",
       "titulo": "Komodo Expands Strategic Partnership with Alnylam Pharmaceuticals, Inc. (ALNY)",
@@ -348,49 +301,121 @@
       "badge": "🔴"
     },
     {
-      "ticker": "ABVX",
-      "titulo": "Abivax Announces Pricing Of Underwritten Public Offering Of 6.40M ADSs At $125.00 Each",
-      "resumen": "Abivax Announces Pricing of Oversubscribed and Upsized $800M (€702M) Public Offering of American Depositary SharesUpsized offering increased from the previously announced $600M to $800M at $125.00 per ADS, priced at a",
-      "fuente": "Benzinga",
-      "fecha": "01 Jul 2026 08:40 UTC",
-      "url": "https://finnhub.io/api/news?id=c6c80a8f8aa1b96220830ed19daca2e8fe91fb6b9108a0f2641602e747885d1d",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ABVX",
-      "titulo": "Citizens Reiterates Market Outperform on Abivax, Maintains $187 Price Target",
-      "resumen": "Citizens  analyst Jason N. Butler   reiterates Abivax (NASDAQ:ABVX) with a Market Outperform and maintains $187 price target.",
-      "fuente": "Benzinga",
-      "fecha": "01 Jul 2026 09:41 UTC",
-      "url": "https://finnhub.io/api/news?id=2f04a847a5d3f5fd649627d1f66e1adf77a91094bf3782ada1f002ef878827ee",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "ticker": "VRTX",
+      "titulo": "Vertex Gets FDA Nod for Expanded Use of Casgevy in SCD & TDT",
+      "resumen": "VRTX gets FDA approval to expand Casgevy use in patients aged two and older with SCD or TDT, a first for genetic therapies in both inherited blood disorders.",
+      "fuente": "Yahoo",
+      "fecha": "02 Jul 2026 14:42 UTC",
+      "url": "https://finnhub.io/api/news?id=e34d320bd39ab0f00f5a7ffcf504ea6725eaf7e11d8bd5a03965f29079d17aed",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "VRTX",
-      "titulo": "Investors Heavily Search Vertex Pharmaceuticals Incorporated (VRTX): Here is What You Need to Know",
-      "resumen": "Zacks.com users have recently been watching Vertex (VRTX) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+      "titulo": "CRSP, VRTX Stocks Surge As FDA Clears Casgevy For Children Ages 2 And Up",
+      "resumen": "The fresh FDA approval allows the use of the cell therapy in patients as young as two years old with sickle cell disease (SCD) who have recurrent vaso-occlusive crises or transfusion-dependent beta thalassemia (TDT).",
       "fuente": "Yahoo",
-      "fecha": "01 Jul 2026 13:00 UTC",
-      "url": "https://finnhub.io/api/news?id=a48c3c90f16d60a978311a8ebd93c83c1fe2fb8e887de08d8f69040a7579da8c",
+      "fecha": "02 Jul 2026 21:16 UTC",
+      "url": "https://finnhub.io/api/news?id=326cbb0a582da9491c50a786271e36ae869915ccb646b59899c45d78f7507188",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam Pharmaceuticals (NASDAQ:ALNY): An Affordable Growth Stock with Explosive Momentum and a Reasonable Price",
+      "resumen": "Alnylam Pharmaceuticals (ALNY) combines explosive earnings growth with a reasonable valuation, fitting the Affordable Growth (GARP) strategy perfectly for balanced upside.",
+      "fuente": "ChartMill",
+      "fecha": "03 Jul 2026 12:40 UTC",
+      "url": "https://finnhub.io/api/news?id=a4ace305bdde6827a0e8de9428d839158cd5f1ca504101b4d76baf6cef005053",
+      "imagen": "https://www.chartmill.com/images/uploads/Affordable_Growth_500_264px_webp_add6a3aa59.webp",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Arcutis vs. Vertex: Which Pharmaceutical Maker Stock Is a Better Buy in 2026?",
+      "resumen": "Arcutis doubled revenue last year while Vertex delivered strong profits and cash flow. Explore how each company stacks up on growth, risk, and value.",
+      "fuente": "Yahoo",
+      "fecha": "03 Jul 2026 12:57 UTC",
+      "url": "https://finnhub.io/api/news?id=92522537e3d1ab8ebfeed0d9f2ee31c2a2644d7b65f7cadb0b4eef4e0f969b4b",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Wall Street Bulls Look Optimistic About Vertex (VRTX): Should You Buy?",
+      "resumen": "According to the average brokerage recommendation (ABR), one should invest in Vertex (VRTX). It is debatable whether this highly sought-after metric is effective because Wall Street analysts' recommendations tend to be overly optimistic. Would it be worth investing in the stock?",
+      "fuente": "Yahoo",
+      "fecha": "03 Jul 2026 13:30 UTC",
+      "url": "https://finnhub.io/api/news?id=d9b3f70e5cbfec650076df510039c9b294de258754fa8ceab3fefe6e371539da",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals (VRTX) Wins FDA Approval To Treat Two Year Olds With CASGEVY",
+      "resumen": "FDA approved expanded use of CASGEVY for children as young as two years with sickle cell disease and transfusion-dependent beta thalassemia. The approval makes CASGEVY the first gene therapy of its kind available to this pediatric group in the U.S. Vertex Pharmaceuticals estimates that roughly 5,500",
+      "fuente": "Yahoo",
+      "fecha": "03 Jul 2026 14:14 UTC",
+      "url": "https://finnhub.io/api/news?id=164514ebcd3205bc9d7843b1a883a6d608485a78053c7498fd497b1b6ed57149",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ABVX",
+      "titulo": "Why SurgePays Shares Are Trading Higher By 59%; Here Are 20 Stocks Moving Premarket",
+      "resumen": "Surgepays Inc (NASDAQ: SURG) rose in pre-market trading after amending agreement with wireless network provider, shares jumped 59% to $0.66.",
+      "fuente": "Benzinga",
+      "fecha": "02 Jul 2026 05:32 UTC",
+      "url": "https://finnhub.io/api/news?id=9a87ef23a11fef7d962e83e3809955dc3bbe23be0565eb70366ac8d95965096e",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/02/Section-Of-A-Financial-Newspaper-Titled-.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "CAI",
+      "titulo": "BTIG Reiterates Buy on Caris Life Sciences, Maintains $32 Price Target",
+      "resumen": "BTIG  analyst Mark Massaro   reiterates Caris Life Sciences (NASDAQ:CAI) with a Buy and maintains $32 price target.",
+      "fuente": "Benzinga",
+      "fecha": "02 Jul 2026 06:23 UTC",
+      "url": "https://finnhub.io/api/news?id=35864e580f91446551085ab0534dcc9d2bd39e4f6725e2fdb7504f12b86221fc",
+      "imagen": "",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
     },
     {
       "ticker": "ABVX",
-      "titulo": "10 Health Care Stocks With Whale Alerts In Today’s Session",
-      "resumen": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
+      "titulo": "Truist Securities Maintains Buy on Abivax, Raises Price Target to $155",
+      "resumen": "Truist Securities  analyst Gregory Renza   maintains Abivax (NASDAQ:ABVX) with a Buy and raises the price target from $135 to $155.",
       "fuente": "Benzinga",
-      "fecha": "01 Jul 2026 13:35 UTC",
-      "url": "https://finnhub.io/api/news?id=9303d0dc724ac5ea9deded30fc9ac909a20e85866a083b2eebefedc86eaa6c6f",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=2048&height=1536",
+      "fecha": "02 Jul 2026 07:42 UTC",
+      "url": "https://finnhub.io/api/news?id=4409d0ab17e8a0909893ee06acd667614891174f9c559d9e8a7699c595cdd65c",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "B of A Securities Maintains Buy on argenx, Raises Price Target to $1088",
+      "resumen": "B of A Securities  analyst Tazeen Ahmad   maintains argenx (NASDAQ:ARGX) with a Buy and raises the price target from $1016 to $1088.",
+      "fuente": "Benzinga",
+      "fecha": "02 Jul 2026 10:40 UTC",
+      "url": "https://finnhub.io/api/news?id=0abef68bc85503176de67cd75614b6d67448db1bf6031ce9bb609622f9888d0e",
+      "imagen": "",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
@@ -408,48 +433,24 @@
       "badge": "🔵"
     },
     {
-      "ticker": "ARGX",
-      "titulo": "ValuEngine Weekly Market Summary And Commentary",
-      "resumen": "U.S. equity markets were mixed this week, with weakness in growth and technology offset by strength in defensive and health care sectors. ",
-      "fuente": "SeekingAlpha",
-      "fecha": "30 Jun 2026 00:55 UTC",
-      "url": "https://finnhub.io/api/news?id=42ebca08725488bcaeb7da6f8764e5eef18c6f7dac01e2607f09e5a0cc3cdc75",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2228869477/image_2228869477.jpg?io=getty-c-w1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "BEAM",
-      "titulo": "Vertex Pharmaceuticals Has One Of The Widest And Most Durable Moats In Biotech",
-      "resumen": "Vertex Pharmaceuticals Incorporated offers predictable CF cash flows and pipeline catalysts in pain, hematology & renal (Pove for IgAN). Click for this VRTX update.",
-      "fuente": "SeekingAlpha",
-      "fecha": "30 Jun 2026 09:03 UTC",
-      "url": "https://finnhub.io/api/news?id=e10497ea38e4fbad71eb7072d597a29bb43582fc3c78ed5ce80d21a5cf7c2964",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2194222148/image_2194222148.jpg?io=getty-c-w1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ABVX",
-      "titulo": "Here are the top movers in Tuesday's session.",
-      "resumen": "Intrigued by the market activity one hour before the close of the markets on Tuesday? Uncover the key winners and losers of today's session in our insightful analysis.",
-      "fuente": "ChartMill",
-      "fecha": "30 Jun 2026 19:00 UTC",
-      "url": "https://finnhub.io/api/news?id=fad25eef12a642e98dbe665f41546d47de2a35fea1f559fa3c4e00b0de846213",
-      "imagen": "https://www.chartmill.com/images/uploads/CM_Top_Movers_Small_free_2b4ff2fc22.webp",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vortex Energy Corp. Announces LIFE Offering",
-      "resumen": "NOT FOR DISTRIBUTION TO UNITED STATES NEWS WIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES VANCOUVER, British Columbia, June 30, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) announces that it intends to complete a non-brokered p",
+      "ticker": "ALNY",
+      "titulo": "What Offers Alnylam Pharmaceuticals (ALNY) Sustained Long-Term Growth?",
+      "resumen": "Brown Advisory, an investment management company, released its “Brown Large-Cap Growth Strategy” for the first-quarter 2026 investor letter. A copy of the letter is available to download here. The Brown Advisory Large-Cap Growth Strategy experienced a decline in the first quarter of 2026, modestly t",
       "fuente": "Yahoo",
-      "fecha": "30 Jun 2026 21:14 UTC",
-      "url": "https://finnhub.io/api/news?id=767475560b340dce1e6b69feccc5e61184cfb6c2e1dcc7efa801ce5ee94fff44",
+      "fecha": "03 Jul 2026 11:59 UTC",
+      "url": "https://finnhub.io/api/news?id=f1ca76349e0f641af5b3d588bfb0a231fdca85e09255c5064c25d399c7ababe2",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "GPCR",
+      "titulo": "Structure Therapeutics (GPCR) Is A Hidden Biotech Multibagger Stock To Buy Now",
+      "resumen": "Structure Therapeutics Inc. (NASDAQ:GPCR) is one of the 8 Hidden Multibagger Stocks to Buy Now. On June 7, Cantor Fitzgerald analyst Prakhar Agrawal reiterated a Buy rating on Structure Therapeutics Inc. (NASDAQ:GPCR) and set a price target of $101. The firm’s price target implies an additional 95% ",
+      "fuente": "Yahoo",
+      "fecha": "03 Jul 2026 13:41 UTC",
+      "url": "https://finnhub.io/api/news?id=9c3a9bda760b227baa90fcc8f3c32aeb180a58ce25854ecd387d3f22b5ef6063",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",

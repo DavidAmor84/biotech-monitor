@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 03/07/2026 13:23 | Período: últimos 7 días
-Desde: 2026-06-26 → Hasta: 2026-07-03
+Generado: 04/07/2026 16:48 | Período: últimos 7 días
+Desde: 2026-06-27 → Hasta: 2026-07-04
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 17 filings | 🔴 1 | 🟢 0 | 🟡 8 | 🔵 8 | ✅ 9 sin novedad
+RESUMEN: 14 filings | 🔴 1 | 🟢 0 | 🟡 6 | 🔵 7 | ✅ 10 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (1)
@@ -22,16 +22,10 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [SNDX] Sin novedades
   ✅ [ARGX] Sin novedades
 
-  🟡 [DYN] Dyne Therapeutics, Inc. — 3 filing(s)
+  🟡 [DYN] Dyne Therapeutics, Inc. — 1 filing(s)
      🟡 MEDIA 4 | 2026-06-30 | Rhodes Jason P → Venta 162,954 acciones @ $21.28 | Post: 4,579,456 | Rutinaria/RSU/impuestos
      Insider: Rhodes Jason P → Venta 162,954 acciones @ $21.28 | Post: 4,579,456 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1818794/000157701426000012/xslF345X06/form4-06302026_110610.xml
-     🟡 MEDIA 4 | 2026-06-26 | Lucera Erick (Chief Financial Officer) → Venta 2,362 acciones @ $20.37 | Post: 121,563 | Rutinaria/RSU/impuestos
-     Insider: Lucera Erick (Chief Financial Officer) → Venta 2,362 acciones @ $20.37 | Post: 121,563 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1818794/000119312526285505/xslF345X06/ownership.xml
-     🟡 MEDIA 4 | 2026-06-26 | Rhodes Jason P → Venta 77,855 acciones @ $21.13 | Post: 4,805,639 | Rutinaria/RSU/impuestos
-     Insider: Rhodes Jason P → Venta 77,855 acciones @ $21.13 | Post: 4,805,639 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1818794/000157701426000010/xslF345X06/form4-06262026_120619.xml
   ✅ [DNLI] Sin novedades
   ✅ [VKTX] Sin novedades
 
@@ -89,11 +83,7 @@ DETALLE POR TICKER — SEC EDGAR
      🔵 INFO 4 | 2026-07-02 | Steven Edelman → Concesión 2,402 acciones @ $5.36 | Post: 91,083 | Rutinaria/RSU/impuestos
      Insider: Steven Edelman → Concesión 2,402 acciones @ $5.36 | Post: 91,083 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1616543/000168335426000008/xslF345X06/form4-07022026_040701.xml
-
-  🔵 [INSM] INSMED Inc — 1 filing(s)
-     🔵 INFO 4 | 2026-06-26 | Lewis William (Director / Chair and CEO) → Ejercicio opción 12,518 acciones @ $30.46 | Post: 271,435 | Rutinaria/RSU/impuestos
-     Insider: Lewis William (Director / Chair and CEO) → Ejercicio opción 12,518 acciones @ $30.46 | Post: 271,435 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1104506/000140205126000038/xslF345X06/wk-form4_1782504217.xml
+  ✅ [INSM] Sin novedades
   ⚪ [NWL] Sin CIK SEC
 
 ──────────────────────────────────────────────────

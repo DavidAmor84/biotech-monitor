@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "03/07/2026 13:23",
+  "generado": "04/07/2026 16:48",
   "periodo_dias": 7,
-  "desde": "2026-06-26",
-  "hasta": "2026-07-03",
+  "desde": "2026-06-27",
+  "hasta": "2026-07-04",
   "resumen": {
-    "total_filings": 17,
+    "total_filings": 14,
     "alertas_rojas": 1,
     "alertas_verdes": 0,
-    "alertas_amarillas": 8,
-    "alertas_azules": 8,
-    "sin_novedad": 9
+    "alertas_amarillas": 6,
+    "alertas_azules": 7,
+    "sin_novedad": 10
   },
   "tickers": {
     "SNDX": {
@@ -63,58 +63,6 @@
             "footnotes": "Shares were sold pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on March 19, 2026. The price reported in Column 4 is a weighted average price. These securities were sold in multiple transactions at prices ranging from $21.00 to $21.61 inclusive. The Reporting Persons undertake to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of securities sold at each separate price within the ranges set forth in footnotes (2) and (6). The shares are held directly by Atlas Venture Fund XI, L.P. (\"Atlas Venture Fund XI\"). The general partner of Atlas Venture Fund XI is Atlas Venture Associates XI, L.P. (\"AVA XI LP\"). Atlas Venture Associates XI, LLC (\"AVA XI LLC\") is the general partner of AVA XI LP. The Reporting Person is a member of AVA XI LLC and disclaims Section 16 beneficial ownership of such securities held by Atlas Venture Fund XI, except to the extent of his pecuniary interest therein, if any. The shares are owned directly by Atlas Venture Opportunity Fund II, L.P. (\"AVOF II\"). Atlas Venture Associates Opportunity II, LP (\"AVAO II LP\") is the general partner of AVOF II. Atlas Venture Associates Opportunity II, LLC (\"AVAO II LLC\") is the general partner of AVAO II LP. The Reporting Person is a member of AVAO II LLC and disclaims Section 16 beneficial ownership of such securities held by AVOF II, except to the extent of his pecuniary interest t",
             "es_rutinaria": true,
             "resumen_detail": "Rhodes Jason P → Venta 162,954 acciones @ $21.28 | Post: 4,579,456 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-06-26",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Lucera Erick (Chief Financial Officer) → Venta 2,362 acciones @ $20.37 | Post: 121,563 | Rutinaria/RSU/impuestos",
-          "detalle": "4",
-          "empresa_sec": "Dyne Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526285505/xslF345X06/ownership.xml",
-          "form4_detail": {
-            "insider_nombre": "Lucera Erick",
-            "insider_cargo": "Chief Financial Officer",
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "2362",
-            "transaccion_precio": "20.37",
-            "transaccion_fecha": "2026-06-25",
-            "acciones_post": "121563",
-            "footnotes": "Represents shares sold to satisfy certain tax obligations of the Reporting Person incurred with the vesting and settlement of restricted stock units. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices within the range of $20.33 to $20.68, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote of this Form 4. Includes 110,513 unvested RSUs.",
-            "es_rutinaria": true,
-            "resumen_detail": "Lucera Erick (Chief Financial Officer) → Venta 2,362 acciones @ $20.37 | Post: 121,563 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-06-26",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Rhodes Jason P → Venta 77,855 acciones @ $21.13 | Post: 4,805,639 | Rutinaria/RSU/impuestos",
-          "detalle": "xslF345X06/form4-06262026_120619.xml",
-          "empresa_sec": "Dyne Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000157701426000010/xslF345X06/form4-06262026_120619.xml",
-          "form4_detail": {
-            "insider_nombre": "Rhodes Jason P",
-            "insider_cargo": null,
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "77855",
-            "transaccion_precio": "21.13",
-            "transaccion_fecha": "2026-06-23",
-            "acciones_post": "4805639",
-            "footnotes": "Shares were sold pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on March 19, 2026. The price reported in Column 4 is a weighted average price. These securities were sold in multiple transactions at prices ranging from $21.00 to $21.50 inclusive. The Reporting Persons undertake to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of securities sold at each separate price within the ranges set forth in footnotes (2), (6) and (7). The shares are held directly by Atlas Venture Fund XI, L.P. (\"Atlas Venture Fund XI\"). The general partner of Atlas Venture Fund XI is Atlas Venture Associates XI, L.P. (\"AVA XI LP\"). Atlas Venture Associates XI, LLC (\"AVA XI LLC\") is the general partner of AVA XI LP. The Reporting Person is a member of AVA XI LLC and disclaims Section 16 beneficial ownership of such securities held by Atlas Venture Fund XI, except to the extent of his pecuniary interest therein, if any. The shares are owned directly by Atlas Venture Opportunity Fund II, L.P. (\"AVOF II\"). Atlas Venture Associates Opportunity II, LP (\"AVAO II LP\") is the general partner of AVOF II. Atlas Venture Associates Opportunity II, LLC (\"AVAO II LLC\") is the general partner of AVAO II LP. The Reporting Person is a member of AVAO II LLC and disclaims Section 16 beneficial ownership of such securities held by AVOF II, except to the extent of his pecuniary inter",
-            "es_rutinaria": true,
-            "resumen_detail": "Rhodes Jason P → Venta 77,855 acciones @ $21.13 | Post: 4,805,639 | Rutinaria/RSU/impuestos"
           },
           "8k_detail": null,
           "10q_detail": null,
@@ -601,36 +549,9 @@
       "cik": "0001104506",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-06-26",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Lewis William (Director / Chair and CEO) → Ejercicio opción 12,518 acciones @ $30.46 | Post: 271,435 | Rutinaria/RSU/impuestos",
-          "detalle": "FORM 4",
-          "empresa_sec": "INSMED Inc",
-          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000140205126000038/xslF345X06/wk-form4_1782504217.xml",
-          "form4_detail": {
-            "insider_nombre": "Lewis William",
-            "insider_cargo": "Director / Chair and CEO",
-            "transaccion_codigo": "M",
-            "transaccion_tipo": "Ejercicio opción",
-            "transaccion_acciones": "12518",
-            "transaccion_precio": "30.46",
-            "transaccion_fecha": "2026-06-25",
-            "acciones_post": "271435",
-            "footnotes": "This transaction was effected pursuant to a 10b5-1 trading plan adopted by the Reporting Person on September 4, 2025, in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934, as amended. This is the weighted average sales price representing 12,091 shares sold at prices ranging from $101.78 to $102.77 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. This is the weighted average sales price representing 1,836 shares sold at prices ranging from $102.78 to $103.58 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. This is the weighted average sales price representing 3,723 shares sold at prices ranging from $103.87 to $104.75 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. This is the weighted average sales price representing 2,456 shares sold at prices ranging from $104.90 to $105.88 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. This is the weighted average sales price representing 1,29",
-            "es_rutinaria": true,
-            "resumen_detail": "Lewis William (Director / Chair and CEO) → Ejercicio opción 12,518 acciones @ $30.46 | Post: 271,435 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "NWL": {
@@ -1037,90 +958,6 @@
         "badge_ajustado": "🟡 MEDIA",
         "resumen_ajustado": "Item 5.02: Cambio directivo relevante"
       },
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "DYN",
-      "nombre": "Dyne Therapeutics, Inc.",
-      "form": "4",
-      "fecha": "2026-06-26",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Lucera Erick (Chief Financial Officer) → Venta 2,362 acciones @ $20.37 | Post: 121,563 | Rutinaria/RSU/impuestos",
-      "detalle": "4",
-      "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526285505/xslF345X06/ownership.xml",
-      "form4_detail": {
-        "insider_nombre": "Lucera Erick",
-        "insider_cargo": "Chief Financial Officer",
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "2362",
-        "transaccion_precio": "20.37",
-        "transaccion_fecha": "2026-06-25",
-        "acciones_post": "121563",
-        "footnotes": "Represents shares sold to satisfy certain tax obligations of the Reporting Person incurred with the vesting and settlement of restricted stock units. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices within the range of $20.33 to $20.68, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote of this Form 4. Includes 110,513 unvested RSUs.",
-        "es_rutinaria": true,
-        "resumen_detail": "Lucera Erick (Chief Financial Officer) → Venta 2,362 acciones @ $20.37 | Post: 121,563 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "DYN",
-      "nombre": "Dyne Therapeutics, Inc.",
-      "form": "4",
-      "fecha": "2026-06-26",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Rhodes Jason P → Venta 77,855 acciones @ $21.13 | Post: 4,805,639 | Rutinaria/RSU/impuestos",
-      "detalle": "xslF345X06/form4-06262026_120619.xml",
-      "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000157701426000010/xslF345X06/form4-06262026_120619.xml",
-      "form4_detail": {
-        "insider_nombre": "Rhodes Jason P",
-        "insider_cargo": null,
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "77855",
-        "transaccion_precio": "21.13",
-        "transaccion_fecha": "2026-06-23",
-        "acciones_post": "4805639",
-        "footnotes": "Shares were sold pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on March 19, 2026. The price reported in Column 4 is a weighted average price. These securities were sold in multiple transactions at prices ranging from $21.00 to $21.50 inclusive. The Reporting Persons undertake to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of securities sold at each separate price within the ranges set forth in footnotes (2), (6) and (7). The shares are held directly by Atlas Venture Fund XI, L.P. (\"Atlas Venture Fund XI\"). The general partner of Atlas Venture Fund XI is Atlas Venture Associates XI, L.P. (\"AVA XI LP\"). Atlas Venture Associates XI, LLC (\"AVA XI LLC\") is the general partner of AVA XI LP. The Reporting Person is a member of AVA XI LLC and disclaims Section 16 beneficial ownership of such securities held by Atlas Venture Fund XI, except to the extent of his pecuniary interest therein, if any. The shares are owned directly by Atlas Venture Opportunity Fund II, L.P. (\"AVOF II\"). Atlas Venture Associates Opportunity II, LP (\"AVAO II LP\") is the general partner of AVOF II. Atlas Venture Associates Opportunity II, LLC (\"AVAO II LLC\") is the general partner of AVAO II LP. The Reporting Person is a member of AVAO II LLC and disclaims Section 16 beneficial ownership of such securities held by AVOF II, except to the extent of his pecuniary inter",
-        "es_rutinaria": true,
-        "resumen_detail": "Rhodes Jason P → Venta 77,855 acciones @ $21.13 | Post: 4,805,639 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "INSM",
-      "nombre": "INSMED Inc",
-      "form": "4",
-      "fecha": "2026-06-26",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Lewis William (Director / Chair and CEO) → Ejercicio opción 12,518 acciones @ $30.46 | Post: 271,435 | Rutinaria/RSU/impuestos",
-      "detalle": "FORM 4",
-      "empresa_sec": "INSMED Inc",
-      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000140205126000038/xslF345X06/wk-form4_1782504217.xml",
-      "form4_detail": {
-        "insider_nombre": "Lewis William",
-        "insider_cargo": "Director / Chair and CEO",
-        "transaccion_codigo": "M",
-        "transaccion_tipo": "Ejercicio opción",
-        "transaccion_acciones": "12518",
-        "transaccion_precio": "30.46",
-        "transaccion_fecha": "2026-06-25",
-        "acciones_post": "271435",
-        "footnotes": "This transaction was effected pursuant to a 10b5-1 trading plan adopted by the Reporting Person on September 4, 2025, in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934, as amended. This is the weighted average sales price representing 12,091 shares sold at prices ranging from $101.78 to $102.77 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. This is the weighted average sales price representing 1,836 shares sold at prices ranging from $102.78 to $103.58 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. This is the weighted average sales price representing 3,723 shares sold at prices ranging from $103.87 to $104.75 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. This is the weighted average sales price representing 2,456 shares sold at prices ranging from $104.90 to $105.88 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. This is the weighted average sales price representing 1,29",
-        "es_rutinaria": true,
-        "resumen_detail": "Lewis William (Director / Chair and CEO) → Ejercicio opción 12,518 acciones @ $30.46 | Post: 271,435 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
       "10q_detail": null,
       "prospecto_detail": null
     }

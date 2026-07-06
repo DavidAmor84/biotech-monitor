@@ -1,8 +1,8 @@
 {
-  "generado": "04/07/2026 16:46 UTC",
+  "generado": "06/07/2026 17:30 UTC",
   "plazo_horas": 72,
-  "desde": "2026-07-01",
-  "hasta": "2026-07-04",
+  "desde": "2026-07-03",
+  "hasta": "2026-07-06",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -12,22 +12,9 @@
     },
     "ARGX": {
       "nombre": "ARGX",
-      "noticias": [
-        {
-          "ticker": "ARGX",
-          "titulo": "B of A Securities Maintains Buy on argenx, Raises Price Target to $1088",
-          "resumen": "B of A Securities  analyst Tazeen Ahmad   maintains argenx (NASDAQ:ARGX) with a Buy and raises the price target from $1016 to $1088.",
-          "fuente": "Benzinga",
-          "fecha": "02 Jul 2026 10:40 UTC",
-          "url": "https://finnhub.io/api/news?id=0abef68bc85503176de67cd75614b6d67448db1bf6031ce9bb609622f9888d0e",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "DYN": {
       "nombre": "DYN",
@@ -52,11 +39,11 @@
       "noticias": [
         {
           "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals (VRTX) Wins FDA Approval To Treat Two Year Olds With CASGEVY",
-          "resumen": "FDA approved expanded use of CASGEVY for children as young as two years with sickle cell disease and transfusion-dependent beta thalassemia. The approval makes CASGEVY the first gene therapy of its kind available to this pediatric group in the U.S. Vertex Pharmaceuticals estimates that roughly 5,500",
+          "titulo": "Vertex Signs Letter of Intent (LOI) with the pan-Canadian Pharmaceutical Alliance for ALYFTREK for the Treatment of Cystic Fibrosis",
+          "resumen": "Vertex Pharmaceuticals today announced that it has signed a Letter of Intent (LOI) with the pan-Canadian Pharmaceutical Alliance (pCPA) for PrALYFTREK® (vanzacaftor/tezacaftor/deutivacaftor), a new triple combination therapy for the treatment of cystic fibrosis (CF) in patients aged 6 years and olde",
           "fuente": "Yahoo",
-          "fecha": "03 Jul 2026 14:14 UTC",
-          "url": "https://finnhub.io/api/news?id=164514ebcd3205bc9d7843b1a883a6d608485a78053c7498fd497b1b6ed57149",
+          "fecha": "06 Jul 2026 14:22 UTC",
+          "url": "https://finnhub.io/api/news?id=09bfe4632fd1ad6a2881612f9c9f2461ad34732819ed3d53e6b73b3d018413bc",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -64,11 +51,11 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "Wall Street Bulls Look Optimistic About Vertex (VRTX): Should You Buy?",
-          "resumen": "According to the average brokerage recommendation (ABR), one should invest in Vertex (VRTX). It is debatable whether this highly sought-after metric is effective because Wall Street analysts' recommendations tend to be overly optimistic. Would it be worth investing in the stock?",
+          "titulo": "CRISPR Therapeutics vs. Viking Therapeutics: Which Healthcare Stock Is a Better Buy in 2026?",
+          "resumen": "One company leads in gene-editing approvals, while the other targets surging demand in metabolic treatments. Here’s how their financials and risk profiles compare.",
           "fuente": "Yahoo",
-          "fecha": "03 Jul 2026 13:30 UTC",
-          "url": "https://finnhub.io/api/news?id=d9b3f70e5cbfec650076df510039c9b294de258754fa8ceab3fefe6e371539da",
+          "fecha": "06 Jul 2026 11:55 UTC",
+          "url": "https://finnhub.io/api/news?id=85d6f3740d72f24a15b0a7b2d9ec9bff61db5038ada9e3b50a657ba731c67b30",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -76,98 +63,25 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "Arcutis vs. Vertex: Which Pharmaceutical Maker Stock Is a Better Buy in 2026?",
-          "resumen": "Arcutis doubled revenue last year while Vertex delivered strong profits and cash flow. Explore how each company stacks up on growth, risk, and value.",
+          "titulo": "While SpaceX Gets the Headlines, Smart Investors Are Loading Up on This Stock Instead",
+          "resumen": "This big biotech stock doesn't get the hype that SpaceX does. But it could be the smarter bet right now.",
           "fuente": "Yahoo",
-          "fecha": "03 Jul 2026 12:57 UTC",
-          "url": "https://finnhub.io/api/news?id=92522537e3d1ab8ebfeed0d9f2ee31c2a2644d7b65f7cadb0b4eef4e0f969b4b",
+          "fecha": "05 Jul 2026 09:04 UTC",
+          "url": "https://finnhub.io/api/news?id=3b0b044bcb0249279703d18169b8d8cc9b6f3b02d6d8753f2dcbbb75669f29ee",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "CRSP, VRTX Stocks Surge As FDA Clears Casgevy For Children Ages 2 And Up",
-          "resumen": "The fresh FDA approval allows the use of the cell therapy in patients as young as two years old with sickle cell disease (SCD) who have recurrent vaso-occlusive crises or transfusion-dependent beta thalassemia (TDT).",
-          "fuente": "Yahoo",
-          "fecha": "02 Jul 2026 21:16 UTC",
-          "url": "https://finnhub.io/api/news?id=326cbb0a582da9491c50a786271e36ae869915ccb646b59899c45d78f7507188",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex Gets FDA Nod for Expanded Use of Casgevy in SCD & TDT",
-          "resumen": "VRTX gets FDA approval to expand Casgevy use in patients aged two and older with SCD or TDT, a first for genetic therapies in both inherited blood disorders.",
-          "fuente": "Yahoo",
-          "fecha": "02 Jul 2026 14:42 UTC",
-          "url": "https://finnhub.io/api/news?id=e34d320bd39ab0f00f5a7ffcf504ea6725eaf7e11d8bd5a03965f29079d17aed",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
-      "total": 5
+      "total": 3
     },
     "ALNY": {
       "nombre": "ALNY",
-      "noticias": [
-        {
-          "ticker": "ALNY",
-          "titulo": "Alnylam Pharmaceuticals (NASDAQ:ALNY): An Affordable Growth Stock with Explosive Momentum and a Reasonable Price",
-          "resumen": "Alnylam Pharmaceuticals (ALNY) combines explosive earnings growth with a reasonable valuation, fitting the Affordable Growth (GARP) strategy perfectly for balanced upside.",
-          "fuente": "ChartMill",
-          "fecha": "03 Jul 2026 12:40 UTC",
-          "url": "https://finnhub.io/api/news?id=a4ace305bdde6827a0e8de9428d839158cd5f1ca504101b4d76baf6cef005053",
-          "imagen": "https://www.chartmill.com/images/uploads/Affordable_Growth_500_264px_webp_add6a3aa59.webp",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "What Offers Alnylam Pharmaceuticals (ALNY) Sustained Long-Term Growth?",
-          "resumen": "Brown Advisory, an investment management company, released its “Brown Large-Cap Growth Strategy” for the first-quarter 2026 investor letter. A copy of the letter is available to download here. The Brown Advisory Large-Cap Growth Strategy experienced a decline in the first quarter of 2026, modestly t",
-          "fuente": "Yahoo",
-          "fecha": "03 Jul 2026 11:59 UTC",
-          "url": "https://finnhub.io/api/news?id=f1ca76349e0f641af5b3d588bfb0a231fdca85e09255c5064c25d399c7ababe2",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Wall Street Thinks This Biotech Stock Can Soar 45%. Here's Why Analysts Are Right.",
-          "resumen": "Analysts have given Alnylam Pharmaceuticals an average price target of $436.",
-          "fuente": "Yahoo",
-          "fecha": "02 Jul 2026 10:53 UTC",
-          "url": "https://finnhub.io/api/news?id=99603c428a228c37bd5da696a37d0c964c8f98c518ee83ad80a2c4c06b7466d5",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Komodo Expands Strategic Partnership with Alnylam Pharmaceuticals, Inc. (ALNY)",
-          "resumen": "Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) is among the Best Fundamental Stocks. On June 25, Komodo Health expanded its strategic partnership with Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY). It is an extension of work built on Komodo’s Healthcare Map and Marmot analytics AI platform, following Aln",
-          "fuente": "Yahoo",
-          "fecha": "02 Jul 2026 06:17 UTC",
-          "url": "https://finnhub.io/api/news?id=ab0d9f26e9f5f25506beabfba8eb057b374cb718dfb1f755a69752dbc6782acf",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 4
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "BEAM": {
       "nombre": "BEAM",
@@ -183,72 +97,21 @@
     },
     "CAI": {
       "nombre": "CAI",
-      "noticias": [
-        {
-          "ticker": "CAI",
-          "titulo": "BTIG Reiterates Buy on Caris Life Sciences, Maintains $32 Price Target",
-          "resumen": "BTIG  analyst Mark Massaro   reiterates Caris Life Sciences (NASDAQ:CAI) with a Buy and maintains $32 price target.",
-          "fuente": "Benzinga",
-          "fecha": "02 Jul 2026 06:23 UTC",
-          "url": "https://finnhub.io/api/news?id=35864e580f91446551085ab0534dcc9d2bd39e4f6725e2fdb7504f12b86221fc",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "GPCR": {
       "nombre": "GPCR",
-      "noticias": [
-        {
-          "ticker": "GPCR",
-          "titulo": "Structure Therapeutics (GPCR) Is A Hidden Biotech Multibagger Stock To Buy Now",
-          "resumen": "Structure Therapeutics Inc. (NASDAQ:GPCR) is one of the 8 Hidden Multibagger Stocks to Buy Now. On June 7, Cantor Fitzgerald analyst Prakhar Agrawal reiterated a Buy rating on Structure Therapeutics Inc. (NASDAQ:GPCR) and set a price target of $101. The firm’s price target implies an additional 95% ",
-          "fuente": "Yahoo",
-          "fecha": "03 Jul 2026 13:41 UTC",
-          "url": "https://finnhub.io/api/news?id=9c3a9bda760b227baa90fcc8f3c32aeb180a58ce25854ecd387d3f22b5ef6063",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "ABVX": {
       "nombre": "ABVX",
-      "noticias": [
-        {
-          "ticker": "ABVX",
-          "titulo": "Truist Securities Maintains Buy on Abivax, Raises Price Target to $155",
-          "resumen": "Truist Securities  analyst Gregory Renza   maintains Abivax (NASDAQ:ABVX) with a Buy and raises the price target from $135 to $155.",
-          "fuente": "Benzinga",
-          "fecha": "02 Jul 2026 07:42 UTC",
-          "url": "https://finnhub.io/api/news?id=4409d0ab17e8a0909893ee06acd667614891174f9c559d9e8a7699c595cdd65c",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ABVX",
-          "titulo": "Why SurgePays Shares Are Trading Higher By 59%; Here Are 20 Stocks Moving Premarket",
-          "resumen": "Surgepays Inc (NASDAQ: SURG) rose in pre-market trading after amending agreement with wireless network provider, shares jumped 59% to $0.66.",
-          "fuente": "Benzinga",
-          "fecha": "02 Jul 2026 05:32 UTC",
-          "url": "https://finnhub.io/api/news?id=9a87ef23a11fef7d962e83e3809955dc3bbe23be0565eb70366ac8d95965096e",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/02/Section-Of-A-Financial-Newspaper-Titled-.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 2
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "VERA": {
       "nombre": "VERA",
@@ -282,19 +145,19 @@
     }
   },
   "resumen": {
-    "total_noticias": 14,
-    "tickers_con_noticias": 6,
-    "alertas_urgentes": 2,
-    "sin_noticias": 11
+    "total_noticias": 3,
+    "tickers_con_noticias": 1,
+    "alertas_urgentes": 1,
+    "sin_noticias": 16
   },
   "todas_noticias": [
     {
-      "ticker": "ALNY",
-      "titulo": "Komodo Expands Strategic Partnership with Alnylam Pharmaceuticals, Inc. (ALNY)",
-      "resumen": "Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) is among the Best Fundamental Stocks. On June 25, Komodo Health expanded its strategic partnership with Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY). It is an extension of work built on Komodo’s Healthcare Map and Marmot analytics AI platform, following Aln",
+      "ticker": "VRTX",
+      "titulo": "CRISPR Therapeutics vs. Viking Therapeutics: Which Healthcare Stock Is a Better Buy in 2026?",
+      "resumen": "One company leads in gene-editing approvals, while the other targets surging demand in metabolic treatments. Here’s how their financials and risk profiles compare.",
       "fuente": "Yahoo",
-      "fecha": "02 Jul 2026 06:17 UTC",
-      "url": "https://finnhub.io/api/news?id=ab0d9f26e9f5f25506beabfba8eb057b374cb718dfb1f755a69752dbc6782acf",
+      "fecha": "06 Jul 2026 11:55 UTC",
+      "url": "https://finnhub.io/api/news?id=85d6f3740d72f24a15b0a7b2d9ec9bff61db5038ada9e3b50a657ba731c67b30",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
@@ -302,11 +165,11 @@
     },
     {
       "ticker": "VRTX",
-      "titulo": "Vertex Gets FDA Nod for Expanded Use of Casgevy in SCD & TDT",
-      "resumen": "VRTX gets FDA approval to expand Casgevy use in patients aged two and older with SCD or TDT, a first for genetic therapies in both inherited blood disorders.",
+      "titulo": "Vertex Signs Letter of Intent (LOI) with the pan-Canadian Pharmaceutical Alliance for ALYFTREK for the Treatment of Cystic Fibrosis",
+      "resumen": "Vertex Pharmaceuticals today announced that it has signed a Letter of Intent (LOI) with the pan-Canadian Pharmaceutical Alliance (pCPA) for PrALYFTREK® (vanzacaftor/tezacaftor/deutivacaftor), a new triple combination therapy for the treatment of cystic fibrosis (CF) in patients aged 6 years and olde",
       "fuente": "Yahoo",
-      "fecha": "02 Jul 2026 14:42 UTC",
-      "url": "https://finnhub.io/api/news?id=e34d320bd39ab0f00f5a7ffcf504ea6725eaf7e11d8bd5a03965f29079d17aed",
+      "fecha": "06 Jul 2026 14:22 UTC",
+      "url": "https://finnhub.io/api/news?id=09bfe4632fd1ad6a2881612f9c9f2461ad34732819ed3d53e6b73b3d018413bc",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
@@ -314,143 +177,11 @@
     },
     {
       "ticker": "VRTX",
-      "titulo": "CRSP, VRTX Stocks Surge As FDA Clears Casgevy For Children Ages 2 And Up",
-      "resumen": "The fresh FDA approval allows the use of the cell therapy in patients as young as two years old with sickle cell disease (SCD) who have recurrent vaso-occlusive crises or transfusion-dependent beta thalassemia (TDT).",
+      "titulo": "While SpaceX Gets the Headlines, Smart Investors Are Loading Up on This Stock Instead",
+      "resumen": "This big biotech stock doesn't get the hype that SpaceX does. But it could be the smarter bet right now.",
       "fuente": "Yahoo",
-      "fecha": "02 Jul 2026 21:16 UTC",
-      "url": "https://finnhub.io/api/news?id=326cbb0a582da9491c50a786271e36ae869915ccb646b59899c45d78f7507188",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Alnylam Pharmaceuticals (NASDAQ:ALNY): An Affordable Growth Stock with Explosive Momentum and a Reasonable Price",
-      "resumen": "Alnylam Pharmaceuticals (ALNY) combines explosive earnings growth with a reasonable valuation, fitting the Affordable Growth (GARP) strategy perfectly for balanced upside.",
-      "fuente": "ChartMill",
-      "fecha": "03 Jul 2026 12:40 UTC",
-      "url": "https://finnhub.io/api/news?id=a4ace305bdde6827a0e8de9428d839158cd5f1ca504101b4d76baf6cef005053",
-      "imagen": "https://www.chartmill.com/images/uploads/Affordable_Growth_500_264px_webp_add6a3aa59.webp",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Arcutis vs. Vertex: Which Pharmaceutical Maker Stock Is a Better Buy in 2026?",
-      "resumen": "Arcutis doubled revenue last year while Vertex delivered strong profits and cash flow. Explore how each company stacks up on growth, risk, and value.",
-      "fuente": "Yahoo",
-      "fecha": "03 Jul 2026 12:57 UTC",
-      "url": "https://finnhub.io/api/news?id=92522537e3d1ab8ebfeed0d9f2ee31c2a2644d7b65f7cadb0b4eef4e0f969b4b",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Wall Street Bulls Look Optimistic About Vertex (VRTX): Should You Buy?",
-      "resumen": "According to the average brokerage recommendation (ABR), one should invest in Vertex (VRTX). It is debatable whether this highly sought-after metric is effective because Wall Street analysts' recommendations tend to be overly optimistic. Would it be worth investing in the stock?",
-      "fuente": "Yahoo",
-      "fecha": "03 Jul 2026 13:30 UTC",
-      "url": "https://finnhub.io/api/news?id=d9b3f70e5cbfec650076df510039c9b294de258754fa8ceab3fefe6e371539da",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals (VRTX) Wins FDA Approval To Treat Two Year Olds With CASGEVY",
-      "resumen": "FDA approved expanded use of CASGEVY for children as young as two years with sickle cell disease and transfusion-dependent beta thalassemia. The approval makes CASGEVY the first gene therapy of its kind available to this pediatric group in the U.S. Vertex Pharmaceuticals estimates that roughly 5,500",
-      "fuente": "Yahoo",
-      "fecha": "03 Jul 2026 14:14 UTC",
-      "url": "https://finnhub.io/api/news?id=164514ebcd3205bc9d7843b1a883a6d608485a78053c7498fd497b1b6ed57149",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ABVX",
-      "titulo": "Why SurgePays Shares Are Trading Higher By 59%; Here Are 20 Stocks Moving Premarket",
-      "resumen": "Surgepays Inc (NASDAQ: SURG) rose in pre-market trading after amending agreement with wireless network provider, shares jumped 59% to $0.66.",
-      "fuente": "Benzinga",
-      "fecha": "02 Jul 2026 05:32 UTC",
-      "url": "https://finnhub.io/api/news?id=9a87ef23a11fef7d962e83e3809955dc3bbe23be0565eb70366ac8d95965096e",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/02/Section-Of-A-Financial-Newspaper-Titled-.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "CAI",
-      "titulo": "BTIG Reiterates Buy on Caris Life Sciences, Maintains $32 Price Target",
-      "resumen": "BTIG  analyst Mark Massaro   reiterates Caris Life Sciences (NASDAQ:CAI) with a Buy and maintains $32 price target.",
-      "fuente": "Benzinga",
-      "fecha": "02 Jul 2026 06:23 UTC",
-      "url": "https://finnhub.io/api/news?id=35864e580f91446551085ab0534dcc9d2bd39e4f6725e2fdb7504f12b86221fc",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ABVX",
-      "titulo": "Truist Securities Maintains Buy on Abivax, Raises Price Target to $155",
-      "resumen": "Truist Securities  analyst Gregory Renza   maintains Abivax (NASDAQ:ABVX) with a Buy and raises the price target from $135 to $155.",
-      "fuente": "Benzinga",
-      "fecha": "02 Jul 2026 07:42 UTC",
-      "url": "https://finnhub.io/api/news?id=4409d0ab17e8a0909893ee06acd667614891174f9c559d9e8a7699c595cdd65c",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "B of A Securities Maintains Buy on argenx, Raises Price Target to $1088",
-      "resumen": "B of A Securities  analyst Tazeen Ahmad   maintains argenx (NASDAQ:ARGX) with a Buy and raises the price target from $1016 to $1088.",
-      "fuente": "Benzinga",
-      "fecha": "02 Jul 2026 10:40 UTC",
-      "url": "https://finnhub.io/api/news?id=0abef68bc85503176de67cd75614b6d67448db1bf6031ce9bb609622f9888d0e",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Wall Street Thinks This Biotech Stock Can Soar 45%. Here's Why Analysts Are Right.",
-      "resumen": "Analysts have given Alnylam Pharmaceuticals an average price target of $436.",
-      "fuente": "Yahoo",
-      "fecha": "02 Jul 2026 10:53 UTC",
-      "url": "https://finnhub.io/api/news?id=99603c428a228c37bd5da696a37d0c964c8f98c518ee83ad80a2c4c06b7466d5",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "What Offers Alnylam Pharmaceuticals (ALNY) Sustained Long-Term Growth?",
-      "resumen": "Brown Advisory, an investment management company, released its “Brown Large-Cap Growth Strategy” for the first-quarter 2026 investor letter. A copy of the letter is available to download here. The Brown Advisory Large-Cap Growth Strategy experienced a decline in the first quarter of 2026, modestly t",
-      "fuente": "Yahoo",
-      "fecha": "03 Jul 2026 11:59 UTC",
-      "url": "https://finnhub.io/api/news?id=f1ca76349e0f641af5b3d588bfb0a231fdca85e09255c5064c25d399c7ababe2",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "GPCR",
-      "titulo": "Structure Therapeutics (GPCR) Is A Hidden Biotech Multibagger Stock To Buy Now",
-      "resumen": "Structure Therapeutics Inc. (NASDAQ:GPCR) is one of the 8 Hidden Multibagger Stocks to Buy Now. On June 7, Cantor Fitzgerald analyst Prakhar Agrawal reiterated a Buy rating on Structure Therapeutics Inc. (NASDAQ:GPCR) and set a price target of $101. The firm’s price target implies an additional 95% ",
-      "fuente": "Yahoo",
-      "fecha": "03 Jul 2026 13:41 UTC",
-      "url": "https://finnhub.io/api/news?id=9c3a9bda760b227baa90fcc8f3c32aeb180a58ce25854ecd387d3f22b5ef6063",
+      "fecha": "05 Jul 2026 09:04 UTC",
+      "url": "https://finnhub.io/api/news?id=3b0b044bcb0249279703d18169b8d8cc9b6f3b02d6d8753f2dcbbb75669f29ee",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",

@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "06/07/2026 17:57",
-  "fecha": "2026-07-06",
+  "generado": "07/07/2026 17:01",
+  "fecha": "2026-07-07",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -11,8 +11,8 @@
     "validacion_error": 0,
     "alertas_rojas": 0,
     "alertas_verdes": 4,
-    "alertas_amarillas": 0,
-    "alertas_azules": 30,
+    "alertas_amarillas": 1,
+    "alertas_azules": 29,
     "errores": 0
   },
   "empresas": {
@@ -548,12 +548,12 @@
           "badge_base": "🔵",
           "phase": "PHASE3",
           "enrollment": 1116,
-          "primary_completion_date": "2026-04",
-          "primary_completion_type": "ESTIMATED",
+          "primary_completion_date": "2026-04-28",
+          "primary_completion_type": "ACTUAL",
           "study_completion_date": "2030-05",
           "study_completion_type": "ESTIMATED",
           "start_date": "2023-01-16",
-          "last_update_posted": "2025-10-24",
+          "last_update_posted": "2026-07-07",
           "conditions": [
             "Ulcerative Colitis"
           ],
@@ -590,9 +590,22 @@
           "ventana": "2026",
           "monitorizar": true,
           "peso_importancia": 10,
-          "cambios": [],
-          "nivel": "azul",
-          "badge": "🔵",
+          "cambios": [
+            {
+              "tipo": "primary_completion_date",
+              "nivel": "amarillo",
+              "badge": "🟡",
+              "mensaje": "Primary completion: 2026-04 → 2026-04-28"
+            },
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2025-10-24 → 2026-07-07"
+            }
+          ],
+          "nivel": "amarillo",
+          "badge": "🟡",
           "error": null
         }
       ],
@@ -2393,10 +2406,10 @@
       "ticker": "ABVX",
       "nct": "NCT05535946",
       "nombre": "ABTECT mantenimiento 44sem — obefazimod (ABX464-107) — UC",
-      "nivel": "azul",
-      "badge": "🔵",
+      "nivel": "amarillo",
+      "badge": "🟡",
       "status": "ACTIVE_NOT_RECRUITING",
-      "primary_completion_date": "2026-04",
+      "primary_completion_date": "2026-04-28",
       "mensaje": "Activo, sin reclutamiento",
       "prioridad": "alta",
       "estrellas": "⭐⭐⭐",
@@ -2406,7 +2419,20 @@
       "peso_importancia": 10,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "primary_completion_date",
+          "nivel": "amarillo",
+          "badge": "🟡",
+          "mensaje": "Primary completion: 2026-04 → 2026-04-28"
+        },
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2025-10-24 → 2026-07-07"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT05535946"
     },
     {

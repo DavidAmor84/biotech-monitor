@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "06/07/2026 17:29",
+  "generado": "07/07/2026 16:12",
   "periodo_dias": 7,
-  "desde": "2026-06-29",
-  "hasta": "2026-07-06",
+  "desde": "2026-06-30",
+  "hasta": "2026-07-07",
   "resumen": {
-    "total_filings": 14,
+    "total_filings": 13,
     "alertas_rojas": 1,
     "alertas_verdes": 0,
     "alertas_amarillas": 6,
-    "alertas_azules": 7,
-    "sin_novedad": 10
+    "alertas_azules": 6,
+    "sin_novedad": 11
   },
   "tickers": {
     "SNDX": {
@@ -102,6 +102,58 @@
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
       "filings": [
+        {
+          "form": "8-K",
+          "fecha": "2026-07-07",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "8-K — Posible deuda/obligación financiera; revisar condiciones [Items: 1.01, 7.01, 8.01, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000119312526296710/d113650d8k.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "1.01",
+              "7.01",
+              "8.01",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 1.01. Entry into a Material Definitive Agreement. Merger Agreement On July 6, 2026, Vertex Pharmaceuticals Incorporated, a Massachusetts corporation ( Parent ), Clark Merger Sub, Inc., a Delaware corporation and a wholly owned subsidiary of Parent ( Merger Sub ), and Crinetics Pharmaceuticals, Inc., a Delaware corporation (the Company ), entered into an Agreement and Plan of Merger (the Merger Agreement ). Subject to the terms of the Merger Agreement, Merger Sub will be merged with and into the Company (the Merger ), with the Company surviving the Merger as a wholly owned subsidiary of Parent. Capitalized terms used herein and not otherwise defined herein have the meanings set forth in the Merger Agreement. On the terms and subject to the conditions set forth in the Merger Agreement, at the effective time of the Merger (the Effective Time ), each share of common stock of the Company, par value $0.001 per share (the Shares ) issued and outstanding immediately prior to the Effective Time (other than Shares owned by the Company or any subsidiary of the Company immediately prior to the Effective Time, Shares owned by Parent, Merger Sub or any other subsidiary of Parent immediately prior to the Effective Time, and Shares held by any person who is entitled to demand, and has properly demanded, appraisal in respect of such Shares pursuant to applicable law) will be canceled and automatically converted into the right to receive $85.00 per share in cash, without interest thereon and subject to applicable withholding taxes (the Merger Consideration ). Immediately prior to the Ef",
+            "nivel_ajustado": "amarillo",
+            "badge_ajustado": "🟡 MEDIA",
+            "resumen_ajustado": "8-K — Posible deuda/obligación financiera; revisar condiciones"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
+          "form": "4",
+          "fecha": "2026-07-06",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Liu Joy (EVP and Chief Legal Officer) → Venta 828 acciones @ $502.71 | Post: 19,131 | Rutinaria/RSU/impuestos",
+          "detalle": "FORM 4",
+          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000241/xslF345X06/wk-form4_1783368787.xml",
+          "form4_detail": {
+            "insider_nombre": "Liu Joy",
+            "insider_cargo": "EVP and Chief Legal Officer",
+            "transaccion_codigo": "S",
+            "transaccion_tipo": "Venta",
+            "transaccion_acciones": "828",
+            "transaccion_precio": "502.71",
+            "transaccion_fecha": "2026-07-01",
+            "acciones_post": "19131",
+            "footnotes": "Transaction made pursuant to Ms. Liu's company approved trading plan under Rule 10b5-1, which was entered into on 11/25/2025.",
+            "es_rutinaria": true,
+            "resumen_detail": "Liu Joy (EVP and Chief Legal Officer) → Venta 828 acciones @ $502.71 | Post: 19,131 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
         {
           "form": "4",
           "fecha": "2026-06-30",
@@ -202,32 +254,6 @@
           "8k_detail": null,
           "10q_detail": null,
           "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-06-29",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "FMR LLC → Venta 33,372 acciones @ $35.12 | Post: 1,106,071",
-          "detalle": "4",
-          "empresa_sec": "Beam Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526288078/xslF345X06/ownership.xml",
-          "form4_detail": {
-            "insider_nombre": "FMR LLC",
-            "insider_cargo": null,
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "33372",
-            "transaccion_precio": "35.12",
-            "transaccion_fecha": "2026-06-25",
-            "acciones_post": "1106071",
-            "footnotes": "The price reported for this transaction is the weighted average price of multiple trades at prices ranging from $35.00 to $35.39. FMR LLC hereby undertakes to provide upon request by the Commission staff, the issuer, or a security holder of the issuer full information. The price reported for this transaction is the weighted average price of multiple trades at prices ranging from $35.00 to $35.88. FMR LLC hereby undertakes to provide upon request by the Commission staff, the issuer, or a security holder of the issuer full information.",
-            "es_rutinaria": false,
-            "resumen_detail": "FMR LLC → Venta 33,372 acciones @ $35.12 | Post: 1,106,071"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
         }
       ],
       "nivel": "amarillo",
@@ -262,36 +288,9 @@
       "cik": "0001888886",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-06-29",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 23,634 acciones @ $0.34 | Post: 252,594 | Rutinaria/RSU/impuestos",
-          "detalle": "xslF345X06/form4-06302026_120631.xml",
-          "empresa_sec": "Structure Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000196292626000005/xslF345X06/form4-06302026_120631.xml",
-          "form4_detail": {
-            "insider_nombre": "Lin Xichen",
-            "insider_cargo": "CHIEF SCIENTIFIC OFFICER",
-            "transaccion_codigo": "M",
-            "transaccion_tipo": "Ejercicio opción",
-            "transaccion_acciones": "23634",
-            "transaccion_precio": "0.34",
-            "transaccion_fecha": "2026-06-25",
-            "acciones_post": "252594",
-            "footnotes": "Reflects price per share in Ordinary Shares. The Ordinary Shares were converted into American Depositary Shares as reported in Table II. 1/4 of the Ordinary Shares vested one year after July 22, 2019 (the \"Vesting Commencement Date\"); the balance of the Ordinary Shares vested in a series of 36 successive equal monthly installments measured from the first anniversary of the Vesting Commencement Date. This reflects the number of Ordinary Shares remaining under the share option following the partial exercise of the share option for 23,634 Ordinary Shares. Each American Depositary Share is convertible at any time, at the holder's election, into three Ordinary Shares of the Issuer.  The American Depositary Shares have no expiration date. 23,634 Ordinary Shares, which were acquired upon exercise of a share option, were converted into 7,878 American Depositary Shares. The American Depositary Shares were sold pursuant to a Rule 10b5-1 trading plan entered into on March 26, 2026. Reflects price per share in American Depositary Shares.",
-            "es_rutinaria": true,
-            "resumen_detail": "Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 23,634 acciones @ $0.34 | Post: 252,594 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "ABVX": {
@@ -398,33 +397,10 @@
           "8k_detail": null,
           "10q_detail": null,
           "prospecto_detail": null
-        },
-        {
-          "form": "8-K",
-          "fecha": "2026-06-29",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Item 5.02: Cambio directivo relevante [Items: 5.02]",
-          "detalle": "CURRENT REPORT",
-          "empresa_sec": "Protara Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026073184/ea0296286-8k_protara.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "5.02"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. Protara Therapeutics, Inc. (the Company ) announced that Leonardo Viana Nicacio, M.D., Chief Medical Officer of the Company, resigned from the Company to explore other opportunities, effective as of June 26, 2026. Dr. Nicacio's duties will be subsumed by Carla Beckham, M.D., the Company's Lead Medical Director and Head of Clinical Development, and will continue under the oversight of Jacqueline Zummo, Ph.D., the Company's Chief Research &amp; Development Officer. 1 SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Date: June 29, 2026 Protara Therapeutics, Inc. By: /s/ Patrick Fabbio Patrick Fabbio Chief Financial Officer 2",
-            "nivel_ajustado": "amarillo",
-            "badge_ajustado": "🟡 MEDIA",
-            "resumen_ajustado": "Item 5.02: Cambio directivo relevante"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
         }
       ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "SENS": {
@@ -586,6 +562,62 @@
     }
   ],
   "todos_filings": [
+    {
+      "ticker": "VRTX",
+      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
+      "form": "8-K",
+      "fecha": "2026-07-07",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "8-K — Posible deuda/obligación financiera; revisar condiciones [Items: 1.01, 7.01, 8.01, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000119312526296710/d113650d8k.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "1.01",
+          "7.01",
+          "8.01",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 1.01. Entry into a Material Definitive Agreement. Merger Agreement On July 6, 2026, Vertex Pharmaceuticals Incorporated, a Massachusetts corporation ( Parent ), Clark Merger Sub, Inc., a Delaware corporation and a wholly owned subsidiary of Parent ( Merger Sub ), and Crinetics Pharmaceuticals, Inc., a Delaware corporation (the Company ), entered into an Agreement and Plan of Merger (the Merger Agreement ). Subject to the terms of the Merger Agreement, Merger Sub will be merged with and into the Company (the Merger ), with the Company surviving the Merger as a wholly owned subsidiary of Parent. Capitalized terms used herein and not otherwise defined herein have the meanings set forth in the Merger Agreement. On the terms and subject to the conditions set forth in the Merger Agreement, at the effective time of the Merger (the Effective Time ), each share of common stock of the Company, par value $0.001 per share (the Shares ) issued and outstanding immediately prior to the Effective Time (other than Shares owned by the Company or any subsidiary of the Company immediately prior to the Effective Time, Shares owned by Parent, Merger Sub or any other subsidiary of Parent immediately prior to the Effective Time, and Shares held by any person who is entitled to demand, and has properly demanded, appraisal in respect of such Shares pursuant to applicable law) will be canceled and automatically converted into the right to receive $85.00 per share in cash, without interest thereon and subject to applicable withholding taxes (the Merger Consideration ). Immediately prior to the Ef",
+        "nivel_ajustado": "amarillo",
+        "badge_ajustado": "🟡 MEDIA",
+        "resumen_ajustado": "8-K — Posible deuda/obligación financiera; revisar condiciones"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "VRTX",
+      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
+      "form": "4",
+      "fecha": "2026-07-06",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Liu Joy (EVP and Chief Legal Officer) → Venta 828 acciones @ $502.71 | Post: 19,131 | Rutinaria/RSU/impuestos",
+      "detalle": "FORM 4",
+      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000241/xslF345X06/wk-form4_1783368787.xml",
+      "form4_detail": {
+        "insider_nombre": "Liu Joy",
+        "insider_cargo": "EVP and Chief Legal Officer",
+        "transaccion_codigo": "S",
+        "transaccion_tipo": "Venta",
+        "transaccion_acciones": "828",
+        "transaccion_precio": "502.71",
+        "transaccion_fecha": "2026-07-01",
+        "acciones_post": "19131",
+        "footnotes": "Transaction made pursuant to Ms. Liu's company approved trading plan under Rule 10b5-1, which was entered into on 11/25/2025.",
+        "es_rutinaria": true,
+        "resumen_detail": "Liu Joy (EVP and Chief Legal Officer) → Venta 828 acciones @ $502.71 | Post: 19,131 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "BEAM",
       "nombre": "Beam Therapeutics Inc.",
@@ -879,87 +911,6 @@
         "riesgo_dilucion": null,
         "resumen_oferta": "ATM (At-The-Market)"
       }
-    },
-    {
-      "ticker": "BEAM",
-      "nombre": "Beam Therapeutics Inc.",
-      "form": "4",
-      "fecha": "2026-06-29",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "FMR LLC → Venta 33,372 acciones @ $35.12 | Post: 1,106,071",
-      "detalle": "4",
-      "empresa_sec": "Beam Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526288078/xslF345X06/ownership.xml",
-      "form4_detail": {
-        "insider_nombre": "FMR LLC",
-        "insider_cargo": null,
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "33372",
-        "transaccion_precio": "35.12",
-        "transaccion_fecha": "2026-06-25",
-        "acciones_post": "1106071",
-        "footnotes": "The price reported for this transaction is the weighted average price of multiple trades at prices ranging from $35.00 to $35.39. FMR LLC hereby undertakes to provide upon request by the Commission staff, the issuer, or a security holder of the issuer full information. The price reported for this transaction is the weighted average price of multiple trades at prices ranging from $35.00 to $35.88. FMR LLC hereby undertakes to provide upon request by the Commission staff, the issuer, or a security holder of the issuer full information.",
-        "es_rutinaria": false,
-        "resumen_detail": "FMR LLC → Venta 33,372 acciones @ $35.12 | Post: 1,106,071"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "GPCR",
-      "nombre": "Structure Therapeutics Inc.",
-      "form": "4",
-      "fecha": "2026-06-29",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 23,634 acciones @ $0.34 | Post: 252,594 | Rutinaria/RSU/impuestos",
-      "detalle": "xslF345X06/form4-06302026_120631.xml",
-      "empresa_sec": "Structure Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000196292626000005/xslF345X06/form4-06302026_120631.xml",
-      "form4_detail": {
-        "insider_nombre": "Lin Xichen",
-        "insider_cargo": "CHIEF SCIENTIFIC OFFICER",
-        "transaccion_codigo": "M",
-        "transaccion_tipo": "Ejercicio opción",
-        "transaccion_acciones": "23634",
-        "transaccion_precio": "0.34",
-        "transaccion_fecha": "2026-06-25",
-        "acciones_post": "252594",
-        "footnotes": "Reflects price per share in Ordinary Shares. The Ordinary Shares were converted into American Depositary Shares as reported in Table II. 1/4 of the Ordinary Shares vested one year after July 22, 2019 (the \"Vesting Commencement Date\"); the balance of the Ordinary Shares vested in a series of 36 successive equal monthly installments measured from the first anniversary of the Vesting Commencement Date. This reflects the number of Ordinary Shares remaining under the share option following the partial exercise of the share option for 23,634 Ordinary Shares. Each American Depositary Share is convertible at any time, at the holder's election, into three Ordinary Shares of the Issuer.  The American Depositary Shares have no expiration date. 23,634 Ordinary Shares, which were acquired upon exercise of a share option, were converted into 7,878 American Depositary Shares. The American Depositary Shares were sold pursuant to a Rule 10b5-1 trading plan entered into on March 26, 2026. Reflects price per share in American Depositary Shares.",
-        "es_rutinaria": true,
-        "resumen_detail": "Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 23,634 acciones @ $0.34 | Post: 252,594 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "TARA",
-      "nombre": "Protara Therapeutics, Inc.",
-      "form": "8-K",
-      "fecha": "2026-06-29",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Item 5.02: Cambio directivo relevante [Items: 5.02]",
-      "detalle": "CURRENT REPORT",
-      "empresa_sec": "Protara Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026073184/ea0296286-8k_protara.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "5.02"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. Protara Therapeutics, Inc. (the Company ) announced that Leonardo Viana Nicacio, M.D., Chief Medical Officer of the Company, resigned from the Company to explore other opportunities, effective as of June 26, 2026. Dr. Nicacio's duties will be subsumed by Carla Beckham, M.D., the Company's Lead Medical Director and Head of Clinical Development, and will continue under the oversight of Jacqueline Zummo, Ph.D., the Company's Chief Research &amp; Development Officer. 1 SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Date: June 29, 2026 Protara Therapeutics, Inc. By: /s/ Patrick Fabbio Patrick Fabbio Chief Financial Officer 2",
-        "nivel_ajustado": "amarillo",
-        "badge_ajustado": "🟡 MEDIA",
-        "resumen_ajustado": "Item 5.02: Cambio directivo relevante"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
     }
   ],
   "clinicaltrials": {

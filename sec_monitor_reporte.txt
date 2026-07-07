@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 06/07/2026 17:29 | Período: últimos 7 días
-Desde: 2026-06-29 → Hasta: 2026-07-06
+Generado: 07/07/2026 16:12 | Período: últimos 7 días
+Desde: 2026-06-30 → Hasta: 2026-07-07
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 14 filings | 🔴 1 | 🟢 0 | 🟡 6 | 🔵 7 | ✅ 10 sin novedad
+RESUMEN: 13 filings | 🔴 1 | 🟢 0 | 🟡 6 | 🔵 6 | ✅ 11 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (1)
@@ -29,29 +29,27 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [DNLI] Sin novedades
   ✅ [VKTX] Sin novedades
 
-  🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 1 filing(s)
+  🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 3 filing(s)
+     🟡 MEDIA 8-K | 2026-07-07 | 8-K — Posible deuda/obligación financiera; revisar condiciones [Items: 1.01, 7.01, 8.01, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/875320/000119312526296710/d113650d8k.htm
+     🟡 MEDIA 4 | 2026-07-06 | Liu Joy (EVP and Chief Legal Officer) → Venta 828 acciones @ $502.71 | Post: 19,131 | Rutinaria/RSU/impuestos
+     Insider: Liu Joy (EVP and Chief Legal Officer) → Venta 828 acciones @ $502.71 | Post: 19,131 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000241/xslF345X06/wk-form4_1783368787.xml
      🟡 MEDIA 4 | 2026-06-30 | Bozic Carmen (EVP and CMO) → Venta 596 acciones @ $482.50 | Post: 15,337 | Rutinaria/RSU/impuestos
      Insider: Bozic Carmen (EVP and CMO) → Venta 596 acciones @ $482.50 | Post: 15,337 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000239/xslF345X06/wk-form4_1782850180.xml
   ✅ [ALNY] Sin novedades
 
-  🟡 [BEAM] Beam Therapeutics Inc. — 3 filing(s)
+  🟡 [BEAM] Beam Therapeutics Inc. — 2 filing(s)
      🟡 MEDIA 4 | 2026-07-02 | Simon Amy (Chief Medical Officer) → Venta 373 acciones @ $34.73 | Post: 102,363 | Rutinaria/RSU/impuestos
      Insider: Simon Amy (Chief Medical Officer) → Venta 373 acciones @ $34.73 | Post: 102,363 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1745999/000119312526294478/xslF345X06/ownership.xml
      🔵 INFO 4 | 2026-07-01 | Evans John M. (CEO) → Ejercicio opción 18,663 acciones @ $0.67 | Post: 1,065,868 | Rutinaria/RSU/impuestos
      Insider: Evans John M. (CEO) → Ejercicio opción 18,663 acciones @ $0.67 | Post: 1,065,868 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1745999/000119312526292526/xslF345X06/ownership.xml
-     🟡 MEDIA 4 | 2026-06-29 | FMR LLC → Venta 33,372 acciones @ $35.12 | Post: 1,106,071
-     Insider: FMR LLC → Venta 33,372 acciones @ $35.12 | Post: 1,106,071
-     → https://www.sec.gov/Archives/edgar/data/1745999/000119312526288078/xslF345X06/ownership.xml
   ✅ [OCUL] Sin novedades
   ✅ [CAI] Sin novedades
-
-  🔵 [GPCR] Structure Therapeutics Inc. — 1 filing(s)
-     🔵 INFO 4 | 2026-06-29 | Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 23,634 acciones @ $0.34 | Post: 252,594 | Rutinaria/RSU/impuestos
-     Insider: Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 23,634 acciones @ $0.34 | Post: 252,594 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1888886/000196292626000005/xslF345X06/form4-06302026_120631.xml
+  ✅ [GPCR] Sin novedades
 
   🔴 [ABVX] Abivax S.A. — 2 filing(s)
      🟡 MEDIA 424B5 | 2026-07-02 | ATM (At-The-Market) · $125.0M · Dilución 🟡 MEDIO
@@ -63,12 +61,10 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [VERA] Sin novedades
   ✅ [ACRV] Sin novedades
 
-  🟡 [TARA] Protara Therapeutics, Inc. — 2 filing(s)
+  🔵 [TARA] Protara Therapeutics, Inc. — 1 filing(s)
      🔵 INFO 4 | 2026-07-01 | Shefferman Jesse (CEO and President) → Ejercicio opción 215,687 acciones @ $1.91 | Post: 937,519 | Rutinaria/RSU/impuestos
      Insider: Shefferman Jesse (CEO and President) → Ejercicio opción 215,687 acciones @ $1.91 | Post: 937,519 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026074238/xslF345X06/marketforms-73501.xml
-     🟡 MEDIA 8-K | 2026-06-29 | Item 5.02: Cambio directivo relevante [Items: 5.02]
-     → https://www.sec.gov/Archives/edgar/data/1359931/000121390026073184/ea0296286-8k_protara.htm
 
   🔵 [SENS] Senseonics Holdings, Inc. — 4 filing(s)
      🔵 INFO 4 | 2026-07-02 | Prince Douglas S → Concesión 1,515 acciones @ $5.36 | Post: 69,331 | Rutinaria/RSU/impuestos

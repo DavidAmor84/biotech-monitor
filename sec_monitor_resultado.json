@@ -1,13 +1,13 @@
 {
   "version": "v3",
-  "generado": "07/07/2026 16:12",
+  "generado": "08/07/2026 12:07",
   "periodo_dias": 7,
-  "desde": "2026-06-30",
-  "hasta": "2026-07-07",
+  "desde": "2026-07-01",
+  "hasta": "2026-07-08",
   "resumen": {
     "total_filings": 13,
-    "alertas_rojas": 1,
-    "alertas_verdes": 0,
+    "alertas_rojas": 0,
+    "alertas_verdes": 1,
     "alertas_amarillas": 6,
     "alertas_azules": 6,
     "sin_novedad": 11
@@ -41,36 +41,9 @@
       "cik": "0001818794",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-06-30",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Rhodes Jason P → Venta 162,954 acciones @ $21.28 | Post: 4,579,456 | Rutinaria/RSU/impuestos",
-          "detalle": "xslF345X06/form4-06302026_110610.xml",
-          "empresa_sec": "Dyne Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000157701426000012/xslF345X06/form4-06302026_110610.xml",
-          "form4_detail": {
-            "insider_nombre": "Rhodes Jason P",
-            "insider_cargo": null,
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "162954",
-            "transaccion_precio": "21.28",
-            "transaccion_fecha": "2026-06-26",
-            "acciones_post": "4579456",
-            "footnotes": "Shares were sold pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on March 19, 2026. The price reported in Column 4 is a weighted average price. These securities were sold in multiple transactions at prices ranging from $21.00 to $21.61 inclusive. The Reporting Persons undertake to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of securities sold at each separate price within the ranges set forth in footnotes (2) and (6). The shares are held directly by Atlas Venture Fund XI, L.P. (\"Atlas Venture Fund XI\"). The general partner of Atlas Venture Fund XI is Atlas Venture Associates XI, L.P. (\"AVA XI LP\"). Atlas Venture Associates XI, LLC (\"AVA XI LLC\") is the general partner of AVA XI LP. The Reporting Person is a member of AVA XI LLC and disclaims Section 16 beneficial ownership of such securities held by Atlas Venture Fund XI, except to the extent of his pecuniary interest therein, if any. The shares are owned directly by Atlas Venture Opportunity Fund II, L.P. (\"AVOF II\"). Atlas Venture Associates Opportunity II, LP (\"AVAO II LP\") is the general partner of AVOF II. Atlas Venture Associates Opportunity II, LLC (\"AVAO II LLC\") is the general partner of AVAO II LP. The Reporting Person is a member of AVAO II LLC and disclaims Section 16 beneficial ownership of such securities held by AVOF II, except to the extent of his pecuniary interest t",
-            "es_rutinaria": true,
-            "resumen_detail": "Rhodes Jason P → Venta 162,954 acciones @ $21.28 | Post: 4,579,456 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "DNLI": {
@@ -102,6 +75,58 @@
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
       "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-07-07",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Tatsis Ourania (EVP, Chief Reg. & Quality Off.) → Venta 1,500 acciones @ $524.99 | Post: 45,321 | Rutinaria/RSU/impuestos",
+          "detalle": "FORM 4",
+          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000245/xslF345X06/wk-form4_1783455338.xml",
+          "form4_detail": {
+            "insider_nombre": "Tatsis Ourania",
+            "insider_cargo": "EVP, Chief Reg. & Quality Off.",
+            "transaccion_codigo": "S",
+            "transaccion_tipo": "Venta",
+            "transaccion_acciones": "1500",
+            "transaccion_precio": "524.99",
+            "transaccion_fecha": "2026-07-02",
+            "acciones_post": "45321",
+            "footnotes": "Transaction made pursuant to Dr. Tatsis' company approved trading plan under Rule 10b5-1, which was entered into on 08/21/2025.",
+            "es_rutinaria": true,
+            "resumen_detail": "Tatsis Ourania (EVP, Chief Reg. & Quality Off.) → Venta 1,500 acciones @ $524.99 | Post: 45,321 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
+          "form": "4",
+          "fecha": "2026-07-07",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "McKechnie Duncan (EVP, Chief Commercial Officer) → Venta 1,541 acciones @ $519.00 | Post: 11,001 | Rutinaria/RSU/impuestos",
+          "detalle": "FORM 4",
+          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000243/xslF345X06/wk-form4_1783454880.xml",
+          "form4_detail": {
+            "insider_nombre": "McKechnie Duncan",
+            "insider_cargo": "EVP, Chief Commercial Officer",
+            "transaccion_codigo": "S",
+            "transaccion_tipo": "Venta",
+            "transaccion_acciones": "1541",
+            "transaccion_precio": "519",
+            "transaccion_fecha": "2026-07-02",
+            "acciones_post": "11001",
+            "footnotes": "Transaction made pursuant to Mr. McKechnie's company approved trading plan under Rule 10b5-1, which was entered into on 11/25/2025.",
+            "es_rutinaria": true,
+            "resumen_detail": "McKechnie Duncan (EVP, Chief Commercial Officer) → Venta 1,541 acciones @ $519.00 | Post: 11,001 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
         {
           "form": "8-K",
           "fecha": "2026-07-07",
@@ -149,32 +174,6 @@
             "footnotes": "Transaction made pursuant to Ms. Liu's company approved trading plan under Rule 10b5-1, which was entered into on 11/25/2025.",
             "es_rutinaria": true,
             "resumen_detail": "Liu Joy (EVP and Chief Legal Officer) → Venta 828 acciones @ $502.71 | Post: 19,131 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-06-30",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Bozic Carmen (EVP and CMO) → Venta 596 acciones @ $482.50 | Post: 15,337 | Rutinaria/RSU/impuestos",
-          "detalle": "FORM 4",
-          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
-          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000239/xslF345X06/wk-form4_1782850180.xml",
-          "form4_detail": {
-            "insider_nombre": "Bozic Carmen",
-            "insider_cargo": "EVP and CMO",
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "596",
-            "transaccion_precio": "482.50",
-            "transaccion_fecha": "2026-06-26",
-            "acciones_post": "15337",
-            "footnotes": "Transaction made pursuant to Dr. Bozic's company approved trading plan under Rule 10b5-1, which was entered into on 11/20/2025.",
-            "es_rutinaria": true,
-            "resumen_detail": "Bozic Carmen (EVP and CMO) → Venta 596 acciones @ $482.50 | Post: 15,337 | Rutinaria/RSU/impuestos"
           },
           "8k_detail": null,
           "10q_detail": null,
@@ -318,29 +317,10 @@
             "riesgo_dilucion": "🟡 MEDIO",
             "resumen_oferta": "ATM (At-The-Market) · $125.0M · Dilución 🟡 MEDIO"
           }
-        },
-        {
-          "form": "424B5",
-          "fecha": "2026-06-30",
-          "nivel": "rojo",
-          "badge": "🔴 ALTA",
-          "resumen": "ATM (At-The-Market)",
-          "detalle": "424B5",
-          "empresa_sec": "Abivax S.A.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1956827/000119312526290817/d111359d424b5.htm",
-          "form4_detail": null,
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": {
-            "importe_mm": null,
-            "tipo_oferta": "ATM (At-The-Market)",
-            "riesgo_dilucion": null,
-            "resumen_oferta": "ATM (At-The-Market)"
-          }
         }
       ],
-      "nivel": "rojo",
-      "badge": "🔴",
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "VERA": {
@@ -349,9 +329,33 @@
       "cik": "0001831828",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "8-K",
+          "fecha": "2026-07-07",
+          "nivel": "verde",
+          "badge": "🟢 ALTA",
+          "resumen": "8-K — Evento positivo potencial: Aprobación acelerada [Items: 8.01]",
+          "detalle": "8-K",
+          "empresa_sec": "Vera Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1831828/000119312526297211/vera-20260707.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "8.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 8.01 Other Events. On July 7, 2026, Vera Therapeutics, Inc. issued a press release announcing that the U.S. Food and Drug Administration has granted TRUTAKNA (atacicept-vymj) accelerated approval to reduce proteinuria in adults with primary immunoglobulin A nephropathy at risk for disease progression. SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Vera Therapeutics, Inc. Date: July 7, 2026 By: /s/ Marshall Fordyce Marshall Fordyce, M.D. Chief Executive Officer",
+            "nivel_ajustado": "verde",
+            "badge_ajustado": "🟢 ALTA",
+            "resumen_ajustado": "8-K — Evento positivo potencial: Aprobación acelerada"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "verde",
+      "badge": "🟢",
       "error": null
     },
     "ACRV": {
@@ -540,28 +544,88 @@
   },
   "alertas_criticas": [
     {
-      "ticker": "ABVX",
-      "nombre": "Abivax S.A.",
-      "form": "424B5",
-      "fecha": "2026-06-30",
-      "nivel": "rojo",
-      "badge": "🔴 ALTA",
-      "resumen": "ATM (At-The-Market)",
-      "detalle": "424B5",
-      "empresa_sec": "Abivax S.A.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1956827/000119312526290817/d111359d424b5.htm",
+      "ticker": "VERA",
+      "nombre": "Vera Therapeutics, Inc.",
+      "form": "8-K",
+      "fecha": "2026-07-07",
+      "nivel": "verde",
+      "badge": "🟢 ALTA",
+      "resumen": "8-K — Evento positivo potencial: Aprobación acelerada [Items: 8.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Vera Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1831828/000119312526297211/vera-20260707.htm",
       "form4_detail": null,
-      "8k_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "8.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 8.01 Other Events. On July 7, 2026, Vera Therapeutics, Inc. issued a press release announcing that the U.S. Food and Drug Administration has granted TRUTAKNA (atacicept-vymj) accelerated approval to reduce proteinuria in adults with primary immunoglobulin A nephropathy at risk for disease progression. SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Vera Therapeutics, Inc. Date: July 7, 2026 By: /s/ Marshall Fordyce Marshall Fordyce, M.D. Chief Executive Officer",
+        "nivel_ajustado": "verde",
+        "badge_ajustado": "🟢 ALTA",
+        "resumen_ajustado": "8-K — Evento positivo potencial: Aprobación acelerada"
+      },
       "10q_detail": null,
-      "prospecto_detail": {
-        "importe_mm": null,
-        "tipo_oferta": "ATM (At-The-Market)",
-        "riesgo_dilucion": null,
-        "resumen_oferta": "ATM (At-The-Market)"
-      }
+      "prospecto_detail": null
     }
   ],
   "todos_filings": [
+    {
+      "ticker": "VRTX",
+      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
+      "form": "4",
+      "fecha": "2026-07-07",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Tatsis Ourania (EVP, Chief Reg. & Quality Off.) → Venta 1,500 acciones @ $524.99 | Post: 45,321 | Rutinaria/RSU/impuestos",
+      "detalle": "FORM 4",
+      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000245/xslF345X06/wk-form4_1783455338.xml",
+      "form4_detail": {
+        "insider_nombre": "Tatsis Ourania",
+        "insider_cargo": "EVP, Chief Reg. & Quality Off.",
+        "transaccion_codigo": "S",
+        "transaccion_tipo": "Venta",
+        "transaccion_acciones": "1500",
+        "transaccion_precio": "524.99",
+        "transaccion_fecha": "2026-07-02",
+        "acciones_post": "45321",
+        "footnotes": "Transaction made pursuant to Dr. Tatsis' company approved trading plan under Rule 10b5-1, which was entered into on 08/21/2025.",
+        "es_rutinaria": true,
+        "resumen_detail": "Tatsis Ourania (EVP, Chief Reg. & Quality Off.) → Venta 1,500 acciones @ $524.99 | Post: 45,321 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "VRTX",
+      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
+      "form": "4",
+      "fecha": "2026-07-07",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "McKechnie Duncan (EVP, Chief Commercial Officer) → Venta 1,541 acciones @ $519.00 | Post: 11,001 | Rutinaria/RSU/impuestos",
+      "detalle": "FORM 4",
+      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000243/xslF345X06/wk-form4_1783454880.xml",
+      "form4_detail": {
+        "insider_nombre": "McKechnie Duncan",
+        "insider_cargo": "EVP, Chief Commercial Officer",
+        "transaccion_codigo": "S",
+        "transaccion_tipo": "Venta",
+        "transaccion_acciones": "1541",
+        "transaccion_precio": "519",
+        "transaccion_fecha": "2026-07-02",
+        "acciones_post": "11001",
+        "footnotes": "Transaction made pursuant to Mr. McKechnie's company approved trading plan under Rule 10b5-1, which was entered into on 11/25/2025.",
+        "es_rutinaria": true,
+        "resumen_detail": "McKechnie Duncan (EVP, Chief Commercial Officer) → Venta 1,541 acciones @ $519.00 | Post: 11,001 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "VRTX",
       "nombre": "VERTEX PHARMACEUTICALS INC / MA",
@@ -586,6 +650,31 @@
         "nivel_ajustado": "amarillo",
         "badge_ajustado": "🟡 MEDIA",
         "resumen_ajustado": "8-K — Posible deuda/obligación financiera; revisar condiciones"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "VERA",
+      "nombre": "Vera Therapeutics, Inc.",
+      "form": "8-K",
+      "fecha": "2026-07-07",
+      "nivel": "verde",
+      "badge": "🟢 ALTA",
+      "resumen": "8-K — Evento positivo potencial: Aprobación acelerada [Items: 8.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Vera Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1831828/000119312526297211/vera-20260707.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "8.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 8.01 Other Events. On July 7, 2026, Vera Therapeutics, Inc. issued a press release announcing that the U.S. Food and Drug Administration has granted TRUTAKNA (atacicept-vymj) accelerated approval to reduce proteinuria in adults with primary immunoglobulin A nephropathy at risk for disease progression. SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Vera Therapeutics, Inc. Date: July 7, 2026 By: /s/ Marshall Fordyce Marshall Fordyce, M.D. Chief Executive Officer",
+        "nivel_ajustado": "verde",
+        "badge_ajustado": "🟢 ALTA",
+        "resumen_ajustado": "8-K — Evento positivo potencial: Aprobación acelerada"
       },
       "10q_detail": null,
       "prospecto_detail": null
@@ -834,83 +923,6 @@
       "8k_detail": null,
       "10q_detail": null,
       "prospecto_detail": null
-    },
-    {
-      "ticker": "DYN",
-      "nombre": "Dyne Therapeutics, Inc.",
-      "form": "4",
-      "fecha": "2026-06-30",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Rhodes Jason P → Venta 162,954 acciones @ $21.28 | Post: 4,579,456 | Rutinaria/RSU/impuestos",
-      "detalle": "xslF345X06/form4-06302026_110610.xml",
-      "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000157701426000012/xslF345X06/form4-06302026_110610.xml",
-      "form4_detail": {
-        "insider_nombre": "Rhodes Jason P",
-        "insider_cargo": null,
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "162954",
-        "transaccion_precio": "21.28",
-        "transaccion_fecha": "2026-06-26",
-        "acciones_post": "4579456",
-        "footnotes": "Shares were sold pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on March 19, 2026. The price reported in Column 4 is a weighted average price. These securities were sold in multiple transactions at prices ranging from $21.00 to $21.61 inclusive. The Reporting Persons undertake to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of securities sold at each separate price within the ranges set forth in footnotes (2) and (6). The shares are held directly by Atlas Venture Fund XI, L.P. (\"Atlas Venture Fund XI\"). The general partner of Atlas Venture Fund XI is Atlas Venture Associates XI, L.P. (\"AVA XI LP\"). Atlas Venture Associates XI, LLC (\"AVA XI LLC\") is the general partner of AVA XI LP. The Reporting Person is a member of AVA XI LLC and disclaims Section 16 beneficial ownership of such securities held by Atlas Venture Fund XI, except to the extent of his pecuniary interest therein, if any. The shares are owned directly by Atlas Venture Opportunity Fund II, L.P. (\"AVOF II\"). Atlas Venture Associates Opportunity II, LP (\"AVAO II LP\") is the general partner of AVOF II. Atlas Venture Associates Opportunity II, LLC (\"AVAO II LLC\") is the general partner of AVAO II LP. The Reporting Person is a member of AVAO II LLC and disclaims Section 16 beneficial ownership of such securities held by AVOF II, except to the extent of his pecuniary interest t",
-        "es_rutinaria": true,
-        "resumen_detail": "Rhodes Jason P → Venta 162,954 acciones @ $21.28 | Post: 4,579,456 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "VRTX",
-      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
-      "form": "4",
-      "fecha": "2026-06-30",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Bozic Carmen (EVP and CMO) → Venta 596 acciones @ $482.50 | Post: 15,337 | Rutinaria/RSU/impuestos",
-      "detalle": "FORM 4",
-      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
-      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000239/xslF345X06/wk-form4_1782850180.xml",
-      "form4_detail": {
-        "insider_nombre": "Bozic Carmen",
-        "insider_cargo": "EVP and CMO",
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "596",
-        "transaccion_precio": "482.50",
-        "transaccion_fecha": "2026-06-26",
-        "acciones_post": "15337",
-        "footnotes": "Transaction made pursuant to Dr. Bozic's company approved trading plan under Rule 10b5-1, which was entered into on 11/20/2025.",
-        "es_rutinaria": true,
-        "resumen_detail": "Bozic Carmen (EVP and CMO) → Venta 596 acciones @ $482.50 | Post: 15,337 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "ABVX",
-      "nombre": "Abivax S.A.",
-      "form": "424B5",
-      "fecha": "2026-06-30",
-      "nivel": "rojo",
-      "badge": "🔴 ALTA",
-      "resumen": "ATM (At-The-Market)",
-      "detalle": "424B5",
-      "empresa_sec": "Abivax S.A.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1956827/000119312526290817/d111359d424b5.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": {
-        "importe_mm": null,
-        "tipo_oferta": "ATM (At-The-Market)",
-        "riesgo_dilucion": null,
-        "resumen_oferta": "ATM (At-The-Market)"
-      }
     }
   ],
   "clinicaltrials": {

@@ -1,43 +1,41 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 07/07/2026 16:12 | Período: últimos 7 días
-Desde: 2026-06-30 → Hasta: 2026-07-07
+Generado: 08/07/2026 12:07 | Período: últimos 7 días
+Desde: 2026-07-01 → Hasta: 2026-07-08
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 13 filings | 🔴 1 | 🟢 0 | 🟡 6 | 🔵 6 | ✅ 11 sin novedad
+RESUMEN: 13 filings | 🔴 0 | 🟢 1 | 🟡 6 | 🔵 6 | ✅ 11 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (1)
 ──────────────────────────────────────────────────
 
-  [ABVX] Abivax S.A.
-  🔴 ALTA 424B5 | 2026-06-30
-  ATM (At-The-Market)
-  Oferta: ATM (At-The-Market)
-  → https://www.sec.gov/Archives/edgar/data/1956827/000119312526290817/d111359d424b5.htm
+  [VERA] Vera Therapeutics, Inc.
+  🟢 ALTA 8-K | 2026-07-07
+  8-K — Evento positivo potencial: Aprobación acelerada [Items: 8.01]
+  → https://www.sec.gov/Archives/edgar/data/1831828/000119312526297211/vera-20260707.htm
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
 ──────────────────────────────────────────────────
   ✅ [SNDX] Sin novedades
   ✅ [ARGX] Sin novedades
-
-  🟡 [DYN] Dyne Therapeutics, Inc. — 1 filing(s)
-     🟡 MEDIA 4 | 2026-06-30 | Rhodes Jason P → Venta 162,954 acciones @ $21.28 | Post: 4,579,456 | Rutinaria/RSU/impuestos
-     Insider: Rhodes Jason P → Venta 162,954 acciones @ $21.28 | Post: 4,579,456 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1818794/000157701426000012/xslF345X06/form4-06302026_110610.xml
+  ✅ [DYN] Sin novedades
   ✅ [DNLI] Sin novedades
   ✅ [VKTX] Sin novedades
 
-  🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 3 filing(s)
+  🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 4 filing(s)
+     🟡 MEDIA 4 | 2026-07-07 | Tatsis Ourania (EVP, Chief Reg. & Quality Off.) → Venta 1,500 acciones @ $524.99 | Post: 45,321 | Rutinaria/RSU/impuestos
+     Insider: Tatsis Ourania (EVP, Chief Reg. & Quality Off.) → Venta 1,500 acciones @ $524.99 | Post: 45,321 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000245/xslF345X06/wk-form4_1783455338.xml
+     🟡 MEDIA 4 | 2026-07-07 | McKechnie Duncan (EVP, Chief Commercial Officer) → Venta 1,541 acciones @ $519.00 | Post: 11,001 | Rutinaria/RSU/impuestos
+     Insider: McKechnie Duncan (EVP, Chief Commercial Officer) → Venta 1,541 acciones @ $519.00 | Post: 11,001 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000243/xslF345X06/wk-form4_1783454880.xml
      🟡 MEDIA 8-K | 2026-07-07 | 8-K — Posible deuda/obligación financiera; revisar condiciones [Items: 1.01, 7.01, 8.01, 9.01]
      → https://www.sec.gov/Archives/edgar/data/875320/000119312526296710/d113650d8k.htm
      🟡 MEDIA 4 | 2026-07-06 | Liu Joy (EVP and Chief Legal Officer) → Venta 828 acciones @ $502.71 | Post: 19,131 | Rutinaria/RSU/impuestos
      Insider: Liu Joy (EVP and Chief Legal Officer) → Venta 828 acciones @ $502.71 | Post: 19,131 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000241/xslF345X06/wk-form4_1783368787.xml
-     🟡 MEDIA 4 | 2026-06-30 | Bozic Carmen (EVP and CMO) → Venta 596 acciones @ $482.50 | Post: 15,337 | Rutinaria/RSU/impuestos
-     Insider: Bozic Carmen (EVP and CMO) → Venta 596 acciones @ $482.50 | Post: 15,337 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000239/xslF345X06/wk-form4_1782850180.xml
   ✅ [ALNY] Sin novedades
 
   🟡 [BEAM] Beam Therapeutics Inc. — 2 filing(s)
@@ -51,14 +49,14 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [CAI] Sin novedades
   ✅ [GPCR] Sin novedades
 
-  🔴 [ABVX] Abivax S.A. — 2 filing(s)
+  🟡 [ABVX] Abivax S.A. — 1 filing(s)
      🟡 MEDIA 424B5 | 2026-07-02 | ATM (At-The-Market) · $125.0M · Dilución 🟡 MEDIO
      Oferta: ATM (At-The-Market) · $125.0M · Dilución 🟡 MEDIO
      → https://www.sec.gov/Archives/edgar/data/1956827/000119312526294491/d111359d424b5.htm
-     🔴 ALTA 424B5 | 2026-06-30 | ATM (At-The-Market)
-     Oferta: ATM (At-The-Market)
-     → https://www.sec.gov/Archives/edgar/data/1956827/000119312526290817/d111359d424b5.htm
-  ✅ [VERA] Sin novedades
+
+  🟢 [VERA] Vera Therapeutics, Inc. — 1 filing(s)
+     🟢 ALTA 8-K | 2026-07-07 | 8-K — Evento positivo potencial: Aprobación acelerada [Items: 8.01]
+     → https://www.sec.gov/Archives/edgar/data/1831828/000119312526297211/vera-20260707.htm
   ✅ [ACRV] Sin novedades
 
   🔵 [TARA] Protara Therapeutics, Inc. — 1 filing(s)

@@ -1,8 +1,8 @@
 {
-  "generado": "06/07/2026 17:30 UTC",
+  "generado": "08/07/2026 12:08 UTC",
   "plazo_horas": 72,
-  "desde": "2026-07-03",
-  "hasta": "2026-07-06",
+  "desde": "2026-07-05",
+  "hasta": "2026-07-08",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -12,9 +12,22 @@
     },
     "ARGX": {
       "nombre": "ARGX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ARGX",
+          "titulo": "RBC Capital Maintains Outperform on argenx, Raises Price Target to $945",
+          "resumen": "RBC Capital  analyst Luca Issi   maintains argenx (NASDAQ:ARGX) with a Outperform and raises the price target from $890 to $945.",
+          "fuente": "Benzinga",
+          "fecha": "07 Jul 2026 11:56 UTC",
+          "url": "https://finnhub.io/api/news?id=b1ce92fbd8c078c777fbac4e368e4c806c852b4830cb9ac0e6b2629858949c02",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "DYN": {
       "nombre": "DYN",
@@ -30,20 +43,33 @@
     },
     "VKTX": {
       "nombre": "VKTX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "VKTX",
+          "titulo": "Chip Rout Drags Nasdaq 100 Lower, Oil Climbs: Stock Market Today",
+          "resumen": "A deepening chipmaker slide pulls all major U.S. indexes lower Tuesday while oil climbs on a Strait of Hormuz strike and defensive sectors led the tape.",
+          "fuente": "Benzinga",
+          "fecha": "07 Jul 2026 13:20 UTC",
+          "url": "https://finnhub.io/api/news?id=88838d918ef36a68dd9a57ba3da664535632ea5d2c95962d93187f73ced0a534",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/07/Stock-Market-Crash-Over-City-Backdrop.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
         {
           "ticker": "VRTX",
-          "titulo": "Vertex Signs Letter of Intent (LOI) with the pan-Canadian Pharmaceutical Alliance for ALYFTREK for the Treatment of Cystic Fibrosis",
-          "resumen": "Vertex Pharmaceuticals today announced that it has signed a Letter of Intent (LOI) with the pan-Canadian Pharmaceutical Alliance (pCPA) for PrALYFTREK® (vanzacaftor/tezacaftor/deutivacaftor), a new triple combination therapy for the treatment of cystic fibrosis (CF) in patients aged 6 years and olde",
+          "titulo": "Viking Therapeutics (VKTX) Draws Takeover Focus After Vertex's $10 Billion Crinetics Deal",
+          "resumen": "Vertex Pharmaceuticals agreed to acquire Crinetics Pharmaceuticals for about US$10b, reigniting takeover speculation across the obesity drug sector. Following this deal, Viking Therapeutics (NasdaqCM:VKTX) has drawn fresh attention as a possible M&A target. Investor focus is increasing on upcoming d",
           "fuente": "Yahoo",
-          "fecha": "06 Jul 2026 14:22 UTC",
-          "url": "https://finnhub.io/api/news?id=09bfe4632fd1ad6a2881612f9c9f2461ad34732819ed3d53e6b73b3d018413bc",
+          "fecha": "08 Jul 2026 09:12 UTC",
+          "url": "https://finnhub.io/api/news?id=093edf349b6b567d5c293f0ac8a8491b0d399e592d30167978955680c4d1379b",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -51,11 +77,11 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "CRISPR Therapeutics vs. Viking Therapeutics: Which Healthcare Stock Is a Better Buy in 2026?",
-          "resumen": "One company leads in gene-editing approvals, while the other targets surging demand in metabolic treatments. Here’s how their financials and risk profiles compare.",
+          "titulo": "Vertex Is Paying a 102% Premium to Acquire Crinetics for $10 Billion. Here's Whether the Deal Is Worth It.",
+          "resumen": "This buy gives Vertex both a recently-commercialized drug, and a very strong lead candidate.",
           "fuente": "Yahoo",
-          "fecha": "06 Jul 2026 11:55 UTC",
-          "url": "https://finnhub.io/api/news?id=85d6f3740d72f24a15b0a7b2d9ec9bff61db5038ada9e3b50a657ba731c67b30",
+          "fecha": "08 Jul 2026 07:48 UTC",
+          "url": "https://finnhub.io/api/news?id=42e20c4f78b5d7fa6b079afa6f31b4bfe9537928845ffa1814e1302bc78586e7",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -63,31 +89,81 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "While SpaceX Gets the Headlines, Smart Investors Are Loading Up on This Stock Instead",
-          "resumen": "This big biotech stock doesn't get the hype that SpaceX does. But it could be the smarter bet right now.",
+          "titulo": "Strength Seen in CRINETICS PHARM (CRNX): Can Its 98.7% Jump Turn into More Strength?",
+          "resumen": "CRINETICS PHARM (CRNX) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might not help the stock continue moving higher in the near term.",
           "fuente": "Yahoo",
-          "fecha": "05 Jul 2026 09:04 UTC",
-          "url": "https://finnhub.io/api/news?id=3b0b044bcb0249279703d18169b8d8cc9b6f3b02d6d8753f2dcbbb75669f29ee",
+          "fecha": "08 Jul 2026 06:52 UTC",
+          "url": "https://finnhub.io/api/news?id=2302cd588f2b9ed71e70e8e266ac65567ea81fef90aa851924a7e09285d9f136",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "VKTX Vs BCRX: Which Biotech Takeover Favorite Offers More Upside After Vertex’s $10B CRNX Deal?",
+          "resumen": "Wall Street sees bigger upside in VKTX, with Koyfin’s average target implying 120% upside versus 99% for BCRX.",
+          "fuente": "Yahoo",
+          "fecha": "08 Jul 2026 05:11 UTC",
+          "url": "https://finnhub.io/api/news?id=a70293ebe98e19e67dedeb8cf9ce371a3c1d5aa0848d769bd645f7d54e878082",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Why Did CRNX, D, BCRX Stocks Surge To 52-Week Highs Today?",
+          "resumen": "Investors favored companies benefiting from biotech deals, rising power demand from AI data centers, and cost-cutting efforts to improve profits.",
+          "fuente": "Yahoo",
+          "fecha": "08 Jul 2026 03:34 UTC",
+          "url": "https://finnhub.io/api/news?id=302924a36eab9926010fffab59b808557440262affead14cf63dfd8c0e1baeda",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 5
+    },
+    "ALNY": {
+      "nombre": "ALNY",
+      "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "Can Alnylam's Drug Pipeline Fuel Its Long-Term Revenue Growth?",
+          "resumen": "ALNY's advancing pipeline and partnered programs can expand future revenue sources alongside its growing portfolio of approved therapies.",
+          "fuente": "Yahoo",
+          "fecha": "06 Jul 2026 15:55 UTC",
+          "url": "https://finnhub.io/api/news?id=a1cfc708dc4e87791be5070950f211a0e8b9d48ad9ed86bfaee9b1c7d09f3ad9",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
+    },
+    "BEAM": {
+      "nombre": "BEAM",
+      "noticias": [
+        {
+          "ticker": "BEAM",
+          "titulo": "HC Wainwright & Co. Reiterates Buy on Beam Therapeutics, Maintains $80 Price Target",
+          "resumen": "HC Wainwright &amp; Co.  analyst Patrick R. Trucchio   reiterates Beam Therapeutics (NASDAQ:BEAM) with a Buy and maintains $80 price target.",
+          "fuente": "Benzinga",
+          "fecha": "07 Jul 2026 06:22 UTC",
+          "url": "https://finnhub.io/api/news?id=948cc958e1c672298b57d6d96d7c7b98fd41eaeccc6ea6c8b9cd9423443fdc2b",
+          "imagen": "",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         }
       ],
-      "nivel": "rojo",
-      "total": 3
-    },
-    "ALNY": {
-      "nombre": "ALNY",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
-    },
-    "BEAM": {
-      "nombre": "BEAM",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "nivel": "azul",
+      "total": 1
     },
     "OCUL": {
       "nombre": "OCUL",
@@ -115,9 +191,70 @@
     },
     "VERA": {
       "nombre": "VERA",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "VERA",
+          "titulo": "Vera Therapeutics, Inc. (VERA) Discusses Accelerated FDA Approval of TRUTAKNA for IgA Nephropathy Transcript",
+          "resumen": "Vera Therapeutics, Inc. (VERA) Discusses Accelerated FDA Approval of TRUTAKNA for IgA Nephropathy July 7, 2026 4:30 PM EDTCompany ParticipantsSean Grant -...",
+          "fuente": "SeekingAlpha",
+          "fecha": "07 Jul 2026 19:12 UTC",
+          "url": "https://finnhub.io/api/news?id=78cdb489ef98ac3453be72f12bd03aa2b58049abf12fbf1e7c44d0dc643868a4",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VERA",
+          "titulo": "B of A Securities Maintains Buy on Vera Therapeutics, Raises Price Target to $70",
+          "resumen": "B of A Securities  analyst Dina Ramadane   maintains Vera Therapeutics (NASDAQ:VERA) with a Buy and raises the price target from $65 to $70.",
+          "fuente": "Benzinga",
+          "fecha": "07 Jul 2026 14:54 UTC",
+          "url": "https://finnhub.io/api/news?id=fd793533ba1ccc5638ad6a1b6d6565e890d8617ce95292c30fe7fe88d05f06eb",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VERA",
+          "titulo": "Why Is Vera Therapeutics Stock Gaining Tuesday?",
+          "resumen": "Vera Therapeutics (VERA) stock jumps 9% following FDA accelerated approval for its kidney disease drug Trutakna. Full analysis here.",
+          "fuente": "Benzinga",
+          "fecha": "07 Jul 2026 14:15 UTC",
+          "url": "https://finnhub.io/api/news?id=7d2cfdea29becfe7eb89da9a5e683f2e122aca2e9d702f6b91f1278425993065",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/07/FDA-Warns-Check-Can-Codes.jpg?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VERA",
+          "titulo": "FDA Approves Vera Therapeutics' Trutakna For Treatment Of Proteinuria In Adults With Primary Immunoglobulin A Nephropathy",
+          "resumen": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-new-treatment-reduce-proteinuria-adults-primary-immunoglobulin-nephropathy",
+          "fuente": "Benzinga",
+          "fecha": "07 Jul 2026 12:28 UTC",
+          "url": "https://finnhub.io/api/news?id=eb8a9021afa27cf8da08f3c02bc22d7abcd5cd9a1f157d411a1bd2616fdbc928",
+          "imagen": "",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VERA",
+          "titulo": "What's Going on with Vera Therapeutics Stock on Monday?",
+          "resumen": "Vera Therapeutics awaits the FDA&#39;s July 7 decision on atacicept for IgA nephropathy as investors weigh trial data and competition from Novartis.",
+          "fuente": "Benzinga",
+          "fecha": "06 Jul 2026 11:39 UTC",
+          "url": "https://finnhub.io/api/news?id=56d7338e9dd4c2b38bd8af19ff21b0d87f6e00cbd1e20005f631801e8d781a95",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/06/Chronic-Kidney-Disease--Medical-Organ--C.jpg?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 5
     },
     "ACRV": {
       "nombre": "ACRV",
@@ -139,25 +276,110 @@
     },
     "INSM": {
       "nombre": "INSM",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "INSM",
+          "titulo": "Monday's after hours session: top gainers and losers",
+          "resumen": "Discover the top movers in Monday's after-hours session and stay informed about the post-market dynamics.",
+          "fuente": "ChartMill",
+          "fecha": "06 Jul 2026 21:00 UTC",
+          "url": "https://finnhub.io/api/news?id=ad7870f7f628aa53007478fa19eef55b905682796ca389f23cbc1caa7ac629c4",
+          "imagen": "https://www.chartmill.com/images/uploads/CM_Aftermarket_Movers_Small_free_e077945a19.webp",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     }
   },
   "resumen": {
-    "total_noticias": 3,
-    "tickers_con_noticias": 1,
-    "alertas_urgentes": 1,
-    "sin_noticias": 16
+    "total_noticias": 15,
+    "tickers_con_noticias": 7,
+    "alertas_urgentes": 4,
+    "sin_noticias": 10
   },
   "todas_noticias": [
     {
-      "ticker": "VRTX",
-      "titulo": "CRISPR Therapeutics vs. Viking Therapeutics: Which Healthcare Stock Is a Better Buy in 2026?",
-      "resumen": "One company leads in gene-editing approvals, while the other targets surging demand in metabolic treatments. Here’s how their financials and risk profiles compare.",
+      "ticker": "VERA",
+      "titulo": "What's Going on with Vera Therapeutics Stock on Monday?",
+      "resumen": "Vera Therapeutics awaits the FDA&#39;s July 7 decision on atacicept for IgA nephropathy as investors weigh trial data and competition from Novartis.",
+      "fuente": "Benzinga",
+      "fecha": "06 Jul 2026 11:39 UTC",
+      "url": "https://finnhub.io/api/news?id=56d7338e9dd4c2b38bd8af19ff21b0d87f6e00cbd1e20005f631801e8d781a95",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/06/Chronic-Kidney-Disease--Medical-Organ--C.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Can Alnylam's Drug Pipeline Fuel Its Long-Term Revenue Growth?",
+      "resumen": "ALNY's advancing pipeline and partnered programs can expand future revenue sources alongside its growing portfolio of approved therapies.",
       "fuente": "Yahoo",
-      "fecha": "06 Jul 2026 11:55 UTC",
-      "url": "https://finnhub.io/api/news?id=85d6f3740d72f24a15b0a7b2d9ec9bff61db5038ada9e3b50a657ba731c67b30",
+      "fecha": "06 Jul 2026 15:55 UTC",
+      "url": "https://finnhub.io/api/news?id=a1cfc708dc4e87791be5070950f211a0e8b9d48ad9ed86bfaee9b1c7d09f3ad9",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Monday's after hours session: top gainers and losers",
+      "resumen": "Discover the top movers in Monday's after-hours session and stay informed about the post-market dynamics.",
+      "fuente": "ChartMill",
+      "fecha": "06 Jul 2026 21:00 UTC",
+      "url": "https://finnhub.io/api/news?id=ad7870f7f628aa53007478fa19eef55b905682796ca389f23cbc1caa7ac629c4",
+      "imagen": "https://www.chartmill.com/images/uploads/CM_Aftermarket_Movers_Small_free_e077945a19.webp",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VERA",
+      "titulo": "FDA Approves Vera Therapeutics' Trutakna For Treatment Of Proteinuria In Adults With Primary Immunoglobulin A Nephropathy",
+      "resumen": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-new-treatment-reduce-proteinuria-adults-primary-immunoglobulin-nephropathy",
+      "fuente": "Benzinga",
+      "fecha": "07 Jul 2026 12:28 UTC",
+      "url": "https://finnhub.io/api/news?id=eb8a9021afa27cf8da08f3c02bc22d7abcd5cd9a1f157d411a1bd2616fdbc928",
+      "imagen": "",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VERA",
+      "titulo": "Why Is Vera Therapeutics Stock Gaining Tuesday?",
+      "resumen": "Vera Therapeutics (VERA) stock jumps 9% following FDA accelerated approval for its kidney disease drug Trutakna. Full analysis here.",
+      "fuente": "Benzinga",
+      "fecha": "07 Jul 2026 14:15 UTC",
+      "url": "https://finnhub.io/api/news?id=7d2cfdea29becfe7eb89da9a5e683f2e122aca2e9d702f6b91f1278425993065",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/07/FDA-Warns-Check-Can-Codes.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VERA",
+      "titulo": "Vera Therapeutics, Inc. (VERA) Discusses Accelerated FDA Approval of TRUTAKNA for IgA Nephropathy Transcript",
+      "resumen": "Vera Therapeutics, Inc. (VERA) Discusses Accelerated FDA Approval of TRUTAKNA for IgA Nephropathy July 7, 2026 4:30 PM EDTCompany ParticipantsSean Grant -...",
+      "fuente": "SeekingAlpha",
+      "fecha": "07 Jul 2026 19:12 UTC",
+      "url": "https://finnhub.io/api/news?id=78cdb489ef98ac3453be72f12bd03aa2b58049abf12fbf1e7c44d0dc643868a4",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Why Did CRNX, D, BCRX Stocks Surge To 52-Week Highs Today?",
+      "resumen": "Investors favored companies benefiting from biotech deals, rising power demand from AI data centers, and cost-cutting efforts to improve profits.",
+      "fuente": "Yahoo",
+      "fecha": "08 Jul 2026 03:34 UTC",
+      "url": "https://finnhub.io/api/news?id=302924a36eab9926010fffab59b808557440262affead14cf63dfd8c0e1baeda",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
@@ -165,11 +387,11 @@
     },
     {
       "ticker": "VRTX",
-      "titulo": "Vertex Signs Letter of Intent (LOI) with the pan-Canadian Pharmaceutical Alliance for ALYFTREK for the Treatment of Cystic Fibrosis",
-      "resumen": "Vertex Pharmaceuticals today announced that it has signed a Letter of Intent (LOI) with the pan-Canadian Pharmaceutical Alliance (pCPA) for PrALYFTREK® (vanzacaftor/tezacaftor/deutivacaftor), a new triple combination therapy for the treatment of cystic fibrosis (CF) in patients aged 6 years and olde",
+      "titulo": "VKTX Vs BCRX: Which Biotech Takeover Favorite Offers More Upside After Vertex’s $10B CRNX Deal?",
+      "resumen": "Wall Street sees bigger upside in VKTX, with Koyfin’s average target implying 120% upside versus 99% for BCRX.",
       "fuente": "Yahoo",
-      "fecha": "06 Jul 2026 14:22 UTC",
-      "url": "https://finnhub.io/api/news?id=09bfe4632fd1ad6a2881612f9c9f2461ad34732819ed3d53e6b73b3d018413bc",
+      "fecha": "08 Jul 2026 05:11 UTC",
+      "url": "https://finnhub.io/api/news?id=a70293ebe98e19e67dedeb8cf9ce371a3c1d5aa0848d769bd645f7d54e878082",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
@@ -177,12 +399,84 @@
     },
     {
       "ticker": "VRTX",
-      "titulo": "While SpaceX Gets the Headlines, Smart Investors Are Loading Up on This Stock Instead",
-      "resumen": "This big biotech stock doesn't get the hype that SpaceX does. But it could be the smarter bet right now.",
+      "titulo": "Strength Seen in CRINETICS PHARM (CRNX): Can Its 98.7% Jump Turn into More Strength?",
+      "resumen": "CRINETICS PHARM (CRNX) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might not help the stock continue moving higher in the near term.",
       "fuente": "Yahoo",
-      "fecha": "05 Jul 2026 09:04 UTC",
-      "url": "https://finnhub.io/api/news?id=3b0b044bcb0249279703d18169b8d8cc9b6f3b02d6d8753f2dcbbb75669f29ee",
+      "fecha": "08 Jul 2026 06:52 UTC",
+      "url": "https://finnhub.io/api/news?id=2302cd588f2b9ed71e70e8e266ac65567ea81fef90aa851924a7e09285d9f136",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Is Paying a 102% Premium to Acquire Crinetics for $10 Billion. Here's Whether the Deal Is Worth It.",
+      "resumen": "This buy gives Vertex both a recently-commercialized drug, and a very strong lead candidate.",
+      "fuente": "Yahoo",
+      "fecha": "08 Jul 2026 07:48 UTC",
+      "url": "https://finnhub.io/api/news?id=42e20c4f78b5d7fa6b079afa6f31b4bfe9537928845ffa1814e1302bc78586e7",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Viking Therapeutics (VKTX) Draws Takeover Focus After Vertex's $10 Billion Crinetics Deal",
+      "resumen": "Vertex Pharmaceuticals agreed to acquire Crinetics Pharmaceuticals for about US$10b, reigniting takeover speculation across the obesity drug sector. Following this deal, Viking Therapeutics (NasdaqCM:VKTX) has drawn fresh attention as a possible M&A target. Investor focus is increasing on upcoming d",
+      "fuente": "Yahoo",
+      "fecha": "08 Jul 2026 09:12 UTC",
+      "url": "https://finnhub.io/api/news?id=093edf349b6b567d5c293f0ac8a8491b0d399e592d30167978955680c4d1379b",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "HC Wainwright & Co. Reiterates Buy on Beam Therapeutics, Maintains $80 Price Target",
+      "resumen": "HC Wainwright &amp; Co.  analyst Patrick R. Trucchio   reiterates Beam Therapeutics (NASDAQ:BEAM) with a Buy and maintains $80 price target.",
+      "fuente": "Benzinga",
+      "fecha": "07 Jul 2026 06:22 UTC",
+      "url": "https://finnhub.io/api/news?id=948cc958e1c672298b57d6d96d7c7b98fd41eaeccc6ea6c8b9cd9423443fdc2b",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "RBC Capital Maintains Outperform on argenx, Raises Price Target to $945",
+      "resumen": "RBC Capital  analyst Luca Issi   maintains argenx (NASDAQ:ARGX) with a Outperform and raises the price target from $890 to $945.",
+      "fuente": "Benzinga",
+      "fecha": "07 Jul 2026 11:56 UTC",
+      "url": "https://finnhub.io/api/news?id=b1ce92fbd8c078c777fbac4e368e4c806c852b4830cb9ac0e6b2629858949c02",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Chip Rout Drags Nasdaq 100 Lower, Oil Climbs: Stock Market Today",
+      "resumen": "A deepening chipmaker slide pulls all major U.S. indexes lower Tuesday while oil climbs on a Strait of Hormuz strike and defensive sectors led the tape.",
+      "fuente": "Benzinga",
+      "fecha": "07 Jul 2026 13:20 UTC",
+      "url": "https://finnhub.io/api/news?id=88838d918ef36a68dd9a57ba3da664535632ea5d2c95962d93187f73ced0a534",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/07/Stock-Market-Crash-Over-City-Backdrop.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VERA",
+      "titulo": "B of A Securities Maintains Buy on Vera Therapeutics, Raises Price Target to $70",
+      "resumen": "B of A Securities  analyst Dina Ramadane   maintains Vera Therapeutics (NASDAQ:VERA) with a Buy and raises the price target from $65 to $70.",
+      "fuente": "Benzinga",
+      "fecha": "07 Jul 2026 14:54 UTC",
+      "url": "https://finnhub.io/api/news?id=fd793533ba1ccc5638ad6a1b6d6565e890d8617ce95292c30fe7fe88d05f06eb",
+      "imagen": "",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

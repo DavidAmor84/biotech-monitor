@@ -1,8 +1,8 @@
 ====================================================================================
 CLINICALTRIALS MONITOR v9.3 · Modelo Biotech
-Generado: 07/07/2026 17:01
+Generado: 08/07/2026 16:08
 ====================================================================================
-RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 4 | 🟡 1 | 🔵 29 | Errores API: 0
+RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 4 | 🟡 0 | 🔵 30 | Errores API: 0
 
 ------------------------------------------------------------------------------------
 DETALLE POR EMPRESA
@@ -89,7 +89,7 @@ DETALLE POR EMPRESA
      Enrollment: 150
      Primary completion: 2028-07 ESTIMATED
      Study completion: 2029-01 ESTIMATED
-     Last update posted: 2026-06-30
+     Last update posted: 2026-07-08
      → https://clinicaltrials.gov/study/NCT07486934
 
 🟢 [VKTX] · Score relevancia: 29
@@ -125,7 +125,7 @@ DETALLE POR EMPRESA
      → https://clinicaltrials.gov/study/NCT06828055
 
 🟢 [ABVX] · Score relevancia: 28
-  🟡 ⭐⭐⭐ ABTECT mantenimiento 44sem — obefazimod (ABX464-107) — UC | Prioridad: alta | Validación: OK
+  🔵 ⭐⭐⭐ ABTECT mantenimiento 44sem — obefazimod (ABX464-107) — UC | Prioridad: alta | Validación: OK
      NCT: NCT05535946 | Status: Activo, sin reclutamiento | Tipo: pivotal_mantenimiento
      Catalizador: datos mantenimiento / NDA | Ventana: 2026
      Sponsor: Abivax S.A.

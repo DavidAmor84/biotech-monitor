@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "07/07/2026 17:01",
-  "fecha": "2026-07-07",
+  "generado": "08/07/2026 16:08",
+  "fecha": "2026-07-08",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -11,8 +11,8 @@
     "validacion_error": 0,
     "alertas_rojas": 0,
     "alertas_verdes": 4,
-    "alertas_amarillas": 1,
-    "alertas_azules": 29,
+    "alertas_amarillas": 0,
+    "alertas_azules": 30,
     "errores": 0
   },
   "empresas": {
@@ -156,7 +156,7 @@
           "study_completion_date": "2029-01",
           "study_completion_type": "ESTIMATED",
           "start_date": "2026-05-14",
-          "last_update_posted": "2026-06-30",
+          "last_update_posted": "2026-07-08",
           "conditions": [
             "Myotonic Dystrophy Type 1 (DM1)",
             "DM1",
@@ -198,7 +198,14 @@
           "ventana": "2028",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-06-30 → 2026-07-08"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -590,22 +597,9 @@
           "ventana": "2026",
           "monitorizar": true,
           "peso_importancia": 10,
-          "cambios": [
-            {
-              "tipo": "primary_completion_date",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Primary completion: 2026-04 → 2026-04-28"
-            },
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2025-10-24 → 2026-07-07"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         }
       ],
@@ -2299,7 +2293,14 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-06-30 → 2026-07-08"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT07486934"
     },
     {
@@ -2406,8 +2407,8 @@
       "ticker": "ABVX",
       "nct": "NCT05535946",
       "nombre": "ABTECT mantenimiento 44sem — obefazimod (ABX464-107) — UC",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "ACTIVE_NOT_RECRUITING",
       "primary_completion_date": "2026-04-28",
       "mensaje": "Activo, sin reclutamiento",
@@ -2419,20 +2420,7 @@
       "peso_importancia": 10,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "primary_completion_date",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Primary completion: 2026-04 → 2026-04-28"
-        },
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2025-10-24 → 2026-07-07"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT05535946"
     },
     {

@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "08/07/2026 12:07",
+  "generado": "09/07/2026 16:17",
   "periodo_dias": 7,
-  "desde": "2026-07-01",
-  "hasta": "2026-07-08",
+  "desde": "2026-07-02",
+  "hasta": "2026-07-09",
   "resumen": {
-    "total_filings": 13,
+    "total_filings": 14,
     "alertas_rojas": 0,
     "alertas_verdes": 1,
-    "alertas_amarillas": 6,
+    "alertas_amarillas": 7,
     "alertas_azules": 6,
-    "sin_novedad": 11
+    "sin_novedad": 10
   },
   "tickers": {
     "SNDX": {
@@ -41,9 +41,36 @@
       "cik": "0001818794",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-07-08",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Rhodes Jason P → Venta 253,039 acciones @ $22.79 | Post: 4,223,448 | Rutinaria/RSU/impuestos",
+          "detalle": "xslF345X06/form4-07082026_090708.xml",
+          "empresa_sec": "Dyne Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000157701426000014/xslF345X06/form4-07082026_090708.xml",
+          "form4_detail": {
+            "insider_nombre": "Rhodes Jason P",
+            "insider_cargo": null,
+            "transaccion_codigo": "S",
+            "transaccion_tipo": "Venta",
+            "transaccion_acciones": "253039",
+            "transaccion_precio": "22.79",
+            "transaccion_fecha": "2026-07-06",
+            "acciones_post": "4223448",
+            "footnotes": "Shares were sold pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on March 19, 2026. The price reported in Column 4 is a weighted average price. These securities were sold in multiple transactions at prices ranging from $22.4163 to $23.25 inclusive. The Reporting Persons undertake to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of securities sold at each separate price within the ranges set forth in footnotes (2) and (6) through (8). The shares are held directly by Atlas Venture Fund XI, L.P. (\"Atlas Venture Fund XI\"). The general partner of Atlas Venture Fund XI is Atlas Venture Associates XI, L.P. (\"AVA XI LP\"). Atlas Venture Associates XI, LLC (\"AVA XI LLC\") is the general partner of AVA XI LP. The Reporting Person is a member of AVA XI LLC and disclaims Section 16 beneficial ownership of such securities held by Atlas Venture Fund XI, except to the extent of his pecuniary interest therein, if any. The shares are owned directly by Atlas Venture Opportunity Fund II, L.P. (\"AVOF II\"). Atlas Venture Associates Opportunity II, LP (\"AVAO II LP\") is the general partner of AVOF II. Atlas Venture Associates Opportunity II, LLC (\"AVAO II LLC\") is the general partner of AVAO II LP. The Reporting Person is a member of AVAO II LLC and disclaims Section 16 beneficial ownership of such securities held by AVOF II, except to the extent of his pecuni",
+            "es_rutinaria": true,
+            "resumen_detail": "Rhodes Jason P → Venta 253,039 acciones @ $22.79 | Post: 4,223,448 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "DNLI": {
@@ -227,32 +254,6 @@
           "8k_detail": null,
           "10q_detail": null,
           "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-07-01",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Evans John M. (CEO) → Ejercicio opción 18,663 acciones @ $0.67 | Post: 1,065,868 | Rutinaria/RSU/impuestos",
-          "detalle": "4",
-          "empresa_sec": "Beam Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526292526/xslF345X06/ownership.xml",
-          "form4_detail": {
-            "insider_nombre": "Evans John M.",
-            "insider_cargo": "CEO",
-            "transaccion_codigo": "M",
-            "transaccion_tipo": "Ejercicio opción",
-            "transaccion_acciones": "18663",
-            "transaccion_precio": "0.67",
-            "transaccion_fecha": "2026-06-29",
-            "acciones_post": "1065868",
-            "footnotes": "The stock options were exercised and the shares of common stock were sold pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on May 16, 2025. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions ranging from $34.55 to $35.50, inclusive. The Reporting Person undertakes to provide to Beam Therapeutics Inc. (\"BEAM\"), any security holder of BEAM or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions ranging from $35.60 to $36.18, inclusive. The Reporting Person undertakes to provide to BEAM, any security holder of BEAM or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions ranging from $33.80 to $34.71, inclusive. The Reporting Person undertakes to provide to BEAM, any security holder of BEAM or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions ranging from $34.83 t",
-            "es_rutinaria": true,
-            "resumen_detail": "Evans John M. (CEO) → Ejercicio opción 18,663 acciones @ $0.67 | Post: 1,065,868 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
         }
       ],
       "nivel": "amarillo",
@@ -332,6 +333,29 @@
       "filings": [
         {
           "form": "8-K",
+          "fecha": "2026-07-09",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02]",
+          "detalle": "8-K",
+          "empresa_sec": "Vera Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1831828/000119312526299165/vera-20260709.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "5.02"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. On July 9, 2026, Vera Therapeutics, Inc. (the Company ) announced that William Turner will no longer serve as the Company s Chief Regulatory Officer and will transition to the role of Special Advisor for Regulatory Affairs, effective as of August 3, 2026. Nancy Bowman, M.D., Ph.D., will succeed Mr. Turner as the Company s Chief Regulatory Officer, effective as of August 3, 2026. SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Vera Therapeutics, Inc. Date: July 9, 2026 By: /s/ Marshall Fordyce Marshall Fordyce, M.D. Chief Executive Officer",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "Item 5.02: Plan de incentivos / compensación aprobado — informativo"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
+          "form": "8-K",
           "fecha": "2026-07-07",
           "nivel": "verde",
           "badge": "🟢 ALTA",
@@ -375,36 +399,9 @@
       "cik": "0001359931",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-07-01",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Shefferman Jesse (CEO and President) → Ejercicio opción 215,687 acciones @ $1.91 | Post: 937,519 | Rutinaria/RSU/impuestos",
-          "detalle": "PRIMARY DOCUMENT",
-          "empresa_sec": "Protara Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026074238/xslF345X06/marketforms-73501.xml",
-          "form4_detail": {
-            "insider_nombre": "Shefferman Jesse",
-            "insider_cargo": "CEO and President",
-            "transaccion_codigo": "M",
-            "transaccion_tipo": "Ejercicio opción",
-            "transaccion_acciones": "215687",
-            "transaccion_precio": "1.91",
-            "transaccion_fecha": "2026-06-29",
-            "acciones_post": "937519",
-            "footnotes": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $4.03 to $4.14, inclusive. The reporting person undertakes to provide to TARA, any security holder of TARA, or the staff of the SEC, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in this footnote. The Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of his pecuniary interest, and this report should not be deemed an admission that the Reporting Person or any other person named herein is the beneficial owner of such securities for purposes of Section 16 or for any other purpose. The reported securities held by the Samhold Family Trust were inadvertently included under the Reporting Person's direct holdings in the prior Form 4 filings filed by the Reporting Person on January 21, 2026, January 22, 2026 and January 27, 2026. 25% of the shares underlying the option vested on January 19, 2025 and the remaining shares have vested or will vest in equal monthly installments thereafter over the following 36 months, subject to the Reporting Person's continuous service with the Issuer as of each such date.",
-            "es_rutinaria": true,
-            "resumen_detail": "Shefferman Jesse (CEO and President) → Ejercicio opción 215,687 acciones @ $1.91 | Post: 937,519 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "SENS": {
@@ -529,9 +526,36 @@
       "cik": "0001104506",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-07-08",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Flammer Martina M.D. (Chief Medical Officer) → Ejercicio opción 7,945 acciones @ $29.13 | Post: 68,431 | Rutinaria/RSU/impuestos",
+          "detalle": "FORM 4",
+          "empresa_sec": "INSMED Inc",
+          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000179696026000018/xslF345X06/wk-form4_1783541018.xml",
+          "form4_detail": {
+            "insider_nombre": "Flammer Martina M.D.",
+            "insider_cargo": "Chief Medical Officer",
+            "transaccion_codigo": "M",
+            "transaccion_tipo": "Ejercicio opción",
+            "transaccion_acciones": "7945",
+            "transaccion_precio": "29.13",
+            "transaccion_fecha": "2026-07-06",
+            "acciones_post": "68431",
+            "footnotes": "This transaction was effected pursuant to a 10b5-1 trading plan adopted by the Reporting Person on February 27, 2025 in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934, as amended. This is the weighted average sales price representing 4,854 shares sold at prices ranging from $108.90 to $109.58 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. This is the weighted average sales price representing 7,448 shares sold at prices ranging from $110.36 to $110.71 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. The options become exercisable based on the following vesting schedule: 25% vest on the first anniversary of the grant date and an additional 12.5% vest on each sixth month anniversary date thereafter through the fourth anniversary of the date of grant.",
+            "es_rutinaria": true,
+            "resumen_detail": "Flammer Martina M.D. (Chief Medical Officer) → Ejercicio opción 7,945 acciones @ $29.13 | Post: 68,431 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "NWL": {
@@ -570,6 +594,87 @@
     }
   ],
   "todos_filings": [
+    {
+      "ticker": "VERA",
+      "nombre": "Vera Therapeutics, Inc.",
+      "form": "8-K",
+      "fecha": "2026-07-09",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02]",
+      "detalle": "8-K",
+      "empresa_sec": "Vera Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1831828/000119312526299165/vera-20260709.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "5.02"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. On July 9, 2026, Vera Therapeutics, Inc. (the Company ) announced that William Turner will no longer serve as the Company s Chief Regulatory Officer and will transition to the role of Special Advisor for Regulatory Affairs, effective as of August 3, 2026. Nancy Bowman, M.D., Ph.D., will succeed Mr. Turner as the Company s Chief Regulatory Officer, effective as of August 3, 2026. SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Vera Therapeutics, Inc. Date: July 9, 2026 By: /s/ Marshall Fordyce Marshall Fordyce, M.D. Chief Executive Officer",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "Item 5.02: Plan de incentivos / compensación aprobado — informativo"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "DYN",
+      "nombre": "Dyne Therapeutics, Inc.",
+      "form": "4",
+      "fecha": "2026-07-08",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Rhodes Jason P → Venta 253,039 acciones @ $22.79 | Post: 4,223,448 | Rutinaria/RSU/impuestos",
+      "detalle": "xslF345X06/form4-07082026_090708.xml",
+      "empresa_sec": "Dyne Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000157701426000014/xslF345X06/form4-07082026_090708.xml",
+      "form4_detail": {
+        "insider_nombre": "Rhodes Jason P",
+        "insider_cargo": null,
+        "transaccion_codigo": "S",
+        "transaccion_tipo": "Venta",
+        "transaccion_acciones": "253039",
+        "transaccion_precio": "22.79",
+        "transaccion_fecha": "2026-07-06",
+        "acciones_post": "4223448",
+        "footnotes": "Shares were sold pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on March 19, 2026. The price reported in Column 4 is a weighted average price. These securities were sold in multiple transactions at prices ranging from $22.4163 to $23.25 inclusive. The Reporting Persons undertake to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of securities sold at each separate price within the ranges set forth in footnotes (2) and (6) through (8). The shares are held directly by Atlas Venture Fund XI, L.P. (\"Atlas Venture Fund XI\"). The general partner of Atlas Venture Fund XI is Atlas Venture Associates XI, L.P. (\"AVA XI LP\"). Atlas Venture Associates XI, LLC (\"AVA XI LLC\") is the general partner of AVA XI LP. The Reporting Person is a member of AVA XI LLC and disclaims Section 16 beneficial ownership of such securities held by Atlas Venture Fund XI, except to the extent of his pecuniary interest therein, if any. The shares are owned directly by Atlas Venture Opportunity Fund II, L.P. (\"AVOF II\"). Atlas Venture Associates Opportunity II, LP (\"AVAO II LP\") is the general partner of AVOF II. Atlas Venture Associates Opportunity II, LLC (\"AVAO II LLC\") is the general partner of AVAO II LP. The Reporting Person is a member of AVAO II LLC and disclaims Section 16 beneficial ownership of such securities held by AVOF II, except to the extent of his pecuni",
+        "es_rutinaria": true,
+        "resumen_detail": "Rhodes Jason P → Venta 253,039 acciones @ $22.79 | Post: 4,223,448 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "INSM",
+      "nombre": "INSMED Inc",
+      "form": "4",
+      "fecha": "2026-07-08",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Flammer Martina M.D. (Chief Medical Officer) → Ejercicio opción 7,945 acciones @ $29.13 | Post: 68,431 | Rutinaria/RSU/impuestos",
+      "detalle": "FORM 4",
+      "empresa_sec": "INSMED Inc",
+      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000179696026000018/xslF345X06/wk-form4_1783541018.xml",
+      "form4_detail": {
+        "insider_nombre": "Flammer Martina M.D.",
+        "insider_cargo": "Chief Medical Officer",
+        "transaccion_codigo": "M",
+        "transaccion_tipo": "Ejercicio opción",
+        "transaccion_acciones": "7945",
+        "transaccion_precio": "29.13",
+        "transaccion_fecha": "2026-07-06",
+        "acciones_post": "68431",
+        "footnotes": "This transaction was effected pursuant to a 10b5-1 trading plan adopted by the Reporting Person on February 27, 2025 in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934, as amended. This is the weighted average sales price representing 4,854 shares sold at prices ranging from $108.90 to $109.58 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. This is the weighted average sales price representing 7,448 shares sold at prices ranging from $110.36 to $110.71 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. The options become exercisable based on the following vesting schedule: 25% vest on the first anniversary of the grant date and an additional 12.5% vest on each sixth month anniversary date thereafter through the fourth anniversary of the date of grant.",
+        "es_rutinaria": true,
+        "resumen_detail": "Flammer Martina M.D. (Chief Medical Officer) → Ejercicio opción 7,945 acciones @ $29.13 | Post: 68,431 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "VRTX",
       "nombre": "VERTEX PHARMACEUTICALS INC / MA",
@@ -867,62 +972,6 @@
       "8k_detail": null,
       "10q_detail": null,
       "prospecto_detail": null
-    },
-    {
-      "ticker": "BEAM",
-      "nombre": "Beam Therapeutics Inc.",
-      "form": "4",
-      "fecha": "2026-07-01",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Evans John M. (CEO) → Ejercicio opción 18,663 acciones @ $0.67 | Post: 1,065,868 | Rutinaria/RSU/impuestos",
-      "detalle": "4",
-      "empresa_sec": "Beam Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526292526/xslF345X06/ownership.xml",
-      "form4_detail": {
-        "insider_nombre": "Evans John M.",
-        "insider_cargo": "CEO",
-        "transaccion_codigo": "M",
-        "transaccion_tipo": "Ejercicio opción",
-        "transaccion_acciones": "18663",
-        "transaccion_precio": "0.67",
-        "transaccion_fecha": "2026-06-29",
-        "acciones_post": "1065868",
-        "footnotes": "The stock options were exercised and the shares of common stock were sold pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on May 16, 2025. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions ranging from $34.55 to $35.50, inclusive. The Reporting Person undertakes to provide to Beam Therapeutics Inc. (\"BEAM\"), any security holder of BEAM or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions ranging from $35.60 to $36.18, inclusive. The Reporting Person undertakes to provide to BEAM, any security holder of BEAM or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions ranging from $33.80 to $34.71, inclusive. The Reporting Person undertakes to provide to BEAM, any security holder of BEAM or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions ranging from $34.83 t",
-        "es_rutinaria": true,
-        "resumen_detail": "Evans John M. (CEO) → Ejercicio opción 18,663 acciones @ $0.67 | Post: 1,065,868 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "TARA",
-      "nombre": "Protara Therapeutics, Inc.",
-      "form": "4",
-      "fecha": "2026-07-01",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Shefferman Jesse (CEO and President) → Ejercicio opción 215,687 acciones @ $1.91 | Post: 937,519 | Rutinaria/RSU/impuestos",
-      "detalle": "PRIMARY DOCUMENT",
-      "empresa_sec": "Protara Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026074238/xslF345X06/marketforms-73501.xml",
-      "form4_detail": {
-        "insider_nombre": "Shefferman Jesse",
-        "insider_cargo": "CEO and President",
-        "transaccion_codigo": "M",
-        "transaccion_tipo": "Ejercicio opción",
-        "transaccion_acciones": "215687",
-        "transaccion_precio": "1.91",
-        "transaccion_fecha": "2026-06-29",
-        "acciones_post": "937519",
-        "footnotes": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $4.03 to $4.14, inclusive. The reporting person undertakes to provide to TARA, any security holder of TARA, or the staff of the SEC, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in this footnote. The Reporting Person disclaims beneficial ownership of the securities reported herein except to the extent of his pecuniary interest, and this report should not be deemed an admission that the Reporting Person or any other person named herein is the beneficial owner of such securities for purposes of Section 16 or for any other purpose. The reported securities held by the Samhold Family Trust were inadvertently included under the Reporting Person's direct holdings in the prior Form 4 filings filed by the Reporting Person on January 21, 2026, January 22, 2026 and January 27, 2026. 25% of the shares underlying the option vested on January 19, 2025 and the remaining shares have vested or will vest in equal monthly installments thereafter over the following 36 months, subject to the Reporting Person's continuous service with the Issuer as of each such date.",
-        "es_rutinaria": true,
-        "resumen_detail": "Shefferman Jesse (CEO and President) → Ejercicio opción 215,687 acciones @ $1.91 | Post: 937,519 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
     }
   ],
   "clinicaltrials": {
@@ -994,7 +1043,7 @@
         "nivel": "verde",
         "badge": "🟢",
         "enrollment": 150,
-        "ultima_actualizacion": "2026-06-30",
+        "ultima_actualizacion": "2026-07-08",
         "fecha_completion_primaria": "2028-07",
         "changed": true,
         "url": "https://clinicaltrials.gov/study/NCT07486934"

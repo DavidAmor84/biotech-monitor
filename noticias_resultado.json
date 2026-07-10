@@ -1,8 +1,8 @@
 {
-  "generado": "09/07/2026 16:38 UTC",
+  "generado": "10/07/2026 16:07 UTC",
   "plazo_horas": 72,
-  "desde": "2026-07-06",
-  "hasta": "2026-07-09",
+  "desde": "2026-07-07",
+  "hasta": "2026-07-10",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -25,22 +25,9 @@
     },
     "ARGX": {
       "nombre": "ARGX",
-      "noticias": [
-        {
-          "ticker": "ARGX",
-          "titulo": "RBC Capital Maintains Outperform on argenx, Raises Price Target to $945",
-          "resumen": "RBC Capital  analyst Luca Issi   maintains argenx (NASDAQ:ARGX) with a Outperform and raises the price target from $890 to $945.",
-          "fuente": "Benzinga",
-          "fecha": "07 Jul 2026 11:56 UTC",
-          "url": "https://finnhub.io/api/news?id=b1ce92fbd8c078c777fbac4e368e4c806c852b4830cb9ac0e6b2629858949c02",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "DYN": {
       "nombre": "DYN",
@@ -68,85 +55,73 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "Chip Rout Drags Nasdaq 100 Lower, Oil Climbs: Stock Market Today",
-          "resumen": "A deepening chipmaker slide pulls all major U.S. indexes lower Tuesday while oil climbs on a Strait of Hormuz strike and defensive sectors led the tape.",
-          "fuente": "Benzinga",
-          "fecha": "07 Jul 2026 13:20 UTC",
-          "url": "https://finnhub.io/api/news?id=88838d918ef36a68dd9a57ba3da664535632ea5d2c95962d93187f73ced0a534",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/07/Stock-Market-Crash-Over-City-Backdrop.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "azul",
-      "total": 2
+      "total": 1
     },
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
         {
           "ticker": "VRTX",
-          "titulo": "Jim Cramer Says Biotech is The Hottest Group in The Market Right Now",
-          "resumen": "CNBC’s Jim Cramer pushed viewers away from the usual semiconductor and hyperscaler chatter. Instead, he highlighted a group he says has quietly become the market’s leader. “There is a move in biotech that we have not talked about at all that is really extraordinary, and particularly since the change",
+          "titulo": "If You Invested $1000 in Vertex Pharmaceuticals a Decade Ago, This is How Much It'd Be Worth Now",
+          "resumen": "Why investing for the long run, especially if you buy certain popular stocks, could reap huge rewards.",
           "fuente": "Yahoo",
-          "fecha": "09 Jul 2026 15:35 UTC",
-          "url": "https://finnhub.io/api/news?id=553e10dc88f8db461878d38f0666f117101c8f854c6a22e5273fb7ce1784b80d",
+          "fecha": "10 Jul 2026 12:30 UTC",
+          "url": "https://finnhub.io/api/news?id=af70857a11cc855d135aa4dbacdfb09561eefbc7830e6114b9d2980a93d0ad6f",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Beyond The Breakout Drug: Is BridgeBio Pharma Stock A Buy On Its Next Act?",
+          "resumen": "With its lead drug driving rapid growth and three more on deck, the biotech is betting it can outrun future competition and a history of volatility.",
+          "fuente": "Yahoo",
+          "fecha": "10 Jul 2026 12:14 UTC",
+          "url": "https://finnhub.io/api/news?id=261335ddb3a4405ad09573cc88858404a83f044cb91dc30fe6fb403e911b1373",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "The Long Climb Back For Ionis Stock",
+          "resumen": "A look at the company's history of deep drawdowns shows the real risk shareholders are carrying today.",
+          "fuente": "Yahoo",
+          "fecha": "10 Jul 2026 11:35 UTC",
+          "url": "https://finnhub.io/api/news?id=70bace5e39146e0e64ac0773b15c6a491cc88cb329eb3be14cd2305070834fcd",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex Pharmaceuticals Just Made a $10 Billion Move. Is the Stock a Buy?",
+          "resumen": "Additional blockbuster drugs may be on the horizon.",
+          "fuente": "Yahoo",
+          "fecha": "10 Jul 2026 08:25 UTC",
+          "url": "https://finnhub.io/api/news?id=cdd9c810230d73c852b260a9d4bceec99d4b0eebc8f9e6457c65267d2e0ad5c7",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex (VRTX) is One of the Best QQQ Stocks to Invest in",
+          "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) is one of the best QQQ Stocks to invest in. On July 1, Vertex Pharmaceuticals announced that the US FDA approved the expanded use of its genetic therapy, CASGEVY, to treat children as young as 2 years old. This makes it the first and only approved gene therapy fo",
+          "fuente": "Yahoo",
+          "fecha": "09 Jul 2026 18:37 UTC",
+          "url": "https://finnhub.io/api/news?id=73dd4ee0879bf24374581d5aa1a77260cfbe8b63a6339577b193b70be26a497b",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Cystic Fibrosis Market, Global & Regional Now Available; Profiles Vertex Pharmaceuticals, AbbVie, and Other Frontrunner Competitors in Orphan Drug Markets",
-          "resumen": "The cystic fibrosis market is expanding due to rising disease prevalence and advancements in targeted therapies and precision medicine. Predominantly affecting Western populations, over 30,000 people in the U.S. live with this genetic disorder. The demand for cystic fibrosis therapies is driven by n",
-          "fuente": "Yahoo",
-          "fecha": "09 Jul 2026 15:26 UTC",
-          "url": "https://finnhub.io/api/news?id=ff73aa141d7117de4953b3a8c5dac95fb022c08cd27a3ad995d33e371ff05606",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "1 Momentum  Stock to Research Further and 2 Facing Headwinds",
-          "resumen": "Exciting developments are taking place for the stocks in this article. They’ve all surged ahead of the broader market over the last month as catalysts such as new products and positive media coverage have propelled their returns.",
-          "fuente": "Yahoo",
-          "fecha": "09 Jul 2026 07:49 UTC",
-          "url": "https://finnhub.io/api/news?id=7d568a47c8ad16b91d73b1c96aa5bfe5a734482183673771b763e535d2afd1c4",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Nvidia, Vertex Pharmaceuticals And More On CNBC’s ‘Final Trades’",
-          "resumen": "The Halftime Report Final Trades featured stock picks from Bryn Talkington, Jim Lebenthal, Liz Young Thomas, and Joseph M. Terranova.",
-          "fuente": "Benzinga",
-          "fecha": "09 Jul 2026 07:45 UTC",
-          "url": "https://finnhub.io/api/news?id=10ee6961d749320bbe6f5493aa7cd89e579980c9c25c75c0a3637ceb4d7cec88",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/09/Nvidia-logo-on-smartphone-screen-with-Ch.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Why Did PENG, ANET, BCRX Shares Surge To 52-Week Highs?",
-          "resumen": "Penguin Solutions, Arista Networks, and Biocryst Pharmaceuticals surged to 52-week highs on Wednesday amid a rotation into technology and healthcare stocks.",
-          "fuente": "Yahoo",
-          "fecha": "09 Jul 2026 03:39 UTC",
-          "url": "https://finnhub.io/api/news?id=b51355813fb0db28e4890bf556e8770afbd41f58f0985074d5473b6d81753f73",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -157,59 +132,59 @@
       "noticias": [
         {
           "ticker": "ALNY",
-          "titulo": "Jim Cramer Says Biotech is The Hottest Group in The Market Right Now",
-          "resumen": "CNBC’s Jim Cramer pushed viewers away from the usual semiconductor and hyperscaler chatter. Instead, he highlighted a group he says has quietly become the market’s leader. “There is a move in biotech that we have not talked about at all that is really extraordinary, and particularly since the change",
+          "titulo": "Beyond The Breakout Drug: Is BridgeBio Pharma Stock A Buy On Its Next Act?",
+          "resumen": "With its lead drug driving rapid growth and three more on deck, the biotech is betting it can outrun future competition and a history of volatility.",
           "fuente": "Yahoo",
-          "fecha": "09 Jul 2026 15:35 UTC",
-          "url": "https://finnhub.io/api/news?id=553e10dc88f8db461878d38f0666f117101c8f854c6a22e5273fb7ce1784b80d",
+          "fecha": "10 Jul 2026 12:14 UTC",
+          "url": "https://finnhub.io/api/news?id=261335ddb3a4405ad09573cc88858404a83f044cb91dc30fe6fb403e911b1373",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Why AstraZeneca Crashed 8%, Leading Three Rivals, Including Pfizer, To Jump",
-          "resumen": "AstraZeneca stock crashed Thursday after its Ionis-partnered treatment for a rare heart disease failed in Phase 3 testing.",
-          "fuente": "Yahoo",
-          "fecha": "09 Jul 2026 12:54 UTC",
-          "url": "https://finnhub.io/api/news?id=baad14237a296505b0f589808df734d3452f7c8dbc22fee130edb502eb4c71f1",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "AstraZeneca and Ionis Stocks Sink on Trial Miss and Analysts See an Overreaction",
-          "resumen": "AstraZeneca and California-based biotech Ionis Pharmaceuticals announce a late-stage trial failure for their gene silencing drug, Wainua.",
-          "fuente": "Yahoo",
-          "fecha": "09 Jul 2026 12:45 UTC",
-          "url": "https://finnhub.io/api/news?id=ba16631660d3a48a5ae531367822bcf906cdafae0322973ac498035a39a0af61",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Discover the top movers in Thursday's pre-market session.",
-          "resumen": "Discover the top movers in Thursday's pre-market session and stay informed about market dynamics.",
-          "fuente": "ChartMill",
-          "fecha": "09 Jul 2026 12:30 UTC",
-          "url": "https://finnhub.io/api/news?id=729973ba6ef5cef09f60d3a157a5ee167d5ba08d737131f01200c8cbf2d2da96",
-          "imagen": "https://www.chartmill.com/images/uploads/CM_Premarket_Movers_Small_free_90289f6b81.webp",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         },
         {
           "ticker": "ALNY",
-          "titulo": "AstraZeneca stock drops 9% after Wainua heart drug trial fails",
-          "resumen": "The British drugmaker lost roughly $27 billion in market value after Wainua failed to reduce cardiovascular deaths and recurring heart events",
+          "titulo": "The Long Climb Back For Ionis Stock",
+          "resumen": "A look at the company's history of deep drawdowns shows the real risk shareholders are carrying today.",
           "fuente": "Yahoo",
-          "fecha": "09 Jul 2026 11:14 UTC",
-          "url": "https://finnhub.io/api/news?id=46963d95be8d51c813e9faf8f46a392bfdd1850e2a1aea17bb2e842f41b7b0bc",
+          "fecha": "10 Jul 2026 11:35 UTC",
+          "url": "https://finnhub.io/api/news?id=70bace5e39146e0e64ac0773b15c6a491cc88cb329eb3be14cd2305070834fcd",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam Pharmaceuticals (ALNY) Stock Looks Rich On Earnings Yet Strong On Returns",
+          "resumen": "Alnylam Pharmaceuticals stock has delivered an 81.9% gain over the past 5 years, yet current valuation checks and market multiples point to a more mixed picture rather than a clear bargain. Over 5 years, Alnylam Pharmaceuticals has returned 81.9%, which sets a high bar for any further upside case. R",
+          "fuente": "Yahoo",
+          "fecha": "10 Jul 2026 09:13 UTC",
+          "url": "https://finnhub.io/api/news?id=568b7bd8c9f23814d8119e26c68ac684a3dc6e572a3a0fb1b68df8b1db3d54ff",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Why AstraZeneca Crashed 6%, Leading Two Rivals, Including Pfizer, To Jump",
+          "resumen": "AstraZeneca stock crashed Thursday after its Ionis-partnered treatment for a rare heart disease failed in Phase 3 testing.",
+          "fuente": "Yahoo",
+          "fecha": "09 Jul 2026 20:26 UTC",
+          "url": "https://finnhub.io/api/news?id=b3d351adc993be520435759189d72560b105017da985670db5e2dac92e23e062",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Jim Cramer Says Biotech is The Hottest Group in The Market Right Now",
+          "resumen": "CNBC’s Jim Cramer pushed viewers away from the usual semiconductor and hyperscaler chatter. Instead, he highlighted a group he says has quietly become the market’s leader. “There is a move in biotech that we have not talked about at all that is really extraordinary, and particularly since the change",
+          "fuente": "Yahoo",
+          "fecha": "09 Jul 2026 15:35 UTC",
+          "url": "https://finnhub.io/api/news?id=553e10dc88f8db461878d38f0666f117101c8f854c6a22e5273fb7ce1784b80d",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -257,22 +232,10 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "BEAM",
-          "titulo": "HC Wainwright & Co. Reiterates Buy on Beam Therapeutics, Maintains $80 Price Target",
-          "resumen": "HC Wainwright &amp; Co.  analyst Patrick R. Trucchio   reiterates Beam Therapeutics (NASDAQ:BEAM) with a Buy and maintains $80 price target.",
-          "fuente": "Benzinga",
-          "fecha": "07 Jul 2026 06:22 UTC",
-          "url": "https://finnhub.io/api/news?id=948cc958e1c672298b57d6d96d7c7b98fd41eaeccc6ea6c8b9cd9423443fdc2b",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "azul",
-      "total": 4
+      "total": 3
     },
     "OCUL": {
       "nombre": "OCUL",
@@ -307,13 +270,74 @@
     },
     "ABVX": {
       "nombre": "ABVX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ABVX",
+          "titulo": "9 Health Care Stocks With Whale Alerts In Today’s Session",
+          "resumen": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
+          "fuente": "Benzinga",
+          "fecha": "09 Jul 2026 13:35 UTC",
+          "url": "https://finnhub.io/api/news?id=f85d59ff5cf636e53f4a04b2a9899cbee55215709e026bf0dbff25839923e5cd",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ABVX",
+          "titulo": "Piper Sandler Maintains Overweight on Abivax, Raises Price Target to $175",
+          "resumen": "Piper Sandler  analyst Allison Bratzel   maintains Abivax (NASDAQ:ABVX) with a Overweight and raises the price target from $165 to $175.",
+          "fuente": "Benzinga",
+          "fecha": "09 Jul 2026 11:59 UTC",
+          "url": "https://finnhub.io/api/news?id=77533a58d0d1090fe97c02589909bdc22c912fbd84866329fdc3eaac22f76f92",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 2
     },
     "VERA": {
       "nombre": "VERA",
       "noticias": [
+        {
+          "ticker": "VERA",
+          "titulo": "Vera Therapeutics (VERA) Stock Looks Fully Valued After Its 185% Run",
+          "resumen": "Vera Therapeutics has delivered a strong 184.9% return over the past 5 years, yet its valuation checks and current market multiples point to a stock that may now be leaning expensive rather than clearly cheap. With accelerated FDA approval for Trutakna helping to reshape expectations, the question i",
+          "fuente": "Yahoo",
+          "fecha": "10 Jul 2026 11:14 UTC",
+          "url": "https://finnhub.io/api/news?id=7c94185f6b7ac8375d1fec6639a60fbb3be47e37b0bb282ad85911c7437d835d",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VERA",
+          "titulo": "Vera Therapeutics: A Crowded IgAN Market Leaves No Room For A Premium (Downgrade)",
+          "resumen": "Vera Therapeutics faces tough IgAN competition as Trutakna looks late and undifferentiated. A rich valuation adds risk. Read the latest analysis on the VERA stock here.",
+          "fuente": "SeekingAlpha",
+          "fecha": "09 Jul 2026 15:10 UTC",
+          "url": "https://finnhub.io/api/news?id=762d7df6bd092caca684b1bfed005e599f279d5a4db39f8d568393b760f8b414",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1336638723/image_1336638723.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VERA",
+          "titulo": "Vera Therapeutics Announces Appointment of Nancy Boman as Chief Regulatory Officer and Planned Retirement of William Turner",
+          "resumen": "BRISBANE, Calif., July 09, 2026 (GLOBE NEWSWIRE) -- Vera Therapeutics, Inc. (Nasdaq: VERA), a commercial-stage biotechnology company, today announced a planned transition of the Chief Regulatory Officer position. William Turner, current Chief Regulatory Officer of Vera Therapeutics, is planning to r",
+          "fuente": "Yahoo",
+          "fecha": "09 Jul 2026 12:00 UTC",
+          "url": "https://finnhub.io/api/news?id=a9af47b7cc2e68599fc57e8b5e525a0a161314f16837887a0607a58978f8fe33",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "VERA",
           "titulo": "TD Cowen Maintains Buy on Vera Therapeutics, Raises Price Target to $78",
@@ -337,45 +361,9 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "VERA",
-          "titulo": "CORRECTION: Wedbush Maintains Neutral On Vera Therapeutics, Raises Price Target To $43",
-          "resumen": "Wedbush analyst Laura Chico maintains Vera Therapeutics (NASDAQ:VERA) with a Neutral and raises the price target from $35 to $43.",
-          "fuente": "Benzinga",
-          "fecha": "08 Jul 2026 08:50 UTC",
-          "url": "https://finnhub.io/api/news?id=9a3db3e4efcb34a7a1d5e4a08b3e1f7ee0ee6e6ad07f0acd84409258210d58d8",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VERA",
-          "titulo": "Kura Sushi Posts Weak Q3 Sales, Joins FuelCell Energy And Other Big Stocks Moving Lower In Wednesday’s Pre-Market Session",
-          "resumen": "US stock futures lower with Dow down 500 points. Kura Sushi shares drop after reporting worse-than-expected sales. Other stocks also decline in pre-market.",
-          "fuente": "Benzinga",
-          "fecha": "08 Jul 2026 08:04 UTC",
-          "url": "https://finnhub.io/api/news?id=62a8d251c60fbec869826d4c1b291ff971454add329a8713db51f861cab46e5e",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/08/Asakusa--Tokyo--Japan---December-10-2023.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VERA",
-          "titulo": "HC Wainwright & Co. Maintains Buy on Vera Therapeutics, Raises Price Target to $125",
-          "resumen": "HC Wainwright &amp; Co.  analyst Arthur He   maintains Vera Therapeutics (NASDAQ:VERA) with a Buy and raises the price target from $110 to $125.",
-          "fuente": "Benzinga",
-          "fecha": "08 Jul 2026 06:03 UTC",
-          "url": "https://finnhub.io/api/news?id=8b9abd65fc31595977db76d56c7beb1d31cf9f4e09223914eec3e7700c5516c9",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
-      "nivel": "azul",
+      "nivel": "rojo",
       "total": 5
     },
     "ACRV": {
@@ -398,43 +386,18 @@
     },
     "INSM": {
       "nombre": "INSM",
-      "noticias": [
-        {
-          "ticker": "INSM",
-          "titulo": "Monday's after hours session: top gainers and losers",
-          "resumen": "Discover the top movers in Monday's after-hours session and stay informed about the post-market dynamics.",
-          "fuente": "ChartMill",
-          "fecha": "06 Jul 2026 21:00 UTC",
-          "url": "https://finnhub.io/api/news?id=ad7870f7f628aa53007478fa19eef55b905682796ca389f23cbc1caa7ac629c4",
-          "imagen": "https://www.chartmill.com/images/uploads/CM_Aftermarket_Movers_Small_free_e077945a19.webp",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     }
   },
   "resumen": {
-    "total_noticias": 25,
-    "tickers_con_noticias": 9,
+    "total_noticias": 23,
+    "tickers_con_noticias": 8,
     "alertas_urgentes": 4,
-    "sin_noticias": 8
+    "sin_noticias": 9
   },
   "todas_noticias": [
-    {
-      "ticker": "INSM",
-      "titulo": "Monday's after hours session: top gainers and losers",
-      "resumen": "Discover the top movers in Monday's after-hours session and stay informed about the post-market dynamics.",
-      "fuente": "ChartMill",
-      "fecha": "06 Jul 2026 21:00 UTC",
-      "url": "https://finnhub.io/api/news?id=ad7870f7f628aa53007478fa19eef55b905682796ca389f23cbc1caa7ac629c4",
-      "imagen": "https://www.chartmill.com/images/uploads/CM_Aftermarket_Movers_Small_free_e077945a19.webp",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "SNDX",
       "titulo": "Biotech Euphoria Driven By Fundamentals",
@@ -448,12 +411,12 @@
       "badge": "🔴"
     },
     {
-      "ticker": "ALNY",
-      "titulo": "AstraZeneca stock drops 9% after Wainua heart drug trial fails",
-      "resumen": "The British drugmaker lost roughly $27 billion in market value after Wainua failed to reduce cardiovascular deaths and recurring heart events",
+      "ticker": "VERA",
+      "titulo": "Vera Therapeutics Announces Appointment of Nancy Boman as Chief Regulatory Officer and Planned Retirement of William Turner",
+      "resumen": "BRISBANE, Calif., July 09, 2026 (GLOBE NEWSWIRE) -- Vera Therapeutics, Inc. (Nasdaq: VERA), a commercial-stage biotechnology company, today announced a planned transition of the Chief Regulatory Officer position. William Turner, current Chief Regulatory Officer of Vera Therapeutics, is planning to r",
       "fuente": "Yahoo",
-      "fecha": "09 Jul 2026 11:14 UTC",
-      "url": "https://finnhub.io/api/news?id=46963d95be8d51c813e9faf8f46a392bfdd1850e2a1aea17bb2e842f41b7b0bc",
+      "fecha": "09 Jul 2026 12:00 UTC",
+      "url": "https://finnhub.io/api/news?id=a9af47b7cc2e68599fc57e8b5e525a0a161314f16837887a0607a58978f8fe33",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
@@ -461,23 +424,11 @@
     },
     {
       "ticker": "ALNY",
-      "titulo": "AstraZeneca and Ionis Stocks Sink on Trial Miss and Analysts See an Overreaction",
-      "resumen": "AstraZeneca and California-based biotech Ionis Pharmaceuticals announce a late-stage trial failure for their gene silencing drug, Wainua.",
+      "titulo": "Jim Cramer Says Biotech is The Hottest Group in The Market Right Now",
+      "resumen": "CNBC’s Jim Cramer pushed viewers away from the usual semiconductor and hyperscaler chatter. Instead, he highlighted a group he says has quietly become the market’s leader. “There is a move in biotech that we have not talked about at all that is really extraordinary, and particularly since the change",
       "fuente": "Yahoo",
-      "fecha": "09 Jul 2026 12:45 UTC",
-      "url": "https://finnhub.io/api/news?id=ba16631660d3a48a5ae531367822bcf906cdafae0322973ac498035a39a0af61",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Why AstraZeneca Crashed 8%, Leading Three Rivals, Including Pfizer, To Jump",
-      "resumen": "AstraZeneca stock crashed Thursday after its Ionis-partnered treatment for a rare heart disease failed in Phase 3 testing.",
-      "fuente": "Yahoo",
-      "fecha": "09 Jul 2026 12:54 UTC",
-      "url": "https://finnhub.io/api/news?id=baad14237a296505b0f589808df734d3452f7c8dbc22fee130edb502eb4c71f1",
+      "fecha": "09 Jul 2026 15:35 UTC",
+      "url": "https://finnhub.io/api/news?id=553e10dc88f8db461878d38f0666f117101c8f854c6a22e5273fb7ce1784b80d",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
@@ -485,11 +436,11 @@
     },
     {
       "ticker": "VRTX",
-      "titulo": "Jim Cramer Says Biotech is The Hottest Group in The Market Right Now",
-      "resumen": "CNBC’s Jim Cramer pushed viewers away from the usual semiconductor and hyperscaler chatter. Instead, he highlighted a group he says has quietly become the market’s leader. “There is a move in biotech that we have not talked about at all that is really extraordinary, and particularly since the change",
+      "titulo": "Vertex (VRTX) is One of the Best QQQ Stocks to Invest in",
+      "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) is one of the best QQQ Stocks to invest in. On July 1, Vertex Pharmaceuticals announced that the US FDA approved the expanded use of its genetic therapy, CASGEVY, to treat children as young as 2 years old. This makes it the first and only approved gene therapy fo",
       "fuente": "Yahoo",
-      "fecha": "09 Jul 2026 15:35 UTC",
-      "url": "https://finnhub.io/api/news?id=553e10dc88f8db461878d38f0666f117101c8f854c6a22e5273fb7ce1784b80d",
+      "fecha": "09 Jul 2026 18:37 UTC",
+      "url": "https://finnhub.io/api/news?id=73dd4ee0879bf24374581d5aa1a77260cfbe8b63a6339577b193b70be26a497b",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
@@ -497,87 +448,39 @@
     },
     {
       "ticker": "ALNY",
-      "titulo": "Jim Cramer Says Biotech is The Hottest Group in The Market Right Now",
-      "resumen": "CNBC’s Jim Cramer pushed viewers away from the usual semiconductor and hyperscaler chatter. Instead, he highlighted a group he says has quietly become the market’s leader. “There is a move in biotech that we have not talked about at all that is really extraordinary, and particularly since the change",
+      "titulo": "Why AstraZeneca Crashed 6%, Leading Two Rivals, Including Pfizer, To Jump",
+      "resumen": "AstraZeneca stock crashed Thursday after its Ionis-partnered treatment for a rare heart disease failed in Phase 3 testing.",
       "fuente": "Yahoo",
-      "fecha": "09 Jul 2026 15:35 UTC",
-      "url": "https://finnhub.io/api/news?id=553e10dc88f8db461878d38f0666f117101c8f854c6a22e5273fb7ce1784b80d",
+      "fecha": "09 Jul 2026 20:26 UTC",
+      "url": "https://finnhub.io/api/news?id=b3d351adc993be520435759189d72560b105017da985670db5e2dac92e23e062",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
     },
     {
-      "ticker": "BEAM",
-      "titulo": "HC Wainwright & Co. Reiterates Buy on Beam Therapeutics, Maintains $80 Price Target",
-      "resumen": "HC Wainwright &amp; Co.  analyst Patrick R. Trucchio   reiterates Beam Therapeutics (NASDAQ:BEAM) with a Buy and maintains $80 price target.",
-      "fuente": "Benzinga",
-      "fecha": "07 Jul 2026 06:22 UTC",
-      "url": "https://finnhub.io/api/news?id=948cc958e1c672298b57d6d96d7c7b98fd41eaeccc6ea6c8b9cd9423443fdc2b",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "RBC Capital Maintains Outperform on argenx, Raises Price Target to $945",
-      "resumen": "RBC Capital  analyst Luca Issi   maintains argenx (NASDAQ:ARGX) with a Outperform and raises the price target from $890 to $945.",
-      "fuente": "Benzinga",
-      "fecha": "07 Jul 2026 11:56 UTC",
-      "url": "https://finnhub.io/api/news?id=b1ce92fbd8c078c777fbac4e368e4c806c852b4830cb9ac0e6b2629858949c02",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "Chip Rout Drags Nasdaq 100 Lower, Oil Climbs: Stock Market Today",
-      "resumen": "A deepening chipmaker slide pulls all major U.S. indexes lower Tuesday while oil climbs on a Strait of Hormuz strike and defensive sectors led the tape.",
-      "fuente": "Benzinga",
-      "fecha": "07 Jul 2026 13:20 UTC",
-      "url": "https://finnhub.io/api/news?id=88838d918ef36a68dd9a57ba3da664535632ea5d2c95962d93187f73ced0a534",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/07/Stock-Market-Crash-Over-City-Backdrop.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "ticker": "ALNY",
+      "titulo": "Alnylam Pharmaceuticals (ALNY) Stock Looks Rich On Earnings Yet Strong On Returns",
+      "resumen": "Alnylam Pharmaceuticals stock has delivered an 81.9% gain over the past 5 years, yet current valuation checks and market multiples point to a more mixed picture rather than a clear bargain. Over 5 years, Alnylam Pharmaceuticals has returned 81.9%, which sets a high bar for any further upside case. R",
+      "fuente": "Yahoo",
+      "fecha": "10 Jul 2026 09:13 UTC",
+      "url": "https://finnhub.io/api/news?id=568b7bd8c9f23814d8119e26c68ac684a3dc6e572a3a0fb1b68df8b1db3d54ff",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "VERA",
-      "titulo": "HC Wainwright & Co. Maintains Buy on Vera Therapeutics, Raises Price Target to $125",
-      "resumen": "HC Wainwright &amp; Co.  analyst Arthur He   maintains Vera Therapeutics (NASDAQ:VERA) with a Buy and raises the price target from $110 to $125.",
-      "fuente": "Benzinga",
-      "fecha": "08 Jul 2026 06:03 UTC",
-      "url": "https://finnhub.io/api/news?id=8b9abd65fc31595977db76d56c7beb1d31cf9f4e09223914eec3e7700c5516c9",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VERA",
-      "titulo": "Kura Sushi Posts Weak Q3 Sales, Joins FuelCell Energy And Other Big Stocks Moving Lower In Wednesday’s Pre-Market Session",
-      "resumen": "US stock futures lower with Dow down 500 points. Kura Sushi shares drop after reporting worse-than-expected sales. Other stocks also decline in pre-market.",
-      "fuente": "Benzinga",
-      "fecha": "08 Jul 2026 08:04 UTC",
-      "url": "https://finnhub.io/api/news?id=62a8d251c60fbec869826d4c1b291ff971454add329a8713db51f861cab46e5e",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/08/Asakusa--Tokyo--Japan---December-10-2023.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VERA",
-      "titulo": "CORRECTION: Wedbush Maintains Neutral On Vera Therapeutics, Raises Price Target To $43",
-      "resumen": "Wedbush analyst Laura Chico maintains Vera Therapeutics (NASDAQ:VERA) with a Neutral and raises the price target from $35 to $43.",
-      "fuente": "Benzinga",
-      "fecha": "08 Jul 2026 08:50 UTC",
-      "url": "https://finnhub.io/api/news?id=9a3db3e4efcb34a7a1d5e4a08b3e1f7ee0ee6e6ad07f0acd84409258210d58d8",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "titulo": "Vera Therapeutics (VERA) Stock Looks Fully Valued After Its 185% Run",
+      "resumen": "Vera Therapeutics has delivered a strong 184.9% return over the past 5 years, yet its valuation checks and current market multiples point to a stock that may now be leaning expensive rather than clearly cheap. With accelerated FDA approval for Trutakna helping to reshape expectations, the question i",
+      "fuente": "Yahoo",
+      "fecha": "10 Jul 2026 11:14 UTC",
+      "url": "https://finnhub.io/api/news?id=7c94185f6b7ac8375d1fec6639a60fbb3be47e37b0bb282ad85911c7437d835d",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "VERA",
@@ -628,42 +531,6 @@
       "badge": "🔵"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "Why Did PENG, ANET, BCRX Shares Surge To 52-Week Highs?",
-      "resumen": "Penguin Solutions, Arista Networks, and Biocryst Pharmaceuticals surged to 52-week highs on Wednesday amid a rotation into technology and healthcare stocks.",
-      "fuente": "Yahoo",
-      "fecha": "09 Jul 2026 03:39 UTC",
-      "url": "https://finnhub.io/api/news?id=b51355813fb0db28e4890bf556e8770afbd41f58f0985074d5473b6d81753f73",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Nvidia, Vertex Pharmaceuticals And More On CNBC’s ‘Final Trades’",
-      "resumen": "The Halftime Report Final Trades featured stock picks from Bryn Talkington, Jim Lebenthal, Liz Young Thomas, and Joseph M. Terranova.",
-      "fuente": "Benzinga",
-      "fecha": "09 Jul 2026 07:45 UTC",
-      "url": "https://finnhub.io/api/news?id=10ee6961d749320bbe6f5493aa7cd89e579980c9c25c75c0a3637ceb4d7cec88",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/09/Nvidia-logo-on-smartphone-screen-with-Ch.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "1 Momentum  Stock to Research Further and 2 Facing Headwinds",
-      "resumen": "Exciting developments are taking place for the stocks in this article. They’ve all surged ahead of the broader market over the last month as catalysts such as new products and positive media coverage have propelled their returns.",
-      "fuente": "Yahoo",
-      "fecha": "09 Jul 2026 07:49 UTC",
-      "url": "https://finnhub.io/api/news?id=7d568a47c8ad16b91d73b1c96aa5bfe5a734482183673771b763e535d2afd1c4",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
       "ticker": "VKTX",
       "titulo": "Novo Nordisk's Wegovy Pill Escalates Eli Lilly Rivalry",
       "resumen": "Novo Nordisk regains competitive ground in obesity with the strong launch of the Wegovy pill, reversing some of the recent underperformance against Eli Lilly.",
@@ -700,24 +567,108 @@
       "badge": "🔵"
     },
     {
-      "ticker": "ALNY",
-      "titulo": "Discover the top movers in Thursday's pre-market session.",
-      "resumen": "Discover the top movers in Thursday's pre-market session and stay informed about market dynamics.",
-      "fuente": "ChartMill",
-      "fecha": "09 Jul 2026 12:30 UTC",
-      "url": "https://finnhub.io/api/news?id=729973ba6ef5cef09f60d3a157a5ee167d5ba08d737131f01200c8cbf2d2da96",
-      "imagen": "https://www.chartmill.com/images/uploads/CM_Premarket_Movers_Small_free_90289f6b81.webp",
+      "ticker": "ABVX",
+      "titulo": "Piper Sandler Maintains Overweight on Abivax, Raises Price Target to $175",
+      "resumen": "Piper Sandler  analyst Allison Bratzel   maintains Abivax (NASDAQ:ABVX) with a Overweight and raises the price target from $165 to $175.",
+      "fuente": "Benzinga",
+      "fecha": "09 Jul 2026 11:59 UTC",
+      "url": "https://finnhub.io/api/news?id=77533a58d0d1090fe97c02589909bdc22c912fbd84866329fdc3eaac22f76f92",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ABVX",
+      "titulo": "9 Health Care Stocks With Whale Alerts In Today’s Session",
+      "resumen": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
+      "fuente": "Benzinga",
+      "fecha": "09 Jul 2026 13:35 UTC",
+      "url": "https://finnhub.io/api/news?id=f85d59ff5cf636e53f4a04b2a9899cbee55215709e026bf0dbff25839923e5cd",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VERA",
+      "titulo": "Vera Therapeutics: A Crowded IgAN Market Leaves No Room For A Premium (Downgrade)",
+      "resumen": "Vera Therapeutics faces tough IgAN competition as Trutakna looks late and undifferentiated. A rich valuation adds risk. Read the latest analysis on the VERA stock here.",
+      "fuente": "SeekingAlpha",
+      "fecha": "09 Jul 2026 15:10 UTC",
+      "url": "https://finnhub.io/api/news?id=762d7df6bd092caca684b1bfed005e599f279d5a4db39f8d568393b760f8b414",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1336638723/image_1336638723.jpg?io=getty-c-w1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
     },
     {
       "ticker": "VRTX",
-      "titulo": "Cystic Fibrosis Market, Global & Regional Now Available; Profiles Vertex Pharmaceuticals, AbbVie, and Other Frontrunner Competitors in Orphan Drug Markets",
-      "resumen": "The cystic fibrosis market is expanding due to rising disease prevalence and advancements in targeted therapies and precision medicine. Predominantly affecting Western populations, over 30,000 people in the U.S. live with this genetic disorder. The demand for cystic fibrosis therapies is driven by n",
+      "titulo": "Vertex Pharmaceuticals Just Made a $10 Billion Move. Is the Stock a Buy?",
+      "resumen": "Additional blockbuster drugs may be on the horizon.",
       "fuente": "Yahoo",
-      "fecha": "09 Jul 2026 15:26 UTC",
-      "url": "https://finnhub.io/api/news?id=ff73aa141d7117de4953b3a8c5dac95fb022c08cd27a3ad995d33e371ff05606",
+      "fecha": "10 Jul 2026 08:25 UTC",
+      "url": "https://finnhub.io/api/news?id=cdd9c810230d73c852b260a9d4bceec99d4b0eebc8f9e6457c65267d2e0ad5c7",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "The Long Climb Back For Ionis Stock",
+      "resumen": "A look at the company's history of deep drawdowns shows the real risk shareholders are carrying today.",
+      "fuente": "Yahoo",
+      "fecha": "10 Jul 2026 11:35 UTC",
+      "url": "https://finnhub.io/api/news?id=70bace5e39146e0e64ac0773b15c6a491cc88cb329eb3be14cd2305070834fcd",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "The Long Climb Back For Ionis Stock",
+      "resumen": "A look at the company's history of deep drawdowns shows the real risk shareholders are carrying today.",
+      "fuente": "Yahoo",
+      "fecha": "10 Jul 2026 11:35 UTC",
+      "url": "https://finnhub.io/api/news?id=70bace5e39146e0e64ac0773b15c6a491cc88cb329eb3be14cd2305070834fcd",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Beyond The Breakout Drug: Is BridgeBio Pharma Stock A Buy On Its Next Act?",
+      "resumen": "With its lead drug driving rapid growth and three more on deck, the biotech is betting it can outrun future competition and a history of volatility.",
+      "fuente": "Yahoo",
+      "fecha": "10 Jul 2026 12:14 UTC",
+      "url": "https://finnhub.io/api/news?id=261335ddb3a4405ad09573cc88858404a83f044cb91dc30fe6fb403e911b1373",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Beyond The Breakout Drug: Is BridgeBio Pharma Stock A Buy On Its Next Act?",
+      "resumen": "With its lead drug driving rapid growth and three more on deck, the biotech is betting it can outrun future competition and a history of volatility.",
+      "fuente": "Yahoo",
+      "fecha": "10 Jul 2026 12:14 UTC",
+      "url": "https://finnhub.io/api/news?id=261335ddb3a4405ad09573cc88858404a83f044cb91dc30fe6fb403e911b1373",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "If You Invested $1000 in Vertex Pharmaceuticals a Decade Ago, This is How Much It'd Be Worth Now",
+      "resumen": "Why investing for the long run, especially if you buy certain popular stocks, could reap huge rewards.",
+      "fuente": "Yahoo",
+      "fecha": "10 Jul 2026 12:30 UTC",
+      "url": "https://finnhub.io/api/news?id=af70857a11cc855d135aa4dbacdfb09561eefbc7830e6114b9d2980a93d0ad6f",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",

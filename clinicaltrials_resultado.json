@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "09/07/2026 17:08",
-  "fecha": "2026-07-09",
+  "generado": "10/07/2026 16:36",
+  "fecha": "2026-07-10",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -156,7 +156,7 @@
           "study_completion_date": "2029-01",
           "study_completion_type": "ESTIMATED",
           "start_date": "2026-05-14",
-          "last_update_posted": "2026-07-08",
+          "last_update_posted": "2026-07-10",
           "conditions": [
             "Myotonic Dystrophy Type 1 (DM1)",
             "DM1",
@@ -198,7 +198,14 @@
           "ventana": "2028",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-07-08 → 2026-07-10"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1741,7 +1748,7 @@
           "study_completion_date": "2030-09-30",
           "study_completion_type": "ESTIMATED",
           "start_date": "2025-09-22",
-          "last_update_posted": "2026-06-12",
+          "last_update_posted": "2026-07-10",
           "conditions": [
             "High Risk Cardiovascular Disease",
             "Hypertension",
@@ -1779,7 +1786,14 @@
           "ventana": "2030",
           "monitorizar": true,
           "peso_importancia": 7,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-06-12 → 2026-07-10"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2286,7 +2300,14 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-07-08 → 2026-07-10"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT07486934"
     },
     {
@@ -2668,6 +2689,33 @@
       "errores_validacion": [],
       "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT05371613"
+    },
+    {
+      "ticker": "ALNY",
+      "nct": "NCT07181109",
+      "nombre": "ZENITH Ph3 CVOT — zilebesiran — hipertensión",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "RECRUITING",
+      "primary_completion_date": "2030-09-30",
+      "mensaje": "Reclutando",
+      "prioridad": "media",
+      "estrellas": "⭐⭐",
+      "tipo": "cvot",
+      "catalizador": "CVOT / MACE endpoint",
+      "ventana": "2030",
+      "peso_importancia": 7,
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-06-12 → 2026-07-10"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07181109"
     },
     {
       "ticker": "ALNY",

@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 09/07/2026 16:17 | Período: últimos 7 días
-Desde: 2026-07-02 → Hasta: 2026-07-09
+Generado: 10/07/2026 16:06 | Período: últimos 7 días
+Desde: 2026-07-03 → Hasta: 2026-07-10
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 14 filings | 🔴 0 | 🟢 1 | 🟡 7 | 🔵 6 | ✅ 10 sin novedad
+RESUMEN: 10 filings | 🔴 0 | 🟢 1 | 🟡 6 | 🔵 3 | ✅ 12 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (1)
@@ -18,7 +18,11 @@ RESUMEN: 14 filings | 🔴 0 | 🟢 1 | 🟡 7 | 🔵 6 | ✅ 10 sin novedad
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
 ──────────────────────────────────────────────────
-  ✅ [SNDX] Sin novedades
+
+  🔵 [SNDX] Syndax Pharmaceuticals Inc — 1 filing(s)
+     🔵 INFO 4 | 2026-07-09 | Metzger Michael A (Chief Executive Officer) → Ejercicio opción 32,375 acciones @ $6.38 | Post: 517,218 | Rutinaria/RSU/impuestos
+     Insider: Metzger Michael A (Chief Executive Officer) → Ejercicio opción 32,375 acciones @ $6.38 | Post: 517,218 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1395937/000119312526299803/xslF345X06/ownership.xml
   ✅ [ARGX] Sin novedades
 
   🟡 [DYN] Dyne Therapeutics, Inc. — 1 filing(s)
@@ -41,41 +45,23 @@ DETALLE POR TICKER — SEC EDGAR
      Insider: Liu Joy (EVP and Chief Legal Officer) → Venta 828 acciones @ $502.71 | Post: 19,131 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000241/xslF345X06/wk-form4_1783368787.xml
   ✅ [ALNY] Sin novedades
-
-  🟡 [BEAM] Beam Therapeutics Inc. — 1 filing(s)
-     🟡 MEDIA 4 | 2026-07-02 | Simon Amy (Chief Medical Officer) → Venta 373 acciones @ $34.73 | Post: 102,363 | Rutinaria/RSU/impuestos
-     Insider: Simon Amy (Chief Medical Officer) → Venta 373 acciones @ $34.73 | Post: 102,363 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1745999/000119312526294478/xslF345X06/ownership.xml
+  ✅ [BEAM] Sin novedades
   ✅ [OCUL] Sin novedades
   ✅ [CAI] Sin novedades
   ✅ [GPCR] Sin novedades
+  ✅ [ABVX] Sin novedades
 
-  🟡 [ABVX] Abivax S.A. — 1 filing(s)
-     🟡 MEDIA 424B5 | 2026-07-02 | ATM (At-The-Market) · $125.0M · Dilución 🟡 MEDIO
-     Oferta: ATM (At-The-Market) · $125.0M · Dilución 🟡 MEDIO
-     → https://www.sec.gov/Archives/edgar/data/1956827/000119312526294491/d111359d424b5.htm
-
-  🟢 [VERA] Vera Therapeutics, Inc. — 2 filing(s)
+  🟢 [VERA] Vera Therapeutics, Inc. — 3 filing(s)
+     🟡 MEDIA 4 | 2026-07-09 | Fordyce Marshall (PRESIDENT AND CEO) → Venta 1,000 acciones @ $40.78 | Post: 197,244 | Rutinaria/RSU/impuestos
+     Insider: Fordyce Marshall (PRESIDENT AND CEO) → Venta 1,000 acciones @ $40.78 | Post: 197,244 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1831828/000185945326000010/xslF345X06/form4-07092026_040701.xml
      🔵 INFO 8-K | 2026-07-09 | Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02]
      → https://www.sec.gov/Archives/edgar/data/1831828/000119312526299165/vera-20260709.htm
      🟢 ALTA 8-K | 2026-07-07 | 8-K — Evento positivo potencial: Aprobación acelerada [Items: 8.01]
      → https://www.sec.gov/Archives/edgar/data/1831828/000119312526297211/vera-20260707.htm
   ✅ [ACRV] Sin novedades
   ✅ [TARA] Sin novedades
-
-  🔵 [SENS] Senseonics Holdings, Inc. — 4 filing(s)
-     🔵 INFO 4 | 2026-07-02 | Prince Douglas S → Concesión 1,515 acciones @ $5.36 | Post: 69,331 | Rutinaria/RSU/impuestos
-     Insider: Prince Douglas S → Concesión 1,515 acciones @ $5.36 | Post: 69,331 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1616543/000166699526000008/xslF345X06/form4-07022026_040707.xml
-     🔵 INFO 4 | 2026-07-02 | ROEDER DOUGLAS A → Concesión 2,751 acciones @ $5.36 | Post: 157,238 | Rutinaria/RSU/impuestos
-     Insider: ROEDER DOUGLAS A → Concesión 2,751 acciones @ $5.36 | Post: 157,238 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1616543/000127073526000012/xslF345X06/form4-07022026_040705.xml
-     🔵 INFO 4 | 2026-07-02 | Fiorentino Edward → Concesión 2,635 acciones @ $5.36 | Post: 85,974 | Rutinaria/RSU/impuestos
-     Insider: Fiorentino Edward → Concesión 2,635 acciones @ $5.36 | Post: 85,974 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1616543/000166697226000008/xslF345X06/form4-07022026_040703.xml
-     🔵 INFO 4 | 2026-07-02 | Steven Edelman → Concesión 2,402 acciones @ $5.36 | Post: 91,083 | Rutinaria/RSU/impuestos
-     Insider: Steven Edelman → Concesión 2,402 acciones @ $5.36 | Post: 91,083 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1616543/000168335426000008/xslF345X06/form4-07022026_040701.xml
+  ✅ [SENS] Sin novedades
 
   🔵 [INSM] INSMED Inc — 1 filing(s)
      🔵 INFO 4 | 2026-07-08 | Flammer Martina M.D. (Chief Medical Officer) → Ejercicio opción 7,945 acciones @ $29.13 | Post: 68,431 | Rutinaria/RSU/impuestos
@@ -118,7 +104,7 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Reclutando activamente
        Enrollment: 150 pacientes
        Primary completion: 2028-07
-       Última actualización: 2026-07-08
+       Última actualización: 2026-07-10
        → https://clinicaltrials.gov/study/NCT07486934
 
   [VKTX]

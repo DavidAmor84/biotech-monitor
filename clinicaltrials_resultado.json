@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "10/07/2026 16:36",
-  "fecha": "2026-07-10",
+  "generado": "13/07/2026 17:01",
+  "fecha": "2026-07-13",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -198,14 +198,7 @@
           "ventana": "2028",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2026-07-08 → 2026-07-10"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1748,7 +1741,7 @@
           "study_completion_date": "2030-09-30",
           "study_completion_type": "ESTIMATED",
           "start_date": "2025-09-22",
-          "last_update_posted": "2026-07-10",
+          "last_update_posted": "2026-07-13",
           "conditions": [
             "High Risk Cardiovascular Disease",
             "Hypertension",
@@ -1791,7 +1784,7 @@
               "tipo": "last_update_posted",
               "nivel": "azul",
               "badge": "🔵",
-              "mensaje": "Última actualización: 2026-06-12 → 2026-07-10"
+              "mensaje": "Última actualización: 2026-07-10 → 2026-07-13"
             }
           ],
           "nivel": "azul",
@@ -2300,14 +2293,7 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2026-07-08 → 2026-07-10"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT07486934"
     },
     {
@@ -2712,7 +2698,7 @@
           "tipo": "last_update_posted",
           "nivel": "azul",
           "badge": "🔵",
-          "mensaje": "Última actualización: 2026-06-12 → 2026-07-10"
+          "mensaje": "Última actualización: 2026-07-10 → 2026-07-13"
         }
       ],
       "url": "https://clinicaltrials.gov/study/NCT07181109"

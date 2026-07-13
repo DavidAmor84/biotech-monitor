@@ -1,14 +1,20 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 10/07/2026 16:06 | Período: últimos 7 días
-Desde: 2026-07-03 → Hasta: 2026-07-10
+Generado: 13/07/2026 16:15 | Período: últimos 7 días
+Desde: 2026-07-06 → Hasta: 2026-07-13
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 10 filings | 🔴 0 | 🟢 1 | 🟡 6 | 🔵 3 | ✅ 12 sin novedad
+RESUMEN: 12 filings | 🔴 0 | 🟢 2 | 🟡 6 | 🔵 4 | ✅ 11 sin novedad
 
 ──────────────────────────────────────────────────
-🚨 ALERTAS CRÍTICAS (1)
+🚨 ALERTAS CRÍTICAS (2)
 ──────────────────────────────────────────────────
+
+  [CAI] Caris Life Sciences, Inc.
+  🟢 ALTA 4 | 2026-07-13
+  Insider BUY: HALBERT JON (Director) → Compra 68,000 acciones @ $14.56 | Post: 704,598 | Rutinaria/RSU/impuestos
+  Insider: HALBERT JON (Director) → Compra 68,000 acciones @ $14.56 | Post: 704,598 | Rutinaria/RSU/impuestos
+  → https://www.sec.gov/Archives/edgar/data/2019410/000118939426000005/xslF345X06/wk-form4_1783940766.xml
 
   [VERA] Vera Therapeutics, Inc.
   🟢 ALTA 8-K | 2026-07-07
@@ -47,7 +53,11 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [ALNY] Sin novedades
   ✅ [BEAM] Sin novedades
   ✅ [OCUL] Sin novedades
-  ✅ [CAI] Sin novedades
+
+  🟢 [CAI] Caris Life Sciences, Inc. — 1 filing(s)
+     🟢 ALTA 4 | 2026-07-13 | Insider BUY: HALBERT JON (Director) → Compra 68,000 acciones @ $14.56 | Post: 704,598 | Rutinaria/RSU/impuestos
+     Insider: HALBERT JON (Director) → Compra 68,000 acciones @ $14.56 | Post: 704,598 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/2019410/000118939426000005/xslF345X06/wk-form4_1783940766.xml
   ✅ [GPCR] Sin novedades
   ✅ [ABVX] Sin novedades
 
@@ -63,7 +73,10 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [TARA] Sin novedades
   ✅ [SENS] Sin novedades
 
-  🔵 [INSM] INSMED Inc — 1 filing(s)
+  🔵 [INSM] INSMED Inc — 2 filing(s)
+     🔵 INFO 4 | 2026-07-10 | Lewis William (Director / Chair and CEO) → Ejercicio opción 6,259 acciones @ $30.46 | Post: 265,317 | Rutinaria/RSU/impuestos
+     Insider: Lewis William (Director / Chair and CEO) → Ejercicio opción 6,259 acciones @ $30.46 | Post: 265,317 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1104506/000140205126000040/xslF345X06/wk-form4_1783713769.xml
      🔵 INFO 4 | 2026-07-08 | Flammer Martina M.D. (Chief Medical Officer) → Ejercicio opción 7,945 acciones @ $29.13 | Post: 68,431 | Rutinaria/RSU/impuestos
      Insider: Flammer Martina M.D. (Chief Medical Officer) → Ejercicio opción 7,945 acciones @ $29.13 | Post: 68,431 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1104506/000179696026000018/xslF345X06/wk-form4_1783541018.xml

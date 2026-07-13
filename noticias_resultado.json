@@ -1,27 +1,14 @@
 {
-  "generado": "10/07/2026 16:07 UTC",
+  "generado": "13/07/2026 16:43 UTC",
   "plazo_horas": 72,
-  "desde": "2026-07-07",
-  "hasta": "2026-07-10",
+  "desde": "2026-07-10",
+  "hasta": "2026-07-13",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
-      "noticias": [
-        {
-          "ticker": "SNDX",
-          "titulo": "Biotech Euphoria Driven By Fundamentals",
-          "resumen": "Jonathan Faison, who runs ROTY biotech community, shares why much of the current euphoria in biotech is driven by fundamentals.",
-          "fuente": "SeekingAlpha",
-          "fecha": "08 Jul 2026 14:00 UTC",
-          "url": "https://finnhub.io/api/news?id=9d1002029bc82808b25ccb335642eb3cc1cc4ba8647e4508fc48b73a0d083390",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1314804423/image_1314804423.jpg?io=getty-c-w1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "ARGX": {
       "nombre": "ARGX",
@@ -37,21 +24,15 @@
     },
     "DNLI": {
       "nombre": "DNLI",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
-    },
-    "VKTX": {
-      "nombre": "VKTX",
       "noticias": [
         {
-          "ticker": "VKTX",
-          "titulo": "Novo Nordisk's Wegovy Pill Escalates Eli Lilly Rivalry",
-          "resumen": "Novo Nordisk regains competitive ground in obesity with the strong launch of the Wegovy pill, reversing some of the recent underperformance against Eli Lilly.",
-          "fuente": "SeekingAlpha",
-          "fecha": "09 Jul 2026 08:46 UTC",
-          "url": "https://finnhub.io/api/news?id=840cbddb211ad3a61dbdba03223eb2cf874f8da5b0b48f025699b494ac5f7406",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2256411028/image_2256411028.jpg?io=getty-c-w1536",
+          "ticker": "DNLI",
+          "titulo": "JP Morgan Reinstates Overweight on Denali Therapeutics, Announces $29 Price Target",
+          "resumen": "JP Morgan  analyst Jessica Fye   reinstates Denali Therapeutics (NASDAQ:DNLI) with a Overweight and announces $29 price target.",
+          "fuente": "Benzinga",
+          "fecha": "13 Jul 2026 07:03 UTC",
+          "url": "https://finnhub.io/api/news?id=c1e40d9eb6e5c144b7826866086796d109166fc354a2c7e4accab350e81dc0af",
+          "imagen": "",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
@@ -60,83 +41,77 @@
       "nivel": "azul",
       "total": 1
     },
+    "VKTX": {
+      "nombre": "VKTX",
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
+    },
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
         {
           "ticker": "VRTX",
-          "titulo": "If You Invested $1000 in Vertex Pharmaceuticals a Decade Ago, This is How Much It'd Be Worth Now",
-          "resumen": "Why investing for the long run, especially if you buy certain popular stocks, could reap huge rewards.",
+          "titulo": "Vertex (VRTX) Wins FDA Expansion For CASGEVY And Advances ALYFTREK In Canada",
+          "resumen": "Vertex Pharmaceuticals (NasdaqGS:VRTX) received expanded FDA approval for CASGEVY, extending use to children as young as 2 years with sickle cell disease and beta thalassemia. The company also signed a Letter of Intent with Canadian national payers that outlines commercial access terms for ALYFTREK,",
           "fuente": "Yahoo",
-          "fecha": "10 Jul 2026 12:30 UTC",
-          "url": "https://finnhub.io/api/news?id=af70857a11cc855d135aa4dbacdfb09561eefbc7830e6114b9d2980a93d0ad6f",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Beyond The Breakout Drug: Is BridgeBio Pharma Stock A Buy On Its Next Act?",
-          "resumen": "With its lead drug driving rapid growth and three more on deck, the biotech is betting it can outrun future competition and a history of volatility.",
-          "fuente": "Yahoo",
-          "fecha": "10 Jul 2026 12:14 UTC",
-          "url": "https://finnhub.io/api/news?id=261335ddb3a4405ad09573cc88858404a83f044cb91dc30fe6fb403e911b1373",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "The Long Climb Back For Ionis Stock",
-          "resumen": "A look at the company's history of deep drawdowns shows the real risk shareholders are carrying today.",
-          "fuente": "Yahoo",
-          "fecha": "10 Jul 2026 11:35 UTC",
-          "url": "https://finnhub.io/api/news?id=70bace5e39146e0e64ac0773b15c6a491cc88cb329eb3be14cd2305070834fcd",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals Just Made a $10 Billion Move. Is the Stock a Buy?",
-          "resumen": "Additional blockbuster drugs may be on the horizon.",
-          "fuente": "Yahoo",
-          "fecha": "10 Jul 2026 08:25 UTC",
-          "url": "https://finnhub.io/api/news?id=cdd9c810230d73c852b260a9d4bceec99d4b0eebc8f9e6457c65267d2e0ad5c7",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex (VRTX) is One of the Best QQQ Stocks to Invest in",
-          "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) is one of the best QQQ Stocks to invest in. On July 1, Vertex Pharmaceuticals announced that the US FDA approved the expanded use of its genetic therapy, CASGEVY, to treat children as young as 2 years old. This makes it the first and only approved gene therapy fo",
-          "fuente": "Yahoo",
-          "fecha": "09 Jul 2026 18:37 UTC",
-          "url": "https://finnhub.io/api/news?id=73dd4ee0879bf24374581d5aa1a77260cfbe8b63a6339577b193b70be26a497b",
+          "fecha": "12 Jul 2026 03:19 UTC",
+          "url": "https://finnhub.io/api/news?id=74393636e844e518614a2f2bbc4b00f4b95cda8bb29e624da6373305bfa8aab5",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex Pharmaceuticals Bets $10 Billion on Crinetics to Build Endocrinology Powerhouse",
+          "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) said it has entered into a definitive agreement to acquire Crinetics Pharmaceuticals for $85 per share in cash, a transaction Vertex executives described as a strategic expansion into specialty endocrinology. On a conference call announcing the deal, Vertex CEO",
+          "fuente": "Yahoo",
+          "fecha": "11 Jul 2026 21:02 UTC",
+          "url": "https://finnhub.io/api/news?id=e9086ad552f75890511f4f50816a1086a025168d4d5bcc85a6530a23c82a78c6",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Is This Biotech Stock a Buy Near Its 52-Week High?",
+          "resumen": "It's been a volatile year for the company, but don't let that scare you away.",
+          "fuente": "Yahoo",
+          "fecha": "10 Jul 2026 21:20 UTC",
+          "url": "https://finnhub.io/api/news?id=3474024df282bf83c2487827c06844fbdf81b888de20d743220ca244b809d07e",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Why This Pharmaceutical Stock Jumped Close to 100% This Week",
+          "resumen": "It is getting acquired by a larger firm in the sector.",
+          "fuente": "Yahoo",
+          "fecha": "10 Jul 2026 19:22 UTC",
+          "url": "https://finnhub.io/api/news?id=c9b07089322e23d06265dae52c2992c333bdcda8fef02ebe98f458bef38d5d1f",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
-      "total": 5
+      "total": 4
     },
     "ALNY": {
       "nombre": "ALNY",
       "noticias": [
         {
           "ticker": "ALNY",
-          "titulo": "Beyond The Breakout Drug: Is BridgeBio Pharma Stock A Buy On Its Next Act?",
-          "resumen": "With its lead drug driving rapid growth and three more on deck, the biotech is betting it can outrun future competition and a history of volatility.",
+          "titulo": "What It Means To Hold Moderna Stock In A Crash",
+          "resumen": "The company's pipeline is more advanced than ever, but its history shows a pattern of deep, prolonged drops when the market turns.",
           "fuente": "Yahoo",
-          "fecha": "10 Jul 2026 12:14 UTC",
-          "url": "https://finnhub.io/api/news?id=261335ddb3a4405ad09573cc88858404a83f044cb91dc30fe6fb403e911b1373",
+          "fecha": "13 Jul 2026 13:12 UTC",
+          "url": "https://finnhub.io/api/news?id=c3654f647a3a47105890017a1058d688704c7d5e8383e61c6ed4d24e55ec464f",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
@@ -144,23 +119,11 @@
         },
         {
           "ticker": "ALNY",
-          "titulo": "The Long Climb Back For Ionis Stock",
-          "resumen": "A look at the company's history of deep drawdowns shows the real risk shareholders are carrying today.",
+          "titulo": "Is Alnylam Pharmaceuticals (ALNY) Cheap As Rival Trial Failure Shifts ATTR CM Expectations?",
+          "resumen": "Alnylam Pharmaceuticals (ALNY) has drawn fresh attention after shares moved sharply higher, helped by the late stage failure of a competing ATTR cardiomyopathy therapy from AstraZeneca and Ionis Pharmaceuticals, as well as recent collaboration updates. See our latest analysis for Alnylam Pharmaceuti",
           "fuente": "Yahoo",
-          "fecha": "10 Jul 2026 11:35 UTC",
-          "url": "https://finnhub.io/api/news?id=70bace5e39146e0e64ac0773b15c6a491cc88cb329eb3be14cd2305070834fcd",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Alnylam Pharmaceuticals (ALNY) Stock Looks Rich On Earnings Yet Strong On Returns",
-          "resumen": "Alnylam Pharmaceuticals stock has delivered an 81.9% gain over the past 5 years, yet current valuation checks and market multiples point to a more mixed picture rather than a clear bargain. Over 5 years, Alnylam Pharmaceuticals has returned 81.9%, which sets a high bar for any further upside case. R",
-          "fuente": "Yahoo",
-          "fecha": "10 Jul 2026 09:13 UTC",
-          "url": "https://finnhub.io/api/news?id=568b7bd8c9f23814d8119e26c68ac684a3dc6e572a3a0fb1b68df8b1db3d54ff",
+          "fecha": "11 Jul 2026 00:19 UTC",
+          "url": "https://finnhub.io/api/news?id=81f56e98bf8999873b5254f8fc69435ea80505873d6a2852043d12000b78b023",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -168,11 +131,11 @@
         },
         {
           "ticker": "ALNY",
-          "titulo": "Why AstraZeneca Crashed 6%, Leading Two Rivals, Including Pfizer, To Jump",
-          "resumen": "AstraZeneca stock crashed Thursday after its Ionis-partnered treatment for a rare heart disease failed in Phase 3 testing.",
+          "titulo": "Ionis Pharmaceuticals Drops Another 9% as Bad News Piles Up",
+          "resumen": "A Phase 3 trial failure has erased a year of gains for Ionis Pharmaceuticals in just days, and the ripple effects are rattling rivals across the RNA and rare-disease biotech space with more catalysts still ahead.",
           "fuente": "Yahoo",
-          "fecha": "09 Jul 2026 20:26 UTC",
-          "url": "https://finnhub.io/api/news?id=b3d351adc993be520435759189d72560b105017da985670db5e2dac92e23e062",
+          "fecha": "10 Jul 2026 19:37 UTC",
+          "url": "https://finnhub.io/api/news?id=9604213b42f7aaf1d99a512e44898a5460795c6fe001db0655b9872a4f7dc48b",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -180,11 +143,11 @@
         },
         {
           "ticker": "ALNY",
-          "titulo": "Jim Cramer Says Biotech is The Hottest Group in The Market Right Now",
-          "resumen": "CNBC’s Jim Cramer pushed viewers away from the usual semiconductor and hyperscaler chatter. Instead, he highlighted a group he says has quietly become the market’s leader. “There is a move in biotech that we have not talked about at all that is really extraordinary, and particularly since the change",
+          "titulo": "Is Rival ATTR-CM Trial Failure and New AI Deals Altering The Investment Case For Alnylam (ALNY)?",
+          "resumen": "In recent days, Alnylam Pharmaceuticals has benefited from the late-stage failure of AstraZeneca and Ionis’s competing ATTR-CM trial, alongside expanded AI and regional partnerships that deepen access to its RNAi therapies across new European markets. This setback for a key rival potentially enhance",
           "fuente": "Yahoo",
-          "fecha": "09 Jul 2026 15:35 UTC",
-          "url": "https://finnhub.io/api/news?id=553e10dc88f8db461878d38f0666f117101c8f854c6a22e5273fb7ce1784b80d",
+          "fecha": "10 Jul 2026 19:13 UTC",
+          "url": "https://finnhub.io/api/news?id=9c65bd98a667ed5636ec5f22f6c2460677c807a7fd8d05a2b8290343533c2c69",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -192,50 +155,13 @@
         }
       ],
       "nivel": "rojo",
-      "total": 5
+      "total": 4
     },
     "BEAM": {
       "nombre": "BEAM",
-      "noticias": [
-        {
-          "ticker": "BEAM",
-          "titulo": "Prime Medicine Beats Beam Therapeutics In Patent Dispute - But Both Are Investable",
-          "resumen": "Prime Medicine, Inc. wins arbitration vs. Beam Therapeutics Inc., advancing PM647 for AATD. Read more on PRME and BEAM stocks here.",
-          "fuente": "SeekingAlpha",
-          "fecha": "09 Jul 2026 10:22 UTC",
-          "url": "https://finnhub.io/api/news?id=66b113cc647ada2f53d180fd790e65469865ec151622404cb7a547839bd53370",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2218724360/image_2218724360.jpg?io=getty-c-w1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "BEAM",
-          "titulo": "Prime Medicine Secures Favorable Arbitration Ruling in Beam Therapeutics Case",
-          "resumen": "Prime Medicine won arbitration with Beam Therapeutics over PM647, avoiding damages and keeping its AATD gene-editing program on track.",
-          "fuente": "Benzinga",
-          "fecha": "08 Jul 2026 13:29 UTC",
-          "url": "https://finnhub.io/api/news?id=731030612559ec009f36ecddee68c793303e24ddb5409c91f1dbd145113e7613",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/08/Physician-And-Patient-Examine-A-Holograp.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "BEAM",
-          "titulo": "B of A Securities Reiterates Buy on Beam Therapeutics, Maintains $47 Price Target",
-          "resumen": "B of A Securities  analyst Alec Stranahan   reiterates Beam Therapeutics (NASDAQ:BEAM) with a Buy and maintains $47 price target.",
-          "fuente": "Benzinga",
-          "fecha": "08 Jul 2026 13:23 UTC",
-          "url": "https://finnhub.io/api/news?id=4d635e3eb124e810e518d03bff1169060867ca140cb99124795893a43830a0ed",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 3
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "OCUL": {
       "nombre": "OCUL",
@@ -251,15 +177,33 @@
     },
     "GPCR": {
       "nombre": "GPCR",
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
+    },
+    "ABVX": {
+      "nombre": "ABVX",
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
+    },
+    "VERA": {
+      "nombre": "VERA",
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
+    },
+    "ACRV": {
+      "nombre": "ACRV",
       "noticias": [
         {
-          "ticker": "GPCR",
-          "titulo": "Novo Nordisk's Wegovy Pill Escalates Eli Lilly Rivalry",
-          "resumen": "Novo Nordisk regains competitive ground in obesity with the strong launch of the Wegovy pill, reversing some of the recent underperformance against Eli Lilly.",
+          "ticker": "ACRV",
+          "titulo": "Acrivon Therapeutics: Priced For Failure, Built For Precision",
+          "resumen": "",
           "fuente": "SeekingAlpha",
-          "fecha": "09 Jul 2026 08:46 UTC",
-          "url": "https://finnhub.io/api/news?id=840cbddb211ad3a61dbdba03223eb2cf874f8da5b0b48f025699b494ac5f7406",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2256411028/image_2256411028.jpg?io=getty-c-w1536",
+          "fecha": "13 Jul 2026 04:44 UTC",
+          "url": "https://finnhub.io/api/news?id=7187d15f0ef24233de63d0335381cbfcf4563c488471d9dbda9d8cedf3189207",
+          "imagen": "",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
@@ -267,110 +211,6 @@
       ],
       "nivel": "azul",
       "total": 1
-    },
-    "ABVX": {
-      "nombre": "ABVX",
-      "noticias": [
-        {
-          "ticker": "ABVX",
-          "titulo": "9 Health Care Stocks With Whale Alerts In Today’s Session",
-          "resumen": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
-          "fuente": "Benzinga",
-          "fecha": "09 Jul 2026 13:35 UTC",
-          "url": "https://finnhub.io/api/news?id=f85d59ff5cf636e53f4a04b2a9899cbee55215709e026bf0dbff25839923e5cd",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ABVX",
-          "titulo": "Piper Sandler Maintains Overweight on Abivax, Raises Price Target to $175",
-          "resumen": "Piper Sandler  analyst Allison Bratzel   maintains Abivax (NASDAQ:ABVX) with a Overweight and raises the price target from $165 to $175.",
-          "fuente": "Benzinga",
-          "fecha": "09 Jul 2026 11:59 UTC",
-          "url": "https://finnhub.io/api/news?id=77533a58d0d1090fe97c02589909bdc22c912fbd84866329fdc3eaac22f76f92",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 2
-    },
-    "VERA": {
-      "nombre": "VERA",
-      "noticias": [
-        {
-          "ticker": "VERA",
-          "titulo": "Vera Therapeutics (VERA) Stock Looks Fully Valued After Its 185% Run",
-          "resumen": "Vera Therapeutics has delivered a strong 184.9% return over the past 5 years, yet its valuation checks and current market multiples point to a stock that may now be leaning expensive rather than clearly cheap. With accelerated FDA approval for Trutakna helping to reshape expectations, the question i",
-          "fuente": "Yahoo",
-          "fecha": "10 Jul 2026 11:14 UTC",
-          "url": "https://finnhub.io/api/news?id=7c94185f6b7ac8375d1fec6639a60fbb3be47e37b0bb282ad85911c7437d835d",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VERA",
-          "titulo": "Vera Therapeutics: A Crowded IgAN Market Leaves No Room For A Premium (Downgrade)",
-          "resumen": "Vera Therapeutics faces tough IgAN competition as Trutakna looks late and undifferentiated. A rich valuation adds risk. Read the latest analysis on the VERA stock here.",
-          "fuente": "SeekingAlpha",
-          "fecha": "09 Jul 2026 15:10 UTC",
-          "url": "https://finnhub.io/api/news?id=762d7df6bd092caca684b1bfed005e599f279d5a4db39f8d568393b760f8b414",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1336638723/image_1336638723.jpg?io=getty-c-w1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VERA",
-          "titulo": "Vera Therapeutics Announces Appointment of Nancy Boman as Chief Regulatory Officer and Planned Retirement of William Turner",
-          "resumen": "BRISBANE, Calif., July 09, 2026 (GLOBE NEWSWIRE) -- Vera Therapeutics, Inc. (Nasdaq: VERA), a commercial-stage biotechnology company, today announced a planned transition of the Chief Regulatory Officer position. William Turner, current Chief Regulatory Officer of Vera Therapeutics, is planning to r",
-          "fuente": "Yahoo",
-          "fecha": "09 Jul 2026 12:00 UTC",
-          "url": "https://finnhub.io/api/news?id=a9af47b7cc2e68599fc57e8b5e525a0a161314f16837887a0607a58978f8fe33",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VERA",
-          "titulo": "TD Cowen Maintains Buy on Vera Therapeutics, Raises Price Target to $78",
-          "resumen": "TD Cowen  analyst Ritu Baral   maintains Vera Therapeutics (NASDAQ:VERA) with a Buy and raises the price target from $73 to $78.",
-          "fuente": "Benzinga",
-          "fecha": "08 Jul 2026 10:59 UTC",
-          "url": "https://finnhub.io/api/news?id=4ee818a3642e03df0bba077bf787f0e99f6298112c3723fed6a76b470e0b13a0",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VERA",
-          "titulo": "Guggenheim Maintains Buy on Vera Therapeutics, Raises Price Target to $76",
-          "resumen": "Guggenheim  analyst Vamil Divan   maintains Vera Therapeutics (NASDAQ:VERA) with a Buy and raises the price target from $56 to $76.",
-          "fuente": "Benzinga",
-          "fecha": "08 Jul 2026 09:27 UTC",
-          "url": "https://finnhub.io/api/news?id=7830eb04596966fd72cdbfb19c66d9cf14ab89096ac220e151cc6a9a13ec9d73",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 5
-    },
-    "ACRV": {
-      "nombre": "ACRV",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
     },
     "TARA": {
       "nombre": "TARA",
@@ -392,31 +232,19 @@
     }
   },
   "resumen": {
-    "total_noticias": 23,
-    "tickers_con_noticias": 8,
-    "alertas_urgentes": 4,
-    "sin_noticias": 9
+    "total_noticias": 10,
+    "tickers_con_noticias": 4,
+    "alertas_urgentes": 2,
+    "sin_noticias": 13
   },
   "todas_noticias": [
     {
-      "ticker": "SNDX",
-      "titulo": "Biotech Euphoria Driven By Fundamentals",
-      "resumen": "Jonathan Faison, who runs ROTY biotech community, shares why much of the current euphoria in biotech is driven by fundamentals.",
-      "fuente": "SeekingAlpha",
-      "fecha": "08 Jul 2026 14:00 UTC",
-      "url": "https://finnhub.io/api/news?id=9d1002029bc82808b25ccb335642eb3cc1cc4ba8647e4508fc48b73a0d083390",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1314804423/image_1314804423.jpg?io=getty-c-w1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VERA",
-      "titulo": "Vera Therapeutics Announces Appointment of Nancy Boman as Chief Regulatory Officer and Planned Retirement of William Turner",
-      "resumen": "BRISBANE, Calif., July 09, 2026 (GLOBE NEWSWIRE) -- Vera Therapeutics, Inc. (Nasdaq: VERA), a commercial-stage biotechnology company, today announced a planned transition of the Chief Regulatory Officer position. William Turner, current Chief Regulatory Officer of Vera Therapeutics, is planning to r",
+      "ticker": "ALNY",
+      "titulo": "Is Rival ATTR-CM Trial Failure and New AI Deals Altering The Investment Case For Alnylam (ALNY)?",
+      "resumen": "In recent days, Alnylam Pharmaceuticals has benefited from the late-stage failure of AstraZeneca and Ionis’s competing ATTR-CM trial, alongside expanded AI and regional partnerships that deepen access to its RNAi therapies across new European markets. This setback for a key rival potentially enhance",
       "fuente": "Yahoo",
-      "fecha": "09 Jul 2026 12:00 UTC",
-      "url": "https://finnhub.io/api/news?id=a9af47b7cc2e68599fc57e8b5e525a0a161314f16837887a0607a58978f8fe33",
+      "fecha": "10 Jul 2026 19:13 UTC",
+      "url": "https://finnhub.io/api/news?id=9c65bd98a667ed5636ec5f22f6c2460677c807a7fd8d05a2b8290343533c2c69",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
@@ -424,11 +252,23 @@
     },
     {
       "ticker": "ALNY",
-      "titulo": "Jim Cramer Says Biotech is The Hottest Group in The Market Right Now",
-      "resumen": "CNBC’s Jim Cramer pushed viewers away from the usual semiconductor and hyperscaler chatter. Instead, he highlighted a group he says has quietly become the market’s leader. “There is a move in biotech that we have not talked about at all that is really extraordinary, and particularly since the change",
+      "titulo": "Ionis Pharmaceuticals Drops Another 9% as Bad News Piles Up",
+      "resumen": "A Phase 3 trial failure has erased a year of gains for Ionis Pharmaceuticals in just days, and the ripple effects are rattling rivals across the RNA and rare-disease biotech space with more catalysts still ahead.",
       "fuente": "Yahoo",
-      "fecha": "09 Jul 2026 15:35 UTC",
-      "url": "https://finnhub.io/api/news?id=553e10dc88f8db461878d38f0666f117101c8f854c6a22e5273fb7ce1784b80d",
+      "fecha": "10 Jul 2026 19:37 UTC",
+      "url": "https://finnhub.io/api/news?id=9604213b42f7aaf1d99a512e44898a5460795c6fe001db0655b9872a4f7dc48b",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Is Alnylam Pharmaceuticals (ALNY) Cheap As Rival Trial Failure Shifts ATTR CM Expectations?",
+      "resumen": "Alnylam Pharmaceuticals (ALNY) has drawn fresh attention after shares moved sharply higher, helped by the late stage failure of a competing ATTR cardiomyopathy therapy from AstraZeneca and Ionis Pharmaceuticals, as well as recent collaboration updates. See our latest analysis for Alnylam Pharmaceuti",
+      "fuente": "Yahoo",
+      "fecha": "11 Jul 2026 00:19 UTC",
+      "url": "https://finnhub.io/api/news?id=81f56e98bf8999873b5254f8fc69435ea80505873d6a2852043d12000b78b023",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
@@ -436,239 +276,83 @@
     },
     {
       "ticker": "VRTX",
-      "titulo": "Vertex (VRTX) is One of the Best QQQ Stocks to Invest in",
-      "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) is one of the best QQQ Stocks to invest in. On July 1, Vertex Pharmaceuticals announced that the US FDA approved the expanded use of its genetic therapy, CASGEVY, to treat children as young as 2 years old. This makes it the first and only approved gene therapy fo",
+      "titulo": "Vertex Pharmaceuticals Bets $10 Billion on Crinetics to Build Endocrinology Powerhouse",
+      "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) said it has entered into a definitive agreement to acquire Crinetics Pharmaceuticals for $85 per share in cash, a transaction Vertex executives described as a strategic expansion into specialty endocrinology. On a conference call announcing the deal, Vertex CEO",
       "fuente": "Yahoo",
-      "fecha": "09 Jul 2026 18:37 UTC",
-      "url": "https://finnhub.io/api/news?id=73dd4ee0879bf24374581d5aa1a77260cfbe8b63a6339577b193b70be26a497b",
+      "fecha": "11 Jul 2026 21:02 UTC",
+      "url": "https://finnhub.io/api/news?id=e9086ad552f75890511f4f50816a1086a025168d4d5bcc85a6530a23c82a78c6",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
     },
     {
-      "ticker": "ALNY",
-      "titulo": "Why AstraZeneca Crashed 6%, Leading Two Rivals, Including Pfizer, To Jump",
-      "resumen": "AstraZeneca stock crashed Thursday after its Ionis-partnered treatment for a rare heart disease failed in Phase 3 testing.",
+      "ticker": "VRTX",
+      "titulo": "Vertex (VRTX) Wins FDA Expansion For CASGEVY And Advances ALYFTREK In Canada",
+      "resumen": "Vertex Pharmaceuticals (NasdaqGS:VRTX) received expanded FDA approval for CASGEVY, extending use to children as young as 2 years with sickle cell disease and beta thalassemia. The company also signed a Letter of Intent with Canadian national payers that outlines commercial access terms for ALYFTREK,",
       "fuente": "Yahoo",
-      "fecha": "09 Jul 2026 20:26 UTC",
-      "url": "https://finnhub.io/api/news?id=b3d351adc993be520435759189d72560b105017da985670db5e2dac92e23e062",
+      "fecha": "12 Jul 2026 03:19 UTC",
+      "url": "https://finnhub.io/api/news?id=74393636e844e518614a2f2bbc4b00f4b95cda8bb29e624da6373305bfa8aab5",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
     },
     {
-      "ticker": "ALNY",
-      "titulo": "Alnylam Pharmaceuticals (ALNY) Stock Looks Rich On Earnings Yet Strong On Returns",
-      "resumen": "Alnylam Pharmaceuticals stock has delivered an 81.9% gain over the past 5 years, yet current valuation checks and market multiples point to a more mixed picture rather than a clear bargain. Over 5 years, Alnylam Pharmaceuticals has returned 81.9%, which sets a high bar for any further upside case. R",
+      "ticker": "VRTX",
+      "titulo": "Why This Pharmaceutical Stock Jumped Close to 100% This Week",
+      "resumen": "It is getting acquired by a larger firm in the sector.",
       "fuente": "Yahoo",
-      "fecha": "10 Jul 2026 09:13 UTC",
-      "url": "https://finnhub.io/api/news?id=568b7bd8c9f23814d8119e26c68ac684a3dc6e572a3a0fb1b68df8b1db3d54ff",
+      "fecha": "10 Jul 2026 19:22 UTC",
+      "url": "https://finnhub.io/api/news?id=c9b07089322e23d06265dae52c2992c333bdcda8fef02ebe98f458bef38d5d1f",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
     },
     {
-      "ticker": "VERA",
-      "titulo": "Vera Therapeutics (VERA) Stock Looks Fully Valued After Its 185% Run",
-      "resumen": "Vera Therapeutics has delivered a strong 184.9% return over the past 5 years, yet its valuation checks and current market multiples point to a stock that may now be leaning expensive rather than clearly cheap. With accelerated FDA approval for Trutakna helping to reshape expectations, the question i",
+      "ticker": "VRTX",
+      "titulo": "Is This Biotech Stock a Buy Near Its 52-Week High?",
+      "resumen": "It's been a volatile year for the company, but don't let that scare you away.",
       "fuente": "Yahoo",
-      "fecha": "10 Jul 2026 11:14 UTC",
-      "url": "https://finnhub.io/api/news?id=7c94185f6b7ac8375d1fec6639a60fbb3be47e37b0bb282ad85911c7437d835d",
+      "fecha": "10 Jul 2026 21:20 UTC",
+      "url": "https://finnhub.io/api/news?id=3474024df282bf83c2487827c06844fbdf81b888de20d743220ca244b809d07e",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
     },
     {
-      "ticker": "VERA",
-      "titulo": "Guggenheim Maintains Buy on Vera Therapeutics, Raises Price Target to $76",
-      "resumen": "Guggenheim  analyst Vamil Divan   maintains Vera Therapeutics (NASDAQ:VERA) with a Buy and raises the price target from $56 to $76.",
-      "fuente": "Benzinga",
-      "fecha": "08 Jul 2026 09:27 UTC",
-      "url": "https://finnhub.io/api/news?id=7830eb04596966fd72cdbfb19c66d9cf14ab89096ac220e151cc6a9a13ec9d73",
+      "ticker": "ACRV",
+      "titulo": "Acrivon Therapeutics: Priced For Failure, Built For Precision",
+      "resumen": "",
+      "fuente": "SeekingAlpha",
+      "fecha": "13 Jul 2026 04:44 UTC",
+      "url": "https://finnhub.io/api/news?id=7187d15f0ef24233de63d0335381cbfcf4563c488471d9dbda9d8cedf3189207",
       "imagen": "",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
     },
     {
-      "ticker": "VERA",
-      "titulo": "TD Cowen Maintains Buy on Vera Therapeutics, Raises Price Target to $78",
-      "resumen": "TD Cowen  analyst Ritu Baral   maintains Vera Therapeutics (NASDAQ:VERA) with a Buy and raises the price target from $73 to $78.",
+      "ticker": "DNLI",
+      "titulo": "JP Morgan Reinstates Overweight on Denali Therapeutics, Announces $29 Price Target",
+      "resumen": "JP Morgan  analyst Jessica Fye   reinstates Denali Therapeutics (NASDAQ:DNLI) with a Overweight and announces $29 price target.",
       "fuente": "Benzinga",
-      "fecha": "08 Jul 2026 10:59 UTC",
-      "url": "https://finnhub.io/api/news?id=4ee818a3642e03df0bba077bf787f0e99f6298112c3723fed6a76b470e0b13a0",
+      "fecha": "13 Jul 2026 07:03 UTC",
+      "url": "https://finnhub.io/api/news?id=c1e40d9eb6e5c144b7826866086796d109166fc354a2c7e4accab350e81dc0af",
       "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "BEAM",
-      "titulo": "B of A Securities Reiterates Buy on Beam Therapeutics, Maintains $47 Price Target",
-      "resumen": "B of A Securities  analyst Alec Stranahan   reiterates Beam Therapeutics (NASDAQ:BEAM) with a Buy and maintains $47 price target.",
-      "fuente": "Benzinga",
-      "fecha": "08 Jul 2026 13:23 UTC",
-      "url": "https://finnhub.io/api/news?id=4d635e3eb124e810e518d03bff1169060867ca140cb99124795893a43830a0ed",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "BEAM",
-      "titulo": "Prime Medicine Secures Favorable Arbitration Ruling in Beam Therapeutics Case",
-      "resumen": "Prime Medicine won arbitration with Beam Therapeutics over PM647, avoiding damages and keeping its AATD gene-editing program on track.",
-      "fuente": "Benzinga",
-      "fecha": "08 Jul 2026 13:29 UTC",
-      "url": "https://finnhub.io/api/news?id=731030612559ec009f36ecddee68c793303e24ddb5409c91f1dbd145113e7613",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/08/Physician-And-Patient-Examine-A-Holograp.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "Novo Nordisk's Wegovy Pill Escalates Eli Lilly Rivalry",
-      "resumen": "Novo Nordisk regains competitive ground in obesity with the strong launch of the Wegovy pill, reversing some of the recent underperformance against Eli Lilly.",
-      "fuente": "SeekingAlpha",
-      "fecha": "09 Jul 2026 08:46 UTC",
-      "url": "https://finnhub.io/api/news?id=840cbddb211ad3a61dbdba03223eb2cf874f8da5b0b48f025699b494ac5f7406",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2256411028/image_2256411028.jpg?io=getty-c-w1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "GPCR",
-      "titulo": "Novo Nordisk's Wegovy Pill Escalates Eli Lilly Rivalry",
-      "resumen": "Novo Nordisk regains competitive ground in obesity with the strong launch of the Wegovy pill, reversing some of the recent underperformance against Eli Lilly.",
-      "fuente": "SeekingAlpha",
-      "fecha": "09 Jul 2026 08:46 UTC",
-      "url": "https://finnhub.io/api/news?id=840cbddb211ad3a61dbdba03223eb2cf874f8da5b0b48f025699b494ac5f7406",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2256411028/image_2256411028.jpg?io=getty-c-w1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "BEAM",
-      "titulo": "Prime Medicine Beats Beam Therapeutics In Patent Dispute - But Both Are Investable",
-      "resumen": "Prime Medicine, Inc. wins arbitration vs. Beam Therapeutics Inc., advancing PM647 for AATD. Read more on PRME and BEAM stocks here.",
-      "fuente": "SeekingAlpha",
-      "fecha": "09 Jul 2026 10:22 UTC",
-      "url": "https://finnhub.io/api/news?id=66b113cc647ada2f53d180fd790e65469865ec151622404cb7a547839bd53370",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2218724360/image_2218724360.jpg?io=getty-c-w1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ABVX",
-      "titulo": "Piper Sandler Maintains Overweight on Abivax, Raises Price Target to $175",
-      "resumen": "Piper Sandler  analyst Allison Bratzel   maintains Abivax (NASDAQ:ABVX) with a Overweight and raises the price target from $165 to $175.",
-      "fuente": "Benzinga",
-      "fecha": "09 Jul 2026 11:59 UTC",
-      "url": "https://finnhub.io/api/news?id=77533a58d0d1090fe97c02589909bdc22c912fbd84866329fdc3eaac22f76f92",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ABVX",
-      "titulo": "9 Health Care Stocks With Whale Alerts In Today’s Session",
-      "resumen": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
-      "fuente": "Benzinga",
-      "fecha": "09 Jul 2026 13:35 UTC",
-      "url": "https://finnhub.io/api/news?id=f85d59ff5cf636e53f4a04b2a9899cbee55215709e026bf0dbff25839923e5cd",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VERA",
-      "titulo": "Vera Therapeutics: A Crowded IgAN Market Leaves No Room For A Premium (Downgrade)",
-      "resumen": "Vera Therapeutics faces tough IgAN competition as Trutakna looks late and undifferentiated. A rich valuation adds risk. Read the latest analysis on the VERA stock here.",
-      "fuente": "SeekingAlpha",
-      "fecha": "09 Jul 2026 15:10 UTC",
-      "url": "https://finnhub.io/api/news?id=762d7df6bd092caca684b1bfed005e599f279d5a4db39f8d568393b760f8b414",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1336638723/image_1336638723.jpg?io=getty-c-w1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals Just Made a $10 Billion Move. Is the Stock a Buy?",
-      "resumen": "Additional blockbuster drugs may be on the horizon.",
-      "fuente": "Yahoo",
-      "fecha": "10 Jul 2026 08:25 UTC",
-      "url": "https://finnhub.io/api/news?id=cdd9c810230d73c852b260a9d4bceec99d4b0eebc8f9e6457c65267d2e0ad5c7",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "The Long Climb Back For Ionis Stock",
-      "resumen": "A look at the company's history of deep drawdowns shows the real risk shareholders are carrying today.",
-      "fuente": "Yahoo",
-      "fecha": "10 Jul 2026 11:35 UTC",
-      "url": "https://finnhub.io/api/news?id=70bace5e39146e0e64ac0773b15c6a491cc88cb329eb3be14cd2305070834fcd",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
     },
     {
       "ticker": "ALNY",
-      "titulo": "The Long Climb Back For Ionis Stock",
-      "resumen": "A look at the company's history of deep drawdowns shows the real risk shareholders are carrying today.",
+      "titulo": "What It Means To Hold Moderna Stock In A Crash",
+      "resumen": "The company's pipeline is more advanced than ever, but its history shows a pattern of deep, prolonged drops when the market turns.",
       "fuente": "Yahoo",
-      "fecha": "10 Jul 2026 11:35 UTC",
-      "url": "https://finnhub.io/api/news?id=70bace5e39146e0e64ac0773b15c6a491cc88cb329eb3be14cd2305070834fcd",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Beyond The Breakout Drug: Is BridgeBio Pharma Stock A Buy On Its Next Act?",
-      "resumen": "With its lead drug driving rapid growth and three more on deck, the biotech is betting it can outrun future competition and a history of volatility.",
-      "fuente": "Yahoo",
-      "fecha": "10 Jul 2026 12:14 UTC",
-      "url": "https://finnhub.io/api/news?id=261335ddb3a4405ad09573cc88858404a83f044cb91dc30fe6fb403e911b1373",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Beyond The Breakout Drug: Is BridgeBio Pharma Stock A Buy On Its Next Act?",
-      "resumen": "With its lead drug driving rapid growth and three more on deck, the biotech is betting it can outrun future competition and a history of volatility.",
-      "fuente": "Yahoo",
-      "fecha": "10 Jul 2026 12:14 UTC",
-      "url": "https://finnhub.io/api/news?id=261335ddb3a4405ad09573cc88858404a83f044cb91dc30fe6fb403e911b1373",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "If You Invested $1000 in Vertex Pharmaceuticals a Decade Ago, This is How Much It'd Be Worth Now",
-      "resumen": "Why investing for the long run, especially if you buy certain popular stocks, could reap huge rewards.",
-      "fuente": "Yahoo",
-      "fecha": "10 Jul 2026 12:30 UTC",
-      "url": "https://finnhub.io/api/news?id=af70857a11cc855d135aa4dbacdfb09561eefbc7830e6114b9d2980a93d0ad6f",
+      "fecha": "13 Jul 2026 13:12 UTC",
+      "url": "https://finnhub.io/api/news?id=c3654f647a3a47105890017a1058d688704c7d5e8383e61c6ed4d24e55ec464f",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",

@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 13/07/2026 16:15 | Período: últimos 7 días
-Desde: 2026-07-06 → Hasta: 2026-07-13
+Generado: 14/07/2026 12:00 | Período: últimos 7 días
+Desde: 2026-07-07 → Hasta: 2026-07-14
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 12 filings | 🔴 0 | 🟢 2 | 🟡 6 | 🔵 4 | ✅ 11 sin novedad
+RESUMEN: 11 filings | 🔴 0 | 🟢 2 | 🟡 5 | 🔵 4 | ✅ 11 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (2)
@@ -38,7 +38,7 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [DNLI] Sin novedades
   ✅ [VKTX] Sin novedades
 
-  🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 4 filing(s)
+  🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 3 filing(s)
      🟡 MEDIA 4 | 2026-07-07 | Tatsis Ourania (EVP, Chief Reg. & Quality Off.) → Venta 1,500 acciones @ $524.99 | Post: 45,321 | Rutinaria/RSU/impuestos
      Insider: Tatsis Ourania (EVP, Chief Reg. & Quality Off.) → Venta 1,500 acciones @ $524.99 | Post: 45,321 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000245/xslF345X06/wk-form4_1783455338.xml
@@ -47,9 +47,6 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000243/xslF345X06/wk-form4_1783454880.xml
      🟡 MEDIA 8-K | 2026-07-07 | 8-K — Posible deuda/obligación financiera; revisar condiciones [Items: 1.01, 7.01, 8.01, 9.01]
      → https://www.sec.gov/Archives/edgar/data/875320/000119312526296710/d113650d8k.htm
-     🟡 MEDIA 4 | 2026-07-06 | Liu Joy (EVP and Chief Legal Officer) → Venta 828 acciones @ $502.71 | Post: 19,131 | Rutinaria/RSU/impuestos
-     Insider: Liu Joy (EVP and Chief Legal Officer) → Venta 828 acciones @ $502.71 | Post: 19,131 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000241/xslF345X06/wk-form4_1783368787.xml
   ✅ [ALNY] Sin novedades
   ✅ [BEAM] Sin novedades
   ✅ [OCUL] Sin novedades

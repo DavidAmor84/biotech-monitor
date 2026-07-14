@@ -1,14 +1,14 @@
 {
   "version": "v3",
-  "generado": "13/07/2026 16:15",
+  "generado": "14/07/2026 12:00",
   "periodo_dias": 7,
-  "desde": "2026-07-06",
-  "hasta": "2026-07-13",
+  "desde": "2026-07-07",
+  "hasta": "2026-07-14",
   "resumen": {
-    "total_filings": 12,
+    "total_filings": 11,
     "alertas_rojas": 0,
     "alertas_verdes": 2,
-    "alertas_amarillas": 6,
+    "alertas_amarillas": 5,
     "alertas_azules": 4,
     "sin_novedad": 11
   },
@@ -204,32 +204,6 @@
             "badge_ajustado": "🟡 MEDIA",
             "resumen_ajustado": "8-K — Posible deuda/obligación financiera; revisar condiciones"
           },
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-07-06",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Liu Joy (EVP and Chief Legal Officer) → Venta 828 acciones @ $502.71 | Post: 19,131 | Rutinaria/RSU/impuestos",
-          "detalle": "FORM 4",
-          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
-          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000241/xslF345X06/wk-form4_1783368787.xml",
-          "form4_detail": {
-            "insider_nombre": "Liu Joy",
-            "insider_cargo": "EVP and Chief Legal Officer",
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "828",
-            "transaccion_precio": "502.71",
-            "transaccion_fecha": "2026-07-01",
-            "acciones_post": "19131",
-            "footnotes": "Transaction made pursuant to Ms. Liu's company approved trading plan under Rule 10b5-1, which was entered into on 11/25/2025.",
-            "es_rutinaria": true,
-            "resumen_detail": "Liu Joy (EVP and Chief Legal Officer) → Venta 828 acciones @ $502.71 | Post: 19,131 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
           "10q_detail": null,
           "prospecto_detail": null
         }
@@ -875,34 +849,6 @@
         "badge_ajustado": "🟢 ALTA",
         "resumen_ajustado": "8-K — Evento positivo potencial: Aprobación acelerada"
       },
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "VRTX",
-      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
-      "form": "4",
-      "fecha": "2026-07-06",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Liu Joy (EVP and Chief Legal Officer) → Venta 828 acciones @ $502.71 | Post: 19,131 | Rutinaria/RSU/impuestos",
-      "detalle": "FORM 4",
-      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
-      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000241/xslF345X06/wk-form4_1783368787.xml",
-      "form4_detail": {
-        "insider_nombre": "Liu Joy",
-        "insider_cargo": "EVP and Chief Legal Officer",
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "828",
-        "transaccion_precio": "502.71",
-        "transaccion_fecha": "2026-07-01",
-        "acciones_post": "19131",
-        "footnotes": "Transaction made pursuant to Ms. Liu's company approved trading plan under Rule 10b5-1, which was entered into on 11/25/2025.",
-        "es_rutinaria": true,
-        "resumen_detail": "Liu Joy (EVP and Chief Legal Officer) → Venta 828 acciones @ $502.71 | Post: 19,131 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
       "10q_detail": null,
       "prospecto_detail": null
     }

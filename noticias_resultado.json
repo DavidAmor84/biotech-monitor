@@ -1,12 +1,24 @@
 {
-  "generado": "15/07/2026 12:06 UTC",
+  "generado": "16/07/2026 12:11 UTC",
   "plazo_horas": 72,
-  "desde": "2026-07-12",
-  "hasta": "2026-07-15",
+  "desde": "2026-07-13",
+  "hasta": "2026-07-16",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
       "noticias": [
+        {
+          "ticker": "SNDX",
+          "titulo": "HC Wainwright & Co. Reiterates Buy on Syndax Pharmaceuticals, Maintains $40 Price Target",
+          "resumen": "HC Wainwright &amp; Co.  analyst Andres Y. Maldonado   reiterates Syndax Pharmaceuticals (NASDAQ:SNDX) with a Buy and maintains $40 price target.",
+          "fuente": "Benzinga",
+          "fecha": "15 Jul 2026 06:29 UTC",
+          "url": "https://finnhub.io/api/news?id=459587bf00188d545fa01477431b6ebd2eccf4b986d0dd9d96cc136d03e2236d",
+          "imagen": "",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "SNDX",
           "titulo": "Syndax Pharmaceuticals, Inc. (SNDX) Discusses Pipeline Expansion and Next Phase of Innovation for Lead Therapies Transcript",
@@ -45,13 +57,26 @@
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 4
     },
     "ARGX": {
       "nombre": "ARGX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ARGX",
+          "titulo": "Artisan Mid Cap Fund Q2 2026 Performance Review",
+          "resumen": "Artisan Mid Cap Fund portfolio generated strong absolute returns and outpaced the Russell MidcapÂ® Growth Index. Read more here.",
+          "fuente": "SeekingAlpha",
+          "fecha": "15 Jul 2026 13:56 UTC",
+          "url": "https://finnhub.io/api/news?id=9ea669041b7b7a8adcc9db15934485b194ba72279e2d2187e204a134da4856a2",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2224008766/image_2224008766.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "DYN": {
       "nombre": "DYN",
@@ -61,22 +86,9 @@
     },
     "DNLI": {
       "nombre": "DNLI",
-      "noticias": [
-        {
-          "ticker": "DNLI",
-          "titulo": "JP Morgan Reinstates Overweight on Denali Therapeutics, Announces $29 Price Target",
-          "resumen": "JP Morgan  analyst Jessica Fye   reinstates Denali Therapeutics (NASDAQ:DNLI) with a Overweight and announces $29 price target.",
-          "fuente": "Benzinga",
-          "fecha": "13 Jul 2026 07:03 UTC",
-          "url": "https://finnhub.io/api/news?id=c1e40d9eb6e5c144b7826866086796d109166fc354a2c7e4accab350e81dc0af",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "VKTX": {
       "nombre": "VKTX",
@@ -87,6 +99,42 @@
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
+        {
+          "ticker": "VRTX",
+          "titulo": "The Battle For Sickle Cell",
+          "resumen": "The curing sickle cell through gene therapy story is a long way from being written. But itâs for sure that it has not gone like some of its participants have wanted it to. Read more here...",
+          "fuente": "SeekingAlpha",
+          "fecha": "16 Jul 2026 07:30 UTC",
+          "url": "https://finnhub.io/api/news?id=c5cd568c38c82229699ecfeff65d5f3e8af22b1b318f0d131623d8f2582c384d",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2190808580/image_2190808580.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "IBB ETF Holds Fewer Bets Than You Think",
+          "resumen": "An ETF's label tells you the category, but the real story is always in the portfolio's actual shape.",
+          "fuente": "Yahoo",
+          "fecha": "15 Jul 2026 16:23 UTC",
+          "url": "https://finnhub.io/api/news?id=a706d9b34a32e9ee4e72c8bb0e5c93ecc188bc198255ecbd232c037a410bf5d7",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex to Acquire Crinetics Pharmaceuticals (CRNX) in $85 Per Share Cash Deal",
+          "resumen": "Crinetics Pharmaceuticals Inc. (NASDAQ:CRNX) is one of the 10 affordable biotech stocks to buy right now. On July 6, Crinetics Pharmaceuticals Inc. (NASDAQ:CRNX) and Vertex Pharmaceuticals announced that both companies have agreed to a definitive agreement, according to which Vertex will acquire Cri",
+          "fuente": "Yahoo",
+          "fecha": "15 Jul 2026 14:01 UTC",
+          "url": "https://finnhub.io/api/news?id=894eb83bae3b7701338821979d336d28e14b5029ab6a7dc8a0330d7df2b3d9fb",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "VRTX",
           "titulo": "Here's Why Vertex Was Willing to Pay a Premium of More Than 100% for Crinetics Pharmaceuticals",
@@ -110,42 +158,6 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vortex Energy Corp. Announces Closing of LIFE Offering",
-          "resumen": "NOT FOR DISTRIBUTION TO UNITED STATES NEWS WIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES VANCOUVER, British Columbia, July 13, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) announces that it has closed its previously announced ",
-          "fuente": "Yahoo",
-          "fecha": "13 Jul 2026 21:46 UTC",
-          "url": "https://finnhub.io/api/news?id=cd9d911d1d1ddc04410b592e494aed229ad87f0921faa2794983c8582dbd1465",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Does Vertex's Acquisition of Crinetics Pharmaceuticals Make the Stock a No-Brainer Buy?",
-          "resumen": "Vertex Pharmaceuticals recently announced its largest-ever acquisition.",
-          "fuente": "Yahoo",
-          "fecha": "13 Jul 2026 18:47 UTC",
-          "url": "https://finnhub.io/api/news?id=e8a7de07cc162dea1ae6251224928f62de69baad025c1e8b989c861cc24f2a14",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "UBS Maintains Buy on Vertex Pharmaceuticals, Raises Price Target to $585",
-          "resumen": "UBS  analyst Michael Yee   maintains Vertex Pharmaceuticals (NASDAQ:VRTX) with a Buy and raises the price target from $545 to $585.",
-          "fuente": "Benzinga",
-          "fecha": "13 Jul 2026 14:18 UTC",
-          "url": "https://finnhub.io/api/news?id=7de8e9d2f4590eeb57173c106d795ec9e57e4287831ea47e3a3f0eb5dc45f49e",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -154,6 +166,30 @@
     "ALNY": {
       "nombre": "ALNY",
       "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam Pharmaceuticals: Commercial Momentum Outweighs TTR Read-Through Concerns",
+          "resumen": "Alnylam's robust cash position and GAAP profitability materially reduce investment risk and support pipeline development. Learn why ALNY stock is a buy.",
+          "fuente": "SeekingAlpha",
+          "fecha": "16 Jul 2026 05:44 UTC",
+          "url": "https://finnhub.io/api/news?id=6c41d8cbb265afb80c85d2362a2e9febc732bbbc89c928ab7244c7f028f02a08",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2164266249/image_2164266249.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "AstraZeneca's Oncology Engine Keeps Running Despite Wainua Setback",
+          "resumen": "AstraZeneca PLC Q2 2026 preview: revenue growth, Enhertu sales surge and EU approval, plus risk/reward after Wainua trial setback. Click for this AZN stock update.",
+          "fuente": "SeekingAlpha",
+          "fecha": "15 Jul 2026 12:54 UTC",
+          "url": "https://finnhub.io/api/news?id=57000288ae8e34864fe003c9dc01032ef3345e614ac1f58d27e5e9465af2590c",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1365641802/image_1365641802.jpg?io=getty-c-w1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "ALNY",
           "titulo": "Alnylam Highlights Progress with Neuroscience Programs at AAIC 2026, Showcasing Potential of RNAi in Neurological Disease",
@@ -168,48 +204,24 @@
         },
         {
           "ticker": "ALNY",
-          "titulo": "Morgan Stanley Raises its Price Target on Alnylam (ALNY)",
-          "resumen": "Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) is one of the 10 Best Growth Stocks With Highest Upside Potential. On July 10, 2026, Morgan Stanley raised the firm’s price target on Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) to $400 from $370 and kept an Equal Weight rating on the shares. On July 9, Ra",
-          "fuente": "Yahoo",
-          "fecha": "14 Jul 2026 16:09 UTC",
-          "url": "https://finnhub.io/api/news?id=520ae3fd2b61bf908d96299e9e0f17b5b68e74afaf0e6c4901ec350c65eb502b",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Alnylam Pharmaceuticals' Q2 Results to Determine 2026 Revenue Outlook, BofA Securities Says",
-          "resumen": "Alnylam Pharmaceuticals' (ALNY) Q2 financial results will be important in determining where 2026 rev",
-          "fuente": "Yahoo",
-          "fecha": "14 Jul 2026 14:50 UTC",
-          "url": "https://finnhub.io/api/news?id=e2831530f022642d5385ef8bd80714986aa6054ef2eab67b95b3f19a353c069c",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "titulo": "Alnylam Highlights Neuroscience Progress At AAIC 2026, Initiating Phase 2 APPlauDS Study Of Mivelsiran In Down Syndrome-Associated Alzheimer's While Completing cAPPricorn-1 Enrollment In CAA",
+          "resumen": "− Initiates Global Phase 2 APPlauDS Study of Mivelsiran in Down Syndrome–Associated Alzheimer’s Disease (DS-AD) −− Announces Completion of Enrollment in the Phase 2 cAPPricorn-1 Study of Mivelsiran in Cerebral Amyloid",
+          "fuente": "Benzinga",
+          "fecha": "15 Jul 2026 03:48 UTC",
+          "url": "https://finnhub.io/api/news?id=049645e4a926f3860376cded2ba554e04b42509992f9382273396ad2f858adaa",
+          "imagen": "",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
         },
         {
           "ticker": "ALNY",
-          "titulo": "Amyloidosis Continues To Fight Back",
-          "resumen": "AstraZeneca and its partners at Ionis have been working on an antisense oligonucleotide therapy (eplontersen) to slow progression of transthyretin-mediated amyloidosis. That failed recently.",
-          "fuente": "SeekingAlpha",
-          "fecha": "14 Jul 2026 09:55 UTC",
-          "url": "https://finnhub.io/api/news?id=d1e50f23502de28fad666576165d604544f40c24c8b907ed142e3117dd72ed32",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/506031046/image_506031046.jpg?io=getty-c-w1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "B of A Securities Maintains Buy on Alnylam Pharmaceuticals, Lowers Price Target to $410",
-          "resumen": "B of A Securities  analyst Tazeen Ahmad   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Buy and lowers the price target from $460 to $410.",
-          "fuente": "Benzinga",
-          "fecha": "14 Jul 2026 09:42 UTC",
-          "url": "https://finnhub.io/api/news?id=a69f3faeb6e8f682998ec3b70e3ef7fd4bc251da1c0bc6a7f6d94b9175a9201d",
-          "imagen": "",
+          "titulo": "Morgan Stanley Raises its Price Target on Alnylam (ALNY)",
+          "resumen": "Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) is one of the 10 Best Growth Stocks With Highest Upside Potential. On July 10, 2026, Morgan Stanley raised the firm’s price target on Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) to $400 from $370 and kept an Equal Weight rating on the shares. On July 9, Ra",
+          "fuente": "Yahoo",
+          "fecha": "14 Jul 2026 16:09 UTC",
+          "url": "https://finnhub.io/api/news?id=520ae3fd2b61bf908d96299e9e0f17b5b68e74afaf0e6c4901ec350c65eb502b",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
@@ -220,9 +232,22 @@
     },
     "BEAM": {
       "nombre": "BEAM",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "BEAM",
+          "titulo": "The Battle For Sickle Cell",
+          "resumen": "The curing sickle cell through gene therapy story is a long way from being written. But itâs for sure that it has not gone like some of its participants have wanted it to. Read more here...",
+          "fuente": "SeekingAlpha",
+          "fecha": "16 Jul 2026 07:30 UTC",
+          "url": "https://finnhub.io/api/news?id=c5cd568c38c82229699ecfeff65d5f3e8af22b1b318f0d131623d8f2582c384d",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2190808580/image_2190808580.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "OCUL": {
       "nombre": "OCUL",
@@ -269,22 +294,9 @@
     },
     "ACRV": {
       "nombre": "ACRV",
-      "noticias": [
-        {
-          "ticker": "ACRV",
-          "titulo": "Acrivon Therapeutics: Priced For Failure, Built For Precision",
-          "resumen": "",
-          "fuente": "SeekingAlpha",
-          "fecha": "13 Jul 2026 04:44 UTC",
-          "url": "https://finnhub.io/api/news?id=7187d15f0ef24233de63d0335381cbfcf4563c488471d9dbda9d8cedf3189207",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "TARA": {
       "nombre": "TARA",
@@ -295,6 +307,18 @@
     "SENS": {
       "nombre": "SENS",
       "noticias": [
+        {
+          "ticker": "SENS",
+          "titulo": "Mizuho Maintains Outperform on Senseonics Holdings, Lowers Price Target to $18",
+          "resumen": "Mizuho  analyst Anthony Petrone   maintains Senseonics Holdings (NASDAQ:SENS) with a Outperform and lowers the price target from $20 to $18.",
+          "fuente": "Benzinga",
+          "fecha": "15 Jul 2026 14:33 UTC",
+          "url": "https://finnhub.io/api/news?id=4d1719984d8a6a95beac0ecb0133479f575c287ea369ef49ff5b3ea592cf4ae0",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "SENS",
           "titulo": "Senseonics: Implantable Sensor, Unsustainable Spend",
@@ -309,11 +333,23 @@
         }
       ],
       "nivel": "azul",
-      "total": 1
+      "total": 2
     },
     "INSM": {
       "nombre": "INSM",
       "noticias": [
+        {
+          "ticker": "INSM",
+          "titulo": "Wells Fargo Maintains Overweight on Insmed, Raises Price Target to $161",
+          "resumen": "Wells Fargo  analyst Benjamin Burnett   maintains Insmed (NASDAQ:INSM) with a Overweight and raises the price target from $160 to $161.",
+          "fuente": "Benzinga",
+          "fecha": "15 Jul 2026 07:46 UTC",
+          "url": "https://finnhub.io/api/news?id=73ae7afa770eef9ff3f1b3f9178f0f17e0e5f702a5efda9c1a3b68d18aebf194",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "INSM",
           "titulo": "Carillon Eagle Mid Cap Growth Fund Q2 2026 Portfolio Review",
@@ -328,28 +364,16 @@
         }
       ],
       "nivel": "rojo",
-      "total": 1
+      "total": 2
     }
   },
   "resumen": {
-    "total_noticias": 18,
+    "total_noticias": 21,
     "tickers_con_noticias": 8,
     "alertas_urgentes": 5,
     "sin_noticias": 9
   },
   "todas_noticias": [
-    {
-      "ticker": "VRTX",
-      "titulo": "Does Vertex's Acquisition of Crinetics Pharmaceuticals Make the Stock a No-Brainer Buy?",
-      "resumen": "Vertex Pharmaceuticals recently announced its largest-ever acquisition.",
-      "fuente": "Yahoo",
-      "fecha": "13 Jul 2026 18:47 UTC",
-      "url": "https://finnhub.io/api/news?id=e8a7de07cc162dea1ae6251224928f62de69baad025c1e8b989c861cc24f2a14",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "CAI",
       "titulo": "Caris Life Sciences To Offer In-House PTEN Immunohistochemistry Testing After Recent FDA Approval Of Biomarker-Guided Therapy And Diagnostic Assay",
@@ -399,18 +423,6 @@
       "badge": "🔴"
     },
     {
-      "ticker": "ALNY",
-      "titulo": "Alnylam Pharmaceuticals' Q2 Results to Determine 2026 Revenue Outlook, BofA Securities Says",
-      "resumen": "Alnylam Pharmaceuticals' (ALNY) Q2 financial results will be important in determining where 2026 rev",
-      "fuente": "Yahoo",
-      "fecha": "14 Jul 2026 14:50 UTC",
-      "url": "https://finnhub.io/api/news?id=e2831530f022642d5385ef8bd80714986aa6054ef2eab67b95b3f19a353c069c",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
       "ticker": "SNDX",
       "titulo": "A Fresh Look At Syndax Pharmaceuticals",
       "resumen": "Syndax Pharma outlook: Revuforj first-mover edge, pipeline catalysts (Niktimvo), and profitability path amid misses. Click here to read more about SNDX.",
@@ -418,6 +430,18 @@
       "fecha": "14 Jul 2026 16:48 UTC",
       "url": "https://finnhub.io/api/news?id=40bf04d5730d9953faaebb0f7710b06678dc230e6d9574421efc3f181641f562",
       "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2250479883/image_2250479883.jpg?io=getty-c-w1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam Highlights Neuroscience Progress At AAIC 2026, Initiating Phase 2 APPlauDS Study Of Mivelsiran In Down Syndrome-Associated Alzheimer's While Completing cAPPricorn-1 Enrollment In CAA",
+      "resumen": "− Initiates Global Phase 2 APPlauDS Study of Mivelsiran in Down Syndrome–Associated Alzheimer’s Disease (DS-AD) −− Announces Completion of Enrollment in the Phase 2 cAPPricorn-1 Study of Mivelsiran in Cerebral Amyloid",
+      "fuente": "Benzinga",
+      "fecha": "15 Jul 2026 03:48 UTC",
+      "url": "https://finnhub.io/api/news?id=049645e4a926f3860376cded2ba554e04b42509992f9382273396ad2f858adaa",
+      "imagen": "",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
@@ -435,52 +459,40 @@
       "badge": "🔴"
     },
     {
-      "ticker": "ACRV",
-      "titulo": "Acrivon Therapeutics: Priced For Failure, Built For Precision",
-      "resumen": "",
+      "ticker": "SNDX",
+      "titulo": "HC Wainwright & Co. Reiterates Buy on Syndax Pharmaceuticals, Maintains $40 Price Target",
+      "resumen": "HC Wainwright &amp; Co.  analyst Andres Y. Maldonado   reiterates Syndax Pharmaceuticals (NASDAQ:SNDX) with a Buy and maintains $40 price target.",
+      "fuente": "Benzinga",
+      "fecha": "15 Jul 2026 06:29 UTC",
+      "url": "https://finnhub.io/api/news?id=459587bf00188d545fa01477431b6ebd2eccf4b986d0dd9d96cc136d03e2236d",
+      "imagen": "",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "AstraZeneca's Oncology Engine Keeps Running Despite Wainua Setback",
+      "resumen": "AstraZeneca PLC Q2 2026 preview: revenue growth, Enhertu sales surge and EU approval, plus risk/reward after Wainua trial setback. Click for this AZN stock update.",
       "fuente": "SeekingAlpha",
-      "fecha": "13 Jul 2026 04:44 UTC",
-      "url": "https://finnhub.io/api/news?id=7187d15f0ef24233de63d0335381cbfcf4563c488471d9dbda9d8cedf3189207",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "DNLI",
-      "titulo": "JP Morgan Reinstates Overweight on Denali Therapeutics, Announces $29 Price Target",
-      "resumen": "JP Morgan  analyst Jessica Fye   reinstates Denali Therapeutics (NASDAQ:DNLI) with a Overweight and announces $29 price target.",
-      "fuente": "Benzinga",
-      "fecha": "13 Jul 2026 07:03 UTC",
-      "url": "https://finnhub.io/api/news?id=c1e40d9eb6e5c144b7826866086796d109166fc354a2c7e4accab350e81dc0af",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "fecha": "15 Jul 2026 12:54 UTC",
+      "url": "https://finnhub.io/api/news?id=57000288ae8e34864fe003c9dc01032ef3345e614ac1f58d27e5e9465af2590c",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1365641802/image_1365641802.jpg?io=getty-c-w1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "VRTX",
-      "titulo": "UBS Maintains Buy on Vertex Pharmaceuticals, Raises Price Target to $585",
-      "resumen": "UBS  analyst Michael Yee   maintains Vertex Pharmaceuticals (NASDAQ:VRTX) with a Buy and raises the price target from $545 to $585.",
-      "fuente": "Benzinga",
-      "fecha": "13 Jul 2026 14:18 UTC",
-      "url": "https://finnhub.io/api/news?id=7de8e9d2f4590eeb57173c106d795ec9e57e4287831ea47e3a3f0eb5dc45f49e",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vortex Energy Corp. Announces Closing of LIFE Offering",
-      "resumen": "NOT FOR DISTRIBUTION TO UNITED STATES NEWS WIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES VANCOUVER, British Columbia, July 13, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) announces that it has closed its previously announced ",
+      "titulo": "Vertex to Acquire Crinetics Pharmaceuticals (CRNX) in $85 Per Share Cash Deal",
+      "resumen": "Crinetics Pharmaceuticals Inc. (NASDAQ:CRNX) is one of the 10 affordable biotech stocks to buy right now. On July 6, Crinetics Pharmaceuticals Inc. (NASDAQ:CRNX) and Vertex Pharmaceuticals announced that both companies have agreed to a definitive agreement, according to which Vertex will acquire Cri",
       "fuente": "Yahoo",
-      "fecha": "13 Jul 2026 21:46 UTC",
-      "url": "https://finnhub.io/api/news?id=cd9d911d1d1ddc04410b592e494aed229ad87f0921faa2794983c8582dbd1465",
+      "fecha": "15 Jul 2026 14:01 UTC",
+      "url": "https://finnhub.io/api/news?id=894eb83bae3b7701338821979d336d28e14b5029ab6a7dc8a0330d7df2b3d9fb",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "VRTX",
@@ -490,30 +502,6 @@
       "fecha": "13 Jul 2026 22:00 UTC",
       "url": "https://finnhub.io/api/news?id=3d6b8baa9a83aa76e7cac3b939b0b62322f2dc6cbddd01beda9acf03fcca2fe6",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "B of A Securities Maintains Buy on Alnylam Pharmaceuticals, Lowers Price Target to $410",
-      "resumen": "B of A Securities  analyst Tazeen Ahmad   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Buy and lowers the price target from $460 to $410.",
-      "fuente": "Benzinga",
-      "fecha": "14 Jul 2026 09:42 UTC",
-      "url": "https://finnhub.io/api/news?id=a69f3faeb6e8f682998ec3b70e3ef7fd4bc251da1c0bc6a7f6d94b9175a9201d",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Amyloidosis Continues To Fight Back",
-      "resumen": "AstraZeneca and its partners at Ionis have been working on an antisense oligonucleotide therapy (eplontersen) to slow progression of transthyretin-mediated amyloidosis. That failed recently.",
-      "fuente": "SeekingAlpha",
-      "fecha": "14 Jul 2026 09:55 UTC",
-      "url": "https://finnhub.io/api/news?id=d1e50f23502de28fad666576165d604544f40c24c8b907ed142e3117dd72ed32",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/506031046/image_506031046.jpg?io=getty-c-w1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
@@ -550,6 +538,90 @@
       "fecha": "15 Jul 2026 07:30 UTC",
       "url": "https://finnhub.io/api/news?id=d112bbc35cd23cef6663194c1dd188048dd9e6354fe379220e3a72c4e5032fcb",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Wells Fargo Maintains Overweight on Insmed, Raises Price Target to $161",
+      "resumen": "Wells Fargo  analyst Benjamin Burnett   maintains Insmed (NASDAQ:INSM) with a Overweight and raises the price target from $160 to $161.",
+      "fuente": "Benzinga",
+      "fecha": "15 Jul 2026 07:46 UTC",
+      "url": "https://finnhub.io/api/news?id=73ae7afa770eef9ff3f1b3f9178f0f17e0e5f702a5efda9c1a3b68d18aebf194",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "Artisan Mid Cap Fund Q2 2026 Performance Review",
+      "resumen": "Artisan Mid Cap Fund portfolio generated strong absolute returns and outpaced the Russell MidcapÂ® Growth Index. Read more here.",
+      "fuente": "SeekingAlpha",
+      "fecha": "15 Jul 2026 13:56 UTC",
+      "url": "https://finnhub.io/api/news?id=9ea669041b7b7a8adcc9db15934485b194ba72279e2d2187e204a134da4856a2",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2224008766/image_2224008766.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "SENS",
+      "titulo": "Mizuho Maintains Outperform on Senseonics Holdings, Lowers Price Target to $18",
+      "resumen": "Mizuho  analyst Anthony Petrone   maintains Senseonics Holdings (NASDAQ:SENS) with a Outperform and lowers the price target from $20 to $18.",
+      "fuente": "Benzinga",
+      "fecha": "15 Jul 2026 14:33 UTC",
+      "url": "https://finnhub.io/api/news?id=4d1719984d8a6a95beac0ecb0133479f575c287ea369ef49ff5b3ea592cf4ae0",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "IBB ETF Holds Fewer Bets Than You Think",
+      "resumen": "An ETF's label tells you the category, but the real story is always in the portfolio's actual shape.",
+      "fuente": "Yahoo",
+      "fecha": "15 Jul 2026 16:23 UTC",
+      "url": "https://finnhub.io/api/news?id=a706d9b34a32e9ee4e72c8bb0e5c93ecc188bc198255ecbd232c037a410bf5d7",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam Pharmaceuticals: Commercial Momentum Outweighs TTR Read-Through Concerns",
+      "resumen": "Alnylam's robust cash position and GAAP profitability materially reduce investment risk and support pipeline development. Learn why ALNY stock is a buy.",
+      "fuente": "SeekingAlpha",
+      "fecha": "16 Jul 2026 05:44 UTC",
+      "url": "https://finnhub.io/api/news?id=6c41d8cbb265afb80c85d2362a2e9febc732bbbc89c928ab7244c7f028f02a08",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2164266249/image_2164266249.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "The Battle For Sickle Cell",
+      "resumen": "The curing sickle cell through gene therapy story is a long way from being written. But itâs for sure that it has not gone like some of its participants have wanted it to. Read more here...",
+      "fuente": "SeekingAlpha",
+      "fecha": "16 Jul 2026 07:30 UTC",
+      "url": "https://finnhub.io/api/news?id=c5cd568c38c82229699ecfeff65d5f3e8af22b1b318f0d131623d8f2582c384d",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2190808580/image_2190808580.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "The Battle For Sickle Cell",
+      "resumen": "The curing sickle cell through gene therapy story is a long way from being written. But itâs for sure that it has not gone like some of its participants have wanted it to. Read more here...",
+      "fuente": "SeekingAlpha",
+      "fecha": "16 Jul 2026 07:30 UTC",
+      "url": "https://finnhub.io/api/news?id=c5cd568c38c82229699ecfeff65d5f3e8af22b1b318f0d131623d8f2582c384d",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2190808580/image_2190808580.jpg?io=getty-c-w1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

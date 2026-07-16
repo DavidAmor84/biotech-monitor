@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "14/07/2026 12:00",
+  "generado": "16/07/2026 12:10",
   "periodo_dias": 7,
-  "desde": "2026-07-07",
-  "hasta": "2026-07-14",
+  "desde": "2026-07-09",
+  "hasta": "2026-07-16",
   "resumen": {
-    "total_filings": 11,
+    "total_filings": 8,
     "alertas_rojas": 0,
-    "alertas_verdes": 2,
-    "alertas_amarillas": 5,
-    "alertas_azules": 4,
-    "sin_novedad": 11
+    "alertas_verdes": 1,
+    "alertas_amarillas": 2,
+    "alertas_azules": 5,
+    "sin_novedad": 12
   },
   "tickers": {
     "SNDX": {
@@ -20,6 +20,30 @@
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
       "filings": [
+        {
+          "form": "8-K",
+          "fecha": "2026-07-14",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "8-K — Posible financiación/dilución: pipe [Items: 8.01, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "Syndax Pharmaceuticals Inc",
+          "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526302608/sndx-20260714.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "8.01",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 8.01. Other Events. On July 14, 2026, Syndax Pharmaceuticals, Inc. (the Company ) issued a press release and presentation highlighting its late-stage programs and the next chapter of its R&amp;D strategy, including new pipeline assets, during its R&amp;D event held on July 14, 2026. A copy of the press release and presentation are furnished as Exhibits 99.1 and 99.2 to this Current Report on Form 8-K and are incorporated herein by reference. The information contained in this Item 8.01 and in Exhibits 99.1 and 99.2 attached hereto is intended to be furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any of the Company s filings under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 9.01. Financial Statements and Exhibits. (d) Exhibits. Exhibit No. Description 99.1 Press Release, dated July 14, 2026 99.2 Corporate Presentation, dated July 14, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. SYNDAX PHARMACEUTICALS, INC. By: /s/ Michael A. Metzger Michael A. Metzger Chief Executive Officer Dated: July 14, 2026",
+            "nivel_ajustado": "amarillo",
+            "badge_ajustado": "🟡 MEDIA",
+            "resumen_ajustado": "8-K — Posible financiación/dilución: pipe"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
         {
           "form": "4",
           "fecha": "2026-07-09",
@@ -47,8 +71,8 @@
           "prospecto_detail": null
         }
       ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "ARGX": {
@@ -68,36 +92,9 @@
       "cik": "0001818794",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-07-08",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Rhodes Jason P → Venta 253,039 acciones @ $22.79 | Post: 4,223,448 | Rutinaria/RSU/impuestos",
-          "detalle": "xslF345X06/form4-07082026_090708.xml",
-          "empresa_sec": "Dyne Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000157701426000014/xslF345X06/form4-07082026_090708.xml",
-          "form4_detail": {
-            "insider_nombre": "Rhodes Jason P",
-            "insider_cargo": null,
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "253039",
-            "transaccion_precio": "22.79",
-            "transaccion_fecha": "2026-07-06",
-            "acciones_post": "4223448",
-            "footnotes": "Shares were sold pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on March 19, 2026. The price reported in Column 4 is a weighted average price. These securities were sold in multiple transactions at prices ranging from $22.4163 to $23.25 inclusive. The Reporting Persons undertake to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of securities sold at each separate price within the ranges set forth in footnotes (2) and (6) through (8). The shares are held directly by Atlas Venture Fund XI, L.P. (\"Atlas Venture Fund XI\"). The general partner of Atlas Venture Fund XI is Atlas Venture Associates XI, L.P. (\"AVA XI LP\"). Atlas Venture Associates XI, LLC (\"AVA XI LLC\") is the general partner of AVA XI LP. The Reporting Person is a member of AVA XI LLC and disclaims Section 16 beneficial ownership of such securities held by Atlas Venture Fund XI, except to the extent of his pecuniary interest therein, if any. The shares are owned directly by Atlas Venture Opportunity Fund II, L.P. (\"AVOF II\"). Atlas Venture Associates Opportunity II, LP (\"AVAO II LP\") is the general partner of AVOF II. Atlas Venture Associates Opportunity II, LLC (\"AVAO II LLC\") is the general partner of AVAO II LP. The Reporting Person is a member of AVAO II LLC and disclaims Section 16 beneficial ownership of such securities held by AVOF II, except to the extent of his pecuni",
-            "es_rutinaria": true,
-            "resumen_detail": "Rhodes Jason P → Venta 253,039 acciones @ $22.79 | Post: 4,223,448 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "DNLI": {
@@ -128,88 +125,9 @@
       "cik": "0000875320",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-07-07",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Tatsis Ourania (EVP, Chief Reg. & Quality Off.) → Venta 1,500 acciones @ $524.99 | Post: 45,321 | Rutinaria/RSU/impuestos",
-          "detalle": "FORM 4",
-          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
-          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000245/xslF345X06/wk-form4_1783455338.xml",
-          "form4_detail": {
-            "insider_nombre": "Tatsis Ourania",
-            "insider_cargo": "EVP, Chief Reg. & Quality Off.",
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "1500",
-            "transaccion_precio": "524.99",
-            "transaccion_fecha": "2026-07-02",
-            "acciones_post": "45321",
-            "footnotes": "Transaction made pursuant to Dr. Tatsis' company approved trading plan under Rule 10b5-1, which was entered into on 08/21/2025.",
-            "es_rutinaria": true,
-            "resumen_detail": "Tatsis Ourania (EVP, Chief Reg. & Quality Off.) → Venta 1,500 acciones @ $524.99 | Post: 45,321 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-07-07",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "McKechnie Duncan (EVP, Chief Commercial Officer) → Venta 1,541 acciones @ $519.00 | Post: 11,001 | Rutinaria/RSU/impuestos",
-          "detalle": "FORM 4",
-          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
-          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000243/xslF345X06/wk-form4_1783454880.xml",
-          "form4_detail": {
-            "insider_nombre": "McKechnie Duncan",
-            "insider_cargo": "EVP, Chief Commercial Officer",
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "1541",
-            "transaccion_precio": "519",
-            "transaccion_fecha": "2026-07-02",
-            "acciones_post": "11001",
-            "footnotes": "Transaction made pursuant to Mr. McKechnie's company approved trading plan under Rule 10b5-1, which was entered into on 11/25/2025.",
-            "es_rutinaria": true,
-            "resumen_detail": "McKechnie Duncan (EVP, Chief Commercial Officer) → Venta 1,541 acciones @ $519.00 | Post: 11,001 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "8-K",
-          "fecha": "2026-07-07",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "8-K — Posible deuda/obligación financiera; revisar condiciones [Items: 1.01, 7.01, 8.01, 9.01]",
-          "detalle": "8-K",
-          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
-          "url": "https://www.sec.gov/Archives/edgar/data/875320/000119312526296710/d113650d8k.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "1.01",
-              "7.01",
-              "8.01",
-              "9.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 1.01. Entry into a Material Definitive Agreement. Merger Agreement On July 6, 2026, Vertex Pharmaceuticals Incorporated, a Massachusetts corporation ( Parent ), Clark Merger Sub, Inc., a Delaware corporation and a wholly owned subsidiary of Parent ( Merger Sub ), and Crinetics Pharmaceuticals, Inc., a Delaware corporation (the Company ), entered into an Agreement and Plan of Merger (the Merger Agreement ). Subject to the terms of the Merger Agreement, Merger Sub will be merged with and into the Company (the Merger ), with the Company surviving the Merger as a wholly owned subsidiary of Parent. Capitalized terms used herein and not otherwise defined herein have the meanings set forth in the Merger Agreement. On the terms and subject to the conditions set forth in the Merger Agreement, at the effective time of the Merger (the Effective Time ), each share of common stock of the Company, par value $0.001 per share (the Shares ) issued and outstanding immediately prior to the Effective Time (other than Shares owned by the Company or any subsidiary of the Company immediately prior to the Effective Time, Shares owned by Parent, Merger Sub or any other subsidiary of Parent immediately prior to the Effective Time, and Shares held by any person who is entitled to demand, and has properly demanded, appraisal in respect of such Shares pursuant to applicable law) will be canceled and automatically converted into the right to receive $85.00 per share in cash, without interest thereon and subject to applicable withholding taxes (the Merger Consideration ). Immediately prior to the Ef",
-            "nivel_ajustado": "amarillo",
-            "badge_ajustado": "🟡 MEDIA",
-            "resumen_ajustado": "8-K — Posible deuda/obligación financiera; revisar condiciones"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "ALNY": {
@@ -289,9 +207,36 @@
       "cik": "0001888886",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-07-15",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 23,634 acciones @ $0.34 | Post: 252,594 | Rutinaria/RSU/impuestos",
+          "detalle": "xslF345X06/form4-07152026_100751.xml",
+          "empresa_sec": "Structure Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000196292626000006/xslF345X06/form4-07152026_100751.xml",
+          "form4_detail": {
+            "insider_nombre": "Lin Xichen",
+            "insider_cargo": "CHIEF SCIENTIFIC OFFICER",
+            "transaccion_codigo": "M",
+            "transaccion_tipo": "Ejercicio opción",
+            "transaccion_acciones": "23634",
+            "transaccion_precio": "0.34",
+            "transaccion_fecha": "2026-07-14",
+            "acciones_post": "252594",
+            "footnotes": "Reflects price per share in Ordinary Shares. The Ordinary Shares were converted into American Depositary Shares as reported in Table II. 1/4 of the Ordinary Shares vested one year after July 22, 2019 (the \"Vesting Commencement Date\"); the balance of the Ordinary Shares vested in a series of 36 successive equal monthly installments measured from the first anniversary of the Vesting Commencement Date. This reflects the number of Ordinary Shares remaining under the share option following the partial exercise of the share option for 23,634 Ordinary Shares. Each American Depositary Share is convertible at any time, at the holder's election, into three Ordinary Shares of the Issuer.  The American Depositary Shares have no expiration date. 23,634 Ordinary Shares, which were acquired upon exercise of a share option, were converted into 7,878 American Depositary Shares. The American Depositary Shares were sold pursuant to a Rule 10b5-1 trading plan entered into on March 26, 2026. Reflects price per share in American Depositary Shares. The weighted average sale price for the transaction reported was $50.7956 and the range of prices were between $50.31 and $51.30. Upon request by the SEC staff, the Issuer, or any security holder of the Issuer, full information regarding the number of American Depositary Shares sold at each price will be provided. The weighted average sale price for the transaction reported was $51.7088, and the range of prices were between $51.32 and $52.27. Upon reques",
+            "es_rutinaria": true,
+            "resumen_detail": "Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 23,634 acciones @ $0.34 | Post: 252,594 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "ABVX": {
@@ -360,33 +305,10 @@
           },
           "10q_detail": null,
           "prospecto_detail": null
-        },
-        {
-          "form": "8-K",
-          "fecha": "2026-07-07",
-          "nivel": "verde",
-          "badge": "🟢 ALTA",
-          "resumen": "8-K — Evento positivo potencial: Aprobación acelerada [Items: 8.01]",
-          "detalle": "8-K",
-          "empresa_sec": "Vera Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1831828/000119312526297211/vera-20260707.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "8.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 8.01 Other Events. On July 7, 2026, Vera Therapeutics, Inc. issued a press release announcing that the U.S. Food and Drug Administration has granted TRUTAKNA (atacicept-vymj) accelerated approval to reduce proteinuria in adults with primary immunoglobulin A nephropathy at risk for disease progression. SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Vera Therapeutics, Inc. Date: July 7, 2026 By: /s/ Marshall Fordyce Marshall Fordyce, M.D. Chief Executive Officer",
-            "nivel_ajustado": "verde",
-            "badge_ajustado": "🟢 ALTA",
-            "resumen_ajustado": "8-K — Evento positivo potencial: Aprobación acelerada"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
         }
       ],
-      "nivel": "verde",
-      "badge": "🟢",
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "ACRV": {
@@ -430,6 +352,30 @@
       "validacion_empresa": "OK",
       "filings": [
         {
+          "form": "8-K",
+          "fecha": "2026-07-16",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Sin clasificación específica por Item [Items: 7.01, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "INSMED Inc",
+          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126028602/ef20078093_8k.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "7.01",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "ITEM 7.01 Regulation FD Disclosure. On July 16, 2026 , Insmed Incorporated (the Company ) issued a press release announcing 12-month safety and efficacy data from its ongoing open-label extension study of treprostinil palmitil inhalation powder in patients with pulmonary arterial hypertension (the OLE Study ). A copy of the press release is attached hereto as Exhibit 99.1 and incorporated herein by reference. The Company will host a conference call to discuss the 12-month data of the OLE Study on July 16, 2026, at 8:00 a.m., Eastern Time, and a live webcast of the call will be available through the investor relations section of the Company s website. A copy of the slide presentation to be used by the Company during the conference call is attached hereto as Exhibit 99.2 and incorporated herein by reference. The information contained in this Item 7.01, including Exhibits 99.1 and 99.2, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing. ITEM 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press release issued by Insmed Incorporated on July 16, 2026. 99.2 Insmed Incorporated July 16, 2026 12-Month OLE Study Presentation 104 Cover Page Interactive Date File (embedded within the Inline XBRL document). SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the regi",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
           "form": "4",
           "fecha": "2026-07-10",
           "nivel": "azul",
@@ -450,32 +396,6 @@
             "footnotes": "This transaction was effected pursuant to a 10b5-1 trading plan adopted by the Reporting Person on September 4, 2025, in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934, as amended. Includes 141 shares acquired through the Company's 2018 Employee Stock Purchase Plan. This is the weighted average sales price representing 5,005 shares sold at prices ranging from $116.01 to $117.00 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. This is the weighted average sales price representing 2,335 shares sold at prices ranging from $117.05 to $117.96 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. This is the weighted average sales price representing 3,359 shares sold at prices ranging from $118.06 to $118.80 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. The options became exercisable based on the following vesting schedule: 25% vested on the first anniversary of the grant date and an additional 12.5% vested on each sixth month anniversary date thereafter through the fourth anniversary of the date of grant.",
             "es_rutinaria": true,
             "resumen_detail": "Lewis William (Director / Chair and CEO) → Ejercicio opción 6,259 acciones @ $30.46 | Post: 265,317 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-07-08",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Flammer Martina M.D. (Chief Medical Officer) → Ejercicio opción 7,945 acciones @ $29.13 | Post: 68,431 | Rutinaria/RSU/impuestos",
-          "detalle": "FORM 4",
-          "empresa_sec": "INSMED Inc",
-          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000179696026000018/xslF345X06/wk-form4_1783541018.xml",
-          "form4_detail": {
-            "insider_nombre": "Flammer Martina M.D.",
-            "insider_cargo": "Chief Medical Officer",
-            "transaccion_codigo": "M",
-            "transaccion_tipo": "Ejercicio opción",
-            "transaccion_acciones": "7945",
-            "transaccion_precio": "29.13",
-            "transaccion_fecha": "2026-07-06",
-            "acciones_post": "68431",
-            "footnotes": "This transaction was effected pursuant to a 10b5-1 trading plan adopted by the Reporting Person on February 27, 2025 in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934, as amended. This is the weighted average sales price representing 4,854 shares sold at prices ranging from $108.90 to $109.58 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. This is the weighted average sales price representing 7,448 shares sold at prices ranging from $110.36 to $110.71 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. The options become exercisable based on the following vesting schedule: 25% vest on the first anniversary of the grant date and an additional 12.5% vest on each sixth month anniversary date thereafter through the fourth anniversary of the date of grant.",
-            "es_rutinaria": true,
-            "resumen_detail": "Flammer Martina M.D. (Chief Medical Officer) → Ejercicio opción 7,945 acciones @ $29.13 | Post: 68,431 | Rutinaria/RSU/impuestos"
           },
           "8k_detail": null,
           "10q_detail": null,
@@ -522,34 +442,89 @@
       "8k_detail": null,
       "10q_detail": null,
       "prospecto_detail": null
-    },
-    {
-      "ticker": "VERA",
-      "nombre": "Vera Therapeutics, Inc.",
-      "form": "8-K",
-      "fecha": "2026-07-07",
-      "nivel": "verde",
-      "badge": "🟢 ALTA",
-      "resumen": "8-K — Evento positivo potencial: Aprobación acelerada [Items: 8.01]",
-      "detalle": "8-K",
-      "empresa_sec": "Vera Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1831828/000119312526297211/vera-20260707.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "8.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 8.01 Other Events. On July 7, 2026, Vera Therapeutics, Inc. issued a press release announcing that the U.S. Food and Drug Administration has granted TRUTAKNA (atacicept-vymj) accelerated approval to reduce proteinuria in adults with primary immunoglobulin A nephropathy at risk for disease progression. SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Vera Therapeutics, Inc. Date: July 7, 2026 By: /s/ Marshall Fordyce Marshall Fordyce, M.D. Chief Executive Officer",
-        "nivel_ajustado": "verde",
-        "badge_ajustado": "🟢 ALTA",
-        "resumen_ajustado": "8-K — Evento positivo potencial: Aprobación acelerada"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
     }
   ],
   "todos_filings": [
+    {
+      "ticker": "INSM",
+      "nombre": "INSMED Inc",
+      "form": "8-K",
+      "fecha": "2026-07-16",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Sin clasificación específica por Item [Items: 7.01, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "INSMED Inc",
+      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126028602/ef20078093_8k.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "7.01",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "ITEM 7.01 Regulation FD Disclosure. On July 16, 2026 , Insmed Incorporated (the Company ) issued a press release announcing 12-month safety and efficacy data from its ongoing open-label extension study of treprostinil palmitil inhalation powder in patients with pulmonary arterial hypertension (the OLE Study ). A copy of the press release is attached hereto as Exhibit 99.1 and incorporated herein by reference. The Company will host a conference call to discuss the 12-month data of the OLE Study on July 16, 2026, at 8:00 a.m., Eastern Time, and a live webcast of the call will be available through the investor relations section of the Company s website. A copy of the slide presentation to be used by the Company during the conference call is attached hereto as Exhibit 99.2 and incorporated herein by reference. The information contained in this Item 7.01, including Exhibits 99.1 and 99.2, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing. ITEM 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press release issued by Insmed Incorporated on July 16, 2026. 99.2 Insmed Incorporated July 16, 2026 12-Month OLE Study Presentation 104 Cover Page Interactive Date File (embedded within the Inline XBRL document). SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the regi",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "GPCR",
+      "nombre": "Structure Therapeutics Inc.",
+      "form": "4",
+      "fecha": "2026-07-15",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 23,634 acciones @ $0.34 | Post: 252,594 | Rutinaria/RSU/impuestos",
+      "detalle": "xslF345X06/form4-07152026_100751.xml",
+      "empresa_sec": "Structure Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000196292626000006/xslF345X06/form4-07152026_100751.xml",
+      "form4_detail": {
+        "insider_nombre": "Lin Xichen",
+        "insider_cargo": "CHIEF SCIENTIFIC OFFICER",
+        "transaccion_codigo": "M",
+        "transaccion_tipo": "Ejercicio opción",
+        "transaccion_acciones": "23634",
+        "transaccion_precio": "0.34",
+        "transaccion_fecha": "2026-07-14",
+        "acciones_post": "252594",
+        "footnotes": "Reflects price per share in Ordinary Shares. The Ordinary Shares were converted into American Depositary Shares as reported in Table II. 1/4 of the Ordinary Shares vested one year after July 22, 2019 (the \"Vesting Commencement Date\"); the balance of the Ordinary Shares vested in a series of 36 successive equal monthly installments measured from the first anniversary of the Vesting Commencement Date. This reflects the number of Ordinary Shares remaining under the share option following the partial exercise of the share option for 23,634 Ordinary Shares. Each American Depositary Share is convertible at any time, at the holder's election, into three Ordinary Shares of the Issuer.  The American Depositary Shares have no expiration date. 23,634 Ordinary Shares, which were acquired upon exercise of a share option, were converted into 7,878 American Depositary Shares. The American Depositary Shares were sold pursuant to a Rule 10b5-1 trading plan entered into on March 26, 2026. Reflects price per share in American Depositary Shares. The weighted average sale price for the transaction reported was $50.7956 and the range of prices were between $50.31 and $51.30. Upon request by the SEC staff, the Issuer, or any security holder of the Issuer, full information regarding the number of American Depositary Shares sold at each price will be provided. The weighted average sale price for the transaction reported was $51.7088, and the range of prices were between $51.32 and $52.27. Upon reques",
+        "es_rutinaria": true,
+        "resumen_detail": "Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 23,634 acciones @ $0.34 | Post: 252,594 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "SNDX",
+      "nombre": "Syndax Pharmaceuticals Inc",
+      "form": "8-K",
+      "fecha": "2026-07-14",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "8-K — Posible financiación/dilución: pipe [Items: 8.01, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Syndax Pharmaceuticals Inc",
+      "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526302608/sndx-20260714.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "8.01",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 8.01. Other Events. On July 14, 2026, Syndax Pharmaceuticals, Inc. (the Company ) issued a press release and presentation highlighting its late-stage programs and the next chapter of its R&amp;D strategy, including new pipeline assets, during its R&amp;D event held on July 14, 2026. A copy of the press release and presentation are furnished as Exhibits 99.1 and 99.2 to this Current Report on Form 8-K and are incorporated herein by reference. The information contained in this Item 8.01 and in Exhibits 99.1 and 99.2 attached hereto is intended to be furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any of the Company s filings under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 9.01. Financial Statements and Exhibits. (d) Exhibits. Exhibit No. Description 99.1 Press Release, dated July 14, 2026 99.2 Corporate Presentation, dated July 14, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. SYNDAX PHARMACEUTICALS, INC. By: /s/ Michael A. Metzger Michael A. Metzger Chief Executive Officer Dated: July 14, 2026",
+        "nivel_ajustado": "amarillo",
+        "badge_ajustado": "🟡 MEDIA",
+        "resumen_ajustado": "8-K — Posible financiación/dilución: pipe"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "CAI",
       "nombre": "Caris Life Sciences, Inc.",
@@ -686,171 +661,6 @@
       },
       "10q_detail": null,
       "prospecto_detail": null
-    },
-    {
-      "ticker": "DYN",
-      "nombre": "Dyne Therapeutics, Inc.",
-      "form": "4",
-      "fecha": "2026-07-08",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Rhodes Jason P → Venta 253,039 acciones @ $22.79 | Post: 4,223,448 | Rutinaria/RSU/impuestos",
-      "detalle": "xslF345X06/form4-07082026_090708.xml",
-      "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000157701426000014/xslF345X06/form4-07082026_090708.xml",
-      "form4_detail": {
-        "insider_nombre": "Rhodes Jason P",
-        "insider_cargo": null,
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "253039",
-        "transaccion_precio": "22.79",
-        "transaccion_fecha": "2026-07-06",
-        "acciones_post": "4223448",
-        "footnotes": "Shares were sold pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on March 19, 2026. The price reported in Column 4 is a weighted average price. These securities were sold in multiple transactions at prices ranging from $22.4163 to $23.25 inclusive. The Reporting Persons undertake to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of securities sold at each separate price within the ranges set forth in footnotes (2) and (6) through (8). The shares are held directly by Atlas Venture Fund XI, L.P. (\"Atlas Venture Fund XI\"). The general partner of Atlas Venture Fund XI is Atlas Venture Associates XI, L.P. (\"AVA XI LP\"). Atlas Venture Associates XI, LLC (\"AVA XI LLC\") is the general partner of AVA XI LP. The Reporting Person is a member of AVA XI LLC and disclaims Section 16 beneficial ownership of such securities held by Atlas Venture Fund XI, except to the extent of his pecuniary interest therein, if any. The shares are owned directly by Atlas Venture Opportunity Fund II, L.P. (\"AVOF II\"). Atlas Venture Associates Opportunity II, LP (\"AVAO II LP\") is the general partner of AVOF II. Atlas Venture Associates Opportunity II, LLC (\"AVAO II LLC\") is the general partner of AVAO II LP. The Reporting Person is a member of AVAO II LLC and disclaims Section 16 beneficial ownership of such securities held by AVOF II, except to the extent of his pecuni",
-        "es_rutinaria": true,
-        "resumen_detail": "Rhodes Jason P → Venta 253,039 acciones @ $22.79 | Post: 4,223,448 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "INSM",
-      "nombre": "INSMED Inc",
-      "form": "4",
-      "fecha": "2026-07-08",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Flammer Martina M.D. (Chief Medical Officer) → Ejercicio opción 7,945 acciones @ $29.13 | Post: 68,431 | Rutinaria/RSU/impuestos",
-      "detalle": "FORM 4",
-      "empresa_sec": "INSMED Inc",
-      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000179696026000018/xslF345X06/wk-form4_1783541018.xml",
-      "form4_detail": {
-        "insider_nombre": "Flammer Martina M.D.",
-        "insider_cargo": "Chief Medical Officer",
-        "transaccion_codigo": "M",
-        "transaccion_tipo": "Ejercicio opción",
-        "transaccion_acciones": "7945",
-        "transaccion_precio": "29.13",
-        "transaccion_fecha": "2026-07-06",
-        "acciones_post": "68431",
-        "footnotes": "This transaction was effected pursuant to a 10b5-1 trading plan adopted by the Reporting Person on February 27, 2025 in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934, as amended. This is the weighted average sales price representing 4,854 shares sold at prices ranging from $108.90 to $109.58 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. This is the weighted average sales price representing 7,448 shares sold at prices ranging from $110.36 to $110.71 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. The options become exercisable based on the following vesting schedule: 25% vest on the first anniversary of the grant date and an additional 12.5% vest on each sixth month anniversary date thereafter through the fourth anniversary of the date of grant.",
-        "es_rutinaria": true,
-        "resumen_detail": "Flammer Martina M.D. (Chief Medical Officer) → Ejercicio opción 7,945 acciones @ $29.13 | Post: 68,431 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "VRTX",
-      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
-      "form": "4",
-      "fecha": "2026-07-07",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Tatsis Ourania (EVP, Chief Reg. & Quality Off.) → Venta 1,500 acciones @ $524.99 | Post: 45,321 | Rutinaria/RSU/impuestos",
-      "detalle": "FORM 4",
-      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
-      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000245/xslF345X06/wk-form4_1783455338.xml",
-      "form4_detail": {
-        "insider_nombre": "Tatsis Ourania",
-        "insider_cargo": "EVP, Chief Reg. & Quality Off.",
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "1500",
-        "transaccion_precio": "524.99",
-        "transaccion_fecha": "2026-07-02",
-        "acciones_post": "45321",
-        "footnotes": "Transaction made pursuant to Dr. Tatsis' company approved trading plan under Rule 10b5-1, which was entered into on 08/21/2025.",
-        "es_rutinaria": true,
-        "resumen_detail": "Tatsis Ourania (EVP, Chief Reg. & Quality Off.) → Venta 1,500 acciones @ $524.99 | Post: 45,321 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "VRTX",
-      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
-      "form": "4",
-      "fecha": "2026-07-07",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "McKechnie Duncan (EVP, Chief Commercial Officer) → Venta 1,541 acciones @ $519.00 | Post: 11,001 | Rutinaria/RSU/impuestos",
-      "detalle": "FORM 4",
-      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
-      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000243/xslF345X06/wk-form4_1783454880.xml",
-      "form4_detail": {
-        "insider_nombre": "McKechnie Duncan",
-        "insider_cargo": "EVP, Chief Commercial Officer",
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "1541",
-        "transaccion_precio": "519",
-        "transaccion_fecha": "2026-07-02",
-        "acciones_post": "11001",
-        "footnotes": "Transaction made pursuant to Mr. McKechnie's company approved trading plan under Rule 10b5-1, which was entered into on 11/25/2025.",
-        "es_rutinaria": true,
-        "resumen_detail": "McKechnie Duncan (EVP, Chief Commercial Officer) → Venta 1,541 acciones @ $519.00 | Post: 11,001 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "VRTX",
-      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
-      "form": "8-K",
-      "fecha": "2026-07-07",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "8-K — Posible deuda/obligación financiera; revisar condiciones [Items: 1.01, 7.01, 8.01, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
-      "url": "https://www.sec.gov/Archives/edgar/data/875320/000119312526296710/d113650d8k.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "1.01",
-          "7.01",
-          "8.01",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 1.01. Entry into a Material Definitive Agreement. Merger Agreement On July 6, 2026, Vertex Pharmaceuticals Incorporated, a Massachusetts corporation ( Parent ), Clark Merger Sub, Inc., a Delaware corporation and a wholly owned subsidiary of Parent ( Merger Sub ), and Crinetics Pharmaceuticals, Inc., a Delaware corporation (the Company ), entered into an Agreement and Plan of Merger (the Merger Agreement ). Subject to the terms of the Merger Agreement, Merger Sub will be merged with and into the Company (the Merger ), with the Company surviving the Merger as a wholly owned subsidiary of Parent. Capitalized terms used herein and not otherwise defined herein have the meanings set forth in the Merger Agreement. On the terms and subject to the conditions set forth in the Merger Agreement, at the effective time of the Merger (the Effective Time ), each share of common stock of the Company, par value $0.001 per share (the Shares ) issued and outstanding immediately prior to the Effective Time (other than Shares owned by the Company or any subsidiary of the Company immediately prior to the Effective Time, Shares owned by Parent, Merger Sub or any other subsidiary of Parent immediately prior to the Effective Time, and Shares held by any person who is entitled to demand, and has properly demanded, appraisal in respect of such Shares pursuant to applicable law) will be canceled and automatically converted into the right to receive $85.00 per share in cash, without interest thereon and subject to applicable withholding taxes (the Merger Consideration ). Immediately prior to the Ef",
-        "nivel_ajustado": "amarillo",
-        "badge_ajustado": "🟡 MEDIA",
-        "resumen_ajustado": "8-K — Posible deuda/obligación financiera; revisar condiciones"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "VERA",
-      "nombre": "Vera Therapeutics, Inc.",
-      "form": "8-K",
-      "fecha": "2026-07-07",
-      "nivel": "verde",
-      "badge": "🟢 ALTA",
-      "resumen": "8-K — Evento positivo potencial: Aprobación acelerada [Items: 8.01]",
-      "detalle": "8-K",
-      "empresa_sec": "Vera Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1831828/000119312526297211/vera-20260707.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "8.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 8.01 Other Events. On July 7, 2026, Vera Therapeutics, Inc. issued a press release announcing that the U.S. Food and Drug Administration has granted TRUTAKNA (atacicept-vymj) accelerated approval to reduce proteinuria in adults with primary immunoglobulin A nephropathy at risk for disease progression. SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Vera Therapeutics, Inc. Date: July 7, 2026 By: /s/ Marshall Fordyce Marshall Fordyce, M.D. Chief Executive Officer",
-        "nivel_ajustado": "verde",
-        "badge_ajustado": "🟢 ALTA",
-        "resumen_ajustado": "8-K — Evento positivo potencial: Aprobación acelerada"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
     }
   ],
   "clinicaltrials": {
@@ -922,7 +732,7 @@
         "nivel": "verde",
         "badge": "🟢",
         "enrollment": 150,
-        "ultima_actualizacion": "2026-07-10",
+        "ultima_actualizacion": "2026-07-16",
         "fecha_completion_primaria": "2028-07",
         "changed": true,
         "url": "https://clinicaltrials.gov/study/NCT07486934"

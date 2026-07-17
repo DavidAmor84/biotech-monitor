@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 16/07/2026 12:10 | Período: últimos 7 días
-Desde: 2026-07-09 → Hasta: 2026-07-16
+Generado: 17/07/2026 11:54 | Período: últimos 7 días
+Desde: 2026-07-10 → Hasta: 2026-07-17
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 8 filings | 🔴 0 | 🟢 1 | 🟡 2 | 🔵 5 | ✅ 12 sin novedad
+RESUMEN: 5 filings | 🔴 0 | 🟢 1 | 🟡 1 | 🔵 3 | ✅ 13 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (1)
@@ -20,12 +20,9 @@ RESUMEN: 8 filings | 🔴 0 | 🟢 1 | 🟡 2 | 🔵 5 | ✅ 12 sin novedad
 DETALLE POR TICKER — SEC EDGAR
 ──────────────────────────────────────────────────
 
-  🟡 [SNDX] Syndax Pharmaceuticals Inc — 2 filing(s)
+  🟡 [SNDX] Syndax Pharmaceuticals Inc — 1 filing(s)
      🟡 MEDIA 8-K | 2026-07-14 | 8-K — Posible financiación/dilución: pipe [Items: 8.01, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1395937/000119312526302608/sndx-20260714.htm
-     🔵 INFO 4 | 2026-07-09 | Metzger Michael A (Chief Executive Officer) → Ejercicio opción 32,375 acciones @ $6.38 | Post: 517,218 | Rutinaria/RSU/impuestos
-     Insider: Metzger Michael A (Chief Executive Officer) → Ejercicio opción 32,375 acciones @ $6.38 | Post: 517,218 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1395937/000119312526299803/xslF345X06/ownership.xml
   ✅ [ARGX] Sin novedades
   ✅ [DYN] Sin novedades
   ✅ [DNLI] Sin novedades
@@ -45,13 +42,7 @@ DETALLE POR TICKER — SEC EDGAR
      Insider: Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 23,634 acciones @ $0.34 | Post: 252,594 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1888886/000196292626000006/xslF345X06/form4-07152026_100751.xml
   ✅ [ABVX] Sin novedades
-
-  🟡 [VERA] Vera Therapeutics, Inc. — 2 filing(s)
-     🟡 MEDIA 4 | 2026-07-09 | Fordyce Marshall (PRESIDENT AND CEO) → Venta 1,000 acciones @ $40.78 | Post: 197,244 | Rutinaria/RSU/impuestos
-     Insider: Fordyce Marshall (PRESIDENT AND CEO) → Venta 1,000 acciones @ $40.78 | Post: 197,244 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1831828/000185945326000010/xslF345X06/form4-07092026_040701.xml
-     🔵 INFO 8-K | 2026-07-09 | Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02]
-     → https://www.sec.gov/Archives/edgar/data/1831828/000119312526299165/vera-20260709.htm
+  ✅ [VERA] Sin novedades
   ✅ [ACRV] Sin novedades
   ✅ [TARA] Sin novedades
   ✅ [SENS] Sin novedades

@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "16/07/2026 12:10",
+  "generado": "17/07/2026 11:54",
   "periodo_dias": 7,
-  "desde": "2026-07-09",
-  "hasta": "2026-07-16",
+  "desde": "2026-07-10",
+  "hasta": "2026-07-17",
   "resumen": {
-    "total_filings": 8,
+    "total_filings": 5,
     "alertas_rojas": 0,
     "alertas_verdes": 1,
-    "alertas_amarillas": 2,
-    "alertas_azules": 5,
-    "sin_novedad": 12
+    "alertas_amarillas": 1,
+    "alertas_azules": 3,
+    "sin_novedad": 13
   },
   "tickers": {
     "SNDX": {
@@ -41,32 +41,6 @@
             "badge_ajustado": "🟡 MEDIA",
             "resumen_ajustado": "8-K — Posible financiación/dilución: pipe"
           },
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-07-09",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Metzger Michael A (Chief Executive Officer) → Ejercicio opción 32,375 acciones @ $6.38 | Post: 517,218 | Rutinaria/RSU/impuestos",
-          "detalle": "4",
-          "empresa_sec": "Syndax Pharmaceuticals Inc",
-          "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526299803/xslF345X06/ownership.xml",
-          "form4_detail": {
-            "insider_nombre": "Metzger Michael A",
-            "insider_cargo": "Chief Executive Officer",
-            "transaccion_codigo": "M",
-            "transaccion_tipo": "Ejercicio opción",
-            "transaccion_acciones": "32375",
-            "transaccion_precio": "6.38",
-            "transaccion_fecha": "2026-07-08",
-            "acciones_post": "517218",
-            "footnotes": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 plan adopted by the Reporting Person. Following the sales reported in this Form 4, the Reporting Person has a total of 1,564,551 options to purchase shares of common stock that are vested and immediately exercisable and a total of 813,949 options to purchase shares of common stock that have not yet vested. The sale prices ranged from $24.00 to $24.43 This option is fully vested.",
-            "es_rutinaria": true,
-            "resumen_detail": "Metzger Michael A (Chief Executive Officer) → Ejercicio opción 32,375 acciones @ $6.38 | Post: 517,218 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
           "10q_detail": null,
           "prospecto_detail": null
         }
@@ -256,59 +230,9 @@
       "cik": "0001831828",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-07-09",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Fordyce Marshall (PRESIDENT AND CEO) → Venta 1,000 acciones @ $40.78 | Post: 197,244 | Rutinaria/RSU/impuestos",
-          "detalle": "xslF345X06/form4-07092026_040701.xml",
-          "empresa_sec": "Vera Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1831828/000185945326000010/xslF345X06/form4-07092026_040701.xml",
-          "form4_detail": {
-            "insider_nombre": "Fordyce Marshall",
-            "insider_cargo": "PRESIDENT AND CEO",
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "1000",
-            "transaccion_precio": "40.7762",
-            "transaccion_fecha": "2026-07-07",
-            "acciones_post": "197244",
-            "footnotes": "This sale was made pursuant to a written plan adopted on January 9, 2026, meeting the requirements of Rule 10b5-1(c) of the Securities Exchange Act of 1934, as amended. The price reported is a weighted-average price. These shares were sold in multiple transactions at prices ranging from $40.39 to $41.31, inclusive. The Reporting Person will provide upon request to the staff of the Securities and Exchange Commission, the Issuer or any security holder of the Issuer, full information regarding the number of shares sold at each separate price. The price reported is a weighted-average price. These shares were sold in multiple transactions at prices ranging from $41.40 to $42.39, inclusive. The Reporting Person will provide upon request to the staff of the Securities and Exchange Commission, the Issuer or any security holder of the Issuer, full information regarding the number of shares sold at each separate price. The price reported is a weighted-average price. These shares were sold in multiple transactions at prices ranging from $42.40 to $43.38, inclusive. The Reporting Person will provide upon request to the staff of the Securities and Exchange Commission, the Issuer or any security holder of the Issuer, full information regarding the number of shares sold at each separate price. The price reported is a weighted-average price. These shares were sold in multiple transactions at prices ranging from $43.42 to $43.97, inclusive. The Reporting Person will provide upon request to th",
-            "es_rutinaria": true,
-            "resumen_detail": "Fordyce Marshall (PRESIDENT AND CEO) → Venta 1,000 acciones @ $40.78 | Post: 197,244 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "8-K",
-          "fecha": "2026-07-09",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02]",
-          "detalle": "8-K",
-          "empresa_sec": "Vera Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1831828/000119312526299165/vera-20260709.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "5.02"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. On July 9, 2026, Vera Therapeutics, Inc. (the Company ) announced that William Turner will no longer serve as the Company s Chief Regulatory Officer and will transition to the role of Special Advisor for Regulatory Affairs, effective as of August 3, 2026. Nancy Bowman, M.D., Ph.D., will succeed Mr. Turner as the Company s Chief Regulatory Officer, effective as of August 3, 2026. SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Vera Therapeutics, Inc. Date: July 9, 2026 By: /s/ Marshall Fordyce Marshall Fordyce, M.D. Chief Executive Officer",
-            "nivel_ajustado": "azul",
-            "badge_ajustado": "🔵 INFO",
-            "resumen_ajustado": "Item 5.02: Plan de incentivos / compensación aprobado — informativo"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "ACRV": {
@@ -578,87 +502,6 @@
         "resumen_detail": "Lewis William (Director / Chair and CEO) → Ejercicio opción 6,259 acciones @ $30.46 | Post: 265,317 | Rutinaria/RSU/impuestos"
       },
       "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "SNDX",
-      "nombre": "Syndax Pharmaceuticals Inc",
-      "form": "4",
-      "fecha": "2026-07-09",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Metzger Michael A (Chief Executive Officer) → Ejercicio opción 32,375 acciones @ $6.38 | Post: 517,218 | Rutinaria/RSU/impuestos",
-      "detalle": "4",
-      "empresa_sec": "Syndax Pharmaceuticals Inc",
-      "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526299803/xslF345X06/ownership.xml",
-      "form4_detail": {
-        "insider_nombre": "Metzger Michael A",
-        "insider_cargo": "Chief Executive Officer",
-        "transaccion_codigo": "M",
-        "transaccion_tipo": "Ejercicio opción",
-        "transaccion_acciones": "32375",
-        "transaccion_precio": "6.38",
-        "transaccion_fecha": "2026-07-08",
-        "acciones_post": "517218",
-        "footnotes": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 plan adopted by the Reporting Person. Following the sales reported in this Form 4, the Reporting Person has a total of 1,564,551 options to purchase shares of common stock that are vested and immediately exercisable and a total of 813,949 options to purchase shares of common stock that have not yet vested. The sale prices ranged from $24.00 to $24.43 This option is fully vested.",
-        "es_rutinaria": true,
-        "resumen_detail": "Metzger Michael A (Chief Executive Officer) → Ejercicio opción 32,375 acciones @ $6.38 | Post: 517,218 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "VERA",
-      "nombre": "Vera Therapeutics, Inc.",
-      "form": "4",
-      "fecha": "2026-07-09",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Fordyce Marshall (PRESIDENT AND CEO) → Venta 1,000 acciones @ $40.78 | Post: 197,244 | Rutinaria/RSU/impuestos",
-      "detalle": "xslF345X06/form4-07092026_040701.xml",
-      "empresa_sec": "Vera Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1831828/000185945326000010/xslF345X06/form4-07092026_040701.xml",
-      "form4_detail": {
-        "insider_nombre": "Fordyce Marshall",
-        "insider_cargo": "PRESIDENT AND CEO",
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "1000",
-        "transaccion_precio": "40.7762",
-        "transaccion_fecha": "2026-07-07",
-        "acciones_post": "197244",
-        "footnotes": "This sale was made pursuant to a written plan adopted on January 9, 2026, meeting the requirements of Rule 10b5-1(c) of the Securities Exchange Act of 1934, as amended. The price reported is a weighted-average price. These shares were sold in multiple transactions at prices ranging from $40.39 to $41.31, inclusive. The Reporting Person will provide upon request to the staff of the Securities and Exchange Commission, the Issuer or any security holder of the Issuer, full information regarding the number of shares sold at each separate price. The price reported is a weighted-average price. These shares were sold in multiple transactions at prices ranging from $41.40 to $42.39, inclusive. The Reporting Person will provide upon request to the staff of the Securities and Exchange Commission, the Issuer or any security holder of the Issuer, full information regarding the number of shares sold at each separate price. The price reported is a weighted-average price. These shares were sold in multiple transactions at prices ranging from $42.40 to $43.38, inclusive. The Reporting Person will provide upon request to the staff of the Securities and Exchange Commission, the Issuer or any security holder of the Issuer, full information regarding the number of shares sold at each separate price. The price reported is a weighted-average price. These shares were sold in multiple transactions at prices ranging from $43.42 to $43.97, inclusive. The Reporting Person will provide upon request to th",
-        "es_rutinaria": true,
-        "resumen_detail": "Fordyce Marshall (PRESIDENT AND CEO) → Venta 1,000 acciones @ $40.78 | Post: 197,244 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "VERA",
-      "nombre": "Vera Therapeutics, Inc.",
-      "form": "8-K",
-      "fecha": "2026-07-09",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02]",
-      "detalle": "8-K",
-      "empresa_sec": "Vera Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1831828/000119312526299165/vera-20260709.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "5.02"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. On July 9, 2026, Vera Therapeutics, Inc. (the Company ) announced that William Turner will no longer serve as the Company s Chief Regulatory Officer and will transition to the role of Special Advisor for Regulatory Affairs, effective as of August 3, 2026. Nancy Bowman, M.D., Ph.D., will succeed Mr. Turner as the Company s Chief Regulatory Officer, effective as of August 3, 2026. SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Vera Therapeutics, Inc. Date: July 9, 2026 By: /s/ Marshall Fordyce Marshall Fordyce, M.D. Chief Executive Officer",
-        "nivel_ajustado": "azul",
-        "badge_ajustado": "🔵 INFO",
-        "resumen_ajustado": "Item 5.02: Plan de incentivos / compensación aprobado — informativo"
-      },
       "10q_detail": null,
       "prospecto_detail": null
     }

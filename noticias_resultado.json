@@ -1,8 +1,8 @@
 {
-  "generado": "16/07/2026 12:11 UTC",
+  "generado": "17/07/2026 11:55 UTC",
   "plazo_horas": 72,
-  "desde": "2026-07-13",
-  "hasta": "2026-07-16",
+  "desde": "2026-07-14",
+  "hasta": "2026-07-17",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -86,9 +86,22 @@
     },
     "DNLI": {
       "nombre": "DNLI",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "DNLI",
+          "titulo": "Deutsche Bank Maintains Buy on Denali Therapeutics, Raises Price Target to $35",
+          "resumen": "Deutsche Bank  analyst David Hoang   maintains Denali Therapeutics (NASDAQ:DNLI) with a Buy and raises the price target from $31 to $35.",
+          "fuente": "Benzinga",
+          "fecha": "16 Jul 2026 07:45 UTC",
+          "url": "https://finnhub.io/api/news?id=7e8b31da5d4e7258c656f65549dc79870fe944675120b59f107b1a8c5a45a1a7",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "VKTX": {
       "nombre": "VKTX",
@@ -101,6 +114,54 @@
       "noticias": [
         {
           "ticker": "VRTX",
+          "titulo": "1 Nasdaq 100 Stock to Keep an Eye On and 2 We Question",
+          "resumen": "The Nasdaq 100 (^NDX) is home to some of the biggest success stories in tech and growth investing. However, certain stocks in the index face challenges like profitability concerns, rising costs, or shifts in market trends.",
+          "fuente": "Yahoo",
+          "fecha": "16 Jul 2026 15:05 UTC",
+          "url": "https://finnhub.io/api/news?id=b38cca16ff3fdab553b9d5e5467ff26d8301f3f124e2c0c76e4b155de1bc8e82",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Collect 9.8% On VRTX Stock Now, And Still Keep 15% Of Upside",
+          "resumen": "Get paid a guaranteed income on your Vertex shares today, which you keep no matter what, for agreeing to sell them at a higher price if the stock keeps climbing.",
+          "fuente": "Yahoo",
+          "fecha": "16 Jul 2026 13:06 UTC",
+          "url": "https://finnhub.io/api/news?id=ac38e40815783f8ec5171d72b4c86aa0d5496672e10888f4bb0f5347b866864d",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex Pharmaceuticals Incorporated (VRTX) Is a Trending Stock: Facts to Know Before Betting on It",
+          "resumen": "Vertex (VRTX) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+          "fuente": "Yahoo",
+          "fecha": "16 Jul 2026 13:00 UTC",
+          "url": "https://finnhub.io/api/news?id=c30edaca5af32f3105a0567a5af374e6b5c51828db4fe6b490b1d148d2a5a47e",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vortex Energy Provides Corporate Update on Robinsons River Salt Project Technical Study",
+          "resumen": "Technical review to strengthen subsurface model and guide next phase of developmentVANCOUVER, British Columbia, July 16, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) is pleased to provide a corporate update on the ongoing technical stud",
+          "fuente": "Yahoo",
+          "fecha": "16 Jul 2026 12:00 UTC",
+          "url": "https://finnhub.io/api/news?id=22f201450e4146a22e8d333752623c653c83dfc64ed8ec26c95bd36b95ee5206",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
           "titulo": "The Battle For Sickle Cell",
           "resumen": "The curing sickle cell through gene therapy story is a long way from being written. But itâs for sure that it has not gone like some of its participants have wanted it to. Read more here...",
           "fuente": "SeekingAlpha",
@@ -110,62 +171,50 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "IBB ETF Holds Fewer Bets Than You Think",
-          "resumen": "An ETF's label tells you the category, but the real story is always in the portfolio's actual shape.",
-          "fuente": "Yahoo",
-          "fecha": "15 Jul 2026 16:23 UTC",
-          "url": "https://finnhub.io/api/news?id=a706d9b34a32e9ee4e72c8bb0e5c93ecc188bc198255ecbd232c037a410bf5d7",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex to Acquire Crinetics Pharmaceuticals (CRNX) in $85 Per Share Cash Deal",
-          "resumen": "Crinetics Pharmaceuticals Inc. (NASDAQ:CRNX) is one of the 10 affordable biotech stocks to buy right now. On July 6, Crinetics Pharmaceuticals Inc. (NASDAQ:CRNX) and Vertex Pharmaceuticals announced that both companies have agreed to a definitive agreement, according to which Vertex will acquire Cri",
-          "fuente": "Yahoo",
-          "fecha": "15 Jul 2026 14:01 UTC",
-          "url": "https://finnhub.io/api/news?id=894eb83bae3b7701338821979d336d28e14b5029ab6a7dc8a0330d7df2b3d9fb",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Here's Why Vertex Was Willing to Pay a Premium of More Than 100% for Crinetics Pharmaceuticals",
-          "resumen": "Vertex's $10 billion acquisition may have spooked investors, given how rich it appeared to be.",
-          "fuente": "Yahoo",
-          "fecha": "14 Jul 2026 12:20 UTC",
-          "url": "https://finnhub.io/api/news?id=8fd522063fde651778f609334b93b87ac175d51b99792eac01e61e5ec2bdd003",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals (VRTX) Declines More Than Market: Some Information for Investors",
-          "resumen": "Vertex Pharmaceuticals (VRTX) reached $480.25 at the closing of the latest trading day, reflecting a -1.06% change compared to its last close.",
-          "fuente": "Yahoo",
-          "fecha": "13 Jul 2026 22:00 UTC",
-          "url": "https://finnhub.io/api/news?id=3d6b8baa9a83aa76e7cac3b939b0b62322f2dc6cbddd01beda9acf03fcca2fe6",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
-      "nivel": "rojo",
+      "nivel": "azul",
       "total": 5
     },
     "ALNY": {
       "nombre": "ALNY",
       "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam Pharmaceuticals (NASDAQ:ALNY): A Value Stock Priced Below Biotech Peers with Strong Growth",
+          "resumen": "Alnylam Pharmaceuticals (ALNY) offers strong value in biotech with a P/E below 90% of peers, rapid earnings growth of 288%, and high profit margins, despite moderate debt.",
+          "fuente": "ChartMill",
+          "fecha": "17 Jul 2026 08:10 UTC",
+          "url": "https://finnhub.io/api/news?id=3c784e6533ff08923a0cfecba00523798bc9d8eb702cd52915b7796c4d4824e4",
+          "imagen": "https://www.chartmill.com/images/uploads/Undervalued_500_264px_webp_74997b3ff2.webp",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Collect 9.8% On VRTX Stock Now, And Still Keep 15% Of Upside",
+          "resumen": "Get paid a guaranteed income on your Vertex shares today, which you keep no matter what, for agreeing to sell them at a higher price if the stock keeps climbing.",
+          "fuente": "Yahoo",
+          "fecha": "16 Jul 2026 13:06 UTC",
+          "url": "https://finnhub.io/api/news?id=ac38e40815783f8ec5171d72b4c86aa0d5496672e10888f4bb0f5347b866864d",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam to Webcast Conference Call Discussing Second Quarter 2026 Financial Results",
+          "resumen": "CAMBRIDGE, Mass., July 16, 2026--Alnylam Pharmaceuticals, Inc. (Nasdaq: ALNY), the leading RNAi therapeutics company, announced today that it will report financial results for the second quarter ending June 30, 2026 on Thursday, July 30, 2026, before the U.S. financial markets open.",
+          "fuente": "Yahoo",
+          "fecha": "16 Jul 2026 12:00 UTC",
+          "url": "https://finnhub.io/api/news?id=dbab991d5b69f0ec6dd1ff3b568c0b321778444db63a26e5ccf5353669bd19bf",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "ALNY",
           "titulo": "Alnylam Pharmaceuticals: Commercial Momentum Outweighs TTR Read-Through Concerns",
@@ -189,42 +238,6 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Alnylam Highlights Progress with Neuroscience Programs at AAIC 2026, Showcasing Potential of RNAi in Neurological Disease",
-          "resumen": "CAMBRIDGE, Mass., July 15, 2026--Alnylam Pharmaceuticals, Inc. (Nasdaq: ALNY), the leading RNAi therapeutics company, today shared advances across its growing neuroscience portfolio at the Alzheimer’s Association International Conference (AAIC) 2026. This scientific progress underscores the potentia",
-          "fuente": "Yahoo",
-          "fecha": "15 Jul 2026 07:30 UTC",
-          "url": "https://finnhub.io/api/news?id=d112bbc35cd23cef6663194c1dd188048dd9e6354fe379220e3a72c4e5032fcb",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Alnylam Highlights Neuroscience Progress At AAIC 2026, Initiating Phase 2 APPlauDS Study Of Mivelsiran In Down Syndrome-Associated Alzheimer's While Completing cAPPricorn-1 Enrollment In CAA",
-          "resumen": "− Initiates Global Phase 2 APPlauDS Study of Mivelsiran in Down Syndrome–Associated Alzheimer’s Disease (DS-AD) −− Announces Completion of Enrollment in the Phase 2 cAPPricorn-1 Study of Mivelsiran in Cerebral Amyloid",
-          "fuente": "Benzinga",
-          "fecha": "15 Jul 2026 03:48 UTC",
-          "url": "https://finnhub.io/api/news?id=049645e4a926f3860376cded2ba554e04b42509992f9382273396ad2f858adaa",
-          "imagen": "",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Morgan Stanley Raises its Price Target on Alnylam (ALNY)",
-          "resumen": "Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) is one of the 10 Best Growth Stocks With Highest Upside Potential. On July 10, 2026, Morgan Stanley raised the firm’s price target on Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) to $400 from $370 and kept an Equal Weight rating on the shares. On July 9, Ra",
-          "fuente": "Yahoo",
-          "fecha": "14 Jul 2026 16:09 UTC",
-          "url": "https://finnhub.io/api/news?id=520ae3fd2b61bf908d96299e9e0f17b5b68e74afaf0e6c4901ec350c65eb502b",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -257,22 +270,9 @@
     },
     "CAI": {
       "nombre": "CAI",
-      "noticias": [
-        {
-          "ticker": "CAI",
-          "titulo": "Caris Life Sciences To Offer In-House PTEN Immunohistochemistry Testing After Recent FDA Approval Of Biomarker-Guided Therapy And Diagnostic Assay",
-          "resumen": "This testing is designed to help identify patients with PTEN-deficient metastatic androgen pathway modulation-naïve or -sensitive (mAPMN/S) prostate cancer (previously known as metastatic hormone-sensitive prostate",
-          "fuente": "Benzinga",
-          "fecha": "14 Jul 2026 08:36 UTC",
-          "url": "https://finnhub.io/api/news?id=4b98a3d801b973f63d469d00e0d43007dce4dd473cab8e2e6bd9ec7370b7e45c",
-          "imagen": "",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "GPCR": {
       "nombre": "GPCR",
@@ -282,9 +282,22 @@
     },
     "ABVX": {
       "nombre": "ABVX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ABVX",
+          "titulo": "Abivax: Obefazimod Goes The Distance And So Does My Buy Rating",
+          "resumen": "Abivax (ABVX) Buy: Phase 3 obefazimod data shows ~51% remission in ulcerative colitis; $920M raise funds to 2029.",
+          "fuente": "SeekingAlpha",
+          "fecha": "16 Jul 2026 10:25 UTC",
+          "url": "https://finnhub.io/api/news?id=ae19fefeb31c597129d7971c1e5396dc977c2f54be6e135ccac6f7689a2ff25b",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2194222153/image_2194222153.jpg?io=getty-c-w1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "VERA": {
       "nombre": "VERA",
@@ -340,76 +353,76 @@
       "noticias": [
         {
           "ticker": "INSM",
-          "titulo": "Wells Fargo Maintains Overweight on Insmed, Raises Price Target to $161",
-          "resumen": "Wells Fargo  analyst Benjamin Burnett   maintains Insmed (NASDAQ:INSM) with a Overweight and raises the price target from $160 to $161.",
-          "fuente": "Benzinga",
-          "fecha": "15 Jul 2026 07:46 UTC",
-          "url": "https://finnhub.io/api/news?id=73ae7afa770eef9ff3f1b3f9178f0f17e0e5f702a5efda9c1a3b68d18aebf194",
-          "imagen": "",
+          "titulo": "Parnassus Growth Equity Fund Q2 2026 Portfolio Activity",
+          "resumen": "Twist Bioscience provides exposure to two powerful long-term trends in Health Care, AI-supported drug discovery and next-generation sequencing.",
+          "fuente": "SeekingAlpha",
+          "fecha": "17 Jul 2026 04:06 UTC",
+          "url": "https://finnhub.io/api/news?id=fc4e117a9c718f7808b89a3fa41ab1d19e66eedc7d8fc5afe48cf96d58817600",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2158103448/image_2158103448.jpg?io=getty-c-w1536",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         },
         {
           "ticker": "INSM",
-          "titulo": "Carillon Eagle Mid Cap Growth Fund Q2 2026 Portfolio Review",
-          "resumen": "Carillon Eagle Mid Cap Growth Fund stocks delivered solid results in the second quarter. Read more here.",
+          "titulo": "Insmed Incorporated (INSM) Discusses 12-Month Results From Ongoing TPIP Open-Label Extension Study in PAH Patients - Slideshow",
+          "resumen": "",
           "fuente": "SeekingAlpha",
-          "fecha": "14 Jul 2026 08:53 UTC",
-          "url": "https://finnhub.io/api/news?id=fbaa573036e474ea084296dd08d6adb5dc10383e4dc66d10402482e799ec4902",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2256684614/image_2256684614.jpg?io=getty-c-w1536",
+          "fecha": "16 Jul 2026 16:27 UTC",
+          "url": "https://finnhub.io/api/news?id=8a961dbf9bc9044fd365b7810741b5b1a6099943b0261ac687dee3f85b1e0690",
+          "imagen": "",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "Insmed Incorporated (INSM) Discusses 12-Month Results From Ongoing TPIP Open-Label Extension Study in PAH Patients Transcript",
+          "resumen": "Insmed Incorporated (INSM) Discusses 12-Month Results From Ongoing TPIP Open-Label Extension Study in PAH Patients July 16, 2026 8:00 AM EDTCompany...",
+          "fuente": "SeekingAlpha",
+          "fecha": "16 Jul 2026 16:26 UTC",
+          "url": "https://finnhub.io/api/news?id=01440dec7e8055959c578d74df97febf49be47884aaca6c9edc1db0baf6c194d",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "Insmed Sees Sustained Gains With Inhaled Drug for Stressed Heart Functioning",
+          "resumen": "Insmed reports 12-month TPIP extension data showing sustained efficacy and favorable safety in PAH ahead of Phase 3 PALM-PAH.",
+          "fuente": "Benzinga",
+          "fecha": "16 Jul 2026 14:32 UTC",
+          "url": "https://finnhub.io/api/news?id=ba27f7ba37191de212a9b19b157140d89cf146b2c9c1ba6d4f44bb25d58fd34f",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/16/Insmed-Headquarters.jpg?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "Insmed Announces 12-Month TPIP OLE Data Demonstrating Sustained Improvement, Mortality Risk Reduction, And No Newly Identified Safety Signals In PAH",
+          "resumen": "–12-Month Data Demonstrated Sustained Improvement with TPIP Across All Secondary Efficacy Measures Including Reduction in Mortality Risk Status by REVEAL Lite 2.0––Placebo Crossed Group Demonstrated Treatment Response",
+          "fuente": "Benzinga",
+          "fecha": "16 Jul 2026 07:03 UTC",
+          "url": "https://finnhub.io/api/news?id=8202ad4cea98e68f94997a732ae1034c48e7bee47a3ec889a30a8958e9ff8b7a",
+          "imagen": "",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 5
     }
   },
   "resumen": {
-    "total_noticias": 21,
-    "tickers_con_noticias": 8,
-    "alertas_urgentes": 5,
-    "sin_noticias": 9
+    "total_noticias": 25,
+    "tickers_con_noticias": 9,
+    "alertas_urgentes": 4,
+    "sin_noticias": 8
   },
   "todas_noticias": [
-    {
-      "ticker": "CAI",
-      "titulo": "Caris Life Sciences To Offer In-House PTEN Immunohistochemistry Testing After Recent FDA Approval Of Biomarker-Guided Therapy And Diagnostic Assay",
-      "resumen": "This testing is designed to help identify patients with PTEN-deficient metastatic androgen pathway modulation-naïve or -sensitive (mAPMN/S) prostate cancer (previously known as metastatic hormone-sensitive prostate",
-      "fuente": "Benzinga",
-      "fecha": "14 Jul 2026 08:36 UTC",
-      "url": "https://finnhub.io/api/news?id=4b98a3d801b973f63d469d00e0d43007dce4dd473cab8e2e6bd9ec7370b7e45c",
-      "imagen": "",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "Carillon Eagle Mid Cap Growth Fund Q2 2026 Portfolio Review",
-      "resumen": "Carillon Eagle Mid Cap Growth Fund stocks delivered solid results in the second quarter. Read more here.",
-      "fuente": "SeekingAlpha",
-      "fecha": "14 Jul 2026 08:53 UTC",
-      "url": "https://finnhub.io/api/news?id=fbaa573036e474ea084296dd08d6adb5dc10383e4dc66d10402482e799ec4902",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2256684614/image_2256684614.jpg?io=getty-c-w1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Here's Why Vertex Was Willing to Pay a Premium of More Than 100% for Crinetics Pharmaceuticals",
-      "resumen": "Vertex's $10 billion acquisition may have spooked investors, given how rich it appeared to be.",
-      "fuente": "Yahoo",
-      "fecha": "14 Jul 2026 12:20 UTC",
-      "url": "https://finnhub.io/api/news?id=8fd522063fde651778f609334b93b87ac175d51b99792eac01e61e5ec2bdd003",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "SNDX",
       "titulo": "Syndax Pharmaceuticals, Inc. (SNDX) Discusses Pipeline Expansion and Next Phase of Innovation for Lead Therapies - Slideshow",
@@ -430,18 +443,6 @@
       "fecha": "14 Jul 2026 16:48 UTC",
       "url": "https://finnhub.io/api/news?id=40bf04d5730d9953faaebb0f7710b06678dc230e6d9574421efc3f181641f562",
       "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2250479883/image_2250479883.jpg?io=getty-c-w1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Alnylam Highlights Neuroscience Progress At AAIC 2026, Initiating Phase 2 APPlauDS Study Of Mivelsiran In Down Syndrome-Associated Alzheimer's While Completing cAPPricorn-1 Enrollment In CAA",
-      "resumen": "− Initiates Global Phase 2 APPlauDS Study of Mivelsiran in Down Syndrome–Associated Alzheimer’s Disease (DS-AD) −− Announces Completion of Enrollment in the Phase 2 cAPPricorn-1 Study of Mivelsiran in Cerebral Amyloid",
-      "fuente": "Benzinga",
-      "fecha": "15 Jul 2026 03:48 UTC",
-      "url": "https://finnhub.io/api/news?id=049645e4a926f3860376cded2ba554e04b42509992f9382273396ad2f858adaa",
-      "imagen": "",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
@@ -483,28 +484,88 @@
       "badge": "🔴"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "Vertex to Acquire Crinetics Pharmaceuticals (CRNX) in $85 Per Share Cash Deal",
-      "resumen": "Crinetics Pharmaceuticals Inc. (NASDAQ:CRNX) is one of the 10 affordable biotech stocks to buy right now. On July 6, Crinetics Pharmaceuticals Inc. (NASDAQ:CRNX) and Vertex Pharmaceuticals announced that both companies have agreed to a definitive agreement, according to which Vertex will acquire Cri",
+      "ticker": "INSM",
+      "titulo": "Insmed Announces 12-Month TPIP OLE Data Demonstrating Sustained Improvement, Mortality Risk Reduction, And No Newly Identified Safety Signals In PAH",
+      "resumen": "–12-Month Data Demonstrated Sustained Improvement with TPIP Across All Secondary Efficacy Measures Including Reduction in Mortality Risk Status by REVEAL Lite 2.0––Placebo Crossed Group Demonstrated Treatment Response",
+      "fuente": "Benzinga",
+      "fecha": "16 Jul 2026 07:03 UTC",
+      "url": "https://finnhub.io/api/news?id=8202ad4cea98e68f94997a732ae1034c48e7bee47a3ec889a30a8958e9ff8b7a",
+      "imagen": "",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ABVX",
+      "titulo": "Abivax: Obefazimod Goes The Distance And So Does My Buy Rating",
+      "resumen": "Abivax (ABVX) Buy: Phase 3 obefazimod data shows ~51% remission in ulcerative colitis; $920M raise funds to 2029.",
+      "fuente": "SeekingAlpha",
+      "fecha": "16 Jul 2026 10:25 UTC",
+      "url": "https://finnhub.io/api/news?id=ae19fefeb31c597129d7971c1e5396dc977c2f54be6e135ccac6f7689a2ff25b",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2194222153/image_2194222153.jpg?io=getty-c-w1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam to Webcast Conference Call Discussing Second Quarter 2026 Financial Results",
+      "resumen": "CAMBRIDGE, Mass., July 16, 2026--Alnylam Pharmaceuticals, Inc. (Nasdaq: ALNY), the leading RNAi therapeutics company, announced today that it will report financial results for the second quarter ending June 30, 2026 on Thursday, July 30, 2026, before the U.S. financial markets open.",
       "fuente": "Yahoo",
-      "fecha": "15 Jul 2026 14:01 UTC",
-      "url": "https://finnhub.io/api/news?id=894eb83bae3b7701338821979d336d28e14b5029ab6a7dc8a0330d7df2b3d9fb",
+      "fecha": "16 Jul 2026 12:00 UTC",
+      "url": "https://finnhub.io/api/news?id=dbab991d5b69f0ec6dd1ff3b568c0b321778444db63a26e5ccf5353669bd19bf",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals (VRTX) Declines More Than Market: Some Information for Investors",
-      "resumen": "Vertex Pharmaceuticals (VRTX) reached $480.25 at the closing of the latest trading day, reflecting a -1.06% change compared to its last close.",
-      "fuente": "Yahoo",
-      "fecha": "13 Jul 2026 22:00 UTC",
-      "url": "https://finnhub.io/api/news?id=3d6b8baa9a83aa76e7cac3b939b0b62322f2dc6cbddd01beda9acf03fcca2fe6",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "ticker": "INSM",
+      "titulo": "Insmed Sees Sustained Gains With Inhaled Drug for Stressed Heart Functioning",
+      "resumen": "Insmed reports 12-month TPIP extension data showing sustained efficacy and favorable safety in PAH ahead of Phase 3 PALM-PAH.",
+      "fuente": "Benzinga",
+      "fecha": "16 Jul 2026 14:32 UTC",
+      "url": "https://finnhub.io/api/news?id=ba27f7ba37191de212a9b19b157140d89cf146b2c9c1ba6d4f44bb25d58fd34f",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/16/Insmed-Headquarters.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Insmed Incorporated (INSM) Discusses 12-Month Results From Ongoing TPIP Open-Label Extension Study in PAH Patients Transcript",
+      "resumen": "Insmed Incorporated (INSM) Discusses 12-Month Results From Ongoing TPIP Open-Label Extension Study in PAH Patients July 16, 2026 8:00 AM EDTCompany...",
+      "fuente": "SeekingAlpha",
+      "fecha": "16 Jul 2026 16:26 UTC",
+      "url": "https://finnhub.io/api/news?id=01440dec7e8055959c578d74df97febf49be47884aaca6c9edc1db0baf6c194d",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Insmed Incorporated (INSM) Discusses 12-Month Results From Ongoing TPIP Open-Label Extension Study in PAH Patients - Slideshow",
+      "resumen": "",
+      "fuente": "SeekingAlpha",
+      "fecha": "16 Jul 2026 16:27 UTC",
+      "url": "https://finnhub.io/api/news?id=8a961dbf9bc9044fd365b7810741b5b1a6099943b0261ac687dee3f85b1e0690",
+      "imagen": "",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam Pharmaceuticals (NASDAQ:ALNY): A Value Stock Priced Below Biotech Peers with Strong Growth",
+      "resumen": "Alnylam Pharmaceuticals (ALNY) offers strong value in biotech with a P/E below 90% of peers, rapid earnings growth of 288%, and high profit margins, despite moderate debt.",
+      "fuente": "ChartMill",
+      "fecha": "17 Jul 2026 08:10 UTC",
+      "url": "https://finnhub.io/api/news?id=3c784e6533ff08923a0cfecba00523798bc9d8eb702cd52915b7796c4d4824e4",
+      "imagen": "https://www.chartmill.com/images/uploads/Undervalued_500_264px_webp_74997b3ff2.webp",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "SENS",
@@ -514,42 +575,6 @@
       "fecha": "14 Jul 2026 15:36 UTC",
       "url": "https://finnhub.io/api/news?id=2d1c2efc6083b88bdf5364ec6f222c93508c3634d0219ba2e928cd1d826cd3d3",
       "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1431240059/image_1431240059.jpg?io=getty-c-w1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Morgan Stanley Raises its Price Target on Alnylam (ALNY)",
-      "resumen": "Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) is one of the 10 Best Growth Stocks With Highest Upside Potential. On July 10, 2026, Morgan Stanley raised the firm’s price target on Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) to $400 from $370 and kept an Equal Weight rating on the shares. On July 9, Ra",
-      "fuente": "Yahoo",
-      "fecha": "14 Jul 2026 16:09 UTC",
-      "url": "https://finnhub.io/api/news?id=520ae3fd2b61bf908d96299e9e0f17b5b68e74afaf0e6c4901ec350c65eb502b",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Alnylam Highlights Progress with Neuroscience Programs at AAIC 2026, Showcasing Potential of RNAi in Neurological Disease",
-      "resumen": "CAMBRIDGE, Mass., July 15, 2026--Alnylam Pharmaceuticals, Inc. (Nasdaq: ALNY), the leading RNAi therapeutics company, today shared advances across its growing neuroscience portfolio at the Alzheimer’s Association International Conference (AAIC) 2026. This scientific progress underscores the potentia",
-      "fuente": "Yahoo",
-      "fecha": "15 Jul 2026 07:30 UTC",
-      "url": "https://finnhub.io/api/news?id=d112bbc35cd23cef6663194c1dd188048dd9e6354fe379220e3a72c4e5032fcb",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "Wells Fargo Maintains Overweight on Insmed, Raises Price Target to $161",
-      "resumen": "Wells Fargo  analyst Benjamin Burnett   maintains Insmed (NASDAQ:INSM) with a Overweight and raises the price target from $160 to $161.",
-      "fuente": "Benzinga",
-      "fecha": "15 Jul 2026 07:46 UTC",
-      "url": "https://finnhub.io/api/news?id=73ae7afa770eef9ff3f1b3f9178f0f17e0e5f702a5efda9c1a3b68d18aebf194",
-      "imagen": "",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
@@ -574,18 +599,6 @@
       "fecha": "15 Jul 2026 14:33 UTC",
       "url": "https://finnhub.io/api/news?id=4d1719984d8a6a95beac0ecb0133479f575c287ea369ef49ff5b3ea592cf4ae0",
       "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "IBB ETF Holds Fewer Bets Than You Think",
-      "resumen": "An ETF's label tells you the category, but the real story is always in the portfolio's actual shape.",
-      "fuente": "Yahoo",
-      "fecha": "15 Jul 2026 16:23 UTC",
-      "url": "https://finnhub.io/api/news?id=a706d9b34a32e9ee4e72c8bb0e5c93ecc188bc198255ecbd232c037a410bf5d7",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
@@ -622,6 +635,90 @@
       "fecha": "16 Jul 2026 07:30 UTC",
       "url": "https://finnhub.io/api/news?id=c5cd568c38c82229699ecfeff65d5f3e8af22b1b318f0d131623d8f2582c384d",
       "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2190808580/image_2190808580.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "DNLI",
+      "titulo": "Deutsche Bank Maintains Buy on Denali Therapeutics, Raises Price Target to $35",
+      "resumen": "Deutsche Bank  analyst David Hoang   maintains Denali Therapeutics (NASDAQ:DNLI) with a Buy and raises the price target from $31 to $35.",
+      "fuente": "Benzinga",
+      "fecha": "16 Jul 2026 07:45 UTC",
+      "url": "https://finnhub.io/api/news?id=7e8b31da5d4e7258c656f65549dc79870fe944675120b59f107b1a8c5a45a1a7",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vortex Energy Provides Corporate Update on Robinsons River Salt Project Technical Study",
+      "resumen": "Technical review to strengthen subsurface model and guide next phase of developmentVANCOUVER, British Columbia, July 16, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) is pleased to provide a corporate update on the ongoing technical stud",
+      "fuente": "Yahoo",
+      "fecha": "16 Jul 2026 12:00 UTC",
+      "url": "https://finnhub.io/api/news?id=22f201450e4146a22e8d333752623c653c83dfc64ed8ec26c95bd36b95ee5206",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals Incorporated (VRTX) Is a Trending Stock: Facts to Know Before Betting on It",
+      "resumen": "Vertex (VRTX) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+      "fuente": "Yahoo",
+      "fecha": "16 Jul 2026 13:00 UTC",
+      "url": "https://finnhub.io/api/news?id=c30edaca5af32f3105a0567a5af374e6b5c51828db4fe6b490b1d148d2a5a47e",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Collect 9.8% On VRTX Stock Now, And Still Keep 15% Of Upside",
+      "resumen": "Get paid a guaranteed income on your Vertex shares today, which you keep no matter what, for agreeing to sell them at a higher price if the stock keeps climbing.",
+      "fuente": "Yahoo",
+      "fecha": "16 Jul 2026 13:06 UTC",
+      "url": "https://finnhub.io/api/news?id=ac38e40815783f8ec5171d72b4c86aa0d5496672e10888f4bb0f5347b866864d",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Collect 9.8% On VRTX Stock Now, And Still Keep 15% Of Upside",
+      "resumen": "Get paid a guaranteed income on your Vertex shares today, which you keep no matter what, for agreeing to sell them at a higher price if the stock keeps climbing.",
+      "fuente": "Yahoo",
+      "fecha": "16 Jul 2026 13:06 UTC",
+      "url": "https://finnhub.io/api/news?id=ac38e40815783f8ec5171d72b4c86aa0d5496672e10888f4bb0f5347b866864d",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "1 Nasdaq 100 Stock to Keep an Eye On and 2 We Question",
+      "resumen": "The Nasdaq 100 (^NDX) is home to some of the biggest success stories in tech and growth investing. However, certain stocks in the index face challenges like profitability concerns, rising costs, or shifts in market trends.",
+      "fuente": "Yahoo",
+      "fecha": "16 Jul 2026 15:05 UTC",
+      "url": "https://finnhub.io/api/news?id=b38cca16ff3fdab553b9d5e5467ff26d8301f3f124e2c0c76e4b155de1bc8e82",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Parnassus Growth Equity Fund Q2 2026 Portfolio Activity",
+      "resumen": "Twist Bioscience provides exposure to two powerful long-term trends in Health Care, AI-supported drug discovery and next-generation sequencing.",
+      "fuente": "SeekingAlpha",
+      "fecha": "17 Jul 2026 04:06 UTC",
+      "url": "https://finnhub.io/api/news?id=fc4e117a9c718f7808b89a3fa41ab1d19e66eedc7d8fc5afe48cf96d58817600",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2158103448/image_2158103448.jpg?io=getty-c-w1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

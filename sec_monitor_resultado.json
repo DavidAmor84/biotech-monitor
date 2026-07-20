@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "17/07/2026 11:54",
+  "generado": "20/07/2026 13:29",
   "periodo_dias": 7,
-  "desde": "2026-07-10",
-  "hasta": "2026-07-17",
+  "desde": "2026-07-13",
+  "hasta": "2026-07-20",
   "resumen": {
-    "total_filings": 5,
+    "total_filings": 7,
     "alertas_rojas": 0,
-    "alertas_verdes": 1,
+    "alertas_verdes": 2,
     "alertas_amarillas": 1,
-    "alertas_azules": 3,
-    "sin_novedad": 13
+    "alertas_azules": 4,
+    "sin_novedad": 11
   },
   "tickers": {
     "SNDX": {
@@ -66,9 +66,33 @@
       "cik": "0001818794",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "8-K",
+          "fecha": "2026-07-20",
+          "nivel": "verde",
+          "badge": "🟢 ALTA",
+          "resumen": "8-K — Evento positivo potencial: Priority Review [Items: 8.01]",
+          "detalle": "8-K",
+          "empresa_sec": "Dyne Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526308343/dyn-20260720.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "8.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 8.01 Other Events. On July 20, 2026, Dyne Therapeutics, Inc. (the Company ) announced that the U.S. Food and Drug Administration ( FDA ) has accepted for review its biologics license application ( BLA ) for zeleciment rostudirsen (z-rostudirsen, also known as DYNE-251) for the treatment of individuals with Duchenne muscular dystrophy ( DMD ) amenable to exon 51 skipping. The FDA has granted the BLA Priority Review and assigned a Prescription Drug User Fee Act target action date of January 21, 2027. The Company continues to expect a potential U.S. launch of z-rostudirsen in the first quarter of 2027, assuming approval is received on the anticipated timeline. Cautionary Note Regarding Forward-Looking Statements This Current Report on Form 8-K contains forward-looking statements that involve substantial risks and uncertainties. All statements, other than statements of historical facts, contained in this Current Report on Form 8-K, including statements regarding the Company s strategy, future operations, prospects and plans, objectives of management, the potential of the FORCE TM platform, the clinical and therapeutic potential of z-rostudirsen, the potential of z-rostudirsen to advance the treatment paradigm in Duchenne muscular dystrophy, expectations regarding the timing and outcome of interactions with regulatory authorities and the timing of regulatory authority action, and expectations regarding the timing of commercialization of z-rostudirsen, constitute forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995. The words",
+            "nivel_ajustado": "verde",
+            "badge_ajustado": "🟢 ALTA",
+            "resumen_ajustado": "8-K — Evento positivo potencial: Priority Review"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "verde",
+      "badge": "🟢",
       "error": null
     },
     "DNLI": {
@@ -99,9 +123,62 @@
       "cik": "0000875320",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-07-17",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "SACHS BRUCE I (Director) → Concesión 100 acciones @ $475.28 | Post: 15,772",
+          "detalle": "FORM 4",
+          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000249/xslF345X06/wk-form4_1784318797.xml",
+          "form4_detail": {
+            "insider_nombre": "SACHS BRUCE I",
+            "insider_cargo": "Director",
+            "transaccion_codigo": "A",
+            "transaccion_tipo": "Concesión",
+            "transaccion_acciones": "99.941",
+            "transaccion_precio": "475.28",
+            "transaccion_fecha": "2026-07-15",
+            "acciones_post": "15771.807",
+            "footnotes": "Each deferred stock unit represents one share of common stock and is paid out in common stock upon the earliest to occur of (i) termination of Mr. Sachs' service on our board of directors, (ii) a change of control of our company and (iii) Mr. Sachs' disability or death.",
+            "es_rutinaria": false,
+            "resumen_detail": "SACHS BRUCE I (Director) → Concesión 100 acciones @ $475.28 | Post: 15,772"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
+          "form": "4",
+          "fecha": "2026-07-17",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Garber Alan M (Director) → Concesión 32 acciones @ $475.28 | Post: 65",
+          "detalle": "FORM 4",
+          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000247/xslF345X06/wk-form4_1784318742.xml",
+          "form4_detail": {
+            "insider_nombre": "Garber Alan M",
+            "insider_cargo": "Director",
+            "transaccion_codigo": "A",
+            "transaccion_tipo": "Concesión",
+            "transaccion_acciones": "31.56",
+            "transaccion_precio": "475.28",
+            "transaccion_fecha": "2026-07-15",
+            "acciones_post": "65.458",
+            "footnotes": "Each deferred stock unit represents one share of common stock and is paid out in common stock upon the earliest to occur of (i) termination of Dr. Garber's service on our board of directors, (ii) a change of control of our company and (iii) Dr. Garber's disability or death.",
+            "es_rutinaria": false,
+            "resumen_detail": "Garber Alan M (Director) → Concesión 32 acciones @ $475.28 | Post: 65"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "ALNY": {
@@ -298,32 +375,6 @@
           },
           "10q_detail": null,
           "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-07-10",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Lewis William (Director / Chair and CEO) → Ejercicio opción 6,259 acciones @ $30.46 | Post: 265,317 | Rutinaria/RSU/impuestos",
-          "detalle": "FORM 4",
-          "empresa_sec": "INSMED Inc",
-          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000140205126000040/xslF345X06/wk-form4_1783713769.xml",
-          "form4_detail": {
-            "insider_nombre": "Lewis William",
-            "insider_cargo": "Director / Chair and CEO",
-            "transaccion_codigo": "M",
-            "transaccion_tipo": "Ejercicio opción",
-            "transaccion_acciones": "6259",
-            "transaccion_precio": "30.46",
-            "transaccion_fecha": "2026-07-09",
-            "acciones_post": "265317",
-            "footnotes": "This transaction was effected pursuant to a 10b5-1 trading plan adopted by the Reporting Person on September 4, 2025, in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934, as amended. Includes 141 shares acquired through the Company's 2018 Employee Stock Purchase Plan. This is the weighted average sales price representing 5,005 shares sold at prices ranging from $116.01 to $117.00 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. This is the weighted average sales price representing 2,335 shares sold at prices ranging from $117.05 to $117.96 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. This is the weighted average sales price representing 3,359 shares sold at prices ranging from $118.06 to $118.80 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. The options became exercisable based on the following vesting schedule: 25% vested on the first anniversary of the grant date and an additional 12.5% vested on each sixth month anniversary date thereafter through the fourth anniversary of the date of grant.",
-            "es_rutinaria": true,
-            "resumen_detail": "Lewis William (Director / Chair and CEO) → Ejercicio opción 6,259 acciones @ $30.46 | Post: 265,317 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
         }
       ],
       "nivel": "azul",
@@ -339,6 +390,31 @@
     }
   },
   "alertas_criticas": [
+    {
+      "ticker": "DYN",
+      "nombre": "Dyne Therapeutics, Inc.",
+      "form": "8-K",
+      "fecha": "2026-07-20",
+      "nivel": "verde",
+      "badge": "🟢 ALTA",
+      "resumen": "8-K — Evento positivo potencial: Priority Review [Items: 8.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Dyne Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526308343/dyn-20260720.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "8.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 8.01 Other Events. On July 20, 2026, Dyne Therapeutics, Inc. (the Company ) announced that the U.S. Food and Drug Administration ( FDA ) has accepted for review its biologics license application ( BLA ) for zeleciment rostudirsen (z-rostudirsen, also known as DYNE-251) for the treatment of individuals with Duchenne muscular dystrophy ( DMD ) amenable to exon 51 skipping. The FDA has granted the BLA Priority Review and assigned a Prescription Drug User Fee Act target action date of January 21, 2027. The Company continues to expect a potential U.S. launch of z-rostudirsen in the first quarter of 2027, assuming approval is received on the anticipated timeline. Cautionary Note Regarding Forward-Looking Statements This Current Report on Form 8-K contains forward-looking statements that involve substantial risks and uncertainties. All statements, other than statements of historical facts, contained in this Current Report on Form 8-K, including statements regarding the Company s strategy, future operations, prospects and plans, objectives of management, the potential of the FORCE TM platform, the clinical and therapeutic potential of z-rostudirsen, the potential of z-rostudirsen to advance the treatment paradigm in Duchenne muscular dystrophy, expectations regarding the timing and outcome of interactions with regulatory authorities and the timing of regulatory authority action, and expectations regarding the timing of commercialization of z-rostudirsen, constitute forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995. The words",
+        "nivel_ajustado": "verde",
+        "badge_ajustado": "🟢 ALTA",
+        "resumen_ajustado": "8-K — Evento positivo potencial: Priority Review"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "CAI",
       "nombre": "Caris Life Sciences, Inc.",
@@ -369,6 +445,87 @@
     }
   ],
   "todos_filings": [
+    {
+      "ticker": "DYN",
+      "nombre": "Dyne Therapeutics, Inc.",
+      "form": "8-K",
+      "fecha": "2026-07-20",
+      "nivel": "verde",
+      "badge": "🟢 ALTA",
+      "resumen": "8-K — Evento positivo potencial: Priority Review [Items: 8.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Dyne Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526308343/dyn-20260720.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "8.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 8.01 Other Events. On July 20, 2026, Dyne Therapeutics, Inc. (the Company ) announced that the U.S. Food and Drug Administration ( FDA ) has accepted for review its biologics license application ( BLA ) for zeleciment rostudirsen (z-rostudirsen, also known as DYNE-251) for the treatment of individuals with Duchenne muscular dystrophy ( DMD ) amenable to exon 51 skipping. The FDA has granted the BLA Priority Review and assigned a Prescription Drug User Fee Act target action date of January 21, 2027. The Company continues to expect a potential U.S. launch of z-rostudirsen in the first quarter of 2027, assuming approval is received on the anticipated timeline. Cautionary Note Regarding Forward-Looking Statements This Current Report on Form 8-K contains forward-looking statements that involve substantial risks and uncertainties. All statements, other than statements of historical facts, contained in this Current Report on Form 8-K, including statements regarding the Company s strategy, future operations, prospects and plans, objectives of management, the potential of the FORCE TM platform, the clinical and therapeutic potential of z-rostudirsen, the potential of z-rostudirsen to advance the treatment paradigm in Duchenne muscular dystrophy, expectations regarding the timing and outcome of interactions with regulatory authorities and the timing of regulatory authority action, and expectations regarding the timing of commercialization of z-rostudirsen, constitute forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995. The words",
+        "nivel_ajustado": "verde",
+        "badge_ajustado": "🟢 ALTA",
+        "resumen_ajustado": "8-K — Evento positivo potencial: Priority Review"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "VRTX",
+      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
+      "form": "4",
+      "fecha": "2026-07-17",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "SACHS BRUCE I (Director) → Concesión 100 acciones @ $475.28 | Post: 15,772",
+      "detalle": "FORM 4",
+      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000249/xslF345X06/wk-form4_1784318797.xml",
+      "form4_detail": {
+        "insider_nombre": "SACHS BRUCE I",
+        "insider_cargo": "Director",
+        "transaccion_codigo": "A",
+        "transaccion_tipo": "Concesión",
+        "transaccion_acciones": "99.941",
+        "transaccion_precio": "475.28",
+        "transaccion_fecha": "2026-07-15",
+        "acciones_post": "15771.807",
+        "footnotes": "Each deferred stock unit represents one share of common stock and is paid out in common stock upon the earliest to occur of (i) termination of Mr. Sachs' service on our board of directors, (ii) a change of control of our company and (iii) Mr. Sachs' disability or death.",
+        "es_rutinaria": false,
+        "resumen_detail": "SACHS BRUCE I (Director) → Concesión 100 acciones @ $475.28 | Post: 15,772"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "VRTX",
+      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
+      "form": "4",
+      "fecha": "2026-07-17",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Garber Alan M (Director) → Concesión 32 acciones @ $475.28 | Post: 65",
+      "detalle": "FORM 4",
+      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000247/xslF345X06/wk-form4_1784318742.xml",
+      "form4_detail": {
+        "insider_nombre": "Garber Alan M",
+        "insider_cargo": "Director",
+        "transaccion_codigo": "A",
+        "transaccion_tipo": "Concesión",
+        "transaccion_acciones": "31.56",
+        "transaccion_precio": "475.28",
+        "transaccion_fecha": "2026-07-15",
+        "acciones_post": "65.458",
+        "footnotes": "Each deferred stock unit represents one share of common stock and is paid out in common stock upon the earliest to occur of (i) termination of Dr. Garber's service on our board of directors, (ii) a change of control of our company and (iii) Dr. Garber's disability or death.",
+        "es_rutinaria": false,
+        "resumen_detail": "Garber Alan M (Director) → Concesión 32 acciones @ $475.28 | Post: 65"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "INSM",
       "nombre": "INSMED Inc",
@@ -472,34 +629,6 @@
         "footnotes": "Includes an aggregate of 23,196 shares received in pro rata distributions exempt pursuant to Rule 16a-9. The price reported in Column 4 is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $14.49 to $14.60 inclusive. The reporting person undertakes to provide to Caris Life Sciences, Inc., any security holder of Caris Life Sciences, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the range set forth in this footnote. Includes an aggregate of 11,598 shares received in pro rata distributions exempt pursuant to Rule 16a-9. The Reporting Person disclaims beneficial ownership except to the extent of his pecuniary interest therein.",
         "es_rutinaria": true,
         "resumen_detail": "HALBERT JON (Director) → Compra 68,000 acciones @ $14.56 | Post: 704,598 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "INSM",
-      "nombre": "INSMED Inc",
-      "form": "4",
-      "fecha": "2026-07-10",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Lewis William (Director / Chair and CEO) → Ejercicio opción 6,259 acciones @ $30.46 | Post: 265,317 | Rutinaria/RSU/impuestos",
-      "detalle": "FORM 4",
-      "empresa_sec": "INSMED Inc",
-      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000140205126000040/xslF345X06/wk-form4_1783713769.xml",
-      "form4_detail": {
-        "insider_nombre": "Lewis William",
-        "insider_cargo": "Director / Chair and CEO",
-        "transaccion_codigo": "M",
-        "transaccion_tipo": "Ejercicio opción",
-        "transaccion_acciones": "6259",
-        "transaccion_precio": "30.46",
-        "transaccion_fecha": "2026-07-09",
-        "acciones_post": "265317",
-        "footnotes": "This transaction was effected pursuant to a 10b5-1 trading plan adopted by the Reporting Person on September 4, 2025, in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934, as amended. Includes 141 shares acquired through the Company's 2018 Employee Stock Purchase Plan. This is the weighted average sales price representing 5,005 shares sold at prices ranging from $116.01 to $117.00 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. This is the weighted average sales price representing 2,335 shares sold at prices ranging from $117.05 to $117.96 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. This is the weighted average sales price representing 3,359 shares sold at prices ranging from $118.06 to $118.80 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. The options became exercisable based on the following vesting schedule: 25% vested on the first anniversary of the grant date and an additional 12.5% vested on each sixth month anniversary date thereafter through the fourth anniversary of the date of grant.",
-        "es_rutinaria": true,
-        "resumen_detail": "Lewis William (Director / Chair and CEO) → Ejercicio opción 6,259 acciones @ $30.46 | Post: 265,317 | Rutinaria/RSU/impuestos"
       },
       "8k_detail": null,
       "10q_detail": null,

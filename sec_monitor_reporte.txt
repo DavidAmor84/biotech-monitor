@@ -1,14 +1,19 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 17/07/2026 11:54 | Período: últimos 7 días
-Desde: 2026-07-10 → Hasta: 2026-07-17
+Generado: 20/07/2026 13:29 | Período: últimos 7 días
+Desde: 2026-07-13 → Hasta: 2026-07-20
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 5 filings | 🔴 0 | 🟢 1 | 🟡 1 | 🔵 3 | ✅ 13 sin novedad
+RESUMEN: 7 filings | 🔴 0 | 🟢 2 | 🟡 1 | 🔵 4 | ✅ 11 sin novedad
 
 ──────────────────────────────────────────────────
-🚨 ALERTAS CRÍTICAS (1)
+🚨 ALERTAS CRÍTICAS (2)
 ──────────────────────────────────────────────────
+
+  [DYN] Dyne Therapeutics, Inc.
+  🟢 ALTA 8-K | 2026-07-20
+  8-K — Evento positivo potencial: Priority Review [Items: 8.01]
+  → https://www.sec.gov/Archives/edgar/data/1818794/000119312526308343/dyn-20260720.htm
 
   [CAI] Caris Life Sciences, Inc.
   🟢 ALTA 4 | 2026-07-13
@@ -24,10 +29,20 @@ DETALLE POR TICKER — SEC EDGAR
      🟡 MEDIA 8-K | 2026-07-14 | 8-K — Posible financiación/dilución: pipe [Items: 8.01, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1395937/000119312526302608/sndx-20260714.htm
   ✅ [ARGX] Sin novedades
-  ✅ [DYN] Sin novedades
+
+  🟢 [DYN] Dyne Therapeutics, Inc. — 1 filing(s)
+     🟢 ALTA 8-K | 2026-07-20 | 8-K — Evento positivo potencial: Priority Review [Items: 8.01]
+     → https://www.sec.gov/Archives/edgar/data/1818794/000119312526308343/dyn-20260720.htm
   ✅ [DNLI] Sin novedades
   ✅ [VKTX] Sin novedades
-  ✅ [VRTX] Sin novedades
+
+  🔵 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 2 filing(s)
+     🔵 INFO 4 | 2026-07-17 | SACHS BRUCE I (Director) → Concesión 100 acciones @ $475.28 | Post: 15,772
+     Insider: SACHS BRUCE I (Director) → Concesión 100 acciones @ $475.28 | Post: 15,772
+     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000249/xslF345X06/wk-form4_1784318797.xml
+     🔵 INFO 4 | 2026-07-17 | Garber Alan M (Director) → Concesión 32 acciones @ $475.28 | Post: 65
+     Insider: Garber Alan M (Director) → Concesión 32 acciones @ $475.28 | Post: 65
+     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000247/xslF345X06/wk-form4_1784318742.xml
   ✅ [ALNY] Sin novedades
   ✅ [BEAM] Sin novedades
   ✅ [OCUL] Sin novedades
@@ -47,12 +62,9 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [TARA] Sin novedades
   ✅ [SENS] Sin novedades
 
-  🔵 [INSM] INSMED Inc — 2 filing(s)
+  🔵 [INSM] INSMED Inc — 1 filing(s)
      🔵 INFO 8-K | 2026-07-16 | 8-K — Sin clasificación específica por Item [Items: 7.01, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1104506/000114036126028602/ef20078093_8k.htm
-     🔵 INFO 4 | 2026-07-10 | Lewis William (Director / Chair and CEO) → Ejercicio opción 6,259 acciones @ $30.46 | Post: 265,317 | Rutinaria/RSU/impuestos
-     Insider: Lewis William (Director / Chair and CEO) → Ejercicio opción 6,259 acciones @ $30.46 | Post: 265,317 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1104506/000140205126000040/xslF345X06/wk-form4_1783713769.xml
   ⚪ [NWL] Sin CIK SEC
 
 ──────────────────────────────────────────────────

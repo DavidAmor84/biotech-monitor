@@ -1,82 +1,20 @@
 {
-  "generado": "17/07/2026 11:55 UTC",
+  "generado": "20/07/2026 13:30 UTC",
   "plazo_horas": 72,
-  "desde": "2026-07-14",
-  "hasta": "2026-07-17",
+  "desde": "2026-07-17",
+  "hasta": "2026-07-20",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
-      "noticias": [
-        {
-          "ticker": "SNDX",
-          "titulo": "HC Wainwright & Co. Reiterates Buy on Syndax Pharmaceuticals, Maintains $40 Price Target",
-          "resumen": "HC Wainwright &amp; Co.  analyst Andres Y. Maldonado   reiterates Syndax Pharmaceuticals (NASDAQ:SNDX) with a Buy and maintains $40 price target.",
-          "fuente": "Benzinga",
-          "fecha": "15 Jul 2026 06:29 UTC",
-          "url": "https://finnhub.io/api/news?id=459587bf00188d545fa01477431b6ebd2eccf4b986d0dd9d96cc136d03e2236d",
-          "imagen": "",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "SNDX",
-          "titulo": "Syndax Pharmaceuticals, Inc. (SNDX) Discusses Pipeline Expansion and Next Phase of Innovation for Lead Therapies Transcript",
-          "resumen": "Syndax Pharmaceuticals, Inc. (SNDX) Discusses Pipeline Expansion and Next Phase of Innovation for Lead Therapies July 14, 2026 8:30 AM EDTCompany...",
-          "fuente": "SeekingAlpha",
-          "fecha": "15 Jul 2026 04:11 UTC",
-          "url": "https://finnhub.io/api/news?id=a1b5c689fad0c02f0d029d09abc7849b45c7fcf350b527a45176ecb95c25262f",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "SNDX",
-          "titulo": "A Fresh Look At Syndax Pharmaceuticals",
-          "resumen": "Syndax Pharma outlook: Revuforj first-mover edge, pipeline catalysts (Niktimvo), and profitability path amid misses. Click here to read more about SNDX.",
-          "fuente": "SeekingAlpha",
-          "fecha": "14 Jul 2026 16:48 UTC",
-          "url": "https://finnhub.io/api/news?id=40bf04d5730d9953faaebb0f7710b06678dc230e6d9574421efc3f181641f562",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2250479883/image_2250479883.jpg?io=getty-c-w1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "SNDX",
-          "titulo": "Syndax Pharmaceuticals, Inc. (SNDX) Discusses Pipeline Expansion and Next Phase of Innovation for Lead Therapies - Slideshow",
-          "resumen": "2026-07-14. The following slide deck was published by Syndax Pharmaceuticals, Inc.",
-          "fuente": "SeekingAlpha",
-          "fecha": "14 Jul 2026 12:50 UTC",
-          "url": "https://finnhub.io/api/news?id=ce1c4a8fb356f3d6743ea1d73eecc6609ee9f85922fc246415eb0354dd6b41d9",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 4
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "ARGX": {
       "nombre": "ARGX",
-      "noticias": [
-        {
-          "ticker": "ARGX",
-          "titulo": "Artisan Mid Cap Fund Q2 2026 Performance Review",
-          "resumen": "Artisan Mid Cap Fund portfolio generated strong absolute returns and outpaced the Russell MidcapÂ® Growth Index. Read more here.",
-          "fuente": "SeekingAlpha",
-          "fecha": "15 Jul 2026 13:56 UTC",
-          "url": "https://finnhub.io/api/news?id=9ea669041b7b7a8adcc9db15934485b194ba72279e2d2187e204a134da4856a2",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2224008766/image_2224008766.jpg?io=getty-c-w1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "DYN": {
       "nombre": "DYN",
@@ -86,22 +24,9 @@
     },
     "DNLI": {
       "nombre": "DNLI",
-      "noticias": [
-        {
-          "ticker": "DNLI",
-          "titulo": "Deutsche Bank Maintains Buy on Denali Therapeutics, Raises Price Target to $35",
-          "resumen": "Deutsche Bank  analyst David Hoang   maintains Denali Therapeutics (NASDAQ:DNLI) with a Buy and raises the price target from $31 to $35.",
-          "fuente": "Benzinga",
-          "fecha": "16 Jul 2026 07:45 UTC",
-          "url": "https://finnhub.io/api/news?id=7e8b31da5d4e7258c656f65549dc79870fe944675120b59f107b1a8c5a45a1a7",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "VKTX": {
       "nombre": "VKTX",
@@ -114,153 +39,55 @@
       "noticias": [
         {
           "ticker": "VRTX",
-          "titulo": "1 Nasdaq 100 Stock to Keep an Eye On and 2 We Question",
-          "resumen": "The Nasdaq 100 (^NDX) is home to some of the biggest success stories in tech and growth investing. However, certain stocks in the index face challenges like profitability concerns, rising costs, or shifts in market trends.",
+          "titulo": "How FDA’s Pediatric Expansion of Casgevy at Vertex Pharmaceuticals (VRTX) Has Changed Its Investment Story",
+          "resumen": "Earlier this month, the FDA expanded approval of Vertex Pharmaceuticals’ gene therapy Casgevy (exagamglogene autotemcel) to children aged 2 and older with sickle cell disease and transfusion-dependent thalassemia, following strong efficacy signals in two small pediatric trials. This milestone meanin",
           "fuente": "Yahoo",
-          "fecha": "16 Jul 2026 15:05 UTC",
-          "url": "https://finnhub.io/api/news?id=b38cca16ff3fdab553b9d5e5467ff26d8301f3f124e2c0c76e4b155de1bc8e82",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Collect 9.8% On VRTX Stock Now, And Still Keep 15% Of Upside",
-          "resumen": "Get paid a guaranteed income on your Vertex shares today, which you keep no matter what, for agreeing to sell them at a higher price if the stock keeps climbing.",
-          "fuente": "Yahoo",
-          "fecha": "16 Jul 2026 13:06 UTC",
-          "url": "https://finnhub.io/api/news?id=ac38e40815783f8ec5171d72b4c86aa0d5496672e10888f4bb0f5347b866864d",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals Incorporated (VRTX) Is a Trending Stock: Facts to Know Before Betting on It",
-          "resumen": "Vertex (VRTX) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-          "fuente": "Yahoo",
-          "fecha": "16 Jul 2026 13:00 UTC",
-          "url": "https://finnhub.io/api/news?id=c30edaca5af32f3105a0567a5af374e6b5c51828db4fe6b490b1d148d2a5a47e",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vortex Energy Provides Corporate Update on Robinsons River Salt Project Technical Study",
-          "resumen": "Technical review to strengthen subsurface model and guide next phase of developmentVANCOUVER, British Columbia, July 16, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) is pleased to provide a corporate update on the ongoing technical stud",
-          "fuente": "Yahoo",
-          "fecha": "16 Jul 2026 12:00 UTC",
-          "url": "https://finnhub.io/api/news?id=22f201450e4146a22e8d333752623c653c83dfc64ed8ec26c95bd36b95ee5206",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "The Battle For Sickle Cell",
-          "resumen": "The curing sickle cell through gene therapy story is a long way from being written. But itâs for sure that it has not gone like some of its participants have wanted it to. Read more here...",
-          "fuente": "SeekingAlpha",
-          "fecha": "16 Jul 2026 07:30 UTC",
-          "url": "https://finnhub.io/api/news?id=c5cd568c38c82229699ecfeff65d5f3e8af22b1b318f0d131623d8f2582c384d",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2190808580/image_2190808580.jpg?io=getty-c-w1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 5
-    },
-    "ALNY": {
-      "nombre": "ALNY",
-      "noticias": [
-        {
-          "ticker": "ALNY",
-          "titulo": "Alnylam Pharmaceuticals (NASDAQ:ALNY): A Value Stock Priced Below Biotech Peers with Strong Growth",
-          "resumen": "Alnylam Pharmaceuticals (ALNY) offers strong value in biotech with a P/E below 90% of peers, rapid earnings growth of 288%, and high profit margins, despite moderate debt.",
-          "fuente": "ChartMill",
-          "fecha": "17 Jul 2026 08:10 UTC",
-          "url": "https://finnhub.io/api/news?id=3c784e6533ff08923a0cfecba00523798bc9d8eb702cd52915b7796c4d4824e4",
-          "imagen": "https://www.chartmill.com/images/uploads/Undervalued_500_264px_webp_74997b3ff2.webp",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Collect 9.8% On VRTX Stock Now, And Still Keep 15% Of Upside",
-          "resumen": "Get paid a guaranteed income on your Vertex shares today, which you keep no matter what, for agreeing to sell them at a higher price if the stock keeps climbing.",
-          "fuente": "Yahoo",
-          "fecha": "16 Jul 2026 13:06 UTC",
-          "url": "https://finnhub.io/api/news?id=ac38e40815783f8ec5171d72b4c86aa0d5496672e10888f4bb0f5347b866864d",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Alnylam to Webcast Conference Call Discussing Second Quarter 2026 Financial Results",
-          "resumen": "CAMBRIDGE, Mass., July 16, 2026--Alnylam Pharmaceuticals, Inc. (Nasdaq: ALNY), the leading RNAi therapeutics company, announced today that it will report financial results for the second quarter ending June 30, 2026 on Thursday, July 30, 2026, before the U.S. financial markets open.",
-          "fuente": "Yahoo",
-          "fecha": "16 Jul 2026 12:00 UTC",
-          "url": "https://finnhub.io/api/news?id=dbab991d5b69f0ec6dd1ff3b568c0b321778444db63a26e5ccf5353669bd19bf",
+          "fecha": "20 Jul 2026 09:09 UTC",
+          "url": "https://finnhub.io/api/news?id=92d5092f112f44af843f3884d48faf9004532046bab42282250b2a22dc512f2d",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
         },
         {
-          "ticker": "ALNY",
-          "titulo": "Alnylam Pharmaceuticals: Commercial Momentum Outweighs TTR Read-Through Concerns",
-          "resumen": "Alnylam's robust cash position and GAAP profitability materially reduce investment risk and support pipeline development. Learn why ALNY stock is a buy.",
-          "fuente": "SeekingAlpha",
-          "fecha": "16 Jul 2026 05:44 UTC",
-          "url": "https://finnhub.io/api/news?id=6c41d8cbb265afb80c85d2362a2e9febc732bbbc89c928ab7244c7f028f02a08",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2164266249/image_2164266249.jpg?io=getty-c-w1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
+          "ticker": "VRTX",
+          "titulo": "Vertex Pharmaceuticals (VRTX) Wins FDA Nod To Treat Children As Young As 2",
+          "resumen": "Vertex Pharmaceuticals' gene therapy exagamglogene autotemcel (Casgevy) has received expanded FDA approval. The approval now includes children as young as 2 years old with sickle cell disease or transfusion-dependent thalassemia. This decision broadens treatment options for a pediatric group with li",
+          "fuente": "Yahoo",
+          "fecha": "20 Jul 2026 05:07 UTC",
+          "url": "https://finnhub.io/api/news?id=eff47664a09c223d3bd87244ea256a86d7edb50f9be4a91c0183fbb81ead926f",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
         },
         {
-          "ticker": "ALNY",
-          "titulo": "AstraZeneca's Oncology Engine Keeps Running Despite Wainua Setback",
-          "resumen": "AstraZeneca PLC Q2 2026 preview: revenue growth, Enhertu sales surge and EU approval, plus risk/reward after Wainua trial setback. Click for this AZN stock update.",
-          "fuente": "SeekingAlpha",
-          "fecha": "15 Jul 2026 12:54 UTC",
-          "url": "https://finnhub.io/api/news?id=57000288ae8e34864fe003c9dc01032ef3345e614ac1f58d27e5e9465af2590c",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1365641802/image_1365641802.jpg?io=getty-c-w1536",
+          "ticker": "VRTX",
+          "titulo": "Vertex Pharmaceuticals Just Made a $10 Billion Acquisition Worth Watching",
+          "resumen": "The biotech's diversification efforts continue.",
+          "fuente": "Yahoo",
+          "fecha": "20 Jul 2026 00:05 UTC",
+          "url": "https://finnhub.io/api/news?id=83d73f2ff98d0ae97212a4f0871c30b3aa6f32ee58d242286e4e3a28433d61cd",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 5
+      "total": 3
+    },
+    "ALNY": {
+      "nombre": "ALNY",
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "BEAM": {
       "nombre": "BEAM",
-      "noticias": [
-        {
-          "ticker": "BEAM",
-          "titulo": "The Battle For Sickle Cell",
-          "resumen": "The curing sickle cell through gene therapy story is a long way from being written. But itâs for sure that it has not gone like some of its participants have wanted it to. Read more here...",
-          "fuente": "SeekingAlpha",
-          "fecha": "16 Jul 2026 07:30 UTC",
-          "url": "https://finnhub.io/api/news?id=c5cd568c38c82229699ecfeff65d5f3e8af22b1b318f0d131623d8f2582c384d",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2190808580/image_2190808580.jpg?io=getty-c-w1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "OCUL": {
       "nombre": "OCUL",
@@ -285,18 +112,18 @@
       "noticias": [
         {
           "ticker": "ABVX",
-          "titulo": "Abivax: Obefazimod Goes The Distance And So Does My Buy Rating",
-          "resumen": "Abivax (ABVX) Buy: Phase 3 obefazimod data shows ~51% remission in ulcerative colitis; $920M raise funds to 2029.",
-          "fuente": "SeekingAlpha",
-          "fecha": "16 Jul 2026 10:25 UTC",
-          "url": "https://finnhub.io/api/news?id=ae19fefeb31c597129d7971c1e5396dc977c2f54be6e135ccac6f7689a2ff25b",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2194222153/image_2194222153.jpg?io=getty-c-w1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
+          "titulo": "'Biotech Abivax re-engages investment bank Centerview for Big Pharma takeover talks' - La Lettre",
+          "resumen": "https://www.lalettre.fr/fr/english-corner/2026/07/17/biotech-abivax-re-engages-investment-bank-centerview-for-big-pharma-takeover-talks,110842674-gra",
+          "fuente": "Benzinga",
+          "fecha": "17 Jul 2026 14:04 UTC",
+          "url": "https://finnhub.io/api/news?id=8826e67c12ece340942f8ddfe6e54dba131d04e0b4f590dec8e4fa46363ed686",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
         }
       ],
-      "nivel": "rojo",
+      "nivel": "azul",
       "total": 1
     },
     "VERA": {
@@ -319,406 +146,93 @@
     },
     "SENS": {
       "nombre": "SENS",
-      "noticias": [
-        {
-          "ticker": "SENS",
-          "titulo": "Mizuho Maintains Outperform on Senseonics Holdings, Lowers Price Target to $18",
-          "resumen": "Mizuho  analyst Anthony Petrone   maintains Senseonics Holdings (NASDAQ:SENS) with a Outperform and lowers the price target from $20 to $18.",
-          "fuente": "Benzinga",
-          "fecha": "15 Jul 2026 14:33 UTC",
-          "url": "https://finnhub.io/api/news?id=4d1719984d8a6a95beac0ecb0133479f575c287ea369ef49ff5b3ea592cf4ae0",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "SENS",
-          "titulo": "Senseonics: Implantable Sensor, Unsustainable Spend",
-          "resumen": "Senseonics Holdings is rated a Sell, with persistent concerns about cash burn, dilution, and lack of profitability. Learn more about SENS stock here.",
-          "fuente": "SeekingAlpha",
-          "fecha": "14 Jul 2026 15:36 UTC",
-          "url": "https://finnhub.io/api/news?id=2d1c2efc6083b88bdf5364ec6f222c93508c3634d0219ba2e928cd1d826cd3d3",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1431240059/image_1431240059.jpg?io=getty-c-w1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 2
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "INSM": {
       "nombre": "INSM",
       "noticias": [
         {
           "ticker": "INSM",
-          "titulo": "Parnassus Growth Equity Fund Q2 2026 Portfolio Activity",
-          "resumen": "Twist Bioscience provides exposure to two powerful long-term trends in Health Care, AI-supported drug discovery and next-generation sequencing.",
+          "titulo": "Tracking Stanley Druckenmiller's Duquesne Family Office Portfolio - Q1 2026 Update",
+          "resumen": "Stanley Druckenmillerâs Q1 2026 13F: Duquesne portfolio drops to $3.38B as Natera grows and GOOGL exitsâsee top buys/sells now.",
           "fuente": "SeekingAlpha",
-          "fecha": "17 Jul 2026 04:06 UTC",
-          "url": "https://finnhub.io/api/news?id=fc4e117a9c718f7808b89a3fa41ab1d19e66eedc7d8fc5afe48cf96d58817600",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2158103448/image_2158103448.jpg?io=getty-c-w1536",
+          "fecha": "19 Jul 2026 03:10 UTC",
+          "url": "https://finnhub.io/api/news?id=ffc5e36c4a9b798ebae3191efeaf9e040ce06ad8222f8491fe67ea9251f3976a",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1473159542/image_1473159542.jpg?io=getty-c-w1536",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "Insmed Incorporated (INSM) Discusses 12-Month Results From Ongoing TPIP Open-Label Extension Study in PAH Patients - Slideshow",
-          "resumen": "",
-          "fuente": "SeekingAlpha",
-          "fecha": "16 Jul 2026 16:27 UTC",
-          "url": "https://finnhub.io/api/news?id=8a961dbf9bc9044fd365b7810741b5b1a6099943b0261ac687dee3f85b1e0690",
-          "imagen": "",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "Insmed Incorporated (INSM) Discusses 12-Month Results From Ongoing TPIP Open-Label Extension Study in PAH Patients Transcript",
-          "resumen": "Insmed Incorporated (INSM) Discusses 12-Month Results From Ongoing TPIP Open-Label Extension Study in PAH Patients July 16, 2026 8:00 AM EDTCompany...",
-          "fuente": "SeekingAlpha",
-          "fecha": "16 Jul 2026 16:26 UTC",
-          "url": "https://finnhub.io/api/news?id=01440dec7e8055959c578d74df97febf49be47884aaca6c9edc1db0baf6c194d",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "Insmed Sees Sustained Gains With Inhaled Drug for Stressed Heart Functioning",
-          "resumen": "Insmed reports 12-month TPIP extension data showing sustained efficacy and favorable safety in PAH ahead of Phase 3 PALM-PAH.",
-          "fuente": "Benzinga",
-          "fecha": "16 Jul 2026 14:32 UTC",
-          "url": "https://finnhub.io/api/news?id=ba27f7ba37191de212a9b19b157140d89cf146b2c9c1ba6d4f44bb25d58fd34f",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/16/Insmed-Headquarters.jpg?width=2048&height=1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "Insmed Announces 12-Month TPIP OLE Data Demonstrating Sustained Improvement, Mortality Risk Reduction, And No Newly Identified Safety Signals In PAH",
-          "resumen": "–12-Month Data Demonstrated Sustained Improvement with TPIP Across All Secondary Efficacy Measures Including Reduction in Mortality Risk Status by REVEAL Lite 2.0––Placebo Crossed Group Demonstrated Treatment Response",
-          "fuente": "Benzinga",
-          "fecha": "16 Jul 2026 07:03 UTC",
-          "url": "https://finnhub.io/api/news?id=8202ad4cea98e68f94997a732ae1034c48e7bee47a3ec889a30a8958e9ff8b7a",
-          "imagen": "",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
-      "nivel": "rojo",
-      "total": 5
+      "nivel": "azul",
+      "total": 1
     }
   },
   "resumen": {
-    "total_noticias": 25,
-    "tickers_con_noticias": 9,
-    "alertas_urgentes": 4,
-    "sin_noticias": 8
+    "total_noticias": 5,
+    "tickers_con_noticias": 3,
+    "alertas_urgentes": 1,
+    "sin_noticias": 14
   },
   "todas_noticias": [
     {
-      "ticker": "SNDX",
-      "titulo": "Syndax Pharmaceuticals, Inc. (SNDX) Discusses Pipeline Expansion and Next Phase of Innovation for Lead Therapies - Slideshow",
-      "resumen": "2026-07-14. The following slide deck was published by Syndax Pharmaceuticals, Inc.",
-      "fuente": "SeekingAlpha",
-      "fecha": "14 Jul 2026 12:50 UTC",
-      "url": "https://finnhub.io/api/news?id=ce1c4a8fb356f3d6743ea1d73eecc6609ee9f85922fc246415eb0354dd6b41d9",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals Just Made a $10 Billion Acquisition Worth Watching",
+      "resumen": "The biotech's diversification efforts continue.",
+      "fuente": "Yahoo",
+      "fecha": "20 Jul 2026 00:05 UTC",
+      "url": "https://finnhub.io/api/news?id=83d73f2ff98d0ae97212a4f0871c30b3aa6f32ee58d242286e4e3a28433d61cd",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
     },
     {
-      "ticker": "SNDX",
-      "titulo": "A Fresh Look At Syndax Pharmaceuticals",
-      "resumen": "Syndax Pharma outlook: Revuforj first-mover edge, pipeline catalysts (Niktimvo), and profitability path amid misses. Click here to read more about SNDX.",
-      "fuente": "SeekingAlpha",
-      "fecha": "14 Jul 2026 16:48 UTC",
-      "url": "https://finnhub.io/api/news?id=40bf04d5730d9953faaebb0f7710b06678dc230e6d9574421efc3f181641f562",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2250479883/image_2250479883.jpg?io=getty-c-w1536",
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals (VRTX) Wins FDA Nod To Treat Children As Young As 2",
+      "resumen": "Vertex Pharmaceuticals' gene therapy exagamglogene autotemcel (Casgevy) has received expanded FDA approval. The approval now includes children as young as 2 years old with sickle cell disease or transfusion-dependent thalassemia. This decision broadens treatment options for a pediatric group with li",
+      "fuente": "Yahoo",
+      "fecha": "20 Jul 2026 05:07 UTC",
+      "url": "https://finnhub.io/api/news?id=eff47664a09c223d3bd87244ea256a86d7edb50f9be4a91c0183fbb81ead926f",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
     },
     {
-      "ticker": "SNDX",
-      "titulo": "Syndax Pharmaceuticals, Inc. (SNDX) Discusses Pipeline Expansion and Next Phase of Innovation for Lead Therapies Transcript",
-      "resumen": "Syndax Pharmaceuticals, Inc. (SNDX) Discusses Pipeline Expansion and Next Phase of Innovation for Lead Therapies July 14, 2026 8:30 AM EDTCompany...",
-      "fuente": "SeekingAlpha",
-      "fecha": "15 Jul 2026 04:11 UTC",
-      "url": "https://finnhub.io/api/news?id=a1b5c689fad0c02f0d029d09abc7849b45c7fcf350b527a45176ecb95c25262f",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "SNDX",
-      "titulo": "HC Wainwright & Co. Reiterates Buy on Syndax Pharmaceuticals, Maintains $40 Price Target",
-      "resumen": "HC Wainwright &amp; Co.  analyst Andres Y. Maldonado   reiterates Syndax Pharmaceuticals (NASDAQ:SNDX) with a Buy and maintains $40 price target.",
-      "fuente": "Benzinga",
-      "fecha": "15 Jul 2026 06:29 UTC",
-      "url": "https://finnhub.io/api/news?id=459587bf00188d545fa01477431b6ebd2eccf4b986d0dd9d96cc136d03e2236d",
-      "imagen": "",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "AstraZeneca's Oncology Engine Keeps Running Despite Wainua Setback",
-      "resumen": "AstraZeneca PLC Q2 2026 preview: revenue growth, Enhertu sales surge and EU approval, plus risk/reward after Wainua trial setback. Click for this AZN stock update.",
-      "fuente": "SeekingAlpha",
-      "fecha": "15 Jul 2026 12:54 UTC",
-      "url": "https://finnhub.io/api/news?id=57000288ae8e34864fe003c9dc01032ef3345e614ac1f58d27e5e9465af2590c",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1365641802/image_1365641802.jpg?io=getty-c-w1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "Insmed Announces 12-Month TPIP OLE Data Demonstrating Sustained Improvement, Mortality Risk Reduction, And No Newly Identified Safety Signals In PAH",
-      "resumen": "–12-Month Data Demonstrated Sustained Improvement with TPIP Across All Secondary Efficacy Measures Including Reduction in Mortality Risk Status by REVEAL Lite 2.0––Placebo Crossed Group Demonstrated Treatment Response",
-      "fuente": "Benzinga",
-      "fecha": "16 Jul 2026 07:03 UTC",
-      "url": "https://finnhub.io/api/news?id=8202ad4cea98e68f94997a732ae1034c48e7bee47a3ec889a30a8958e9ff8b7a",
-      "imagen": "",
+      "ticker": "VRTX",
+      "titulo": "How FDA’s Pediatric Expansion of Casgevy at Vertex Pharmaceuticals (VRTX) Has Changed Its Investment Story",
+      "resumen": "Earlier this month, the FDA expanded approval of Vertex Pharmaceuticals’ gene therapy Casgevy (exagamglogene autotemcel) to children aged 2 and older with sickle cell disease and transfusion-dependent thalassemia, following strong efficacy signals in two small pediatric trials. This milestone meanin",
+      "fuente": "Yahoo",
+      "fecha": "20 Jul 2026 09:09 UTC",
+      "url": "https://finnhub.io/api/news?id=92d5092f112f44af843f3884d48faf9004532046bab42282250b2a22dc512f2d",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
     },
     {
       "ticker": "ABVX",
-      "titulo": "Abivax: Obefazimod Goes The Distance And So Does My Buy Rating",
-      "resumen": "Abivax (ABVX) Buy: Phase 3 obefazimod data shows ~51% remission in ulcerative colitis; $920M raise funds to 2029.",
-      "fuente": "SeekingAlpha",
-      "fecha": "16 Jul 2026 10:25 UTC",
-      "url": "https://finnhub.io/api/news?id=ae19fefeb31c597129d7971c1e5396dc977c2f54be6e135ccac6f7689a2ff25b",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2194222153/image_2194222153.jpg?io=getty-c-w1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Alnylam to Webcast Conference Call Discussing Second Quarter 2026 Financial Results",
-      "resumen": "CAMBRIDGE, Mass., July 16, 2026--Alnylam Pharmaceuticals, Inc. (Nasdaq: ALNY), the leading RNAi therapeutics company, announced today that it will report financial results for the second quarter ending June 30, 2026 on Thursday, July 30, 2026, before the U.S. financial markets open.",
-      "fuente": "Yahoo",
-      "fecha": "16 Jul 2026 12:00 UTC",
-      "url": "https://finnhub.io/api/news?id=dbab991d5b69f0ec6dd1ff3b568c0b321778444db63a26e5ccf5353669bd19bf",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "Insmed Sees Sustained Gains With Inhaled Drug for Stressed Heart Functioning",
-      "resumen": "Insmed reports 12-month TPIP extension data showing sustained efficacy and favorable safety in PAH ahead of Phase 3 PALM-PAH.",
+      "titulo": "'Biotech Abivax re-engages investment bank Centerview for Big Pharma takeover talks' - La Lettre",
+      "resumen": "https://www.lalettre.fr/fr/english-corner/2026/07/17/biotech-abivax-re-engages-investment-bank-centerview-for-big-pharma-takeover-talks,110842674-gra",
       "fuente": "Benzinga",
-      "fecha": "16 Jul 2026 14:32 UTC",
-      "url": "https://finnhub.io/api/news?id=ba27f7ba37191de212a9b19b157140d89cf146b2c9c1ba6d4f44bb25d58fd34f",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/16/Insmed-Headquarters.jpg?width=2048&height=1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "Insmed Incorporated (INSM) Discusses 12-Month Results From Ongoing TPIP Open-Label Extension Study in PAH Patients Transcript",
-      "resumen": "Insmed Incorporated (INSM) Discusses 12-Month Results From Ongoing TPIP Open-Label Extension Study in PAH Patients July 16, 2026 8:00 AM EDTCompany...",
-      "fuente": "SeekingAlpha",
-      "fecha": "16 Jul 2026 16:26 UTC",
-      "url": "https://finnhub.io/api/news?id=01440dec7e8055959c578d74df97febf49be47884aaca6c9edc1db0baf6c194d",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "Insmed Incorporated (INSM) Discusses 12-Month Results From Ongoing TPIP Open-Label Extension Study in PAH Patients - Slideshow",
-      "resumen": "",
-      "fuente": "SeekingAlpha",
-      "fecha": "16 Jul 2026 16:27 UTC",
-      "url": "https://finnhub.io/api/news?id=8a961dbf9bc9044fd365b7810741b5b1a6099943b0261ac687dee3f85b1e0690",
-      "imagen": "",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Alnylam Pharmaceuticals (NASDAQ:ALNY): A Value Stock Priced Below Biotech Peers with Strong Growth",
-      "resumen": "Alnylam Pharmaceuticals (ALNY) offers strong value in biotech with a P/E below 90% of peers, rapid earnings growth of 288%, and high profit margins, despite moderate debt.",
-      "fuente": "ChartMill",
-      "fecha": "17 Jul 2026 08:10 UTC",
-      "url": "https://finnhub.io/api/news?id=3c784e6533ff08923a0cfecba00523798bc9d8eb702cd52915b7796c4d4824e4",
-      "imagen": "https://www.chartmill.com/images/uploads/Undervalued_500_264px_webp_74997b3ff2.webp",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "SENS",
-      "titulo": "Senseonics: Implantable Sensor, Unsustainable Spend",
-      "resumen": "Senseonics Holdings is rated a Sell, with persistent concerns about cash burn, dilution, and lack of profitability. Learn more about SENS stock here.",
-      "fuente": "SeekingAlpha",
-      "fecha": "14 Jul 2026 15:36 UTC",
-      "url": "https://finnhub.io/api/news?id=2d1c2efc6083b88bdf5364ec6f222c93508c3634d0219ba2e928cd1d826cd3d3",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1431240059/image_1431240059.jpg?io=getty-c-w1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "Artisan Mid Cap Fund Q2 2026 Performance Review",
-      "resumen": "Artisan Mid Cap Fund portfolio generated strong absolute returns and outpaced the Russell MidcapÂ® Growth Index. Read more here.",
-      "fuente": "SeekingAlpha",
-      "fecha": "15 Jul 2026 13:56 UTC",
-      "url": "https://finnhub.io/api/news?id=9ea669041b7b7a8adcc9db15934485b194ba72279e2d2187e204a134da4856a2",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2224008766/image_2224008766.jpg?io=getty-c-w1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "SENS",
-      "titulo": "Mizuho Maintains Outperform on Senseonics Holdings, Lowers Price Target to $18",
-      "resumen": "Mizuho  analyst Anthony Petrone   maintains Senseonics Holdings (NASDAQ:SENS) with a Outperform and lowers the price target from $20 to $18.",
-      "fuente": "Benzinga",
-      "fecha": "15 Jul 2026 14:33 UTC",
-      "url": "https://finnhub.io/api/news?id=4d1719984d8a6a95beac0ecb0133479f575c287ea369ef49ff5b3ea592cf4ae0",
+      "fecha": "17 Jul 2026 14:04 UTC",
+      "url": "https://finnhub.io/api/news?id=8826e67c12ece340942f8ddfe6e54dba131d04e0b4f590dec8e4fa46363ed686",
       "imagen": "",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
     },
     {
-      "ticker": "ALNY",
-      "titulo": "Alnylam Pharmaceuticals: Commercial Momentum Outweighs TTR Read-Through Concerns",
-      "resumen": "Alnylam's robust cash position and GAAP profitability materially reduce investment risk and support pipeline development. Learn why ALNY stock is a buy.",
-      "fuente": "SeekingAlpha",
-      "fecha": "16 Jul 2026 05:44 UTC",
-      "url": "https://finnhub.io/api/news?id=6c41d8cbb265afb80c85d2362a2e9febc732bbbc89c928ab7244c7f028f02a08",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2164266249/image_2164266249.jpg?io=getty-c-w1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "The Battle For Sickle Cell",
-      "resumen": "The curing sickle cell through gene therapy story is a long way from being written. But itâs for sure that it has not gone like some of its participants have wanted it to. Read more here...",
-      "fuente": "SeekingAlpha",
-      "fecha": "16 Jul 2026 07:30 UTC",
-      "url": "https://finnhub.io/api/news?id=c5cd568c38c82229699ecfeff65d5f3e8af22b1b318f0d131623d8f2582c384d",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2190808580/image_2190808580.jpg?io=getty-c-w1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "BEAM",
-      "titulo": "The Battle For Sickle Cell",
-      "resumen": "The curing sickle cell through gene therapy story is a long way from being written. But itâs for sure that it has not gone like some of its participants have wanted it to. Read more here...",
-      "fuente": "SeekingAlpha",
-      "fecha": "16 Jul 2026 07:30 UTC",
-      "url": "https://finnhub.io/api/news?id=c5cd568c38c82229699ecfeff65d5f3e8af22b1b318f0d131623d8f2582c384d",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2190808580/image_2190808580.jpg?io=getty-c-w1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "DNLI",
-      "titulo": "Deutsche Bank Maintains Buy on Denali Therapeutics, Raises Price Target to $35",
-      "resumen": "Deutsche Bank  analyst David Hoang   maintains Denali Therapeutics (NASDAQ:DNLI) with a Buy and raises the price target from $31 to $35.",
-      "fuente": "Benzinga",
-      "fecha": "16 Jul 2026 07:45 UTC",
-      "url": "https://finnhub.io/api/news?id=7e8b31da5d4e7258c656f65549dc79870fe944675120b59f107b1a8c5a45a1a7",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vortex Energy Provides Corporate Update on Robinsons River Salt Project Technical Study",
-      "resumen": "Technical review to strengthen subsurface model and guide next phase of developmentVANCOUVER, British Columbia, July 16, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) is pleased to provide a corporate update on the ongoing technical stud",
-      "fuente": "Yahoo",
-      "fecha": "16 Jul 2026 12:00 UTC",
-      "url": "https://finnhub.io/api/news?id=22f201450e4146a22e8d333752623c653c83dfc64ed8ec26c95bd36b95ee5206",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals Incorporated (VRTX) Is a Trending Stock: Facts to Know Before Betting on It",
-      "resumen": "Vertex (VRTX) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-      "fuente": "Yahoo",
-      "fecha": "16 Jul 2026 13:00 UTC",
-      "url": "https://finnhub.io/api/news?id=c30edaca5af32f3105a0567a5af374e6b5c51828db4fe6b490b1d148d2a5a47e",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Collect 9.8% On VRTX Stock Now, And Still Keep 15% Of Upside",
-      "resumen": "Get paid a guaranteed income on your Vertex shares today, which you keep no matter what, for agreeing to sell them at a higher price if the stock keeps climbing.",
-      "fuente": "Yahoo",
-      "fecha": "16 Jul 2026 13:06 UTC",
-      "url": "https://finnhub.io/api/news?id=ac38e40815783f8ec5171d72b4c86aa0d5496672e10888f4bb0f5347b866864d",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Collect 9.8% On VRTX Stock Now, And Still Keep 15% Of Upside",
-      "resumen": "Get paid a guaranteed income on your Vertex shares today, which you keep no matter what, for agreeing to sell them at a higher price if the stock keeps climbing.",
-      "fuente": "Yahoo",
-      "fecha": "16 Jul 2026 13:06 UTC",
-      "url": "https://finnhub.io/api/news?id=ac38e40815783f8ec5171d72b4c86aa0d5496672e10888f4bb0f5347b866864d",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "1 Nasdaq 100 Stock to Keep an Eye On and 2 We Question",
-      "resumen": "The Nasdaq 100 (^NDX) is home to some of the biggest success stories in tech and growth investing. However, certain stocks in the index face challenges like profitability concerns, rising costs, or shifts in market trends.",
-      "fuente": "Yahoo",
-      "fecha": "16 Jul 2026 15:05 UTC",
-      "url": "https://finnhub.io/api/news?id=b38cca16ff3fdab553b9d5e5467ff26d8301f3f124e2c0c76e4b155de1bc8e82",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
       "ticker": "INSM",
-      "titulo": "Parnassus Growth Equity Fund Q2 2026 Portfolio Activity",
-      "resumen": "Twist Bioscience provides exposure to two powerful long-term trends in Health Care, AI-supported drug discovery and next-generation sequencing.",
+      "titulo": "Tracking Stanley Druckenmiller's Duquesne Family Office Portfolio - Q1 2026 Update",
+      "resumen": "Stanley Druckenmillerâs Q1 2026 13F: Duquesne portfolio drops to $3.38B as Natera grows and GOOGL exitsâsee top buys/sells now.",
       "fuente": "SeekingAlpha",
-      "fecha": "17 Jul 2026 04:06 UTC",
-      "url": "https://finnhub.io/api/news?id=fc4e117a9c718f7808b89a3fa41ab1d19e66eedc7d8fc5afe48cf96d58817600",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2158103448/image_2158103448.jpg?io=getty-c-w1536",
+      "fecha": "19 Jul 2026 03:10 UTC",
+      "url": "https://finnhub.io/api/news?id=ffc5e36c4a9b798ebae3191efeaf9e040ce06ad8222f8491fe67ea9251f3976a",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1473159542/image_1473159542.jpg?io=getty-c-w1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

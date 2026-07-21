@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "20/07/2026 13:29",
+  "generado": "21/07/2026 09:26",
   "periodo_dias": 7,
-  "desde": "2026-07-13",
-  "hasta": "2026-07-20",
+  "desde": "2026-07-14",
+  "hasta": "2026-07-21",
   "resumen": {
-    "total_filings": 7,
+    "total_filings": 6,
     "alertas_rojas": 0,
-    "alertas_verdes": 2,
+    "alertas_verdes": 1,
     "alertas_amarillas": 1,
     "alertas_azules": 4,
-    "sin_novedad": 11
+    "sin_novedad": 12
   },
   "tickers": {
     "SNDX": {
@@ -220,36 +220,9 @@
       "cik": "0002019410",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-07-13",
-          "nivel": "verde",
-          "badge": "🟢 ALTA",
-          "resumen": "Insider BUY: HALBERT JON (Director) → Compra 68,000 acciones @ $14.56 | Post: 704,598 | Rutinaria/RSU/impuestos",
-          "detalle": "FORM 4",
-          "empresa_sec": "Caris Life Sciences, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/2019410/000118939426000005/xslF345X06/wk-form4_1783940766.xml",
-          "form4_detail": {
-            "insider_nombre": "HALBERT JON",
-            "insider_cargo": "Director",
-            "transaccion_codigo": "P",
-            "transaccion_tipo": "Compra",
-            "transaccion_acciones": "68000",
-            "transaccion_precio": "14.56",
-            "transaccion_fecha": "2026-05-15",
-            "acciones_post": "704598",
-            "footnotes": "Includes an aggregate of 23,196 shares received in pro rata distributions exempt pursuant to Rule 16a-9. The price reported in Column 4 is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $14.49 to $14.60 inclusive. The reporting person undertakes to provide to Caris Life Sciences, Inc., any security holder of Caris Life Sciences, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the range set forth in this footnote. Includes an aggregate of 11,598 shares received in pro rata distributions exempt pursuant to Rule 16a-9. The Reporting Person disclaims beneficial ownership except to the extent of his pecuniary interest therein.",
-            "es_rutinaria": true,
-            "resumen_detail": "HALBERT JON (Director) → Compra 68,000 acciones @ $14.56 | Post: 704,598 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "verde",
-      "badge": "🟢",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "GPCR": {
@@ -414,34 +387,6 @@
       },
       "10q_detail": null,
       "prospecto_detail": null
-    },
-    {
-      "ticker": "CAI",
-      "nombre": "Caris Life Sciences, Inc.",
-      "form": "4",
-      "fecha": "2026-07-13",
-      "nivel": "verde",
-      "badge": "🟢 ALTA",
-      "resumen": "Insider BUY: HALBERT JON (Director) → Compra 68,000 acciones @ $14.56 | Post: 704,598 | Rutinaria/RSU/impuestos",
-      "detalle": "FORM 4",
-      "empresa_sec": "Caris Life Sciences, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/2019410/000118939426000005/xslF345X06/wk-form4_1783940766.xml",
-      "form4_detail": {
-        "insider_nombre": "HALBERT JON",
-        "insider_cargo": "Director",
-        "transaccion_codigo": "P",
-        "transaccion_tipo": "Compra",
-        "transaccion_acciones": "68000",
-        "transaccion_precio": "14.56",
-        "transaccion_fecha": "2026-05-15",
-        "acciones_post": "704598",
-        "footnotes": "Includes an aggregate of 23,196 shares received in pro rata distributions exempt pursuant to Rule 16a-9. The price reported in Column 4 is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $14.49 to $14.60 inclusive. The reporting person undertakes to provide to Caris Life Sciences, Inc., any security holder of Caris Life Sciences, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the range set forth in this footnote. Includes an aggregate of 11,598 shares received in pro rata distributions exempt pursuant to Rule 16a-9. The Reporting Person disclaims beneficial ownership except to the extent of his pecuniary interest therein.",
-        "es_rutinaria": true,
-        "resumen_detail": "HALBERT JON (Director) → Compra 68,000 acciones @ $14.56 | Post: 704,598 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
     }
   ],
   "todos_filings": [
@@ -603,34 +548,6 @@
         "badge_ajustado": "🟡 MEDIA",
         "resumen_ajustado": "8-K — Posible financiación/dilución: pipe"
       },
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "CAI",
-      "nombre": "Caris Life Sciences, Inc.",
-      "form": "4",
-      "fecha": "2026-07-13",
-      "nivel": "verde",
-      "badge": "🟢 ALTA",
-      "resumen": "Insider BUY: HALBERT JON (Director) → Compra 68,000 acciones @ $14.56 | Post: 704,598 | Rutinaria/RSU/impuestos",
-      "detalle": "FORM 4",
-      "empresa_sec": "Caris Life Sciences, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/2019410/000118939426000005/xslF345X06/wk-form4_1783940766.xml",
-      "form4_detail": {
-        "insider_nombre": "HALBERT JON",
-        "insider_cargo": "Director",
-        "transaccion_codigo": "P",
-        "transaccion_tipo": "Compra",
-        "transaccion_acciones": "68000",
-        "transaccion_precio": "14.56",
-        "transaccion_fecha": "2026-05-15",
-        "acciones_post": "704598",
-        "footnotes": "Includes an aggregate of 23,196 shares received in pro rata distributions exempt pursuant to Rule 16a-9. The price reported in Column 4 is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $14.49 to $14.60 inclusive. The reporting person undertakes to provide to Caris Life Sciences, Inc., any security holder of Caris Life Sciences, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the range set forth in this footnote. Includes an aggregate of 11,598 shares received in pro rata distributions exempt pursuant to Rule 16a-9. The Reporting Person disclaims beneficial ownership except to the extent of his pecuniary interest therein.",
-        "es_rutinaria": true,
-        "resumen_detail": "HALBERT JON (Director) → Compra 68,000 acciones @ $14.56 | Post: 704,598 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
       "10q_detail": null,
       "prospecto_detail": null
     }

@@ -1,8 +1,8 @@
 {
-  "generado": "20/07/2026 13:30 UTC",
+  "generado": "21/07/2026 09:36 UTC",
   "plazo_horas": 72,
-  "desde": "2026-07-17",
-  "hasta": "2026-07-20",
+  "desde": "2026-07-18",
+  "hasta": "2026-07-21",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -18,9 +18,34 @@
     },
     "DYN": {
       "nombre": "DYN",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "DYN",
+          "titulo": "Dyne Therapeutics: A Buy, With Caveats, On DMD Progress",
+          "resumen": "Dyne Therapeutics wins FDA Priority Review for DMD drug z-rostudirsen, with key catalysts and pipeline upside. Click for more on DYN stock.",
+          "fuente": "SeekingAlpha",
+          "fecha": "20 Jul 2026 14:35 UTC",
+          "url": "https://finnhub.io/api/news?id=9e5996f66b0472df5101935d2c070f5952391c7ac02bd591207170953c6a6ec7",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1852121108/image_1852121108.jpg?io=getty-c-w1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "DYN",
+          "titulo": "Dyne Therapeutics' Biologics License Application For Zeleciment Rostudirsen Got FDA Acceptance For Review To Treat Duchenne Muscular Dystrophy",
+          "resumen": "Dyne Therapeutics, Inc. (Nasdaq: DYN), a clinical-stage company focused on delivering functional improvement for people living with genetically driven neuromuscular diseases, today announced that the U.S. Food and Drug",
+          "fuente": "Benzinga",
+          "fecha": "20 Jul 2026 07:32 UTC",
+          "url": "https://finnhub.io/api/news?id=bc62bf645af2d6dcf661863e5b4be400d8b09c2712cef9553225e3ca315b25d7",
+          "imagen": "",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 2
     },
     "DNLI": {
       "nombre": "DNLI",
@@ -37,6 +62,18 @@
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
+        {
+          "ticker": "VRTX",
+          "titulo": "Why Vertex Pharmaceuticals (VRTX) Dipped More Than Broader Market Today",
+          "resumen": "In the closing of the recent trading day, Vertex Pharmaceuticals (VRTX) stood at $480.5, denoting a -1.06% move from the preceding trading day.",
+          "fuente": "Yahoo",
+          "fecha": "20 Jul 2026 22:00 UTC",
+          "url": "https://finnhub.io/api/news?id=873f6ef6e8863740f15f5ee5dac12b06b5a4bce91785b0cbcd6cc716a92c8621",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "VRTX",
           "titulo": "How FDA’s Pediatric Expansion of Casgevy at Vertex Pharmaceuticals (VRTX) Has Changed Its Investment Story",
@@ -75,7 +112,7 @@
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 4
     },
     "ALNY": {
       "nombre": "ALNY",
@@ -109,22 +146,9 @@
     },
     "ABVX": {
       "nombre": "ABVX",
-      "noticias": [
-        {
-          "ticker": "ABVX",
-          "titulo": "'Biotech Abivax re-engages investment bank Centerview for Big Pharma takeover talks' - La Lettre",
-          "resumen": "https://www.lalettre.fr/fr/english-corner/2026/07/17/biotech-abivax-re-engages-investment-bank-centerview-for-big-pharma-takeover-talks,110842674-gra",
-          "fuente": "Benzinga",
-          "fecha": "17 Jul 2026 14:04 UTC",
-          "url": "https://finnhub.io/api/news?id=8826e67c12ece340942f8ddfe6e54dba131d04e0b4f590dec8e4fa46363ed686",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "VERA": {
       "nombre": "VERA",
@@ -171,9 +195,9 @@
     }
   },
   "resumen": {
-    "total_noticias": 5,
+    "total_noticias": 7,
     "tickers_con_noticias": 3,
-    "alertas_urgentes": 1,
+    "alertas_urgentes": 2,
     "sin_noticias": 14
   },
   "todas_noticias": [
@@ -202,6 +226,18 @@
       "badge": "🔴"
     },
     {
+      "ticker": "DYN",
+      "titulo": "Dyne Therapeutics' Biologics License Application For Zeleciment Rostudirsen Got FDA Acceptance For Review To Treat Duchenne Muscular Dystrophy",
+      "resumen": "Dyne Therapeutics, Inc. (Nasdaq: DYN), a clinical-stage company focused on delivering functional improvement for people living with genetically driven neuromuscular diseases, today announced that the U.S. Food and Drug",
+      "fuente": "Benzinga",
+      "fecha": "20 Jul 2026 07:32 UTC",
+      "url": "https://finnhub.io/api/news?id=bc62bf645af2d6dcf661863e5b4be400d8b09c2712cef9553225e3ca315b25d7",
+      "imagen": "",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
       "ticker": "VRTX",
       "titulo": "How FDA’s Pediatric Expansion of Casgevy at Vertex Pharmaceuticals (VRTX) Has Changed Its Investment Story",
       "resumen": "Earlier this month, the FDA expanded approval of Vertex Pharmaceuticals’ gene therapy Casgevy (exagamglogene autotemcel) to children aged 2 and older with sickle cell disease and transfusion-dependent thalassemia, following strong efficacy signals in two small pediatric trials. This milestone meanin",
@@ -214,16 +250,16 @@
       "badge": "🔴"
     },
     {
-      "ticker": "ABVX",
-      "titulo": "'Biotech Abivax re-engages investment bank Centerview for Big Pharma takeover talks' - La Lettre",
-      "resumen": "https://www.lalettre.fr/fr/english-corner/2026/07/17/biotech-abivax-re-engages-investment-bank-centerview-for-big-pharma-takeover-talks,110842674-gra",
-      "fuente": "Benzinga",
-      "fecha": "17 Jul 2026 14:04 UTC",
-      "url": "https://finnhub.io/api/news?id=8826e67c12ece340942f8ddfe6e54dba131d04e0b4f590dec8e4fa46363ed686",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "ticker": "DYN",
+      "titulo": "Dyne Therapeutics: A Buy, With Caveats, On DMD Progress",
+      "resumen": "Dyne Therapeutics wins FDA Priority Review for DMD drug z-rostudirsen, with key catalysts and pipeline upside. Click for more on DYN stock.",
+      "fuente": "SeekingAlpha",
+      "fecha": "20 Jul 2026 14:35 UTC",
+      "url": "https://finnhub.io/api/news?id=9e5996f66b0472df5101935d2c070f5952391c7ac02bd591207170953c6a6ec7",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1852121108/image_1852121108.jpg?io=getty-c-w1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "INSM",
@@ -233,6 +269,18 @@
       "fecha": "19 Jul 2026 03:10 UTC",
       "url": "https://finnhub.io/api/news?id=ffc5e36c4a9b798ebae3191efeaf9e040ce06ad8222f8491fe67ea9251f3976a",
       "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1473159542/image_1473159542.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Why Vertex Pharmaceuticals (VRTX) Dipped More Than Broader Market Today",
+      "resumen": "In the closing of the recent trading day, Vertex Pharmaceuticals (VRTX) stood at $480.5, denoting a -1.06% move from the preceding trading day.",
+      "fuente": "Yahoo",
+      "fecha": "20 Jul 2026 22:00 UTC",
+      "url": "https://finnhub.io/api/news?id=873f6ef6e8863740f15f5ee5dac12b06b5a4bce91785b0cbcd6cc716a92c8621",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

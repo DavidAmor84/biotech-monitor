@@ -1,14 +1,20 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 21/07/2026 09:26 | Período: últimos 7 días
-Desde: 2026-07-14 → Hasta: 2026-07-21
+Generado: 22/07/2026 09:26 | Período: últimos 7 días
+Desde: 2026-07-15 → Hasta: 2026-07-22
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 6 filings | 🔴 0 | 🟢 1 | 🟡 1 | 🔵 4 | ✅ 12 sin novedad
+RESUMEN: 6 filings | 🔴 1 | 🟢 1 | 🟡 0 | 🔵 4 | ✅ 13 sin novedad
 
 ──────────────────────────────────────────────────
-🚨 ALERTAS CRÍTICAS (1)
+🚨 ALERTAS CRÍTICAS (2)
 ──────────────────────────────────────────────────
+
+  [DYN] Dyne Therapeutics, Inc.
+  🔴 ALTA 424B5 | 2026-07-21
+  ATM (At-The-Market)
+  Oferta: ATM (At-The-Market)
+  → https://www.sec.gov/Archives/edgar/data/1818794/000119312526310573/d98164d424b5.htm
 
   [DYN] Dyne Therapeutics, Inc.
   🟢 ALTA 8-K | 2026-07-20
@@ -18,13 +24,13 @@ RESUMEN: 6 filings | 🔴 0 | 🟢 1 | 🟡 1 | 🔵 4 | ✅ 12 sin novedad
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
 ──────────────────────────────────────────────────
-
-  🟡 [SNDX] Syndax Pharmaceuticals Inc — 1 filing(s)
-     🟡 MEDIA 8-K | 2026-07-14 | 8-K — Posible financiación/dilución: pipe [Items: 8.01, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1395937/000119312526302608/sndx-20260714.htm
+  ✅ [SNDX] Sin novedades
   ✅ [ARGX] Sin novedades
 
-  🟢 [DYN] Dyne Therapeutics, Inc. — 1 filing(s)
+  🔴 [DYN] Dyne Therapeutics, Inc. — 2 filing(s)
+     🔴 ALTA 424B5 | 2026-07-21 | ATM (At-The-Market)
+     Oferta: ATM (At-The-Market)
+     → https://www.sec.gov/Archives/edgar/data/1818794/000119312526310573/d98164d424b5.htm
      🟢 ALTA 8-K | 2026-07-20 | 8-K — Evento positivo potencial: Priority Review [Items: 8.01]
      → https://www.sec.gov/Archives/edgar/data/1818794/000119312526308343/dyn-20260720.htm
   ✅ [DNLI] Sin novedades

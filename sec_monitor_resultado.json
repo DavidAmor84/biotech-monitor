@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "21/07/2026 09:26",
+  "generado": "22/07/2026 09:26",
   "periodo_dias": 7,
-  "desde": "2026-07-14",
-  "hasta": "2026-07-21",
+  "desde": "2026-07-15",
+  "hasta": "2026-07-22",
   "resumen": {
     "total_filings": 6,
-    "alertas_rojas": 0,
+    "alertas_rojas": 1,
     "alertas_verdes": 1,
-    "alertas_amarillas": 1,
+    "alertas_amarillas": 0,
     "alertas_azules": 4,
-    "sin_novedad": 12
+    "sin_novedad": 13
   },
   "tickers": {
     "SNDX": {
@@ -19,34 +19,9 @@
       "cik": "0001395937",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "8-K",
-          "fecha": "2026-07-14",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "8-K — Posible financiación/dilución: pipe [Items: 8.01, 9.01]",
-          "detalle": "8-K",
-          "empresa_sec": "Syndax Pharmaceuticals Inc",
-          "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526302608/sndx-20260714.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "8.01",
-              "9.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 8.01. Other Events. On July 14, 2026, Syndax Pharmaceuticals, Inc. (the Company ) issued a press release and presentation highlighting its late-stage programs and the next chapter of its R&amp;D strategy, including new pipeline assets, during its R&amp;D event held on July 14, 2026. A copy of the press release and presentation are furnished as Exhibits 99.1 and 99.2 to this Current Report on Form 8-K and are incorporated herein by reference. The information contained in this Item 8.01 and in Exhibits 99.1 and 99.2 attached hereto is intended to be furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any of the Company s filings under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 9.01. Financial Statements and Exhibits. (d) Exhibits. Exhibit No. Description 99.1 Press Release, dated July 14, 2026 99.2 Corporate Presentation, dated July 14, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. SYNDAX PHARMACEUTICALS, INC. By: /s/ Michael A. Metzger Michael A. Metzger Chief Executive Officer Dated: July 14, 2026",
-            "nivel_ajustado": "amarillo",
-            "badge_ajustado": "🟡 MEDIA",
-            "resumen_ajustado": "8-K — Posible financiación/dilución: pipe"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "ARGX": {
@@ -67,6 +42,25 @@
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
       "filings": [
+        {
+          "form": "424B5",
+          "fecha": "2026-07-21",
+          "nivel": "rojo",
+          "badge": "🔴 ALTA",
+          "resumen": "ATM (At-The-Market)",
+          "detalle": "424B5",
+          "empresa_sec": "Dyne Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526310573/d98164d424b5.htm",
+          "form4_detail": null,
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": {
+            "importe_mm": null,
+            "tipo_oferta": "ATM (At-The-Market)",
+            "riesgo_dilucion": null,
+            "resumen_oferta": "ATM (At-The-Market)"
+          }
+        },
         {
           "form": "8-K",
           "fecha": "2026-07-20",
@@ -91,8 +85,8 @@
           "prospecto_detail": null
         }
       ],
-      "nivel": "verde",
-      "badge": "🟢",
+      "nivel": "rojo",
+      "badge": "🔴",
       "error": null
     },
     "DNLI": {
@@ -366,6 +360,27 @@
     {
       "ticker": "DYN",
       "nombre": "Dyne Therapeutics, Inc.",
+      "form": "424B5",
+      "fecha": "2026-07-21",
+      "nivel": "rojo",
+      "badge": "🔴 ALTA",
+      "resumen": "ATM (At-The-Market)",
+      "detalle": "424B5",
+      "empresa_sec": "Dyne Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526310573/d98164d424b5.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": {
+        "importe_mm": null,
+        "tipo_oferta": "ATM (At-The-Market)",
+        "riesgo_dilucion": null,
+        "resumen_oferta": "ATM (At-The-Market)"
+      }
+    },
+    {
+      "ticker": "DYN",
+      "nombre": "Dyne Therapeutics, Inc.",
       "form": "8-K",
       "fecha": "2026-07-20",
       "nivel": "verde",
@@ -390,6 +405,27 @@
     }
   ],
   "todos_filings": [
+    {
+      "ticker": "DYN",
+      "nombre": "Dyne Therapeutics, Inc.",
+      "form": "424B5",
+      "fecha": "2026-07-21",
+      "nivel": "rojo",
+      "badge": "🔴 ALTA",
+      "resumen": "ATM (At-The-Market)",
+      "detalle": "424B5",
+      "empresa_sec": "Dyne Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526310573/d98164d424b5.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": {
+        "importe_mm": null,
+        "tipo_oferta": "ATM (At-The-Market)",
+        "riesgo_dilucion": null,
+        "resumen_oferta": "ATM (At-The-Market)"
+      }
+    },
     {
       "ticker": "DYN",
       "nombre": "Dyne Therapeutics, Inc.",
@@ -522,32 +558,6 @@
         "resumen_detail": "Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 23,634 acciones @ $0.34 | Post: 252,594 | Rutinaria/RSU/impuestos"
       },
       "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "SNDX",
-      "nombre": "Syndax Pharmaceuticals Inc",
-      "form": "8-K",
-      "fecha": "2026-07-14",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "8-K — Posible financiación/dilución: pipe [Items: 8.01, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "Syndax Pharmaceuticals Inc",
-      "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526302608/sndx-20260714.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "8.01",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 8.01. Other Events. On July 14, 2026, Syndax Pharmaceuticals, Inc. (the Company ) issued a press release and presentation highlighting its late-stage programs and the next chapter of its R&amp;D strategy, including new pipeline assets, during its R&amp;D event held on July 14, 2026. A copy of the press release and presentation are furnished as Exhibits 99.1 and 99.2 to this Current Report on Form 8-K and are incorporated herein by reference. The information contained in this Item 8.01 and in Exhibits 99.1 and 99.2 attached hereto is intended to be furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any of the Company s filings under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 9.01. Financial Statements and Exhibits. (d) Exhibits. Exhibit No. Description 99.1 Press Release, dated July 14, 2026 99.2 Corporate Presentation, dated July 14, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. SYNDAX PHARMACEUTICALS, INC. By: /s/ Michael A. Metzger Michael A. Metzger Chief Executive Officer Dated: July 14, 2026",
-        "nivel_ajustado": "amarillo",
-        "badge_ajustado": "🟡 MEDIA",
-        "resumen_ajustado": "8-K — Posible financiación/dilución: pipe"
-      },
       "10q_detail": null,
       "prospecto_detail": null
     }

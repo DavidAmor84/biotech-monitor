@@ -1,6 +1,6 @@
 ====================================================================================
 CLINICALTRIALS MONITOR v9.3 · Modelo Biotech
-Generado: 21/07/2026 10:37
+Generado: 22/07/2026 10:37
 ====================================================================================
 RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 4 | 🟡 0 | 🔵 30 | Errores API: 0
 
@@ -57,7 +57,7 @@ DETALLE POR EMPRESA
      Enrollment: 218
      Primary completion: 2027-09 ESTIMATED
      Study completion: 2030-09 ESTIMATED
-     Last update posted: 2026-06-12
+     Last update posted: 2026-07-21
      → https://clinicaltrials.gov/study/NCT06920004
 
 🔵 [DYN] · Score relevancia: 29

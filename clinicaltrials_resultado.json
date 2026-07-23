@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "22/07/2026 10:37",
-  "fecha": "2026-07-22",
+  "generado": "23/07/2026 10:38",
+  "fecha": "2026-07-23",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -1640,14 +1640,7 @@
           "ventana": "2027-2030",
           "monitorizar": true,
           "peso_importancia": 7,
-          "cambios": [
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2026-06-12 → 2026-07-21"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2655,33 +2648,6 @@
       "errores_validacion": [],
       "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT06298552"
-    },
-    {
-      "ticker": "ARGX",
-      "nct": "NCT06920004",
-      "nombre": "emvigorate Ph3 — empasiprubart vs IVIg — CIDP head-to-head",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2027-09",
-      "mensaje": "Reclutando",
-      "prioridad": "media",
-      "estrellas": "⭐⭐",
-      "tipo": "pivotal",
-      "catalizador": "datos Phase 3",
-      "ventana": "2027-2030",
-      "peso_importancia": 7,
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2026-06-12 → 2026-07-21"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06920004"
     },
     {
       "ticker": "DNLI",

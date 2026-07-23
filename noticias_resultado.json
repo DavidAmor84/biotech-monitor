@@ -1,8 +1,8 @@
 {
-  "generado": "22/07/2026 09:36 UTC",
+  "generado": "23/07/2026 09:32 UTC",
   "plazo_horas": 72,
-  "desde": "2026-07-19",
-  "hasta": "2026-07-22",
+  "desde": "2026-07-20",
+  "hasta": "2026-07-23",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -12,13 +12,50 @@
     },
     "ARGX": {
       "nombre": "ARGX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ARGX",
+          "titulo": "Citigroup Maintains Buy on argenx, Raises Price Target to $1182",
+          "resumen": "Citigroup  analyst Samantha Semenkow   maintains argenx (NASDAQ:ARGX) with a Buy and raises the price target from $1152 to $1182.",
+          "fuente": "Benzinga",
+          "fecha": "21 Jul 2026 15:05 UTC",
+          "url": "https://finnhub.io/api/news?id=3120c43250ab5ca797c189e0c89a9cbd2a088072573a2ee62ec7fa9cc316e933",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "DYN": {
       "nombre": "DYN",
       "noticias": [
+        {
+          "ticker": "DYN",
+          "titulo": "Pegasystems Posts Downbeat Q2 Results, Joins Adtran, Dyne Therapeutics And Other Big Stocks Moving Lower In Wednesday’s Pre-Market Session",
+          "resumen": "Pegasystems Inc (NASDAQ: PEGA) reported lower-than-expected earnings and sales, causing stocks to fall 16% in pre-market trading.",
+          "fuente": "Benzinga",
+          "fecha": "22 Jul 2026 09:19 UTC",
+          "url": "https://finnhub.io/api/news?id=1e878348b1111bac4c8b986c67f9b35abd5a7db75bba58a86c15ca56af4af4df",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/22/Section-Of-A-Financial-Newspaper-Titled-.jpg?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "DYN",
+          "titulo": "Dyne Therapeutics Stock Tumbles After Hours: Here's Why",
+          "resumen": "Dyne Therapeutics stock fell after hours after pricing an upsized $375M public offering of common stock.",
+          "fuente": "Benzinga",
+          "fecha": "22 Jul 2026 01:52 UTC",
+          "url": "https://finnhub.io/api/news?id=417f8d8e3997a92efedcb4cf1113e9f4d9dff1de1d57850a9a290f76df5dc1a5",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/22/Candlestick-Chart-Showing-Falling-Stock-.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "DYN",
           "titulo": "12 Health Care Stocks Moving In Tuesday's After-Market Session",
@@ -42,22 +79,10 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "DYN",
-          "titulo": "Dyne Therapeutics' Biologics License Application For Zeleciment Rostudirsen Got FDA Acceptance For Review To Treat Duchenne Muscular Dystrophy",
-          "resumen": "Dyne Therapeutics, Inc. (Nasdaq: DYN), a clinical-stage company focused on delivering functional improvement for people living with genetically driven neuromuscular diseases, today announced that the U.S. Food and Drug",
-          "fuente": "Benzinga",
-          "fecha": "20 Jul 2026 07:32 UTC",
-          "url": "https://finnhub.io/api/news?id=bc62bf645af2d6dcf661863e5b4be400d8b09c2712cef9553225e3ca315b25d7",
-          "imagen": "",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 4
     },
     "DNLI": {
       "nombre": "DNLI",
@@ -74,6 +99,30 @@
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex Pharmaceuticals (VRTX) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+          "resumen": "In the latest trading session, Vertex Pharmaceuticals (VRTX) closed at $472.57, marking a -1.96% move from the previous day.",
+          "fuente": "Yahoo",
+          "fecha": "22 Jul 2026 21:50 UTC",
+          "url": "https://finnhub.io/api/news?id=9a4acf17d85cd62640b1ef99d26433eb4843ddd26ea54db4439b95b95e06927d",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex was sole bidder in high-premium Crinetics acquisition",
+          "resumen": "Analysts expect new details on the lead-up to the deal “are likely to reignite” investor scrutiny that Vertex overpaid in what’s poised to be its largest-ever transaction.",
+          "fuente": "Yahoo",
+          "fecha": "22 Jul 2026 16:48 UTC",
+          "url": "https://finnhub.io/api/news?id=4e6b58aa0243c4cf3ed6fa01c255ff8093c21f5501c6043b24f8e69611512bd7",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "VRTX",
           "titulo": "These 7 Small Caps Are on Fire as the Second Half Begins: Here’s Why",
@@ -109,30 +158,6 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals (NASDAQ:VRTX): An Affordable Growth Stock Balancing Strong Fundamentals With Reasonable Valuation",
-          "resumen": "Vertex Pharmaceuticals offers affordable growth with strong double-digit earnings and revenue expansion, zero debt, and a P/E below the S&P 500 average—trading at a deep discount to biotech peers.",
-          "fuente": "ChartMill",
-          "fecha": "21 Jul 2026 12:20 UTC",
-          "url": "https://finnhub.io/api/news?id=27a8f9b4c11fb3341b7a9d59fe254f0b38844816434279378c40ce04a712ba81",
-          "imagen": "https://www.chartmill.com/images/uploads/Affordable_Growth_500_264px_webp_add6a3aa59.webp",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Why Vertex Pharmaceuticals (VRTX) Dipped More Than Broader Market Today",
-          "resumen": "In the closing of the recent trading day, Vertex Pharmaceuticals (VRTX) stood at $480.5, denoting a -1.06% move from the preceding trading day.",
-          "fuente": "Yahoo",
-          "fecha": "20 Jul 2026 22:00 UTC",
-          "url": "https://finnhub.io/api/news?id=873f6ef6e8863740f15f5ee5dac12b06b5a4bce91785b0cbcd6cc716a92c8621",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -141,6 +166,18 @@
     "ALNY": {
       "nombre": "ALNY",
       "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "JP Morgan Maintains Overweight on Alnylam Pharmaceuticals, Lowers Price Target to $400",
+          "resumen": "JP Morgan  analyst Jessica Fye   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Overweight and lowers the price target from $420 to $400.",
+          "fuente": "Benzinga",
+          "fecha": "22 Jul 2026 10:44 UTC",
+          "url": "https://finnhub.io/api/news?id=7ff61cd371a1cb71bced0f42cbef8445f7388c7b3e928a4877bed35d5798d1cd",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "ALNY",
           "titulo": "Biomarker Collaboration and Licensing Deals Report 2016-2026 - Featuring Quanterix, Caris Life Sciences, Alnylam Pharmaceuticals, Guardant Health, Eurofins Scientific and More",
@@ -155,7 +192,7 @@
         }
       ],
       "nivel": "rojo",
-      "total": 1
+      "total": 2
     },
     "BEAM": {
       "nombre": "BEAM",
@@ -221,9 +258,22 @@
     },
     "ACRV": {
       "nombre": "ACRV",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ACRV",
+          "titulo": "Acrivon Therapeutics To Highlight AP3 Platform For Pathway-Based Drug Discovery And Development At AACR D3 July 21-24",
+          "resumen": "Presentations and DetailsOral Podium PresentationTitle: Acrivon Predictive Precision Proteomics (AP3): Next Generation Precision Medicine for Phosphoproteomics-Guided Drug DiscoveryPresenter: Lei Shi, Ph.D., Director",
+          "fuente": "Benzinga",
+          "fecha": "21 Jul 2026 16:32 UTC",
+          "url": "https://finnhub.io/api/news?id=9d641b43472c9feb6e8de0eb5476c54d2cafcfa7b91e384e22d35324abb86324",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "TARA": {
       "nombre": "TARA",
@@ -282,24 +332,12 @@
     }
   },
   "resumen": {
-    "total_noticias": 14,
-    "tickers_con_noticias": 6,
+    "total_noticias": 18,
+    "tickers_con_noticias": 8,
     "alertas_urgentes": 4,
-    "sin_noticias": 11
+    "sin_noticias": 9
   },
   "todas_noticias": [
-    {
-      "ticker": "DYN",
-      "titulo": "Dyne Therapeutics' Biologics License Application For Zeleciment Rostudirsen Got FDA Acceptance For Review To Treat Duchenne Muscular Dystrophy",
-      "resumen": "Dyne Therapeutics, Inc. (Nasdaq: DYN), a clinical-stage company focused on delivering functional improvement for people living with genetically driven neuromuscular diseases, today announced that the U.S. Food and Drug",
-      "fuente": "Benzinga",
-      "fecha": "20 Jul 2026 07:32 UTC",
-      "url": "https://finnhub.io/api/news?id=bc62bf645af2d6dcf661863e5b4be400d8b09c2712cef9553225e3ca315b25d7",
-      "imagen": "",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "DYN",
       "titulo": "Dyne Therapeutics: A Buy, With Caveats, On DMD Progress",
@@ -320,18 +358,6 @@
       "fecha": "21 Jul 2026 05:29 UTC",
       "url": "https://finnhub.io/api/news?id=abf8392d2086db9d6d44c23afd142a5b764717b3d9057cece59333d53a0758f1",
       "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1808514350/image_1808514350.jpg?io=getty-c-w1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals (NASDAQ:VRTX): An Affordable Growth Stock Balancing Strong Fundamentals With Reasonable Valuation",
-      "resumen": "Vertex Pharmaceuticals offers affordable growth with strong double-digit earnings and revenue expansion, zero debt, and a P/E below the S&P 500 average—trading at a deep discount to biotech peers.",
-      "fuente": "ChartMill",
-      "fecha": "21 Jul 2026 12:20 UTC",
-      "url": "https://finnhub.io/api/news?id=27a8f9b4c11fb3341b7a9d59fe254f0b38844816434279378c40ce04a712ba81",
-      "imagen": "https://www.chartmill.com/images/uploads/Affordable_Growth_500_264px_webp_add6a3aa59.webp",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
@@ -361,16 +387,28 @@
       "badge": "🔴"
     },
     {
+      "ticker": "DYN",
+      "titulo": "Pegasystems Posts Downbeat Q2 Results, Joins Adtran, Dyne Therapeutics And Other Big Stocks Moving Lower In Wednesday’s Pre-Market Session",
+      "resumen": "Pegasystems Inc (NASDAQ: PEGA) reported lower-than-expected earnings and sales, causing stocks to fall 16% in pre-market trading.",
+      "fuente": "Benzinga",
+      "fecha": "22 Jul 2026 09:19 UTC",
+      "url": "https://finnhub.io/api/news?id=1e878348b1111bac4c8b986c67f9b35abd5a7db75bba58a86c15ca56af4af4df",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/22/Section-Of-A-Financial-Newspaper-Titled-.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
       "ticker": "VRTX",
-      "titulo": "Why Vertex Pharmaceuticals (VRTX) Dipped More Than Broader Market Today",
-      "resumen": "In the closing of the recent trading day, Vertex Pharmaceuticals (VRTX) stood at $480.5, denoting a -1.06% move from the preceding trading day.",
+      "titulo": "Vertex was sole bidder in high-premium Crinetics acquisition",
+      "resumen": "Analysts expect new details on the lead-up to the deal “are likely to reignite” investor scrutiny that Vertex overpaid in what’s poised to be its largest-ever transaction.",
       "fuente": "Yahoo",
-      "fecha": "20 Jul 2026 22:00 UTC",
-      "url": "https://finnhub.io/api/news?id=873f6ef6e8863740f15f5ee5dac12b06b5a4bce91785b0cbcd6cc716a92c8621",
+      "fecha": "22 Jul 2026 16:48 UTC",
+      "url": "https://finnhub.io/api/news?id=4e6b58aa0243c4cf3ed6fa01c255ff8093c21f5501c6043b24f8e69611512bd7",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "INSM",
@@ -445,6 +483,30 @@
       "badge": "🔵"
     },
     {
+      "ticker": "ARGX",
+      "titulo": "Citigroup Maintains Buy on argenx, Raises Price Target to $1182",
+      "resumen": "Citigroup  analyst Samantha Semenkow   maintains argenx (NASDAQ:ARGX) with a Buy and raises the price target from $1152 to $1182.",
+      "fuente": "Benzinga",
+      "fecha": "21 Jul 2026 15:05 UTC",
+      "url": "https://finnhub.io/api/news?id=3120c43250ab5ca797c189e0c89a9cbd2a088072573a2ee62ec7fa9cc316e933",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ACRV",
+      "titulo": "Acrivon Therapeutics To Highlight AP3 Platform For Pathway-Based Drug Discovery And Development At AACR D3 July 21-24",
+      "resumen": "Presentations and DetailsOral Podium PresentationTitle: Acrivon Predictive Precision Proteomics (AP3): Next Generation Precision Medicine for Phosphoproteomics-Guided Drug DiscoveryPresenter: Lei Shi, Ph.D., Director",
+      "fuente": "Benzinga",
+      "fecha": "21 Jul 2026 16:32 UTC",
+      "url": "https://finnhub.io/api/news?id=9d641b43472c9feb6e8de0eb5476c54d2cafcfa7b91e384e22d35324abb86324",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
       "ticker": "DYN",
       "titulo": "12 Health Care Stocks Moving In Tuesday's After-Market Session",
       "resumen": "Gainers\n\nENDRA Life Sciences (NASDAQ:NDRA) shares rose 10.8% to $5.94 during Tuesday&#39;s after-market session. The market value of their outstanding shares is at $6.2 million. \nApimeds Pharmaceuticals (AMEX:APUS)",
@@ -452,6 +514,42 @@
       "fecha": "21 Jul 2026 17:05 UTC",
       "url": "https://finnhub.io/api/news?id=9d3ce9d767c9a26472d39af4779eda7515e2168dae904ed752104597cb7d0d5f",
       "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_4.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "DYN",
+      "titulo": "Dyne Therapeutics Stock Tumbles After Hours: Here's Why",
+      "resumen": "Dyne Therapeutics stock fell after hours after pricing an upsized $375M public offering of common stock.",
+      "fuente": "Benzinga",
+      "fecha": "22 Jul 2026 01:52 UTC",
+      "url": "https://finnhub.io/api/news?id=417f8d8e3997a92efedcb4cf1113e9f4d9dff1de1d57850a9a290f76df5dc1a5",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/22/Candlestick-Chart-Showing-Falling-Stock-.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "JP Morgan Maintains Overweight on Alnylam Pharmaceuticals, Lowers Price Target to $400",
+      "resumen": "JP Morgan  analyst Jessica Fye   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Overweight and lowers the price target from $420 to $400.",
+      "fuente": "Benzinga",
+      "fecha": "22 Jul 2026 10:44 UTC",
+      "url": "https://finnhub.io/api/news?id=7ff61cd371a1cb71bced0f42cbef8445f7388c7b3e928a4877bed35d5798d1cd",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals (VRTX) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "resumen": "In the latest trading session, Vertex Pharmaceuticals (VRTX) closed at $472.57, marking a -1.96% move from the previous day.",
+      "fuente": "Yahoo",
+      "fecha": "22 Jul 2026 21:50 UTC",
+      "url": "https://finnhub.io/api/news?id=9a4acf17d85cd62640b1ef99d26433eb4843ddd26ea54db4439b95b95e06927d",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

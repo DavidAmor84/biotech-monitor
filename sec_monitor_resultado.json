@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "22/07/2026 09:26",
+  "generado": "23/07/2026 09:24",
   "periodo_dias": 7,
-  "desde": "2026-07-15",
-  "hasta": "2026-07-22",
+  "desde": "2026-07-16",
+  "hasta": "2026-07-23",
   "resumen": {
-    "total_filings": 6,
-    "alertas_rojas": 1,
+    "total_filings": 7,
+    "alertas_rojas": 2,
     "alertas_verdes": 1,
-    "alertas_amarillas": 0,
-    "alertas_azules": 4,
-    "sin_novedad": 13
+    "alertas_amarillas": 1,
+    "alertas_azules": 3,
+    "sin_novedad": 14
   },
   "tickers": {
     "SNDX": {
@@ -42,6 +42,50 @@
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
       "filings": [
+        {
+          "form": "424B5",
+          "fecha": "2026-07-22",
+          "nivel": "rojo",
+          "badge": "🔴 ALTA",
+          "resumen": "ATM (At-The-Market) · $20.5M · Dilución 🟢 BAJO",
+          "detalle": "424B5",
+          "empresa_sec": "Dyne Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526312576/d98164d424b5.htm",
+          "form4_detail": null,
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": {
+            "importe_mm": 20.5,
+            "tipo_oferta": "ATM (At-The-Market)",
+            "riesgo_dilucion": "🟢 BAJO",
+            "resumen_oferta": "ATM (At-The-Market) · $20.5M · Dilución 🟢 BAJO"
+          }
+        },
+        {
+          "form": "8-K",
+          "fecha": "2026-07-22",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "8-K — Posible deuda/obligación financiera; revisar condiciones [Items: 1.01, 8.01, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "Dyne Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526312571/d112911d8k.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "1.01",
+              "8.01",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 1.01. Entry Into a Material Definitive Agreement. On July 21, 2026, Dyne Therapeutics, Inc. (the Company ) entered into an underwriting agreement (the Underwriting Agreement ) with Morgan Stanley &amp; Co. LLC and Jefferies LLC, as representatives of the several underwriters named therein (the Underwriters ), relating to an underwritten public offering (the Offering ) of 18,300,000 shares (the Underwritten Shares ) of the Company s common stock, par value $0.0001 per share (the Common Stock ). All of the Underwritten Shares are being sold by the Company. The public offering price of the Underwritten Shares is $20.50 per share, and the Underwriters have agreed to purchase the Underwritten Shares from the Company pursuant to the Underwriting Agreement at a price of $19.27 per share. Under the terms of the Underwriting Agreement, the Company also granted the Underwriters an option, exercisable for 30 days from the date of the Underwriting Agreement, to purchase up to an additional 2,745,000 shares of Common Stock (the Option Shares and together with the Underwritten Shares, the Shares ) at the public offering price less the underwriting discounts and commissions. The Company estimates that the net proceeds from the Offering will be approximately $352.1 million, or approximately $405.0 million if the Underwriters exercise in full their option to purchase the Option Shares, in each case, after deducting underwriting discounts and commissions and estimated offering expenses. The Shares will be issued pursuant to a prospectus supplement dated July 21, 2026, and an accompanyin",
+            "nivel_ajustado": "amarillo",
+            "badge_ajustado": "🟡 MEDIA",
+            "resumen_ajustado": "8-K — Posible deuda/obligación financiera; revisar condiciones"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
         {
           "form": "424B5",
           "fecha": "2026-07-21",
@@ -225,36 +269,9 @@
       "cik": "0001888886",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-07-15",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 23,634 acciones @ $0.34 | Post: 252,594 | Rutinaria/RSU/impuestos",
-          "detalle": "xslF345X06/form4-07152026_100751.xml",
-          "empresa_sec": "Structure Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000196292626000006/xslF345X06/form4-07152026_100751.xml",
-          "form4_detail": {
-            "insider_nombre": "Lin Xichen",
-            "insider_cargo": "CHIEF SCIENTIFIC OFFICER",
-            "transaccion_codigo": "M",
-            "transaccion_tipo": "Ejercicio opción",
-            "transaccion_acciones": "23634",
-            "transaccion_precio": "0.34",
-            "transaccion_fecha": "2026-07-14",
-            "acciones_post": "252594",
-            "footnotes": "Reflects price per share in Ordinary Shares. The Ordinary Shares were converted into American Depositary Shares as reported in Table II. 1/4 of the Ordinary Shares vested one year after July 22, 2019 (the \"Vesting Commencement Date\"); the balance of the Ordinary Shares vested in a series of 36 successive equal monthly installments measured from the first anniversary of the Vesting Commencement Date. This reflects the number of Ordinary Shares remaining under the share option following the partial exercise of the share option for 23,634 Ordinary Shares. Each American Depositary Share is convertible at any time, at the holder's election, into three Ordinary Shares of the Issuer.  The American Depositary Shares have no expiration date. 23,634 Ordinary Shares, which were acquired upon exercise of a share option, were converted into 7,878 American Depositary Shares. The American Depositary Shares were sold pursuant to a Rule 10b5-1 trading plan entered into on March 26, 2026. Reflects price per share in American Depositary Shares. The weighted average sale price for the transaction reported was $50.7956 and the range of prices were between $50.31 and $51.30. Upon request by the SEC staff, the Issuer, or any security holder of the Issuer, full information regarding the number of American Depositary Shares sold at each price will be provided. The weighted average sale price for the transaction reported was $51.7088, and the range of prices were between $51.32 and $52.27. Upon reques",
-            "es_rutinaria": true,
-            "resumen_detail": "Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 23,634 acciones @ $0.34 | Post: 252,594 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "ABVX": {
@@ -361,6 +378,27 @@
       "ticker": "DYN",
       "nombre": "Dyne Therapeutics, Inc.",
       "form": "424B5",
+      "fecha": "2026-07-22",
+      "nivel": "rojo",
+      "badge": "🔴 ALTA",
+      "resumen": "ATM (At-The-Market) · $20.5M · Dilución 🟢 BAJO",
+      "detalle": "424B5",
+      "empresa_sec": "Dyne Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526312576/d98164d424b5.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": {
+        "importe_mm": 20.5,
+        "tipo_oferta": "ATM (At-The-Market)",
+        "riesgo_dilucion": "🟢 BAJO",
+        "resumen_oferta": "ATM (At-The-Market) · $20.5M · Dilución 🟢 BAJO"
+      }
+    },
+    {
+      "ticker": "DYN",
+      "nombre": "Dyne Therapeutics, Inc.",
+      "form": "424B5",
       "fecha": "2026-07-21",
       "nivel": "rojo",
       "badge": "🔴 ALTA",
@@ -405,6 +443,54 @@
     }
   ],
   "todos_filings": [
+    {
+      "ticker": "DYN",
+      "nombre": "Dyne Therapeutics, Inc.",
+      "form": "424B5",
+      "fecha": "2026-07-22",
+      "nivel": "rojo",
+      "badge": "🔴 ALTA",
+      "resumen": "ATM (At-The-Market) · $20.5M · Dilución 🟢 BAJO",
+      "detalle": "424B5",
+      "empresa_sec": "Dyne Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526312576/d98164d424b5.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": {
+        "importe_mm": 20.5,
+        "tipo_oferta": "ATM (At-The-Market)",
+        "riesgo_dilucion": "🟢 BAJO",
+        "resumen_oferta": "ATM (At-The-Market) · $20.5M · Dilución 🟢 BAJO"
+      }
+    },
+    {
+      "ticker": "DYN",
+      "nombre": "Dyne Therapeutics, Inc.",
+      "form": "8-K",
+      "fecha": "2026-07-22",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "8-K — Posible deuda/obligación financiera; revisar condiciones [Items: 1.01, 8.01, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Dyne Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526312571/d112911d8k.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "1.01",
+          "8.01",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 1.01. Entry Into a Material Definitive Agreement. On July 21, 2026, Dyne Therapeutics, Inc. (the Company ) entered into an underwriting agreement (the Underwriting Agreement ) with Morgan Stanley &amp; Co. LLC and Jefferies LLC, as representatives of the several underwriters named therein (the Underwriters ), relating to an underwritten public offering (the Offering ) of 18,300,000 shares (the Underwritten Shares ) of the Company s common stock, par value $0.0001 per share (the Common Stock ). All of the Underwritten Shares are being sold by the Company. The public offering price of the Underwritten Shares is $20.50 per share, and the Underwriters have agreed to purchase the Underwritten Shares from the Company pursuant to the Underwriting Agreement at a price of $19.27 per share. Under the terms of the Underwriting Agreement, the Company also granted the Underwriters an option, exercisable for 30 days from the date of the Underwriting Agreement, to purchase up to an additional 2,745,000 shares of Common Stock (the Option Shares and together with the Underwritten Shares, the Shares ) at the public offering price less the underwriting discounts and commissions. The Company estimates that the net proceeds from the Offering will be approximately $352.1 million, or approximately $405.0 million if the Underwriters exercise in full their option to purchase the Option Shares, in each case, after deducting underwriting discounts and commissions and estimated offering expenses. The Shares will be issued pursuant to a prospectus supplement dated July 21, 2026, and an accompanyin",
+        "nivel_ajustado": "amarillo",
+        "badge_ajustado": "🟡 MEDIA",
+        "resumen_ajustado": "8-K — Posible deuda/obligación financiera; revisar condiciones"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "DYN",
       "nombre": "Dyne Therapeutics, Inc.",
@@ -530,34 +616,6 @@
         "badge_ajustado": "🔵 INFO",
         "resumen_ajustado": "8-K — Sin clasificación específica por Item"
       },
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "GPCR",
-      "nombre": "Structure Therapeutics Inc.",
-      "form": "4",
-      "fecha": "2026-07-15",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 23,634 acciones @ $0.34 | Post: 252,594 | Rutinaria/RSU/impuestos",
-      "detalle": "xslF345X06/form4-07152026_100751.xml",
-      "empresa_sec": "Structure Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000196292626000006/xslF345X06/form4-07152026_100751.xml",
-      "form4_detail": {
-        "insider_nombre": "Lin Xichen",
-        "insider_cargo": "CHIEF SCIENTIFIC OFFICER",
-        "transaccion_codigo": "M",
-        "transaccion_tipo": "Ejercicio opción",
-        "transaccion_acciones": "23634",
-        "transaccion_precio": "0.34",
-        "transaccion_fecha": "2026-07-14",
-        "acciones_post": "252594",
-        "footnotes": "Reflects price per share in Ordinary Shares. The Ordinary Shares were converted into American Depositary Shares as reported in Table II. 1/4 of the Ordinary Shares vested one year after July 22, 2019 (the \"Vesting Commencement Date\"); the balance of the Ordinary Shares vested in a series of 36 successive equal monthly installments measured from the first anniversary of the Vesting Commencement Date. This reflects the number of Ordinary Shares remaining under the share option following the partial exercise of the share option for 23,634 Ordinary Shares. Each American Depositary Share is convertible at any time, at the holder's election, into three Ordinary Shares of the Issuer.  The American Depositary Shares have no expiration date. 23,634 Ordinary Shares, which were acquired upon exercise of a share option, were converted into 7,878 American Depositary Shares. The American Depositary Shares were sold pursuant to a Rule 10b5-1 trading plan entered into on March 26, 2026. Reflects price per share in American Depositary Shares. The weighted average sale price for the transaction reported was $50.7956 and the range of prices were between $50.31 and $51.30. Upon request by the SEC staff, the Issuer, or any security holder of the Issuer, full information regarding the number of American Depositary Shares sold at each price will be provided. The weighted average sale price for the transaction reported was $51.7088, and the range of prices were between $51.32 and $52.27. Upon reques",
-        "es_rutinaria": true,
-        "resumen_detail": "Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 23,634 acciones @ $0.34 | Post: 252,594 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
       "10q_detail": null,
       "prospecto_detail": null
     }

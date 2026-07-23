@@ -1,14 +1,20 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 22/07/2026 09:26 | Período: últimos 7 días
-Desde: 2026-07-15 → Hasta: 2026-07-22
+Generado: 23/07/2026 09:24 | Período: últimos 7 días
+Desde: 2026-07-16 → Hasta: 2026-07-23
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 6 filings | 🔴 1 | 🟢 1 | 🟡 0 | 🔵 4 | ✅ 13 sin novedad
+RESUMEN: 7 filings | 🔴 2 | 🟢 1 | 🟡 1 | 🔵 3 | ✅ 14 sin novedad
 
 ──────────────────────────────────────────────────
-🚨 ALERTAS CRÍTICAS (2)
+🚨 ALERTAS CRÍTICAS (3)
 ──────────────────────────────────────────────────
+
+  [DYN] Dyne Therapeutics, Inc.
+  🔴 ALTA 424B5 | 2026-07-22
+  ATM (At-The-Market) · $20.5M · Dilución 🟢 BAJO
+  Oferta: ATM (At-The-Market) · $20.5M · Dilución 🟢 BAJO
+  → https://www.sec.gov/Archives/edgar/data/1818794/000119312526312576/d98164d424b5.htm
 
   [DYN] Dyne Therapeutics, Inc.
   🔴 ALTA 424B5 | 2026-07-21
@@ -27,7 +33,12 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [SNDX] Sin novedades
   ✅ [ARGX] Sin novedades
 
-  🔴 [DYN] Dyne Therapeutics, Inc. — 2 filing(s)
+  🔴 [DYN] Dyne Therapeutics, Inc. — 4 filing(s)
+     🔴 ALTA 424B5 | 2026-07-22 | ATM (At-The-Market) · $20.5M · Dilución 🟢 BAJO
+     Oferta: ATM (At-The-Market) · $20.5M · Dilución 🟢 BAJO
+     → https://www.sec.gov/Archives/edgar/data/1818794/000119312526312576/d98164d424b5.htm
+     🟡 MEDIA 8-K | 2026-07-22 | 8-K — Posible deuda/obligación financiera; revisar condiciones [Items: 1.01, 8.01, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1818794/000119312526312571/d112911d8k.htm
      🔴 ALTA 424B5 | 2026-07-21 | ATM (At-The-Market)
      Oferta: ATM (At-The-Market)
      → https://www.sec.gov/Archives/edgar/data/1818794/000119312526310573/d98164d424b5.htm
@@ -47,11 +58,7 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [BEAM] Sin novedades
   ✅ [OCUL] Sin novedades
   ✅ [CAI] Sin novedades
-
-  🔵 [GPCR] Structure Therapeutics Inc. — 1 filing(s)
-     🔵 INFO 4 | 2026-07-15 | Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 23,634 acciones @ $0.34 | Post: 252,594 | Rutinaria/RSU/impuestos
-     Insider: Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 23,634 acciones @ $0.34 | Post: 252,594 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1888886/000196292626000006/xslF345X06/form4-07152026_100751.xml
+  ✅ [GPCR] Sin novedades
   ✅ [ABVX] Sin novedades
   ✅ [VERA] Sin novedades
   ✅ [ACRV] Sin novedades

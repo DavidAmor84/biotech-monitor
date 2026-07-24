@@ -1,15 +1,15 @@
 {
   "version": "v3",
-  "generado": "23/07/2026 09:24",
+  "generado": "24/07/2026 09:21",
   "periodo_dias": 7,
-  "desde": "2026-07-16",
-  "hasta": "2026-07-23",
+  "desde": "2026-07-17",
+  "hasta": "2026-07-24",
   "resumen": {
-    "total_filings": 7,
+    "total_filings": 9,
     "alertas_rojas": 2,
     "alertas_verdes": 1,
-    "alertas_amarillas": 1,
-    "alertas_azules": 3,
+    "alertas_amarillas": 2,
+    "alertas_azules": 4,
     "sin_novedad": 14
   },
   "tickers": {
@@ -164,6 +164,58 @@
       "filings": [
         {
           "form": "4",
+          "fecha": "2026-07-23",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Tatsis Ourania (EVP, Chief Reg. & Quality Off.) → Concesión 8,251 acciones @ $0.00 | Post: 53,572 | Rutinaria/RSU/impuestos",
+          "detalle": "FORM 4",
+          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000253/xslF345X06/wk-form4_1784837739.xml",
+          "form4_detail": {
+            "insider_nombre": "Tatsis Ourania",
+            "insider_cargo": "EVP, Chief Reg. & Quality Off.",
+            "transaccion_codigo": "A",
+            "transaccion_tipo": "Concesión",
+            "transaccion_acciones": "8251",
+            "transaccion_precio": "0",
+            "transaccion_fecha": "2026-07-21",
+            "acciones_post": "53572",
+            "footnotes": "Restricted stock unit award that vests on 03/31/2030.",
+            "es_rutinaria": true,
+            "resumen_detail": "Tatsis Ourania (EVP, Chief Reg. & Quality Off.) → Concesión 8,251 acciones @ $0.00 | Post: 53,572 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
+          "form": "4",
+          "fecha": "2026-07-23",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Sachdev Amit (EVP Chief Patient & Ext Af Off) → Concesión 8,251 acciones @ $0.00 | Post: 66,512 | Rutinaria/RSU/impuestos",
+          "detalle": "FORM 4",
+          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000251/xslF345X06/wk-form4_1784837586.xml",
+          "form4_detail": {
+            "insider_nombre": "Sachdev Amit",
+            "insider_cargo": "EVP Chief Patient & Ext Af Off",
+            "transaccion_codigo": "A",
+            "transaccion_tipo": "Concesión",
+            "transaccion_acciones": "8251",
+            "transaccion_precio": "0",
+            "transaccion_fecha": "2026-07-21",
+            "acciones_post": "66512",
+            "footnotes": "Restricted stock unit award that vests on 03/31/2030.",
+            "es_rutinaria": true,
+            "resumen_detail": "Sachdev Amit (EVP Chief Patient & Ext Af Off) → Concesión 8,251 acciones @ $0.00 | Post: 66,512 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
+          "form": "4",
           "fecha": "2026-07-17",
           "nivel": "azul",
           "badge": "🔵 INFO",
@@ -302,9 +354,36 @@
       "cik": "0001781174",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-07-23",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Miller Mary (Chief Legal Officer) → Venta 573 acciones @ $1.76 | Post: 82,194 | Rutinaria/RSU/impuestos",
+          "detalle": "FORM 4",
+          "empresa_sec": "Acrivon Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1781174/000090514826003334/xslF345X06/form4.xml",
+          "form4_detail": {
+            "insider_nombre": "Miller Mary",
+            "insider_cargo": "Chief Legal Officer",
+            "transaccion_codigo": "S",
+            "transaccion_tipo": "Venta",
+            "transaccion_acciones": "573",
+            "transaccion_precio": "1.76",
+            "transaccion_fecha": "2026-07-21",
+            "acciones_post": "82194",
+            "footnotes": "Shares sold automatically to satisfy the mandatory tax withholding requirement upon vesting of restricted stock units.",
+            "es_rutinaria": true,
+            "resumen_detail": "Miller Mary (Chief Legal Officer) → Venta 573 acciones @ $1.76 | Post: 82,194 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "TARA": {
@@ -335,34 +414,9 @@
       "cik": "0001104506",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "8-K",
-          "fecha": "2026-07-16",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "8-K — Sin clasificación específica por Item [Items: 7.01, 9.01]",
-          "detalle": "8-K",
-          "empresa_sec": "INSMED Inc",
-          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126028602/ef20078093_8k.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "7.01",
-              "9.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "ITEM 7.01 Regulation FD Disclosure. On July 16, 2026 , Insmed Incorporated (the Company ) issued a press release announcing 12-month safety and efficacy data from its ongoing open-label extension study of treprostinil palmitil inhalation powder in patients with pulmonary arterial hypertension (the OLE Study ). A copy of the press release is attached hereto as Exhibit 99.1 and incorporated herein by reference. The Company will host a conference call to discuss the 12-month data of the OLE Study on July 16, 2026, at 8:00 a.m., Eastern Time, and a live webcast of the call will be available through the investor relations section of the Company s website. A copy of the slide presentation to be used by the Company during the conference call is attached hereto as Exhibit 99.2 and incorporated herein by reference. The information contained in this Item 7.01, including Exhibits 99.1 and 99.2, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing. ITEM 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press release issued by Insmed Incorporated on July 16, 2026. 99.2 Insmed Incorporated July 16, 2026 12-Month OLE Study Presentation 104 Cover Page Interactive Date File (embedded within the Inline XBRL document). SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the regi",
-            "nivel_ajustado": "azul",
-            "badge_ajustado": "🔵 INFO",
-            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "NWL": {
@@ -443,6 +497,90 @@
     }
   ],
   "todos_filings": [
+    {
+      "ticker": "VRTX",
+      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
+      "form": "4",
+      "fecha": "2026-07-23",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Tatsis Ourania (EVP, Chief Reg. & Quality Off.) → Concesión 8,251 acciones @ $0.00 | Post: 53,572 | Rutinaria/RSU/impuestos",
+      "detalle": "FORM 4",
+      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000253/xslF345X06/wk-form4_1784837739.xml",
+      "form4_detail": {
+        "insider_nombre": "Tatsis Ourania",
+        "insider_cargo": "EVP, Chief Reg. & Quality Off.",
+        "transaccion_codigo": "A",
+        "transaccion_tipo": "Concesión",
+        "transaccion_acciones": "8251",
+        "transaccion_precio": "0",
+        "transaccion_fecha": "2026-07-21",
+        "acciones_post": "53572",
+        "footnotes": "Restricted stock unit award that vests on 03/31/2030.",
+        "es_rutinaria": true,
+        "resumen_detail": "Tatsis Ourania (EVP, Chief Reg. & Quality Off.) → Concesión 8,251 acciones @ $0.00 | Post: 53,572 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "VRTX",
+      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
+      "form": "4",
+      "fecha": "2026-07-23",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Sachdev Amit (EVP Chief Patient & Ext Af Off) → Concesión 8,251 acciones @ $0.00 | Post: 66,512 | Rutinaria/RSU/impuestos",
+      "detalle": "FORM 4",
+      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000251/xslF345X06/wk-form4_1784837586.xml",
+      "form4_detail": {
+        "insider_nombre": "Sachdev Amit",
+        "insider_cargo": "EVP Chief Patient & Ext Af Off",
+        "transaccion_codigo": "A",
+        "transaccion_tipo": "Concesión",
+        "transaccion_acciones": "8251",
+        "transaccion_precio": "0",
+        "transaccion_fecha": "2026-07-21",
+        "acciones_post": "66512",
+        "footnotes": "Restricted stock unit award that vests on 03/31/2030.",
+        "es_rutinaria": true,
+        "resumen_detail": "Sachdev Amit (EVP Chief Patient & Ext Af Off) → Concesión 8,251 acciones @ $0.00 | Post: 66,512 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "ACRV",
+      "nombre": "Acrivon Therapeutics, Inc.",
+      "form": "4",
+      "fecha": "2026-07-23",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Miller Mary (Chief Legal Officer) → Venta 573 acciones @ $1.76 | Post: 82,194 | Rutinaria/RSU/impuestos",
+      "detalle": "FORM 4",
+      "empresa_sec": "Acrivon Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781174/000090514826003334/xslF345X06/form4.xml",
+      "form4_detail": {
+        "insider_nombre": "Miller Mary",
+        "insider_cargo": "Chief Legal Officer",
+        "transaccion_codigo": "S",
+        "transaccion_tipo": "Venta",
+        "transaccion_acciones": "573",
+        "transaccion_precio": "1.76",
+        "transaccion_fecha": "2026-07-21",
+        "acciones_post": "82194",
+        "footnotes": "Shares sold automatically to satisfy the mandatory tax withholding requirement upon vesting of restricted stock units.",
+        "es_rutinaria": true,
+        "resumen_detail": "Miller Mary (Chief Legal Officer) → Venta 573 acciones @ $1.76 | Post: 82,194 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "DYN",
       "nombre": "Dyne Therapeutics, Inc.",
@@ -592,32 +730,6 @@
       "8k_detail": null,
       "10q_detail": null,
       "prospecto_detail": null
-    },
-    {
-      "ticker": "INSM",
-      "nombre": "INSMED Inc",
-      "form": "8-K",
-      "fecha": "2026-07-16",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "8-K — Sin clasificación específica por Item [Items: 7.01, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "INSMED Inc",
-      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126028602/ef20078093_8k.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "7.01",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "ITEM 7.01 Regulation FD Disclosure. On July 16, 2026 , Insmed Incorporated (the Company ) issued a press release announcing 12-month safety and efficacy data from its ongoing open-label extension study of treprostinil palmitil inhalation powder in patients with pulmonary arterial hypertension (the OLE Study ). A copy of the press release is attached hereto as Exhibit 99.1 and incorporated herein by reference. The Company will host a conference call to discuss the 12-month data of the OLE Study on July 16, 2026, at 8:00 a.m., Eastern Time, and a live webcast of the call will be available through the investor relations section of the Company s website. A copy of the slide presentation to be used by the Company during the conference call is attached hereto as Exhibit 99.2 and incorporated herein by reference. The information contained in this Item 7.01, including Exhibits 99.1 and 99.2, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing. ITEM 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press release issued by Insmed Incorporated on July 16, 2026. 99.2 Insmed Incorporated July 16, 2026 12-Month OLE Study Presentation 104 Cover Page Interactive Date File (embedded within the Inline XBRL document). SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the regi",
-        "nivel_ajustado": "azul",
-        "badge_ajustado": "🔵 INFO",
-        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
     }
   ],
   "clinicaltrials": {
@@ -645,7 +757,7 @@
         "nivel": "verde",
         "badge": "🟢",
         "enrollment": 468,
-        "ultima_actualizacion": "2026-06-24",
+        "ultima_actualizacion": "2026-07-23",
         "fecha_completion_primaria": "2029-06",
         "changed": true,
         "url": "https://clinicaltrials.gov/study/NCT07211958"
@@ -689,7 +801,7 @@
         "nivel": "verde",
         "badge": "🟢",
         "enrollment": 150,
-        "ultima_actualizacion": "2026-07-16",
+        "ultima_actualizacion": "2026-07-23",
         "fecha_completion_primaria": "2028-07",
         "changed": true,
         "url": "https://clinicaltrials.gov/study/NCT07486934"

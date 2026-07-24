@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 23/07/2026 09:24 | Período: últimos 7 días
-Desde: 2026-07-16 → Hasta: 2026-07-23
+Generado: 24/07/2026 09:21 | Período: últimos 7 días
+Desde: 2026-07-17 → Hasta: 2026-07-24
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 7 filings | 🔴 2 | 🟢 1 | 🟡 1 | 🔵 3 | ✅ 14 sin novedad
+RESUMEN: 9 filings | 🔴 2 | 🟢 1 | 🟡 2 | 🔵 4 | ✅ 14 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (3)
@@ -47,7 +47,13 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [DNLI] Sin novedades
   ✅ [VKTX] Sin novedades
 
-  🔵 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 2 filing(s)
+  🔵 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 4 filing(s)
+     🔵 INFO 4 | 2026-07-23 | Tatsis Ourania (EVP, Chief Reg. & Quality Off.) → Concesión 8,251 acciones @ $0.00 | Post: 53,572 | Rutinaria/RSU/impuestos
+     Insider: Tatsis Ourania (EVP, Chief Reg. & Quality Off.) → Concesión 8,251 acciones @ $0.00 | Post: 53,572 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000253/xslF345X06/wk-form4_1784837739.xml
+     🔵 INFO 4 | 2026-07-23 | Sachdev Amit (EVP Chief Patient & Ext Af Off) → Concesión 8,251 acciones @ $0.00 | Post: 66,512 | Rutinaria/RSU/impuestos
+     Insider: Sachdev Amit (EVP Chief Patient & Ext Af Off) → Concesión 8,251 acciones @ $0.00 | Post: 66,512 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000251/xslF345X06/wk-form4_1784837586.xml
      🔵 INFO 4 | 2026-07-17 | SACHS BRUCE I (Director) → Concesión 100 acciones @ $475.28 | Post: 15,772
      Insider: SACHS BRUCE I (Director) → Concesión 100 acciones @ $475.28 | Post: 15,772
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000249/xslF345X06/wk-form4_1784318797.xml
@@ -61,13 +67,14 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [GPCR] Sin novedades
   ✅ [ABVX] Sin novedades
   ✅ [VERA] Sin novedades
-  ✅ [ACRV] Sin novedades
+
+  🟡 [ACRV] Acrivon Therapeutics, Inc. — 1 filing(s)
+     🟡 MEDIA 4 | 2026-07-23 | Miller Mary (Chief Legal Officer) → Venta 573 acciones @ $1.76 | Post: 82,194 | Rutinaria/RSU/impuestos
+     Insider: Miller Mary (Chief Legal Officer) → Venta 573 acciones @ $1.76 | Post: 82,194 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003334/xslF345X06/form4.xml
   ✅ [TARA] Sin novedades
   ✅ [SENS] Sin novedades
-
-  🔵 [INSM] INSMED Inc — 1 filing(s)
-     🔵 INFO 8-K | 2026-07-16 | 8-K — Sin clasificación específica por Item [Items: 7.01, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1104506/000114036126028602/ef20078093_8k.htm
+  ✅ [INSM] Sin novedades
   ⚪ [NWL] Sin CIK SEC
 
 ──────────────────────────────────────────────────
@@ -85,7 +92,7 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Reclutando activamente
        Enrollment: 468 pacientes
        Primary completion: 2029-06
-       Última actualización: 2026-06-24
+       Última actualización: 2026-07-23
        → https://clinicaltrials.gov/study/NCT07211958
 
   [DYN]
@@ -105,7 +112,7 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Reclutando activamente
        Enrollment: 150 pacientes
        Primary completion: 2028-07
-       Última actualización: 2026-07-16
+       Última actualización: 2026-07-23
        → https://clinicaltrials.gov/study/NCT07486934
 
   [VKTX]

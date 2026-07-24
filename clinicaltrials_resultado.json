@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "23/07/2026 10:38",
-  "fecha": "2026-07-23",
+  "generado": "24/07/2026 10:32",
+  "fecha": "2026-07-24",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -156,7 +156,7 @@
           "study_completion_date": "2029-01",
           "study_completion_type": "ESTIMATED",
           "start_date": "2026-05-14",
-          "last_update_posted": "2026-07-16",
+          "last_update_posted": "2026-07-23",
           "conditions": [
             "Myotonic Dystrophy Type 1 (DM1)",
             "DM1",
@@ -198,7 +198,14 @@
           "ventana": "2028",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-07-16 → 2026-07-23"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -756,7 +763,7 @@
           "study_completion_date": "2031-01",
           "study_completion_type": "ESTIMATED",
           "start_date": "2025-11-25",
-          "last_update_posted": "2026-06-24",
+          "last_update_posted": "2026-07-23",
           "conditions": [
             "Acute Myeloid Leukemias"
           ],
@@ -794,7 +801,14 @@
           "ventana": "2029",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-06-24 → 2026-07-23"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1796,13 +1810,13 @@
           "nivel_base": "azul",
           "badge_base": "🔵",
           "phase": "PHASE3",
-          "enrollment": 1250,
+          "enrollment": 1750,
           "primary_completion_date": "2030-05-28",
           "primary_completion_type": "ESTIMATED",
           "study_completion_date": "2032-11-30",
           "study_completion_type": "ESTIMATED",
           "start_date": "2025-07-02",
-          "last_update_posted": "2026-06-12",
+          "last_update_posted": "2026-07-23",
           "conditions": [
             "Transthyretin Amyloidosis With Cardiomyopathy"
           ],
@@ -1840,7 +1854,20 @@
           "ventana": "2030",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-06-12 → 2026-07-23"
+            },
+            {
+              "tipo": "enrollment",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Enrollment: 1250 → 1750"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1863,7 +1890,7 @@
           "study_completion_date": "2031-06-12",
           "study_completion_type": "ESTIMATED",
           "start_date": "2025-12-12",
-          "last_update_posted": "2026-06-12",
+          "last_update_posted": "2026-07-23",
           "conditions": [
             "Hereditary Transthyretin-Mediated Amyloidosis With Polyneuropathy",
             "hATTR-PN"
@@ -1902,7 +1929,14 @@
           "ventana": "2027-2031",
           "monitorizar": true,
           "peso_importancia": 7,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-06-12 → 2026-07-23"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2286,7 +2320,14 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-07-16 → 2026-07-23"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT07486934"
     },
     {
@@ -2466,7 +2507,14 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-06-24 → 2026-07-23"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT07211958"
     },
     {
@@ -2686,8 +2734,48 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-06-12 → 2026-07-23"
+        },
+        {
+          "tipo": "enrollment",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Enrollment: 1250 → 1750"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT07052903"
+    },
+    {
+      "ticker": "ALNY",
+      "nct": "NCT07223203",
+      "nombre": "TRITON-PN Ph3 — nucresiran — hATTR-PN",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "RECRUITING",
+      "primary_completion_date": "2027-12-27",
+      "mensaje": "Reclutando",
+      "prioridad": "media",
+      "estrellas": "⭐⭐",
+      "tipo": "pivotal",
+      "catalizador": "hATTR-PN Phase 3",
+      "ventana": "2027-2031",
+      "peso_importancia": 7,
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-06-12 → 2026-07-23"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07223203"
     },
     {
       "ticker": "VRTX",

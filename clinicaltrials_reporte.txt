@@ -1,6 +1,6 @@
 ====================================================================================
 CLINICALTRIALS MONITOR v9.3 · Modelo Biotech
-Generado: 23/07/2026 10:38
+Generado: 24/07/2026 10:32
 ====================================================================================
 RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 4 | 🟡 0 | 🔵 30 | Errores API: 0
 
@@ -89,7 +89,7 @@ DETALLE POR EMPRESA
      Enrollment: 150
      Primary completion: 2028-07 ESTIMATED
      Study completion: 2029-01 ESTIMATED
-     Last update posted: 2026-07-16
+     Last update posted: 2026-07-23
      → https://clinicaltrials.gov/study/NCT07486934
 
 🟢 [VKTX] · Score relevancia: 29
@@ -162,10 +162,10 @@ DETALLE POR EMPRESA
      Catalizador: ATTR-CM Phase 3 | Ventana: 2030
      Sponsor: Alnylam Pharmaceuticals
      Phase: PHASE3
-     Enrollment: 1250
+     Enrollment: 1750
      Primary completion: 2030-05-28 ESTIMATED
      Study completion: 2032-11-30 ESTIMATED
-     Last update posted: 2026-06-12
+     Last update posted: 2026-07-23
      → https://clinicaltrials.gov/study/NCT07052903
   🔵 ⭐⭐ ZENITH Ph3 CVOT — zilebesiran — hipertensión | Prioridad: media | Validación: OK
      NCT: NCT07181109 | Status: Reclutando | Tipo: cvot
@@ -185,7 +185,7 @@ DETALLE POR EMPRESA
      Enrollment: 125
      Primary completion: 2027-12-27 ESTIMATED
      Study completion: 2031-06-12 ESTIMATED
-     Last update posted: 2026-06-12
+     Last update posted: 2026-07-23
      → https://clinicaltrials.gov/study/NCT07223203
   🔵 ⭐⭐ cAPPricorn-1 Ph2 — mivelsiran — CAA | Prioridad: media | Validación: OK
      NCT: NCT06393712 | Status: Reclutando | Tipo: phase2
@@ -271,7 +271,7 @@ DETALLE POR EMPRESA
      Enrollment: 468
      Primary completion: 2029-06 ESTIMATED
      Study completion: 2031-01 ESTIMATED
-     Last update posted: 2026-06-24
+     Last update posted: 2026-07-23
      → https://clinicaltrials.gov/study/NCT07211958
 
 🔵 [BEAM] · Score relevancia: 14

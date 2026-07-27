@@ -1,8 +1,8 @@
 {
-  "generado": "24/07/2026 09:29 UTC",
+  "generado": "27/07/2026 10:49 UTC",
   "plazo_horas": 72,
-  "desde": "2026-07-21",
-  "hasta": "2026-07-24",
+  "desde": "2026-07-24",
+  "hasta": "2026-07-27",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -15,301 +15,80 @@
       "noticias": [
         {
           "ticker": "ARGX",
-          "titulo": "argenx SE (ARGX) Q2 2026 Earnings Call Transcript",
-          "resumen": "argenx SE (ARGX) Q2 2026 Earnings Call July 23, 2026 8:30 AM EDTCompany ParticipantsBeth DelGiaccoKaren Massey - CEO & Executive DirectorKarl Gubitz -...",
-          "fuente": "SeekingAlpha",
-          "fecha": "23 Jul 2026 13:20 UTC",
-          "url": "https://finnhub.io/api/news?id=34752230828c1c7ff976f10f8aab7c37148918ce40cdd3d01ee08b67835a043d",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "argenx SE 2026 Q2 - Results - Earnings Call Presentation",
-          "resumen": "2026-07-23. The following slide deck was published by argenx SE in conjunction with their 2026 Q2 earnings call.",
-          "fuente": "SeekingAlpha",
-          "fecha": "23 Jul 2026 13:05 UTC",
-          "url": "https://finnhub.io/api/news?id=33c5b8502dc73d778d575f48f2d7e741e2ea76c243234613be82b26bb93842e4",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "Earnings Scheduled For July 23, 2026",
-          "resumen": "Companies Reporting Before The Bell\n• Altisource Portfolio (NASDAQ:ASPS) is estimated to report quarterly earnings at $0.18 per share on revenue of $42.90 million. \n• Dime Commercial (NYSE:DCOM) is expected to report",
+          "titulo": "Oppenheimer Maintains Outperform on argenx, Raises Price Target to $1037",
+          "resumen": "Oppenheimer  analyst Leland Gershell   maintains argenx (NASDAQ:ARGX) with a Outperform and raises the price target from $1014 to $1037.",
           "fuente": "Benzinga",
-          "fecha": "23 Jul 2026 07:11 UTC",
-          "url": "https://finnhub.io/api/news?id=a47ad7f0bc8a271af3493561d9e532c43ff1705e233807236e6b2cf91a6dc883",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_scheduled_1.jpg?width=2048&height=1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "argenx Q2 EPS $7.32 Beats $6.24 Estimate, Sales $1.542B Beat $1.442B Estimate",
-          "resumen": "argenx (NASDAQ:ARGX) reported quarterly earnings of $7.32 per share which beat the analyst consensus estimate of $6.24 by 17.31 percent. This is a 95.72 percent increase over earnings of $3.74 per share from the same",
-          "fuente": "Benzinga",
-          "fecha": "23 Jul 2026 01:18 UTC",
-          "url": "https://finnhub.io/api/news?id=d790d6178818239542834427e165cfe909770c508753f35d9e44e60e7326d7e5",
+          "fecha": "24 Jul 2026 14:54 UTC",
+          "url": "https://finnhub.io/api/news?id=69c9e9883d5e416fe179d30c044a1eb6ceeae76a8cad475c0353cedc2a6be3d6",
           "imagen": "",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
         },
         {
           "ticker": "ARGX",
-          "titulo": "Citigroup Maintains Buy on argenx, Raises Price Target to $1182",
-          "resumen": "Citigroup  analyst Samantha Semenkow   maintains argenx (NASDAQ:ARGX) with a Buy and raises the price target from $1152 to $1182.",
+          "titulo": "RBC Capital Maintains Outperform on argenx, Raises Price Target to $1025",
+          "resumen": "RBC Capital  analyst Luca Issi   maintains argenx (NASDAQ:ARGX) with a Outperform and raises the price target from $945 to $1025.",
           "fuente": "Benzinga",
-          "fecha": "21 Jul 2026 15:05 UTC",
-          "url": "https://finnhub.io/api/news?id=3120c43250ab5ca797c189e0c89a9cbd2a088072573a2ee62ec7fa9cc316e933",
+          "fecha": "24 Jul 2026 11:55 UTC",
+          "url": "https://finnhub.io/api/news?id=af4ddc553c1df1637989b09545abcab52c69d6fc942432e87217141fd5cca3ac",
           "imagen": "",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         }
       ],
-      "nivel": "rojo",
-      "total": 5
+      "nivel": "azul",
+      "total": 2
     },
     "DYN": {
       "nombre": "DYN",
-      "noticias": [
-        {
-          "ticker": "DYN",
-          "titulo": "Cantor Fitzgerald Initiates Coverage On Dyne Therapeutics with Overweight Rating",
-          "resumen": "Cantor Fitzgerald  analyst Eric Schmidt   initiates coverage on Dyne Therapeutics (NASDAQ:DYN) with a Overweight rating.",
-          "fuente": "Benzinga",
-          "fecha": "23 Jul 2026 09:49 UTC",
-          "url": "https://finnhub.io/api/news?id=85ec73267031a01b743796f7c1d5d48de7e9e76d3b5a2b4f5fe0744baa5d64af",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "DYN",
-          "titulo": "Pegasystems Posts Downbeat Q2 Results, Joins Adtran, Dyne Therapeutics And Other Big Stocks Moving Lower In Wednesday’s Pre-Market Session",
-          "resumen": "Pegasystems Inc (NASDAQ: PEGA) reported lower-than-expected earnings and sales, causing stocks to fall 16% in pre-market trading.",
-          "fuente": "Benzinga",
-          "fecha": "22 Jul 2026 09:19 UTC",
-          "url": "https://finnhub.io/api/news?id=1e878348b1111bac4c8b986c67f9b35abd5a7db75bba58a86c15ca56af4af4df",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/22/Section-Of-A-Financial-Newspaper-Titled-.jpg?width=2048&height=1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "DYN",
-          "titulo": "Dyne Therapeutics Stock Tumbles After Hours: Here's Why",
-          "resumen": "Dyne Therapeutics stock fell after hours after pricing an upsized $375M public offering of common stock.",
-          "fuente": "Benzinga",
-          "fecha": "22 Jul 2026 01:52 UTC",
-          "url": "https://finnhub.io/api/news?id=417f8d8e3997a92efedcb4cf1113e9f4d9dff1de1d57850a9a290f76df5dc1a5",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/22/Candlestick-Chart-Showing-Falling-Stock-.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "DYN",
-          "titulo": "12 Health Care Stocks Moving In Tuesday's After-Market Session",
-          "resumen": "Gainers\n\nENDRA Life Sciences (NASDAQ:NDRA) shares rose 10.8% to $5.94 during Tuesday&#39;s after-market session. The market value of their outstanding shares is at $6.2 million. \nApimeds Pharmaceuticals (AMEX:APUS)",
-          "fuente": "Benzinga",
-          "fecha": "21 Jul 2026 17:05 UTC",
-          "url": "https://finnhub.io/api/news?id=9d3ce9d767c9a26472d39af4779eda7515e2168dae904ed752104597cb7d0d5f",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_4.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 4
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "DNLI": {
       "nombre": "DNLI",
-      "noticias": [
-        {
-          "ticker": "DNLI",
-          "titulo": "Morgan Stanley Maintains Overweight on Denali Therapeutics, Raises Price Target to $36",
-          "resumen": "Morgan Stanley  analyst Matthew Harrison   maintains Denali Therapeutics (NASDAQ:DNLI) with a Overweight and raises the price target from $35 to $36.",
-          "fuente": "Benzinga",
-          "fecha": "23 Jul 2026 14:04 UTC",
-          "url": "https://finnhub.io/api/news?id=4601926ae1e55f243f4265004261bef6f5f099d77d1d94735a0c99a0e2faf410",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "VKTX": {
       "nombre": "VKTX",
-      "noticias": [
-        {
-          "ticker": "VKTX",
-          "titulo": "10 Health Care Stocks With Whale Alerts In Today’s Session",
-          "resumen": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders will",
-          "fuente": "Benzinga",
-          "fecha": "23 Jul 2026 13:35 UTC",
-          "url": "https://finnhub.io/api/news?id=85af9e8893acc6773c696c8ffbce2fa38f27f38ee6fd643adf77b9f3130959f1",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
         {
           "ticker": "VRTX",
-          "titulo": "Is Arrowhead Pharmaceuticals Stock A Smart Buy After Its Transition To A Commercial Company?",
-          "resumen": "With its first drug on the market and a pipeline full of catalysts, the company asks investors to weigh a powerful growth story against an elevated valuation and a history of volatility.",
+          "titulo": "Vortex Energy Corp. Announces Marketing Program",
+          "resumen": "VANCOUVER, British Columbia, July 24, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) announces that it has engaged MCS Market Communication Service GmbH (“MCS”) (address: Rheinpromenade 13, 0789 Monheim am Rhein; email: info@mcsmarket.de)",
           "fuente": "Yahoo",
-          "fecha": "23 Jul 2026 15:00 UTC",
-          "url": "https://finnhub.io/api/news?id=531056513eb02609f4a4938c9a9d323461a433a76b4cbd553c5d298c12047e7a",
+          "fecha": "24 Jul 2026 21:00 UTC",
+          "url": "https://finnhub.io/api/news?id=61caf6cd2d1aa2c47d5b115b8acad8415f768278eafa34f312a4ded1833d3fa7",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "3 Healthcare Stocks with Competitive Advantages",
-          "resumen": "From novel pharmaceuticals to telemedicine, most healthcare companies are on a mission to drive better patient outcomes. Players catalyzing medical advancements have benefited from elevated demand, which has supported the industry’s returns lately - over the past six months, healthcare stocks have g",
-          "fuente": "Yahoo",
-          "fecha": "23 Jul 2026 10:22 UTC",
-          "url": "https://finnhub.io/api/news?id=f03ef675567d5108e942c33fea0af0f892d3babe234791d60ea6de7bc0d32119",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals (VRTX) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-          "resumen": "In the latest trading session, Vertex Pharmaceuticals (VRTX) closed at $472.57, marking a -1.96% move from the previous day.",
-          "fuente": "Yahoo",
-          "fecha": "22 Jul 2026 21:50 UTC",
-          "url": "https://finnhub.io/api/news?id=9a4acf17d85cd62640b1ef99d26433eb4843ddd26ea54db4439b95b95e06927d",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex was sole bidder in high-premium Crinetics acquisition",
-          "resumen": "Analysts expect new details on the lead-up to the deal “are likely to reignite” investor scrutiny that Vertex overpaid in what’s poised to be its largest-ever transaction.",
-          "fuente": "Yahoo",
-          "fecha": "22 Jul 2026 16:48 UTC",
-          "url": "https://finnhub.io/api/news?id=4e6b58aa0243c4cf3ed6fa01c255ff8093c21f5501c6043b24f8e69611512bd7",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "These 7 Small Caps Are on Fire as the Second Half Begins: Here’s Why",
-          "resumen": "Seven small-cap stocks have surged as much as 123% in early July on buyouts, FDA developments, refinancing deals and short squeezes.",
-          "fuente": "Benzinga",
-          "fecha": "21 Jul 2026 15:52 UTC",
-          "url": "https://finnhub.io/api/news?id=25ea968d0976819831cb67877ca7d310eb561e52b6e6376eb848ef60154d12c1",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/21/Russell-2000-Index--Text-On-Notebook-Wit.jpg?width=2048&height=1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
-      "nivel": "rojo",
-      "total": 5
+      "nivel": "azul",
+      "total": 1
     },
     "ALNY": {
       "nombre": "ALNY",
-      "noticias": [
-        {
-          "ticker": "ALNY",
-          "titulo": "Is Arrowhead Pharmaceuticals Stock A Smart Buy After Its Transition To A Commercial Company?",
-          "resumen": "With its first drug on the market and a pipeline full of catalysts, the company asks investors to weigh a powerful growth story against an elevated valuation and a history of volatility.",
-          "fuente": "Yahoo",
-          "fecha": "23 Jul 2026 15:00 UTC",
-          "url": "https://finnhub.io/api/news?id=531056513eb02609f4a4938c9a9d323461a433a76b4cbd553c5d298c12047e7a",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Alnylam Pharmaceuticals (ALNY) Reports Next Week: Wall Street Expects Earnings Growth",
-          "resumen": "Alnylam (ALNY) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-          "fuente": "Yahoo",
-          "fecha": "23 Jul 2026 14:00 UTC",
-          "url": "https://finnhub.io/api/news?id=8df1354ccba9915811541655e084bf3b8ad340549bd0a86066b03495f0cfc552",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "JP Morgan Maintains Overweight on Alnylam Pharmaceuticals, Lowers Price Target to $400",
-          "resumen": "JP Morgan  analyst Jessica Fye   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Overweight and lowers the price target from $420 to $400.",
-          "fuente": "Benzinga",
-          "fecha": "22 Jul 2026 10:44 UTC",
-          "url": "https://finnhub.io/api/news?id=7ff61cd371a1cb71bced0f42cbef8445f7388c7b3e928a4877bed35d5798d1cd",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Biomarker Collaboration and Licensing Deals Report 2016-2026 - Featuring Quanterix, Caris Life Sciences, Alnylam Pharmaceuticals, Guardant Health, Eurofins Scientific and More",
-          "resumen": "Dublin, July 21, 2026 (GLOBE NEWSWIRE) -- The \"Biomarker Collaboration and Licensing Deals 2016-2026\" has been added to ResearchAndMarkets.com's offering.This report provides a comprehensive and structured analysis of 590+ biomarker collaboration and licensing deals, delivering a clear and evidence-",
-          "fuente": "Yahoo",
-          "fecha": "21 Jul 2026 16:28 UTC",
-          "url": "https://finnhub.io/api/news?id=49b145335329c0c760768b74a4c743e26c959f3ac85367be2a487001c1047487",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 4
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "BEAM": {
       "nombre": "BEAM",
-      "noticias": [
-        {
-          "ticker": "BEAM",
-          "titulo": "Beam Therapeutics To Present Updated Clinical Data From Phase 1/2 Trial Evaluating BEAM-302 For Alpha-1 Antitrypsin Deficiency At ERS Congress 2026",
-          "resumen": "Beam Therapeutics Inc. (NASDAQ:BEAM), a biotechnology company developing precision genetic medicines through base editing, today announced that the company will present updated clinical data from the Phase 1/2 trial",
-          "fuente": "Benzinga",
-          "fecha": "23 Jul 2026 07:02 UTC",
-          "url": "https://finnhub.io/api/news?id=d70058b48ad820c856859e8ba1d526fa99259876ad399694904419d692172c0c",
-          "imagen": "",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "OCUL": {
       "nombre": "OCUL",
@@ -331,34 +110,9 @@
     },
     "ABVX": {
       "nombre": "ABVX",
-      "noticias": [
-        {
-          "ticker": "ABVX",
-          "titulo": "Palisade Bio Draws Bullish Call, Lead IBD Drug Advances Toward Phase 2",
-          "resumen": "Analyst initiates a Buy rating on Palisade Bio with an $8 target, highlighting PALI-2108&#39;s multi-billion dollar potential in IBD treatment.",
-          "fuente": "Benzinga",
-          "fecha": "23 Jul 2026 14:06 UTC",
-          "url": "https://finnhub.io/api/news?id=3c44c743d1bcf2a3d934bc59f7bc8777ff1351e9911e6554c104a544377e0eb8",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/23/Woman-Touching-Stomach-Painful-Suffering.jpg?width=2048&height=1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ABVX",
-          "titulo": "10 Health Care Stocks With Whale Alerts In Today’s Session",
-          "resumen": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders will",
-          "fuente": "Benzinga",
-          "fecha": "21 Jul 2026 13:35 UTC",
-          "url": "https://finnhub.io/api/news?id=e98bbcd3c40e9eb1c069bf812abf8cb1de619dd38fa0d0df460fe4f786bb9509",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 2
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "VERA": {
       "nombre": "VERA",
@@ -368,22 +122,9 @@
     },
     "ACRV": {
       "nombre": "ACRV",
-      "noticias": [
-        {
-          "ticker": "ACRV",
-          "titulo": "Acrivon Therapeutics To Highlight AP3 Platform For Pathway-Based Drug Discovery And Development At AACR D3 July 21-24",
-          "resumen": "Presentations and DetailsOral Podium PresentationTitle: Acrivon Predictive Precision Proteomics (AP3): Next Generation Precision Medicine for Phosphoproteomics-Guided Drug DiscoveryPresenter: Lei Shi, Ph.D., Director",
-          "fuente": "Benzinga",
-          "fecha": "21 Jul 2026 16:32 UTC",
-          "url": "https://finnhub.io/api/news?id=9d641b43472c9feb6e8de0eb5476c54d2cafcfa7b91e384e22d35324abb86324",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "TARA": {
       "nombre": "TARA",
@@ -399,242 +140,37 @@
     },
     "INSM": {
       "nombre": "INSM",
-      "noticias": [
-        {
-          "ticker": "INSM",
-          "titulo": "Tracking Baker Brothers Portfolio: Q1 2026 Update",
-          "resumen": "Baker Brothersâ Q1 2026 13F: $17.42B biotech portfolio, top holdings & key buys/sells. Click here to read more.",
-          "fuente": "SeekingAlpha",
-          "fecha": "21 Jul 2026 13:26 UTC",
-          "url": "https://finnhub.io/api/news?id=b5039eeb51094b56bb15c6fbd0589d8bb8cc90e6bad42f0e7c7cf28242d94726",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1160060870/image_1160060870.jpg?io=getty-c-w1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     }
   },
   "resumen": {
-    "total_noticias": 25,
-    "tickers_con_noticias": 10,
-    "alertas_urgentes": 6,
-    "sin_noticias": 7
+    "total_noticias": 3,
+    "tickers_con_noticias": 2,
+    "alertas_urgentes": 0,
+    "sin_noticias": 15
   },
   "todas_noticias": [
     {
-      "ticker": "VRTX",
-      "titulo": "These 7 Small Caps Are on Fire as the Second Half Begins: Here’s Why",
-      "resumen": "Seven small-cap stocks have surged as much as 123% in early July on buyouts, FDA developments, refinancing deals and short squeezes.",
-      "fuente": "Benzinga",
-      "fecha": "21 Jul 2026 15:52 UTC",
-      "url": "https://finnhub.io/api/news?id=25ea968d0976819831cb67877ca7d310eb561e52b6e6376eb848ef60154d12c1",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/21/Russell-2000-Index--Text-On-Notebook-Wit.jpg?width=2048&height=1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Biomarker Collaboration and Licensing Deals Report 2016-2026 - Featuring Quanterix, Caris Life Sciences, Alnylam Pharmaceuticals, Guardant Health, Eurofins Scientific and More",
-      "resumen": "Dublin, July 21, 2026 (GLOBE NEWSWIRE) -- The \"Biomarker Collaboration and Licensing Deals 2016-2026\" has been added to ResearchAndMarkets.com's offering.This report provides a comprehensive and structured analysis of 590+ biomarker collaboration and licensing deals, delivering a clear and evidence-",
-      "fuente": "Yahoo",
-      "fecha": "21 Jul 2026 16:28 UTC",
-      "url": "https://finnhub.io/api/news?id=49b145335329c0c760768b74a4c743e26c959f3ac85367be2a487001c1047487",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "DYN",
-      "titulo": "Pegasystems Posts Downbeat Q2 Results, Joins Adtran, Dyne Therapeutics And Other Big Stocks Moving Lower In Wednesday’s Pre-Market Session",
-      "resumen": "Pegasystems Inc (NASDAQ: PEGA) reported lower-than-expected earnings and sales, causing stocks to fall 16% in pre-market trading.",
-      "fuente": "Benzinga",
-      "fecha": "22 Jul 2026 09:19 UTC",
-      "url": "https://finnhub.io/api/news?id=1e878348b1111bac4c8b986c67f9b35abd5a7db75bba58a86c15ca56af4af4df",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/22/Section-Of-A-Financial-Newspaper-Titled-.jpg?width=2048&height=1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex was sole bidder in high-premium Crinetics acquisition",
-      "resumen": "Analysts expect new details on the lead-up to the deal “are likely to reignite” investor scrutiny that Vertex overpaid in what’s poised to be its largest-ever transaction.",
-      "fuente": "Yahoo",
-      "fecha": "22 Jul 2026 16:48 UTC",
-      "url": "https://finnhub.io/api/news?id=4e6b58aa0243c4cf3ed6fa01c255ff8093c21f5501c6043b24f8e69611512bd7",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
       "ticker": "ARGX",
-      "titulo": "argenx Q2 EPS $7.32 Beats $6.24 Estimate, Sales $1.542B Beat $1.442B Estimate",
-      "resumen": "argenx (NASDAQ:ARGX) reported quarterly earnings of $7.32 per share which beat the analyst consensus estimate of $6.24 by 17.31 percent. This is a 95.72 percent increase over earnings of $3.74 per share from the same",
+      "titulo": "RBC Capital Maintains Outperform on argenx, Raises Price Target to $1025",
+      "resumen": "RBC Capital  analyst Luca Issi   maintains argenx (NASDAQ:ARGX) with a Outperform and raises the price target from $945 to $1025.",
       "fuente": "Benzinga",
-      "fecha": "23 Jul 2026 01:18 UTC",
-      "url": "https://finnhub.io/api/news?id=d790d6178818239542834427e165cfe909770c508753f35d9e44e60e7326d7e5",
-      "imagen": "",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "BEAM",
-      "titulo": "Beam Therapeutics To Present Updated Clinical Data From Phase 1/2 Trial Evaluating BEAM-302 For Alpha-1 Antitrypsin Deficiency At ERS Congress 2026",
-      "resumen": "Beam Therapeutics Inc. (NASDAQ:BEAM), a biotechnology company developing precision genetic medicines through base editing, today announced that the company will present updated clinical data from the Phase 1/2 trial",
-      "fuente": "Benzinga",
-      "fecha": "23 Jul 2026 07:02 UTC",
-      "url": "https://finnhub.io/api/news?id=d70058b48ad820c856859e8ba1d526fa99259876ad399694904419d692172c0c",
-      "imagen": "",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "Earnings Scheduled For July 23, 2026",
-      "resumen": "Companies Reporting Before The Bell\n• Altisource Portfolio (NASDAQ:ASPS) is estimated to report quarterly earnings at $0.18 per share on revenue of $42.90 million. \n• Dime Commercial (NYSE:DCOM) is expected to report",
-      "fuente": "Benzinga",
-      "fecha": "23 Jul 2026 07:11 UTC",
-      "url": "https://finnhub.io/api/news?id=a47ad7f0bc8a271af3493561d9e532c43ff1705e233807236e6b2cf91a6dc883",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_scheduled_1.jpg?width=2048&height=1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "argenx SE 2026 Q2 - Results - Earnings Call Presentation",
-      "resumen": "2026-07-23. The following slide deck was published by argenx SE in conjunction with their 2026 Q2 earnings call.",
-      "fuente": "SeekingAlpha",
-      "fecha": "23 Jul 2026 13:05 UTC",
-      "url": "https://finnhub.io/api/news?id=33c5b8502dc73d778d575f48f2d7e741e2ea76c243234613be82b26bb93842e4",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "argenx SE (ARGX) Q2 2026 Earnings Call Transcript",
-      "resumen": "argenx SE (ARGX) Q2 2026 Earnings Call July 23, 2026 8:30 AM EDTCompany ParticipantsBeth DelGiaccoKaren Massey - CEO & Executive DirectorKarl Gubitz -...",
-      "fuente": "SeekingAlpha",
-      "fecha": "23 Jul 2026 13:20 UTC",
-      "url": "https://finnhub.io/api/news?id=34752230828c1c7ff976f10f8aab7c37148918ce40cdd3d01ee08b67835a043d",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Alnylam Pharmaceuticals (ALNY) Reports Next Week: Wall Street Expects Earnings Growth",
-      "resumen": "Alnylam (ALNY) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-      "fuente": "Yahoo",
-      "fecha": "23 Jul 2026 14:00 UTC",
-      "url": "https://finnhub.io/api/news?id=8df1354ccba9915811541655e084bf3b8ad340549bd0a86066b03495f0cfc552",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ABVX",
-      "titulo": "Palisade Bio Draws Bullish Call, Lead IBD Drug Advances Toward Phase 2",
-      "resumen": "Analyst initiates a Buy rating on Palisade Bio with an $8 target, highlighting PALI-2108&#39;s multi-billion dollar potential in IBD treatment.",
-      "fuente": "Benzinga",
-      "fecha": "23 Jul 2026 14:06 UTC",
-      "url": "https://finnhub.io/api/news?id=3c44c743d1bcf2a3d934bc59f7bc8777ff1351e9911e6554c104a544377e0eb8",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/23/Woman-Touching-Stomach-Painful-Suffering.jpg?width=2048&height=1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "Tracking Baker Brothers Portfolio: Q1 2026 Update",
-      "resumen": "Baker Brothersâ Q1 2026 13F: $17.42B biotech portfolio, top holdings & key buys/sells. Click here to read more.",
-      "fuente": "SeekingAlpha",
-      "fecha": "21 Jul 2026 13:26 UTC",
-      "url": "https://finnhub.io/api/news?id=b5039eeb51094b56bb15c6fbd0589d8bb8cc90e6bad42f0e7c7cf28242d94726",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1160060870/image_1160060870.jpg?io=getty-c-w1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ABVX",
-      "titulo": "10 Health Care Stocks With Whale Alerts In Today’s Session",
-      "resumen": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders will",
-      "fuente": "Benzinga",
-      "fecha": "21 Jul 2026 13:35 UTC",
-      "url": "https://finnhub.io/api/news?id=e98bbcd3c40e9eb1c069bf812abf8cb1de619dd38fa0d0df460fe4f786bb9509",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "Citigroup Maintains Buy on argenx, Raises Price Target to $1182",
-      "resumen": "Citigroup  analyst Samantha Semenkow   maintains argenx (NASDAQ:ARGX) with a Buy and raises the price target from $1152 to $1182.",
-      "fuente": "Benzinga",
-      "fecha": "21 Jul 2026 15:05 UTC",
-      "url": "https://finnhub.io/api/news?id=3120c43250ab5ca797c189e0c89a9cbd2a088072573a2ee62ec7fa9cc316e933",
+      "fecha": "24 Jul 2026 11:55 UTC",
+      "url": "https://finnhub.io/api/news?id=af4ddc553c1df1637989b09545abcab52c69d6fc942432e87217141fd5cca3ac",
       "imagen": "",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
     },
     {
-      "ticker": "ACRV",
-      "titulo": "Acrivon Therapeutics To Highlight AP3 Platform For Pathway-Based Drug Discovery And Development At AACR D3 July 21-24",
-      "resumen": "Presentations and DetailsOral Podium PresentationTitle: Acrivon Predictive Precision Proteomics (AP3): Next Generation Precision Medicine for Phosphoproteomics-Guided Drug DiscoveryPresenter: Lei Shi, Ph.D., Director",
+      "ticker": "ARGX",
+      "titulo": "Oppenheimer Maintains Outperform on argenx, Raises Price Target to $1037",
+      "resumen": "Oppenheimer  analyst Leland Gershell   maintains argenx (NASDAQ:ARGX) with a Outperform and raises the price target from $1014 to $1037.",
       "fuente": "Benzinga",
-      "fecha": "21 Jul 2026 16:32 UTC",
-      "url": "https://finnhub.io/api/news?id=9d641b43472c9feb6e8de0eb5476c54d2cafcfa7b91e384e22d35324abb86324",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "DYN",
-      "titulo": "12 Health Care Stocks Moving In Tuesday's After-Market Session",
-      "resumen": "Gainers\n\nENDRA Life Sciences (NASDAQ:NDRA) shares rose 10.8% to $5.94 during Tuesday&#39;s after-market session. The market value of their outstanding shares is at $6.2 million. \nApimeds Pharmaceuticals (AMEX:APUS)",
-      "fuente": "Benzinga",
-      "fecha": "21 Jul 2026 17:05 UTC",
-      "url": "https://finnhub.io/api/news?id=9d3ce9d767c9a26472d39af4779eda7515e2168dae904ed752104597cb7d0d5f",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_4.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "DYN",
-      "titulo": "Dyne Therapeutics Stock Tumbles After Hours: Here's Why",
-      "resumen": "Dyne Therapeutics stock fell after hours after pricing an upsized $375M public offering of common stock.",
-      "fuente": "Benzinga",
-      "fecha": "22 Jul 2026 01:52 UTC",
-      "url": "https://finnhub.io/api/news?id=417f8d8e3997a92efedcb4cf1113e9f4d9dff1de1d57850a9a290f76df5dc1a5",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/22/Candlestick-Chart-Showing-Falling-Stock-.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "JP Morgan Maintains Overweight on Alnylam Pharmaceuticals, Lowers Price Target to $400",
-      "resumen": "JP Morgan  analyst Jessica Fye   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Overweight and lowers the price target from $420 to $400.",
-      "fuente": "Benzinga",
-      "fecha": "22 Jul 2026 10:44 UTC",
-      "url": "https://finnhub.io/api/news?id=7ff61cd371a1cb71bced0f42cbef8445f7388c7b3e928a4877bed35d5798d1cd",
+      "fecha": "24 Jul 2026 14:54 UTC",
+      "url": "https://finnhub.io/api/news?id=69c9e9883d5e416fe179d30c044a1eb6ceeae76a8cad475c0353cedc2a6be3d6",
       "imagen": "",
       "urgente": false,
       "nivel": "azul",
@@ -642,83 +178,11 @@
     },
     {
       "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals (VRTX) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-      "resumen": "In the latest trading session, Vertex Pharmaceuticals (VRTX) closed at $472.57, marking a -1.96% move from the previous day.",
+      "titulo": "Vortex Energy Corp. Announces Marketing Program",
+      "resumen": "VANCOUVER, British Columbia, July 24, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) announces that it has engaged MCS Market Communication Service GmbH (“MCS”) (address: Rheinpromenade 13, 0789 Monheim am Rhein; email: info@mcsmarket.de)",
       "fuente": "Yahoo",
-      "fecha": "22 Jul 2026 21:50 UTC",
-      "url": "https://finnhub.io/api/news?id=9a4acf17d85cd62640b1ef99d26433eb4843ddd26ea54db4439b95b95e06927d",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "DYN",
-      "titulo": "Cantor Fitzgerald Initiates Coverage On Dyne Therapeutics with Overweight Rating",
-      "resumen": "Cantor Fitzgerald  analyst Eric Schmidt   initiates coverage on Dyne Therapeutics (NASDAQ:DYN) with a Overweight rating.",
-      "fuente": "Benzinga",
-      "fecha": "23 Jul 2026 09:49 UTC",
-      "url": "https://finnhub.io/api/news?id=85ec73267031a01b743796f7c1d5d48de7e9e76d3b5a2b4f5fe0744baa5d64af",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "3 Healthcare Stocks with Competitive Advantages",
-      "resumen": "From novel pharmaceuticals to telemedicine, most healthcare companies are on a mission to drive better patient outcomes. Players catalyzing medical advancements have benefited from elevated demand, which has supported the industry’s returns lately - over the past six months, healthcare stocks have g",
-      "fuente": "Yahoo",
-      "fecha": "23 Jul 2026 10:22 UTC",
-      "url": "https://finnhub.io/api/news?id=f03ef675567d5108e942c33fea0af0f892d3babe234791d60ea6de7bc0d32119",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "10 Health Care Stocks With Whale Alerts In Today’s Session",
-      "resumen": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders will",
-      "fuente": "Benzinga",
-      "fecha": "23 Jul 2026 13:35 UTC",
-      "url": "https://finnhub.io/api/news?id=85af9e8893acc6773c696c8ffbce2fa38f27f38ee6fd643adf77b9f3130959f1",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "DNLI",
-      "titulo": "Morgan Stanley Maintains Overweight on Denali Therapeutics, Raises Price Target to $36",
-      "resumen": "Morgan Stanley  analyst Matthew Harrison   maintains Denali Therapeutics (NASDAQ:DNLI) with a Overweight and raises the price target from $35 to $36.",
-      "fuente": "Benzinga",
-      "fecha": "23 Jul 2026 14:04 UTC",
-      "url": "https://finnhub.io/api/news?id=4601926ae1e55f243f4265004261bef6f5f099d77d1d94735a0c99a0e2faf410",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Is Arrowhead Pharmaceuticals Stock A Smart Buy After Its Transition To A Commercial Company?",
-      "resumen": "With its first drug on the market and a pipeline full of catalysts, the company asks investors to weigh a powerful growth story against an elevated valuation and a history of volatility.",
-      "fuente": "Yahoo",
-      "fecha": "23 Jul 2026 15:00 UTC",
-      "url": "https://finnhub.io/api/news?id=531056513eb02609f4a4938c9a9d323461a433a76b4cbd553c5d298c12047e7a",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Is Arrowhead Pharmaceuticals Stock A Smart Buy After Its Transition To A Commercial Company?",
-      "resumen": "With its first drug on the market and a pipeline full of catalysts, the company asks investors to weigh a powerful growth story against an elevated valuation and a history of volatility.",
-      "fuente": "Yahoo",
-      "fecha": "23 Jul 2026 15:00 UTC",
-      "url": "https://finnhub.io/api/news?id=531056513eb02609f4a4938c9a9d323461a433a76b4cbd553c5d298c12047e7a",
+      "fecha": "24 Jul 2026 21:00 UTC",
+      "url": "https://finnhub.io/api/news?id=61caf6cd2d1aa2c47d5b115b8acad8415f768278eafa34f312a4ded1833d3fa7",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",

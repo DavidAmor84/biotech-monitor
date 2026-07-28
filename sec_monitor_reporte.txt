@@ -1,13 +1,13 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 27/07/2026 10:43 | Período: últimos 7 días
-Desde: 2026-07-20 → Hasta: 2026-07-27
+Generado: 28/07/2026 09:36 | Período: últimos 7 días
+Desde: 2026-07-21 → Hasta: 2026-07-28
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 9 filings | 🔴 2 | 🟢 1 | 🟡 3 | 🔵 3 | ✅ 12 sin novedad
+RESUMEN: 8 filings | 🔴 2 | 🟢 0 | 🟡 3 | 🔵 3 | ✅ 12 sin novedad
 
 ──────────────────────────────────────────────────
-🚨 ALERTAS CRÍTICAS (3)
+🚨 ALERTAS CRÍTICAS (2)
 ──────────────────────────────────────────────────
 
   [DYN] Dyne Therapeutics, Inc.
@@ -22,18 +22,13 @@ RESUMEN: 9 filings | 🔴 2 | 🟢 1 | 🟡 3 | 🔵 3 | ✅ 12 sin novedad
   Oferta: ATM (At-The-Market)
   → https://www.sec.gov/Archives/edgar/data/1818794/000119312526310573/d98164d424b5.htm
 
-  [DYN] Dyne Therapeutics, Inc.
-  🟢 ALTA 8-K | 2026-07-20
-  8-K — Evento positivo potencial: Priority Review [Items: 8.01]
-  → https://www.sec.gov/Archives/edgar/data/1818794/000119312526308343/dyn-20260720.htm
-
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
 ──────────────────────────────────────────────────
   ✅ [SNDX] Sin novedades
   ✅ [ARGX] Sin novedades
 
-  🔴 [DYN] Dyne Therapeutics, Inc. — 4 filing(s)
+  🔴 [DYN] Dyne Therapeutics, Inc. — 3 filing(s)
      🔴 ALTA 424B5 | 2026-07-22 | ATM (At-The-Market) · $20.5M · Dilución 🟢 BAJO
      Oferta: ATM (At-The-Market) · $20.5M · Dilución 🟢 BAJO
      → https://www.sec.gov/Archives/edgar/data/1818794/000119312526312576/d98164d424b5.htm
@@ -42,8 +37,6 @@ DETALLE POR TICKER — SEC EDGAR
      🔴 ALTA 424B5 | 2026-07-21 | ATM (At-The-Market)
      Oferta: ATM (At-The-Market)
      → https://www.sec.gov/Archives/edgar/data/1818794/000119312526310573/d98164d424b5.htm
-     🟢 ALTA 8-K | 2026-07-20 | 8-K — Evento positivo potencial: Priority Review [Items: 8.01]
-     → https://www.sec.gov/Archives/edgar/data/1818794/000119312526308343/dyn-20260720.htm
   ✅ [DNLI] Sin novedades
   ✅ [VKTX] Sin novedades
 

@@ -1,13 +1,13 @@
 {
   "version": "v3",
-  "generado": "27/07/2026 10:43",
+  "generado": "28/07/2026 09:36",
   "periodo_dias": 7,
-  "desde": "2026-07-20",
-  "hasta": "2026-07-27",
+  "desde": "2026-07-21",
+  "hasta": "2026-07-28",
   "resumen": {
-    "total_filings": 9,
+    "total_filings": 8,
     "alertas_rojas": 2,
-    "alertas_verdes": 1,
+    "alertas_verdes": 0,
     "alertas_amarillas": 3,
     "alertas_azules": 3,
     "sin_novedad": 12
@@ -104,29 +104,6 @@
             "riesgo_dilucion": null,
             "resumen_oferta": "ATM (At-The-Market)"
           }
-        },
-        {
-          "form": "8-K",
-          "fecha": "2026-07-20",
-          "nivel": "verde",
-          "badge": "🟢 ALTA",
-          "resumen": "8-K — Evento positivo potencial: Priority Review [Items: 8.01]",
-          "detalle": "8-K",
-          "empresa_sec": "Dyne Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526308343/dyn-20260720.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "8.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 8.01 Other Events. On July 20, 2026, Dyne Therapeutics, Inc. (the Company ) announced that the U.S. Food and Drug Administration ( FDA ) has accepted for review its biologics license application ( BLA ) for zeleciment rostudirsen (z-rostudirsen, also known as DYNE-251) for the treatment of individuals with Duchenne muscular dystrophy ( DMD ) amenable to exon 51 skipping. The FDA has granted the BLA Priority Review and assigned a Prescription Drug User Fee Act target action date of January 21, 2027. The Company continues to expect a potential U.S. launch of z-rostudirsen in the first quarter of 2027, assuming approval is received on the anticipated timeline. Cautionary Note Regarding Forward-Looking Statements This Current Report on Form 8-K contains forward-looking statements that involve substantial risks and uncertainties. All statements, other than statements of historical facts, contained in this Current Report on Form 8-K, including statements regarding the Company s strategy, future operations, prospects and plans, objectives of management, the potential of the FORCE TM platform, the clinical and therapeutic potential of z-rostudirsen, the potential of z-rostudirsen to advance the treatment paradigm in Duchenne muscular dystrophy, expectations regarding the timing and outcome of interactions with regulatory authorities and the timing of regulatory authority action, and expectations regarding the timing of commercialization of z-rostudirsen, constitute forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995. The words",
-            "nivel_ajustado": "verde",
-            "badge_ajustado": "🟢 ALTA",
-            "resumen_ajustado": "8-K — Evento positivo potencial: Priority Review"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
         }
       ],
       "nivel": "rojo",
@@ -471,31 +448,6 @@
         "riesgo_dilucion": null,
         "resumen_oferta": "ATM (At-The-Market)"
       }
-    },
-    {
-      "ticker": "DYN",
-      "nombre": "Dyne Therapeutics, Inc.",
-      "form": "8-K",
-      "fecha": "2026-07-20",
-      "nivel": "verde",
-      "badge": "🟢 ALTA",
-      "resumen": "8-K — Evento positivo potencial: Priority Review [Items: 8.01]",
-      "detalle": "8-K",
-      "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526308343/dyn-20260720.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "8.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 8.01 Other Events. On July 20, 2026, Dyne Therapeutics, Inc. (the Company ) announced that the U.S. Food and Drug Administration ( FDA ) has accepted for review its biologics license application ( BLA ) for zeleciment rostudirsen (z-rostudirsen, also known as DYNE-251) for the treatment of individuals with Duchenne muscular dystrophy ( DMD ) amenable to exon 51 skipping. The FDA has granted the BLA Priority Review and assigned a Prescription Drug User Fee Act target action date of January 21, 2027. The Company continues to expect a potential U.S. launch of z-rostudirsen in the first quarter of 2027, assuming approval is received on the anticipated timeline. Cautionary Note Regarding Forward-Looking Statements This Current Report on Form 8-K contains forward-looking statements that involve substantial risks and uncertainties. All statements, other than statements of historical facts, contained in this Current Report on Form 8-K, including statements regarding the Company s strategy, future operations, prospects and plans, objectives of management, the potential of the FORCE TM platform, the clinical and therapeutic potential of z-rostudirsen, the potential of z-rostudirsen to advance the treatment paradigm in Duchenne muscular dystrophy, expectations regarding the timing and outcome of interactions with regulatory authorities and the timing of regulatory authority action, and expectations regarding the timing of commercialization of z-rostudirsen, constitute forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995. The words",
-        "nivel_ajustado": "verde",
-        "badge_ajustado": "🟢 ALTA",
-        "resumen_ajustado": "8-K — Evento positivo potencial: Priority Review"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
     }
   ],
   "todos_filings": [
@@ -707,31 +659,6 @@
         "riesgo_dilucion": null,
         "resumen_oferta": "ATM (At-The-Market)"
       }
-    },
-    {
-      "ticker": "DYN",
-      "nombre": "Dyne Therapeutics, Inc.",
-      "form": "8-K",
-      "fecha": "2026-07-20",
-      "nivel": "verde",
-      "badge": "🟢 ALTA",
-      "resumen": "8-K — Evento positivo potencial: Priority Review [Items: 8.01]",
-      "detalle": "8-K",
-      "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526308343/dyn-20260720.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "8.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 8.01 Other Events. On July 20, 2026, Dyne Therapeutics, Inc. (the Company ) announced that the U.S. Food and Drug Administration ( FDA ) has accepted for review its biologics license application ( BLA ) for zeleciment rostudirsen (z-rostudirsen, also known as DYNE-251) for the treatment of individuals with Duchenne muscular dystrophy ( DMD ) amenable to exon 51 skipping. The FDA has granted the BLA Priority Review and assigned a Prescription Drug User Fee Act target action date of January 21, 2027. The Company continues to expect a potential U.S. launch of z-rostudirsen in the first quarter of 2027, assuming approval is received on the anticipated timeline. Cautionary Note Regarding Forward-Looking Statements This Current Report on Form 8-K contains forward-looking statements that involve substantial risks and uncertainties. All statements, other than statements of historical facts, contained in this Current Report on Form 8-K, including statements regarding the Company s strategy, future operations, prospects and plans, objectives of management, the potential of the FORCE TM platform, the clinical and therapeutic potential of z-rostudirsen, the potential of z-rostudirsen to advance the treatment paradigm in Duchenne muscular dystrophy, expectations regarding the timing and outcome of interactions with regulatory authorities and the timing of regulatory authority action, and expectations regarding the timing of commercialization of z-rostudirsen, constitute forward-looking statements within the meaning of The Private Securities Litigation Reform Act of 1995. The words",
-        "nivel_ajustado": "verde",
-        "badge_ajustado": "🟢 ALTA",
-        "resumen_ajustado": "8-K — Evento positivo potencial: Priority Review"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
     }
   ],
   "clinicaltrials": {

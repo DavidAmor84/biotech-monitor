@@ -1,8 +1,8 @@
 {
-  "generado": "27/07/2026 10:49 UTC",
+  "generado": "28/07/2026 09:44 UTC",
   "plazo_horas": 72,
-  "desde": "2026-07-24",
-  "hasta": "2026-07-27",
+  "desde": "2026-07-25",
+  "hasta": "2026-07-28",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -15,31 +15,67 @@
       "noticias": [
         {
           "ticker": "ARGX",
-          "titulo": "Oppenheimer Maintains Outperform on argenx, Raises Price Target to $1037",
-          "resumen": "Oppenheimer  analyst Leland Gershell   maintains argenx (NASDAQ:ARGX) with a Outperform and raises the price target from $1014 to $1037.",
-          "fuente": "Benzinga",
-          "fecha": "24 Jul 2026 14:54 UTC",
-          "url": "https://finnhub.io/api/news?id=69c9e9883d5e416fe179d30c044a1eb6ceeae76a8cad475c0353cedc2a6be3d6",
-          "imagen": "",
+          "titulo": "Forte: 'Hold' On Positive FB102 Vitiligo Treatment Data And argenx Acquisition For $2.2 Billion",
+          "resumen": "Forte Biosciences is being acquired by Argenx for $2.2 billion [$77/share], capping near-term upside. Click here to read my most recent analysis.",
+          "fuente": "SeekingAlpha",
+          "fecha": "27 Jul 2026 13:45 UTC",
+          "url": "https://finnhub.io/api/news?id=58c5b6c8498ec1197c34784f933f3bf2b34b1865474dbf7396d259a55951447d",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2287141874/image_2287141874.jpg?io=getty-c-w1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ARGX",
+          "titulo": "argenx SE (ARGX) M&A Call Transcript",
+          "resumen": "argenx SE (ARGX) M&A Call July 27, 2026 8:00 AM EDTCompany ParticipantsKaren Massey - CEO & Executive DirectorArjen Lemmen - Vice President of...",
+          "fuente": "SeekingAlpha",
+          "fecha": "27 Jul 2026 12:38 UTC",
+          "url": "https://finnhub.io/api/news?id=b5cf0b84be93208e66d15a723817b6f2ca8b9648971d295b2459dae4495a8a81",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         },
         {
           "ticker": "ARGX",
-          "titulo": "RBC Capital Maintains Outperform on argenx, Raises Price Target to $1025",
-          "resumen": "RBC Capital  analyst Luca Issi   maintains argenx (NASDAQ:ARGX) with a Outperform and raises the price target from $945 to $1025.",
+          "titulo": "Crude Oil Falls Sharply; US Durable Goods Orders Increase 0.3% In June",
+          "resumen": "US stocks mixed in midday trading, Nasdaq falls 0.48%, Dow up 0.19%, S&amp;P 500 down 0.23%. Consumer staples up 2%, tech down 1.9%. Durable goods orders rise 0.3%.",
           "fuente": "Benzinga",
-          "fecha": "24 Jul 2026 11:55 UTC",
-          "url": "https://finnhub.io/api/news?id=af4ddc553c1df1637989b09545abcab52c69d6fc942432e87217141fd5cca3ac",
-          "imagen": "",
+          "fecha": "27 Jul 2026 12:22 UTC",
+          "url": "https://finnhub.io/api/news?id=be329c230aec84143b1d2aa381d82fcb759d8e652af1f0775258069a7a089820",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/27/Oil-Trend-Up--Crude-Oil-Price-Stock-Exch.jpg?width=2048&height=1536",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
+        },
+        {
+          "ticker": "ARGX",
+          "titulo": "Argenx Secures Promising Autoimmune Drug In Forte Biosciences Takeover",
+          "resumen": "Argenx is acquiring Forte Biosciences in a $2.2 billion all-cash deal. The $77 per share buyout expands its autoimmune drug portfolio.",
+          "fuente": "Benzinga",
+          "fecha": "27 Jul 2026 12:16 UTC",
+          "url": "https://finnhub.io/api/news?id=236e00c9bf1114674118c4c0576832b5bc40242643849ac2307a55c2dbf06c1c",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/27/Business-Mergers-And-Acquisitions-Concep.jpg?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ARGX",
+          "titulo": "argenx To Acquire Forte Biosciences: What Investors Should Know",
+          "resumen": "argenx SEâs $2.2B Forte Biosciences, Inc. deal adds FB-102 to expand pipeline, but valuation & Vyvgart patent risks raise caution. Click for more on ARGX and FRBX.",
+          "fuente": "SeekingAlpha",
+          "fecha": "27 Jul 2026 11:43 UTC",
+          "url": "https://finnhub.io/api/news?id=df1d102ce61593d13638efbd5fef9c8acd5734d376ebca189772b561e4ec914a",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1322052248/image_1322052248.jpg?io=getty-c-w1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
         }
       ],
-      "nivel": "azul",
-      "total": 2
+      "nivel": "rojo",
+      "total": 5
     },
     "DYN": {
       "nombre": "DYN",
@@ -64,25 +100,50 @@
       "noticias": [
         {
           "ticker": "VRTX",
-          "titulo": "Vortex Energy Corp. Announces Marketing Program",
-          "resumen": "VANCOUVER, British Columbia, July 24, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) announces that it has engaged MCS Market Communication Service GmbH (“MCS”) (address: Rheinpromenade 13, 0789 Monheim am Rhein; email: info@mcsmarket.de)",
+          "titulo": "Vertex Gears Up to Report Q2 Earnings: What Can Investors Expect?",
+          "resumen": "VRTX heads into its Q2 earnings release with Trikafta, Alyftrek, Casgevy and Journavx in focus as investors watch product sales and updates on ongoing pipeline studies.",
           "fuente": "Yahoo",
-          "fecha": "24 Jul 2026 21:00 UTC",
-          "url": "https://finnhub.io/api/news?id=61caf6cd2d1aa2c47d5b115b8acad8415f768278eafa34f312a4ded1833d3fa7",
+          "fecha": "27 Jul 2026 15:32 UTC",
+          "url": "https://finnhub.io/api/news?id=907644a0468d61ac054182ce249d9a1ef85614834d4d246abe2d6b7ed023a0a1",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex Pharmaceuticals (VRTX) Earnings Expected to Grow: Should You Buy?",
+          "resumen": "Vertex (VRTX) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+          "fuente": "Yahoo",
+          "fecha": "27 Jul 2026 14:00 UTC",
+          "url": "https://finnhub.io/api/news?id=75ff07118ffa82f1c08f586e8d6232740ba903a6eddbecfca1b3be71d8f36219",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
         }
       ],
-      "nivel": "azul",
-      "total": 1
+      "nivel": "rojo",
+      "total": 2
     },
     "ALNY": {
       "nombre": "ALNY",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "CRISPR Therapeutics AG (CRSP) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
+          "resumen": "CRISPR Therapeutics (CRSP) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+          "fuente": "Yahoo",
+          "fecha": "27 Jul 2026 14:00 UTC",
+          "url": "https://finnhub.io/api/news?id=c05a0dcbedf713ac436b9428b096f55c207ce06300bbea30c8f457b6e485f4bb",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "BEAM": {
       "nombre": "BEAM",
@@ -146,44 +207,104 @@
     }
   },
   "resumen": {
-    "total_noticias": 3,
-    "tickers_con_noticias": 2,
-    "alertas_urgentes": 0,
-    "sin_noticias": 15
+    "total_noticias": 8,
+    "tickers_con_noticias": 3,
+    "alertas_urgentes": 3,
+    "sin_noticias": 14
   },
   "todas_noticias": [
     {
       "ticker": "ARGX",
-      "titulo": "RBC Capital Maintains Outperform on argenx, Raises Price Target to $1025",
-      "resumen": "RBC Capital  analyst Luca Issi   maintains argenx (NASDAQ:ARGX) with a Outperform and raises the price target from $945 to $1025.",
+      "titulo": "argenx To Acquire Forte Biosciences: What Investors Should Know",
+      "resumen": "argenx SEâs $2.2B Forte Biosciences, Inc. deal adds FB-102 to expand pipeline, but valuation & Vyvgart patent risks raise caution. Click for more on ARGX and FRBX.",
+      "fuente": "SeekingAlpha",
+      "fecha": "27 Jul 2026 11:43 UTC",
+      "url": "https://finnhub.io/api/news?id=df1d102ce61593d13638efbd5fef9c8acd5734d376ebca189772b561e4ec914a",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1322052248/image_1322052248.jpg?io=getty-c-w1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "Argenx Secures Promising Autoimmune Drug In Forte Biosciences Takeover",
+      "resumen": "Argenx is acquiring Forte Biosciences in a $2.2 billion all-cash deal. The $77 per share buyout expands its autoimmune drug portfolio.",
       "fuente": "Benzinga",
-      "fecha": "24 Jul 2026 11:55 UTC",
-      "url": "https://finnhub.io/api/news?id=af4ddc553c1df1637989b09545abcab52c69d6fc942432e87217141fd5cca3ac",
-      "imagen": "",
+      "fecha": "27 Jul 2026 12:16 UTC",
+      "url": "https://finnhub.io/api/news?id=236e00c9bf1114674118c4c0576832b5bc40242643849ac2307a55c2dbf06c1c",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/27/Business-Mergers-And-Acquisitions-Concep.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "Forte: 'Hold' On Positive FB102 Vitiligo Treatment Data And argenx Acquisition For $2.2 Billion",
+      "resumen": "Forte Biosciences is being acquired by Argenx for $2.2 billion [$77/share], capping near-term upside. Click here to read my most recent analysis.",
+      "fuente": "SeekingAlpha",
+      "fecha": "27 Jul 2026 13:45 UTC",
+      "url": "https://finnhub.io/api/news?id=58c5b6c8498ec1197c34784f933f3bf2b34b1865474dbf7396d259a55951447d",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2287141874/image_2287141874.jpg?io=getty-c-w1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals (VRTX) Earnings Expected to Grow: Should You Buy?",
+      "resumen": "Vertex (VRTX) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+      "fuente": "Yahoo",
+      "fecha": "27 Jul 2026 14:00 UTC",
+      "url": "https://finnhub.io/api/news?id=75ff07118ffa82f1c08f586e8d6232740ba903a6eddbecfca1b3be71d8f36219",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "CRISPR Therapeutics AG (CRSP) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
+      "resumen": "CRISPR Therapeutics (CRSP) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+      "fuente": "Yahoo",
+      "fecha": "27 Jul 2026 14:00 UTC",
+      "url": "https://finnhub.io/api/news?id=c05a0dcbedf713ac436b9428b096f55c207ce06300bbea30c8f457b6e485f4bb",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Gears Up to Report Q2 Earnings: What Can Investors Expect?",
+      "resumen": "VRTX heads into its Q2 earnings release with Trikafta, Alyftrek, Casgevy and Journavx in focus as investors watch product sales and updates on ongoing pipeline studies.",
+      "fuente": "Yahoo",
+      "fecha": "27 Jul 2026 15:32 UTC",
+      "url": "https://finnhub.io/api/news?id=907644a0468d61ac054182ce249d9a1ef85614834d4d246abe2d6b7ed023a0a1",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "Crude Oil Falls Sharply; US Durable Goods Orders Increase 0.3% In June",
+      "resumen": "US stocks mixed in midday trading, Nasdaq falls 0.48%, Dow up 0.19%, S&amp;P 500 down 0.23%. Consumer staples up 2%, tech down 1.9%. Durable goods orders rise 0.3%.",
+      "fuente": "Benzinga",
+      "fecha": "27 Jul 2026 12:22 UTC",
+      "url": "https://finnhub.io/api/news?id=be329c230aec84143b1d2aa381d82fcb759d8e652af1f0775258069a7a089820",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/27/Oil-Trend-Up--Crude-Oil-Price-Stock-Exch.jpg?width=2048&height=1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
     },
     {
       "ticker": "ARGX",
-      "titulo": "Oppenheimer Maintains Outperform on argenx, Raises Price Target to $1037",
-      "resumen": "Oppenheimer  analyst Leland Gershell   maintains argenx (NASDAQ:ARGX) with a Outperform and raises the price target from $1014 to $1037.",
-      "fuente": "Benzinga",
-      "fecha": "24 Jul 2026 14:54 UTC",
-      "url": "https://finnhub.io/api/news?id=69c9e9883d5e416fe179d30c044a1eb6ceeae76a8cad475c0353cedc2a6be3d6",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vortex Energy Corp. Announces Marketing Program",
-      "resumen": "VANCOUVER, British Columbia, July 24, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) announces that it has engaged MCS Market Communication Service GmbH (“MCS”) (address: Rheinpromenade 13, 0789 Monheim am Rhein; email: info@mcsmarket.de)",
-      "fuente": "Yahoo",
-      "fecha": "24 Jul 2026 21:00 UTC",
-      "url": "https://finnhub.io/api/news?id=61caf6cd2d1aa2c47d5b115b8acad8415f768278eafa34f312a4ded1833d3fa7",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "titulo": "argenx SE (ARGX) M&A Call Transcript",
+      "resumen": "argenx SE (ARGX) M&A Call July 27, 2026 8:00 AM EDTCompany ParticipantsKaren Massey - CEO & Executive DirectorArjen Lemmen - Vice President of...",
+      "fuente": "SeekingAlpha",
+      "fecha": "27 Jul 2026 12:38 UTC",
+      "url": "https://finnhub.io/api/news?id=b5cf0b84be93208e66d15a723817b6f2ca8b9648971d295b2459dae4495a8a81",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

@@ -1,8 +1,8 @@
 {
-  "generado": "28/07/2026 09:44 UTC",
+  "generado": "29/07/2026 09:47 UTC",
   "plazo_horas": 72,
-  "desde": "2026-07-25",
-  "hasta": "2026-07-28",
+  "desde": "2026-07-26",
+  "hasta": "2026-07-29",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -13,6 +13,30 @@
     "ARGX": {
       "nombre": "ARGX",
       "noticias": [
+        {
+          "ticker": "ARGX",
+          "titulo": "argenx: Upgrading To Buy, The VYVGART Growth Cycle Has Further To Go",
+          "resumen": "Upgrade argenx (ARGX) to Buy with a $1,050 target: VYVGART growth, label expansion, strong margins & pipeline upside. See more details here.",
+          "fuente": "SeekingAlpha",
+          "fecha": "28 Jul 2026 21:03 UTC",
+          "url": "https://finnhub.io/api/news?id=08e468e930a656cdbb45608bdb95938c33376f53b3429a40e03b0c9bf651fd02",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1412857430/image_1412857430.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ARGX",
+          "titulo": "Wedbush Maintains Outperform on argenx, Raises Price Target to $1050",
+          "resumen": "Wedbush  analyst David Nierengarten   maintains argenx (NASDAQ:ARGX) with a Outperform and raises the price target from $1000 to $1050.",
+          "fuente": "Benzinga",
+          "fecha": "28 Jul 2026 08:54 UTC",
+          "url": "https://finnhub.io/api/news?id=22e2115e48da19af9cf44ed19a04fc06fb791c53f10aa9d0c67b615659fb7c14",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "ARGX",
           "titulo": "Forte: 'Hold' On Positive FB102 Vitiligo Treatment Data And argenx Acquisition For $2.2 Billion",
@@ -48,30 +72,6 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "Argenx Secures Promising Autoimmune Drug In Forte Biosciences Takeover",
-          "resumen": "Argenx is acquiring Forte Biosciences in a $2.2 billion all-cash deal. The $77 per share buyout expands its autoimmune drug portfolio.",
-          "fuente": "Benzinga",
-          "fecha": "27 Jul 2026 12:16 UTC",
-          "url": "https://finnhub.io/api/news?id=236e00c9bf1114674118c4c0576832b5bc40242643849ac2307a55c2dbf06c1c",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/27/Business-Mergers-And-Acquisitions-Concep.jpg?width=2048&height=1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "argenx To Acquire Forte Biosciences: What Investors Should Know",
-          "resumen": "argenx SEâs $2.2B Forte Biosciences, Inc. deal adds FB-102 to expand pipeline, but valuation & Vyvgart patent risks raise caution. Click for more on ARGX and FRBX.",
-          "fuente": "SeekingAlpha",
-          "fecha": "27 Jul 2026 11:43 UTC",
-          "url": "https://finnhub.io/api/news?id=df1d102ce61593d13638efbd5fef9c8acd5734d376ebca189772b561e4ec914a",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1322052248/image_1322052248.jpg?io=getty-c-w1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
@@ -100,6 +100,54 @@
       "noticias": [
         {
           "ticker": "VRTX",
+          "titulo": "Vertex Pharmaceuticals (VRTX) Exceeds Market Returns: Some Facts to Consider",
+          "resumen": "Vertex Pharmaceuticals (VRTX) closed the most recent trading day at $490.39, moving +2.38% from the previous trading session.",
+          "fuente": "Yahoo",
+          "fecha": "28 Jul 2026 21:50 UTC",
+          "url": "https://finnhub.io/api/news?id=7172b274a14c0e365b0221f98cf8730f87f861736eeece3e6e1d313c5bc1f022",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Analysts Estimate Gilead Sciences (GILD) to Report a Decline in Earnings: What to Look Out for",
+          "resumen": "Gilead (GILD) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+          "fuente": "Yahoo",
+          "fecha": "28 Jul 2026 14:00 UTC",
+          "url": "https://finnhub.io/api/news?id=7f74e4b608d0430ce273cd33af9179a12f910b9aa7dd3269cbb77c4b0b1085f6",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex Pharmaceuticals Incorporated (VRTX) is Attracting Investor Attention: Here is What You Should Know",
+          "resumen": "Vertex (VRTX) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+          "fuente": "Yahoo",
+          "fecha": "28 Jul 2026 13:00 UTC",
+          "url": "https://finnhub.io/api/news?id=b7dde44202e682107701df8a3cf25cac7d7d55413e6642c4ec20852be2744635",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Chris Young, Vertex CEO: A Fortt Knox Conversation",
+          "resumen": "Vertex CEO Chris Young told Jon Fortt tax compliance is being remade by AI, e-invoicing mandates and agentic commerce – but tax has to stay deterministic, so AI wraps the engines rather than replacing them. He's targeting $60–70M in savings to fund that shift. Young grew up working class on Clevelan",
+          "fuente": "CNBC",
+          "fecha": "28 Jul 2026 10:20 UTC",
+          "url": "https://finnhub.io/api/news?id=85487e655fb89144a8a6f022c19cdb5c978e7d32417f8c31520957270297579f",
+          "imagen": "https://image.cnbcfm.com/api/v1/image/108340810-260727-Chris_Young__Vertex_CEO.jpg?v=1785190743&w=1920&h=1080",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
           "titulo": "Vertex Gears Up to Report Q2 Earnings: What Can Investors Expect?",
           "resumen": "VRTX heads into its Q2 earnings release with Trikafta, Alyftrek, Casgevy and Journavx in focus as investors watch product sales and updates on ongoing pipeline studies.",
           "fuente": "Yahoo",
@@ -109,26 +157,38 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals (VRTX) Earnings Expected to Grow: Should You Buy?",
-          "resumen": "Vertex (VRTX) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-          "fuente": "Yahoo",
-          "fecha": "27 Jul 2026 14:00 UTC",
-          "url": "https://finnhub.io/api/news?id=75ff07118ffa82f1c08f586e8d6232740ba903a6eddbecfca1b3be71d8f36219",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 5
     },
     "ALNY": {
       "nombre": "ALNY",
       "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "Unlocking Q2 Potential of Alnylam (ALNY): Exploring Wall Street Estimates for Key Metrics",
+          "resumen": "Beyond analysts' top-and-bottom-line estimates for Alnylam (ALNY), evaluate projections for some of its key metrics to gain a better insight into how the business might have performed for the quarter ended June 2026.",
+          "fuente": "Yahoo",
+          "fecha": "28 Jul 2026 13:15 UTC",
+          "url": "https://finnhub.io/api/news?id=741baff667df3847d6f0c20f7d23cfcea33cd204bcd72a9626d6cabb7671ea73",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Why Alnylam’s Best Quarter Ever Didn’t Come With a Richer Valuation",
+          "resumen": "2026 has marked a significant turning point in biotech capital markets, not just a small comeback. Venture funding for biotech startups reached $9.1 billion in the first half of the year, the highest first-half total since 2022, while 13 biotech IPOs raised a combined $4.5 billion, with a median hau",
+          "fuente": "Yahoo",
+          "fecha": "28 Jul 2026 08:16 UTC",
+          "url": "https://finnhub.io/api/news?id=483d592b044f62ae9c1165f88a541148161cbc6cb5959b7b03655cc145a48e24",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "ALNY",
           "titulo": "CRISPR Therapeutics AG (CRSP) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
@@ -143,7 +203,7 @@
         }
       ],
       "nivel": "rojo",
-      "total": 1
+      "total": 3
     },
     "BEAM": {
       "nombre": "BEAM",
@@ -207,36 +267,12 @@
     }
   },
   "resumen": {
-    "total_noticias": 8,
+    "total_noticias": 13,
     "tickers_con_noticias": 3,
     "alertas_urgentes": 3,
     "sin_noticias": 14
   },
   "todas_noticias": [
-    {
-      "ticker": "ARGX",
-      "titulo": "argenx To Acquire Forte Biosciences: What Investors Should Know",
-      "resumen": "argenx SEâs $2.2B Forte Biosciences, Inc. deal adds FB-102 to expand pipeline, but valuation & Vyvgart patent risks raise caution. Click for more on ARGX and FRBX.",
-      "fuente": "SeekingAlpha",
-      "fecha": "27 Jul 2026 11:43 UTC",
-      "url": "https://finnhub.io/api/news?id=df1d102ce61593d13638efbd5fef9c8acd5734d376ebca189772b561e4ec914a",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1322052248/image_1322052248.jpg?io=getty-c-w1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "Argenx Secures Promising Autoimmune Drug In Forte Biosciences Takeover",
-      "resumen": "Argenx is acquiring Forte Biosciences in a $2.2 billion all-cash deal. The $77 per share buyout expands its autoimmune drug portfolio.",
-      "fuente": "Benzinga",
-      "fecha": "27 Jul 2026 12:16 UTC",
-      "url": "https://finnhub.io/api/news?id=236e00c9bf1114674118c4c0576832b5bc40242643849ac2307a55c2dbf06c1c",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/27/Business-Mergers-And-Acquisitions-Concep.jpg?width=2048&height=1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "ARGX",
       "titulo": "Forte: 'Hold' On Positive FB102 Vitiligo Treatment Data And argenx Acquisition For $2.2 Billion",
@@ -245,18 +281,6 @@
       "fecha": "27 Jul 2026 13:45 UTC",
       "url": "https://finnhub.io/api/news?id=58c5b6c8498ec1197c34784f933f3bf2b34b1865474dbf7396d259a55951447d",
       "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2287141874/image_2287141874.jpg?io=getty-c-w1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals (VRTX) Earnings Expected to Grow: Should You Buy?",
-      "resumen": "Vertex (VRTX) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-      "fuente": "Yahoo",
-      "fecha": "27 Jul 2026 14:00 UTC",
-      "url": "https://finnhub.io/api/news?id=75ff07118ffa82f1c08f586e8d6232740ba903a6eddbecfca1b3be71d8f36219",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
@@ -286,6 +310,30 @@
       "badge": "🔴"
     },
     {
+      "ticker": "VRTX",
+      "titulo": "Chris Young, Vertex CEO: A Fortt Knox Conversation",
+      "resumen": "Vertex CEO Chris Young told Jon Fortt tax compliance is being remade by AI, e-invoicing mandates and agentic commerce – but tax has to stay deterministic, so AI wraps the engines rather than replacing them. He's targeting $60–70M in savings to fund that shift. Young grew up working class on Clevelan",
+      "fuente": "CNBC",
+      "fecha": "28 Jul 2026 10:20 UTC",
+      "url": "https://finnhub.io/api/news?id=85487e655fb89144a8a6f022c19cdb5c978e7d32417f8c31520957270297579f",
+      "imagen": "https://image.cnbcfm.com/api/v1/image/108340810-260727-Chris_Young__Vertex_CEO.jpg?v=1785190743&w=1920&h=1080",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Analysts Estimate Gilead Sciences (GILD) to Report a Decline in Earnings: What to Look Out for",
+      "resumen": "Gilead (GILD) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+      "fuente": "Yahoo",
+      "fecha": "28 Jul 2026 14:00 UTC",
+      "url": "https://finnhub.io/api/news?id=7f74e4b608d0430ce273cd33af9179a12f910b9aa7dd3269cbb77c4b0b1085f6",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
       "ticker": "ARGX",
       "titulo": "Crude Oil Falls Sharply; US Durable Goods Orders Increase 0.3% In June",
       "resumen": "US stocks mixed in midday trading, Nasdaq falls 0.48%, Dow up 0.19%, S&amp;P 500 down 0.23%. Consumer staples up 2%, tech down 1.9%. Durable goods orders rise 0.3%.",
@@ -305,6 +353,78 @@
       "fecha": "27 Jul 2026 12:38 UTC",
       "url": "https://finnhub.io/api/news?id=b5cf0b84be93208e66d15a723817b6f2ca8b9648971d295b2459dae4495a8a81",
       "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Why Alnylam’s Best Quarter Ever Didn’t Come With a Richer Valuation",
+      "resumen": "2026 has marked a significant turning point in biotech capital markets, not just a small comeback. Venture funding for biotech startups reached $9.1 billion in the first half of the year, the highest first-half total since 2022, while 13 biotech IPOs raised a combined $4.5 billion, with a median hau",
+      "fuente": "Yahoo",
+      "fecha": "28 Jul 2026 08:16 UTC",
+      "url": "https://finnhub.io/api/news?id=483d592b044f62ae9c1165f88a541148161cbc6cb5959b7b03655cc145a48e24",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "Wedbush Maintains Outperform on argenx, Raises Price Target to $1050",
+      "resumen": "Wedbush  analyst David Nierengarten   maintains argenx (NASDAQ:ARGX) with a Outperform and raises the price target from $1000 to $1050.",
+      "fuente": "Benzinga",
+      "fecha": "28 Jul 2026 08:54 UTC",
+      "url": "https://finnhub.io/api/news?id=22e2115e48da19af9cf44ed19a04fc06fb791c53f10aa9d0c67b615659fb7c14",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals Incorporated (VRTX) is Attracting Investor Attention: Here is What You Should Know",
+      "resumen": "Vertex (VRTX) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+      "fuente": "Yahoo",
+      "fecha": "28 Jul 2026 13:00 UTC",
+      "url": "https://finnhub.io/api/news?id=b7dde44202e682107701df8a3cf25cac7d7d55413e6642c4ec20852be2744635",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Unlocking Q2 Potential of Alnylam (ALNY): Exploring Wall Street Estimates for Key Metrics",
+      "resumen": "Beyond analysts' top-and-bottom-line estimates for Alnylam (ALNY), evaluate projections for some of its key metrics to gain a better insight into how the business might have performed for the quarter ended June 2026.",
+      "fuente": "Yahoo",
+      "fecha": "28 Jul 2026 13:15 UTC",
+      "url": "https://finnhub.io/api/news?id=741baff667df3847d6f0c20f7d23cfcea33cd204bcd72a9626d6cabb7671ea73",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "argenx: Upgrading To Buy, The VYVGART Growth Cycle Has Further To Go",
+      "resumen": "Upgrade argenx (ARGX) to Buy with a $1,050 target: VYVGART growth, label expansion, strong margins & pipeline upside. See more details here.",
+      "fuente": "SeekingAlpha",
+      "fecha": "28 Jul 2026 21:03 UTC",
+      "url": "https://finnhub.io/api/news?id=08e468e930a656cdbb45608bdb95938c33376f53b3429a40e03b0c9bf651fd02",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1412857430/image_1412857430.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals (VRTX) Exceeds Market Returns: Some Facts to Consider",
+      "resumen": "Vertex Pharmaceuticals (VRTX) closed the most recent trading day at $490.39, moving +2.38% from the previous trading session.",
+      "fuente": "Yahoo",
+      "fecha": "28 Jul 2026 21:50 UTC",
+      "url": "https://finnhub.io/api/news?id=7172b274a14c0e365b0221f98cf8730f87f861736eeece3e6e1d313c5bc1f022",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

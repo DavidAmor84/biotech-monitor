@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "28/07/2026 09:36",
+  "generado": "29/07/2026 09:37",
   "periodo_dias": 7,
-  "desde": "2026-07-21",
-  "hasta": "2026-07-28",
+  "desde": "2026-07-22",
+  "hasta": "2026-07-29",
   "resumen": {
     "total_filings": 8,
-    "alertas_rojas": 2,
-    "alertas_verdes": 0,
+    "alertas_rojas": 1,
+    "alertas_verdes": 1,
     "alertas_amarillas": 3,
     "alertas_azules": 3,
-    "sin_novedad": 12
+    "sin_novedad": 11
   },
   "tickers": {
     "SNDX": {
@@ -85,25 +85,6 @@
           },
           "10q_detail": null,
           "prospecto_detail": null
-        },
-        {
-          "form": "424B5",
-          "fecha": "2026-07-21",
-          "nivel": "rojo",
-          "badge": "🔴 ALTA",
-          "resumen": "ATM (At-The-Market)",
-          "detalle": "424B5",
-          "empresa_sec": "Dyne Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526310573/d98164d424b5.htm",
-          "form4_detail": null,
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": {
-            "importe_mm": null,
-            "tipo_oferta": "ATM (At-The-Market)",
-            "riesgo_dilucion": null,
-            "resumen_oferta": "ATM (At-The-Market)"
-          }
         }
       ],
       "nivel": "rojo",
@@ -116,9 +97,34 @@
       "cik": "0001714899",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "8-K",
+          "fecha": "2026-07-28",
+          "nivel": "verde",
+          "badge": "🟢 ALTA",
+          "resumen": "8-K — Evento positivo potencial: Asset purchase / venta de activo [Items: 2.01, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "Denali Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000086/dnli-20260727.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "2.01",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 2.01 Completion of Acquisition or Disposition of Assets. On July 27, 2026, Denali Therapeutics Inc. (the Company ) completed the previously disclosed sale (the Sale ) of its Rare Pediatric Disease Priority Review Voucher (the PRV ) to a large pharmaceutical company. The Company received the PRV when AVLAYAHTM (tividenofusp alfa) was approved by the U.S. Food and Drug Administration for the treatment of Hunter syndrome (mucopolysaccharidosis type II; MPS II) in March 2026. The Sale was completed pursuant to the terms of an asset purchase agreement, dated June 12, 2026 (the PRV Transfer Agreement ). Pursuant to the PRV Transfer Agreement, the Company received gross proceeds of $195.0 million from the buyer upon the closing of the Sale. The foregoing description of the PRV Transfer Agreement does not purport to be complete and is qualified in its entirety by the full text of the PRV Transfer Agreement, which will be filed as an exhibit to a subsequent filing with the Securities and Exchange Commission. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 104 Cover Page Interactive Data File (formatted as Inline XBRL) SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. DENALI THERAPEUTICS INC. Date: July 27, 2025 By: /s/ Alexander O. Schuth Alexander O. Schuth, M.D. Chief Operating and Financial Officer",
+            "nivel_ajustado": "verde",
+            "badge_ajustado": "🟢 ALTA",
+            "resumen_ajustado": "8-K — Evento positivo potencial: Asset purchase / venta de activo"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "verde",
+      "badge": "🟢",
       "error": null
     },
     "VKTX": {
@@ -408,6 +414,32 @@
   },
   "alertas_criticas": [
     {
+      "ticker": "DNLI",
+      "nombre": "Denali Therapeutics Inc.",
+      "form": "8-K",
+      "fecha": "2026-07-28",
+      "nivel": "verde",
+      "badge": "🟢 ALTA",
+      "resumen": "8-K — Evento positivo potencial: Asset purchase / venta de activo [Items: 2.01, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Denali Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000086/dnli-20260727.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "2.01",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 2.01 Completion of Acquisition or Disposition of Assets. On July 27, 2026, Denali Therapeutics Inc. (the Company ) completed the previously disclosed sale (the Sale ) of its Rare Pediatric Disease Priority Review Voucher (the PRV ) to a large pharmaceutical company. The Company received the PRV when AVLAYAHTM (tividenofusp alfa) was approved by the U.S. Food and Drug Administration for the treatment of Hunter syndrome (mucopolysaccharidosis type II; MPS II) in March 2026. The Sale was completed pursuant to the terms of an asset purchase agreement, dated June 12, 2026 (the PRV Transfer Agreement ). Pursuant to the PRV Transfer Agreement, the Company received gross proceeds of $195.0 million from the buyer upon the closing of the Sale. The foregoing description of the PRV Transfer Agreement does not purport to be complete and is qualified in its entirety by the full text of the PRV Transfer Agreement, which will be filed as an exhibit to a subsequent filing with the Securities and Exchange Commission. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 104 Cover Page Interactive Data File (formatted as Inline XBRL) SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. DENALI THERAPEUTICS INC. Date: July 27, 2025 By: /s/ Alexander O. Schuth Alexander O. Schuth, M.D. Chief Operating and Financial Officer",
+        "nivel_ajustado": "verde",
+        "badge_ajustado": "🟢 ALTA",
+        "resumen_ajustado": "8-K — Evento positivo potencial: Asset purchase / venta de activo"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
       "ticker": "DYN",
       "nombre": "Dyne Therapeutics, Inc.",
       "form": "424B5",
@@ -427,30 +459,35 @@
         "riesgo_dilucion": "🟢 BAJO",
         "resumen_oferta": "ATM (At-The-Market) · $20.5M · Dilución 🟢 BAJO"
       }
-    },
-    {
-      "ticker": "DYN",
-      "nombre": "Dyne Therapeutics, Inc.",
-      "form": "424B5",
-      "fecha": "2026-07-21",
-      "nivel": "rojo",
-      "badge": "🔴 ALTA",
-      "resumen": "ATM (At-The-Market)",
-      "detalle": "424B5",
-      "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526310573/d98164d424b5.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": {
-        "importe_mm": null,
-        "tipo_oferta": "ATM (At-The-Market)",
-        "riesgo_dilucion": null,
-        "resumen_oferta": "ATM (At-The-Market)"
-      }
     }
   ],
   "todos_filings": [
+    {
+      "ticker": "DNLI",
+      "nombre": "Denali Therapeutics Inc.",
+      "form": "8-K",
+      "fecha": "2026-07-28",
+      "nivel": "verde",
+      "badge": "🟢 ALTA",
+      "resumen": "8-K — Evento positivo potencial: Asset purchase / venta de activo [Items: 2.01, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Denali Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000086/dnli-20260727.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "2.01",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 2.01 Completion of Acquisition or Disposition of Assets. On July 27, 2026, Denali Therapeutics Inc. (the Company ) completed the previously disclosed sale (the Sale ) of its Rare Pediatric Disease Priority Review Voucher (the PRV ) to a large pharmaceutical company. The Company received the PRV when AVLAYAHTM (tividenofusp alfa) was approved by the U.S. Food and Drug Administration for the treatment of Hunter syndrome (mucopolysaccharidosis type II; MPS II) in March 2026. The Sale was completed pursuant to the terms of an asset purchase agreement, dated June 12, 2026 (the PRV Transfer Agreement ). Pursuant to the PRV Transfer Agreement, the Company received gross proceeds of $195.0 million from the buyer upon the closing of the Sale. The foregoing description of the PRV Transfer Agreement does not purport to be complete and is qualified in its entirety by the full text of the PRV Transfer Agreement, which will be filed as an exhibit to a subsequent filing with the Securities and Exchange Commission. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 104 Cover Page Interactive Data File (formatted as Inline XBRL) SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. DENALI THERAPEUTICS INC. Date: July 27, 2025 By: /s/ Alexander O. Schuth Alexander O. Schuth, M.D. Chief Operating and Financial Officer",
+        "nivel_ajustado": "verde",
+        "badge_ajustado": "🟢 ALTA",
+        "resumen_ajustado": "8-K — Evento positivo potencial: Asset purchase / venta de activo"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "GPCR",
       "nombre": "Structure Therapeutics Inc.",
@@ -638,27 +675,6 @@
       },
       "10q_detail": null,
       "prospecto_detail": null
-    },
-    {
-      "ticker": "DYN",
-      "nombre": "Dyne Therapeutics, Inc.",
-      "form": "424B5",
-      "fecha": "2026-07-21",
-      "nivel": "rojo",
-      "badge": "🔴 ALTA",
-      "resumen": "ATM (At-The-Market)",
-      "detalle": "424B5",
-      "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526310573/d98164d424b5.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": {
-        "importe_mm": null,
-        "tipo_oferta": "ATM (At-The-Market)",
-        "riesgo_dilucion": null,
-        "resumen_oferta": "ATM (At-The-Market)"
-      }
     }
   ],
   "clinicaltrials": {
@@ -730,7 +746,7 @@
         "nivel": "verde",
         "badge": "🟢",
         "enrollment": 150,
-        "ultima_actualizacion": "2026-07-23",
+        "ultima_actualizacion": "2026-07-28",
         "fecha_completion_primaria": "2028-07",
         "changed": true,
         "url": "https://clinicaltrials.gov/study/NCT07486934"

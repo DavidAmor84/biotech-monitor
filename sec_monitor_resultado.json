@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "29/07/2026 09:37",
+  "generado": "30/07/2026 09:30",
   "periodo_dias": 7,
-  "desde": "2026-07-22",
-  "hasta": "2026-07-29",
+  "desde": "2026-07-23",
+  "hasta": "2026-07-30",
   "resumen": {
-    "total_filings": 8,
+    "total_filings": 15,
     "alertas_rojas": 1,
     "alertas_verdes": 1,
-    "alertas_amarillas": 3,
-    "alertas_azules": 3,
-    "sin_novedad": 11
+    "alertas_amarillas": 5,
+    "alertas_azules": 8,
+    "sin_novedad": 9
   },
   "tickers": {
     "SNDX": {
@@ -43,47 +43,78 @@
       "validacion_empresa": "OK",
       "filings": [
         {
-          "form": "424B5",
-          "fecha": "2026-07-22",
-          "nivel": "rojo",
-          "badge": "🔴 ALTA",
-          "resumen": "ATM (At-The-Market) · $20.5M · Dilución 🟢 BAJO",
-          "detalle": "424B5",
-          "empresa_sec": "Dyne Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526312576/d98164d424b5.htm",
-          "form4_detail": null,
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": {
-            "importe_mm": 20.5,
-            "tipo_oferta": "ATM (At-The-Market)",
-            "riesgo_dilucion": "🟢 BAJO",
-            "resumen_oferta": "ATM (At-The-Market) · $20.5M · Dilución 🟢 BAJO"
-          }
-        },
-        {
           "form": "8-K",
-          "fecha": "2026-07-22",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "8-K — Posible deuda/obligación financiera; revisar condiciones [Items: 1.01, 8.01, 9.01]",
+          "fecha": "2026-07-29",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
           "detalle": "8-K",
           "empresa_sec": "Dyne Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526312571/d112911d8k.htm",
+          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526323940/dyn-20260729.htm",
           "form4_detail": null,
           "8k_detail": {
             "items_detectados": [
-              "1.01",
-              "8.01",
+              "2.02",
               "9.01"
             ],
             "clasificacion_item": null,
-            "extracto": "Item 1.01. Entry Into a Material Definitive Agreement. On July 21, 2026, Dyne Therapeutics, Inc. (the Company ) entered into an underwriting agreement (the Underwriting Agreement ) with Morgan Stanley &amp; Co. LLC and Jefferies LLC, as representatives of the several underwriters named therein (the Underwriters ), relating to an underwritten public offering (the Offering ) of 18,300,000 shares (the Underwritten Shares ) of the Company s common stock, par value $0.0001 per share (the Common Stock ). All of the Underwritten Shares are being sold by the Company. The public offering price of the Underwritten Shares is $20.50 per share, and the Underwriters have agreed to purchase the Underwritten Shares from the Company pursuant to the Underwriting Agreement at a price of $19.27 per share. Under the terms of the Underwriting Agreement, the Company also granted the Underwriters an option, exercisable for 30 days from the date of the Underwriting Agreement, to purchase up to an additional 2,745,000 shares of Common Stock (the Option Shares and together with the Underwritten Shares, the Shares ) at the public offering price less the underwriting discounts and commissions. The Company estimates that the net proceeds from the Offering will be approximately $352.1 million, or approximately $405.0 million if the Underwriters exercise in full their option to purchase the Option Shares, in each case, after deducting underwriting discounts and commissions and estimated offering expenses. The Shares will be issued pursuant to a prospectus supplement dated July 21, 2026, and an accompanyin",
-            "nivel_ajustado": "amarillo",
-            "badge_ajustado": "🟡 MEDIA",
-            "resumen_ajustado": "8-K — Posible deuda/obligación financiera; revisar condiciones"
+            "extracto": "Item 2.02 Results of Operations and Financial Condition. On July 29, 2026, Dyne Therapeutics, Inc. (the Company ) issued a press release announcing the Company s financial results for the quarter ended June 30, 2026. A copy of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference. The information in this Form 8-K, including Exhibit 99.1 attached hereto, is being furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any filing by the Company under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filling. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 104 Press Release issued by Dyne Therapeutics, Inc. on July 29, 2026 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. DYNE THERAPEUTICS, INC. Date: July 29, 2026 By: /s/ John G. Cox Name: John G. Cox Title: President and Chief Executive Officer",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
           },
           "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
+          "form": "4",
+          "fecha": "2026-07-29",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Kersten Dirk → Venta 256,072 acciones @ $25.50 | Post: 3,592,184 | Rutinaria/RSU/impuestos",
+          "detalle": "4",
+          "empresa_sec": "Dyne Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526323754/xslF345X06/ownership.xml",
+          "form4_detail": {
+            "insider_nombre": "Kersten Dirk",
+            "insider_cargo": null,
+            "transaccion_codigo": "S",
+            "transaccion_tipo": "Venta",
+            "transaccion_acciones": "256072",
+            "transaccion_precio": "25.5024",
+            "transaccion_fecha": "2026-07-27",
+            "acciones_post": "3592184",
+            "footnotes": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted by ForDyne B.V. (\"ForDyne\") on November 11, 2025. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices within the range of $25.00 to $25.995, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range(s) set forth in the footnotes of this Form 4. The shares are held directly by ForDyne. ForDyne is jointly owned by Forbion Capital Fund IV Cooperatief U.A. (\"FCF IV\") and Forbion Growth Opportunities Fund II Cooperatief U.A. (\"FGO II\"). Forbion IV Management B.V. (\"Forbion Management\") may be deemed to have voting and dispositive power over 2,160,426 of the shares of common stock held by ForDyne. Investment decisions with respect to the shares held by ForDyne can be made by FCPM III Services B.V., the director of Forbion Management, which may delegate such powers to its investment committee which may delegate such powers to the authorized representatives of Forbion Management. Messrs. Slootweg, van Osch, Mulder, van Houten, Reithinger and Boorsma (the \"Partners\") are partners of FCPM III Services B.V., which acts as the investment advisor to the directors of ForDyne. The Reporting Person is a partner of Forbion Management and a member of th",
+            "es_rutinaria": true,
+            "resumen_detail": "Kersten Dirk → Venta 256,072 acciones @ $25.50 | Post: 3,592,184 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
+          "form": "10-Q",
+          "fecha": "2026-07-29",
+          "nivel": "rojo",
+          "badge": "🔴 ALTA",
+          "resumen": "Shares: 186.7M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado",
+          "detalle": "10-Q",
+          "empresa_sec": "Dyne Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526323639/dyn-20260630.htm",
+          "form4_detail": null,
+          "8k_detail": null,
+          "10q_detail": {
+            "caja_mm": null,
+            "burn_trimestral_mm": null,
+            "burn_mensual_mm": null,
+            "runway_meses": null,
+            "shares_outstanding_mm": 186.7,
+            "litigios_detectados": true,
+            "shelf_mencionado": true,
+            "going_concern": true,
+            "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 676,114 &#160; &#160; $ 893,369 &#160; Marketable securities &#160; &#160; 222,361 &#160; &#160; &#160; 217,193 &#160; Prepaid expenses and other current assets &#160; &#160; 39,414 &#160; &#160; &#160; 16,025 &#160; Total current assets &#160; &#160; 937,889 &#160",
+            "resumen_10q": "Shares: 186.7M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado"
+          },
           "prospecto_detail": null
         }
       ],
@@ -133,9 +164,137 @@
       "cik": "0001607678",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-07-29",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Lian Brian (President & CEO) → Concesión 221,667 acciones @ $0.00 | Post: 2,720,958 | Rutinaria/RSU/impuestos",
+          "detalle": "4",
+          "empresa_sec": "Viking Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526324448/xslF345X06/ownership.xml",
+          "form4_detail": {
+            "insider_nombre": "Lian Brian",
+            "insider_cargo": "President & CEO",
+            "transaccion_codigo": "A",
+            "transaccion_tipo": "Concesión",
+            "transaccion_acciones": "221667",
+            "transaccion_precio": "0",
+            "transaccion_fecha": "2026-07-28",
+            "acciones_post": "2720958",
+            "footnotes": "The reported securities were subject to a performance restricted stock unit award that was granted on January 3, 2023, 33.33% of which vested on July 28, 2026 upon the achievement of a non-financial performance goal. These shares were automatically sold on a non-discretionary basis solely to satisfy certain tax withholding obligations in connection with the issuance of shares upon the vesting of certain shares of common stock subject to the performance restricted stock unit award described in Footnote 1. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $32.82 to $33.77, inclusive. The Reporting Person  undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in the this footnote.",
+            "es_rutinaria": true,
+            "resumen_detail": "Lian Brian (President & CEO) → Concesión 221,667 acciones @ $0.00 | Post: 2,720,958 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
+          "form": "4",
+          "fecha": "2026-07-29",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "ZANTE GREG (Chief Financial Officer) → Concesión 31,667 acciones @ $0.00 | Post: 233,421 | Rutinaria/RSU/impuestos",
+          "detalle": "4",
+          "empresa_sec": "Viking Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526324447/xslF345X06/ownership.xml",
+          "form4_detail": {
+            "insider_nombre": "ZANTE GREG",
+            "insider_cargo": "Chief Financial Officer",
+            "transaccion_codigo": "A",
+            "transaccion_tipo": "Concesión",
+            "transaccion_acciones": "31667",
+            "transaccion_precio": "0",
+            "transaccion_fecha": "2026-07-28",
+            "acciones_post": "233421",
+            "footnotes": "The reported securities were subject to a performance restricted stock unit award that was granted on January 3, 2023, 33.33% of which vested on July 28, 2026 upon the achievement of a non-financial performance goal. Includes 11,055 shares acquired on May 20, 2024 pursuant to the Issuer's 2014 Employee Stock Purchase Plan and 808 shares acquired on May 20, 2026 pursuant to the Issuer's 2024 Employee Stock Purchase Plan These shares were automatically sold on a non-discretionary basis solely to satisfy certain tax withholding obligations in connection with the issuance of shares upon the vesting of certain shares of common stock subject to the performance restricted stock unit award described in Footnote 1. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $33.30 to $33.805, inclusive. The Reporting Person  undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in the this footnote.",
+            "es_rutinaria": true,
+            "resumen_detail": "ZANTE GREG (Chief Financial Officer) → Concesión 31,667 acciones @ $0.00 | Post: 233,421 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
+          "form": "4",
+          "fecha": "2026-07-29",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Mancini Marianna (Chief Operating Officer) → Concesión 31,667 acciones @ $0.00 | Post: 440,977 | Rutinaria/RSU/impuestos",
+          "detalle": "4",
+          "empresa_sec": "Viking Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526324446/xslF345X06/ownership.xml",
+          "form4_detail": {
+            "insider_nombre": "Mancini Marianna",
+            "insider_cargo": "Chief Operating Officer",
+            "transaccion_codigo": "A",
+            "transaccion_tipo": "Concesión",
+            "transaccion_acciones": "31667",
+            "transaccion_precio": "0",
+            "transaccion_fecha": "2026-07-28",
+            "acciones_post": "440977",
+            "footnotes": "The reported securities were subject to a performance restricted stock unit award that was granted on January 3, 2023, 33.33% of which vested on July 28, 2026 upon the achievement of a non-financial performance goal. Includes 120 shares acquired on May 20, 2026 pursuant to the Issuer's 2024 Employee Stock Purchase Plan. These shares were automatically sold on a non-discretionary basis solely to satisfy certain tax withholding obligations in connection with the issuance of shares upon the vesting of certain shares of common stock subject to the performance restricted stock unit award described in Footnote 1. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $33.28 to $33.805, inclusive. The Reporting Person  undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in the this footnote.",
+            "es_rutinaria": true,
+            "resumen_detail": "Mancini Marianna (Chief Operating Officer) → Concesión 31,667 acciones @ $0.00 | Post: 440,977 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
+          "form": "10-Q",
+          "fecha": "2026-07-29",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "⚖️ Litigios activos · 📋 Shelf mencionado",
+          "detalle": "10-Q",
+          "empresa_sec": "Viking Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526324219/vktx-20260630.htm",
+          "form4_detail": null,
+          "8k_detail": null,
+          "10q_detail": {
+            "caja_mm": null,
+            "burn_trimestral_mm": null,
+            "burn_mensual_mm": null,
+            "runway_meses": null,
+            "shares_outstanding_mm": null,
+            "litigios_detectados": true,
+            "shelf_mencionado": true,
+            "going_concern": false,
+            "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 125,750 &#160; &#160; $ 165,810 &#160; Short-term investments &#8211; available-for-sale &#160; &#160; 375,913 &#160; &#160; &#160; 539,929 &#160; Prepaid clinical trial and preclinical study costs &#160; &#160; 14,960 &#160; &#160; &#160; 8,053 &#160; Prepaid expe",
+            "resumen_10q": "⚖️ Litigios activos · 📋 Shelf mencionado"
+          },
+          "prospecto_detail": null
+        },
+        {
+          "form": "8-K",
+          "fecha": "2026-07-29",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "Viking Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526323652/vktx-20260729.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "2.02",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 2.02 Results of Operations and Financial Condition. On July 29, 2026, we issued a press release reporting our financial results for the second quarter ended June 30, 2026 and providing a corporate update. The full text of the press release is furnished as exhibit 99.1 to this Current Report on Form 8-K and incorporated herein by reference. In accordance with General Instructions B.2 of Form 8-K, the information in Item 2.02 of this Current Report on Form 8-K shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liability of that section, and shall not be incorporated by reference into any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No Description 99.1 Press release issued July 29, 2026, reporting financial results for the second quarter ended June 30, 2026 and providing a corporate update. 104 Cover Page Interactive Data File (embedded with the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Viking Therapeutics, Inc. Date: July 29, 2026 By: /s/ Brian Lian, Ph.D. President and Chief Executive Officer ( Principal Executive Officer )",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "VRTX": {
@@ -219,9 +378,36 @@
       "cik": "0001745999",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-07-29",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Simon Amy (Chief Medical Officer) → Venta 16,667 acciones @ $25.74 | Post: 85,696 | Rutinaria/RSU/impuestos",
+          "detalle": "4",
+          "empresa_sec": "Beam Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526323640/xslF345X06/ownership.xml",
+          "form4_detail": {
+            "insider_nombre": "Simon Amy",
+            "insider_cargo": "Chief Medical Officer",
+            "transaccion_codigo": "S",
+            "transaccion_tipo": "Venta",
+            "transaccion_acciones": "16667",
+            "transaccion_precio": "25.7417",
+            "transaccion_fecha": "2026-07-27",
+            "acciones_post": "85696",
+            "footnotes": "The transactions reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on March 27, 2026. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions ranging from $25.32 to $26.05, inclusive. The Reporting Person undertakes to provide to Beam Therapeutics Inc. (\"BEAM\"), any security holder of BEAM or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range.",
+            "es_rutinaria": true,
+            "resumen_detail": "Simon Amy (Chief Medical Officer) → Venta 16,667 acciones @ $25.74 | Post: 85,696 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "OCUL": {
@@ -414,6 +600,33 @@
   },
   "alertas_criticas": [
     {
+      "ticker": "DYN",
+      "nombre": "Dyne Therapeutics, Inc.",
+      "form": "10-Q",
+      "fecha": "2026-07-29",
+      "nivel": "rojo",
+      "badge": "🔴 ALTA",
+      "resumen": "Shares: 186.7M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado",
+      "detalle": "10-Q",
+      "empresa_sec": "Dyne Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526323639/dyn-20260630.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": {
+        "caja_mm": null,
+        "burn_trimestral_mm": null,
+        "burn_mensual_mm": null,
+        "runway_meses": null,
+        "shares_outstanding_mm": 186.7,
+        "litigios_detectados": true,
+        "shelf_mencionado": true,
+        "going_concern": true,
+        "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 676,114 &#160; &#160; $ 893,369 &#160; Marketable securities &#160; &#160; 222,361 &#160; &#160; &#160; 217,193 &#160; Prepaid expenses and other current assets &#160; &#160; 39,414 &#160; &#160; &#160; 16,025 &#160; Total current assets &#160; &#160; 937,889 &#160",
+        "resumen_10q": "Shares: 186.7M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado"
+      },
+      "prospecto_detail": null
+    },
+    {
       "ticker": "DNLI",
       "nombre": "Denali Therapeutics Inc.",
       "form": "8-K",
@@ -438,30 +651,255 @@
       },
       "10q_detail": null,
       "prospecto_detail": null
+    }
+  ],
+  "todos_filings": [
+    {
+      "ticker": "DYN",
+      "nombre": "Dyne Therapeutics, Inc.",
+      "form": "8-K",
+      "fecha": "2026-07-29",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Dyne Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526323940/dyn-20260729.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "2.02",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 2.02 Results of Operations and Financial Condition. On July 29, 2026, Dyne Therapeutics, Inc. (the Company ) issued a press release announcing the Company s financial results for the quarter ended June 30, 2026. A copy of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference. The information in this Form 8-K, including Exhibit 99.1 attached hereto, is being furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any filing by the Company under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filling. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 104 Press Release issued by Dyne Therapeutics, Inc. on July 29, 2026 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. DYNE THERAPEUTICS, INC. Date: July 29, 2026 By: /s/ John G. Cox Name: John G. Cox Title: President and Chief Executive Officer",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "DYN",
       "nombre": "Dyne Therapeutics, Inc.",
-      "form": "424B5",
-      "fecha": "2026-07-22",
-      "nivel": "rojo",
-      "badge": "🔴 ALTA",
-      "resumen": "ATM (At-The-Market) · $20.5M · Dilución 🟢 BAJO",
-      "detalle": "424B5",
+      "form": "4",
+      "fecha": "2026-07-29",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Kersten Dirk → Venta 256,072 acciones @ $25.50 | Post: 3,592,184 | Rutinaria/RSU/impuestos",
+      "detalle": "4",
       "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526312576/d98164d424b5.htm",
-      "form4_detail": null,
+      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526323754/xslF345X06/ownership.xml",
+      "form4_detail": {
+        "insider_nombre": "Kersten Dirk",
+        "insider_cargo": null,
+        "transaccion_codigo": "S",
+        "transaccion_tipo": "Venta",
+        "transaccion_acciones": "256072",
+        "transaccion_precio": "25.5024",
+        "transaccion_fecha": "2026-07-27",
+        "acciones_post": "3592184",
+        "footnotes": "This transaction was made pursuant to a Rule 10b5-1 trading plan adopted by ForDyne B.V. (\"ForDyne\") on November 11, 2025. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices within the range of $25.00 to $25.995, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range(s) set forth in the footnotes of this Form 4. The shares are held directly by ForDyne. ForDyne is jointly owned by Forbion Capital Fund IV Cooperatief U.A. (\"FCF IV\") and Forbion Growth Opportunities Fund II Cooperatief U.A. (\"FGO II\"). Forbion IV Management B.V. (\"Forbion Management\") may be deemed to have voting and dispositive power over 2,160,426 of the shares of common stock held by ForDyne. Investment decisions with respect to the shares held by ForDyne can be made by FCPM III Services B.V., the director of Forbion Management, which may delegate such powers to its investment committee which may delegate such powers to the authorized representatives of Forbion Management. Messrs. Slootweg, van Osch, Mulder, van Houten, Reithinger and Boorsma (the \"Partners\") are partners of FCPM III Services B.V., which acts as the investment advisor to the directors of ForDyne. The Reporting Person is a partner of Forbion Management and a member of th",
+        "es_rutinaria": true,
+        "resumen_detail": "Kersten Dirk → Venta 256,072 acciones @ $25.50 | Post: 3,592,184 | Rutinaria/RSU/impuestos"
+      },
       "8k_detail": null,
       "10q_detail": null,
-      "prospecto_detail": {
-        "importe_mm": 20.5,
-        "tipo_oferta": "ATM (At-The-Market)",
-        "riesgo_dilucion": "🟢 BAJO",
-        "resumen_oferta": "ATM (At-The-Market) · $20.5M · Dilución 🟢 BAJO"
-      }
-    }
-  ],
-  "todos_filings": [
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "DYN",
+      "nombre": "Dyne Therapeutics, Inc.",
+      "form": "10-Q",
+      "fecha": "2026-07-29",
+      "nivel": "rojo",
+      "badge": "🔴 ALTA",
+      "resumen": "Shares: 186.7M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado",
+      "detalle": "10-Q",
+      "empresa_sec": "Dyne Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526323639/dyn-20260630.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": {
+        "caja_mm": null,
+        "burn_trimestral_mm": null,
+        "burn_mensual_mm": null,
+        "runway_meses": null,
+        "shares_outstanding_mm": 186.7,
+        "litigios_detectados": true,
+        "shelf_mencionado": true,
+        "going_concern": true,
+        "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 676,114 &#160; &#160; $ 893,369 &#160; Marketable securities &#160; &#160; 222,361 &#160; &#160; &#160; 217,193 &#160; Prepaid expenses and other current assets &#160; &#160; 39,414 &#160; &#160; &#160; 16,025 &#160; Total current assets &#160; &#160; 937,889 &#160",
+        "resumen_10q": "Shares: 186.7M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado"
+      },
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "VKTX",
+      "nombre": "Viking Therapeutics, Inc.",
+      "form": "4",
+      "fecha": "2026-07-29",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Lian Brian (President & CEO) → Concesión 221,667 acciones @ $0.00 | Post: 2,720,958 | Rutinaria/RSU/impuestos",
+      "detalle": "4",
+      "empresa_sec": "Viking Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526324448/xslF345X06/ownership.xml",
+      "form4_detail": {
+        "insider_nombre": "Lian Brian",
+        "insider_cargo": "President & CEO",
+        "transaccion_codigo": "A",
+        "transaccion_tipo": "Concesión",
+        "transaccion_acciones": "221667",
+        "transaccion_precio": "0",
+        "transaccion_fecha": "2026-07-28",
+        "acciones_post": "2720958",
+        "footnotes": "The reported securities were subject to a performance restricted stock unit award that was granted on January 3, 2023, 33.33% of which vested on July 28, 2026 upon the achievement of a non-financial performance goal. These shares were automatically sold on a non-discretionary basis solely to satisfy certain tax withholding obligations in connection with the issuance of shares upon the vesting of certain shares of common stock subject to the performance restricted stock unit award described in Footnote 1. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $32.82 to $33.77, inclusive. The Reporting Person  undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in the this footnote.",
+        "es_rutinaria": true,
+        "resumen_detail": "Lian Brian (President & CEO) → Concesión 221,667 acciones @ $0.00 | Post: 2,720,958 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "VKTX",
+      "nombre": "Viking Therapeutics, Inc.",
+      "form": "4",
+      "fecha": "2026-07-29",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "ZANTE GREG (Chief Financial Officer) → Concesión 31,667 acciones @ $0.00 | Post: 233,421 | Rutinaria/RSU/impuestos",
+      "detalle": "4",
+      "empresa_sec": "Viking Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526324447/xslF345X06/ownership.xml",
+      "form4_detail": {
+        "insider_nombre": "ZANTE GREG",
+        "insider_cargo": "Chief Financial Officer",
+        "transaccion_codigo": "A",
+        "transaccion_tipo": "Concesión",
+        "transaccion_acciones": "31667",
+        "transaccion_precio": "0",
+        "transaccion_fecha": "2026-07-28",
+        "acciones_post": "233421",
+        "footnotes": "The reported securities were subject to a performance restricted stock unit award that was granted on January 3, 2023, 33.33% of which vested on July 28, 2026 upon the achievement of a non-financial performance goal. Includes 11,055 shares acquired on May 20, 2024 pursuant to the Issuer's 2014 Employee Stock Purchase Plan and 808 shares acquired on May 20, 2026 pursuant to the Issuer's 2024 Employee Stock Purchase Plan These shares were automatically sold on a non-discretionary basis solely to satisfy certain tax withholding obligations in connection with the issuance of shares upon the vesting of certain shares of common stock subject to the performance restricted stock unit award described in Footnote 1. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $33.30 to $33.805, inclusive. The Reporting Person  undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in the this footnote.",
+        "es_rutinaria": true,
+        "resumen_detail": "ZANTE GREG (Chief Financial Officer) → Concesión 31,667 acciones @ $0.00 | Post: 233,421 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "VKTX",
+      "nombre": "Viking Therapeutics, Inc.",
+      "form": "4",
+      "fecha": "2026-07-29",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Mancini Marianna (Chief Operating Officer) → Concesión 31,667 acciones @ $0.00 | Post: 440,977 | Rutinaria/RSU/impuestos",
+      "detalle": "4",
+      "empresa_sec": "Viking Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526324446/xslF345X06/ownership.xml",
+      "form4_detail": {
+        "insider_nombre": "Mancini Marianna",
+        "insider_cargo": "Chief Operating Officer",
+        "transaccion_codigo": "A",
+        "transaccion_tipo": "Concesión",
+        "transaccion_acciones": "31667",
+        "transaccion_precio": "0",
+        "transaccion_fecha": "2026-07-28",
+        "acciones_post": "440977",
+        "footnotes": "The reported securities were subject to a performance restricted stock unit award that was granted on January 3, 2023, 33.33% of which vested on July 28, 2026 upon the achievement of a non-financial performance goal. Includes 120 shares acquired on May 20, 2026 pursuant to the Issuer's 2024 Employee Stock Purchase Plan. These shares were automatically sold on a non-discretionary basis solely to satisfy certain tax withholding obligations in connection with the issuance of shares upon the vesting of certain shares of common stock subject to the performance restricted stock unit award described in Footnote 1. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $33.28 to $33.805, inclusive. The Reporting Person  undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in the this footnote.",
+        "es_rutinaria": true,
+        "resumen_detail": "Mancini Marianna (Chief Operating Officer) → Concesión 31,667 acciones @ $0.00 | Post: 440,977 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "VKTX",
+      "nombre": "Viking Therapeutics, Inc.",
+      "form": "10-Q",
+      "fecha": "2026-07-29",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "⚖️ Litigios activos · 📋 Shelf mencionado",
+      "detalle": "10-Q",
+      "empresa_sec": "Viking Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526324219/vktx-20260630.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": {
+        "caja_mm": null,
+        "burn_trimestral_mm": null,
+        "burn_mensual_mm": null,
+        "runway_meses": null,
+        "shares_outstanding_mm": null,
+        "litigios_detectados": true,
+        "shelf_mencionado": true,
+        "going_concern": false,
+        "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 125,750 &#160; &#160; $ 165,810 &#160; Short-term investments &#8211; available-for-sale &#160; &#160; 375,913 &#160; &#160; &#160; 539,929 &#160; Prepaid clinical trial and preclinical study costs &#160; &#160; 14,960 &#160; &#160; &#160; 8,053 &#160; Prepaid expe",
+        "resumen_10q": "⚖️ Litigios activos · 📋 Shelf mencionado"
+      },
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "VKTX",
+      "nombre": "Viking Therapeutics, Inc.",
+      "form": "8-K",
+      "fecha": "2026-07-29",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Viking Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526323652/vktx-20260729.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "2.02",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 2.02 Results of Operations and Financial Condition. On July 29, 2026, we issued a press release reporting our financial results for the second quarter ended June 30, 2026 and providing a corporate update. The full text of the press release is furnished as exhibit 99.1 to this Current Report on Form 8-K and incorporated herein by reference. In accordance with General Instructions B.2 of Form 8-K, the information in Item 2.02 of this Current Report on Form 8-K shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liability of that section, and shall not be incorporated by reference into any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No Description 99.1 Press release issued July 29, 2026, reporting financial results for the second quarter ended June 30, 2026 and providing a corporate update. 104 Cover Page Interactive Data File (embedded with the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Viking Therapeutics, Inc. Date: July 29, 2026 By: /s/ Brian Lian, Ph.D. President and Chief Executive Officer ( Principal Executive Officer )",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "BEAM",
+      "nombre": "Beam Therapeutics Inc.",
+      "form": "4",
+      "fecha": "2026-07-29",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Simon Amy (Chief Medical Officer) → Venta 16,667 acciones @ $25.74 | Post: 85,696 | Rutinaria/RSU/impuestos",
+      "detalle": "4",
+      "empresa_sec": "Beam Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526323640/xslF345X06/ownership.xml",
+      "form4_detail": {
+        "insider_nombre": "Simon Amy",
+        "insider_cargo": "Chief Medical Officer",
+        "transaccion_codigo": "S",
+        "transaccion_tipo": "Venta",
+        "transaccion_acciones": "16667",
+        "transaccion_precio": "25.7417",
+        "transaccion_fecha": "2026-07-27",
+        "acciones_post": "85696",
+        "footnotes": "The transactions reported in this Form 4 were effected pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on March 27, 2026. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions ranging from $25.32 to $26.05, inclusive. The Reporting Person undertakes to provide to Beam Therapeutics Inc. (\"BEAM\"), any security holder of BEAM or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range.",
+        "es_rutinaria": true,
+        "resumen_detail": "Simon Amy (Chief Medical Officer) → Venta 16,667 acciones @ $25.74 | Post: 85,696 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "DNLI",
       "nombre": "Denali Therapeutics Inc.",
@@ -625,54 +1063,6 @@
         "resumen_detail": "Miller Mary (Chief Legal Officer) → Venta 573 acciones @ $1.76 | Post: 82,194 | Rutinaria/RSU/impuestos"
       },
       "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "DYN",
-      "nombre": "Dyne Therapeutics, Inc.",
-      "form": "424B5",
-      "fecha": "2026-07-22",
-      "nivel": "rojo",
-      "badge": "🔴 ALTA",
-      "resumen": "ATM (At-The-Market) · $20.5M · Dilución 🟢 BAJO",
-      "detalle": "424B5",
-      "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526312576/d98164d424b5.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": {
-        "importe_mm": 20.5,
-        "tipo_oferta": "ATM (At-The-Market)",
-        "riesgo_dilucion": "🟢 BAJO",
-        "resumen_oferta": "ATM (At-The-Market) · $20.5M · Dilución 🟢 BAJO"
-      }
-    },
-    {
-      "ticker": "DYN",
-      "nombre": "Dyne Therapeutics, Inc.",
-      "form": "8-K",
-      "fecha": "2026-07-22",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "8-K — Posible deuda/obligación financiera; revisar condiciones [Items: 1.01, 8.01, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526312571/d112911d8k.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "1.01",
-          "8.01",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 1.01. Entry Into a Material Definitive Agreement. On July 21, 2026, Dyne Therapeutics, Inc. (the Company ) entered into an underwriting agreement (the Underwriting Agreement ) with Morgan Stanley &amp; Co. LLC and Jefferies LLC, as representatives of the several underwriters named therein (the Underwriters ), relating to an underwritten public offering (the Offering ) of 18,300,000 shares (the Underwritten Shares ) of the Company s common stock, par value $0.0001 per share (the Common Stock ). All of the Underwritten Shares are being sold by the Company. The public offering price of the Underwritten Shares is $20.50 per share, and the Underwriters have agreed to purchase the Underwritten Shares from the Company pursuant to the Underwriting Agreement at a price of $19.27 per share. Under the terms of the Underwriting Agreement, the Company also granted the Underwriters an option, exercisable for 30 days from the date of the Underwriting Agreement, to purchase up to an additional 2,745,000 shares of Common Stock (the Option Shares and together with the Underwritten Shares, the Shares ) at the public offering price less the underwriting discounts and commissions. The Company estimates that the net proceeds from the Offering will be approximately $352.1 million, or approximately $405.0 million if the Underwriters exercise in full their option to purchase the Option Shares, in each case, after deducting underwriting discounts and commissions and estimated offering expenses. The Shares will be issued pursuant to a prospectus supplement dated July 21, 2026, and an accompanyin",
-        "nivel_ajustado": "amarillo",
-        "badge_ajustado": "🟡 MEDIA",
-        "resumen_ajustado": "8-K — Posible deuda/obligación financiera; revisar condiciones"
-      },
       "10q_detail": null,
       "prospecto_detail": null
     }

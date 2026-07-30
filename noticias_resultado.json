@@ -1,8 +1,8 @@
 {
-  "generado": "29/07/2026 09:47 UTC",
+  "generado": "30/07/2026 09:37 UTC",
   "plazo_horas": 72,
-  "desde": "2026-07-26",
-  "hasta": "2026-07-29",
+  "desde": "2026-07-27",
+  "hasta": "2026-07-30",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -91,20 +91,57 @@
     },
     "VKTX": {
       "nombre": "VKTX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "VKTX",
+          "titulo": "Viking Therapeutics, Inc. (VKTX) Q2 2026 Earnings Call Transcript",
+          "resumen": "Viking Therapeutics, Inc. (VKTX) Q2 2026 Earnings Call July 29, 2026 4:30 PM EDTCompany ParticipantsStephanie DiazBrian Lian - President, CEO &...",
+          "fuente": "SeekingAlpha",
+          "fecha": "29 Jul 2026 22:53 UTC",
+          "url": "https://finnhub.io/api/news?id=246b49c3ca00a16ee573a6b1248b518c47ea2b450c9259dd01940fd1afea4669",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "Viking Therapeutics (NASDAQ:VKTX) Q2 Loss Beats Estimates, Shares Edge Lower as Obesity Pipeline Progresses",
+          "resumen": "Viking Therapeutics Q2 net loss beat estimates with no revenue; obesity drug VK2735 Phase 3 trials fully enrolled, oral trial expected Q4 2026.",
+          "fuente": "ChartMill",
+          "fecha": "29 Jul 2026 21:23 UTC",
+          "url": "https://finnhub.io/api/news?id=1b3e8e0150cd689f982dd4ea91cb0f2276660f6d3447f3fdfdbd5c17a4f75038",
+          "imagen": "https://www.chartmill.com/images/uploads/earnings_article_1_defce97180.webp",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "Viking Therapeutics Q2 EPS $(1.10) Beats $(1.25) Estimate",
+          "resumen": "Viking Therapeutics (NASDAQ:VKTX) reported quarterly losses of $(1.10) per share which beat the analyst consensus estimate of $(1.25) by 12 percent. This is a 89.66 percent decrease over losses of $(0.58) per share from",
+          "fuente": "Benzinga",
+          "fecha": "29 Jul 2026 16:08 UTC",
+          "url": "https://finnhub.io/api/news?id=46bf198aab74f3b2ff24c2b4705318b313a6b1c6471f154ffc99df69a480377d",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 3
     },
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
         {
           "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals (VRTX) Exceeds Market Returns: Some Facts to Consider",
-          "resumen": "Vertex Pharmaceuticals (VRTX) closed the most recent trading day at $490.39, moving +2.38% from the previous trading session.",
+          "titulo": "Vertex Pharmaceuticals (VRTX) Expands Its Pipeline Reach, Is The Stock Fully Valued?",
+          "resumen": "Vertex Pharmaceuticals (VRTX) is back in focus after AbCellera Biologics announced a collaboration to develop multispecific T cell engagers targeting autoimmune diseases and other conditions. Under the agreement, Vertex will fund the research and retain commercialization rights. See our latest analy",
           "fuente": "Yahoo",
-          "fecha": "28 Jul 2026 21:50 UTC",
-          "url": "https://finnhub.io/api/news?id=7172b274a14c0e365b0221f98cf8730f87f861736eeece3e6e1d313c5bc1f022",
+          "fecha": "29 Jul 2026 19:08 UTC",
+          "url": "https://finnhub.io/api/news?id=421d31ea5999d389b5893a796c7ed1557f77b278da24643c864ae1a8d7df7f3a",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
@@ -112,23 +149,11 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "Analysts Estimate Gilead Sciences (GILD) to Report a Decline in Earnings: What to Look Out for",
-          "resumen": "Gilead (GILD) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+          "titulo": "Vertex Pharmaceuticals (VRTX) Stock Looks Like A Bargain At This Price",
+          "resumen": "Vertex Pharmaceuticals has delivered a 145.1% return over the past five years, yet its current valuation picture is mixed, as a Discounted Cash Flow (DCF) intrinsic value estimate points to meaningful upside while market-based multiples look closer to fair. Over five years, Vertex Pharmaceuticals ha",
           "fuente": "Yahoo",
-          "fecha": "28 Jul 2026 14:00 UTC",
-          "url": "https://finnhub.io/api/news?id=7f74e4b608d0430ce273cd33af9179a12f910b9aa7dd3269cbb77c4b0b1085f6",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals Incorporated (VRTX) is Attracting Investor Attention: Here is What You Should Know",
-          "resumen": "Vertex (VRTX) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-          "fuente": "Yahoo",
-          "fecha": "28 Jul 2026 13:00 UTC",
-          "url": "https://finnhub.io/api/news?id=b7dde44202e682107701df8a3cf25cac7d7d55413e6642c4ec20852be2744635",
+          "fecha": "29 Jul 2026 16:08 UTC",
+          "url": "https://finnhub.io/api/news?id=af8516feb80f1c0c63d5e073b11c8faedae64310cc396f9cbb7780cbc28736e3",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
@@ -136,27 +161,39 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "Chris Young, Vertex CEO: A Fortt Knox Conversation",
-          "resumen": "Vertex CEO Chris Young told Jon Fortt tax compliance is being remade by AI, e-invoicing mandates and agentic commerce – but tax has to stay deterministic, so AI wraps the engines rather than replacing them. He's targeting $60–70M in savings to fund that shift. Young grew up working class on Clevelan",
-          "fuente": "CNBC",
-          "fecha": "28 Jul 2026 10:20 UTC",
-          "url": "https://finnhub.io/api/news?id=85487e655fb89144a8a6f022c19cdb5c978e7d32417f8c31520957270297579f",
-          "imagen": "https://image.cnbcfm.com/api/v1/image/108340810-260727-Chris_Young__Vertex_CEO.jpg?v=1785190743&w=1920&h=1080",
+          "titulo": "Vertex (VRTX) Q2 Earnings Preview: What You Should Know Beyond the Headline Estimates",
+          "resumen": "Evaluate the expected performance of Vertex (VRTX) for the quarter ended June 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
+          "fuente": "Yahoo",
+          "fecha": "29 Jul 2026 13:15 UTC",
+          "url": "https://finnhub.io/api/news?id=ec84f806f9b56e49cb76104e77c2ce400a7ef3f40a464d06bfad72fa6a3adbbf",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
         },
         {
           "ticker": "VRTX",
-          "titulo": "Vertex Gears Up to Report Q2 Earnings: What Can Investors Expect?",
-          "resumen": "VRTX heads into its Q2 earnings release with Trikafta, Alyftrek, Casgevy and Journavx in focus as investors watch product sales and updates on ongoing pipeline studies.",
+          "titulo": "AbCellera, Vertex partner on next-gen T-cell engagers",
+          "resumen": "The deal adds to a growing streak of partnerships involving new types of T cell engagers and gives Vertex another chance to broaden a business still reliant on cystic fibrosis medicines.",
           "fuente": "Yahoo",
-          "fecha": "27 Jul 2026 15:32 UTC",
-          "url": "https://finnhub.io/api/news?id=907644a0468d61ac054182ce249d9a1ef85614834d4d246abe2d6b7ed023a0a1",
+          "fecha": "29 Jul 2026 11:40 UTC",
+          "url": "https://finnhub.io/api/news?id=de94bed6584f5074d58e85040ba27013c8626725d9b5c8153c69645b52623247",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "AbCellera Announces Collaboration with Vertex to Discover Multispecific T-Cell Engagers for Autoimmune Diseases and Other Conditions",
+          "resumen": "VANCOUVER, British Columbia, July 29, 2026--AbCellera Announces Collaboration with Vertex to Discover Multispecific T-Cell Engagers for Autoimmune Diseases and Other Conditions",
+          "fuente": "Yahoo",
+          "fecha": "29 Jul 2026 11:00 UTC",
+          "url": "https://finnhub.io/api/news?id=60bbb3013ffab29675f18d6859109afcd760881dfa67d13bb4615ac423d1506e",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -165,6 +202,30 @@
     "ALNY": {
       "nombre": "ALNY",
       "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam Pharmaceuticals (ALNY) Could Be 34% Undervalued After Alzheimer’s Pipeline Update",
+          "resumen": "Alnylam Pharmaceuticals (ALNY) is back in focus after its presentations at the Alzheimer’s Association International Conference in London, where the company outlined fresh clinical progress in RNAi therapies targeting Alzheimer’s disease. See our latest analysis for Alnylam Pharmaceuticals. The Alzh",
+          "fuente": "Yahoo",
+          "fecha": "29 Jul 2026 23:12 UTC",
+          "url": "https://finnhub.io/api/news?id=49e4754bdd592ee39d23239e1ea020c434401e68ce4c5c397b84ffa2b1f9d9ee",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam (ALNY) Is Up 6.3% After Showcasing New Alzheimer’s RNAi Data And $1B-Plus Quarterly Revenue",
+          "resumen": "In July 2026, Alnylam Pharmaceuticals presented new clinical data and study designs for its Alzheimer’s disease RNAi candidates mivelsiran and ALN-5288 at the Alzheimer’s Association International Conference in London, including long-term safety findings and robust cerebrospinal fluid biomarker redu",
+          "fuente": "Yahoo",
+          "fecha": "29 Jul 2026 18:10 UTC",
+          "url": "https://finnhub.io/api/news?id=096d51ed74bb1d15826968fe73e19a559b4e34973593bf7d973bca27a1771a40",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "ALNY",
           "titulo": "Unlocking Q2 Potential of Alnylam (ALNY): Exploring Wall Street Estimates for Key Metrics",
@@ -203,7 +264,7 @@
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 5
     },
     "BEAM": {
       "nombre": "BEAM",
@@ -261,16 +322,29 @@
     },
     "INSM": {
       "nombre": "INSM",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "INSM",
+          "titulo": "Alger Mid Cap Focus Fund Q2 2026 Portfolio Review",
+          "resumen": "Astera Labs, Nebius, and Western Digital were among the top contributors to performance. Insmed, GFL Environmental, and Karman were among the top detractors from performance.",
+          "fuente": "SeekingAlpha",
+          "fecha": "29 Jul 2026 09:36 UTC",
+          "url": "https://finnhub.io/api/news?id=f834f2800abfd4f6a39fe6eff6d9b40481432a810bd3d98a7ca4a3569233a90c",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2256895141/image_2256895141.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     }
   },
   "resumen": {
-    "total_noticias": 13,
-    "tickers_con_noticias": 3,
-    "alertas_urgentes": 3,
-    "sin_noticias": 14
+    "total_noticias": 19,
+    "tickers_con_noticias": 5,
+    "alertas_urgentes": 4,
+    "sin_noticias": 12
   },
   "todas_noticias": [
     {
@@ -299,11 +373,11 @@
     },
     {
       "ticker": "VRTX",
-      "titulo": "Vertex Gears Up to Report Q2 Earnings: What Can Investors Expect?",
-      "resumen": "VRTX heads into its Q2 earnings release with Trikafta, Alyftrek, Casgevy and Journavx in focus as investors watch product sales and updates on ongoing pipeline studies.",
+      "titulo": "AbCellera, Vertex partner on next-gen T-cell engagers",
+      "resumen": "The deal adds to a growing streak of partnerships involving new types of T cell engagers and gives Vertex another chance to broaden a business still reliant on cystic fibrosis medicines.",
       "fuente": "Yahoo",
-      "fecha": "27 Jul 2026 15:32 UTC",
-      "url": "https://finnhub.io/api/news?id=907644a0468d61ac054182ce249d9a1ef85614834d4d246abe2d6b7ed023a0a1",
+      "fecha": "29 Jul 2026 11:40 UTC",
+      "url": "https://finnhub.io/api/news?id=de94bed6584f5074d58e85040ba27013c8626725d9b5c8153c69645b52623247",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
@@ -311,23 +385,59 @@
     },
     {
       "ticker": "VRTX",
-      "titulo": "Chris Young, Vertex CEO: A Fortt Knox Conversation",
-      "resumen": "Vertex CEO Chris Young told Jon Fortt tax compliance is being remade by AI, e-invoicing mandates and agentic commerce – but tax has to stay deterministic, so AI wraps the engines rather than replacing them. He's targeting $60–70M in savings to fund that shift. Young grew up working class on Clevelan",
-      "fuente": "CNBC",
-      "fecha": "28 Jul 2026 10:20 UTC",
-      "url": "https://finnhub.io/api/news?id=85487e655fb89144a8a6f022c19cdb5c978e7d32417f8c31520957270297579f",
-      "imagen": "https://image.cnbcfm.com/api/v1/image/108340810-260727-Chris_Young__Vertex_CEO.jpg?v=1785190743&w=1920&h=1080",
+      "titulo": "Vertex (VRTX) Q2 Earnings Preview: What You Should Know Beyond the Headline Estimates",
+      "resumen": "Evaluate the expected performance of Vertex (VRTX) for the quarter ended June 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
+      "fuente": "Yahoo",
+      "fecha": "29 Jul 2026 13:15 UTC",
+      "url": "https://finnhub.io/api/news?id=ec84f806f9b56e49cb76104e77c2ce400a7ef3f40a464d06bfad72fa6a3adbbf",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "Analysts Estimate Gilead Sciences (GILD) to Report a Decline in Earnings: What to Look Out for",
-      "resumen": "Gilead (GILD) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+      "ticker": "ALNY",
+      "titulo": "Alnylam (ALNY) Is Up 6.3% After Showcasing New Alzheimer’s RNAi Data And $1B-Plus Quarterly Revenue",
+      "resumen": "In July 2026, Alnylam Pharmaceuticals presented new clinical data and study designs for its Alzheimer’s disease RNAi candidates mivelsiran and ALN-5288 at the Alzheimer’s Association International Conference in London, including long-term safety findings and robust cerebrospinal fluid biomarker redu",
       "fuente": "Yahoo",
-      "fecha": "28 Jul 2026 14:00 UTC",
-      "url": "https://finnhub.io/api/news?id=7f74e4b608d0430ce273cd33af9179a12f910b9aa7dd3269cbb77c4b0b1085f6",
+      "fecha": "29 Jul 2026 18:10 UTC",
+      "url": "https://finnhub.io/api/news?id=096d51ed74bb1d15826968fe73e19a559b4e34973593bf7d973bca27a1771a40",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Viking Therapeutics (NASDAQ:VKTX) Q2 Loss Beats Estimates, Shares Edge Lower as Obesity Pipeline Progresses",
+      "resumen": "Viking Therapeutics Q2 net loss beat estimates with no revenue; obesity drug VK2735 Phase 3 trials fully enrolled, oral trial expected Q4 2026.",
+      "fuente": "ChartMill",
+      "fecha": "29 Jul 2026 21:23 UTC",
+      "url": "https://finnhub.io/api/news?id=1b3e8e0150cd689f982dd4ea91cb0f2276660f6d3447f3fdfdbd5c17a4f75038",
+      "imagen": "https://www.chartmill.com/images/uploads/earnings_article_1_defce97180.webp",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Viking Therapeutics, Inc. (VKTX) Q2 2026 Earnings Call Transcript",
+      "resumen": "Viking Therapeutics, Inc. (VKTX) Q2 2026 Earnings Call July 29, 2026 4:30 PM EDTCompany ParticipantsStephanie DiazBrian Lian - President, CEO &...",
+      "fuente": "SeekingAlpha",
+      "fecha": "29 Jul 2026 22:53 UTC",
+      "url": "https://finnhub.io/api/news?id=246b49c3ca00a16ee573a6b1248b518c47ea2b450c9259dd01940fd1afea4669",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam Pharmaceuticals (ALNY) Could Be 34% Undervalued After Alzheimer’s Pipeline Update",
+      "resumen": "Alnylam Pharmaceuticals (ALNY) is back in focus after its presentations at the Alzheimer’s Association International Conference in London, where the company outlined fresh clinical progress in RNAi therapies targeting Alzheimer’s disease. See our latest analysis for Alnylam Pharmaceuticals. The Alzh",
+      "fuente": "Yahoo",
+      "fecha": "29 Jul 2026 23:12 UTC",
+      "url": "https://finnhub.io/api/news?id=49e4754bdd592ee39d23239e1ea020c434401e68ce4c5c397b84ffa2b1f9d9ee",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
@@ -382,18 +492,6 @@
       "badge": "🔵"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals Incorporated (VRTX) is Attracting Investor Attention: Here is What You Should Know",
-      "resumen": "Vertex (VRTX) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-      "fuente": "Yahoo",
-      "fecha": "28 Jul 2026 13:00 UTC",
-      "url": "https://finnhub.io/api/news?id=b7dde44202e682107701df8a3cf25cac7d7d55413e6642c4ec20852be2744635",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
       "ticker": "ALNY",
       "titulo": "Unlocking Q2 Potential of Alnylam (ALNY): Exploring Wall Street Estimates for Key Metrics",
       "resumen": "Beyond analysts' top-and-bottom-line estimates for Alnylam (ALNY), evaluate projections for some of its key metrics to gain a better insight into how the business might have performed for the quarter ended June 2026.",
@@ -418,12 +516,60 @@
       "badge": "🔵"
     },
     {
+      "ticker": "INSM",
+      "titulo": "Alger Mid Cap Focus Fund Q2 2026 Portfolio Review",
+      "resumen": "Astera Labs, Nebius, and Western Digital were among the top contributors to performance. Insmed, GFL Environmental, and Karman were among the top detractors from performance.",
+      "fuente": "SeekingAlpha",
+      "fecha": "29 Jul 2026 09:36 UTC",
+      "url": "https://finnhub.io/api/news?id=f834f2800abfd4f6a39fe6eff6d9b40481432a810bd3d98a7ca4a3569233a90c",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2256895141/image_2256895141.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
       "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals (VRTX) Exceeds Market Returns: Some Facts to Consider",
-      "resumen": "Vertex Pharmaceuticals (VRTX) closed the most recent trading day at $490.39, moving +2.38% from the previous trading session.",
+      "titulo": "AbCellera Announces Collaboration with Vertex to Discover Multispecific T-Cell Engagers for Autoimmune Diseases and Other Conditions",
+      "resumen": "VANCOUVER, British Columbia, July 29, 2026--AbCellera Announces Collaboration with Vertex to Discover Multispecific T-Cell Engagers for Autoimmune Diseases and Other Conditions",
       "fuente": "Yahoo",
-      "fecha": "28 Jul 2026 21:50 UTC",
-      "url": "https://finnhub.io/api/news?id=7172b274a14c0e365b0221f98cf8730f87f861736eeece3e6e1d313c5bc1f022",
+      "fecha": "29 Jul 2026 11:00 UTC",
+      "url": "https://finnhub.io/api/news?id=60bbb3013ffab29675f18d6859109afcd760881dfa67d13bb4615ac423d1506e",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Viking Therapeutics Q2 EPS $(1.10) Beats $(1.25) Estimate",
+      "resumen": "Viking Therapeutics (NASDAQ:VKTX) reported quarterly losses of $(1.10) per share which beat the analyst consensus estimate of $(1.25) by 12 percent. This is a 89.66 percent decrease over losses of $(0.58) per share from",
+      "fuente": "Benzinga",
+      "fecha": "29 Jul 2026 16:08 UTC",
+      "url": "https://finnhub.io/api/news?id=46bf198aab74f3b2ff24c2b4705318b313a6b1c6471f154ffc99df69a480377d",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals (VRTX) Stock Looks Like A Bargain At This Price",
+      "resumen": "Vertex Pharmaceuticals has delivered a 145.1% return over the past five years, yet its current valuation picture is mixed, as a Discounted Cash Flow (DCF) intrinsic value estimate points to meaningful upside while market-based multiples look closer to fair. Over five years, Vertex Pharmaceuticals ha",
+      "fuente": "Yahoo",
+      "fecha": "29 Jul 2026 16:08 UTC",
+      "url": "https://finnhub.io/api/news?id=af8516feb80f1c0c63d5e073b11c8faedae64310cc396f9cbb7780cbc28736e3",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals (VRTX) Expands Its Pipeline Reach, Is The Stock Fully Valued?",
+      "resumen": "Vertex Pharmaceuticals (VRTX) is back in focus after AbCellera Biologics announced a collaboration to develop multispecific T cell engagers targeting autoimmune diseases and other conditions. Under the agreement, Vertex will fund the research and retain commercialization rights. See our latest analy",
+      "fuente": "Yahoo",
+      "fecha": "29 Jul 2026 19:08 UTC",
+      "url": "https://finnhub.io/api/news?id=421d31ea5999d389b5893a796c7ed1557f77b278da24643c864ae1a8d7df7f3a",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",

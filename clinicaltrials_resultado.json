@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "29/07/2026 11:02",
-  "fecha": "2026-07-29",
+  "generado": "30/07/2026 10:37",
+  "fecha": "2026-07-30",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -198,14 +198,7 @@
           "ventana": "2028",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2026-07-23 → 2026-07-28"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2293,14 +2286,7 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2026-07-23 → 2026-07-28"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT07486934"
     },
     {

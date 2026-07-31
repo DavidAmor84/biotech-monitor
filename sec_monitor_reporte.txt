@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 30/07/2026 09:30 | Período: últimos 7 días
-Desde: 2026-07-23 → Hasta: 2026-07-30
+Generado: 31/07/2026 09:44 | Período: últimos 7 días
+Desde: 2026-07-24 → Hasta: 2026-07-31
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 15 filings | 🔴 1 | 🟢 1 | 🟡 5 | 🔵 8 | ✅ 9 sin novedad
+RESUMEN: 14 filings | 🔴 1 | 🟢 1 | 🟡 5 | 🔵 7 | ✅ 10 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (2)
@@ -56,15 +56,14 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1607678/000119312526324219/vktx-20260630.htm
      🔵 INFO 8-K | 2026-07-29 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1607678/000119312526323652/vktx-20260729.htm
+  ✅ [VRTX] Sin novedades
 
-  🔵 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 2 filing(s)
-     🔵 INFO 4 | 2026-07-23 | Tatsis Ourania (EVP, Chief Reg. & Quality Off.) → Concesión 8,251 acciones @ $0.00 | Post: 53,572 | Rutinaria/RSU/impuestos
-     Insider: Tatsis Ourania (EVP, Chief Reg. & Quality Off.) → Concesión 8,251 acciones @ $0.00 | Post: 53,572 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000253/xslF345X06/wk-form4_1784837739.xml
-     🔵 INFO 4 | 2026-07-23 | Sachdev Amit (EVP Chief Patient & Ext Af Off) → Concesión 8,251 acciones @ $0.00 | Post: 66,512 | Rutinaria/RSU/impuestos
-     Insider: Sachdev Amit (EVP Chief Patient & Ext Af Off) → Concesión 8,251 acciones @ $0.00 | Post: 66,512 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000251/xslF345X06/wk-form4_1784837586.xml
-  ✅ [ALNY] Sin novedades
+  🟡 [ALNY] ALNYLAM PHARMACEUTICALS, INC. — 2 filing(s)
+     🟡 MEDIA 10-Q | 2026-07-30 | Caja: $1708.3M · Shares: 133734.0M · ⚖️ Litigios activos
+     10-Q: Caja: $1708.3M · Shares: 133734.0M · ⚖️ Litigios activos
+     → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000062/alny-20260630.htm
+     🔵 INFO 8-K | 2026-07-30 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000060/alny-20260730.htm
 
   🟡 [BEAM] Beam Therapeutics Inc. — 1 filing(s)
      🟡 MEDIA 4 | 2026-07-29 | Simon Amy (Chief Medical Officer) → Venta 16,667 acciones @ $25.74 | Post: 85,696 | Rutinaria/RSU/impuestos
@@ -79,11 +78,7 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1888886/000119312526315240/xslF345X06/ownership.xml
   ✅ [ABVX] Sin novedades
   ✅ [VERA] Sin novedades
-
-  🟡 [ACRV] Acrivon Therapeutics, Inc. — 1 filing(s)
-     🟡 MEDIA 4 | 2026-07-23 | Miller Mary (Chief Legal Officer) → Venta 573 acciones @ $1.76 | Post: 82,194 | Rutinaria/RSU/impuestos
-     Insider: Miller Mary (Chief Legal Officer) → Venta 573 acciones @ $1.76 | Post: 82,194 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003334/xslF345X06/form4.xml
+  ✅ [ACRV] Sin novedades
   ✅ [TARA] Sin novedades
   ✅ [SENS] Sin novedades
 
@@ -128,7 +123,7 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Reclutando activamente
        Enrollment: 150 pacientes
        Primary completion: 2028-07
-       Última actualización: 2026-07-28
+       Última actualización: 2026-07-30
        → https://clinicaltrials.gov/study/NCT07486934
 
   [VKTX]

@@ -1,8 +1,8 @@
 {
-  "generado": "30/07/2026 09:37 UTC",
+  "generado": "31/07/2026 09:51 UTC",
   "plazo_horas": 72,
-  "desde": "2026-07-27",
-  "hasta": "2026-07-30",
+  "desde": "2026-07-28",
+  "hasta": "2026-07-31",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -24,64 +24,29 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
+    },
+    "DYN": {
+      "nombre": "DYN",
+      "noticias": [
         {
-          "ticker": "ARGX",
-          "titulo": "Wedbush Maintains Outperform on argenx, Raises Price Target to $1050",
-          "resumen": "Wedbush  analyst David Nierengarten   maintains argenx (NASDAQ:ARGX) with a Outperform and raises the price target from $1000 to $1050.",
+          "ticker": "DYN",
+          "titulo": "Dyne Therapeutics Q2 EPS $(1.08) Misses $(0.75) Estimate",
+          "resumen": "Dyne Therapeutics (NASDAQ:DYN) reported quarterly losses of $(1.08) per share which missed the analyst consensus estimate of $(0.75) by 44 percent. This is a 11.34 percent decrease over losses of $(0.97) per share from",
           "fuente": "Benzinga",
-          "fecha": "28 Jul 2026 08:54 UTC",
-          "url": "https://finnhub.io/api/news?id=22e2115e48da19af9cf44ed19a04fc06fb791c53f10aa9d0c67b615659fb7c14",
+          "fecha": "29 Jul 2026 17:33 UTC",
+          "url": "https://finnhub.io/api/news?id=83953b0d72fed0fac21cb7de1920ad477929edc4ccce59c66ea56f3e3008fdfc",
           "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "Forte: 'Hold' On Positive FB102 Vitiligo Treatment Data And argenx Acquisition For $2.2 Billion",
-          "resumen": "Forte Biosciences is being acquired by Argenx for $2.2 billion [$77/share], capping near-term upside. Click here to read my most recent analysis.",
-          "fuente": "SeekingAlpha",
-          "fecha": "27 Jul 2026 13:45 UTC",
-          "url": "https://finnhub.io/api/news?id=58c5b6c8498ec1197c34784f933f3bf2b34b1865474dbf7396d259a55951447d",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2287141874/image_2287141874.jpg?io=getty-c-w1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "argenx SE (ARGX) M&A Call Transcript",
-          "resumen": "argenx SE (ARGX) M&A Call July 27, 2026 8:00 AM EDTCompany ParticipantsKaren Massey - CEO & Executive DirectorArjen Lemmen - Vice President of...",
-          "fuente": "SeekingAlpha",
-          "fecha": "27 Jul 2026 12:38 UTC",
-          "url": "https://finnhub.io/api/news?id=b5cf0b84be93208e66d15a723817b6f2ca8b9648971d295b2459dae4495a8a81",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "Crude Oil Falls Sharply; US Durable Goods Orders Increase 0.3% In June",
-          "resumen": "US stocks mixed in midday trading, Nasdaq falls 0.48%, Dow up 0.19%, S&amp;P 500 down 0.23%. Consumer staples up 2%, tech down 1.9%. Durable goods orders rise 0.3%.",
-          "fuente": "Benzinga",
-          "fecha": "27 Jul 2026 12:22 UTC",
-          "url": "https://finnhub.io/api/news?id=be329c230aec84143b1d2aa381d82fcb759d8e652af1f0775258069a7a089820",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/27/Oil-Trend-Up--Crude-Oil-Price-Stock-Exch.jpg?width=2048&height=1536",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         }
       ],
-      "nivel": "rojo",
-      "total": 5
-    },
-    "DYN": {
-      "nombre": "DYN",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "nivel": "azul",
+      "total": 1
     },
     "DNLI": {
       "nombre": "DNLI",
@@ -92,6 +57,30 @@
     "VKTX": {
       "nombre": "VKTX",
       "noticias": [
+        {
+          "ticker": "VKTX",
+          "titulo": "Viking Therapeutics Stock Moves Lower: What's Going On?",
+          "resumen": "Viking Therapeutics Inc (NASDAQ:VKTX) shares are retreating Thursday despite reporting a narrower second-quarter loss than expected. Here&#39;s what you should know.",
+          "fuente": "Benzinga",
+          "fecha": "30 Jul 2026 13:09 UTC",
+          "url": "https://finnhub.io/api/news?id=7fecc59f19fbe8b30cec217897163b0481113bb037d2b13eff96ca106b8d5026",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/30/Viking-Therapeutics.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "Canaccord Genuity Maintains Buy on Viking Therapeutics, Raises Price Target to $114",
+          "resumen": "Canaccord Genuity  analyst Edward Nash   maintains Viking Therapeutics (NASDAQ:VKTX) with a Buy and raises the price target from $107 to $114.",
+          "fuente": "Benzinga",
+          "fecha": "30 Jul 2026 11:56 UTC",
+          "url": "https://finnhub.io/api/news?id=085415b6c7b0f59d89516900c125d93328b5775a530308369fe3a8619a39cd2f",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "VKTX",
           "titulo": "Viking Therapeutics, Inc. (VKTX) Q2 2026 Earnings Call Transcript",
@@ -130,11 +119,23 @@
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 5
     },
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex Just Paid $10 Billion for Crinetics. Here's Why Viking Therapeutics Could Be the Next Big Pharma Takeover Target",
+          "resumen": "There are other reasons to pay attention to Viking Therapeutics.",
+          "fuente": "Yahoo",
+          "fecha": "30 Jul 2026 22:50 UTC",
+          "url": "https://finnhub.io/api/news?id=eb8ae6cb70ca7b946707a8aa4b6c4d3c77225f489baa605fe36f3ca8cc64e515",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "VRTX",
           "titulo": "Vertex Pharmaceuticals (VRTX) Expands Its Pipeline Reach, Is The Stock Fully Valued?",
@@ -182,18 +183,6 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "AbCellera Announces Collaboration with Vertex to Discover Multispecific T-Cell Engagers for Autoimmune Diseases and Other Conditions",
-          "resumen": "VANCOUVER, British Columbia, July 29, 2026--AbCellera Announces Collaboration with Vertex to Discover Multispecific T-Cell Engagers for Autoimmune Diseases and Other Conditions",
-          "fuente": "Yahoo",
-          "fecha": "29 Jul 2026 11:00 UTC",
-          "url": "https://finnhub.io/api/news?id=60bbb3013ffab29675f18d6859109afcd760881dfa67d13bb4615ac423d1506e",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -204,11 +193,11 @@
       "noticias": [
         {
           "ticker": "ALNY",
-          "titulo": "Alnylam Pharmaceuticals (ALNY) Could Be 34% Undervalued After Alzheimer’s Pipeline Update",
-          "resumen": "Alnylam Pharmaceuticals (ALNY) is back in focus after its presentations at the Alzheimer’s Association International Conference in London, where the company outlined fresh clinical progress in RNAi therapies targeting Alzheimer’s disease. See our latest analysis for Alnylam Pharmaceuticals. The Alzh",
+          "titulo": "Alnylam Pharma (ALNY) Q2 2026 Earnings Call Transcript",
+          "resumen": "TTR franchise revenues topped $1 billion for first time as AMVUTTRA gains traction.",
           "fuente": "Yahoo",
-          "fecha": "29 Jul 2026 23:12 UTC",
-          "url": "https://finnhub.io/api/news?id=49e4754bdd592ee39d23239e1ea020c434401e68ce4c5c397b84ffa2b1f9d9ee",
+          "fecha": "31 Jul 2026 03:20 UTC",
+          "url": "https://finnhub.io/api/news?id=a0cb9609a9625cb74d18c780da5002f1dd760565dc8be54a9da767af080934d4",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -216,11 +205,11 @@
         },
         {
           "ticker": "ALNY",
-          "titulo": "Alnylam (ALNY) Is Up 6.3% After Showcasing New Alzheimer’s RNAi Data And $1B-Plus Quarterly Revenue",
-          "resumen": "In July 2026, Alnylam Pharmaceuticals presented new clinical data and study designs for its Alzheimer’s disease RNAi candidates mivelsiran and ALN-5288 at the Alzheimer’s Association International Conference in London, including long-term safety findings and robust cerebrospinal fluid biomarker redu",
+          "titulo": "Alnylam Pharmaceuticals Inc (ALNY) (Q2 2026) Earnings Call Highlights: Amvuttra Surpasses $1 ...",
+          "resumen": "Alnylam's Q2 2026 revenue surged 74% to $1.2 billion, driven by Amvuttra's record quarter, though the company lowered its full-year guidance due to a normalization of second-line demand.",
           "fuente": "Yahoo",
-          "fecha": "29 Jul 2026 18:10 UTC",
-          "url": "https://finnhub.io/api/news?id=096d51ed74bb1d15826968fe73e19a559b4e34973593bf7d973bca27a1771a40",
+          "fecha": "30 Jul 2026 21:04 UTC",
+          "url": "https://finnhub.io/api/news?id=29b8dbe1b74121ae7fe9e6060feefa29d96f59f762d1111f818bafbb7c23442e",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -228,11 +217,11 @@
         },
         {
           "ticker": "ALNY",
-          "titulo": "Unlocking Q2 Potential of Alnylam (ALNY): Exploring Wall Street Estimates for Key Metrics",
-          "resumen": "Beyond analysts' top-and-bottom-line estimates for Alnylam (ALNY), evaluate projections for some of its key metrics to gain a better insight into how the business might have performed for the quarter ended June 2026.",
+          "titulo": "US Equity Markets End Higher on Microsoft's Cloud Gains, Semiconductor Rebound",
+          "resumen": "US equity indexes ended higher Thursday after Microsoft (MSFT) posted AI-backed gains and semiconduc",
           "fuente": "Yahoo",
-          "fecha": "28 Jul 2026 13:15 UTC",
-          "url": "https://finnhub.io/api/news?id=741baff667df3847d6f0c20f7d23cfcea33cd204bcd72a9626d6cabb7671ea73",
+          "fecha": "30 Jul 2026 20:17 UTC",
+          "url": "https://finnhub.io/api/news?id=86fc54330a2ca5394d51a7325fae278c4faa3cfa333c16c6b4b601df4e36f3e6",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
@@ -240,23 +229,23 @@
         },
         {
           "ticker": "ALNY",
-          "titulo": "Why Alnylam’s Best Quarter Ever Didn’t Come With a Richer Valuation",
-          "resumen": "2026 has marked a significant turning point in biotech capital markets, not just a small comeback. Venture funding for biotech startups reached $9.1 billion in the first half of the year, the highest first-half total since 2022, while 13 biotech IPOs raised a combined $4.5 billion, with a median hau",
-          "fuente": "Yahoo",
-          "fecha": "28 Jul 2026 08:16 UTC",
-          "url": "https://finnhub.io/api/news?id=483d592b044f62ae9c1165f88a541148161cbc6cb5959b7b03655cc145a48e24",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "titulo": "Here are the top movers in Thursday's session.",
+          "resumen": "Wondering how the US markets performed one hour before the close of the markets on Thursday? Discover the movers and shakers of today's session in our comprehensive analysis.",
+          "fuente": "ChartMill",
+          "fecha": "30 Jul 2026 19:00 UTC",
+          "url": "https://finnhub.io/api/news?id=9b91eef2b8e2d9a959b6302bff5315213d6186248c60d401df3f91ff38e01b45",
+          "imagen": "https://www.chartmill.com/images/uploads/CM_Top_Movers_Small_free_2b4ff2fc22.webp",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         },
         {
           "ticker": "ALNY",
-          "titulo": "CRISPR Therapeutics AG (CRSP) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
-          "resumen": "CRISPR Therapeutics (CRSP) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+          "titulo": "Alnylam plunges as earnings deliver ‘one-two punch’",
+          "resumen": "The RNA-focused biotech shed 30% of its market value — or close to $12 billion — amid growing investor concerns about its main drug business.",
           "fuente": "Yahoo",
-          "fecha": "27 Jul 2026 14:00 UTC",
-          "url": "https://finnhub.io/api/news?id=c05a0dcbedf713ac436b9428b096f55c207ce06300bbea30c8f457b6e485f4bb",
+          "fecha": "30 Jul 2026 16:12 UTC",
+          "url": "https://finnhub.io/api/news?id=1e5627f917fac740cfaa8152f51422d6c0b7377652e2f326899f3c213533e948",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -292,9 +281,22 @@
     },
     "ABVX": {
       "nombre": "ABVX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ABVX",
+          "titulo": "Abivax Completes Pre-New Drug Application Interaction For Obefazimod With FDA To Treat Adults With Moderately To Severely Active Ulcerative Colitis",
+          "resumen": "Abivax SA (Euronext PARIS:FR0012333284 – ABVX / Nasdaq: ABVX) (&#34;Abivax&#34; or the &#34;Company&#34;), a clinical-stage biotechnology company focused on developing therapeutics that harness the body’s natural",
+          "fuente": "Benzinga",
+          "fecha": "30 Jul 2026 16:19 UTC",
+          "url": "https://finnhub.io/api/news?id=bffc5c9fe734bf39a527b1ca88a9232f3abc3c815b547334c92ced7cb4d42878",
+          "imagen": "",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "VERA": {
       "nombre": "VERA",
@@ -342,35 +344,11 @@
   },
   "resumen": {
     "total_noticias": 19,
-    "tickers_con_noticias": 5,
+    "tickers_con_noticias": 7,
     "alertas_urgentes": 4,
-    "sin_noticias": 12
+    "sin_noticias": 10
   },
   "todas_noticias": [
-    {
-      "ticker": "ARGX",
-      "titulo": "Forte: 'Hold' On Positive FB102 Vitiligo Treatment Data And argenx Acquisition For $2.2 Billion",
-      "resumen": "Forte Biosciences is being acquired by Argenx for $2.2 billion [$77/share], capping near-term upside. Click here to read my most recent analysis.",
-      "fuente": "SeekingAlpha",
-      "fecha": "27 Jul 2026 13:45 UTC",
-      "url": "https://finnhub.io/api/news?id=58c5b6c8498ec1197c34784f933f3bf2b34b1865474dbf7396d259a55951447d",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2287141874/image_2287141874.jpg?io=getty-c-w1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "CRISPR Therapeutics AG (CRSP) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
-      "resumen": "CRISPR Therapeutics (CRSP) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-      "fuente": "Yahoo",
-      "fecha": "27 Jul 2026 14:00 UTC",
-      "url": "https://finnhub.io/api/news?id=c05a0dcbedf713ac436b9428b096f55c207ce06300bbea30c8f457b6e485f4bb",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "VRTX",
       "titulo": "AbCellera, Vertex partner on next-gen T-cell engagers",
@@ -390,18 +368,6 @@
       "fuente": "Yahoo",
       "fecha": "29 Jul 2026 13:15 UTC",
       "url": "https://finnhub.io/api/news?id=ec84f806f9b56e49cb76104e77c2ce400a7ef3f40a464d06bfad72fa6a3adbbf",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Alnylam (ALNY) Is Up 6.3% After Showcasing New Alzheimer’s RNAi Data And $1B-Plus Quarterly Revenue",
-      "resumen": "In July 2026, Alnylam Pharmaceuticals presented new clinical data and study designs for its Alzheimer’s disease RNAi candidates mivelsiran and ALN-5288 at the Alzheimer’s Association International Conference in London, including long-term safety findings and robust cerebrospinal fluid biomarker redu",
-      "fuente": "Yahoo",
-      "fecha": "29 Jul 2026 18:10 UTC",
-      "url": "https://finnhub.io/api/news?id=096d51ed74bb1d15826968fe73e19a559b4e34973593bf7d973bca27a1771a40",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
@@ -433,75 +399,51 @@
     },
     {
       "ticker": "ALNY",
-      "titulo": "Alnylam Pharmaceuticals (ALNY) Could Be 34% Undervalued After Alzheimer’s Pipeline Update",
-      "resumen": "Alnylam Pharmaceuticals (ALNY) is back in focus after its presentations at the Alzheimer’s Association International Conference in London, where the company outlined fresh clinical progress in RNAi therapies targeting Alzheimer’s disease. See our latest analysis for Alnylam Pharmaceuticals. The Alzh",
+      "titulo": "Alnylam plunges as earnings deliver ‘one-two punch’",
+      "resumen": "The RNA-focused biotech shed 30% of its market value — or close to $12 billion — amid growing investor concerns about its main drug business.",
       "fuente": "Yahoo",
-      "fecha": "29 Jul 2026 23:12 UTC",
-      "url": "https://finnhub.io/api/news?id=49e4754bdd592ee39d23239e1ea020c434401e68ce4c5c397b84ffa2b1f9d9ee",
+      "fecha": "30 Jul 2026 16:12 UTC",
+      "url": "https://finnhub.io/api/news?id=1e5627f917fac740cfaa8152f51422d6c0b7377652e2f326899f3c213533e948",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
     },
     {
-      "ticker": "ARGX",
-      "titulo": "Crude Oil Falls Sharply; US Durable Goods Orders Increase 0.3% In June",
-      "resumen": "US stocks mixed in midday trading, Nasdaq falls 0.48%, Dow up 0.19%, S&amp;P 500 down 0.23%. Consumer staples up 2%, tech down 1.9%. Durable goods orders rise 0.3%.",
+      "ticker": "ABVX",
+      "titulo": "Abivax Completes Pre-New Drug Application Interaction For Obefazimod With FDA To Treat Adults With Moderately To Severely Active Ulcerative Colitis",
+      "resumen": "Abivax SA (Euronext PARIS:FR0012333284 – ABVX / Nasdaq: ABVX) (&#34;Abivax&#34; or the &#34;Company&#34;), a clinical-stage biotechnology company focused on developing therapeutics that harness the body’s natural",
       "fuente": "Benzinga",
-      "fecha": "27 Jul 2026 12:22 UTC",
-      "url": "https://finnhub.io/api/news?id=be329c230aec84143b1d2aa381d82fcb759d8e652af1f0775258069a7a089820",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/27/Oil-Trend-Up--Crude-Oil-Price-Stock-Exch.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "argenx SE (ARGX) M&A Call Transcript",
-      "resumen": "argenx SE (ARGX) M&A Call July 27, 2026 8:00 AM EDTCompany ParticipantsKaren Massey - CEO & Executive DirectorArjen Lemmen - Vice President of...",
-      "fuente": "SeekingAlpha",
-      "fecha": "27 Jul 2026 12:38 UTC",
-      "url": "https://finnhub.io/api/news?id=b5cf0b84be93208e66d15a723817b6f2ca8b9648971d295b2459dae4495a8a81",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Why Alnylam’s Best Quarter Ever Didn’t Come With a Richer Valuation",
-      "resumen": "2026 has marked a significant turning point in biotech capital markets, not just a small comeback. Venture funding for biotech startups reached $9.1 billion in the first half of the year, the highest first-half total since 2022, while 13 biotech IPOs raised a combined $4.5 billion, with a median hau",
-      "fuente": "Yahoo",
-      "fecha": "28 Jul 2026 08:16 UTC",
-      "url": "https://finnhub.io/api/news?id=483d592b044f62ae9c1165f88a541148161cbc6cb5959b7b03655cc145a48e24",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "Wedbush Maintains Outperform on argenx, Raises Price Target to $1050",
-      "resumen": "Wedbush  analyst David Nierengarten   maintains argenx (NASDAQ:ARGX) with a Outperform and raises the price target from $1000 to $1050.",
-      "fuente": "Benzinga",
-      "fecha": "28 Jul 2026 08:54 UTC",
-      "url": "https://finnhub.io/api/news?id=22e2115e48da19af9cf44ed19a04fc06fb791c53f10aa9d0c67b615659fb7c14",
+      "fecha": "30 Jul 2026 16:19 UTC",
+      "url": "https://finnhub.io/api/news?id=bffc5c9fe734bf39a527b1ca88a9232f3abc3c815b547334c92ced7cb4d42878",
       "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "ALNY",
-      "titulo": "Unlocking Q2 Potential of Alnylam (ALNY): Exploring Wall Street Estimates for Key Metrics",
-      "resumen": "Beyond analysts' top-and-bottom-line estimates for Alnylam (ALNY), evaluate projections for some of its key metrics to gain a better insight into how the business might have performed for the quarter ended June 2026.",
+      "titulo": "Alnylam Pharmaceuticals Inc (ALNY) (Q2 2026) Earnings Call Highlights: Amvuttra Surpasses $1 ...",
+      "resumen": "Alnylam's Q2 2026 revenue surged 74% to $1.2 billion, driven by Amvuttra's record quarter, though the company lowered its full-year guidance due to a normalization of second-line demand.",
       "fuente": "Yahoo",
-      "fecha": "28 Jul 2026 13:15 UTC",
-      "url": "https://finnhub.io/api/news?id=741baff667df3847d6f0c20f7d23cfcea33cd204bcd72a9626d6cabb7671ea73",
+      "fecha": "30 Jul 2026 21:04 UTC",
+      "url": "https://finnhub.io/api/news?id=29b8dbe1b74121ae7fe9e6060feefa29d96f59f762d1111f818bafbb7c23442e",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam Pharma (ALNY) Q2 2026 Earnings Call Transcript",
+      "resumen": "TTR franchise revenues topped $1 billion for first time as AMVUTTRA gains traction.",
+      "fuente": "Yahoo",
+      "fecha": "31 Jul 2026 03:20 UTC",
+      "url": "https://finnhub.io/api/news?id=a0cb9609a9625cb74d18c780da5002f1dd760565dc8be54a9da767af080934d4",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "ARGX",
@@ -523,18 +465,6 @@
       "fecha": "29 Jul 2026 09:36 UTC",
       "url": "https://finnhub.io/api/news?id=f834f2800abfd4f6a39fe6eff6d9b40481432a810bd3d98a7ca4a3569233a90c",
       "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2256895141/image_2256895141.jpg?io=getty-c-w1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "AbCellera Announces Collaboration with Vertex to Discover Multispecific T-Cell Engagers for Autoimmune Diseases and Other Conditions",
-      "resumen": "VANCOUVER, British Columbia, July 29, 2026--AbCellera Announces Collaboration with Vertex to Discover Multispecific T-Cell Engagers for Autoimmune Diseases and Other Conditions",
-      "fuente": "Yahoo",
-      "fecha": "29 Jul 2026 11:00 UTC",
-      "url": "https://finnhub.io/api/news?id=60bbb3013ffab29675f18d6859109afcd760881dfa67d13bb4615ac423d1506e",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
@@ -564,12 +494,84 @@
       "badge": "🔵"
     },
     {
+      "ticker": "DYN",
+      "titulo": "Dyne Therapeutics Q2 EPS $(1.08) Misses $(0.75) Estimate",
+      "resumen": "Dyne Therapeutics (NASDAQ:DYN) reported quarterly losses of $(1.08) per share which missed the analyst consensus estimate of $(0.75) by 44 percent. This is a 11.34 percent decrease over losses of $(0.97) per share from",
+      "fuente": "Benzinga",
+      "fecha": "29 Jul 2026 17:33 UTC",
+      "url": "https://finnhub.io/api/news?id=83953b0d72fed0fac21cb7de1920ad477929edc4ccce59c66ea56f3e3008fdfc",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
       "ticker": "VRTX",
       "titulo": "Vertex Pharmaceuticals (VRTX) Expands Its Pipeline Reach, Is The Stock Fully Valued?",
       "resumen": "Vertex Pharmaceuticals (VRTX) is back in focus after AbCellera Biologics announced a collaboration to develop multispecific T cell engagers targeting autoimmune diseases and other conditions. Under the agreement, Vertex will fund the research and retain commercialization rights. See our latest analy",
       "fuente": "Yahoo",
       "fecha": "29 Jul 2026 19:08 UTC",
       "url": "https://finnhub.io/api/news?id=421d31ea5999d389b5893a796c7ed1557f77b278da24643c864ae1a8d7df7f3a",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Canaccord Genuity Maintains Buy on Viking Therapeutics, Raises Price Target to $114",
+      "resumen": "Canaccord Genuity  analyst Edward Nash   maintains Viking Therapeutics (NASDAQ:VKTX) with a Buy and raises the price target from $107 to $114.",
+      "fuente": "Benzinga",
+      "fecha": "30 Jul 2026 11:56 UTC",
+      "url": "https://finnhub.io/api/news?id=085415b6c7b0f59d89516900c125d93328b5775a530308369fe3a8619a39cd2f",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Viking Therapeutics Stock Moves Lower: What's Going On?",
+      "resumen": "Viking Therapeutics Inc (NASDAQ:VKTX) shares are retreating Thursday despite reporting a narrower second-quarter loss than expected. Here&#39;s what you should know.",
+      "fuente": "Benzinga",
+      "fecha": "30 Jul 2026 13:09 UTC",
+      "url": "https://finnhub.io/api/news?id=7fecc59f19fbe8b30cec217897163b0481113bb037d2b13eff96ca106b8d5026",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/07/30/Viking-Therapeutics.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Here are the top movers in Thursday's session.",
+      "resumen": "Wondering how the US markets performed one hour before the close of the markets on Thursday? Discover the movers and shakers of today's session in our comprehensive analysis.",
+      "fuente": "ChartMill",
+      "fecha": "30 Jul 2026 19:00 UTC",
+      "url": "https://finnhub.io/api/news?id=9b91eef2b8e2d9a959b6302bff5315213d6186248c60d401df3f91ff38e01b45",
+      "imagen": "https://www.chartmill.com/images/uploads/CM_Top_Movers_Small_free_2b4ff2fc22.webp",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "US Equity Markets End Higher on Microsoft's Cloud Gains, Semiconductor Rebound",
+      "resumen": "US equity indexes ended higher Thursday after Microsoft (MSFT) posted AI-backed gains and semiconduc",
+      "fuente": "Yahoo",
+      "fecha": "30 Jul 2026 20:17 UTC",
+      "url": "https://finnhub.io/api/news?id=86fc54330a2ca5394d51a7325fae278c4faa3cfa333c16c6b4b601df4e36f3e6",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Just Paid $10 Billion for Crinetics. Here's Why Viking Therapeutics Could Be the Next Big Pharma Takeover Target",
+      "resumen": "There are other reasons to pay attention to Viking Therapeutics.",
+      "fuente": "Yahoo",
+      "fecha": "30 Jul 2026 22:50 UTC",
+      "url": "https://finnhub.io/api/news?id=eb8ae6cb70ca7b946707a8aa4b6c4d3c77225f489baa605fe36f3ca8cc64e515",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",

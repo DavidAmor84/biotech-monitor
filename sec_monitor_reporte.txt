@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 31/07/2026 09:44 | Período: últimos 7 días
-Desde: 2026-07-24 → Hasta: 2026-07-31
+Generado: 03/08/2026 10:42 | Período: últimos 7 días
+Desde: 2026-07-27 → Hasta: 2026-08-03
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 14 filings | 🔴 1 | 🟢 1 | 🟡 5 | 🔵 7 | ✅ 10 sin novedad
+RESUMEN: 12 filings | 🔴 1 | 🟢 1 | 🟡 4 | 🔵 6 | ✅ 12 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (2)
@@ -71,21 +71,13 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1745999/000119312526323640/xslF345X06/ownership.xml
   ✅ [OCUL] Sin novedades
   ✅ [CAI] Sin novedades
-
-  🟡 [GPCR] Structure Therapeutics Inc. — 1 filing(s)
-     🟡 MEDIA 4 | 2026-07-24 | FMR LLC → Venta 1,367 acciones @ $50.07 | Post: 1,369
-     Insider: FMR LLC → Venta 1,367 acciones @ $50.07 | Post: 1,369
-     → https://www.sec.gov/Archives/edgar/data/1888886/000119312526315240/xslF345X06/ownership.xml
+  ✅ [GPCR] Sin novedades
   ✅ [ABVX] Sin novedades
   ✅ [VERA] Sin novedades
   ✅ [ACRV] Sin novedades
   ✅ [TARA] Sin novedades
   ✅ [SENS] Sin novedades
-
-  🔵 [INSM] INSMED Inc — 1 filing(s)
-     🔵 INFO 4 | 2026-07-24 | Lewis William (Director / Chair and CEO) → Ejercicio opción 6,260 acciones @ $30.46 | Post: 265,318 | Rutinaria/RSU/impuestos
-     Insider: Lewis William (Director / Chair and CEO) → Ejercicio opción 6,260 acciones @ $30.46 | Post: 265,318 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1104506/000140205126000042/xslF345X06/wk-form4_1784926946.xml
+  ✅ [INSM] Sin novedades
   ⚪ [NWL] Sin CIK SEC
 
 ──────────────────────────────────────────────────
@@ -123,7 +115,7 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Reclutando activamente
        Enrollment: 150 pacientes
        Primary completion: 2028-07
-       Última actualización: 2026-07-30
+       Última actualización: 2026-07-31
        → https://clinicaltrials.gov/study/NCT07486934
 
   [VKTX]

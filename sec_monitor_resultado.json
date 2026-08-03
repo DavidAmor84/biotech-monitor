@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "31/07/2026 09:44",
+  "generado": "03/08/2026 10:42",
   "periodo_dias": 7,
-  "desde": "2026-07-24",
-  "hasta": "2026-07-31",
+  "desde": "2026-07-27",
+  "hasta": "2026-08-03",
   "resumen": {
-    "total_filings": 14,
+    "total_filings": 12,
     "alertas_rojas": 1,
     "alertas_verdes": 1,
-    "alertas_amarillas": 5,
-    "alertas_azules": 7,
-    "sin_novedad": 10
+    "alertas_amarillas": 4,
+    "alertas_azules": 6,
+    "sin_novedad": 12
   },
   "tickers": {
     "SNDX": {
@@ -435,36 +435,9 @@
       "cik": "0001888886",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-07-24",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "FMR LLC → Venta 1,367 acciones @ $50.07 | Post: 1,369",
-          "detalle": "4",
-          "empresa_sec": "Structure Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000119312526315240/xslF345X06/ownership.xml",
-          "form4_detail": {
-            "insider_nombre": "FMR LLC",
-            "insider_cargo": null,
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "1367",
-            "transaccion_precio": "50.07",
-            "transaccion_fecha": "2026-07-22",
-            "acciones_post": "1369",
-            "footnotes": "Reported securities are represented by American Depositary Shares, each of which represents three Ordinary Shares of the Issuer. The price reported for this transaction is the weighted average price of multiple trades at prices ranging from $50.05 to $50.20. FMR LLC hereby undertakes to provide upon request by the Commission staff, the issuer, or a security holder of the issuer full information.",
-            "es_rutinaria": false,
-            "resumen_detail": "FMR LLC → Venta 1,367 acciones @ $50.07 | Post: 1,369"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "ABVX": {
@@ -528,36 +501,9 @@
       "cik": "0001104506",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-07-24",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Lewis William (Director / Chair and CEO) → Ejercicio opción 6,260 acciones @ $30.46 | Post: 265,318 | Rutinaria/RSU/impuestos",
-          "detalle": "FORM 4",
-          "empresa_sec": "INSMED Inc",
-          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000140205126000042/xslF345X06/wk-form4_1784926946.xml",
-          "form4_detail": {
-            "insider_nombre": "Lewis William",
-            "insider_cargo": "Director / Chair and CEO",
-            "transaccion_codigo": "M",
-            "transaccion_tipo": "Ejercicio opción",
-            "transaccion_acciones": "6260",
-            "transaccion_precio": "30.46",
-            "transaccion_fecha": "2026-07-23",
-            "acciones_post": "265318",
-            "footnotes": "This transaction was effected pursuant to a 10b5-1 trading plan adopted by the Reporting Person on September 4, 2025, in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934, as amended. This is the weighted average sales price representing 4,828 shares sold at prices ranging from $105.09 to $106.02 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. This is the weighted average sales price representing 5,872 shares sold at prices ranging from $106.09 to $106.78 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. The options became exercisable based on the following vesting schedule: 25% vested on the first anniversary of the grant date and an additional 12.5% vested on each sixth month anniversary date thereafter through the fourth anniversary of the date of grant.",
-            "es_rutinaria": true,
-            "resumen_detail": "Lewis William (Director / Chair and CEO) → Ejercicio opción 6,260 acciones @ $30.46 | Post: 265,318 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "NWL": {
@@ -948,62 +894,6 @@
       },
       "10q_detail": null,
       "prospecto_detail": null
-    },
-    {
-      "ticker": "GPCR",
-      "nombre": "Structure Therapeutics Inc.",
-      "form": "4",
-      "fecha": "2026-07-24",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "FMR LLC → Venta 1,367 acciones @ $50.07 | Post: 1,369",
-      "detalle": "4",
-      "empresa_sec": "Structure Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000119312526315240/xslF345X06/ownership.xml",
-      "form4_detail": {
-        "insider_nombre": "FMR LLC",
-        "insider_cargo": null,
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "1367",
-        "transaccion_precio": "50.07",
-        "transaccion_fecha": "2026-07-22",
-        "acciones_post": "1369",
-        "footnotes": "Reported securities are represented by American Depositary Shares, each of which represents three Ordinary Shares of the Issuer. The price reported for this transaction is the weighted average price of multiple trades at prices ranging from $50.05 to $50.20. FMR LLC hereby undertakes to provide upon request by the Commission staff, the issuer, or a security holder of the issuer full information.",
-        "es_rutinaria": false,
-        "resumen_detail": "FMR LLC → Venta 1,367 acciones @ $50.07 | Post: 1,369"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "INSM",
-      "nombre": "INSMED Inc",
-      "form": "4",
-      "fecha": "2026-07-24",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Lewis William (Director / Chair and CEO) → Ejercicio opción 6,260 acciones @ $30.46 | Post: 265,318 | Rutinaria/RSU/impuestos",
-      "detalle": "FORM 4",
-      "empresa_sec": "INSMED Inc",
-      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000140205126000042/xslF345X06/wk-form4_1784926946.xml",
-      "form4_detail": {
-        "insider_nombre": "Lewis William",
-        "insider_cargo": "Director / Chair and CEO",
-        "transaccion_codigo": "M",
-        "transaccion_tipo": "Ejercicio opción",
-        "transaccion_acciones": "6260",
-        "transaccion_precio": "30.46",
-        "transaccion_fecha": "2026-07-23",
-        "acciones_post": "265318",
-        "footnotes": "This transaction was effected pursuant to a 10b5-1 trading plan adopted by the Reporting Person on September 4, 2025, in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934, as amended. This is the weighted average sales price representing 4,828 shares sold at prices ranging from $105.09 to $106.02 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. This is the weighted average sales price representing 5,872 shares sold at prices ranging from $106.09 to $106.78 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. The options became exercisable based on the following vesting schedule: 25% vested on the first anniversary of the grant date and an additional 12.5% vested on each sixth month anniversary date thereafter through the fourth anniversary of the date of grant.",
-        "es_rutinaria": true,
-        "resumen_detail": "Lewis William (Director / Chair and CEO) → Ejercicio opción 6,260 acciones @ $30.46 | Post: 265,318 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
     }
   ],
   "clinicaltrials": {
@@ -1075,7 +965,7 @@
         "nivel": "verde",
         "badge": "🟢",
         "enrollment": 150,
-        "ultima_actualizacion": "2026-07-30",
+        "ultima_actualizacion": "2026-07-31",
         "fecha_completion_primaria": "2028-07",
         "changed": true,
         "url": "https://clinicaltrials.gov/study/NCT07486934"

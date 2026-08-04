@@ -1,8 +1,8 @@
 {
-  "generado": "03/08/2026 10:50 UTC",
+  "generado": "04/08/2026 09:48 UTC",
   "plazo_horas": 72,
-  "desde": "2026-07-31",
-  "hasta": "2026-08-03",
+  "desde": "2026-08-01",
+  "hasta": "2026-08-04",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -12,41 +12,15 @@
     },
     "ARGX": {
       "nombre": "ARGX",
-      "noticias": [
-        {
-          "ticker": "ARGX",
-          "titulo": "argenx SE (ARGX) Forte Biosciences, Inc. - M&A Call - Slideshow",
-          "resumen": "",
-          "fuente": "SeekingAlpha",
-          "fecha": "31 Jul 2026 19:38 UTC",
-          "url": "https://finnhub.io/api/news?id=78f37abe8ed256f4a71568e266f94223827747a4d1a5ee8b8823335c630871f2",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "DYN": {
       "nombre": "DYN",
-      "noticias": [
-        {
-          "ticker": "DYN",
-          "titulo": "Morgan Stanley Maintains Overweight on Dyne Therapeutics, Lowers Price Target to $45",
-          "resumen": "Morgan Stanley  analyst Michael Ulz   maintains Dyne Therapeutics (NASDAQ:DYN) with a Overweight and lowers the price target from $47 to $45.",
-          "fuente": "Benzinga",
-          "fecha": "31 Jul 2026 13:31 UTC",
-          "url": "https://finnhub.io/api/news?id=eaeac35fd4a3464df22c0019ca3a462096ec58f30982477430070d5d1d20740f",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "DNLI": {
       "nombre": "DNLI",
@@ -65,11 +39,11 @@
       "noticias": [
         {
           "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals (VRTX) Q2 Earnings Report Preview: What To Look For",
-          "resumen": "Biotech company Vertex Pharmaceuticals (NASDAQ:VRTX) will be reporting results this Monday after the bell. Here’s what to look for.",
+          "titulo": "Vertex Pharmaceuticals Inc (VRTX) (Q2 2026) Earnings Call Highlights: Revenue Surges 12% to $3. ...",
+          "resumen": "Vertex raises full-year 2026 revenue guidance to $13.1-$13.2 billion as CASGEVY and JOURNAVX show strong sequential growth, while advancing a robust pipeline and strategic Crinetics acquisition.",
           "fuente": "Yahoo",
-          "fecha": "02 Aug 2026 04:36 UTC",
-          "url": "https://finnhub.io/api/news?id=fab83185dfc322c5138a32b43f26849a509ecd83026c58227dad50ddfd0cb7aa",
+          "fecha": "04 Aug 2026 05:08 UTC",
+          "url": "https://finnhub.io/api/news?id=dd56684479086b09a9c08b3176c470d1855c316ea8c11773c551232e8fcd3c7d",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -77,11 +51,47 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "Is The Recent Pullback In Alnylam Stock An Opportunity Or A Trap?",
-          "resumen": "The biotech's shares have stumbled after a guidance change, and investors are weighing whether this is the moment to step in or step aside.",
+          "titulo": "Vertex Pharmaceuticals Incorporated (VRTX) Q2 2026 Earnings Call Transcript",
+          "resumen": "Vertex Pharmaceuticals Incorporated (VRTX) Q2 2026 Earnings Call August 3, 2026 4:30 PM EDTCompany ParticipantsSusie Lisa - Senior Vice President of...",
+          "fuente": "SeekingAlpha",
+          "fecha": "03 Aug 2026 23:09 UTC",
+          "url": "https://finnhub.io/api/news?id=7e00387653f41c77398a88e148bbf63751fee590b653e4f81ecdb065f240f8c5",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex Pharmaceuticals Q2 Earnings Call Highlights",
+          "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) reported second-quarter 2026 revenue growth of 12% year over year to $3.3 billion, driven by continued growth in its cystic fibrosis franchise and rising contributions from newer products CASGEVY and JOURNAVX. Chief Executive Officer and President Reshma Kewalra",
           "fuente": "Yahoo",
-          "fecha": "31 Jul 2026 19:29 UTC",
-          "url": "https://finnhub.io/api/news?id=fbee925dabbe6f460ef2b4b28c54e17bf35b8224f7677ab26790e7608838499f",
+          "fecha": "03 Aug 2026 23:03 UTC",
+          "url": "https://finnhub.io/api/news?id=c7c1bac8a4be7e1bca887af4abc9e92a06d03ce636155d166171dc8851c4e126",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex Pharmaceuticals Incorporated 2026 Q2 - Results - Earnings Call Presentation",
+          "resumen": "2026-08-03. The following slide deck was published by Vertex Pharmaceuticals Incorporated in conjunction with their 2026 Q2 earnings call.",
+          "fuente": "SeekingAlpha",
+          "fecha": "03 Aug 2026 23:01 UTC",
+          "url": "https://finnhub.io/api/news?id=cd71711e25cb163c9f05f483851c9f5b6b7eb81c55fa46d409773ec5676efefb",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex (VRTX) Reports Q2 Earnings: What Key Metrics Have to Say",
+          "resumen": "Although the revenue and EPS for Vertex (VRTX) give a sense of how its business performed in the quarter ended June 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
+          "fuente": "Yahoo",
+          "fecha": "03 Aug 2026 21:30 UTC",
+          "url": "https://finnhub.io/api/news?id=2c85fd6651e8a37c93bd116754644b8c8fdc608ac20c6dd3606025ce523510da",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -89,30 +99,18 @@
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 5
     },
     "ALNY": {
       "nombre": "ALNY",
       "noticias": [
         {
           "ticker": "ALNY",
-          "titulo": "Alnylam Pharmaceuticals (NASDAQ:ALNY): Affordable Growth at a Reasonable Valuation",
-          "resumen": "Alnylam Pharmaceuticals (ALNY) combines strong growth with reasonable valuation, making it an affordable growth stock. See why its metrics stand out.",
-          "fuente": "ChartMill",
-          "fecha": "01 Aug 2026 09:40 UTC",
-          "url": "https://finnhub.io/api/news?id=7e0912b15c85171e39dc411928a2a008877438070b0e01612877b12bb1d931a8",
-          "imagen": "https://www.chartmill.com/images/uploads/Affordable_Growth_500_264px_webp_add6a3aa59.webp",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Is The Recent Pullback In Alnylam Stock An Opportunity Or A Trap?",
-          "resumen": "The biotech's shares have stumbled after a guidance change, and investors are weighing whether this is the moment to step in or step aside.",
+          "titulo": "Alnylam (ALNY) Q2 2026 Earnings Call Transcript",
+          "resumen": "TTR franchise revenues topped $1 billion for first time as AMVUTTRA gains traction.",
           "fuente": "Yahoo",
-          "fecha": "31 Jul 2026 19:29 UTC",
-          "url": "https://finnhub.io/api/news?id=fbee925dabbe6f460ef2b4b28c54e17bf35b8224f7677ab26790e7608838499f",
+          "fecha": "04 Aug 2026 01:54 UTC",
+          "url": "https://finnhub.io/api/news?id=e480ca1538c739bd58b54d779de5630f208cbd8e528505c614455a4bf230c760",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -120,35 +118,23 @@
         },
         {
           "ticker": "ALNY",
-          "titulo": "ALNY Stock Tanks 28% as Q2 Earnings Miss Estimates, '26 Sales View Cut",
-          "resumen": "Alnylam stock plunges after Q2 earnings and revenue miss estimates, while a cut to 2026 product sales guidance overshadows record quarterly Amvuttra sales.",
+          "titulo": "Netflix resumed, Starbucks downgraded: Wall Street's top analyst calls",
+          "resumen": "Netflix resumed, Starbucks downgraded: Wall Street's top analyst calls",
           "fuente": "Yahoo",
-          "fecha": "31 Jul 2026 15:25 UTC",
-          "url": "https://finnhub.io/api/news?id=c58437812b93932b114d67917042926ea53a918491e43d2b559dc67e316a5aac",
+          "fecha": "03 Aug 2026 13:49 UTC",
+          "url": "https://finnhub.io/api/news?id=a8bc61c00cb6e74596a2629320670cea756b61367d3837f90428e6bbc42691ec",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "JP Morgan Maintains Overweight on Alnylam Pharmaceuticals, Lowers Price Target to $375",
-          "resumen": "JP Morgan  analyst Jessica Fye   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Overweight and lowers the price target from $400 to $375.",
-          "fuente": "Benzinga",
-          "fecha": "31 Jul 2026 14:06 UTC",
-          "url": "https://finnhub.io/api/news?id=6bb3f1e0e88f9c8ecebfcc01d7905c6466c932caff5b3928a307f87637c9d1f3",
-          "imagen": "",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         },
         {
           "ticker": "ALNY",
-          "titulo": "RBC Capital Maintains Outperform on Alnylam Pharmaceuticals, Lowers Price Target to $350",
-          "resumen": "RBC Capital  analyst Luca Issi   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Outperform and lowers the price target from $445 to $350.",
+          "titulo": "Barclays Maintains Overweight on Alnylam Pharmaceuticals, Lowers Price Target to $450",
+          "resumen": "Barclays  analyst Eliana Merle   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Overweight and lowers the price target from $527 to $450.",
           "fuente": "Benzinga",
-          "fecha": "31 Jul 2026 13:54 UTC",
-          "url": "https://finnhub.io/api/news?id=5b1b0640c38cf26dee1bbb6fd4f388aef07b2577d35798a1abf7bd23af40e70a",
+          "fecha": "03 Aug 2026 06:49 UTC",
+          "url": "https://finnhub.io/api/news?id=e72c74e9237b62ec6b877bcf490a81dc72cb08173570db6977ab522a960c5cf4",
           "imagen": "",
           "urgente": false,
           "nivel": "azul",
@@ -156,7 +142,7 @@
         }
       ],
       "nivel": "rojo",
-      "total": 5
+      "total": 3
     },
     "BEAM": {
       "nombre": "BEAM",
@@ -179,9 +165,22 @@
     },
     "OCUL": {
       "nombre": "OCUL",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "OCUL",
+          "titulo": "Ocular Therapeutix Q2 EPS $(0.35) Beats $(0.40) Estimate, Sales $13.475M Beat $13.199M Estimate",
+          "resumen": "Ocular Therapeutix (NASDAQ:OCUL) reported quarterly losses of $(0.35) per share which beat the analyst consensus estimate of $(0.40) by 10.26 percent. This is a 10.26 percent increase over losses of $(0.39) per share",
+          "fuente": "Benzinga",
+          "fecha": "03 Aug 2026 07:06 UTC",
+          "url": "https://finnhub.io/api/news?id=9773b8e3ed4fe71c51f9de3b7fce411b7cac7272a975663017b1b241517809c3",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "CAI": {
       "nombre": "CAI",
@@ -234,30 +233,18 @@
   },
   "resumen": {
     "total_noticias": 10,
-    "tickers_con_noticias": 5,
+    "tickers_con_noticias": 4,
     "alertas_urgentes": 2,
-    "sin_noticias": 12
+    "sin_noticias": 13
   },
   "todas_noticias": [
     {
       "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals (VRTX) Q2 Earnings Report Preview: What To Look For",
-      "resumen": "Biotech company Vertex Pharmaceuticals (NASDAQ:VRTX) will be reporting results this Monday after the bell. Here’s what to look for.",
+      "titulo": "Vertex (VRTX) Reports Q2 Earnings: What Key Metrics Have to Say",
+      "resumen": "Although the revenue and EPS for Vertex (VRTX) give a sense of how its business performed in the quarter ended June 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
       "fuente": "Yahoo",
-      "fecha": "02 Aug 2026 04:36 UTC",
-      "url": "https://finnhub.io/api/news?id=fab83185dfc322c5138a32b43f26849a509ecd83026c58227dad50ddfd0cb7aa",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "ALNY Stock Tanks 28% as Q2 Earnings Miss Estimates, '26 Sales View Cut",
-      "resumen": "Alnylam stock plunges after Q2 earnings and revenue miss estimates, while a cut to 2026 product sales guidance overshadows record quarterly Amvuttra sales.",
-      "fuente": "Yahoo",
-      "fecha": "31 Jul 2026 15:25 UTC",
-      "url": "https://finnhub.io/api/news?id=c58437812b93932b114d67917042926ea53a918491e43d2b559dc67e316a5aac",
+      "fecha": "03 Aug 2026 21:30 UTC",
+      "url": "https://finnhub.io/api/news?id=2c85fd6651e8a37c93bd116754644b8c8fdc608ac20c6dd3606025ce523510da",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
@@ -265,39 +252,63 @@
     },
     {
       "ticker": "VRTX",
-      "titulo": "Is The Recent Pullback In Alnylam Stock An Opportunity Or A Trap?",
-      "resumen": "The biotech's shares have stumbled after a guidance change, and investors are weighing whether this is the moment to step in or step aside.",
+      "titulo": "Vertex Pharmaceuticals Incorporated 2026 Q2 - Results - Earnings Call Presentation",
+      "resumen": "2026-08-03. The following slide deck was published by Vertex Pharmaceuticals Incorporated in conjunction with their 2026 Q2 earnings call.",
+      "fuente": "SeekingAlpha",
+      "fecha": "03 Aug 2026 23:01 UTC",
+      "url": "https://finnhub.io/api/news?id=cd71711e25cb163c9f05f483851c9f5b6b7eb81c55fa46d409773ec5676efefb",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals Q2 Earnings Call Highlights",
+      "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) reported second-quarter 2026 revenue growth of 12% year over year to $3.3 billion, driven by continued growth in its cystic fibrosis franchise and rising contributions from newer products CASGEVY and JOURNAVX. Chief Executive Officer and President Reshma Kewalra",
       "fuente": "Yahoo",
-      "fecha": "31 Jul 2026 19:29 UTC",
-      "url": "https://finnhub.io/api/news?id=fbee925dabbe6f460ef2b4b28c54e17bf35b8224f7677ab26790e7608838499f",
+      "fecha": "03 Aug 2026 23:03 UTC",
+      "url": "https://finnhub.io/api/news?id=c7c1bac8a4be7e1bca887af4abc9e92a06d03ce636155d166171dc8851c4e126",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
     },
     {
-      "ticker": "ALNY",
-      "titulo": "Is The Recent Pullback In Alnylam Stock An Opportunity Or A Trap?",
-      "resumen": "The biotech's shares have stumbled after a guidance change, and investors are weighing whether this is the moment to step in or step aside.",
-      "fuente": "Yahoo",
-      "fecha": "31 Jul 2026 19:29 UTC",
-      "url": "https://finnhub.io/api/news?id=fbee925dabbe6f460ef2b4b28c54e17bf35b8224f7677ab26790e7608838499f",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals Incorporated (VRTX) Q2 2026 Earnings Call Transcript",
+      "resumen": "Vertex Pharmaceuticals Incorporated (VRTX) Q2 2026 Earnings Call August 3, 2026 4:30 PM EDTCompany ParticipantsSusie Lisa - Senior Vice President of...",
+      "fuente": "SeekingAlpha",
+      "fecha": "03 Aug 2026 23:09 UTC",
+      "url": "https://finnhub.io/api/news?id=7e00387653f41c77398a88e148bbf63751fee590b653e4f81ecdb065f240f8c5",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
     },
     {
       "ticker": "ALNY",
-      "titulo": "Alnylam Pharmaceuticals (NASDAQ:ALNY): Affordable Growth at a Reasonable Valuation",
-      "resumen": "Alnylam Pharmaceuticals (ALNY) combines strong growth with reasonable valuation, making it an affordable growth stock. See why its metrics stand out.",
-      "fuente": "ChartMill",
-      "fecha": "01 Aug 2026 09:40 UTC",
-      "url": "https://finnhub.io/api/news?id=7e0912b15c85171e39dc411928a2a008877438070b0e01612877b12bb1d931a8",
-      "imagen": "https://www.chartmill.com/images/uploads/Affordable_Growth_500_264px_webp_add6a3aa59.webp",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "titulo": "Alnylam (ALNY) Q2 2026 Earnings Call Transcript",
+      "resumen": "TTR franchise revenues topped $1 billion for first time as AMVUTTRA gains traction.",
+      "fuente": "Yahoo",
+      "fecha": "04 Aug 2026 01:54 UTC",
+      "url": "https://finnhub.io/api/news?id=e480ca1538c739bd58b54d779de5630f208cbd8e528505c614455a4bf230c760",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals Inc (VRTX) (Q2 2026) Earnings Call Highlights: Revenue Surges 12% to $3. ...",
+      "resumen": "Vertex raises full-year 2026 revenue guidance to $13.1-$13.2 billion as CASGEVY and JOURNAVX show strong sequential growth, while advancing a robust pipeline and strategic Crinetics acquisition.",
+      "fuente": "Yahoo",
+      "fecha": "04 Aug 2026 05:08 UTC",
+      "url": "https://finnhub.io/api/news?id=dd56684479086b09a9c08b3176c470d1855c316ea8c11773c551232e8fcd3c7d",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "BEAM",
@@ -312,12 +323,24 @@
       "badge": "🔵"
     },
     {
-      "ticker": "DYN",
-      "titulo": "Morgan Stanley Maintains Overweight on Dyne Therapeutics, Lowers Price Target to $45",
-      "resumen": "Morgan Stanley  analyst Michael Ulz   maintains Dyne Therapeutics (NASDAQ:DYN) with a Overweight and lowers the price target from $47 to $45.",
+      "ticker": "ALNY",
+      "titulo": "Barclays Maintains Overweight on Alnylam Pharmaceuticals, Lowers Price Target to $450",
+      "resumen": "Barclays  analyst Eliana Merle   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Overweight and lowers the price target from $527 to $450.",
       "fuente": "Benzinga",
-      "fecha": "31 Jul 2026 13:31 UTC",
-      "url": "https://finnhub.io/api/news?id=eaeac35fd4a3464df22c0019ca3a462096ec58f30982477430070d5d1d20740f",
+      "fecha": "03 Aug 2026 06:49 UTC",
+      "url": "https://finnhub.io/api/news?id=e72c74e9237b62ec6b877bcf490a81dc72cb08173570db6977ab522a960c5cf4",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "OCUL",
+      "titulo": "Ocular Therapeutix Q2 EPS $(0.35) Beats $(0.40) Estimate, Sales $13.475M Beat $13.199M Estimate",
+      "resumen": "Ocular Therapeutix (NASDAQ:OCUL) reported quarterly losses of $(0.35) per share which beat the analyst consensus estimate of $(0.40) by 10.26 percent. This is a 10.26 percent increase over losses of $(0.39) per share",
+      "fuente": "Benzinga",
+      "fecha": "03 Aug 2026 07:06 UTC",
+      "url": "https://finnhub.io/api/news?id=9773b8e3ed4fe71c51f9de3b7fce411b7cac7272a975663017b1b241517809c3",
       "imagen": "",
       "urgente": false,
       "nivel": "azul",
@@ -325,36 +348,12 @@
     },
     {
       "ticker": "ALNY",
-      "titulo": "RBC Capital Maintains Outperform on Alnylam Pharmaceuticals, Lowers Price Target to $350",
-      "resumen": "RBC Capital  analyst Luca Issi   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Outperform and lowers the price target from $445 to $350.",
-      "fuente": "Benzinga",
-      "fecha": "31 Jul 2026 13:54 UTC",
-      "url": "https://finnhub.io/api/news?id=5b1b0640c38cf26dee1bbb6fd4f388aef07b2577d35798a1abf7bd23af40e70a",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "JP Morgan Maintains Overweight on Alnylam Pharmaceuticals, Lowers Price Target to $375",
-      "resumen": "JP Morgan  analyst Jessica Fye   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Overweight and lowers the price target from $400 to $375.",
-      "fuente": "Benzinga",
-      "fecha": "31 Jul 2026 14:06 UTC",
-      "url": "https://finnhub.io/api/news?id=6bb3f1e0e88f9c8ecebfcc01d7905c6466c932caff5b3928a307f87637c9d1f3",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "argenx SE (ARGX) Forte Biosciences, Inc. - M&A Call - Slideshow",
-      "resumen": "",
-      "fuente": "SeekingAlpha",
-      "fecha": "31 Jul 2026 19:38 UTC",
-      "url": "https://finnhub.io/api/news?id=78f37abe8ed256f4a71568e266f94223827747a4d1a5ee8b8823335c630871f2",
-      "imagen": "",
+      "titulo": "Netflix resumed, Starbucks downgraded: Wall Street's top analyst calls",
+      "resumen": "Netflix resumed, Starbucks downgraded: Wall Street's top analyst calls",
+      "fuente": "Yahoo",
+      "fecha": "03 Aug 2026 13:49 UTC",
+      "url": "https://finnhub.io/api/news?id=a8bc61c00cb6e74596a2629320670cea756b61367d3837f90428e6bbc42691ec",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "03/08/2026 10:42",
+  "generado": "04/08/2026 09:38",
   "periodo_dias": 7,
-  "desde": "2026-07-27",
-  "hasta": "2026-08-03",
+  "desde": "2026-07-28",
+  "hasta": "2026-08-04",
   "resumen": {
-    "total_filings": 12,
+    "total_filings": 15,
     "alertas_rojas": 1,
     "alertas_verdes": 1,
-    "alertas_amarillas": 4,
-    "alertas_azules": 6,
-    "sin_novedad": 12
+    "alertas_amarillas": 5,
+    "alertas_azules": 8,
+    "sin_novedad": 10
   },
   "tickers": {
     "SNDX": {
@@ -303,9 +303,34 @@
       "cik": "0000875320",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "8-K",
+          "fecha": "2026-08-03",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000256/vrtx-20260803.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "2.02",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 2.02. Results of Operations and Financial Condition. On August 3, 2026, Vertex Pharmaceuticals Incorporated (the \"Company\") issued a press release in which it reported its consolidated financial results for the three and six months ended June 30, 2026. A copy of that press release is attached to this Current Report on Form 8-K as Exhibit 99.1 and is incorporated herein by reference. The information set forth in Exhibit 99.1 shall not be deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liability of that section, and shall not be incorporated by reference into any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing. Item 9.01. Financial Statements and Exhibits. (d) Exhibits Exhibit Description of Document 99.1 Press Release Dated August 3, 2026. 104 Cover Page Interactive Data File the cover page XBRL tags are embedded within the Inline XBRL document. SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. VERTEX PHARMACEUTICALS INCORPORATED (Registrant) Date: August 3, 2026 /s/ Joy Liu Joy Liu Executive Vice President, Chief Legal Officer",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "ALNY": {
@@ -413,9 +438,59 @@
       "cik": "0001393434",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "10-Q",
+          "fecha": "2026-08-03",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Shares: 215.9M · ⚖️ Litigios activos · 📋 Shelf mencionado",
+          "detalle": "10-Q",
+          "empresa_sec": "OCULAR THERAPEUTIX, INC",
+          "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926089450/ocul-20260630x10q.htm",
+          "form4_detail": null,
+          "8k_detail": null,
+          "10q_detail": {
+            "caja_mm": null,
+            "burn_trimestral_mm": null,
+            "burn_mensual_mm": null,
+            "runway_meses": null,
+            "shares_outstanding_mm": 215.9,
+            "litigios_detectados": true,
+            "shelf_mencionado": true,
+            "going_concern": false,
+            "extracto_financiero": ": &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; Cash and cash equivalents &#8203; $ 598,641 &#8203; $ 737,060 Accounts receivable, net &#8203; &#8203; 30,261 &#8203; &#8203; 30,650 Inventory &#8203; &#8203; 3,826 &#8203; &#8203; 3,564 Prepaid expenses and other current assets &#8203; &#8203; 11,699 &#8203; &#8203; 10,855 Total current assets &#82",
+            "resumen_10q": "Shares: 215.9M · ⚖️ Litigios activos · 📋 Shelf mencionado"
+          },
+          "prospecto_detail": null
+        },
+        {
+          "form": "8-K",
+          "fecha": "2026-08-03",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+          "detalle": "FORM 8-K",
+          "empresa_sec": "OCULAR THERAPEUTIX, INC",
+          "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926089443/tm2621618d1_8k.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "2.02",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 2.02 Results of Operations and Financial Condition. On August 3, 2026, Ocular Therapeutix, Inc. announced its financial results for the quarter ended June 30, 2026. The full text of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference. The information in this Current Report on Form 8-K, including Exhibit 99.1 attached hereto, is furnished to comply with Item 2.02 of Form 8-K, and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits: 99.1 Press Release of Ocular Therapeutix, Inc., dated August 3, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. OCULAR THERAPEUTIX, INC. Date: August 3, 2026 By: /s/ Jason S. Robins Jason S. Robins Chief Financial Officer",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "CAI": {
@@ -570,6 +645,85 @@
     }
   ],
   "todos_filings": [
+    {
+      "ticker": "VRTX",
+      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
+      "form": "8-K",
+      "fecha": "2026-08-03",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000256/vrtx-20260803.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "2.02",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 2.02. Results of Operations and Financial Condition. On August 3, 2026, Vertex Pharmaceuticals Incorporated (the \"Company\") issued a press release in which it reported its consolidated financial results for the three and six months ended June 30, 2026. A copy of that press release is attached to this Current Report on Form 8-K as Exhibit 99.1 and is incorporated herein by reference. The information set forth in Exhibit 99.1 shall not be deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liability of that section, and shall not be incorporated by reference into any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing. Item 9.01. Financial Statements and Exhibits. (d) Exhibits Exhibit Description of Document 99.1 Press Release Dated August 3, 2026. 104 Cover Page Interactive Data File the cover page XBRL tags are embedded within the Inline XBRL document. SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. VERTEX PHARMACEUTICALS INCORPORATED (Registrant) Date: August 3, 2026 /s/ Joy Liu Joy Liu Executive Vice President, Chief Legal Officer",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "OCUL",
+      "nombre": "OCULAR THERAPEUTIX, INC",
+      "form": "10-Q",
+      "fecha": "2026-08-03",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Shares: 215.9M · ⚖️ Litigios activos · 📋 Shelf mencionado",
+      "detalle": "10-Q",
+      "empresa_sec": "OCULAR THERAPEUTIX, INC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926089450/ocul-20260630x10q.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": {
+        "caja_mm": null,
+        "burn_trimestral_mm": null,
+        "burn_mensual_mm": null,
+        "runway_meses": null,
+        "shares_outstanding_mm": 215.9,
+        "litigios_detectados": true,
+        "shelf_mencionado": true,
+        "going_concern": false,
+        "extracto_financiero": ": &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; Cash and cash equivalents &#8203; $ 598,641 &#8203; $ 737,060 Accounts receivable, net &#8203; &#8203; 30,261 &#8203; &#8203; 30,650 Inventory &#8203; &#8203; 3,826 &#8203; &#8203; 3,564 Prepaid expenses and other current assets &#8203; &#8203; 11,699 &#8203; &#8203; 10,855 Total current assets &#82",
+        "resumen_10q": "Shares: 215.9M · ⚖️ Litigios activos · 📋 Shelf mencionado"
+      },
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "OCUL",
+      "nombre": "OCULAR THERAPEUTIX, INC",
+      "form": "8-K",
+      "fecha": "2026-08-03",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+      "detalle": "FORM 8-K",
+      "empresa_sec": "OCULAR THERAPEUTIX, INC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926089443/tm2621618d1_8k.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "2.02",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 2.02 Results of Operations and Financial Condition. On August 3, 2026, Ocular Therapeutix, Inc. announced its financial results for the quarter ended June 30, 2026. The full text of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference. The information in this Current Report on Form 8-K, including Exhibit 99.1 attached hereto, is furnished to comply with Item 2.02 of Form 8-K, and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits: 99.1 Press Release of Ocular Therapeutix, Inc., dated August 3, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. OCULAR THERAPEUTIX, INC. Date: August 3, 2026 By: /s/ Jason S. Robins Jason S. Robins Chief Financial Officer",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "ALNY",
       "nombre": "ALNYLAM PHARMACEUTICALS, INC.",

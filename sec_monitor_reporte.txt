@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 03/08/2026 10:42 | Período: últimos 7 días
-Desde: 2026-07-27 → Hasta: 2026-08-03
+Generado: 04/08/2026 09:38 | Período: últimos 7 días
+Desde: 2026-07-28 → Hasta: 2026-08-04
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 12 filings | 🔴 1 | 🟢 1 | 🟡 4 | 🔵 6 | ✅ 12 sin novedad
+RESUMEN: 15 filings | 🔴 1 | 🟢 1 | 🟡 5 | 🔵 8 | ✅ 10 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (2)
@@ -56,7 +56,10 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1607678/000119312526324219/vktx-20260630.htm
      🔵 INFO 8-K | 2026-07-29 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1607678/000119312526323652/vktx-20260729.htm
-  ✅ [VRTX] Sin novedades
+
+  🔵 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 1 filing(s)
+     🔵 INFO 8-K | 2026-08-03 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000256/vrtx-20260803.htm
 
   🟡 [ALNY] ALNYLAM PHARMACEUTICALS, INC. — 2 filing(s)
      🟡 MEDIA 10-Q | 2026-07-30 | Caja: $1708.3M · Shares: 133734.0M · ⚖️ Litigios activos
@@ -69,7 +72,13 @@ DETALLE POR TICKER — SEC EDGAR
      🟡 MEDIA 4 | 2026-07-29 | Simon Amy (Chief Medical Officer) → Venta 16,667 acciones @ $25.74 | Post: 85,696 | Rutinaria/RSU/impuestos
      Insider: Simon Amy (Chief Medical Officer) → Venta 16,667 acciones @ $25.74 | Post: 85,696 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1745999/000119312526323640/xslF345X06/ownership.xml
-  ✅ [OCUL] Sin novedades
+
+  🟡 [OCUL] OCULAR THERAPEUTIX, INC — 2 filing(s)
+     🟡 MEDIA 10-Q | 2026-08-03 | Shares: 215.9M · ⚖️ Litigios activos · 📋 Shelf mencionado
+     10-Q: Shares: 215.9M · ⚖️ Litigios activos · 📋 Shelf mencionado
+     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926089450/ocul-20260630x10q.htm
+     🔵 INFO 8-K | 2026-08-03 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926089443/tm2621618d1_8k.htm
   ✅ [CAI] Sin novedades
   ✅ [GPCR] Sin novedades
   ✅ [ABVX] Sin novedades

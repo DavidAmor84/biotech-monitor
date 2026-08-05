@@ -1,15 +1,15 @@
 {
   "version": "v3",
-  "generado": "04/08/2026 09:38",
+  "generado": "05/08/2026 09:36",
   "periodo_dias": 7,
-  "desde": "2026-07-28",
-  "hasta": "2026-08-04",
+  "desde": "2026-07-29",
+  "hasta": "2026-08-05",
   "resumen": {
-    "total_filings": 15,
+    "total_filings": 19,
     "alertas_rojas": 1,
-    "alertas_verdes": 1,
-    "alertas_amarillas": 5,
-    "alertas_azules": 8,
+    "alertas_verdes": 0,
+    "alertas_amarillas": 8,
+    "alertas_azules": 10,
     "sin_novedad": 10
   },
   "tickers": {
@@ -19,9 +19,59 @@
       "cik": "0001395937",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "10-Q",
+          "fecha": "2026-08-04",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "⚖️ Litigios activos · 📋 Shelf mencionado",
+          "detalle": "10-Q",
+          "empresa_sec": "Syndax Pharmaceuticals Inc",
+          "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526332750/sndx-20260630.htm",
+          "form4_detail": null,
+          "8k_detail": null,
+          "10q_detail": {
+            "caja_mm": null,
+            "burn_trimestral_mm": null,
+            "burn_mensual_mm": null,
+            "runway_meses": null,
+            "shares_outstanding_mm": null,
+            "litigios_detectados": true,
+            "shelf_mencionado": true,
+            "going_concern": false,
+            "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 336,477 &#160; &#160; $ 134,930 &#160; Short-term investments &#160; &#160; 211,383 &#160; &#160; &#160; 259,140 &#160; Accounts receivable, net &#160; &#160; 45,067 &#160; &#160; &#160; 37,996 &#160; Inventory, net &#160; &#160; 33,164 &#160; &#160; &#160; 32,754",
+            "resumen_10q": "⚖️ Litigios activos · 📋 Shelf mencionado"
+          },
+          "prospecto_detail": null
+        },
+        {
+          "form": "8-K",
+          "fecha": "2026-08-04",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "Syndax Pharmaceuticals Inc",
+          "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526332736/sndx-20260804.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "2.02",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 2.02. Results of Operations and Financial Condition. On August 4, 2026, Syndax Pharmaceuticals, Inc. (the Company ) issued a press release and presentation announcing its financial results for the quarter and year ended June 30, 2026. A copy of the press release and presentation are furnished as Exhibits 99.1 and 99.2 to this Current Report on Form 8-K and are incorporated herein by reference. The information contained in this Item 2.02 and in Exhibits 99.1 and 99.2 attached hereto is intended to be furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any of the Company s filings under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 9.01. Financial Statements and Exhibits. (d) Exhibits. Exhibit No. Description 99.1 Press Release, dated August 4, 2026 99.2 Corporate Presentation, dated August 4, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. SYNDAX PHARMACEUTICALS, INC. By: /s/ Michael A. Metzger Michael A. Metzger Chief Executive Officer Dated: August 4, 2026",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "ARGX": {
@@ -128,34 +178,9 @@
       "cik": "0001714899",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "8-K",
-          "fecha": "2026-07-28",
-          "nivel": "verde",
-          "badge": "🟢 ALTA",
-          "resumen": "8-K — Evento positivo potencial: Asset purchase / venta de activo [Items: 2.01, 9.01]",
-          "detalle": "8-K",
-          "empresa_sec": "Denali Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000086/dnli-20260727.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "2.01",
-              "9.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 2.01 Completion of Acquisition or Disposition of Assets. On July 27, 2026, Denali Therapeutics Inc. (the Company ) completed the previously disclosed sale (the Sale ) of its Rare Pediatric Disease Priority Review Voucher (the PRV ) to a large pharmaceutical company. The Company received the PRV when AVLAYAHTM (tividenofusp alfa) was approved by the U.S. Food and Drug Administration for the treatment of Hunter syndrome (mucopolysaccharidosis type II; MPS II) in March 2026. The Sale was completed pursuant to the terms of an asset purchase agreement, dated June 12, 2026 (the PRV Transfer Agreement ). Pursuant to the PRV Transfer Agreement, the Company received gross proceeds of $195.0 million from the buyer upon the closing of the Sale. The foregoing description of the PRV Transfer Agreement does not purport to be complete and is qualified in its entirety by the full text of the PRV Transfer Agreement, which will be filed as an exhibit to a subsequent filing with the Securities and Exchange Commission. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 104 Cover Page Interactive Data File (formatted as Inline XBRL) SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. DENALI THERAPEUTICS INC. Date: July 27, 2025 By: /s/ Alexander O. Schuth Alexander O. Schuth, M.D. Chief Operating and Financial Officer",
-            "nivel_ajustado": "verde",
-            "badge_ajustado": "🟢 ALTA",
-            "resumen_ajustado": "8-K — Evento positivo potencial: Asset purchase / venta de activo"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "verde",
-      "badge": "🟢",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "VKTX": {
@@ -305,6 +330,31 @@
       "validacion_empresa": "OK",
       "filings": [
         {
+          "form": "10-Q",
+          "fecha": "2026-08-04",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Caja: $6143.5M · Shares: 254.0M · ⚖️ Litigios activos",
+          "detalle": "10-Q",
+          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000259/vrtx-20260630.htm",
+          "form4_detail": null,
+          "8k_detail": null,
+          "10q_detail": {
+            "caja_mm": 6143.5,
+            "burn_trimestral_mm": null,
+            "burn_mensual_mm": null,
+            "runway_meses": null,
+            "shares_outstanding_mm": 254.0,
+            "litigios_detectados": true,
+            "shelf_mencionado": false,
+            "going_concern": false,
+            "extracto_financiero": "30, 2026 December 31, 2025 Assets Current assets: Cash and cash equivalents $ 6,143.5 $ 5,084.8 Marketable securities 1,708.9 1,523.3 Accounts receivable, net 2,134.3 2,052.8 Inventories 1,765.1 1,686.8 Prepaid expenses and other current assets 791.9 853.3 Total current assets 12,543.7 11,201.0 Property and equipment, net 1,665.0 1,520.3 Goodwill 1",
+            "resumen_10q": "Caja: $6143.5M · Shares: 254.0M · ⚖️ Litigios activos"
+          },
+          "prospecto_detail": null
+        },
+        {
           "form": "8-K",
           "fecha": "2026-08-03",
           "nivel": "azul",
@@ -329,8 +379,8 @@
           "prospecto_detail": null
         }
       ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "ALNY": {
@@ -401,6 +451,55 @@
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
       "filings": [
+        {
+          "form": "10-Q",
+          "fecha": "2026-08-04",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "⚖️ Litigios activos · 📋 Shelf mencionado",
+          "detalle": "10-Q",
+          "empresa_sec": "Beam Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526331541/beam-20260630.htm",
+          "form4_detail": null,
+          "8k_detail": null,
+          "10q_detail": {
+            "caja_mm": null,
+            "burn_trimestral_mm": null,
+            "burn_mensual_mm": null,
+            "runway_meses": null,
+            "shares_outstanding_mm": null,
+            "litigios_detectados": true,
+            "shelf_mencionado": true,
+            "going_concern": false,
+            "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 219,825 &#160; &#160; $ 294,944 &#160; Marketable securities &#160; &#160; 933,102 &#160; &#160; &#160; 950,266 &#160; Prepaid expenses and other current assets &#160; &#160; 25,668 &#160; &#160; &#160; 23,478 &#160; Total current assets &#160; &#160; 1,178,595 &#1",
+            "resumen_10q": "⚖️ Litigios activos · 📋 Shelf mencionado"
+          },
+          "prospecto_detail": null
+        },
+        {
+          "form": "8-K",
+          "fecha": "2026-08-04",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "Beam Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526331522/beam-20260804.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "2.02",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 2.02 Results of Operations and Financial Condition. On August 4, 2026, the Company issued a press release announcing its financial results for the quarter ended June 30, 2026. A copy of this press release is furnished as Exhibit 99.1 and is incorporated herein by reference. The information in this Item 2.02 as well as in the accompanying Exhibit 99.1 attached hereto is being furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any filing by the Company, under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press Release Issued by Beam Therapeutics Inc. on August 4, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. BEAM THERAPEUTICS INC. Date: August 4, 2026 By: /s/ John Evans Name: John Evans Title: Chief Executive Officer",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
         {
           "form": "4",
           "fecha": "2026-07-29",
@@ -616,35 +715,142 @@
         "resumen_10q": "Shares: 186.7M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado"
       },
       "prospecto_detail": null
-    },
-    {
-      "ticker": "DNLI",
-      "nombre": "Denali Therapeutics Inc.",
-      "form": "8-K",
-      "fecha": "2026-07-28",
-      "nivel": "verde",
-      "badge": "🟢 ALTA",
-      "resumen": "8-K — Evento positivo potencial: Asset purchase / venta de activo [Items: 2.01, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "Denali Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000086/dnli-20260727.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "2.01",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 2.01 Completion of Acquisition or Disposition of Assets. On July 27, 2026, Denali Therapeutics Inc. (the Company ) completed the previously disclosed sale (the Sale ) of its Rare Pediatric Disease Priority Review Voucher (the PRV ) to a large pharmaceutical company. The Company received the PRV when AVLAYAHTM (tividenofusp alfa) was approved by the U.S. Food and Drug Administration for the treatment of Hunter syndrome (mucopolysaccharidosis type II; MPS II) in March 2026. The Sale was completed pursuant to the terms of an asset purchase agreement, dated June 12, 2026 (the PRV Transfer Agreement ). Pursuant to the PRV Transfer Agreement, the Company received gross proceeds of $195.0 million from the buyer upon the closing of the Sale. The foregoing description of the PRV Transfer Agreement does not purport to be complete and is qualified in its entirety by the full text of the PRV Transfer Agreement, which will be filed as an exhibit to a subsequent filing with the Securities and Exchange Commission. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 104 Cover Page Interactive Data File (formatted as Inline XBRL) SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. DENALI THERAPEUTICS INC. Date: July 27, 2025 By: /s/ Alexander O. Schuth Alexander O. Schuth, M.D. Chief Operating and Financial Officer",
-        "nivel_ajustado": "verde",
-        "badge_ajustado": "🟢 ALTA",
-        "resumen_ajustado": "8-K — Evento positivo potencial: Asset purchase / venta de activo"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
     }
   ],
   "todos_filings": [
+    {
+      "ticker": "SNDX",
+      "nombre": "Syndax Pharmaceuticals Inc",
+      "form": "10-Q",
+      "fecha": "2026-08-04",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "⚖️ Litigios activos · 📋 Shelf mencionado",
+      "detalle": "10-Q",
+      "empresa_sec": "Syndax Pharmaceuticals Inc",
+      "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526332750/sndx-20260630.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": {
+        "caja_mm": null,
+        "burn_trimestral_mm": null,
+        "burn_mensual_mm": null,
+        "runway_meses": null,
+        "shares_outstanding_mm": null,
+        "litigios_detectados": true,
+        "shelf_mencionado": true,
+        "going_concern": false,
+        "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 336,477 &#160; &#160; $ 134,930 &#160; Short-term investments &#160; &#160; 211,383 &#160; &#160; &#160; 259,140 &#160; Accounts receivable, net &#160; &#160; 45,067 &#160; &#160; &#160; 37,996 &#160; Inventory, net &#160; &#160; 33,164 &#160; &#160; &#160; 32,754",
+        "resumen_10q": "⚖️ Litigios activos · 📋 Shelf mencionado"
+      },
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "SNDX",
+      "nombre": "Syndax Pharmaceuticals Inc",
+      "form": "8-K",
+      "fecha": "2026-08-04",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Syndax Pharmaceuticals Inc",
+      "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526332736/sndx-20260804.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "2.02",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 2.02. Results of Operations and Financial Condition. On August 4, 2026, Syndax Pharmaceuticals, Inc. (the Company ) issued a press release and presentation announcing its financial results for the quarter and year ended June 30, 2026. A copy of the press release and presentation are furnished as Exhibits 99.1 and 99.2 to this Current Report on Form 8-K and are incorporated herein by reference. The information contained in this Item 2.02 and in Exhibits 99.1 and 99.2 attached hereto is intended to be furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any of the Company s filings under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 9.01. Financial Statements and Exhibits. (d) Exhibits. Exhibit No. Description 99.1 Press Release, dated August 4, 2026 99.2 Corporate Presentation, dated August 4, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. SYNDAX PHARMACEUTICALS, INC. By: /s/ Michael A. Metzger Michael A. Metzger Chief Executive Officer Dated: August 4, 2026",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "VRTX",
+      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
+      "form": "10-Q",
+      "fecha": "2026-08-04",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Caja: $6143.5M · Shares: 254.0M · ⚖️ Litigios activos",
+      "detalle": "10-Q",
+      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000259/vrtx-20260630.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": {
+        "caja_mm": 6143.5,
+        "burn_trimestral_mm": null,
+        "burn_mensual_mm": null,
+        "runway_meses": null,
+        "shares_outstanding_mm": 254.0,
+        "litigios_detectados": true,
+        "shelf_mencionado": false,
+        "going_concern": false,
+        "extracto_financiero": "30, 2026 December 31, 2025 Assets Current assets: Cash and cash equivalents $ 6,143.5 $ 5,084.8 Marketable securities 1,708.9 1,523.3 Accounts receivable, net 2,134.3 2,052.8 Inventories 1,765.1 1,686.8 Prepaid expenses and other current assets 791.9 853.3 Total current assets 12,543.7 11,201.0 Property and equipment, net 1,665.0 1,520.3 Goodwill 1",
+        "resumen_10q": "Caja: $6143.5M · Shares: 254.0M · ⚖️ Litigios activos"
+      },
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "BEAM",
+      "nombre": "Beam Therapeutics Inc.",
+      "form": "10-Q",
+      "fecha": "2026-08-04",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "⚖️ Litigios activos · 📋 Shelf mencionado",
+      "detalle": "10-Q",
+      "empresa_sec": "Beam Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526331541/beam-20260630.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": {
+        "caja_mm": null,
+        "burn_trimestral_mm": null,
+        "burn_mensual_mm": null,
+        "runway_meses": null,
+        "shares_outstanding_mm": null,
+        "litigios_detectados": true,
+        "shelf_mencionado": true,
+        "going_concern": false,
+        "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 219,825 &#160; &#160; $ 294,944 &#160; Marketable securities &#160; &#160; 933,102 &#160; &#160; &#160; 950,266 &#160; Prepaid expenses and other current assets &#160; &#160; 25,668 &#160; &#160; &#160; 23,478 &#160; Total current assets &#160; &#160; 1,178,595 &#1",
+        "resumen_10q": "⚖️ Litigios activos · 📋 Shelf mencionado"
+      },
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "BEAM",
+      "nombre": "Beam Therapeutics Inc.",
+      "form": "8-K",
+      "fecha": "2026-08-04",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Beam Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526331522/beam-20260804.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "2.02",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 2.02 Results of Operations and Financial Condition. On August 4, 2026, the Company issued a press release announcing its financial results for the quarter ended June 30, 2026. A copy of this press release is furnished as Exhibit 99.1 and is incorporated herein by reference. The information in this Item 2.02 as well as in the accompanying Exhibit 99.1 attached hereto is being furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any filing by the Company, under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press Release Issued by Beam Therapeutics Inc. on August 4, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. BEAM THERAPEUTICS INC. Date: August 4, 2026 By: /s/ John Evans Name: John Evans Title: Chief Executive Officer",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "VRTX",
       "nombre": "VERTEX PHARMACEUTICALS INC / MA",
@@ -1020,32 +1226,6 @@
         "resumen_detail": "Simon Amy (Chief Medical Officer) → Venta 16,667 acciones @ $25.74 | Post: 85,696 | Rutinaria/RSU/impuestos"
       },
       "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "DNLI",
-      "nombre": "Denali Therapeutics Inc.",
-      "form": "8-K",
-      "fecha": "2026-07-28",
-      "nivel": "verde",
-      "badge": "🟢 ALTA",
-      "resumen": "8-K — Evento positivo potencial: Asset purchase / venta de activo [Items: 2.01, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "Denali Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000086/dnli-20260727.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "2.01",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 2.01 Completion of Acquisition or Disposition of Assets. On July 27, 2026, Denali Therapeutics Inc. (the Company ) completed the previously disclosed sale (the Sale ) of its Rare Pediatric Disease Priority Review Voucher (the PRV ) to a large pharmaceutical company. The Company received the PRV when AVLAYAHTM (tividenofusp alfa) was approved by the U.S. Food and Drug Administration for the treatment of Hunter syndrome (mucopolysaccharidosis type II; MPS II) in March 2026. The Sale was completed pursuant to the terms of an asset purchase agreement, dated June 12, 2026 (the PRV Transfer Agreement ). Pursuant to the PRV Transfer Agreement, the Company received gross proceeds of $195.0 million from the buyer upon the closing of the Sale. The foregoing description of the PRV Transfer Agreement does not purport to be complete and is qualified in its entirety by the full text of the PRV Transfer Agreement, which will be filed as an exhibit to a subsequent filing with the Securities and Exchange Commission. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 104 Cover Page Interactive Data File (formatted as Inline XBRL) SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. DENALI THERAPEUTICS INC. Date: July 27, 2025 By: /s/ Alexander O. Schuth Alexander O. Schuth, M.D. Chief Operating and Financial Officer",
-        "nivel_ajustado": "verde",
-        "badge_ajustado": "🟢 ALTA",
-        "resumen_ajustado": "8-K — Evento positivo potencial: Asset purchase / venta de activo"
-      },
       "10q_detail": null,
       "prospecto_detail": null
     }

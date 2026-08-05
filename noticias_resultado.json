@@ -1,14 +1,51 @@
 {
-  "generado": "04/08/2026 09:48 UTC",
+  "generado": "05/08/2026 09:45 UTC",
   "plazo_horas": 72,
-  "desde": "2026-08-01",
-  "hasta": "2026-08-04",
+  "desde": "2026-08-02",
+  "hasta": "2026-08-05",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "SNDX",
+          "titulo": "Syndax Pharmaceuticals, Inc. (SNDX) Q2 2026 Earnings Call Transcript",
+          "resumen": "Syndax Pharmaceuticals, Inc. (SNDX) Q2 2026 Earnings Call August 4, 2026 4:30 PM EDTCompany ParticipantsSharon Klahre - Vice President of Investor Relations...",
+          "fuente": "SeekingAlpha",
+          "fecha": "05 Aug 2026 02:19 UTC",
+          "url": "https://finnhub.io/api/news?id=491eeee67630b8fc0a9c32cb786848f7a53f218a3c3f491228d51d69f3739d70",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "SNDX",
+          "titulo": "Syndax Pharmaceuticals (NASDAQ:SNDX) Shares Drop as Q2 Revenue and EPS Miss Estimates",
+          "resumen": "Syndax Pharmaceuticals Q2 2026 revenue and EPS miss estimates, shares dip 6.5%; Revuforj sales up 91%, pipeline advances, cash position strong.",
+          "fuente": "ChartMill",
+          "fecha": "05 Aug 2026 02:12 UTC",
+          "url": "https://finnhub.io/api/news?id=71c7835c4906c6fcb0668a9338b9bff287c4449590bce573a96f952da0d54dda",
+          "imagen": "https://www.chartmill.com/images/uploads/earnings_article_1_defce97180.webp",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "SNDX",
+          "titulo": "Syndax Pharmaceuticals Q2 EPS $(0.55) Misses $(0.49) Estimate, Sales $72.788M Miss $79.323M Estimate",
+          "resumen": "Syndax Pharmaceuticals (NASDAQ:SNDX) reported quarterly losses of $(0.55) per share which missed the analyst consensus estimate of $(0.49) by 12.24 percent. This is a 33.73 percent increase over losses of $(0.83) per",
+          "fuente": "Benzinga",
+          "fecha": "04 Aug 2026 16:03 UTC",
+          "url": "https://finnhub.io/api/news?id=0152ed1b93e3161e0aefe60b22776360c134f9065ed9b4a02426daa0a82039c9",
+          "imagen": "",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 3
     },
     "ARGX": {
       "nombre": "ARGX",
@@ -39,11 +76,47 @@
       "noticias": [
         {
           "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals Inc (VRTX) (Q2 2026) Earnings Call Highlights: Revenue Surges 12% to $3. ...",
-          "resumen": "Vertex raises full-year 2026 revenue guidance to $13.1-$13.2 billion as CASGEVY and JOURNAVX show strong sequential growth, while advancing a robust pipeline and strategic Crinetics acquisition.",
+          "titulo": "Vertex Pharmaceuticals Seen Well Positioned Ahead of Pipeline Catalysts, UBS Says",
+          "resumen": "Vertex Pharmaceuticals (VRTX) remains well positioned heading into the second half of 2026 as severa",
           "fuente": "Yahoo",
-          "fecha": "04 Aug 2026 05:08 UTC",
-          "url": "https://finnhub.io/api/news?id=dd56684479086b09a9c08b3176c470d1855c316ea8c11773c551232e8fcd3c7d",
+          "fecha": "04 Aug 2026 17:05 UTC",
+          "url": "https://finnhub.io/api/news?id=e47001faa115166263a442f28230abdba42b95d19b8edb04e4fd9ecec1553469",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex Pharmaceuticals' Solid Q2, Raised Outlook Underscore Core Business Strength, RBC Says",
+          "resumen": "Vertex Pharmaceuticals (VRTX) reported a solid Q2 and raised its outlook, highlighting the strength",
+          "fuente": "Yahoo",
+          "fecha": "04 Aug 2026 16:02 UTC",
+          "url": "https://finnhub.io/api/news?id=1779ffa16d4cf28c1b259ac324be9f15ee814476b807b5bf97951a8231ca3e17",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "How Vertex Regained Its Footing On A Competitor's Bullish Report",
+          "resumen": "Vertex stock regained its footing Tuesday, rising on a strong second-quarter report and amid heightened expectations for its kidney disease treatment.",
+          "fuente": "Yahoo",
+          "fecha": "04 Aug 2026 15:00 UTC",
+          "url": "https://finnhub.io/api/news?id=ab934a24772cacbc2444176e33fe2e26a3432801ece501642cda46733319fe6f",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "VRTX's Q2 Earnings Lag Estimates, Revenues Top, 2026 Sales View Raised",
+          "resumen": "Vertex's Q2 earnings miss estimates, but revenues beat. It lifts its 2026 sales outlook, and sees growing contributions from newer products.",
+          "fuente": "Yahoo",
+          "fecha": "04 Aug 2026 14:57 UTC",
+          "url": "https://finnhub.io/api/news?id=c75088a93dadcf9e8e98257af8b682dac1d13336bde4d21c44821d1d977692b6",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -51,47 +124,11 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals Incorporated (VRTX) Q2 2026 Earnings Call Transcript",
-          "resumen": "Vertex Pharmaceuticals Incorporated (VRTX) Q2 2026 Earnings Call August 3, 2026 4:30 PM EDTCompany ParticipantsSusie Lisa - Senior Vice President of...",
-          "fuente": "SeekingAlpha",
-          "fecha": "03 Aug 2026 23:09 UTC",
-          "url": "https://finnhub.io/api/news?id=7e00387653f41c77398a88e148bbf63751fee590b653e4f81ecdb065f240f8c5",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals Q2 Earnings Call Highlights",
-          "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) reported second-quarter 2026 revenue growth of 12% year over year to $3.3 billion, driven by continued growth in its cystic fibrosis franchise and rising contributions from newer products CASGEVY and JOURNAVX. Chief Executive Officer and President Reshma Kewalra",
+          "titulo": "CRISPR Therapeutics' Q2 Earnings & Revenues Surpass Estimates",
+          "resumen": "CRSP reports a narrower-than-expected Q2 loss. Revenues beat estimates as Casgevy sales surge across global markets and clinical programs advance.",
           "fuente": "Yahoo",
-          "fecha": "03 Aug 2026 23:03 UTC",
-          "url": "https://finnhub.io/api/news?id=c7c1bac8a4be7e1bca887af4abc9e92a06d03ce636155d166171dc8851c4e126",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals Incorporated 2026 Q2 - Results - Earnings Call Presentation",
-          "resumen": "2026-08-03. The following slide deck was published by Vertex Pharmaceuticals Incorporated in conjunction with their 2026 Q2 earnings call.",
-          "fuente": "SeekingAlpha",
-          "fecha": "03 Aug 2026 23:01 UTC",
-          "url": "https://finnhub.io/api/news?id=cd71711e25cb163c9f05f483851c9f5b6b7eb81c55fa46d409773ec5676efefb",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex (VRTX) Reports Q2 Earnings: What Key Metrics Have to Say",
-          "resumen": "Although the revenue and EPS for Vertex (VRTX) give a sense of how its business performed in the quarter ended June 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
-          "fuente": "Yahoo",
-          "fecha": "03 Aug 2026 21:30 UTC",
-          "url": "https://finnhub.io/api/news?id=2c85fd6651e8a37c93bd116754644b8c8fdc608ac20c6dd3606025ce523510da",
+          "fecha": "04 Aug 2026 14:56 UTC",
+          "url": "https://finnhub.io/api/news?id=f6f657f73b56d365c3988923bf6a3d9124e87491e39b6391d0a32defb58016c3",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -106,6 +143,30 @@
       "noticias": [
         {
           "ticker": "ALNY",
+          "titulo": "Truist Securities Maintains Buy on Alnylam Pharmaceuticals, Lowers Price Target to $315",
+          "resumen": "Truist Securities  analyst Danielle Brill   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Buy and lowers the price target from $410 to $315.",
+          "fuente": "Benzinga",
+          "fecha": "04 Aug 2026 11:28 UTC",
+          "url": "https://finnhub.io/api/news?id=131f96ddfa6776435cb678330bc5045b4c0c47336a2c2f89083c02324e7de017",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "HC Wainwright & Co. Maintains Buy on Alnylam Pharmaceuticals, Lowers Price Target to $455",
+          "resumen": "HC Wainwright &amp; Co.  analyst Patrick R. Trucchio   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Buy and lowers the price target from $485 to $455.",
+          "fuente": "Benzinga",
+          "fecha": "04 Aug 2026 10:54 UTC",
+          "url": "https://finnhub.io/api/news?id=7fff3e29a0f096a2be985f8e2d6228695d46a9ce6f5b7fd0661906e2cc43d0e5",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ALNY",
           "titulo": "Alnylam (ALNY) Q2 2026 Earnings Call Transcript",
           "resumen": "TTR franchise revenues topped $1 billion for first time as AMVUTTRA gains traction.",
           "fuente": "Yahoo",
@@ -118,23 +179,23 @@
         },
         {
           "ticker": "ALNY",
-          "titulo": "Netflix resumed, Starbucks downgraded: Wall Street's top analyst calls",
-          "resumen": "Netflix resumed, Starbucks downgraded: Wall Street's top analyst calls",
-          "fuente": "Yahoo",
-          "fecha": "03 Aug 2026 13:49 UTC",
-          "url": "https://finnhub.io/api/news?id=a8bc61c00cb6e74596a2629320670cea756b61367d3837f90428e6bbc42691ec",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "titulo": "Raymond James Upgrades Alnylam Pharmaceuticals to Strong Buy, Maintains Price Target to $420",
+          "resumen": "Raymond James  analyst Martin Auster   upgrades Alnylam Pharmaceuticals (NASDAQ:ALNY) from Outperform to Strong Buy and maintains the price target from $420 to $420.",
+          "fuente": "Benzinga",
+          "fecha": "03 Aug 2026 14:48 UTC",
+          "url": "https://finnhub.io/api/news?id=afe22a8ff28d939c504fd25d28444fb342d156e58028dc127298187e7007bd64",
+          "imagen": "",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         },
         {
           "ticker": "ALNY",
-          "titulo": "Barclays Maintains Overweight on Alnylam Pharmaceuticals, Lowers Price Target to $450",
-          "resumen": "Barclays  analyst Eliana Merle   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Overweight and lowers the price target from $527 to $450.",
+          "titulo": "Citigroup Maintains Buy on Alnylam Pharmaceuticals, Lowers Price Target to $340",
+          "resumen": "Citigroup  analyst Eric Joseph   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Buy and lowers the price target from $380 to $340.",
           "fuente": "Benzinga",
-          "fecha": "03 Aug 2026 06:49 UTC",
-          "url": "https://finnhub.io/api/news?id=e72c74e9237b62ec6b877bcf490a81dc72cb08173570db6977ab522a960c5cf4",
+          "fecha": "03 Aug 2026 14:10 UTC",
+          "url": "https://finnhub.io/api/news?id=6650ad79990a16a5dbe4e7875c69896ed6b13cd9dfae3d49e996856524f0e664",
           "imagen": "",
           "urgente": false,
           "nivel": "azul",
@@ -142,11 +203,23 @@
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 5
     },
     "BEAM": {
       "nombre": "BEAM",
       "noticias": [
+        {
+          "ticker": "BEAM",
+          "titulo": "Beam Therapeutics Q2 EPS $(1.18) Misses $(1.11) Estimate, Sales $490.000K Miss $16.370M Estimate",
+          "resumen": "Beam Therapeutics (NASDAQ:BEAM) reported quarterly losses of $(1.18) per share which missed the analyst consensus estimate of $(1.11) by 6.31 percent. This is a 18 percent decrease over losses of $(1.00) per share from",
+          "fuente": "Benzinga",
+          "fecha": "04 Aug 2026 07:14 UTC",
+          "url": "https://finnhub.io/api/news?id=d7692c0aa1bb2d85335255a6185f9fc9abb3119d06c2eb0ea76c398b8a2ee4ed",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "BEAM",
           "titulo": "Beam Therapeutics: A Valuation With Upside Left",
@@ -161,7 +234,7 @@
         }
       ],
       "nivel": "azul",
-      "total": 1
+      "total": 2
     },
     "OCUL": {
       "nombre": "OCUL",
@@ -196,9 +269,22 @@
     },
     "ABVX": {
       "nombre": "ABVX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ABVX",
+          "titulo": "Evexta Bio Announces Clinical Trial Collaboration and Supply Agreement with Roche to Evaluate Rupitasertib in Combination with a Selective Estrogen Receptor Degrader in Advanced / Metastatic Breast Ca",
+          "resumen": "PARIS, August 04, 2026--Evexta Bio S.A., a precision oncology company, founded by Truffle Capital (founder of Abivax and Carvolix), and focused on the discovery and development of targeted therapies, today announced a clinical collaboration and supply agreement with plans to initiate a Phase 1b stud",
+          "fuente": "Yahoo",
+          "fecha": "04 Aug 2026 07:00 UTC",
+          "url": "https://finnhub.io/api/news?id=2d9b42b2c7ef37375a7eb1ee0ca4a339761b19ae35edb020d4efb58ad167072b",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "VERA": {
       "nombre": "VERA",
@@ -232,60 +318,12 @@
     }
   },
   "resumen": {
-    "total_noticias": 10,
-    "tickers_con_noticias": 4,
-    "alertas_urgentes": 2,
-    "sin_noticias": 13
+    "total_noticias": 17,
+    "tickers_con_noticias": 6,
+    "alertas_urgentes": 4,
+    "sin_noticias": 11
   },
   "todas_noticias": [
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex (VRTX) Reports Q2 Earnings: What Key Metrics Have to Say",
-      "resumen": "Although the revenue and EPS for Vertex (VRTX) give a sense of how its business performed in the quarter ended June 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
-      "fuente": "Yahoo",
-      "fecha": "03 Aug 2026 21:30 UTC",
-      "url": "https://finnhub.io/api/news?id=2c85fd6651e8a37c93bd116754644b8c8fdc608ac20c6dd3606025ce523510da",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals Incorporated 2026 Q2 - Results - Earnings Call Presentation",
-      "resumen": "2026-08-03. The following slide deck was published by Vertex Pharmaceuticals Incorporated in conjunction with their 2026 Q2 earnings call.",
-      "fuente": "SeekingAlpha",
-      "fecha": "03 Aug 2026 23:01 UTC",
-      "url": "https://finnhub.io/api/news?id=cd71711e25cb163c9f05f483851c9f5b6b7eb81c55fa46d409773ec5676efefb",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals Q2 Earnings Call Highlights",
-      "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) reported second-quarter 2026 revenue growth of 12% year over year to $3.3 billion, driven by continued growth in its cystic fibrosis franchise and rising contributions from newer products CASGEVY and JOURNAVX. Chief Executive Officer and President Reshma Kewalra",
-      "fuente": "Yahoo",
-      "fecha": "03 Aug 2026 23:03 UTC",
-      "url": "https://finnhub.io/api/news?id=c7c1bac8a4be7e1bca887af4abc9e92a06d03ce636155d166171dc8851c4e126",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals Incorporated (VRTX) Q2 2026 Earnings Call Transcript",
-      "resumen": "Vertex Pharmaceuticals Incorporated (VRTX) Q2 2026 Earnings Call August 3, 2026 4:30 PM EDTCompany ParticipantsSusie Lisa - Senior Vice President of...",
-      "fuente": "SeekingAlpha",
-      "fecha": "03 Aug 2026 23:09 UTC",
-      "url": "https://finnhub.io/api/news?id=7e00387653f41c77398a88e148bbf63751fee590b653e4f81ecdb065f240f8c5",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "ALNY",
       "titulo": "Alnylam (ALNY) Q2 2026 Earnings Call Transcript",
@@ -299,13 +337,73 @@
       "badge": "🔴"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals Inc (VRTX) (Q2 2026) Earnings Call Highlights: Revenue Surges 12% to $3. ...",
-      "resumen": "Vertex raises full-year 2026 revenue guidance to $13.1-$13.2 billion as CASGEVY and JOURNAVX show strong sequential growth, while advancing a robust pipeline and strategic Crinetics acquisition.",
+      "ticker": "ABVX",
+      "titulo": "Evexta Bio Announces Clinical Trial Collaboration and Supply Agreement with Roche to Evaluate Rupitasertib in Combination with a Selective Estrogen Receptor Degrader in Advanced / Metastatic Breast Ca",
+      "resumen": "PARIS, August 04, 2026--Evexta Bio S.A., a precision oncology company, founded by Truffle Capital (founder of Abivax and Carvolix), and focused on the discovery and development of targeted therapies, today announced a clinical collaboration and supply agreement with plans to initiate a Phase 1b stud",
       "fuente": "Yahoo",
-      "fecha": "04 Aug 2026 05:08 UTC",
-      "url": "https://finnhub.io/api/news?id=dd56684479086b09a9c08b3176c470d1855c316ea8c11773c551232e8fcd3c7d",
+      "fecha": "04 Aug 2026 07:00 UTC",
+      "url": "https://finnhub.io/api/news?id=2d9b42b2c7ef37375a7eb1ee0ca4a339761b19ae35edb020d4efb58ad167072b",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "CRISPR Therapeutics' Q2 Earnings & Revenues Surpass Estimates",
+      "resumen": "CRSP reports a narrower-than-expected Q2 loss. Revenues beat estimates as Casgevy sales surge across global markets and clinical programs advance.",
+      "fuente": "Yahoo",
+      "fecha": "04 Aug 2026 14:56 UTC",
+      "url": "https://finnhub.io/api/news?id=f6f657f73b56d365c3988923bf6a3d9124e87491e39b6391d0a32defb58016c3",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "VRTX's Q2 Earnings Lag Estimates, Revenues Top, 2026 Sales View Raised",
+      "resumen": "Vertex's Q2 earnings miss estimates, but revenues beat. It lifts its 2026 sales outlook, and sees growing contributions from newer products.",
+      "fuente": "Yahoo",
+      "fecha": "04 Aug 2026 14:57 UTC",
+      "url": "https://finnhub.io/api/news?id=c75088a93dadcf9e8e98257af8b682dac1d13336bde4d21c44821d1d977692b6",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "SNDX",
+      "titulo": "Syndax Pharmaceuticals Q2 EPS $(0.55) Misses $(0.49) Estimate, Sales $72.788M Miss $79.323M Estimate",
+      "resumen": "Syndax Pharmaceuticals (NASDAQ:SNDX) reported quarterly losses of $(0.55) per share which missed the analyst consensus estimate of $(0.49) by 12.24 percent. This is a 33.73 percent increase over losses of $(0.83) per",
+      "fuente": "Benzinga",
+      "fecha": "04 Aug 2026 16:03 UTC",
+      "url": "https://finnhub.io/api/news?id=0152ed1b93e3161e0aefe60b22776360c134f9065ed9b4a02426daa0a82039c9",
+      "imagen": "",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "SNDX",
+      "titulo": "Syndax Pharmaceuticals (NASDAQ:SNDX) Shares Drop as Q2 Revenue and EPS Miss Estimates",
+      "resumen": "Syndax Pharmaceuticals Q2 2026 revenue and EPS miss estimates, shares dip 6.5%; Revuforj sales up 91%, pipeline advances, cash position strong.",
+      "fuente": "ChartMill",
+      "fecha": "05 Aug 2026 02:12 UTC",
+      "url": "https://finnhub.io/api/news?id=71c7835c4906c6fcb0668a9338b9bff287c4449590bce573a96f952da0d54dda",
+      "imagen": "https://www.chartmill.com/images/uploads/earnings_article_1_defce97180.webp",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "SNDX",
+      "titulo": "Syndax Pharmaceuticals, Inc. (SNDX) Q2 2026 Earnings Call Transcript",
+      "resumen": "Syndax Pharmaceuticals, Inc. (SNDX) Q2 2026 Earnings Call August 4, 2026 4:30 PM EDTCompany ParticipantsSharon Klahre - Vice President of Investor Relations...",
+      "fuente": "SeekingAlpha",
+      "fecha": "05 Aug 2026 02:19 UTC",
+      "url": "https://finnhub.io/api/news?id=491eeee67630b8fc0a9c32cb786848f7a53f218a3c3f491228d51d69f3739d70",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
@@ -318,18 +416,6 @@
       "fecha": "03 Aug 2026 06:03 UTC",
       "url": "https://finnhub.io/api/news?id=c9ed07cbc6691b8de4c2d7023089165bb5cb1b6b3eb8d129b8573001cce52eae",
       "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2209449051/image_2209449051.jpg?io=getty-c-w1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Barclays Maintains Overweight on Alnylam Pharmaceuticals, Lowers Price Target to $450",
-      "resumen": "Barclays  analyst Eliana Merle   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Overweight and lowers the price target from $527 to $450.",
-      "fuente": "Benzinga",
-      "fecha": "03 Aug 2026 06:49 UTC",
-      "url": "https://finnhub.io/api/news?id=e72c74e9237b62ec6b877bcf490a81dc72cb08173570db6977ab522a960c5cf4",
-      "imagen": "",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
@@ -348,11 +434,95 @@
     },
     {
       "ticker": "ALNY",
-      "titulo": "Netflix resumed, Starbucks downgraded: Wall Street's top analyst calls",
-      "resumen": "Netflix resumed, Starbucks downgraded: Wall Street's top analyst calls",
+      "titulo": "Citigroup Maintains Buy on Alnylam Pharmaceuticals, Lowers Price Target to $340",
+      "resumen": "Citigroup  analyst Eric Joseph   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Buy and lowers the price target from $380 to $340.",
+      "fuente": "Benzinga",
+      "fecha": "03 Aug 2026 14:10 UTC",
+      "url": "https://finnhub.io/api/news?id=6650ad79990a16a5dbe4e7875c69896ed6b13cd9dfae3d49e996856524f0e664",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Raymond James Upgrades Alnylam Pharmaceuticals to Strong Buy, Maintains Price Target to $420",
+      "resumen": "Raymond James  analyst Martin Auster   upgrades Alnylam Pharmaceuticals (NASDAQ:ALNY) from Outperform to Strong Buy and maintains the price target from $420 to $420.",
+      "fuente": "Benzinga",
+      "fecha": "03 Aug 2026 14:48 UTC",
+      "url": "https://finnhub.io/api/news?id=afe22a8ff28d939c504fd25d28444fb342d156e58028dc127298187e7007bd64",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "Beam Therapeutics Q2 EPS $(1.18) Misses $(1.11) Estimate, Sales $490.000K Miss $16.370M Estimate",
+      "resumen": "Beam Therapeutics (NASDAQ:BEAM) reported quarterly losses of $(1.18) per share which missed the analyst consensus estimate of $(1.11) by 6.31 percent. This is a 18 percent decrease over losses of $(1.00) per share from",
+      "fuente": "Benzinga",
+      "fecha": "04 Aug 2026 07:14 UTC",
+      "url": "https://finnhub.io/api/news?id=d7692c0aa1bb2d85335255a6185f9fc9abb3119d06c2eb0ea76c398b8a2ee4ed",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "HC Wainwright & Co. Maintains Buy on Alnylam Pharmaceuticals, Lowers Price Target to $455",
+      "resumen": "HC Wainwright &amp; Co.  analyst Patrick R. Trucchio   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Buy and lowers the price target from $485 to $455.",
+      "fuente": "Benzinga",
+      "fecha": "04 Aug 2026 10:54 UTC",
+      "url": "https://finnhub.io/api/news?id=7fff3e29a0f096a2be985f8e2d6228695d46a9ce6f5b7fd0661906e2cc43d0e5",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Truist Securities Maintains Buy on Alnylam Pharmaceuticals, Lowers Price Target to $315",
+      "resumen": "Truist Securities  analyst Danielle Brill   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Buy and lowers the price target from $410 to $315.",
+      "fuente": "Benzinga",
+      "fecha": "04 Aug 2026 11:28 UTC",
+      "url": "https://finnhub.io/api/news?id=131f96ddfa6776435cb678330bc5045b4c0c47336a2c2f89083c02324e7de017",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "How Vertex Regained Its Footing On A Competitor's Bullish Report",
+      "resumen": "Vertex stock regained its footing Tuesday, rising on a strong second-quarter report and amid heightened expectations for its kidney disease treatment.",
       "fuente": "Yahoo",
-      "fecha": "03 Aug 2026 13:49 UTC",
-      "url": "https://finnhub.io/api/news?id=a8bc61c00cb6e74596a2629320670cea756b61367d3837f90428e6bbc42691ec",
+      "fecha": "04 Aug 2026 15:00 UTC",
+      "url": "https://finnhub.io/api/news?id=ab934a24772cacbc2444176e33fe2e26a3432801ece501642cda46733319fe6f",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals' Solid Q2, Raised Outlook Underscore Core Business Strength, RBC Says",
+      "resumen": "Vertex Pharmaceuticals (VRTX) reported a solid Q2 and raised its outlook, highlighting the strength",
+      "fuente": "Yahoo",
+      "fecha": "04 Aug 2026 16:02 UTC",
+      "url": "https://finnhub.io/api/news?id=1779ffa16d4cf28c1b259ac324be9f15ee814476b807b5bf97951a8231ca3e17",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals Seen Well Positioned Ahead of Pipeline Catalysts, UBS Says",
+      "resumen": "Vertex Pharmaceuticals (VRTX) remains well positioned heading into the second half of 2026 as severa",
+      "fuente": "Yahoo",
+      "fecha": "04 Aug 2026 17:05 UTC",
+      "url": "https://finnhub.io/api/news?id=e47001faa115166263a442f28230abdba42b95d19b8edb04e4fd9ecec1553469",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",

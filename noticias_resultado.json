@@ -1,12 +1,36 @@
 {
-  "generado": "05/08/2026 09:45 UTC",
+  "generado": "06/08/2026 09:48 UTC",
   "plazo_horas": 72,
-  "desde": "2026-08-02",
-  "hasta": "2026-08-05",
+  "desde": "2026-08-03",
+  "hasta": "2026-08-06",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
       "noticias": [
+        {
+          "ticker": "SNDX",
+          "titulo": "Syndax Pharmaceuticals, Inc. 2026 Q2 - Results - Earnings Call Presentation",
+          "resumen": "2026-08-05. The following slide deck was published by Syndax Pharmaceuticals, Inc.",
+          "fuente": "SeekingAlpha",
+          "fecha": "05 Aug 2026 14:37 UTC",
+          "url": "https://finnhub.io/api/news?id=e6a4c516d2604c56c4e5ad92f724656794500e1ad15498e1a83f163239c61f3f",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "SNDX",
+          "titulo": "HC Wainwright & Co. Maintains Buy on Syndax Pharmaceuticals, Lowers Price Target to $38",
+          "resumen": "HC Wainwright &amp; Co.  analyst Andres Y. Maldonado   maintains Syndax Pharmaceuticals (NASDAQ:SNDX) with a Buy and lowers the price target from $40 to $38.",
+          "fuente": "Benzinga",
+          "fecha": "05 Aug 2026 07:10 UTC",
+          "url": "https://finnhub.io/api/news?id=d06a307e168ad9f6320313d76c22a01b03bd82824d6fcd002a75a84e5a420a28",
+          "imagen": "",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "SNDX",
           "titulo": "Syndax Pharmaceuticals, Inc. (SNDX) Q2 2026 Earnings Call Transcript",
@@ -45,13 +69,26 @@
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 5
     },
     "ARGX": {
       "nombre": "ARGX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ARGX",
+          "titulo": "Guggenheim Reinstates Buy on argenx, Maintains $1185 Price Target",
+          "resumen": "Guggenheim  analyst Yatin Suneja   reinstates argenx (NASDAQ:ARGX) with a Buy and maintains $1185 price target.",
+          "fuente": "Benzinga",
+          "fecha": "05 Aug 2026 09:42 UTC",
+          "url": "https://finnhub.io/api/news?id=ca656720345e554704dad7370f9585af66a842f91605cd9054cbd687602c5e79",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "DYN": {
       "nombre": "DYN",
@@ -76,47 +113,11 @@
       "noticias": [
         {
           "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals Seen Well Positioned Ahead of Pipeline Catalysts, UBS Says",
-          "resumen": "Vertex Pharmaceuticals (VRTX) remains well positioned heading into the second half of 2026 as severa",
+          "titulo": "AbCellera Biologics Inc (ABCL) (Q2 2026) Earnings Call Highlights: Strong Pipeline Progress and ...",
+          "resumen": "AbCellera Biologics Inc (ABCL) advances ABCL-635 with early phase 2 completion and secures over $110 million in new T-cell engager deals, despite a wider net loss and revenue decline.",
           "fuente": "Yahoo",
-          "fecha": "04 Aug 2026 17:05 UTC",
-          "url": "https://finnhub.io/api/news?id=e47001faa115166263a442f28230abdba42b95d19b8edb04e4fd9ecec1553469",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals' Solid Q2, Raised Outlook Underscore Core Business Strength, RBC Says",
-          "resumen": "Vertex Pharmaceuticals (VRTX) reported a solid Q2 and raised its outlook, highlighting the strength",
-          "fuente": "Yahoo",
-          "fecha": "04 Aug 2026 16:02 UTC",
-          "url": "https://finnhub.io/api/news?id=1779ffa16d4cf28c1b259ac324be9f15ee814476b807b5bf97951a8231ca3e17",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "How Vertex Regained Its Footing On A Competitor's Bullish Report",
-          "resumen": "Vertex stock regained its footing Tuesday, rising on a strong second-quarter report and amid heightened expectations for its kidney disease treatment.",
-          "fuente": "Yahoo",
-          "fecha": "04 Aug 2026 15:00 UTC",
-          "url": "https://finnhub.io/api/news?id=ab934a24772cacbc2444176e33fe2e26a3432801ece501642cda46733319fe6f",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "VRTX's Q2 Earnings Lag Estimates, Revenues Top, 2026 Sales View Raised",
-          "resumen": "Vertex's Q2 earnings miss estimates, but revenues beat. It lifts its 2026 sales outlook, and sees growing contributions from newer products.",
-          "fuente": "Yahoo",
-          "fecha": "04 Aug 2026 14:57 UTC",
-          "url": "https://finnhub.io/api/news?id=c75088a93dadcf9e8e98257af8b682dac1d13336bde4d21c44821d1d977692b6",
+          "fecha": "06 Aug 2026 05:01 UTC",
+          "url": "https://finnhub.io/api/news?id=42acecf7bad1baa7ec04cb7ac59418a1c1004daf4cddd4cce6da65363ef901db",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -124,15 +125,51 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "CRISPR Therapeutics' Q2 Earnings & Revenues Surpass Estimates",
-          "resumen": "CRSP reports a narrower-than-expected Q2 loss. Revenues beat estimates as Casgevy sales surge across global markets and clinical programs advance.",
+          "titulo": "AbCellera Biologics Q2 Earnings Call Highlights",
+          "resumen": "AbCellera Biologics (NASDAQ:ABCL) said it expects to report top-line data “very soon” from its Phase I study of ABCL635, an antibody being evaluated for moderate-to-severe vasomotor symptoms, or hot flashes, associated with menopause. President and Chief Executive Officer Dr. Carl Hansen said enrol",
           "fuente": "Yahoo",
-          "fecha": "04 Aug 2026 14:56 UTC",
-          "url": "https://finnhub.io/api/news?id=f6f657f73b56d365c3988923bf6a3d9124e87491e39b6391d0a32defb58016c3",
+          "fecha": "05 Aug 2026 22:03 UTC",
+          "url": "https://finnhub.io/api/news?id=dcdf3ce3fb9a9978376d50e78da86431a8757aa1e827d9ec985228c198f4b841",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Truist Securities Maintains Buy on Vertex Pharmaceuticals, Raises Price Target to $565",
+          "resumen": "Truist Securities  analyst Danielle Brill   maintains Vertex Pharmaceuticals (NASDAQ:VRTX) with a Buy and raises the price target from $560 to $565.",
+          "fuente": "Benzinga",
+          "fecha": "05 Aug 2026 14:04 UTC",
+          "url": "https://finnhub.io/api/news?id=2a2a2d7e0c3b0c4acf97cdb30edff26305271e2d709137a8518fb82aaeb34cfe",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Entrada Therapeutics Reports Second Quarter 2026 Financial Results",
+          "resumen": "-- Company to report ELEVATE-44-201 data from Cohort 1 open-label period by year-end 2026 -- -- ELEVATE-44-201 Cohort 2 enrollment complete with data expected in Q1 2027 -- -- Company to report ELEVATE-45-201 Cohort 1 data in October 2026 -- -- ELEVATE-45-201 Cohort 2 dosing ongoing at the increased",
+          "fuente": "Yahoo",
+          "fecha": "05 Aug 2026 11:00 UTC",
+          "url": "https://finnhub.io/api/news?id=f62b2e86c4216e2bda2377255cef430a7f277cbdefbb4b3b2c17c9278e69b758",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "CRISPR: \"Strong Buy\" CASGEVY Sales Growth And In Vivo Expansion With CTX310",
+          "resumen": "CRISPR Therapeutics (CRSP) remains a Strong Buy, supported by robust CASGEVY sales growth and pipeline expansion.",
+          "fuente": "SeekingAlpha",
+          "fecha": "05 Aug 2026 10:09 UTC",
+          "url": "https://finnhub.io/api/news?id=5248f37b608df4175afdacfec21505a887b9d7e62e088904934c0a4a097c8b4d",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2288169175/image_2288169175.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -141,6 +178,18 @@
     "ALNY": {
       "nombre": "ALNY",
       "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "Tenaya Therapeutics Reports Second Quarter 2026 Financial Results and Provides Business Update",
+          "resumen": "Positive Interim Data Shared in 2Q 2026 from the MyPEAK™-1 and RIDGE™-1 Clinical Trials Each Demonstrated Meaningful Improvements in Key Disease Characteristics Additional Data Releases Plus Updates on Regulatory Discussions on Pivotal Trial Plans for TN-201 and TN-401 Anticipated in 4Q 2026 TN-301 ",
+          "fuente": "Yahoo",
+          "fecha": "05 Aug 2026 20:05 UTC",
+          "url": "https://finnhub.io/api/news?id=1d481ff45e5be2d29b1812778f0f2d3c7f505213846563504f0666a8d28897e0",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "ALNY",
           "titulo": "Truist Securities Maintains Buy on Alnylam Pharmaceuticals, Lowers Price Target to $315",
@@ -188,18 +237,6 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Citigroup Maintains Buy on Alnylam Pharmaceuticals, Lowers Price Target to $340",
-          "resumen": "Citigroup  analyst Eric Joseph   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Buy and lowers the price target from $380 to $340.",
-          "fuente": "Benzinga",
-          "fecha": "03 Aug 2026 14:10 UTC",
-          "url": "https://finnhub.io/api/news?id=6650ad79990a16a5dbe4e7875c69896ed6b13cd9dfae3d49e996856524f0e664",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -219,34 +256,72 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "BEAM",
-          "titulo": "Beam Therapeutics: A Valuation With Upside Left",
-          "resumen": "Beam Therapeutics (BEAM) stock outlook: gene-editing pipeline, strong cash runway to 2029, and conservative valuation.",
-          "fuente": "SeekingAlpha",
-          "fecha": "03 Aug 2026 06:03 UTC",
-          "url": "https://finnhub.io/api/news?id=c9ed07cbc6691b8de4c2d7023089165bb5cb1b6b3eb8d129b8573001cce52eae",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2209449051/image_2209449051.jpg?io=getty-c-w1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "azul",
-      "total": 2
+      "total": 1
     },
     "OCUL": {
       "nombre": "OCUL",
       "noticias": [
         {
           "ticker": "OCUL",
-          "titulo": "Ocular Therapeutix Q2 EPS $(0.35) Beats $(0.40) Estimate, Sales $13.475M Beat $13.199M Estimate",
-          "resumen": "Ocular Therapeutix (NASDAQ:OCUL) reported quarterly losses of $(0.35) per share which beat the analyst consensus estimate of $(0.40) by 10.26 percent. This is a 10.26 percent increase over losses of $(0.39) per share",
+          "titulo": "Ocular Therapeutix: AXPAXLI Can Turn Retina Capacity Into A Commercial Moat",
+          "resumen": "Ocular Therapeutix eyes a 2027 AXPAXLI launch for wet AMD/retinal disease with strong Phase 3 data, an FDA-aligned NDA in Q4 2026. Click here to read more.",
+          "fuente": "SeekingAlpha",
+          "fecha": "05 Aug 2026 11:25 UTC",
+          "url": "https://finnhub.io/api/news?id=5c68d4d6a36b15ff7196ed1bd808b5b2efc351ff54b17bcea9f4b8f4b545e60d",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1386962546/image_1386962546.jpg?io=getty-c-w1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
+    },
+    "CAI": {
+      "nombre": "CAI",
+      "noticias": [
+        {
+          "ticker": "CAI",
+          "titulo": "Caris Life Sciences, Inc. (CAI) Q2 2026 Earnings Call Transcript",
+          "resumen": "Caris Life Sciences, Inc. (CAI) Q2 2026 Earnings Call August 5, 2026 4:30 PM EDTCompany ParticipantsJ.",
+          "fuente": "SeekingAlpha",
+          "fecha": "05 Aug 2026 21:30 UTC",
+          "url": "https://finnhub.io/api/news?id=1a969880cf701c9a13b7a2075f1722d45bc10c4f727fa8bb0fd41ad17bb8b1ce",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "CAI",
+          "titulo": "12 Health Care Stocks Moving In Wednesday's After-Market Session",
+          "resumen": "Gainers\n\nCreative Medical Tech (NASDAQ:CELZ) stock moved upwards by 31.4% to $0.88 during Wednesday&#39;s after-market session. The company&#39;s market cap stands at $4.2 million. \nCaris Life Sciences (NASDAQ:CAI)",
           "fuente": "Benzinga",
-          "fecha": "03 Aug 2026 07:06 UTC",
-          "url": "https://finnhub.io/api/news?id=9773b8e3ed4fe71c51f9de3b7fce411b7cac7272a975663017b1b241517809c3",
-          "imagen": "",
+          "fecha": "05 Aug 2026 17:06 UTC",
+          "url": "https://finnhub.io/api/news?id=6368d4e6195bdce2a973c6219186e7331bd94f674b3034ff00407d42b2bd9168",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_2.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 2
+    },
+    "GPCR": {
+      "nombre": "GPCR",
+      "noticias": [
+        {
+          "ticker": "GPCR",
+          "titulo": "The BioRevolution Has Accelerated",
+          "resumen": "WisdomTree BioRevolution Fund delivered a dramatic acceleration in performance over S&P 500 Index, thereby drawing attention to this particular investment theme. Read more here.",
+          "fuente": "SeekingAlpha",
+          "fecha": "05 Aug 2026 08:20 UTC",
+          "url": "https://finnhub.io/api/news?id=6c25c75a7fae1004dfd69a1846b65a34f516c21f7c915cb4cf1fa37d965080e9",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/530591555/image_530591555.jpg?io=getty-c-w1536",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
@@ -254,18 +329,6 @@
       ],
       "nivel": "azul",
       "total": 1
-    },
-    "CAI": {
-      "nombre": "CAI",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
-    },
-    "GPCR": {
-      "nombre": "GPCR",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
     },
     "ABVX": {
       "nombre": "ABVX",
@@ -294,9 +357,22 @@
     },
     "ACRV": {
       "nombre": "ACRV",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ACRV",
+          "titulo": "Acrivon Therapeutics Says ACR-2316 Advances Into Randomized Dose Expansion Portion Of Its Ongoing Phase 1/2 Study",
+          "resumen": "Favorable, differentiated safety profile and durable single-agent clinical activity, including in heavily pretreated subjects with lung cancer remaining on treatment for over a yearOral weekly regimen (3 days on/4 days",
+          "fuente": "Benzinga",
+          "fecha": "05 Aug 2026 08:32 UTC",
+          "url": "https://finnhub.io/api/news?id=79f939bc8db7c0a440af24a991675ab6d136b6143f0009de8ed4989880fba5e0",
+          "imagen": "",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "TARA": {
       "nombre": "TARA",
@@ -318,10 +394,10 @@
     }
   },
   "resumen": {
-    "total_noticias": 17,
-    "tickers_con_noticias": 6,
-    "alertas_urgentes": 4,
-    "sin_noticias": 11
+    "total_noticias": 23,
+    "tickers_con_noticias": 10,
+    "alertas_urgentes": 7,
+    "sin_noticias": 7
   },
   "todas_noticias": [
     {
@@ -343,30 +419,6 @@
       "fuente": "Yahoo",
       "fecha": "04 Aug 2026 07:00 UTC",
       "url": "https://finnhub.io/api/news?id=2d9b42b2c7ef37375a7eb1ee0ca4a339761b19ae35edb020d4efb58ad167072b",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "CRISPR Therapeutics' Q2 Earnings & Revenues Surpass Estimates",
-      "resumen": "CRSP reports a narrower-than-expected Q2 loss. Revenues beat estimates as Casgevy sales surge across global markets and clinical programs advance.",
-      "fuente": "Yahoo",
-      "fecha": "04 Aug 2026 14:56 UTC",
-      "url": "https://finnhub.io/api/news?id=f6f657f73b56d365c3988923bf6a3d9124e87491e39b6391d0a32defb58016c3",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "VRTX's Q2 Earnings Lag Estimates, Revenues Top, 2026 Sales View Raised",
-      "resumen": "Vertex's Q2 earnings miss estimates, but revenues beat. It lifts its 2026 sales outlook, and sees growing contributions from newer products.",
-      "fuente": "Yahoo",
-      "fecha": "04 Aug 2026 14:57 UTC",
-      "url": "https://finnhub.io/api/news?id=c75088a93dadcf9e8e98257af8b682dac1d13336bde4d21c44821d1d977692b6",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
@@ -409,40 +461,112 @@
       "badge": "🔴"
     },
     {
-      "ticker": "BEAM",
-      "titulo": "Beam Therapeutics: A Valuation With Upside Left",
-      "resumen": "Beam Therapeutics (BEAM) stock outlook: gene-editing pipeline, strong cash runway to 2029, and conservative valuation.",
-      "fuente": "SeekingAlpha",
-      "fecha": "03 Aug 2026 06:03 UTC",
-      "url": "https://finnhub.io/api/news?id=c9ed07cbc6691b8de4c2d7023089165bb5cb1b6b3eb8d129b8573001cce52eae",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2209449051/image_2209449051.jpg?io=getty-c-w1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "ticker": "SNDX",
+      "titulo": "HC Wainwright & Co. Maintains Buy on Syndax Pharmaceuticals, Lowers Price Target to $38",
+      "resumen": "HC Wainwright &amp; Co.  analyst Andres Y. Maldonado   maintains Syndax Pharmaceuticals (NASDAQ:SNDX) with a Buy and lowers the price target from $40 to $38.",
+      "fuente": "Benzinga",
+      "fecha": "05 Aug 2026 07:10 UTC",
+      "url": "https://finnhub.io/api/news?id=d06a307e168ad9f6320313d76c22a01b03bd82824d6fcd002a75a84e5a420a28",
+      "imagen": "",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ACRV",
+      "titulo": "Acrivon Therapeutics Says ACR-2316 Advances Into Randomized Dose Expansion Portion Of Its Ongoing Phase 1/2 Study",
+      "resumen": "Favorable, differentiated safety profile and durable single-agent clinical activity, including in heavily pretreated subjects with lung cancer remaining on treatment for over a yearOral weekly regimen (3 days on/4 days",
+      "fuente": "Benzinga",
+      "fecha": "05 Aug 2026 08:32 UTC",
+      "url": "https://finnhub.io/api/news?id=79f939bc8db7c0a440af24a991675ab6d136b6143f0009de8ed4989880fba5e0",
+      "imagen": "",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Entrada Therapeutics Reports Second Quarter 2026 Financial Results",
+      "resumen": "-- Company to report ELEVATE-44-201 data from Cohort 1 open-label period by year-end 2026 -- -- ELEVATE-44-201 Cohort 2 enrollment complete with data expected in Q1 2027 -- -- Company to report ELEVATE-45-201 Cohort 1 data in October 2026 -- -- ELEVATE-45-201 Cohort 2 dosing ongoing at the increased",
+      "fuente": "Yahoo",
+      "fecha": "05 Aug 2026 11:00 UTC",
+      "url": "https://finnhub.io/api/news?id=f62b2e86c4216e2bda2377255cef430a7f277cbdefbb4b3b2c17c9278e69b758",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "OCUL",
-      "titulo": "Ocular Therapeutix Q2 EPS $(0.35) Beats $(0.40) Estimate, Sales $13.475M Beat $13.199M Estimate",
-      "resumen": "Ocular Therapeutix (NASDAQ:OCUL) reported quarterly losses of $(0.35) per share which beat the analyst consensus estimate of $(0.40) by 10.26 percent. This is a 10.26 percent increase over losses of $(0.39) per share",
-      "fuente": "Benzinga",
-      "fecha": "03 Aug 2026 07:06 UTC",
-      "url": "https://finnhub.io/api/news?id=9773b8e3ed4fe71c51f9de3b7fce411b7cac7272a975663017b1b241517809c3",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "titulo": "Ocular Therapeutix: AXPAXLI Can Turn Retina Capacity Into A Commercial Moat",
+      "resumen": "Ocular Therapeutix eyes a 2027 AXPAXLI launch for wet AMD/retinal disease with strong Phase 3 data, an FDA-aligned NDA in Q4 2026. Click here to read more.",
+      "fuente": "SeekingAlpha",
+      "fecha": "05 Aug 2026 11:25 UTC",
+      "url": "https://finnhub.io/api/news?id=5c68d4d6a36b15ff7196ed1bd808b5b2efc351ff54b17bcea9f4b8f4b545e60d",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1386962546/image_1386962546.jpg?io=getty-c-w1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "SNDX",
+      "titulo": "Syndax Pharmaceuticals, Inc. 2026 Q2 - Results - Earnings Call Presentation",
+      "resumen": "2026-08-05. The following slide deck was published by Syndax Pharmaceuticals, Inc.",
+      "fuente": "SeekingAlpha",
+      "fecha": "05 Aug 2026 14:37 UTC",
+      "url": "https://finnhub.io/api/news?id=e6a4c516d2604c56c4e5ad92f724656794500e1ad15498e1a83f163239c61f3f",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "ALNY",
-      "titulo": "Citigroup Maintains Buy on Alnylam Pharmaceuticals, Lowers Price Target to $340",
-      "resumen": "Citigroup  analyst Eric Joseph   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Buy and lowers the price target from $380 to $340.",
-      "fuente": "Benzinga",
-      "fecha": "03 Aug 2026 14:10 UTC",
-      "url": "https://finnhub.io/api/news?id=6650ad79990a16a5dbe4e7875c69896ed6b13cd9dfae3d49e996856524f0e664",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "titulo": "Tenaya Therapeutics Reports Second Quarter 2026 Financial Results and Provides Business Update",
+      "resumen": "Positive Interim Data Shared in 2Q 2026 from the MyPEAK™-1 and RIDGE™-1 Clinical Trials Each Demonstrated Meaningful Improvements in Key Disease Characteristics Additional Data Releases Plus Updates on Regulatory Discussions on Pivotal Trial Plans for TN-201 and TN-401 Anticipated in 4Q 2026 TN-301 ",
+      "fuente": "Yahoo",
+      "fecha": "05 Aug 2026 20:05 UTC",
+      "url": "https://finnhub.io/api/news?id=1d481ff45e5be2d29b1812778f0f2d3c7f505213846563504f0666a8d28897e0",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "CAI",
+      "titulo": "Caris Life Sciences, Inc. (CAI) Q2 2026 Earnings Call Transcript",
+      "resumen": "Caris Life Sciences, Inc. (CAI) Q2 2026 Earnings Call August 5, 2026 4:30 PM EDTCompany ParticipantsJ.",
+      "fuente": "SeekingAlpha",
+      "fecha": "05 Aug 2026 21:30 UTC",
+      "url": "https://finnhub.io/api/news?id=1a969880cf701c9a13b7a2075f1722d45bc10c4f727fa8bb0fd41ad17bb8b1ce",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "AbCellera Biologics Q2 Earnings Call Highlights",
+      "resumen": "AbCellera Biologics (NASDAQ:ABCL) said it expects to report top-line data “very soon” from its Phase I study of ABCL635, an antibody being evaluated for moderate-to-severe vasomotor symptoms, or hot flashes, associated with menopause. President and Chief Executive Officer Dr. Carl Hansen said enrol",
+      "fuente": "Yahoo",
+      "fecha": "05 Aug 2026 22:03 UTC",
+      "url": "https://finnhub.io/api/news?id=dcdf3ce3fb9a9978376d50e78da86431a8757aa1e827d9ec985228c198f4b841",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "AbCellera Biologics Inc (ABCL) (Q2 2026) Earnings Call Highlights: Strong Pipeline Progress and ...",
+      "resumen": "AbCellera Biologics Inc (ABCL) advances ABCL-635 with early phase 2 completion and secures over $110 million in new T-cell engager deals, despite a wider net loss and revenue decline.",
+      "fuente": "Yahoo",
+      "fecha": "06 Aug 2026 05:01 UTC",
+      "url": "https://finnhub.io/api/news?id=42acecf7bad1baa7ec04cb7ac59418a1c1004daf4cddd4cce6da65363ef901db",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "ALNY",
@@ -493,37 +617,61 @@
       "badge": "🔵"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "How Vertex Regained Its Footing On A Competitor's Bullish Report",
-      "resumen": "Vertex stock regained its footing Tuesday, rising on a strong second-quarter report and amid heightened expectations for its kidney disease treatment.",
-      "fuente": "Yahoo",
-      "fecha": "04 Aug 2026 15:00 UTC",
-      "url": "https://finnhub.io/api/news?id=ab934a24772cacbc2444176e33fe2e26a3432801ece501642cda46733319fe6f",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "ticker": "GPCR",
+      "titulo": "The BioRevolution Has Accelerated",
+      "resumen": "WisdomTree BioRevolution Fund delivered a dramatic acceleration in performance over S&P 500 Index, thereby drawing attention to this particular investment theme. Read more here.",
+      "fuente": "SeekingAlpha",
+      "fecha": "05 Aug 2026 08:20 UTC",
+      "url": "https://finnhub.io/api/news?id=6c25c75a7fae1004dfd69a1846b65a34f516c21f7c915cb4cf1fa37d965080e9",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/530591555/image_530591555.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "Guggenheim Reinstates Buy on argenx, Maintains $1185 Price Target",
+      "resumen": "Guggenheim  analyst Yatin Suneja   reinstates argenx (NASDAQ:ARGX) with a Buy and maintains $1185 price target.",
+      "fuente": "Benzinga",
+      "fecha": "05 Aug 2026 09:42 UTC",
+      "url": "https://finnhub.io/api/news?id=ca656720345e554704dad7370f9585af66a842f91605cd9054cbd687602c5e79",
+      "imagen": "",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
     },
     {
       "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals' Solid Q2, Raised Outlook Underscore Core Business Strength, RBC Says",
-      "resumen": "Vertex Pharmaceuticals (VRTX) reported a solid Q2 and raised its outlook, highlighting the strength",
-      "fuente": "Yahoo",
-      "fecha": "04 Aug 2026 16:02 UTC",
-      "url": "https://finnhub.io/api/news?id=1779ffa16d4cf28c1b259ac324be9f15ee814476b807b5bf97951a8231ca3e17",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "titulo": "CRISPR: \"Strong Buy\" CASGEVY Sales Growth And In Vivo Expansion With CTX310",
+      "resumen": "CRISPR Therapeutics (CRSP) remains a Strong Buy, supported by robust CASGEVY sales growth and pipeline expansion.",
+      "fuente": "SeekingAlpha",
+      "fecha": "05 Aug 2026 10:09 UTC",
+      "url": "https://finnhub.io/api/news?id=5248f37b608df4175afdacfec21505a887b9d7e62e088904934c0a4a097c8b4d",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2288169175/image_2288169175.jpg?io=getty-c-w1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
     },
     {
       "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals Seen Well Positioned Ahead of Pipeline Catalysts, UBS Says",
-      "resumen": "Vertex Pharmaceuticals (VRTX) remains well positioned heading into the second half of 2026 as severa",
-      "fuente": "Yahoo",
-      "fecha": "04 Aug 2026 17:05 UTC",
-      "url": "https://finnhub.io/api/news?id=e47001faa115166263a442f28230abdba42b95d19b8edb04e4fd9ecec1553469",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "titulo": "Truist Securities Maintains Buy on Vertex Pharmaceuticals, Raises Price Target to $565",
+      "resumen": "Truist Securities  analyst Danielle Brill   maintains Vertex Pharmaceuticals (NASDAQ:VRTX) with a Buy and raises the price target from $560 to $565.",
+      "fuente": "Benzinga",
+      "fecha": "05 Aug 2026 14:04 UTC",
+      "url": "https://finnhub.io/api/news?id=2a2a2d7e0c3b0c4acf97cdb30edff26305271e2d709137a8518fb82aaeb34cfe",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "CAI",
+      "titulo": "12 Health Care Stocks Moving In Wednesday's After-Market Session",
+      "resumen": "Gainers\n\nCreative Medical Tech (NASDAQ:CELZ) stock moved upwards by 31.4% to $0.88 during Wednesday&#39;s after-market session. The company&#39;s market cap stands at $4.2 million. \nCaris Life Sciences (NASDAQ:CAI)",
+      "fuente": "Benzinga",
+      "fecha": "05 Aug 2026 17:06 UTC",
+      "url": "https://finnhub.io/api/news?id=6368d4e6195bdce2a973c6219186e7331bd94f674b3034ff00407d42b2bd9168",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_2.jpg?width=2048&height=1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

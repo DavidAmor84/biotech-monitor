@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "06/08/2026 09:39",
+  "generado": "07/08/2026 08:13",
   "periodo_dias": 7,
-  "desde": "2026-07-30",
-  "hasta": "2026-08-06",
+  "desde": "2026-07-31",
+  "hasta": "2026-08-07",
   "resumen": {
-    "total_filings": 14,
-    "alertas_rojas": 0,
+    "total_filings": 21,
+    "alertas_rojas": 2,
     "alertas_verdes": 0,
-    "alertas_amarillas": 6,
-    "alertas_azules": 8,
-    "sin_novedad": 9
+    "alertas_amarillas": 8,
+    "alertas_azules": 11,
+    "sin_novedad": 6
   },
   "tickers": {
     "SNDX": {
@@ -102,9 +102,59 @@
       "cik": "0001714899",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "10-Q",
+          "fecha": "2026-08-06",
+          "nivel": "rojo",
+          "badge": "🔴 ALTA",
+          "resumen": "Caja: $201.5M · Burn: $76.1M/mes · Runway: 2 meses · Shares: 156.2M · ⚠️ GOING CONCERN · ⚖️ Litigios activos",
+          "detalle": "10-Q",
+          "empresa_sec": "Denali Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000097/dnli-20260630.htm",
+          "form4_detail": null,
+          "8k_detail": null,
+          "10q_detail": {
+            "caja_mm": 201.5,
+            "burn_trimestral_mm": 228.2,
+            "burn_mensual_mm": 76.1,
+            "runway_meses": 2,
+            "shares_outstanding_mm": 156.2,
+            "litigios_detectados": true,
+            "shelf_mencionado": false,
+            "going_concern": true,
+            "extracto_financiero": "30, 2026 December 31, 2025 Assets Current assets: Cash and cash equivalents $ 201,530 &#160; $ 205,326 &#160; Short-term marketable securities 508,941 &#160; 662,553 &#160; Accounts receivable, net 3,927 &#160; &#8212; &#160; Inventory 4,139 &#160; &#8212; &#160; Prepaid expenses and other current assets 35,390 &#160; 32,779 &#160; Total current as",
+            "resumen_10q": "Caja: $201.5M · Burn: $76.1M/mes · Runway: 2 meses · Shares: 156.2M · ⚠️ GOING CONCERN · ⚖️ Litigios activos"
+          },
+          "prospecto_detail": null
+        },
+        {
+          "form": "8-K",
+          "fecha": "2026-08-06",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "Denali Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000096/dnli-20260806.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "2.02",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 2.02 Results of Operations and Financial Condition. On August 6, 2026, Denali Therapeutics Inc. (the \"Company\") issued a press release announcing its financial results for the second quarter ended June 30, 2026. The full text of the press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference. All of the information furnished in this Item 2.02 and Item 9.01 (including Exhibit 99.1) shall not be deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, and shall not be incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, except as shall be expressly set forth by specific reference in such a filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press Release dated August 6, 2026. 104 Cover Page Interactive Data File (formatted as Inline XBRL) SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. DENALI THERAPEUTICS INC. Date: August 6, 2026 By: /s/ Alexander O. Schuth Alexander O. Schuth, M.D. Chief Operating and Financial Officer",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "rojo",
+      "badge": "🔴",
       "error": null
     },
     "VKTX": {
@@ -185,59 +235,9 @@
       "cik": "0001178670",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "10-Q",
-          "fecha": "2026-07-30",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Caja: $1708.3M · Shares: 133734.0M · ⚖️ Litigios activos",
-          "detalle": "10-Q",
-          "empresa_sec": "ALNYLAM PHARMACEUTICALS, INC.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000062/alny-20260630.htm",
-          "form4_detail": null,
-          "8k_detail": null,
-          "10q_detail": {
-            "caja_mm": 1708.3,
-            "burn_trimestral_mm": null,
-            "burn_mensual_mm": null,
-            "runway_meses": null,
-            "shares_outstanding_mm": 133734.0,
-            "litigios_detectados": true,
-            "shelf_mencionado": false,
-            "going_concern": false,
-            "extracto_financiero": "30, 2026 December 31, 2025 ASSETS Current assets: Cash and cash equivalents $ 1,708,318 &#160; $ 1,657,250 &#160; Marketable debt securities 1,599,829 &#160; 1,251,234 &#160; Accounts receivable, net 912,739 &#160; 777,567 &#160; Inventory 97,110 &#160; 82,719 &#160; Prepaid expenses and other current assets 302,176 &#160; 281,892 &#160; Total curr",
-            "resumen_10q": "Caja: $1708.3M · Shares: 133734.0M · ⚖️ Litigios activos"
-          },
-          "prospecto_detail": null
-        },
-        {
-          "form": "8-K",
-          "fecha": "2026-07-30",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
-          "detalle": "8-K",
-          "empresa_sec": "ALNYLAM PHARMACEUTICALS, INC.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000060/alny-20260730.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "2.02",
-              "9.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 2.02. Results of Operations and Financial Condition On July 30, 2026, Alnylam Pharmaceuticals, Inc. (the Company ) announced its financial results for the quarter ended June 30, 2026. The full text of the press release issued in connection with the announcement is furnished as Exhibit 99.1 to this Current Report on Form 8-K. The information in Item 2.02 of this Form 8-K (including Exhibit 99.1) shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing. Item 9.01. Financial Statements and Exhibits (d) Exhibits The following exhibit relating to Item 2.02 shall be deemed to be furnished, and not filed: 99.1 Press Release dated July 30, 2026 . 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Date: July 30, 2026 ALNYLAM PHARMACEUTICALS, INC. By: /s/ Jeffrey V. Poulton Jeffrey V. Poulton Executive Vice President, Chief Financial Officer",
-            "nivel_ajustado": "azul",
-            "badge_ajustado": "🔵 INFO",
-            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "BEAM": {
@@ -431,6 +431,55 @@
       "validacion_empresa": "OK",
       "filings": [
         {
+          "form": "10-Q",
+          "fecha": "2026-08-06",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Shares: 212513.0M · ⚖️ Litigios activos · 📋 Shelf mencionado",
+          "detalle": "10-Q",
+          "empresa_sec": "Structure Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000110465926092057/gpcr-20260630x10q.htm",
+          "form4_detail": null,
+          "8k_detail": null,
+          "10q_detail": {
+            "caja_mm": null,
+            "burn_trimestral_mm": null,
+            "burn_mensual_mm": null,
+            "runway_meses": null,
+            "shares_outstanding_mm": 212513.0,
+            "litigios_detectados": true,
+            "shelf_mencionado": true,
+            "going_concern": false,
+            "extracto_financiero": "&#8203; &#160; &#8203; &#160;&#160;&#8203; &#160; Cash and cash equivalents &#8203; $ 272,638 &#8203; $ 799,623 &#8203; Short-term investments &#8203; &#160; 1,070,020 &#8203; &#160; 646,574 &#8203; Other receivable &#8203; &#8203; &#8212; &#8203; &#8203; 100,000 &#8203; Prepaid expenses and other current assets &#8203; &#160; 29,370 &#8203; &#160;",
+            "resumen_10q": "Shares: 212513.0M · ⚖️ Litigios activos · 📋 Shelf mencionado"
+          },
+          "prospecto_detail": null
+        },
+        {
+          "form": "8-K",
+          "fecha": "2026-08-06",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+          "detalle": "FORM 8-K",
+          "empresa_sec": "Structure Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000110465926092017/tm2622407d1_8k.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "2.02",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 2.02 Results of Operations and Financial Condition. On August 6, 2026, Structure Therapeutics Inc. (the Company ) issued a press release providing a corporate update and announcing its financial results for the second quarter ended June 30, 2026. The full text of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference. The information in this Current Report on Form 8-K (including Exhibit 99.1) shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that Section, nor shall it be deemed to be incorporated by reference into any filing of the Company under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits. Exhibit No. Description 99.1 Press Release dated August 6, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Structure Therapeutics Inc. Date: August 6, 2026 By: /s/ Raymond Stevens Raymond Stevens, Ph.D. Chief Executive Officer",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
           "form": "4",
           "fecha": "2026-08-05",
           "nivel": "azul",
@@ -457,8 +506,8 @@
           "prospecto_detail": null
         }
       ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "ABVX": {
@@ -516,9 +565,36 @@
       "cik": "0001781174",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-08-06",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Levy Adam D. (Chief Financial Officer) → Venta 1,142 acciones @ $1.57 | Post: 66,008 | Rutinaria/RSU/impuestos",
+          "detalle": "FORM 4",
+          "empresa_sec": "Acrivon Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1781174/000090514826003499/xslF345X06/form4.xml",
+          "form4_detail": {
+            "insider_nombre": "Levy Adam D.",
+            "insider_cargo": "Chief Financial Officer",
+            "transaccion_codigo": "S",
+            "transaccion_tipo": "Venta",
+            "transaccion_acciones": "1142",
+            "transaccion_precio": "1.57",
+            "transaccion_fecha": "2026-08-04",
+            "acciones_post": "66008",
+            "footnotes": "Shares sold automatically to satisfy the mandatory tax withholding requirement upon vesting of restricted stock units.",
+            "es_rutinaria": true,
+            "resumen_detail": "Levy Adam D. (Chief Financial Officer) → Venta 1,142 acciones @ $1.57 | Post: 66,008 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "TARA": {
@@ -538,9 +614,59 @@
       "cik": "0001616543",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "10-Q",
+          "fecha": "2026-08-06",
+          "nivel": "rojo",
+          "badge": "🔴 ALTA",
+          "resumen": "Shares: 41.3M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado",
+          "detalle": "10-Q",
+          "empresa_sec": "Senseonics Holdings, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000110465926092056/sens-20260630x10q.htm",
+          "form4_detail": null,
+          "8k_detail": null,
+          "10q_detail": {
+            "caja_mm": null,
+            "burn_trimestral_mm": null,
+            "burn_mensual_mm": null,
+            "runway_meses": null,
+            "shares_outstanding_mm": 41.3,
+            "litigios_detectados": true,
+            "shelf_mencionado": true,
+            "going_concern": true,
+            "extracto_financiero": ": &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; Cash and cash equivalents &#8203; $ 44,753 &#8203; $ 40,234 Restricted cash &#8203; &#8203; 315 &#8203; &#8203; 315 Short term investments, net &#8203; &#8203; 97,906 &#8203; &#8203; 53,796 Accounts receivable, net &#8203; &#8203; 9,137 &#8203; &#8203; 6,807 Accounts receivable, net - related partie",
+            "resumen_10q": "Shares: 41.3M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado"
+          },
+          "prospecto_detail": null
+        },
+        {
+          "form": "8-K",
+          "fecha": "2026-08-06",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "Senseonics Holdings, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000110465926092018/sens-20260806x8k.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "2.02",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 2.02. Results of Operations and Financial Condition. On August 6, 2026, Senseonics Holdings, Inc. (the Company ) issued a press release announcing its financial results for the quarter ended June 30, 2026, as well as information regarding a conference call to discuss these financial results and the Company s recent corporate highlights and outlook. This press release has been furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by this reference. The information in this Current Report on Form 8-K, including Exhibit 99.1 attached hereto, is being furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ) or otherwise subject to the liabilities of that section. The information contained herein and in the accompanying exhibit is not incorporated by reference in any filing of the Company under the Securities Act of 1933, as amended, or the Exchange Act, whether made before or after the date hereof and irrespective of any general incorporation language in any filings. Item 9.01. Financial Statements and Exhibits. (d) Exhibits. Exhibit Number Description 99.1 Press Release of Senseonics Holdings, Inc. dated August 6, 2026. 104 Cover Page Interactive Data (embedded within the Inline XBRL document). SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. ay Date: August 6, 2026 SENSEONICS HOLDINGS, INC. By: /s/ Rick Sullivan Nam",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "rojo",
+      "badge": "🔴",
       "error": null
     },
     "INSM": {
@@ -549,9 +675,59 @@
       "cik": "0001104506",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "8-K",
+          "fecha": "2026-08-06",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "INSMED Inc",
+          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126031502/ef20079469_8k.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "2.02",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "ITEM 2.02 Results of Operations and Financial Condition. On August 6, 2026, Insmed Incorporated (the Company ) issued a press release regarding its financial results for the second quarter ended June 30, 2026. A copy of this press release is furnished herewith as Exhibit 99.1 pursuant to this Item 2.02. The slide presentation to be used during the conference call referenced in the press release is attached hereto as Exhibit 99.2 and incorporated herein by reference. The information contained herein, including the exhibits attached hereto, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or incorporated by reference in any filing under the Securities Act or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing. ITEM 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press release issued by Insmed Incorporated on August 6, 2026. 99.2 Insmed Incorporated August 6, 2026 Presentation. 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Dated: August 6, 2026 INSMED INCORPORATED By: /s/ Michael A. Smith Name: Michael A. Smith Title: Chief Legal Officer and Secretary",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
+          "form": "10-Q",
+          "fecha": "2026-08-06",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Caja: $544.8M · Burn: $103.9M/mes · Runway: 5 meses · Shares: 218.3M · ⚖️ Litigios activos",
+          "detalle": "10-Q",
+          "empresa_sec": "INSMED Inc",
+          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000110450626000041/insm-20260630.htm",
+          "form4_detail": null,
+          "8k_detail": null,
+          "10q_detail": {
+            "caja_mm": 544.8,
+            "burn_trimestral_mm": 311.6,
+            "burn_mensual_mm": 103.9,
+            "runway_meses": 5,
+            "shares_outstanding_mm": 218.3,
+            "litigios_detectados": true,
+            "shelf_mencionado": false,
+            "going_concern": false,
+            "extracto_financiero": "ember 31, 2025 (unaudited) Assets Current assets: Cash and cash equivalents $ 544,765 &#160; $ 510,445 &#160; Marketable securities 615,547 &#160; 919,602 &#160; Accounts receivable 215,325 &#160; 140,857 &#160; Inventory 142,384 &#160; 132,068 &#160; Prepaid expenses and other current assets 115,898 &#160; 91,236 &#160; Total current assets 1,633,",
+            "resumen_10q": "Caja: $544.8M · Burn: $103.9M/mes · Runway: 5 meses · Shares: 218.3M · ⚖️ Litigios activos"
+          },
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "NWL": {
@@ -562,8 +738,303 @@
       "error": "Sin CIK SEC"
     }
   },
-  "alertas_criticas": [],
+  "alertas_criticas": [
+    {
+      "ticker": "DNLI",
+      "nombre": "Denali Therapeutics Inc.",
+      "form": "10-Q",
+      "fecha": "2026-08-06",
+      "nivel": "rojo",
+      "badge": "🔴 ALTA",
+      "resumen": "Caja: $201.5M · Burn: $76.1M/mes · Runway: 2 meses · Shares: 156.2M · ⚠️ GOING CONCERN · ⚖️ Litigios activos",
+      "detalle": "10-Q",
+      "empresa_sec": "Denali Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000097/dnli-20260630.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": {
+        "caja_mm": 201.5,
+        "burn_trimestral_mm": 228.2,
+        "burn_mensual_mm": 76.1,
+        "runway_meses": 2,
+        "shares_outstanding_mm": 156.2,
+        "litigios_detectados": true,
+        "shelf_mencionado": false,
+        "going_concern": true,
+        "extracto_financiero": "30, 2026 December 31, 2025 Assets Current assets: Cash and cash equivalents $ 201,530 &#160; $ 205,326 &#160; Short-term marketable securities 508,941 &#160; 662,553 &#160; Accounts receivable, net 3,927 &#160; &#8212; &#160; Inventory 4,139 &#160; &#8212; &#160; Prepaid expenses and other current assets 35,390 &#160; 32,779 &#160; Total current as",
+        "resumen_10q": "Caja: $201.5M · Burn: $76.1M/mes · Runway: 2 meses · Shares: 156.2M · ⚠️ GOING CONCERN · ⚖️ Litigios activos"
+      },
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "SENS",
+      "nombre": "Senseonics Holdings, Inc.",
+      "form": "10-Q",
+      "fecha": "2026-08-06",
+      "nivel": "rojo",
+      "badge": "🔴 ALTA",
+      "resumen": "Shares: 41.3M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado",
+      "detalle": "10-Q",
+      "empresa_sec": "Senseonics Holdings, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000110465926092056/sens-20260630x10q.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": {
+        "caja_mm": null,
+        "burn_trimestral_mm": null,
+        "burn_mensual_mm": null,
+        "runway_meses": null,
+        "shares_outstanding_mm": 41.3,
+        "litigios_detectados": true,
+        "shelf_mencionado": true,
+        "going_concern": true,
+        "extracto_financiero": ": &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; Cash and cash equivalents &#8203; $ 44,753 &#8203; $ 40,234 Restricted cash &#8203; &#8203; 315 &#8203; &#8203; 315 Short term investments, net &#8203; &#8203; 97,906 &#8203; &#8203; 53,796 Accounts receivable, net &#8203; &#8203; 9,137 &#8203; &#8203; 6,807 Accounts receivable, net - related partie",
+        "resumen_10q": "Shares: 41.3M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado"
+      },
+      "prospecto_detail": null
+    }
+  ],
   "todos_filings": [
+    {
+      "ticker": "DNLI",
+      "nombre": "Denali Therapeutics Inc.",
+      "form": "10-Q",
+      "fecha": "2026-08-06",
+      "nivel": "rojo",
+      "badge": "🔴 ALTA",
+      "resumen": "Caja: $201.5M · Burn: $76.1M/mes · Runway: 2 meses · Shares: 156.2M · ⚠️ GOING CONCERN · ⚖️ Litigios activos",
+      "detalle": "10-Q",
+      "empresa_sec": "Denali Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000097/dnli-20260630.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": {
+        "caja_mm": 201.5,
+        "burn_trimestral_mm": 228.2,
+        "burn_mensual_mm": 76.1,
+        "runway_meses": 2,
+        "shares_outstanding_mm": 156.2,
+        "litigios_detectados": true,
+        "shelf_mencionado": false,
+        "going_concern": true,
+        "extracto_financiero": "30, 2026 December 31, 2025 Assets Current assets: Cash and cash equivalents $ 201,530 &#160; $ 205,326 &#160; Short-term marketable securities 508,941 &#160; 662,553 &#160; Accounts receivable, net 3,927 &#160; &#8212; &#160; Inventory 4,139 &#160; &#8212; &#160; Prepaid expenses and other current assets 35,390 &#160; 32,779 &#160; Total current as",
+        "resumen_10q": "Caja: $201.5M · Burn: $76.1M/mes · Runway: 2 meses · Shares: 156.2M · ⚠️ GOING CONCERN · ⚖️ Litigios activos"
+      },
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "DNLI",
+      "nombre": "Denali Therapeutics Inc.",
+      "form": "8-K",
+      "fecha": "2026-08-06",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Denali Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000096/dnli-20260806.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "2.02",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 2.02 Results of Operations and Financial Condition. On August 6, 2026, Denali Therapeutics Inc. (the \"Company\") issued a press release announcing its financial results for the second quarter ended June 30, 2026. The full text of the press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference. All of the information furnished in this Item 2.02 and Item 9.01 (including Exhibit 99.1) shall not be deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, and shall not be incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, except as shall be expressly set forth by specific reference in such a filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press Release dated August 6, 2026. 104 Cover Page Interactive Data File (formatted as Inline XBRL) SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. DENALI THERAPEUTICS INC. Date: August 6, 2026 By: /s/ Alexander O. Schuth Alexander O. Schuth, M.D. Chief Operating and Financial Officer",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "GPCR",
+      "nombre": "Structure Therapeutics Inc.",
+      "form": "10-Q",
+      "fecha": "2026-08-06",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Shares: 212513.0M · ⚖️ Litigios activos · 📋 Shelf mencionado",
+      "detalle": "10-Q",
+      "empresa_sec": "Structure Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000110465926092057/gpcr-20260630x10q.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": {
+        "caja_mm": null,
+        "burn_trimestral_mm": null,
+        "burn_mensual_mm": null,
+        "runway_meses": null,
+        "shares_outstanding_mm": 212513.0,
+        "litigios_detectados": true,
+        "shelf_mencionado": true,
+        "going_concern": false,
+        "extracto_financiero": "&#8203; &#160; &#8203; &#160;&#160;&#8203; &#160; Cash and cash equivalents &#8203; $ 272,638 &#8203; $ 799,623 &#8203; Short-term investments &#8203; &#160; 1,070,020 &#8203; &#160; 646,574 &#8203; Other receivable &#8203; &#8203; &#8212; &#8203; &#8203; 100,000 &#8203; Prepaid expenses and other current assets &#8203; &#160; 29,370 &#8203; &#160;",
+        "resumen_10q": "Shares: 212513.0M · ⚖️ Litigios activos · 📋 Shelf mencionado"
+      },
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "GPCR",
+      "nombre": "Structure Therapeutics Inc.",
+      "form": "8-K",
+      "fecha": "2026-08-06",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+      "detalle": "FORM 8-K",
+      "empresa_sec": "Structure Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000110465926092017/tm2622407d1_8k.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "2.02",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 2.02 Results of Operations and Financial Condition. On August 6, 2026, Structure Therapeutics Inc. (the Company ) issued a press release providing a corporate update and announcing its financial results for the second quarter ended June 30, 2026. The full text of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference. The information in this Current Report on Form 8-K (including Exhibit 99.1) shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that Section, nor shall it be deemed to be incorporated by reference into any filing of the Company under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits. Exhibit No. Description 99.1 Press Release dated August 6, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Structure Therapeutics Inc. Date: August 6, 2026 By: /s/ Raymond Stevens Raymond Stevens, Ph.D. Chief Executive Officer",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "ACRV",
+      "nombre": "Acrivon Therapeutics, Inc.",
+      "form": "4",
+      "fecha": "2026-08-06",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Levy Adam D. (Chief Financial Officer) → Venta 1,142 acciones @ $1.57 | Post: 66,008 | Rutinaria/RSU/impuestos",
+      "detalle": "FORM 4",
+      "empresa_sec": "Acrivon Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781174/000090514826003499/xslF345X06/form4.xml",
+      "form4_detail": {
+        "insider_nombre": "Levy Adam D.",
+        "insider_cargo": "Chief Financial Officer",
+        "transaccion_codigo": "S",
+        "transaccion_tipo": "Venta",
+        "transaccion_acciones": "1142",
+        "transaccion_precio": "1.57",
+        "transaccion_fecha": "2026-08-04",
+        "acciones_post": "66008",
+        "footnotes": "Shares sold automatically to satisfy the mandatory tax withholding requirement upon vesting of restricted stock units.",
+        "es_rutinaria": true,
+        "resumen_detail": "Levy Adam D. (Chief Financial Officer) → Venta 1,142 acciones @ $1.57 | Post: 66,008 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "SENS",
+      "nombre": "Senseonics Holdings, Inc.",
+      "form": "10-Q",
+      "fecha": "2026-08-06",
+      "nivel": "rojo",
+      "badge": "🔴 ALTA",
+      "resumen": "Shares: 41.3M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado",
+      "detalle": "10-Q",
+      "empresa_sec": "Senseonics Holdings, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000110465926092056/sens-20260630x10q.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": {
+        "caja_mm": null,
+        "burn_trimestral_mm": null,
+        "burn_mensual_mm": null,
+        "runway_meses": null,
+        "shares_outstanding_mm": 41.3,
+        "litigios_detectados": true,
+        "shelf_mencionado": true,
+        "going_concern": true,
+        "extracto_financiero": ": &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; Cash and cash equivalents &#8203; $ 44,753 &#8203; $ 40,234 Restricted cash &#8203; &#8203; 315 &#8203; &#8203; 315 Short term investments, net &#8203; &#8203; 97,906 &#8203; &#8203; 53,796 Accounts receivable, net &#8203; &#8203; 9,137 &#8203; &#8203; 6,807 Accounts receivable, net - related partie",
+        "resumen_10q": "Shares: 41.3M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado"
+      },
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "SENS",
+      "nombre": "Senseonics Holdings, Inc.",
+      "form": "8-K",
+      "fecha": "2026-08-06",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Senseonics Holdings, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000110465926092018/sens-20260806x8k.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "2.02",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 2.02. Results of Operations and Financial Condition. On August 6, 2026, Senseonics Holdings, Inc. (the Company ) issued a press release announcing its financial results for the quarter ended June 30, 2026, as well as information regarding a conference call to discuss these financial results and the Company s recent corporate highlights and outlook. This press release has been furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by this reference. The information in this Current Report on Form 8-K, including Exhibit 99.1 attached hereto, is being furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ) or otherwise subject to the liabilities of that section. The information contained herein and in the accompanying exhibit is not incorporated by reference in any filing of the Company under the Securities Act of 1933, as amended, or the Exchange Act, whether made before or after the date hereof and irrespective of any general incorporation language in any filings. Item 9.01. Financial Statements and Exhibits. (d) Exhibits. Exhibit Number Description 99.1 Press Release of Senseonics Holdings, Inc. dated August 6, 2026. 104 Cover Page Interactive Data (embedded within the Inline XBRL document). SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. ay Date: August 6, 2026 SENSEONICS HOLDINGS, INC. By: /s/ Rick Sullivan Nam",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "INSM",
+      "nombre": "INSMED Inc",
+      "form": "8-K",
+      "fecha": "2026-08-06",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "INSMED Inc",
+      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126031502/ef20079469_8k.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "2.02",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "ITEM 2.02 Results of Operations and Financial Condition. On August 6, 2026, Insmed Incorporated (the Company ) issued a press release regarding its financial results for the second quarter ended June 30, 2026. A copy of this press release is furnished herewith as Exhibit 99.1 pursuant to this Item 2.02. The slide presentation to be used during the conference call referenced in the press release is attached hereto as Exhibit 99.2 and incorporated herein by reference. The information contained herein, including the exhibits attached hereto, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or incorporated by reference in any filing under the Securities Act or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing. ITEM 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press release issued by Insmed Incorporated on August 6, 2026. 99.2 Insmed Incorporated August 6, 2026 Presentation. 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Dated: August 6, 2026 INSMED INCORPORATED By: /s/ Michael A. Smith Name: Michael A. Smith Title: Chief Legal Officer and Secretary",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "INSM",
+      "nombre": "INSMED Inc",
+      "form": "10-Q",
+      "fecha": "2026-08-06",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Caja: $544.8M · Burn: $103.9M/mes · Runway: 5 meses · Shares: 218.3M · ⚖️ Litigios activos",
+      "detalle": "10-Q",
+      "empresa_sec": "INSMED Inc",
+      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000110450626000041/insm-20260630.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": {
+        "caja_mm": 544.8,
+        "burn_trimestral_mm": 311.6,
+        "burn_mensual_mm": 103.9,
+        "runway_meses": 5,
+        "shares_outstanding_mm": 218.3,
+        "litigios_detectados": true,
+        "shelf_mencionado": false,
+        "going_concern": false,
+        "extracto_financiero": "ember 31, 2025 (unaudited) Assets Current assets: Cash and cash equivalents $ 544,765 &#160; $ 510,445 &#160; Marketable securities 615,547 &#160; 919,602 &#160; Accounts receivable 215,325 &#160; 140,857 &#160; Inventory 142,384 &#160; 132,068 &#160; Prepaid expenses and other current assets 115,898 &#160; 91,236 &#160; Total current assets 1,633,",
+        "resumen_10q": "Caja: $544.8M · Burn: $103.9M/mes · Runway: 5 meses · Shares: 218.3M · ⚖️ Litigios activos"
+      },
+      "prospecto_detail": null
+    },
     {
       "ticker": "CAI",
       "nombre": "Caris Life Sciences, Inc.",
@@ -878,59 +1349,6 @@
         ],
         "clasificacion_item": null,
         "extracto": "Item 2.02 Results of Operations and Financial Condition. On August 3, 2026, Ocular Therapeutix, Inc. announced its financial results for the quarter ended June 30, 2026. The full text of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference. The information in this Current Report on Form 8-K, including Exhibit 99.1 attached hereto, is furnished to comply with Item 2.02 of Form 8-K, and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits: 99.1 Press Release of Ocular Therapeutix, Inc., dated August 3, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. OCULAR THERAPEUTIX, INC. Date: August 3, 2026 By: /s/ Jason S. Robins Jason S. Robins Chief Financial Officer",
-        "nivel_ajustado": "azul",
-        "badge_ajustado": "🔵 INFO",
-        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "ALNY",
-      "nombre": "ALNYLAM PHARMACEUTICALS, INC.",
-      "form": "10-Q",
-      "fecha": "2026-07-30",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Caja: $1708.3M · Shares: 133734.0M · ⚖️ Litigios activos",
-      "detalle": "10-Q",
-      "empresa_sec": "ALNYLAM PHARMACEUTICALS, INC.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000062/alny-20260630.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": {
-        "caja_mm": 1708.3,
-        "burn_trimestral_mm": null,
-        "burn_mensual_mm": null,
-        "runway_meses": null,
-        "shares_outstanding_mm": 133734.0,
-        "litigios_detectados": true,
-        "shelf_mencionado": false,
-        "going_concern": false,
-        "extracto_financiero": "30, 2026 December 31, 2025 ASSETS Current assets: Cash and cash equivalents $ 1,708,318 &#160; $ 1,657,250 &#160; Marketable debt securities 1,599,829 &#160; 1,251,234 &#160; Accounts receivable, net 912,739 &#160; 777,567 &#160; Inventory 97,110 &#160; 82,719 &#160; Prepaid expenses and other current assets 302,176 &#160; 281,892 &#160; Total curr",
-        "resumen_10q": "Caja: $1708.3M · Shares: 133734.0M · ⚖️ Litigios activos"
-      },
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "ALNY",
-      "nombre": "ALNYLAM PHARMACEUTICALS, INC.",
-      "form": "8-K",
-      "fecha": "2026-07-30",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "ALNYLAM PHARMACEUTICALS, INC.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000060/alny-20260730.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "2.02",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 2.02. Results of Operations and Financial Condition On July 30, 2026, Alnylam Pharmaceuticals, Inc. (the Company ) announced its financial results for the quarter ended June 30, 2026. The full text of the press release issued in connection with the announcement is furnished as Exhibit 99.1 to this Current Report on Form 8-K. The information in Item 2.02 of this Form 8-K (including Exhibit 99.1) shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing. Item 9.01. Financial Statements and Exhibits (d) Exhibits The following exhibit relating to Item 2.02 shall be deemed to be furnished, and not filed: 99.1 Press Release dated July 30, 2026 . 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Date: July 30, 2026 ALNYLAM PHARMACEUTICALS, INC. By: /s/ Jeffrey V. Poulton Jeffrey V. Poulton Executive Vice President, Chief Financial Officer",
         "nivel_ajustado": "azul",
         "badge_ajustado": "🔵 INFO",
         "resumen_ajustado": "8-K — Sin clasificación específica por Item"

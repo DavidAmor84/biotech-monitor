@@ -1,10 +1,26 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 06/08/2026 09:39 | Período: últimos 7 días
-Desde: 2026-07-30 → Hasta: 2026-08-06
+Generado: 07/08/2026 08:13 | Período: últimos 7 días
+Desde: 2026-07-31 → Hasta: 2026-08-07
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 14 filings | 🔴 0 | 🟢 0 | 🟡 6 | 🔵 8 | ✅ 9 sin novedad
+RESUMEN: 21 filings | 🔴 2 | 🟢 0 | 🟡 8 | 🔵 11 | ✅ 6 sin novedad
+
+──────────────────────────────────────────────────
+🚨 ALERTAS CRÍTICAS (2)
+──────────────────────────────────────────────────
+
+  [DNLI] Denali Therapeutics Inc.
+  🔴 ALTA 10-Q | 2026-08-06
+  Caja: $201.5M · Burn: $76.1M/mes · Runway: 2 meses · Shares: 156.2M · ⚠️ GOING CONCERN · ⚖️ Litigios activos
+  Financiero: Caja: $201.5M · Burn: $76.1M/mes · Runway: 2 meses · Shares: 156.2M · ⚠️ GOING CONCERN · ⚖️ Litigios activos
+  → https://www.sec.gov/Archives/edgar/data/1714899/000171489926000097/dnli-20260630.htm
+
+  [SENS] Senseonics Holdings, Inc.
+  🔴 ALTA 10-Q | 2026-08-06
+  Shares: 41.3M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado
+  Financiero: Shares: 41.3M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado
+  → https://www.sec.gov/Archives/edgar/data/1616543/000110465926092056/sens-20260630x10q.htm
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -18,7 +34,13 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1395937/000119312526332736/sndx-20260804.htm
   ✅ [ARGX] Sin novedades
   ✅ [DYN] Sin novedades
-  ✅ [DNLI] Sin novedades
+
+  🔴 [DNLI] Denali Therapeutics Inc. — 2 filing(s)
+     🔴 ALTA 10-Q | 2026-08-06 | Caja: $201.5M · Burn: $76.1M/mes · Runway: 2 meses · Shares: 156.2M · ⚠️ GOING CONCERN · ⚖️ Litigios activos
+     10-Q: Caja: $201.5M · Burn: $76.1M/mes · Runway: 2 meses · Shares: 156.2M · ⚠️ GOING CONCERN · ⚖️ Litigios activos
+     → https://www.sec.gov/Archives/edgar/data/1714899/000171489926000097/dnli-20260630.htm
+     🔵 INFO 8-K | 2026-08-06 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1714899/000171489926000096/dnli-20260806.htm
   ✅ [VKTX] Sin novedades
 
   🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 2 filing(s)
@@ -27,13 +49,7 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000259/vrtx-20260630.htm
      🔵 INFO 8-K | 2026-08-03 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000256/vrtx-20260803.htm
-
-  🟡 [ALNY] ALNYLAM PHARMACEUTICALS, INC. — 2 filing(s)
-     🟡 MEDIA 10-Q | 2026-07-30 | Caja: $1708.3M · Shares: 133734.0M · ⚖️ Litigios activos
-     10-Q: Caja: $1708.3M · Shares: 133734.0M · ⚖️ Litigios activos
-     → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000062/alny-20260630.htm
-     🔵 INFO 8-K | 2026-07-30 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000060/alny-20260730.htm
+  ✅ [ALNY] Sin novedades
 
   🟡 [BEAM] Beam Therapeutics Inc. — 2 filing(s)
      🟡 MEDIA 10-Q | 2026-08-04 | ⚖️ Litigios activos · 📋 Shelf mencionado
@@ -56,7 +72,12 @@ DETALLE POR TICKER — SEC EDGAR
      🔵 INFO 8-K | 2026-08-05 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/2019410/000201941026000053/cai-20260805.htm
 
-  🔵 [GPCR] Structure Therapeutics Inc. — 1 filing(s)
+  🟡 [GPCR] Structure Therapeutics Inc. — 3 filing(s)
+     🟡 MEDIA 10-Q | 2026-08-06 | Shares: 212513.0M · ⚖️ Litigios activos · 📋 Shelf mencionado
+     10-Q: Shares: 212513.0M · ⚖️ Litigios activos · 📋 Shelf mencionado
+     → https://www.sec.gov/Archives/edgar/data/1888886/000110465926092057/gpcr-20260630x10q.htm
+     🔵 INFO 8-K | 2026-08-06 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1888886/000110465926092017/tm2622407d1_8k.htm
      🔵 INFO 4 | 2026-08-05 | Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 11,817 acciones @ $0.34 | Post: 240,777 | Rutinaria/RSU/impuestos
      Insider: Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 11,817 acciones @ $0.34 | Post: 240,777 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1888886/000196292626000007/xslF345X06/form4-08052026_080829.xml
@@ -66,10 +87,26 @@ DETALLE POR TICKER — SEC EDGAR
      🔵 INFO 4 | 2026-08-05 | Boman Nancy Lee (Chief Regulatory Officer) → Concesión 44,987 acciones @ $0.00 | Post: 44,987 | Rutinaria/RSU/impuestos
      Insider: Boman Nancy Lee (Chief Regulatory Officer) → Concesión 44,987 acciones @ $0.00 | Post: 44,987 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1831828/000214571126000002/xslF345X06/form4-08052026_080802.xml
-  ✅ [ACRV] Sin novedades
+
+  🟡 [ACRV] Acrivon Therapeutics, Inc. — 1 filing(s)
+     🟡 MEDIA 4 | 2026-08-06 | Levy Adam D. (Chief Financial Officer) → Venta 1,142 acciones @ $1.57 | Post: 66,008 | Rutinaria/RSU/impuestos
+     Insider: Levy Adam D. (Chief Financial Officer) → Venta 1,142 acciones @ $1.57 | Post: 66,008 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003499/xslF345X06/form4.xml
   ✅ [TARA] Sin novedades
-  ✅ [SENS] Sin novedades
-  ✅ [INSM] Sin novedades
+
+  🔴 [SENS] Senseonics Holdings, Inc. — 2 filing(s)
+     🔴 ALTA 10-Q | 2026-08-06 | Shares: 41.3M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado
+     10-Q: Shares: 41.3M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado
+     → https://www.sec.gov/Archives/edgar/data/1616543/000110465926092056/sens-20260630x10q.htm
+     🔵 INFO 8-K | 2026-08-06 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1616543/000110465926092018/sens-20260806x8k.htm
+
+  🟡 [INSM] INSMED Inc — 2 filing(s)
+     🔵 INFO 8-K | 2026-08-06 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1104506/000114036126031502/ef20079469_8k.htm
+     🟡 MEDIA 10-Q | 2026-08-06 | Caja: $544.8M · Burn: $103.9M/mes · Runway: 5 meses · Shares: 218.3M · ⚖️ Litigios activos
+     10-Q: Caja: $544.8M · Burn: $103.9M/mes · Runway: 5 meses · Shares: 218.3M · ⚖️ Litigios activos
+     → https://www.sec.gov/Archives/edgar/data/1104506/000110450626000041/insm-20260630.htm
   ⚪ [NWL] Sin CIK SEC
 
 ──────────────────────────────────────────────────

@@ -1,106 +1,33 @@
 {
-  "generado": "07/08/2026 08:19 UTC",
+  "generado": "10/08/2026 08:48 UTC",
   "plazo_horas": 72,
-  "desde": "2026-08-04",
-  "hasta": "2026-08-07",
+  "desde": "2026-08-07",
+  "hasta": "2026-08-10",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
-      "noticias": [
-        {
-          "ticker": "SNDX",
-          "titulo": "Syndax Pharmaceuticals, Inc. 2026 Q2 - Results - Earnings Call Presentation",
-          "resumen": "2026-08-05. The following slide deck was published by Syndax Pharmaceuticals, Inc.",
-          "fuente": "SeekingAlpha",
-          "fecha": "05 Aug 2026 14:37 UTC",
-          "url": "https://finnhub.io/api/news?id=e6a4c516d2604c56c4e5ad92f724656794500e1ad15498e1a83f163239c61f3f",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "SNDX",
-          "titulo": "HC Wainwright & Co. Maintains Buy on Syndax Pharmaceuticals, Lowers Price Target to $38",
-          "resumen": "HC Wainwright &amp; Co.  analyst Andres Y. Maldonado   maintains Syndax Pharmaceuticals (NASDAQ:SNDX) with a Buy and lowers the price target from $40 to $38.",
-          "fuente": "Benzinga",
-          "fecha": "05 Aug 2026 07:10 UTC",
-          "url": "https://finnhub.io/api/news?id=d06a307e168ad9f6320313d76c22a01b03bd82824d6fcd002a75a84e5a420a28",
-          "imagen": "",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "SNDX",
-          "titulo": "Syndax Pharmaceuticals, Inc. (SNDX) Q2 2026 Earnings Call Transcript",
-          "resumen": "Syndax Pharmaceuticals, Inc. (SNDX) Q2 2026 Earnings Call August 4, 2026 4:30 PM EDTCompany ParticipantsSharon Klahre - Vice President of Investor Relations...",
-          "fuente": "SeekingAlpha",
-          "fecha": "05 Aug 2026 02:19 UTC",
-          "url": "https://finnhub.io/api/news?id=491eeee67630b8fc0a9c32cb786848f7a53f218a3c3f491228d51d69f3739d70",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "SNDX",
-          "titulo": "Syndax Pharmaceuticals (NASDAQ:SNDX) Shares Drop as Q2 Revenue and EPS Miss Estimates",
-          "resumen": "Syndax Pharmaceuticals Q2 2026 revenue and EPS miss estimates, shares dip 6.5%; Revuforj sales up 91%, pipeline advances, cash position strong.",
-          "fuente": "ChartMill",
-          "fecha": "05 Aug 2026 02:12 UTC",
-          "url": "https://finnhub.io/api/news?id=71c7835c4906c6fcb0668a9338b9bff287c4449590bce573a96f952da0d54dda",
-          "imagen": "https://www.chartmill.com/images/uploads/earnings_article_1_defce97180.webp",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "SNDX",
-          "titulo": "Syndax Pharmaceuticals Q2 EPS $(0.55) Misses $(0.49) Estimate, Sales $72.788M Miss $79.323M Estimate",
-          "resumen": "Syndax Pharmaceuticals (NASDAQ:SNDX) reported quarterly losses of $(0.55) per share which missed the analyst consensus estimate of $(0.49) by 12.24 percent. This is a 33.73 percent increase over losses of $(0.83) per",
-          "fuente": "Benzinga",
-          "fecha": "04 Aug 2026 16:03 UTC",
-          "url": "https://finnhub.io/api/news?id=0152ed1b93e3161e0aefe60b22776360c134f9065ed9b4a02426daa0a82039c9",
-          "imagen": "",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 5
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "ARGX": {
       "nombre": "ARGX",
       "noticias": [
         {
           "ticker": "ARGX",
-          "titulo": "argenx Commences $77/Shr Cash Tender Offer Through Subsidiary Avena Merger Sub To Acquire All Outstanding Shares Of Forte Biosciences",
-          "resumen": "argenx ((Euronext &amp;, NASDAQ:ARGX), a global immunology innovation company today announced that Avena Merger Sub Inc. (&#34;Purchaser&#34;), a wholly-owned subsidiary of argenx BV (&#34;argenx&#34;), has commenced a",
-          "fuente": "Benzinga",
-          "fecha": "06 Aug 2026 07:59 UTC",
-          "url": "https://finnhub.io/api/news?id=3109d54c07fb5fe02678698bafd4cd4cebbd7d509e66143b3af6e84323017f50",
-          "imagen": "",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "Guggenheim Reinstates Buy on argenx, Maintains $1185 Price Target",
-          "resumen": "Guggenheim  analyst Yatin Suneja   reinstates argenx (NASDAQ:ARGX) with a Buy and maintains $1185 price target.",
-          "fuente": "Benzinga",
-          "fecha": "05 Aug 2026 09:42 UTC",
-          "url": "https://finnhub.io/api/news?id=ca656720345e554704dad7370f9585af66a842f91605cd9054cbd687602c5e79",
-          "imagen": "",
+          "titulo": "HQH: After Biotech's Breakout Year, This Healthcare CEF Still Trades Below NAV; Buy",
+          "resumen": "Abrdn Healthcare Investors biotech CEF: 6.4% NAV discount, 56% NAV gain, 12% gain-funded payout, key risks. Read my analysis here on HQH.",
+          "fuente": "SeekingAlpha",
+          "fecha": "07 Aug 2026 17:58 UTC",
+          "url": "https://finnhub.io/api/news?id=71ce3b773b458a4d3c61e16abd357d37f013a488b03717bc4c2ec9fa9fd6aa70",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2265725036/image_2265725036.jpg?io=getty-c-w1536",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         }
       ],
-      "nivel": "rojo",
-      "total": 2
+      "nivel": "azul",
+      "total": 1
     },
     "DYN": {
       "nombre": "DYN",
@@ -113,36 +40,74 @@
       "noticias": [
         {
           "ticker": "DNLI",
-          "titulo": "Denali Therapeutics Inc. (DNLI) Q2 2026 Earnings Call Transcript",
-          "resumen": "Denali Therapeutics Inc. (DNLI) Q2 2026 Earnings Call August 6, 2026 4:30 PM EDTCompany ParticipantsLaura HansenRyan Watts - Co-Founder, President, CEO...",
+          "titulo": "UBS Maintains Buy on Denali Therapeutics, Raises Price Target to $34",
+          "resumen": "UBS  analyst Michael Yee   maintains Denali Therapeutics (NASDAQ:DNLI) with a Buy and raises the price target from $25 to $34.",
+          "fuente": "Benzinga",
+          "fecha": "07 Aug 2026 19:37 UTC",
+          "url": "https://finnhub.io/api/news?id=8c902a1536bd11c82809beb5a6adfb78fc9dea4e01f25d79730a87a9e51e707b",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
+    },
+    "VKTX": {
+      "nombre": "VKTX",
+      "noticias": [
+        {
+          "ticker": "VKTX",
+          "titulo": "Viking Therapeutics: Mysterious GLP-1 Player With A Key Catalyst Due Q3 (Q2 Earnings Overview)",
+          "resumen": "Viking Therapeutics stock holds as GLP-1 obesity drug competition heats up. Read the latest analysis on earnings here.",
           "fuente": "SeekingAlpha",
-          "fecha": "07 Aug 2026 03:44 UTC",
-          "url": "https://finnhub.io/api/news?id=f74f67e0a9f635a28ab1f6f03cec948a9209e4ede63f72578484b20af6e055db",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "fecha": "07 Aug 2026 15:13 UTC",
+          "url": "https://finnhub.io/api/news?id=87a12d58cab57b01cb892f8ce892253085a1039e385e7fe9538053d4348a2053",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2219143971/image_2219143971.jpg?io=getty-c-w1536",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
+    },
+    "VRTX": {
+      "nombre": "VRTX",
+      "noticias": [
         {
-          "ticker": "DNLI",
-          "titulo": "Denali Therapeutics Inc. 2026 Q2 - Results - Earnings Call Presentation",
-          "resumen": "2026-08-07. The following slide deck was published by Denali Therapeutics Inc.",
+          "ticker": "VRTX",
+          "titulo": "Tracking Tweedy Browne Portfolio - Q2 2026 Update",
+          "resumen": "Tweedy Browneâs Q2 2026 13F: $1.32B portfolio, top holdings & new Zoetis stake, plus trims/exits and concentration insightsâread now.",
           "fuente": "SeekingAlpha",
-          "fecha": "07 Aug 2026 03:25 UTC",
-          "url": "https://finnhub.io/api/news?id=5977dd52cbd8ce6303695cb56a7bf841097fcb1dddbf4fc5e0a770816f9fe4be",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
+          "fecha": "08 Aug 2026 22:59 UTC",
+          "url": "https://finnhub.io/api/news?id=3b7a86f6ceb88fe11df34224171d2e64d74b5e8b7d5f7a718f923ea58fe91d9c",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1160013511/image_1160013511.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
         },
         {
-          "ticker": "DNLI",
-          "titulo": "Denali Therapeutics (NASDAQ:DNLI) Drops as Q2 AVLAYAH Revenue Misses Estimates",
-          "resumen": "Denali Therapeutics (DNLI) stock fell 12% after Q2 revenue miss. AVLAYAH sales low, but Q3 guidance of $10-12M signals acceleration.",
-          "fuente": "ChartMill",
-          "fecha": "06 Aug 2026 20:52 UTC",
-          "url": "https://finnhub.io/api/news?id=dbe7f42d7cec7c92a691fb2b88ba1078a2594c59a2e357557ce5f2b2ba62deeb",
-          "imagen": "https://www.chartmill.com/images/uploads/THUMBNAILS_CHARTMILL_1000_528_16_065e226ebd.webp",
+          "ticker": "VRTX",
+          "titulo": "Could 1 Tiny Biotech Topple Vertex Pharmaceuticals' Cystic Fibrosis Empire?",
+          "resumen": "This risk is weighing on the stock.",
+          "fuente": "Yahoo",
+          "fecha": "07 Aug 2026 18:20 UTC",
+          "url": "https://finnhub.io/api/news?id=f30205fda5e3671faae31aaf11b68289bc37bc3003af8d9080eae74361b10542",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "What Insmed Stock's Premium Is Actually Buying",
+          "resumen": "Management has just raised the peak-sales estimate, and a large slice of it belongs to a drug still running Phase III trials.",
+          "fuente": "Yahoo",
+          "fecha": "07 Aug 2026 15:39 UTC",
+          "url": "https://finnhub.io/api/news?id=f1429036e90b90226a0f1548de75810532846ed909768a41040c55c430c961bf",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
@@ -151,158 +116,11 @@
       "nivel": "rojo",
       "total": 3
     },
-    "VKTX": {
-      "nombre": "VKTX",
-      "noticias": [
-        {
-          "ticker": "VKTX",
-          "titulo": "Viking Therapeutics Declined in July, and why its Long-Term Prospects are Undiminished",
-          "resumen": "In a slow news month for the company, investors focused on the cost of its phase 3 trials rather than their benefits.",
-          "fuente": "Yahoo",
-          "fecha": "06 Aug 2026 14:41 UTC",
-          "url": "https://finnhub.io/api/news?id=c850fd8c0f5fd9a295cc04aa518d35ee7c8c2bb7b66dc31d3bf22ebc4fe18b5b",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "Viking Therapeutics (VKTX) Draws Fresh VK2735 Attention, Is It Still Below Fair Value?",
-          "resumen": "Why Viking Therapeutics' VK2735 News Matters For Investors Viking Therapeutics (VKTX) has drawn fresh attention after commentary on its VK2735 drug candidate highlighted the potential appeal of less frequent injections and the possibility of use in combination maintenance therapy for weight loss and",
-          "fuente": "Yahoo",
-          "fecha": "04 Aug 2026 10:14 UTC",
-          "url": "https://finnhub.io/api/news?id=bcaf2f134399adb7a87a1f0a8daf67d50b05484ff6444400800b1bc154dca057",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 2
-    },
-    "VRTX": {
-      "nombre": "VRTX",
-      "noticias": [
-        {
-          "ticker": "VRTX",
-          "titulo": "IONQ Q2 Earnings Miss Estimates, Revenues Beat, Stock Rises",
-          "resumen": "IONQ posts a wider-than-expected Q2 loss but tops revenue estimates, raises its 2026 revenue outlook and sees shares rise after the results.",
-          "fuente": "Yahoo",
-          "fecha": "06 Aug 2026 14:39 UTC",
-          "url": "https://finnhub.io/api/news?id=fd1d07072af0353df58d8c6462fe44867241410e634aa7fe7a706972fa6edc43",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vortex Energy Receives Final Technical Study Results for the Robinsons River Salt Project",
-          "resumen": "Study confirms western salt structure, identifies an eastern exploration target and establishes a staged technical pathway for further evaluationVANCOUVER, British Columbia, Aug. 06, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) is pleas",
-          "fuente": "Yahoo",
-          "fecha": "06 Aug 2026 12:00 UTC",
-          "url": "https://finnhub.io/api/news?id=d3341145831fa1164ba72987649fc3f9cde6dfde5df1d47e24be44aed8cc7b65",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "AbCellera Biologics Inc (ABCL) (Q2 2026) Earnings Call Highlights: Strong Pipeline Progress and ...",
-          "resumen": "AbCellera Biologics Inc (ABCL) advances ABCL-635 with early phase 2 completion and secures over $110 million in new T-cell engager deals, despite a wider net loss and revenue decline.",
-          "fuente": "Yahoo",
-          "fecha": "06 Aug 2026 05:01 UTC",
-          "url": "https://finnhub.io/api/news?id=42acecf7bad1baa7ec04cb7ac59418a1c1004daf4cddd4cce6da65363ef901db",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "AbCellera Biologics Q2 Earnings Call Highlights",
-          "resumen": "AbCellera Biologics (NASDAQ:ABCL) said it expects to report top-line data “very soon” from its Phase I study of ABCL635, an antibody being evaluated for moderate-to-severe vasomotor symptoms, or hot flashes, associated with menopause. President and Chief Executive Officer Dr. Carl Hansen said enrol",
-          "fuente": "Yahoo",
-          "fecha": "05 Aug 2026 22:03 UTC",
-          "url": "https://finnhub.io/api/news?id=dcdf3ce3fb9a9978376d50e78da86431a8757aa1e827d9ec985228c198f4b841",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Truist Securities Maintains Buy on Vertex Pharmaceuticals, Raises Price Target to $565",
-          "resumen": "Truist Securities  analyst Danielle Brill   maintains Vertex Pharmaceuticals (NASDAQ:VRTX) with a Buy and raises the price target from $560 to $565.",
-          "fuente": "Benzinga",
-          "fecha": "05 Aug 2026 14:04 UTC",
-          "url": "https://finnhub.io/api/news?id=2a2a2d7e0c3b0c4acf97cdb30edff26305271e2d709137a8518fb82aaeb34cfe",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 5
-    },
     "ALNY": {
       "nombre": "ALNY",
-      "noticias": [
-        {
-          "ticker": "ALNY",
-          "titulo": "Implied Volatility Surging for Alnylam Pharmaceuticals Stock Options",
-          "resumen": "Investors need to pay close attention to ALNY stock based on the movements in the options market lately.",
-          "fuente": "Yahoo",
-          "fecha": "06 Aug 2026 12:30 UTC",
-          "url": "https://finnhub.io/api/news?id=5d13baea472bc47672637dbe0b5a5bddf8325673976a11e05572a383d9c9f6f1",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Tenaya Therapeutics Reports Second Quarter 2026 Financial Results and Provides Business Update",
-          "resumen": "Positive Interim Data Shared in 2Q 2026 from the MyPEAK™-1 and RIDGE™-1 Clinical Trials Each Demonstrated Meaningful Improvements in Key Disease Characteristics Additional Data Releases Plus Updates on Regulatory Discussions on Pivotal Trial Plans for TN-201 and TN-401 Anticipated in 4Q 2026 TN-301 ",
-          "fuente": "Yahoo",
-          "fecha": "05 Aug 2026 20:05 UTC",
-          "url": "https://finnhub.io/api/news?id=1d481ff45e5be2d29b1812778f0f2d3c7f505213846563504f0666a8d28897e0",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Truist Securities Maintains Buy on Alnylam Pharmaceuticals, Lowers Price Target to $315",
-          "resumen": "Truist Securities  analyst Danielle Brill   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Buy and lowers the price target from $410 to $315.",
-          "fuente": "Benzinga",
-          "fecha": "04 Aug 2026 11:28 UTC",
-          "url": "https://finnhub.io/api/news?id=131f96ddfa6776435cb678330bc5045b4c0c47336a2c2f89083c02324e7de017",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "HC Wainwright & Co. Maintains Buy on Alnylam Pharmaceuticals, Lowers Price Target to $455",
-          "resumen": "HC Wainwright &amp; Co.  analyst Patrick R. Trucchio   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Buy and lowers the price target from $485 to $455.",
-          "fuente": "Benzinga",
-          "fecha": "04 Aug 2026 10:54 UTC",
-          "url": "https://finnhub.io/api/news?id=7fff3e29a0f096a2be985f8e2d6228695d46a9ce6f5b7fd0661906e2cc43d0e5",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 4
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "BEAM": {
       "nombre": "BEAM",
@@ -312,101 +130,58 @@
     },
     "OCUL": {
       "nombre": "OCUL",
-      "noticias": [
-        {
-          "ticker": "OCUL",
-          "titulo": "Ocular Therapeutix: AXPAXLI Can Turn Retina Capacity Into A Commercial Moat",
-          "resumen": "Ocular Therapeutix eyes a 2027 AXPAXLI launch for wet AMD/retinal disease with strong Phase 3 data, an FDA-aligned NDA in Q4 2026. Click here to read more.",
-          "fuente": "SeekingAlpha",
-          "fecha": "05 Aug 2026 11:25 UTC",
-          "url": "https://finnhub.io/api/news?id=5c68d4d6a36b15ff7196ed1bd808b5b2efc351ff54b17bcea9f4b8f4b545e60d",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1386962546/image_1386962546.jpg?io=getty-c-w1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "CAI": {
       "nombre": "CAI",
-      "noticias": [
-        {
-          "ticker": "CAI",
-          "titulo": "Caris Life Sciences: Guidance Raised, Valuation Still Attractive",
-          "resumen": "Caris Life Sciences (CAI) Q2 beats with raised guidance, margin expansion and Caris Detect launch.",
-          "fuente": "SeekingAlpha",
-          "fecha": "06 Aug 2026 23:01 UTC",
-          "url": "https://finnhub.io/api/news?id=3b4011379206841edd86bd27eb68bf1d890aedf999584c96f4740b1951376fb2",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/500925920/image_500925920.jpg?io=getty-c-w1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "CAI",
-          "titulo": "Evercore ISI Group Maintains Outperform on Caris Life Sciences, Raises Price Target to $26",
-          "resumen": "Evercore ISI Group  analyst Vijay Kumar   maintains Caris Life Sciences (NASDAQ:CAI) with a Outperform and raises the price target from $25 to $26.",
-          "fuente": "Benzinga",
-          "fecha": "06 Aug 2026 10:51 UTC",
-          "url": "https://finnhub.io/api/news?id=9ec005f82d252c2b15bb289351937d954807da8ca0f2a26ad689edd2f7b8c8ea",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "CAI",
-          "titulo": "Caris Life Sciences, Inc. (CAI) Q2 2026 Earnings Call Transcript",
-          "resumen": "Caris Life Sciences, Inc. (CAI) Q2 2026 Earnings Call August 5, 2026 4:30 PM EDTCompany ParticipantsJ.",
-          "fuente": "SeekingAlpha",
-          "fecha": "05 Aug 2026 21:30 UTC",
-          "url": "https://finnhub.io/api/news?id=1a969880cf701c9a13b7a2075f1722d45bc10c4f727fa8bb0fd41ad17bb8b1ce",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "CAI",
-          "titulo": "12 Health Care Stocks Moving In Wednesday's After-Market Session",
-          "resumen": "Gainers\n\nCreative Medical Tech (NASDAQ:CELZ) stock moved upwards by 31.4% to $0.88 during Wednesday&#39;s after-market session. The company&#39;s market cap stands at $4.2 million. \nCaris Life Sciences (NASDAQ:CAI)",
-          "fuente": "Benzinga",
-          "fecha": "05 Aug 2026 17:06 UTC",
-          "url": "https://finnhub.io/api/news?id=6368d4e6195bdce2a973c6219186e7331bd94f674b3034ff00407d42b2bd9168",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_2.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "CAI",
-          "titulo": "Caris Life Sciences Raises FY2026 Sales Guidance from $1.000B-$1.020B to $1.030B-$1.040B vs $1.003B Est",
-          "resumen": "Caris Life Sciences (NASDAQ:CAI) raises FY2026 sales outlook from $1.000 billion-$1.020 billion to $1.030 billion-$1.040 billion vs $1.003 billion estimate.",
-          "fuente": "Benzinga",
-          "fecha": "05 Aug 2026 16:25 UTC",
-          "url": "https://finnhub.io/api/news?id=ce34a97a234c54c96a0c8caf109f206a35531016eafa699f7eb77e065a6dfdc3",
-          "imagen": "",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 5
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "GPCR": {
       "nombre": "GPCR",
       "noticias": [
         {
           "ticker": "GPCR",
-          "titulo": "The BioRevolution Has Accelerated",
-          "resumen": "WisdomTree BioRevolution Fund delivered a dramatic acceleration in performance over S&P 500 Index, thereby drawing attention to this particular investment theme. Read more here.",
+          "titulo": "Citigroup Maintains Buy on Structure Therapeutics, Lowers Price Target to $97",
+          "resumen": "Citigroup  analyst Samantha Semenkow   maintains Structure Therapeutics (NASDAQ:GPCR) with a Buy and lowers the price target from $100 to $97.",
+          "fuente": "Benzinga",
+          "fecha": "07 Aug 2026 16:09 UTC",
+          "url": "https://finnhub.io/api/news?id=f66b8b9075c13af46e7d4b62af69fdf2c6ba4e0862f2edb73f77eb904004334a",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "GPCR",
+          "titulo": "Citizens Maintains Market Outperform on Structure Therapeutics, Lowers Price Target to $110",
+          "resumen": "Citizens  analyst Jonathan Wolleben   maintains Structure Therapeutics (NASDAQ:GPCR) with a Market Outperform and lowers the price target from $113 to $110.",
+          "fuente": "Benzinga",
+          "fecha": "07 Aug 2026 10:54 UTC",
+          "url": "https://finnhub.io/api/news?id=02fef8dc8a4c7916df731b09138df08cd6f93ed12a8fc558ff63a06c39fc1116",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 2
+    },
+    "ABVX": {
+      "nombre": "ABVX",
+      "noticias": [
+        {
+          "ticker": "ABVX",
+          "titulo": "HQH: After Biotech's Breakout Year, This Healthcare CEF Still Trades Below NAV; Buy",
+          "resumen": "Abrdn Healthcare Investors biotech CEF: 6.4% NAV discount, 56% NAV gain, 12% gain-funded payout, key risks. Read my analysis here on HQH.",
           "fuente": "SeekingAlpha",
-          "fecha": "05 Aug 2026 08:20 UTC",
-          "url": "https://finnhub.io/api/news?id=6c25c75a7fae1004dfd69a1846b65a34f516c21f7c915cb4cf1fa37d965080e9",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/530591555/image_530591555.jpg?io=getty-c-w1536",
+          "fecha": "07 Aug 2026 17:58 UTC",
+          "url": "https://finnhub.io/api/news?id=71ce3b773b458a4d3c61e16abd357d37f013a488b03717bc4c2ec9fa9fd6aa70",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2265725036/image_2265725036.jpg?io=getty-c-w1536",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
@@ -414,12 +189,6 @@
       ],
       "nivel": "azul",
       "total": 1
-    },
-    "ABVX": {
-      "nombre": "ABVX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
     },
     "VERA": {
       "nombre": "VERA",
@@ -429,22 +198,9 @@
     },
     "ACRV": {
       "nombre": "ACRV",
-      "noticias": [
-        {
-          "ticker": "ACRV",
-          "titulo": "Acrivon Therapeutics Says ACR-2316 Advances Into Randomized Dose Expansion Portion Of Its Ongoing Phase 1/2 Study",
-          "resumen": "Favorable, differentiated safety profile and durable single-agent clinical activity, including in heavily pretreated subjects with lung cancer remaining on treatment for over a yearOral weekly regimen (3 days on/4 days",
-          "fuente": "Benzinga",
-          "fecha": "05 Aug 2026 08:32 UTC",
-          "url": "https://finnhub.io/api/news?id=79f939bc8db7c0a440af24a991675ab6d136b6143f0009de8ed4989880fba5e0",
-          "imagen": "",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "TARA": {
       "nombre": "TARA",
@@ -457,24 +213,24 @@
       "noticias": [
         {
           "ticker": "SENS",
-          "titulo": "Senseonics Holdings, Inc. (SENS) Q2 2026 Earnings Call Transcript",
-          "resumen": "Senseonics Holdings, Inc. (SENS) Q2 2026 Earnings Call August 6, 2026 4:30 PM EDTCompany ParticipantsTim Goodnow - President, CEO & DirectorFrederick...",
-          "fuente": "SeekingAlpha",
-          "fecha": "07 Aug 2026 00:14 UTC",
-          "url": "https://finnhub.io/api/news?id=27cd7bebdd299df1a97cea20744bdee0ee0d88cd6d065dcf1544271e1bbbcdcc",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "titulo": "12 Health Care Stocks Moving In Friday's Intraday Session",
+          "resumen": "Gainers\n\nAVITA Medical (NASDAQ:RCEL) stock rose 58.4% to $7.53 during Friday&#39;s regular session. The company&#39;s market cap stands at $146.1 million. As per the press release, Q2 earnings came out yesterday.",
+          "fuente": "Benzinga",
+          "fecha": "07 Aug 2026 13:05 UTC",
+          "url": "https://finnhub.io/api/news?id=24f19a0f5e83141cc57171fa314f3006f25846d73f633104990ca1b2cb68b0d1",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_2.jpg?width=2048&height=1536",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
         },
         {
           "ticker": "SENS",
-          "titulo": "Senseonics Holdings (NASDAQ:SENS) Jumps on Q2 Revenue Beat and Raised Full-Year Guidance",
-          "resumen": "Senseonics Holdings (SENS) Q2 revenue $14.5M beats consensus; EPS loss in line. Raised FY26 revenue outlook to $62-66M. Stock up ~6.8% after hours.",
-          "fuente": "ChartMill",
-          "fecha": "06 Aug 2026 21:17 UTC",
-          "url": "https://finnhub.io/api/news?id=5a7e7a4a515ddffde49156cf337b457f01233afbb708ce01f7f48b4dfe647686",
-          "imagen": "https://www.chartmill.com/images/uploads/THUMBNAILS_CHARTMILL_1000_528_16_065e226ebd.webp",
+          "titulo": "Senseonics Holdings, Inc. Common Stock Q2 Earnings Call Highlights",
+          "resumen": "Senseonics Holdings, Inc. Common Stock (NASDAQ:SENS) raised its full-year 2026 revenue and gross-margin outlook after reporting second-quarter revenue growth of approximately 120% and its highest organic gross margin to date. Net revenue for the second quarter totaled $14.5 million, compared with $",
+          "fuente": "Yahoo",
+          "fecha": "07 Aug 2026 12:03 UTC",
+          "url": "https://finnhub.io/api/news?id=29e1f1603ac6f0eafa1e43d516f2e55b36359f54f1a6d104feeb8af623e75d46",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
@@ -488,371 +244,107 @@
       "noticias": [
         {
           "ticker": "INSM",
-          "titulo": "Artisan Global Discovery Fund Q2 2026 Portfolio Activity",
-          "resumen": "During the quarter, we initiated new positions in Entegris, Cellebrite and C.H. Robinson.",
+          "titulo": "HQH: After Biotech's Breakout Year, This Healthcare CEF Still Trades Below NAV; Buy",
+          "resumen": "Abrdn Healthcare Investors biotech CEF: 6.4% NAV discount, 56% NAV gain, 12% gain-funded payout, key risks. Read my analysis here on HQH.",
           "fuente": "SeekingAlpha",
-          "fecha": "06 Aug 2026 14:41 UTC",
-          "url": "https://finnhub.io/api/news?id=7fbf8abb7d5368a7a1620d269f7f89a8c83623180a5e5fdf36ecbd321ecca03a",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2206609995/image_2206609995.jpg?io=getty-c-w1536",
+          "fecha": "07 Aug 2026 17:58 UTC",
+          "url": "https://finnhub.io/api/news?id=71ce3b773b458a4d3c61e16abd357d37f013a488b03717bc4c2ec9fa9fd6aa70",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2265725036/image_2265725036.jpg?io=getty-c-w1536",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         },
         {
           "ticker": "INSM",
-          "titulo": "Let's uncover which stocks are experiencing notable gaps during today's session.",
-          "resumen": "Traders are paying attention to the gapping stocks in Thursday's session. Let's dive into which stocks are experiencing notable gaps.",
-          "fuente": "ChartMill",
-          "fecha": "06 Aug 2026 14:30 UTC",
-          "url": "https://finnhub.io/api/news?id=0d1a18c0fc3bac2e5d597a517525e0d9c60db608ac164a0311856ddf5e7ad810",
-          "imagen": "https://www.chartmill.com/images/uploads/CM_Gap_Stocks_Small_free_ad767b11cf.webp",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "S&P 500, Dow Fall as Brent Jumps 4%, SanDisk Trims Losses: Stock Market Today",
-          "resumen": "Crude&#39;s rebound on Yemen strikes pulled U.S. equities off record highs Thursday, while SanDisk pared losses despite record margins.",
+          "titulo": "Guggenheim Maintains Buy on Insmed, Lowers Price Target to $205",
+          "resumen": "Guggenheim  analyst Vamil Divan   maintains Insmed (NASDAQ:INSM) with a Buy and lowers the price target from $207 to $205.",
           "fuente": "Benzinga",
-          "fecha": "06 Aug 2026 13:31 UTC",
-          "url": "https://finnhub.io/api/news?id=7bc94f808213a9d969c264c5f517d7d238633cc8b8cb41de39f834000bb2e324",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/06/SP-500-Nears-7-000-Mark.jpg?width=2048&height=1536",
+          "fecha": "07 Aug 2026 13:04 UTC",
+          "url": "https://finnhub.io/api/news?id=3a2b1042d1deafd8d57703851f747b1f03b6409d0da5d6259fafdb1efa1f0595",
+          "imagen": "",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         },
         {
           "ticker": "INSM",
-          "titulo": "12 Health Care Stocks Moving In Thursday's Intraday Session",
-          "resumen": "Gainers\n\nCreative Medical Tech (NASDAQ:CELZ) stock increased by 107.8% to $1.39 during Thursday&#39;s regular session. The company&#39;s market cap stands at $4.3 million. \nEnsysce Biosciences (NASDAQ:ENSC) stock rose",
+          "titulo": "Wells Fargo Maintains Overweight on Insmed, Raises Price Target to $169",
+          "resumen": "Wells Fargo  analyst Benjamin Burnett   maintains Insmed (NASDAQ:INSM) with a Overweight and raises the price target from $161 to $169.",
           "fuente": "Benzinga",
-          "fecha": "06 Aug 2026 13:06 UTC",
-          "url": "https://finnhub.io/api/news?id=4b2285645a26b084f87e07cc4c5376c2368aaf4ec4226399f31e5d6e75eb6633",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_4.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "Which stocks are moving before the opening bell on Thursday?",
-          "resumen": "Before the opening bell on Thursday, let's take a glimpse of the US markets and explore the top gainers and losers in today's pre-market session.",
-          "fuente": "ChartMill",
-          "fecha": "06 Aug 2026 12:30 UTC",
-          "url": "https://finnhub.io/api/news?id=4e451b4ee630e3ef7f8205d377b91d4e1c78b946074fa30a380ece5b8d4286de",
-          "imagen": "https://www.chartmill.com/images/uploads/CM_Premarket_Movers_Small_free_90289f6b81.webp",
+          "fecha": "07 Aug 2026 09:56 UTC",
+          "url": "https://finnhub.io/api/news?id=d090a19d18d8c0355297cbe9fc51b9b8fd18aefa6ba9da3e3336113130cd686d",
+          "imagen": "",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         }
       ],
       "nivel": "azul",
-      "total": 5
+      "total": 3
     }
   },
   "resumen": {
-    "total_noticias": 36,
-    "tickers_con_noticias": 12,
-    "alertas_urgentes": 10,
-    "sin_noticias": 5
+    "total_noticias": 14,
+    "tickers_con_noticias": 8,
+    "alertas_urgentes": 3,
+    "sin_noticias": 9
   },
   "todas_noticias": [
     {
-      "ticker": "SNDX",
-      "titulo": "Syndax Pharmaceuticals Q2 EPS $(0.55) Misses $(0.49) Estimate, Sales $72.788M Miss $79.323M Estimate",
-      "resumen": "Syndax Pharmaceuticals (NASDAQ:SNDX) reported quarterly losses of $(0.55) per share which missed the analyst consensus estimate of $(0.49) by 12.24 percent. This is a 33.73 percent increase over losses of $(0.83) per",
-      "fuente": "Benzinga",
-      "fecha": "04 Aug 2026 16:03 UTC",
-      "url": "https://finnhub.io/api/news?id=0152ed1b93e3161e0aefe60b22776360c134f9065ed9b4a02426daa0a82039c9",
-      "imagen": "",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "SNDX",
-      "titulo": "Syndax Pharmaceuticals (NASDAQ:SNDX) Shares Drop as Q2 Revenue and EPS Miss Estimates",
-      "resumen": "Syndax Pharmaceuticals Q2 2026 revenue and EPS miss estimates, shares dip 6.5%; Revuforj sales up 91%, pipeline advances, cash position strong.",
-      "fuente": "ChartMill",
-      "fecha": "05 Aug 2026 02:12 UTC",
-      "url": "https://finnhub.io/api/news?id=71c7835c4906c6fcb0668a9338b9bff287c4449590bce573a96f952da0d54dda",
-      "imagen": "https://www.chartmill.com/images/uploads/earnings_article_1_defce97180.webp",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "SNDX",
-      "titulo": "Syndax Pharmaceuticals, Inc. (SNDX) Q2 2026 Earnings Call Transcript",
-      "resumen": "Syndax Pharmaceuticals, Inc. (SNDX) Q2 2026 Earnings Call August 4, 2026 4:30 PM EDTCompany ParticipantsSharon Klahre - Vice President of Investor Relations...",
-      "fuente": "SeekingAlpha",
-      "fecha": "05 Aug 2026 02:19 UTC",
-      "url": "https://finnhub.io/api/news?id=491eeee67630b8fc0a9c32cb786848f7a53f218a3c3f491228d51d69f3739d70",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "SNDX",
-      "titulo": "HC Wainwright & Co. Maintains Buy on Syndax Pharmaceuticals, Lowers Price Target to $38",
-      "resumen": "HC Wainwright &amp; Co.  analyst Andres Y. Maldonado   maintains Syndax Pharmaceuticals (NASDAQ:SNDX) with a Buy and lowers the price target from $40 to $38.",
-      "fuente": "Benzinga",
-      "fecha": "05 Aug 2026 07:10 UTC",
-      "url": "https://finnhub.io/api/news?id=d06a307e168ad9f6320313d76c22a01b03bd82824d6fcd002a75a84e5a420a28",
-      "imagen": "",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ACRV",
-      "titulo": "Acrivon Therapeutics Says ACR-2316 Advances Into Randomized Dose Expansion Portion Of Its Ongoing Phase 1/2 Study",
-      "resumen": "Favorable, differentiated safety profile and durable single-agent clinical activity, including in heavily pretreated subjects with lung cancer remaining on treatment for over a yearOral weekly regimen (3 days on/4 days",
-      "fuente": "Benzinga",
-      "fecha": "05 Aug 2026 08:32 UTC",
-      "url": "https://finnhub.io/api/news?id=79f939bc8db7c0a440af24a991675ab6d136b6143f0009de8ed4989880fba5e0",
-      "imagen": "",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "OCUL",
-      "titulo": "Ocular Therapeutix: AXPAXLI Can Turn Retina Capacity Into A Commercial Moat",
-      "resumen": "Ocular Therapeutix eyes a 2027 AXPAXLI launch for wet AMD/retinal disease with strong Phase 3 data, an FDA-aligned NDA in Q4 2026. Click here to read more.",
-      "fuente": "SeekingAlpha",
-      "fecha": "05 Aug 2026 11:25 UTC",
-      "url": "https://finnhub.io/api/news?id=5c68d4d6a36b15ff7196ed1bd808b5b2efc351ff54b17bcea9f4b8f4b545e60d",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1386962546/image_1386962546.jpg?io=getty-c-w1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "SNDX",
-      "titulo": "Syndax Pharmaceuticals, Inc. 2026 Q2 - Results - Earnings Call Presentation",
-      "resumen": "2026-08-05. The following slide deck was published by Syndax Pharmaceuticals, Inc.",
-      "fuente": "SeekingAlpha",
-      "fecha": "05 Aug 2026 14:37 UTC",
-      "url": "https://finnhub.io/api/news?id=e6a4c516d2604c56c4e5ad92f724656794500e1ad15498e1a83f163239c61f3f",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "CAI",
-      "titulo": "Caris Life Sciences Raises FY2026 Sales Guidance from $1.000B-$1.020B to $1.030B-$1.040B vs $1.003B Est",
-      "resumen": "Caris Life Sciences (NASDAQ:CAI) raises FY2026 sales outlook from $1.000 billion-$1.020 billion to $1.030 billion-$1.040 billion vs $1.003 billion estimate.",
-      "fuente": "Benzinga",
-      "fecha": "05 Aug 2026 16:25 UTC",
-      "url": "https://finnhub.io/api/news?id=ce34a97a234c54c96a0c8caf109f206a35531016eafa699f7eb77e065a6dfdc3",
-      "imagen": "",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Tenaya Therapeutics Reports Second Quarter 2026 Financial Results and Provides Business Update",
-      "resumen": "Positive Interim Data Shared in 2Q 2026 from the MyPEAK™-1 and RIDGE™-1 Clinical Trials Each Demonstrated Meaningful Improvements in Key Disease Characteristics Additional Data Releases Plus Updates on Regulatory Discussions on Pivotal Trial Plans for TN-201 and TN-401 Anticipated in 4Q 2026 TN-301 ",
+      "ticker": "SENS",
+      "titulo": "Senseonics Holdings, Inc. Common Stock Q2 Earnings Call Highlights",
+      "resumen": "Senseonics Holdings, Inc. Common Stock (NASDAQ:SENS) raised its full-year 2026 revenue and gross-margin outlook after reporting second-quarter revenue growth of approximately 120% and its highest organic gross margin to date. Net revenue for the second quarter totaled $14.5 million, compared with $",
       "fuente": "Yahoo",
-      "fecha": "05 Aug 2026 20:05 UTC",
-      "url": "https://finnhub.io/api/news?id=1d481ff45e5be2d29b1812778f0f2d3c7f505213846563504f0666a8d28897e0",
+      "fecha": "07 Aug 2026 12:03 UTC",
+      "url": "https://finnhub.io/api/news?id=29e1f1603ac6f0eafa1e43d516f2e55b36359f54f1a6d104feeb8af623e75d46",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "CAI",
-      "titulo": "Caris Life Sciences, Inc. (CAI) Q2 2026 Earnings Call Transcript",
-      "resumen": "Caris Life Sciences, Inc. (CAI) Q2 2026 Earnings Call August 5, 2026 4:30 PM EDTCompany ParticipantsJ.",
-      "fuente": "SeekingAlpha",
-      "fecha": "05 Aug 2026 21:30 UTC",
-      "url": "https://finnhub.io/api/news?id=1a969880cf701c9a13b7a2075f1722d45bc10c4f727fa8bb0fd41ad17bb8b1ce",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "AbCellera Biologics Q2 Earnings Call Highlights",
-      "resumen": "AbCellera Biologics (NASDAQ:ABCL) said it expects to report top-line data “very soon” from its Phase I study of ABCL635, an antibody being evaluated for moderate-to-severe vasomotor symptoms, or hot flashes, associated with menopause. President and Chief Executive Officer Dr. Carl Hansen said enrol",
-      "fuente": "Yahoo",
-      "fecha": "05 Aug 2026 22:03 UTC",
-      "url": "https://finnhub.io/api/news?id=dcdf3ce3fb9a9978376d50e78da86431a8757aa1e827d9ec985228c198f4b841",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "AbCellera Biologics Inc (ABCL) (Q2 2026) Earnings Call Highlights: Strong Pipeline Progress and ...",
-      "resumen": "AbCellera Biologics Inc (ABCL) advances ABCL-635 with early phase 2 completion and secures over $110 million in new T-cell engager deals, despite a wider net loss and revenue decline.",
-      "fuente": "Yahoo",
-      "fecha": "06 Aug 2026 05:01 UTC",
-      "url": "https://finnhub.io/api/news?id=42acecf7bad1baa7ec04cb7ac59418a1c1004daf4cddd4cce6da65363ef901db",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "argenx Commences $77/Shr Cash Tender Offer Through Subsidiary Avena Merger Sub To Acquire All Outstanding Shares Of Forte Biosciences",
-      "resumen": "argenx ((Euronext &amp;, NASDAQ:ARGX), a global immunology innovation company today announced that Avena Merger Sub Inc. (&#34;Purchaser&#34;), a wholly-owned subsidiary of argenx BV (&#34;argenx&#34;), has commenced a",
-      "fuente": "Benzinga",
-      "fecha": "06 Aug 2026 07:59 UTC",
-      "url": "https://finnhub.io/api/news?id=3109d54c07fb5fe02678698bafd4cd4cebbd7d509e66143b3af6e84323017f50",
-      "imagen": "",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vortex Energy Receives Final Technical Study Results for the Robinsons River Salt Project",
-      "resumen": "Study confirms western salt structure, identifies an eastern exploration target and establishes a staged technical pathway for further evaluationVANCOUVER, British Columbia, Aug. 06, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) is pleas",
-      "fuente": "Yahoo",
-      "fecha": "06 Aug 2026 12:00 UTC",
-      "url": "https://finnhub.io/api/news?id=d3341145831fa1164ba72987649fc3f9cde6dfde5df1d47e24be44aed8cc7b65",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "IONQ Q2 Earnings Miss Estimates, Revenues Beat, Stock Rises",
-      "resumen": "IONQ posts a wider-than-expected Q2 loss but tops revenue estimates, raises its 2026 revenue outlook and sees shares rise after the results.",
-      "fuente": "Yahoo",
-      "fecha": "06 Aug 2026 14:39 UTC",
-      "url": "https://finnhub.io/api/news?id=fd1d07072af0353df58d8c6462fe44867241410e634aa7fe7a706972fa6edc43",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "Viking Therapeutics Declined in July, and why its Long-Term Prospects are Undiminished",
-      "resumen": "In a slow news month for the company, investors focused on the cost of its phase 3 trials rather than their benefits.",
-      "fuente": "Yahoo",
-      "fecha": "06 Aug 2026 14:41 UTC",
-      "url": "https://finnhub.io/api/news?id=c850fd8c0f5fd9a295cc04aa518d35ee7c8c2bb7b66dc31d3bf22ebc4fe18b5b",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "DNLI",
-      "titulo": "Denali Therapeutics (NASDAQ:DNLI) Drops as Q2 AVLAYAH Revenue Misses Estimates",
-      "resumen": "Denali Therapeutics (DNLI) stock fell 12% after Q2 revenue miss. AVLAYAH sales low, but Q3 guidance of $10-12M signals acceleration.",
-      "fuente": "ChartMill",
-      "fecha": "06 Aug 2026 20:52 UTC",
-      "url": "https://finnhub.io/api/news?id=dbe7f42d7cec7c92a691fb2b88ba1078a2594c59a2e357557ce5f2b2ba62deeb",
-      "imagen": "https://www.chartmill.com/images/uploads/THUMBNAILS_CHARTMILL_1000_528_16_065e226ebd.webp",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
     },
     {
       "ticker": "SENS",
-      "titulo": "Senseonics Holdings (NASDAQ:SENS) Jumps on Q2 Revenue Beat and Raised Full-Year Guidance",
-      "resumen": "Senseonics Holdings (SENS) Q2 revenue $14.5M beats consensus; EPS loss in line. Raised FY26 revenue outlook to $62-66M. Stock up ~6.8% after hours.",
-      "fuente": "ChartMill",
-      "fecha": "06 Aug 2026 21:17 UTC",
-      "url": "https://finnhub.io/api/news?id=5a7e7a4a515ddffde49156cf337b457f01233afbb708ce01f7f48b4dfe647686",
-      "imagen": "https://www.chartmill.com/images/uploads/THUMBNAILS_CHARTMILL_1000_528_16_065e226ebd.webp",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "CAI",
-      "titulo": "Caris Life Sciences: Guidance Raised, Valuation Still Attractive",
-      "resumen": "Caris Life Sciences (CAI) Q2 beats with raised guidance, margin expansion and Caris Detect launch.",
-      "fuente": "SeekingAlpha",
-      "fecha": "06 Aug 2026 23:01 UTC",
-      "url": "https://finnhub.io/api/news?id=3b4011379206841edd86bd27eb68bf1d890aedf999584c96f4740b1951376fb2",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/500925920/image_500925920.jpg?io=getty-c-w1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "SENS",
-      "titulo": "Senseonics Holdings, Inc. (SENS) Q2 2026 Earnings Call Transcript",
-      "resumen": "Senseonics Holdings, Inc. (SENS) Q2 2026 Earnings Call August 6, 2026 4:30 PM EDTCompany ParticipantsTim Goodnow - President, CEO & DirectorFrederick...",
-      "fuente": "SeekingAlpha",
-      "fecha": "07 Aug 2026 00:14 UTC",
-      "url": "https://finnhub.io/api/news?id=27cd7bebdd299df1a97cea20744bdee0ee0d88cd6d065dcf1544271e1bbbcdcc",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "DNLI",
-      "titulo": "Denali Therapeutics Inc. 2026 Q2 - Results - Earnings Call Presentation",
-      "resumen": "2026-08-07. The following slide deck was published by Denali Therapeutics Inc.",
-      "fuente": "SeekingAlpha",
-      "fecha": "07 Aug 2026 03:25 UTC",
-      "url": "https://finnhub.io/api/news?id=5977dd52cbd8ce6303695cb56a7bf841097fcb1dddbf4fc5e0a770816f9fe4be",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "DNLI",
-      "titulo": "Denali Therapeutics Inc. (DNLI) Q2 2026 Earnings Call Transcript",
-      "resumen": "Denali Therapeutics Inc. (DNLI) Q2 2026 Earnings Call August 6, 2026 4:30 PM EDTCompany ParticipantsLaura HansenRyan Watts - Co-Founder, President, CEO...",
-      "fuente": "SeekingAlpha",
-      "fecha": "07 Aug 2026 03:44 UTC",
-      "url": "https://finnhub.io/api/news?id=f74f67e0a9f635a28ab1f6f03cec948a9209e4ede63f72578484b20af6e055db",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "titulo": "12 Health Care Stocks Moving In Friday's Intraday Session",
+      "resumen": "Gainers\n\nAVITA Medical (NASDAQ:RCEL) stock rose 58.4% to $7.53 during Friday&#39;s regular session. The company&#39;s market cap stands at $146.1 million. As per the press release, Q2 earnings came out yesterday.",
+      "fuente": "Benzinga",
+      "fecha": "07 Aug 2026 13:05 UTC",
+      "url": "https://finnhub.io/api/news?id=24f19a0f5e83141cc57171fa314f3006f25846d73f633104990ca1b2cb68b0d1",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_2.jpg?width=2048&height=1536",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
     },
     {
       "ticker": "VKTX",
-      "titulo": "Viking Therapeutics (VKTX) Draws Fresh VK2735 Attention, Is It Still Below Fair Value?",
-      "resumen": "Why Viking Therapeutics' VK2735 News Matters For Investors Viking Therapeutics (VKTX) has drawn fresh attention after commentary on its VK2735 drug candidate highlighted the potential appeal of less frequent injections and the possibility of use in combination maintenance therapy for weight loss and",
+      "titulo": "Viking Therapeutics: Mysterious GLP-1 Player With A Key Catalyst Due Q3 (Q2 Earnings Overview)",
+      "resumen": "Viking Therapeutics stock holds as GLP-1 obesity drug competition heats up. Read the latest analysis on earnings here.",
+      "fuente": "SeekingAlpha",
+      "fecha": "07 Aug 2026 15:13 UTC",
+      "url": "https://finnhub.io/api/news?id=87a12d58cab57b01cb892f8ce892253085a1039e385e7fe9538053d4348a2053",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2219143971/image_2219143971.jpg?io=getty-c-w1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "What Insmed Stock's Premium Is Actually Buying",
+      "resumen": "Management has just raised the peak-sales estimate, and a large slice of it belongs to a drug still running Phase III trials.",
       "fuente": "Yahoo",
-      "fecha": "04 Aug 2026 10:14 UTC",
-      "url": "https://finnhub.io/api/news?id=bcaf2f134399adb7a87a1f0a8daf67d50b05484ff6444400800b1bc154dca057",
+      "fecha": "07 Aug 2026 15:39 UTC",
+      "url": "https://finnhub.io/api/news?id=f1429036e90b90226a0f1548de75810532846ed909768a41040c55c430c961bf",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "ALNY",
-      "titulo": "HC Wainwright & Co. Maintains Buy on Alnylam Pharmaceuticals, Lowers Price Target to $455",
-      "resumen": "HC Wainwright &amp; Co.  analyst Patrick R. Trucchio   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Buy and lowers the price target from $485 to $455.",
+      "ticker": "INSM",
+      "titulo": "Wells Fargo Maintains Overweight on Insmed, Raises Price Target to $169",
+      "resumen": "Wells Fargo  analyst Benjamin Burnett   maintains Insmed (NASDAQ:INSM) with a Overweight and raises the price target from $161 to $169.",
       "fuente": "Benzinga",
-      "fecha": "04 Aug 2026 10:54 UTC",
-      "url": "https://finnhub.io/api/news?id=7fff3e29a0f096a2be985f8e2d6228695d46a9ce6f5b7fd0661906e2cc43d0e5",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Truist Securities Maintains Buy on Alnylam Pharmaceuticals, Lowers Price Target to $315",
-      "resumen": "Truist Securities  analyst Danielle Brill   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Buy and lowers the price target from $410 to $315.",
-      "fuente": "Benzinga",
-      "fecha": "04 Aug 2026 11:28 UTC",
-      "url": "https://finnhub.io/api/news?id=131f96ddfa6776435cb678330bc5045b4c0c47336a2c2f89083c02324e7de017",
+      "fecha": "07 Aug 2026 09:56 UTC",
+      "url": "https://finnhub.io/api/news?id=d090a19d18d8c0355297cbe9fc51b9b8fd18aefa6ba9da3e3336113130cd686d",
       "imagen": "",
       "urgente": false,
       "nivel": "azul",
@@ -860,23 +352,95 @@
     },
     {
       "ticker": "GPCR",
-      "titulo": "The BioRevolution Has Accelerated",
-      "resumen": "WisdomTree BioRevolution Fund delivered a dramatic acceleration in performance over S&P 500 Index, thereby drawing attention to this particular investment theme. Read more here.",
-      "fuente": "SeekingAlpha",
-      "fecha": "05 Aug 2026 08:20 UTC",
-      "url": "https://finnhub.io/api/news?id=6c25c75a7fae1004dfd69a1846b65a34f516c21f7c915cb4cf1fa37d965080e9",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/530591555/image_530591555.jpg?io=getty-c-w1536",
+      "titulo": "Citizens Maintains Market Outperform on Structure Therapeutics, Lowers Price Target to $110",
+      "resumen": "Citizens  analyst Jonathan Wolleben   maintains Structure Therapeutics (NASDAQ:GPCR) with a Market Outperform and lowers the price target from $113 to $110.",
+      "fuente": "Benzinga",
+      "fecha": "07 Aug 2026 10:54 UTC",
+      "url": "https://finnhub.io/api/news?id=02fef8dc8a4c7916df731b09138df08cd6f93ed12a8fc558ff63a06c39fc1116",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Guggenheim Maintains Buy on Insmed, Lowers Price Target to $205",
+      "resumen": "Guggenheim  analyst Vamil Divan   maintains Insmed (NASDAQ:INSM) with a Buy and lowers the price target from $207 to $205.",
+      "fuente": "Benzinga",
+      "fecha": "07 Aug 2026 13:04 UTC",
+      "url": "https://finnhub.io/api/news?id=3a2b1042d1deafd8d57703851f747b1f03b6409d0da5d6259fafdb1efa1f0595",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "GPCR",
+      "titulo": "Citigroup Maintains Buy on Structure Therapeutics, Lowers Price Target to $97",
+      "resumen": "Citigroup  analyst Samantha Semenkow   maintains Structure Therapeutics (NASDAQ:GPCR) with a Buy and lowers the price target from $100 to $97.",
+      "fuente": "Benzinga",
+      "fecha": "07 Aug 2026 16:09 UTC",
+      "url": "https://finnhub.io/api/news?id=f66b8b9075c13af46e7d4b62af69fdf2c6ba4e0862f2edb73f77eb904004334a",
+      "imagen": "",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
     },
     {
       "ticker": "ARGX",
-      "titulo": "Guggenheim Reinstates Buy on argenx, Maintains $1185 Price Target",
-      "resumen": "Guggenheim  analyst Yatin Suneja   reinstates argenx (NASDAQ:ARGX) with a Buy and maintains $1185 price target.",
+      "titulo": "HQH: After Biotech's Breakout Year, This Healthcare CEF Still Trades Below NAV; Buy",
+      "resumen": "Abrdn Healthcare Investors biotech CEF: 6.4% NAV discount, 56% NAV gain, 12% gain-funded payout, key risks. Read my analysis here on HQH.",
+      "fuente": "SeekingAlpha",
+      "fecha": "07 Aug 2026 17:58 UTC",
+      "url": "https://finnhub.io/api/news?id=71ce3b773b458a4d3c61e16abd357d37f013a488b03717bc4c2ec9fa9fd6aa70",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2265725036/image_2265725036.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ABVX",
+      "titulo": "HQH: After Biotech's Breakout Year, This Healthcare CEF Still Trades Below NAV; Buy",
+      "resumen": "Abrdn Healthcare Investors biotech CEF: 6.4% NAV discount, 56% NAV gain, 12% gain-funded payout, key risks. Read my analysis here on HQH.",
+      "fuente": "SeekingAlpha",
+      "fecha": "07 Aug 2026 17:58 UTC",
+      "url": "https://finnhub.io/api/news?id=71ce3b773b458a4d3c61e16abd357d37f013a488b03717bc4c2ec9fa9fd6aa70",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2265725036/image_2265725036.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "HQH: After Biotech's Breakout Year, This Healthcare CEF Still Trades Below NAV; Buy",
+      "resumen": "Abrdn Healthcare Investors biotech CEF: 6.4% NAV discount, 56% NAV gain, 12% gain-funded payout, key risks. Read my analysis here on HQH.",
+      "fuente": "SeekingAlpha",
+      "fecha": "07 Aug 2026 17:58 UTC",
+      "url": "https://finnhub.io/api/news?id=71ce3b773b458a4d3c61e16abd357d37f013a488b03717bc4c2ec9fa9fd6aa70",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2265725036/image_2265725036.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Could 1 Tiny Biotech Topple Vertex Pharmaceuticals' Cystic Fibrosis Empire?",
+      "resumen": "This risk is weighing on the stock.",
+      "fuente": "Yahoo",
+      "fecha": "07 Aug 2026 18:20 UTC",
+      "url": "https://finnhub.io/api/news?id=f30205fda5e3671faae31aaf11b68289bc37bc3003af8d9080eae74361b10542",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "DNLI",
+      "titulo": "UBS Maintains Buy on Denali Therapeutics, Raises Price Target to $34",
+      "resumen": "UBS  analyst Michael Yee   maintains Denali Therapeutics (NASDAQ:DNLI) with a Buy and raises the price target from $25 to $34.",
       "fuente": "Benzinga",
-      "fecha": "05 Aug 2026 09:42 UTC",
-      "url": "https://finnhub.io/api/news?id=ca656720345e554704dad7370f9585af66a842f91605cd9054cbd687602c5e79",
+      "fecha": "07 Aug 2026 19:37 UTC",
+      "url": "https://finnhub.io/api/news?id=8c902a1536bd11c82809beb5a6adfb78fc9dea4e01f25d79730a87a9e51e707b",
       "imagen": "",
       "urgente": false,
       "nivel": "azul",
@@ -884,108 +448,12 @@
     },
     {
       "ticker": "VRTX",
-      "titulo": "Truist Securities Maintains Buy on Vertex Pharmaceuticals, Raises Price Target to $565",
-      "resumen": "Truist Securities  analyst Danielle Brill   maintains Vertex Pharmaceuticals (NASDAQ:VRTX) with a Buy and raises the price target from $560 to $565.",
-      "fuente": "Benzinga",
-      "fecha": "05 Aug 2026 14:04 UTC",
-      "url": "https://finnhub.io/api/news?id=2a2a2d7e0c3b0c4acf97cdb30edff26305271e2d709137a8518fb82aaeb34cfe",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "CAI",
-      "titulo": "12 Health Care Stocks Moving In Wednesday's After-Market Session",
-      "resumen": "Gainers\n\nCreative Medical Tech (NASDAQ:CELZ) stock moved upwards by 31.4% to $0.88 during Wednesday&#39;s after-market session. The company&#39;s market cap stands at $4.2 million. \nCaris Life Sciences (NASDAQ:CAI)",
-      "fuente": "Benzinga",
-      "fecha": "05 Aug 2026 17:06 UTC",
-      "url": "https://finnhub.io/api/news?id=6368d4e6195bdce2a973c6219186e7331bd94f674b3034ff00407d42b2bd9168",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_2.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "CAI",
-      "titulo": "Evercore ISI Group Maintains Outperform on Caris Life Sciences, Raises Price Target to $26",
-      "resumen": "Evercore ISI Group  analyst Vijay Kumar   maintains Caris Life Sciences (NASDAQ:CAI) with a Outperform and raises the price target from $25 to $26.",
-      "fuente": "Benzinga",
-      "fecha": "06 Aug 2026 10:51 UTC",
-      "url": "https://finnhub.io/api/news?id=9ec005f82d252c2b15bb289351937d954807da8ca0f2a26ad689edd2f7b8c8ea",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Implied Volatility Surging for Alnylam Pharmaceuticals Stock Options",
-      "resumen": "Investors need to pay close attention to ALNY stock based on the movements in the options market lately.",
-      "fuente": "Yahoo",
-      "fecha": "06 Aug 2026 12:30 UTC",
-      "url": "https://finnhub.io/api/news?id=5d13baea472bc47672637dbe0b5a5bddf8325673976a11e05572a383d9c9f6f1",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "Which stocks are moving before the opening bell on Thursday?",
-      "resumen": "Before the opening bell on Thursday, let's take a glimpse of the US markets and explore the top gainers and losers in today's pre-market session.",
-      "fuente": "ChartMill",
-      "fecha": "06 Aug 2026 12:30 UTC",
-      "url": "https://finnhub.io/api/news?id=4e451b4ee630e3ef7f8205d377b91d4e1c78b946074fa30a380ece5b8d4286de",
-      "imagen": "https://www.chartmill.com/images/uploads/CM_Premarket_Movers_Small_free_90289f6b81.webp",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "12 Health Care Stocks Moving In Thursday's Intraday Session",
-      "resumen": "Gainers\n\nCreative Medical Tech (NASDAQ:CELZ) stock increased by 107.8% to $1.39 during Thursday&#39;s regular session. The company&#39;s market cap stands at $4.3 million. \nEnsysce Biosciences (NASDAQ:ENSC) stock rose",
-      "fuente": "Benzinga",
-      "fecha": "06 Aug 2026 13:06 UTC",
-      "url": "https://finnhub.io/api/news?id=4b2285645a26b084f87e07cc4c5376c2368aaf4ec4226399f31e5d6e75eb6633",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_4.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "S&P 500, Dow Fall as Brent Jumps 4%, SanDisk Trims Losses: Stock Market Today",
-      "resumen": "Crude&#39;s rebound on Yemen strikes pulled U.S. equities off record highs Thursday, while SanDisk pared losses despite record margins.",
-      "fuente": "Benzinga",
-      "fecha": "06 Aug 2026 13:31 UTC",
-      "url": "https://finnhub.io/api/news?id=7bc94f808213a9d969c264c5f517d7d238633cc8b8cb41de39f834000bb2e324",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/06/SP-500-Nears-7-000-Mark.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "Let's uncover which stocks are experiencing notable gaps during today's session.",
-      "resumen": "Traders are paying attention to the gapping stocks in Thursday's session. Let's dive into which stocks are experiencing notable gaps.",
-      "fuente": "ChartMill",
-      "fecha": "06 Aug 2026 14:30 UTC",
-      "url": "https://finnhub.io/api/news?id=0d1a18c0fc3bac2e5d597a517525e0d9c60db608ac164a0311856ddf5e7ad810",
-      "imagen": "https://www.chartmill.com/images/uploads/CM_Gap_Stocks_Small_free_ad767b11cf.webp",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "Artisan Global Discovery Fund Q2 2026 Portfolio Activity",
-      "resumen": "During the quarter, we initiated new positions in Entegris, Cellebrite and C.H. Robinson.",
+      "titulo": "Tracking Tweedy Browne Portfolio - Q2 2026 Update",
+      "resumen": "Tweedy Browneâs Q2 2026 13F: $1.32B portfolio, top holdings & new Zoetis stake, plus trims/exits and concentration insightsâread now.",
       "fuente": "SeekingAlpha",
-      "fecha": "06 Aug 2026 14:41 UTC",
-      "url": "https://finnhub.io/api/news?id=7fbf8abb7d5368a7a1620d269f7f89a8c83623180a5e5fdf36ecbd321ecca03a",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2206609995/image_2206609995.jpg?io=getty-c-w1536",
+      "fecha": "08 Aug 2026 22:59 UTC",
+      "url": "https://finnhub.io/api/news?id=3b7a86f6ceb88fe11df34224171d2e64d74b5e8b7d5f7a718f923ea58fe91d9c",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1160013511/image_1160013511.jpg?io=getty-c-w1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

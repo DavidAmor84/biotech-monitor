@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "07/08/2026 08:13",
+  "generado": "10/08/2026 08:26",
   "periodo_dias": 7,
-  "desde": "2026-07-31",
-  "hasta": "2026-08-07",
+  "desde": "2026-08-03",
+  "hasta": "2026-08-10",
   "resumen": {
-    "total_filings": 21,
+    "total_filings": 24,
     "alertas_rojas": 2,
     "alertas_verdes": 0,
     "alertas_amarillas": 8,
-    "alertas_azules": 11,
-    "sin_novedad": 6
+    "alertas_azules": 14,
+    "sin_novedad": 5
   },
   "tickers": {
     "SNDX": {
@@ -163,9 +163,36 @@
       "cik": "0001607678",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-08-07",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Kelly-Gemmell Dorothy Elizabeth → Concesión 6,333 acciones @ $0.00 | Post: 6,333 | Rutinaria/RSU/impuestos",
+          "detalle": "4",
+          "empresa_sec": "Viking Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1607678/000214454226000004/xslF345X06/ownership.xml",
+          "form4_detail": {
+            "insider_nombre": "Kelly-Gemmell Dorothy Elizabeth",
+            "insider_cargo": null,
+            "transaccion_codigo": "A",
+            "transaccion_tipo": "Concesión",
+            "transaccion_acciones": "6333",
+            "transaccion_precio": "0",
+            "transaccion_fecha": "2026-08-01",
+            "acciones_post": "6333",
+            "footnotes": "Represents a restricted stock unit award (\"RSU\") of common stock under the Issuer's 2024 Equity Incentive Plan.  One-third of the shares subject to the RSU shall vest on each one year anniversary of the grant date of the award. One-third of the shares subject to the option will vest on each anniversary of the grant date.",
+            "es_rutinaria": true,
+            "resumen_detail": "Kelly-Gemmell Dorothy Elizabeth → Concesión 6,333 acciones @ $0.00 | Post: 6,333 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "VRTX": {
@@ -431,6 +458,32 @@
       "validacion_empresa": "OK",
       "filings": [
         {
+          "form": "4",
+          "fecha": "2026-08-07",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Berrios John Joseph (Chief Commercial Officer) → Concesión 140,766 acciones @ $0.00 | Post: 140,766 | Rutinaria/RSU/impuestos",
+          "detalle": "xslF345X06/form4-08072026_080836.xml",
+          "empresa_sec": "Structure Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000214842026000006/xslF345X06/form4-08072026_080836.xml",
+          "form4_detail": {
+            "insider_nombre": "Berrios John Joseph",
+            "insider_cargo": "Chief Commercial Officer",
+            "transaccion_codigo": "A",
+            "transaccion_tipo": "Concesión",
+            "transaccion_acciones": "140766",
+            "transaccion_precio": "0",
+            "transaccion_fecha": "2026-08-06",
+            "acciones_post": "140766",
+            "footnotes": "The Ordinary Shares of the Issuer may be represented by American Depositary Shares (\"ADSs\"). Each ADS represents three Ordinary Shares of the Issuer. Represents the grant of restricted share units (\"RSUs\"), each of which represents a contingent right to receive one Ordinary Share of the Issuer. The RSUs vest 1/4th annually on each anniversary of August 6, 2026, subject to Reporting Person's continued service on such dates. The option exercise price per share is equal to the fair market value per Ordinary Share on the grant date based on the trading price of the Issuer's ADSs. One-fourth of the shares vest on the first anniversary of August 6, 2026, and the remaining shares shall vest in thirty-six (36) equal monthly installments thereafter, subject to the Reporting Person's continued service through each such vesting date.",
+            "es_rutinaria": true,
+            "resumen_detail": "Berrios John Joseph (Chief Commercial Officer) → Concesión 140,766 acciones @ $0.00 | Post: 140,766 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
           "form": "10-Q",
           "fecha": "2026-08-06",
           "nivel": "amarillo",
@@ -677,6 +730,32 @@
       "validacion_empresa": "OK",
       "filings": [
         {
+          "form": "4",
+          "fecha": "2026-08-07",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Flammer Martina M.D. (Chief Medical Officer) → Ejercicio opción 18,278 acciones @ $18.95 | Post: 78,764 | Rutinaria/RSU/impuestos",
+          "detalle": "FORM 4",
+          "empresa_sec": "INSMED Inc",
+          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000179696026000020/xslF345X06/wk-form4_1786135147.xml",
+          "form4_detail": {
+            "insider_nombre": "Flammer Martina M.D.",
+            "insider_cargo": "Chief Medical Officer",
+            "transaccion_codigo": "M",
+            "transaccion_tipo": "Ejercicio opción",
+            "transaccion_acciones": "18278",
+            "transaccion_precio": "18.95",
+            "transaccion_fecha": "2026-08-06",
+            "acciones_post": "78764",
+            "footnotes": "This transaction was effected pursuant to a 10b5-1 trading plan adopted by the Reporting Person on February 27, 2025 in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934, as amended. This is the weighted average sales price representing 18,278 shares sold at prices ranging from $129.40 to $129.41 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. The options become exercisable based on the following vesting schedule: 25% vest on the first anniversary of the grant date and an additional 12.5% vest on each sixth month anniversary date thereafter through the fourth anniversary of the date of grant. The options become exercisable based on the following vesting schedule: 25% vest on the first day of the first month following the first anniversary of the date of grant (the Initial Vesting Date) and 12.5% vest on each sixth month anniversary date thereafter through the fourth anniversary of the Initial Vesting Date.",
+            "es_rutinaria": true,
+            "resumen_detail": "Flammer Martina M.D. (Chief Medical Officer) → Ejercicio opción 18,278 acciones @ $18.95 | Post: 78,764 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
           "form": "8-K",
           "fecha": "2026-08-06",
           "nivel": "azul",
@@ -795,6 +874,90 @@
     }
   ],
   "todos_filings": [
+    {
+      "ticker": "VKTX",
+      "nombre": "Viking Therapeutics, Inc.",
+      "form": "4",
+      "fecha": "2026-08-07",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Kelly-Gemmell Dorothy Elizabeth → Concesión 6,333 acciones @ $0.00 | Post: 6,333 | Rutinaria/RSU/impuestos",
+      "detalle": "4",
+      "empresa_sec": "Viking Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1607678/000214454226000004/xslF345X06/ownership.xml",
+      "form4_detail": {
+        "insider_nombre": "Kelly-Gemmell Dorothy Elizabeth",
+        "insider_cargo": null,
+        "transaccion_codigo": "A",
+        "transaccion_tipo": "Concesión",
+        "transaccion_acciones": "6333",
+        "transaccion_precio": "0",
+        "transaccion_fecha": "2026-08-01",
+        "acciones_post": "6333",
+        "footnotes": "Represents a restricted stock unit award (\"RSU\") of common stock under the Issuer's 2024 Equity Incentive Plan.  One-third of the shares subject to the RSU shall vest on each one year anniversary of the grant date of the award. One-third of the shares subject to the option will vest on each anniversary of the grant date.",
+        "es_rutinaria": true,
+        "resumen_detail": "Kelly-Gemmell Dorothy Elizabeth → Concesión 6,333 acciones @ $0.00 | Post: 6,333 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "GPCR",
+      "nombre": "Structure Therapeutics Inc.",
+      "form": "4",
+      "fecha": "2026-08-07",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Berrios John Joseph (Chief Commercial Officer) → Concesión 140,766 acciones @ $0.00 | Post: 140,766 | Rutinaria/RSU/impuestos",
+      "detalle": "xslF345X06/form4-08072026_080836.xml",
+      "empresa_sec": "Structure Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000214842026000006/xslF345X06/form4-08072026_080836.xml",
+      "form4_detail": {
+        "insider_nombre": "Berrios John Joseph",
+        "insider_cargo": "Chief Commercial Officer",
+        "transaccion_codigo": "A",
+        "transaccion_tipo": "Concesión",
+        "transaccion_acciones": "140766",
+        "transaccion_precio": "0",
+        "transaccion_fecha": "2026-08-06",
+        "acciones_post": "140766",
+        "footnotes": "The Ordinary Shares of the Issuer may be represented by American Depositary Shares (\"ADSs\"). Each ADS represents three Ordinary Shares of the Issuer. Represents the grant of restricted share units (\"RSUs\"), each of which represents a contingent right to receive one Ordinary Share of the Issuer. The RSUs vest 1/4th annually on each anniversary of August 6, 2026, subject to Reporting Person's continued service on such dates. The option exercise price per share is equal to the fair market value per Ordinary Share on the grant date based on the trading price of the Issuer's ADSs. One-fourth of the shares vest on the first anniversary of August 6, 2026, and the remaining shares shall vest in thirty-six (36) equal monthly installments thereafter, subject to the Reporting Person's continued service through each such vesting date.",
+        "es_rutinaria": true,
+        "resumen_detail": "Berrios John Joseph (Chief Commercial Officer) → Concesión 140,766 acciones @ $0.00 | Post: 140,766 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "INSM",
+      "nombre": "INSMED Inc",
+      "form": "4",
+      "fecha": "2026-08-07",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Flammer Martina M.D. (Chief Medical Officer) → Ejercicio opción 18,278 acciones @ $18.95 | Post: 78,764 | Rutinaria/RSU/impuestos",
+      "detalle": "FORM 4",
+      "empresa_sec": "INSMED Inc",
+      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000179696026000020/xslF345X06/wk-form4_1786135147.xml",
+      "form4_detail": {
+        "insider_nombre": "Flammer Martina M.D.",
+        "insider_cargo": "Chief Medical Officer",
+        "transaccion_codigo": "M",
+        "transaccion_tipo": "Ejercicio opción",
+        "transaccion_acciones": "18278",
+        "transaccion_precio": "18.95",
+        "transaccion_fecha": "2026-08-06",
+        "acciones_post": "78764",
+        "footnotes": "This transaction was effected pursuant to a 10b5-1 trading plan adopted by the Reporting Person on February 27, 2025 in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934, as amended. This is the weighted average sales price representing 18,278 shares sold at prices ranging from $129.40 to $129.41 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. The options become exercisable based on the following vesting schedule: 25% vest on the first anniversary of the grant date and an additional 12.5% vest on each sixth month anniversary date thereafter through the fourth anniversary of the date of grant. The options become exercisable based on the following vesting schedule: 25% vest on the first day of the first month following the first anniversary of the date of grant (the Initial Vesting Date) and 12.5% vest on each sixth month anniversary date thereafter through the fourth anniversary of the Initial Vesting Date.",
+        "es_rutinaria": true,
+        "resumen_detail": "Flammer Martina M.D. (Chief Medical Officer) → Ejercicio opción 18,278 acciones @ $18.95 | Post: 78,764 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "DNLI",
       "nombre": "Denali Therapeutics Inc.",

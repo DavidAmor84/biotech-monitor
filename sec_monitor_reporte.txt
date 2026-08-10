@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 07/08/2026 08:13 | Período: últimos 7 días
-Desde: 2026-07-31 → Hasta: 2026-08-07
+Generado: 10/08/2026 08:26 | Período: últimos 7 días
+Desde: 2026-08-03 → Hasta: 2026-08-10
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 21 filings | 🔴 2 | 🟢 0 | 🟡 8 | 🔵 11 | ✅ 6 sin novedad
+RESUMEN: 24 filings | 🔴 2 | 🟢 0 | 🟡 8 | 🔵 14 | ✅ 5 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (2)
@@ -41,7 +41,11 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1714899/000171489926000097/dnli-20260630.htm
      🔵 INFO 8-K | 2026-08-06 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1714899/000171489926000096/dnli-20260806.htm
-  ✅ [VKTX] Sin novedades
+
+  🔵 [VKTX] Viking Therapeutics, Inc. — 1 filing(s)
+     🔵 INFO 4 | 2026-08-07 | Kelly-Gemmell Dorothy Elizabeth → Concesión 6,333 acciones @ $0.00 | Post: 6,333 | Rutinaria/RSU/impuestos
+     Insider: Kelly-Gemmell Dorothy Elizabeth → Concesión 6,333 acciones @ $0.00 | Post: 6,333 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1607678/000214454226000004/xslF345X06/ownership.xml
 
   🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 2 filing(s)
      🟡 MEDIA 10-Q | 2026-08-04 | Caja: $6143.5M · Shares: 254.0M · ⚖️ Litigios activos
@@ -72,7 +76,10 @@ DETALLE POR TICKER — SEC EDGAR
      🔵 INFO 8-K | 2026-08-05 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/2019410/000201941026000053/cai-20260805.htm
 
-  🟡 [GPCR] Structure Therapeutics Inc. — 3 filing(s)
+  🟡 [GPCR] Structure Therapeutics Inc. — 4 filing(s)
+     🔵 INFO 4 | 2026-08-07 | Berrios John Joseph (Chief Commercial Officer) → Concesión 140,766 acciones @ $0.00 | Post: 140,766 | Rutinaria/RSU/impuestos
+     Insider: Berrios John Joseph (Chief Commercial Officer) → Concesión 140,766 acciones @ $0.00 | Post: 140,766 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1888886/000214842026000006/xslF345X06/form4-08072026_080836.xml
      🟡 MEDIA 10-Q | 2026-08-06 | Shares: 212513.0M · ⚖️ Litigios activos · 📋 Shelf mencionado
      10-Q: Shares: 212513.0M · ⚖️ Litigios activos · 📋 Shelf mencionado
      → https://www.sec.gov/Archives/edgar/data/1888886/000110465926092057/gpcr-20260630x10q.htm
@@ -101,7 +108,10 @@ DETALLE POR TICKER — SEC EDGAR
      🔵 INFO 8-K | 2026-08-06 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1616543/000110465926092018/sens-20260806x8k.htm
 
-  🟡 [INSM] INSMED Inc — 2 filing(s)
+  🟡 [INSM] INSMED Inc — 3 filing(s)
+     🔵 INFO 4 | 2026-08-07 | Flammer Martina M.D. (Chief Medical Officer) → Ejercicio opción 18,278 acciones @ $18.95 | Post: 78,764 | Rutinaria/RSU/impuestos
+     Insider: Flammer Martina M.D. (Chief Medical Officer) → Ejercicio opción 18,278 acciones @ $18.95 | Post: 78,764 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1104506/000179696026000020/xslF345X06/wk-form4_1786135147.xml
      🔵 INFO 8-K | 2026-08-06 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1104506/000114036126031502/ef20079469_8k.htm
      🟡 MEDIA 10-Q | 2026-08-06 | Caja: $544.8M · Burn: $103.9M/mes · Runway: 5 meses · Shares: 218.3M · ⚖️ Litigios activos

@@ -1,14 +1,14 @@
 ====================================================================================
 CLINICALTRIALS MONITOR v9.3 · Modelo Biotech
-Generado: 10/08/2026 09:56
+Generado: 11/08/2026 09:30
 ====================================================================================
-RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 4 | 🟡 0 | 🔵 30 | Errores API: 0
+RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 1 | 🔵 28 | Errores API: 0
 
 ------------------------------------------------------------------------------------
 DETALLE POR EMPRESA
 ------------------------------------------------------------------------------------
 
-🔵 [ARGX] · Score relevancia: 37
+🟡 [ARGX] · Score relevancia: 37
   🔵 ⭐⭐⭐ ADAPT OCULUS Ph3 — efgartigimod SC — ocular MG | Prioridad: alta | Validación: OK
      NCT: NCT06558279 | Status: Activo, sin reclutamiento | Tipo: pivotal
      Catalizador: sBLA / expansión indicación | Ventana: 2026
@@ -19,15 +19,15 @@ DETALLE POR EMPRESA
      Study completion: 2027-12 ESTIMATED
      Last update posted: 2026-07-02
      → https://clinicaltrials.gov/study/NCT06558279
-  🔵 ⭐⭐⭐ ADAPT SERON ✅ APROBADO 8 may2026 — efgartigimod IV — seronegative gMG (label expansion todos serotipos) | Prioridad: alta | Validación: OK
+  🟡 ⭐⭐⭐ ADAPT SERON ✅ APROBADO 8 may2026 — efgartigimod IV — seronegative gMG (label expansion todos serotipos) | Prioridad: alta | Validación: OK
      NCT: NCT06298552 | Status: Activo, sin reclutamiento | Tipo: aprobado
      Catalizador: ✅ APROBADO FDA 8 may2026 — 1ª terapia gMG independiente del anticuerpo | Ventana: aprobado
      Sponsor: argenx
      Phase: PHASE3
      Enrollment: 119
      Primary completion: 2025-06-30 ACTUAL
-     Study completion: 2027-06 ESTIMATED
-     Last update posted: 2025-11-05
+     Study completion: 2028-06 ESTIMATED
+     Last update posted: 2026-08-10
      → https://clinicaltrials.gov/study/NCT06298552
   🔵 ⭐⭐ UNITY Ph3 — efgartigimod SC — Sjögren's Disease | Prioridad: media | Validación: OK
      NCT: NCT06684847 | Status: Activo, sin reclutamiento | Tipo: pivotal
@@ -320,16 +320,16 @@ DETALLE POR EMPRESA
      Last update posted: 2026-06-30
      → https://clinicaltrials.gov/study/NCT05951179
 
-🔵 [GPCR] · Score relevancia: 9
-  🔵 ⭐⭐⭐ GLOW Ph2b — aleniglipron oral GLP-1 — obesidad | Prioridad: alta | Validación: OK
-     NCT: NCT06693843 | Status: Activo, sin reclutamiento | Tipo: phase2b
+🟢 [GPCR] · Score relevancia: 9
+  🟢 ⭐⭐⭐ GLOW Ph2b — aleniglipron oral GLP-1 — obesidad | Prioridad: alta | Validación: OK
+     NCT: NCT06693843 | Status: Ensayo completado | Tipo: phase2b
      Catalizador: datos 44 semanas / paso a Phase 3 | Ventana: 2026
      Sponsor: Gasherbrum Bio, Inc., a wholly owned subsidiary of Structure Therapeutics
      Phase: PHASE2
-     Enrollment: 220
+     Enrollment: 230
      Primary completion: 2025-10-24 ACTUAL
-     Study completion: 2026-08 ESTIMATED
-     Last update posted: 2026-04-28
+     Study completion: 2026-07-09 ACTUAL
+     Last update posted: 2026-08-10
      → https://clinicaltrials.gov/study/NCT06693843
 
 🔵 [DNLI] · Score relevancia: 9

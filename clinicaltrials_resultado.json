@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "10/08/2026 09:56",
-  "fecha": "2026-08-10",
+  "generado": "11/08/2026 09:30",
+  "fecha": "2026-08-11",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -10,9 +10,9 @@
     "validacion_ok": 34,
     "validacion_error": 0,
     "alertas_rojas": 0,
-    "alertas_verdes": 4,
-    "alertas_amarillas": 0,
-    "alertas_azules": 30,
+    "alertas_verdes": 5,
+    "alertas_amarillas": 1,
+    "alertas_azules": 28,
     "errores": 0
   },
   "empresas": {
@@ -1199,18 +1199,18 @@
           "titulo_oficial": "A Phase 2b, Randomized, Double-blind, Placebo-controlled, Dose-range Finding Study of the Efficacy and Safety of Multiple Doses of Aleniglipron (GSBR-1290) in Participants Living With Obesity (Body Mass Index ≥ 30 kg/m2) or Overweight (Body Mass Index ≥ 27 kg/m2) With at Least One Weight-related Comorbidity",
           "sponsor": "Gasherbrum Bio, Inc., a wholly owned subsidiary of Structure Therapeutics",
           "collaborators": [],
-          "status": "ACTIVE_NOT_RECRUITING",
-          "status_desc": "Activo, sin reclutamiento",
-          "nivel_base": "azul",
-          "badge_base": "🔵",
+          "status": "COMPLETED",
+          "status_desc": "Ensayo completado",
+          "nivel_base": "verde",
+          "badge_base": "🟢",
           "phase": "PHASE2",
-          "enrollment": 220,
+          "enrollment": 230,
           "primary_completion_date": "2025-10-24",
           "primary_completion_type": "ACTUAL",
-          "study_completion_date": "2026-08",
-          "study_completion_type": "ESTIMATED",
+          "study_completion_date": "2026-07-09",
+          "study_completion_type": "ACTUAL",
           "start_date": "2024-10-28",
-          "last_update_posted": "2026-04-28",
+          "last_update_posted": "2026-08-10",
           "conditions": [
             "Obesity, Overweight, or Chronic Weight Management"
           ],
@@ -1254,14 +1254,39 @@
           "ventana": "2026",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [],
-          "nivel": "azul",
-          "badge": "🔵",
+          "cambios": [
+            {
+              "tipo": "status",
+              "nivel": "verde",
+              "badge": "🟢",
+              "mensaje": "Estado: ACTIVE_NOT_RECRUITING → COMPLETED"
+            },
+            {
+              "tipo": "study_completion_date",
+              "nivel": "amarillo",
+              "badge": "🟡",
+              "mensaje": "Study completion: 2026-08 → 2026-07-09"
+            },
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-04-28 → 2026-08-10"
+            },
+            {
+              "tipo": "enrollment",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Enrollment: 220 → 230"
+            }
+          ],
+          "nivel": "verde",
+          "badge": "🟢",
           "error": null
         }
       ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "nivel": "verde",
+      "badge": "🟢",
       "score_relevancia": 9
     },
     "INSM": {
@@ -1409,10 +1434,10 @@
           "enrollment": 119,
           "primary_completion_date": "2025-06-30",
           "primary_completion_type": "ACTUAL",
-          "study_completion_date": "2027-06",
+          "study_completion_date": "2028-06",
           "study_completion_type": "ESTIMATED",
           "start_date": "2024-04-16",
-          "last_update_posted": "2025-11-05",
+          "last_update_posted": "2026-08-10",
           "conditions": [
             "Generalized Myasthenia Gravis",
             "gMG",
@@ -1454,9 +1479,22 @@
           "ventana": "aprobado",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [],
-          "nivel": "azul",
-          "badge": "🔵",
+          "cambios": [
+            {
+              "tipo": "study_completion_date",
+              "nivel": "amarillo",
+              "badge": "🟡",
+              "mensaje": "Study completion: 2027-06 → 2028-06"
+            },
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2025-11-05 → 2026-08-10"
+            }
+          ],
+          "nivel": "amarillo",
+          "badge": "🟡",
           "error": null
         },
         {
@@ -1646,8 +1684,8 @@
           "error": null
         }
       ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "nivel": "amarillo",
+      "badge": "🟡",
       "score_relevancia": 37
     },
     "DNLI": {
@@ -2573,11 +2611,11 @@
       "ticker": "GPCR",
       "nct": "NCT06693843",
       "nombre": "GLOW Ph2b — aleniglipron oral GLP-1 — obesidad",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "ACTIVE_NOT_RECRUITING",
+      "nivel": "verde",
+      "badge": "🟢",
+      "status": "COMPLETED",
       "primary_completion_date": "2025-10-24",
-      "mensaje": "Activo, sin reclutamiento",
+      "mensaje": "Ensayo completado",
       "prioridad": "alta",
       "estrellas": "⭐⭐⭐",
       "tipo": "phase2b",
@@ -2586,7 +2624,32 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "status",
+          "nivel": "verde",
+          "badge": "🟢",
+          "mensaje": "Estado: ACTIVE_NOT_RECRUITING → COMPLETED"
+        },
+        {
+          "tipo": "study_completion_date",
+          "nivel": "amarillo",
+          "badge": "🟡",
+          "mensaje": "Study completion: 2026-08 → 2026-07-09"
+        },
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-04-28 → 2026-08-10"
+        },
+        {
+          "tipo": "enrollment",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Enrollment: 220 → 230"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT06693843"
     },
     {
@@ -2633,8 +2696,8 @@
       "ticker": "ARGX",
       "nct": "NCT06298552",
       "nombre": "ADAPT SERON ✅ APROBADO 8 may2026 — efgartigimod IV — seronegative gMG (label expansion todos serotipos)",
-      "nivel": "azul",
-      "badge": "🔵",
+      "nivel": "amarillo",
+      "badge": "🟡",
       "status": "ACTIVE_NOT_RECRUITING",
       "primary_completion_date": "2025-06-30",
       "mensaje": "Activo, sin reclutamiento",
@@ -2646,7 +2709,20 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "study_completion_date",
+          "nivel": "amarillo",
+          "badge": "🟡",
+          "mensaje": "Study completion: 2027-06 → 2028-06"
+        },
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2025-11-05 → 2026-08-10"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT06298552"
     },
     {

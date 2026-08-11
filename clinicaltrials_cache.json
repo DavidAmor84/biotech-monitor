@@ -306,11 +306,11 @@
     "peso_importancia": 8
   },
   "NCT06693843": {
-    "status": "ACTIVE_NOT_RECRUITING",
+    "status": "COMPLETED",
     "primary_completion_date": "2025-10-24",
-    "study_completion_date": "2026-08",
-    "last_update_posted": "2026-04-28",
-    "enrollment": 220,
+    "study_completion_date": "2026-07-09",
+    "last_update_posted": "2026-08-10",
+    "enrollment": 230,
     "titulo": "A Phase 2b, Dose-range Finding Study of the Efficacy and Safety of Multiple Doses of Aleniglipron (GSBR-1290) in Participants Living With Obesity or Overweight With at Least One Weight-related Comorbidity",
     "ticker": "GPCR",
     "nombre_usuario": "GLOW Ph2b — aleniglipron oral GLP-1 — obesidad",
@@ -359,8 +359,8 @@
   "NCT06298552": {
     "status": "ACTIVE_NOT_RECRUITING",
     "primary_completion_date": "2025-06-30",
-    "study_completion_date": "2027-06",
-    "last_update_posted": "2025-11-05",
+    "study_completion_date": "2028-06",
+    "last_update_posted": "2026-08-10",
     "enrollment": 119,
     "titulo": "A Phase 3 Study to Evaluate the Efficacy and Safety of Efgartigimod IV in Patients With Acetylcholine Receptor Binding Antibody Seronegative Generalized Myasthenia Gravis",
     "ticker": "ARGX",

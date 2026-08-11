@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 10/08/2026 08:26 | Período: últimos 7 días
-Desde: 2026-08-03 → Hasta: 2026-08-10
+Generado: 11/08/2026 08:09 | Período: últimos 7 días
+Desde: 2026-08-04 → Hasta: 2026-08-11
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 24 filings | 🔴 2 | 🟢 0 | 🟡 8 | 🔵 14 | ✅ 5 sin novedad
+RESUMEN: 23 filings | 🔴 2 | 🟢 0 | 🟡 8 | 🔵 13 | ✅ 6 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (2)
@@ -47,12 +47,10 @@ DETALLE POR TICKER — SEC EDGAR
      Insider: Kelly-Gemmell Dorothy Elizabeth → Concesión 6,333 acciones @ $0.00 | Post: 6,333 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1607678/000214454226000004/xslF345X06/ownership.xml
 
-  🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 2 filing(s)
+  🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 1 filing(s)
      🟡 MEDIA 10-Q | 2026-08-04 | Caja: $6143.5M · Shares: 254.0M · ⚖️ Litigios activos
      10-Q: Caja: $6143.5M · Shares: 254.0M · ⚖️ Litigios activos
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000259/vrtx-20260630.htm
-     🔵 INFO 8-K | 2026-08-03 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000256/vrtx-20260803.htm
   ✅ [ALNY] Sin novedades
 
   🟡 [BEAM] Beam Therapeutics Inc. — 2 filing(s)
@@ -61,13 +59,7 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1745999/000119312526331541/beam-20260630.htm
      🔵 INFO 8-K | 2026-08-04 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1745999/000119312526331522/beam-20260804.htm
-
-  🟡 [OCUL] OCULAR THERAPEUTIX, INC — 2 filing(s)
-     🟡 MEDIA 10-Q | 2026-08-03 | Shares: 215.9M · ⚖️ Litigios activos · 📋 Shelf mencionado
-     10-Q: Shares: 215.9M · ⚖️ Litigios activos · 📋 Shelf mencionado
-     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926089450/ocul-20260630x10q.htm
-     🔵 INFO 8-K | 2026-08-03 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926089443/tm2621618d1_8k.htm
+  ✅ [OCUL] Sin novedades
 
   🟡 [CAI] Caris Life Sciences, Inc. — 2 filing(s)
      🟡 MEDIA 10-Q | 2026-08-05 | Shares: 282.5M · ⚖️ Litigios activos
@@ -90,7 +82,12 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1888886/000196292626000007/xslF345X06/form4-08052026_080829.xml
   ✅ [ABVX] Sin novedades
 
-  🔵 [VERA] Vera Therapeutics, Inc. — 1 filing(s)
+  🟡 [VERA] Vera Therapeutics, Inc. — 3 filing(s)
+     🟡 MEDIA 10-Q | 2026-08-10 | Shares: 72.0M · ⚖️ Litigios activos
+     10-Q: Shares: 72.0M · ⚖️ Litigios activos
+     → https://www.sec.gov/Archives/edgar/data/1831828/000119312526342380/vera-20260630.htm
+     🔵 INFO 8-K | 2026-08-10 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1831828/000119312526342335/vera-20260810.htm
      🔵 INFO 4 | 2026-08-05 | Boman Nancy Lee (Chief Regulatory Officer) → Concesión 44,987 acciones @ $0.00 | Post: 44,987 | Rutinaria/RSU/impuestos
      Insider: Boman Nancy Lee (Chief Regulatory Officer) → Concesión 44,987 acciones @ $0.00 | Post: 44,987 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1831828/000214571126000002/xslF345X06/form4-08052026_080802.xml
@@ -200,11 +197,11 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        → https://clinicaltrials.gov/study/NCT06495918
 
   [GPCR]
-    🔵 Ph2b GLOW (aleniglipron obesidad oral) ⚡CAMBIO
-       Status: Activo — sin reclutamiento
-       Enrollment: 220 pacientes
+    🟢 Ph2b GLOW (aleniglipron obesidad oral) ⚡CAMBIO
+       Status: Completado
+       Enrollment: 230 pacientes
        Primary completion: 2025-10-24
-       Última actualización: 2026-04-28
+       Última actualización: 2026-08-10
        → https://clinicaltrials.gov/study/NCT06693843
 
   [ABVX]

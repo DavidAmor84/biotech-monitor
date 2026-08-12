@@ -1,20 +1,46 @@
 {
-  "generado": "11/08/2026 08:14 UTC",
+  "generado": "12/08/2026 08:37 UTC",
   "plazo_horas": 72,
-  "desde": "2026-08-08",
-  "hasta": "2026-08-11",
+  "desde": "2026-08-09",
+  "hasta": "2026-08-12",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "SNDX",
+          "titulo": "JP Morgan Maintains Overweight on Syndax Pharmaceuticals, Lowers Price Target to $40",
+          "resumen": "JP Morgan  analyst Anupam Rama   maintains Syndax Pharmaceuticals (NASDAQ:SNDX) with a Overweight and lowers the price target from $44 to $40.",
+          "fuente": "Benzinga",
+          "fecha": "11 Aug 2026 10:48 UTC",
+          "url": "https://finnhub.io/api/news?id=ba0aea8667b511997779d406921fd8567d6acba5ee46fab9e11651e4e681a071",
+          "imagen": "",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "ARGX": {
       "nombre": "ARGX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ARGX",
+          "titulo": "Here’s How Much You Would Have Made Owning argenx Stock In The Last 5 Years",
+          "resumen": "argenx (NASDAQ:ARGX) has outperformed the market over the past 5 years by 11.1% on an annualized basis producing an average annual return of 22.73%. Currently, argenx has a market capitalization of $54.18 billion.",
+          "fuente": "Benzinga",
+          "fecha": "10 Aug 2026 16:45 UTC",
+          "url": "https://finnhub.io/api/news?id=ae6b7db0d483651fa208003222b4e9f2af85e4ac45c5304fc00e7505f2fd400e",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_1.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "DYN": {
       "nombre": "DYN",
@@ -106,6 +132,18 @@
       "noticias": [
         {
           "ticker": "ALNY",
+          "titulo": "American Century Focused Dynamic Growth Fund Q2 2026 Portfolio Review",
+          "resumen": "U.S. equities posted double-digit quarterly gains despite volatility stemming from the Iran conflict. Read more here.",
+          "fuente": "SeekingAlpha",
+          "fecha": "11 Aug 2026 09:30 UTC",
+          "url": "https://finnhub.io/api/news?id=41a082b7d0aa667533f2bd4bf66269cd06c65559dacd538bfd979a529a3b8155",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2288287120/image_2288287120.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ALNY",
           "titulo": "$1000 Invested In Alnylam Pharmaceuticals 20 Years Ago Would Be Worth This Much Today",
           "resumen": "Alnylam Pharmaceuticals (NASDAQ:ALNY) has outperformed the market over the past 20 years by 5.9% on an annualized basis producing an average annual return of 15.23%. Currently, Alnylam Pharmaceuticals has a market",
           "fuente": "Benzinga",
@@ -118,13 +156,26 @@
         }
       ],
       "nivel": "azul",
-      "total": 1
+      "total": 2
     },
     "BEAM": {
       "nombre": "BEAM",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "BEAM",
+          "titulo": "Prime Medicine: An Initial Prognosis",
+          "resumen": "",
+          "fuente": "SeekingAlpha",
+          "fecha": "11 Aug 2026 18:06 UTC",
+          "url": "https://finnhub.io/api/news?id=cfa52dd95c0e0956dc23a7fd90a5ebbd1fcc8aa7a3a64b6149e6d03d18b66535",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "OCUL": {
       "nombre": "OCUL",
@@ -134,9 +185,22 @@
     },
     "CAI": {
       "nombre": "CAI",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "CAI",
+          "titulo": "Caris Life Sciences, Inc. 2026 Q2 - Results - Earnings Call Presentation",
+          "resumen": "2026-08-11. The following slide deck was published by Caris Life Sciences, Inc.",
+          "fuente": "SeekingAlpha",
+          "fecha": "11 Aug 2026 19:05 UTC",
+          "url": "https://finnhub.io/api/news?id=8cdcb409c79d2de7fbb41f5189926efae4739212f28064cba8c2cbcb05d4725b",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "GPCR": {
       "nombre": "GPCR",
@@ -146,15 +210,53 @@
     },
     "ABVX": {
       "nombre": "ABVX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ABVX",
+          "titulo": "ABIVAX (NASDAQ:ABVX) Flashes Strong Technical Rating and Breakout Setup",
+          "resumen": "ABVX shows a strong breakout setup with 9/10 technical and setup ratings, consolidating near resistance. High relative strength and clear entry/stop levels make it one to watch.",
+          "fuente": "ChartMill",
+          "fecha": "11 Aug 2026 11:10 UTC",
+          "url": "https://finnhub.io/api/news?id=c63e04f6994f042f1cbb9a3d08eed45129e5d85da8da9f544d85cab92a557bac",
+          "imagen": "https://www.chartmill.com/images/uploads/CM_Breakout_Stocks_Small_free_bb09e243c7.webp",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "VERA": {
       "nombre": "VERA",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "VERA",
+          "titulo": "Wedbush Maintains Neutral on Vera Therapeutics, Lowers Price Target to $34",
+          "resumen": "Wedbush  analyst Laura Chico   maintains Vera Therapeutics (NASDAQ:VERA) with a Neutral and lowers the price target from $43 to $34.",
+          "fuente": "Benzinga",
+          "fecha": "11 Aug 2026 09:39 UTC",
+          "url": "https://finnhub.io/api/news?id=7c65034a67b55915101de5da1a129362c0350bafce2534b97e6140a2487218a2",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VERA",
+          "titulo": "Vera Therapeutics Q2 EPS $(1.52) Beats $(1.61) Estimate",
+          "resumen": "Vera Therapeutics (NASDAQ:VERA) reported quarterly losses of $(1.52) per share which beat the analyst consensus estimate of $(1.61) by 5.59 percent. This is a 26.67 percent decrease over losses of $(1.20) per share from",
+          "fuente": "Benzinga",
+          "fecha": "10 Aug 2026 17:06 UTC",
+          "url": "https://finnhub.io/api/news?id=ed9cf63948765a67fd05dc4d4023254b5ba1b53f423a30171616561b0e6a09f7",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 2
     },
     "ACRV": {
       "nombre": "ACRV",
@@ -165,6 +267,18 @@
     "TARA": {
       "nombre": "TARA",
       "noticias": [
+        {
+          "ticker": "TARA",
+          "titulo": "Protara Therapeutics Q2 EPS $(0.36) Misses $(0.33) Estimate",
+          "resumen": "Protara Therapeutics (NASDAQ:TARA) reported quarterly losses of $(0.36) per share which missed the analyst consensus estimate of $(0.33) by 9.09 percent. This is a 2.86 percent decrease over losses of $(0.35) per share",
+          "fuente": "Benzinga",
+          "fecha": "11 Aug 2026 08:07 UTC",
+          "url": "https://finnhub.io/api/news?id=6e66dba9384cd786bfb05c7accb829703e24de90c2ff99ebe71870388121adfa",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "TARA",
           "titulo": "Protara Therapeutics: Orphan Drug Indications Drive A Heavily Undervalued Pipeline",
@@ -179,7 +293,7 @@
         }
       ],
       "nivel": "azul",
-      "total": 1
+      "total": 2
     },
     "SENS": {
       "nombre": "SENS",
@@ -189,16 +303,65 @@
     },
     "INSM": {
       "nombre": "INSM",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "INSM",
+          "titulo": "American Century Focused Dynamic Growth Fund Q2 2026 Portfolio Review",
+          "resumen": "U.S. equities posted double-digit quarterly gains despite volatility stemming from the Iran conflict. Read more here.",
+          "fuente": "SeekingAlpha",
+          "fecha": "11 Aug 2026 09:30 UTC",
+          "url": "https://finnhub.io/api/news?id=41a082b7d0aa667533f2bd4bf66269cd06c65559dacd538bfd979a529a3b8155",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2288287120/image_2288287120.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "JP Morgan Maintains Overweight on Insmed, Lowers Price Target to $175",
+          "resumen": "JP Morgan  analyst Jessica Fye   maintains Insmed (NASDAQ:INSM) with a Overweight and lowers the price target from $179 to $175.",
+          "fuente": "Benzinga",
+          "fecha": "10 Aug 2026 14:53 UTC",
+          "url": "https://finnhub.io/api/news?id=b060d708734f3868c1619f8a5853906f91a32e0726a12e624092d882fa529fc7",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "Truist Securities Reiterates Buy on Insmed, Raises Price Target to $195",
+          "resumen": "Truist Securities  analyst Danielle Brill   reiterates Insmed (NASDAQ:INSM) with a Buy and raises the price target from $185 to $195.",
+          "fuente": "Benzinga",
+          "fecha": "10 Aug 2026 13:53 UTC",
+          "url": "https://finnhub.io/api/news?id=f79769686819c6edc47c8e314a3836c2bffffb58a8cfb572918f2a5ace4d0f3f",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "$1000 Invested In Insmed 5 Years Ago Would Be Worth This Much Today",
+          "resumen": "Insmed (NASDAQ:INSM) has outperformed the market over the past 5 years by 29.76% on an annualized basis producing an average annual return of 41.43%. Currently, Insmed has a market capitalization of $28.82 billion.",
+          "fuente": "Benzinga",
+          "fecha": "10 Aug 2026 12:15 UTC",
+          "url": "https://finnhub.io/api/news?id=25cb58dab2fed18dcf70659c123eb075b810740532a2fd8e45b0587e439a7e2d",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_3.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 4
     }
   },
   "resumen": {
-    "total_noticias": 7,
-    "tickers_con_noticias": 3,
-    "alertas_urgentes": 1,
-    "sin_noticias": 14
+    "total_noticias": 20,
+    "tickers_con_noticias": 10,
+    "alertas_urgentes": 3,
+    "sin_noticias": 7
   },
   "todas_noticias": [
     {
@@ -250,6 +413,30 @@
       "badge": "🔴"
     },
     {
+      "ticker": "SNDX",
+      "titulo": "JP Morgan Maintains Overweight on Syndax Pharmaceuticals, Lowers Price Target to $40",
+      "resumen": "JP Morgan  analyst Anupam Rama   maintains Syndax Pharmaceuticals (NASDAQ:SNDX) with a Overweight and lowers the price target from $44 to $40.",
+      "fuente": "Benzinga",
+      "fecha": "11 Aug 2026 10:48 UTC",
+      "url": "https://finnhub.io/api/news?id=ba0aea8667b511997779d406921fd8567d6acba5ee46fab9e11651e4e681a071",
+      "imagen": "",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "CAI",
+      "titulo": "Caris Life Sciences, Inc. 2026 Q2 - Results - Earnings Call Presentation",
+      "resumen": "2026-08-11. The following slide deck was published by Caris Life Sciences, Inc.",
+      "fuente": "SeekingAlpha",
+      "fecha": "11 Aug 2026 19:05 UTC",
+      "url": "https://finnhub.io/api/news?id=8cdcb409c79d2de7fbb41f5189926efae4739212f28064cba8c2cbcb05d4725b",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
       "ticker": "ALNY",
       "titulo": "$1000 Invested In Alnylam Pharmaceuticals 20 Years Ago Would Be Worth This Much Today",
       "resumen": "Alnylam Pharmaceuticals (NASDAQ:ALNY) has outperformed the market over the past 20 years by 5.9% on an annualized basis producing an average annual return of 15.23%. Currently, Alnylam Pharmaceuticals has a market",
@@ -257,6 +444,42 @@
       "fecha": "10 Aug 2026 10:00 UTC",
       "url": "https://finnhub.io/api/news?id=5a615abdc411ace29d30e1d748aef355d839fc4689f5759afc3dbdd38d4552f6",
       "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_4.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "$1000 Invested In Insmed 5 Years Ago Would Be Worth This Much Today",
+      "resumen": "Insmed (NASDAQ:INSM) has outperformed the market over the past 5 years by 29.76% on an annualized basis producing an average annual return of 41.43%. Currently, Insmed has a market capitalization of $28.82 billion.",
+      "fuente": "Benzinga",
+      "fecha": "10 Aug 2026 12:15 UTC",
+      "url": "https://finnhub.io/api/news?id=25cb58dab2fed18dcf70659c123eb075b810740532a2fd8e45b0587e439a7e2d",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_3.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Truist Securities Reiterates Buy on Insmed, Raises Price Target to $195",
+      "resumen": "Truist Securities  analyst Danielle Brill   reiterates Insmed (NASDAQ:INSM) with a Buy and raises the price target from $185 to $195.",
+      "fuente": "Benzinga",
+      "fecha": "10 Aug 2026 13:53 UTC",
+      "url": "https://finnhub.io/api/news?id=f79769686819c6edc47c8e314a3836c2bffffb58a8cfb572918f2a5ace4d0f3f",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "JP Morgan Maintains Overweight on Insmed, Lowers Price Target to $175",
+      "resumen": "JP Morgan  analyst Jessica Fye   maintains Insmed (NASDAQ:INSM) with a Overweight and lowers the price target from $179 to $175.",
+      "fuente": "Benzinga",
+      "fecha": "10 Aug 2026 14:53 UTC",
+      "url": "https://finnhub.io/api/news?id=b060d708734f3868c1619f8a5853906f91a32e0726a12e624092d882fa529fc7",
+      "imagen": "",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
@@ -274,6 +497,30 @@
       "badge": "🔵"
     },
     {
+      "ticker": "ARGX",
+      "titulo": "Here’s How Much You Would Have Made Owning argenx Stock In The Last 5 Years",
+      "resumen": "argenx (NASDAQ:ARGX) has outperformed the market over the past 5 years by 11.1% on an annualized basis producing an average annual return of 22.73%. Currently, argenx has a market capitalization of $54.18 billion.",
+      "fuente": "Benzinga",
+      "fecha": "10 Aug 2026 16:45 UTC",
+      "url": "https://finnhub.io/api/news?id=ae6b7db0d483651fa208003222b4e9f2af85e4ac45c5304fc00e7505f2fd400e",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_1.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VERA",
+      "titulo": "Vera Therapeutics Q2 EPS $(1.52) Beats $(1.61) Estimate",
+      "resumen": "Vera Therapeutics (NASDAQ:VERA) reported quarterly losses of $(1.52) per share which beat the analyst consensus estimate of $(1.61) by 5.59 percent. This is a 26.67 percent decrease over losses of $(1.20) per share from",
+      "fuente": "Benzinga",
+      "fecha": "10 Aug 2026 17:06 UTC",
+      "url": "https://finnhub.io/api/news?id=ed9cf63948765a67fd05dc4d4023254b5ba1b53f423a30171616561b0e6a09f7",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
       "ticker": "TARA",
       "titulo": "Protara Therapeutics: Orphan Drug Indications Drive A Heavily Undervalued Pipeline",
       "resumen": "Protara Therapeutics (TARA) buy thesis: $9.96 fair value vs ~$4, upside from TARA-002 & IV choline chloride, cash runway to 2028. Read here for more.",
@@ -281,6 +528,78 @@
       "fecha": "11 Aug 2026 02:15 UTC",
       "url": "https://finnhub.io/api/news?id=1e363d070c432dda3afc9b9dea4dbeae38fd744e2de48276ee0d804fc767f7d2",
       "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2210087580/image_2210087580.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "TARA",
+      "titulo": "Protara Therapeutics Q2 EPS $(0.36) Misses $(0.33) Estimate",
+      "resumen": "Protara Therapeutics (NASDAQ:TARA) reported quarterly losses of $(0.36) per share which missed the analyst consensus estimate of $(0.33) by 9.09 percent. This is a 2.86 percent decrease over losses of $(0.35) per share",
+      "fuente": "Benzinga",
+      "fecha": "11 Aug 2026 08:07 UTC",
+      "url": "https://finnhub.io/api/news?id=6e66dba9384cd786bfb05c7accb829703e24de90c2ff99ebe71870388121adfa",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "American Century Focused Dynamic Growth Fund Q2 2026 Portfolio Review",
+      "resumen": "U.S. equities posted double-digit quarterly gains despite volatility stemming from the Iran conflict. Read more here.",
+      "fuente": "SeekingAlpha",
+      "fecha": "11 Aug 2026 09:30 UTC",
+      "url": "https://finnhub.io/api/news?id=41a082b7d0aa667533f2bd4bf66269cd06c65559dacd538bfd979a529a3b8155",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2288287120/image_2288287120.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "American Century Focused Dynamic Growth Fund Q2 2026 Portfolio Review",
+      "resumen": "U.S. equities posted double-digit quarterly gains despite volatility stemming from the Iran conflict. Read more here.",
+      "fuente": "SeekingAlpha",
+      "fecha": "11 Aug 2026 09:30 UTC",
+      "url": "https://finnhub.io/api/news?id=41a082b7d0aa667533f2bd4bf66269cd06c65559dacd538bfd979a529a3b8155",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2288287120/image_2288287120.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VERA",
+      "titulo": "Wedbush Maintains Neutral on Vera Therapeutics, Lowers Price Target to $34",
+      "resumen": "Wedbush  analyst Laura Chico   maintains Vera Therapeutics (NASDAQ:VERA) with a Neutral and lowers the price target from $43 to $34.",
+      "fuente": "Benzinga",
+      "fecha": "11 Aug 2026 09:39 UTC",
+      "url": "https://finnhub.io/api/news?id=7c65034a67b55915101de5da1a129362c0350bafce2534b97e6140a2487218a2",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ABVX",
+      "titulo": "ABIVAX (NASDAQ:ABVX) Flashes Strong Technical Rating and Breakout Setup",
+      "resumen": "ABVX shows a strong breakout setup with 9/10 technical and setup ratings, consolidating near resistance. High relative strength and clear entry/stop levels make it one to watch.",
+      "fuente": "ChartMill",
+      "fecha": "11 Aug 2026 11:10 UTC",
+      "url": "https://finnhub.io/api/news?id=c63e04f6994f042f1cbb9a3d08eed45129e5d85da8da9f544d85cab92a557bac",
+      "imagen": "https://www.chartmill.com/images/uploads/CM_Breakout_Stocks_Small_free_bb09e243c7.webp",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "Prime Medicine: An Initial Prognosis",
+      "resumen": "",
+      "fuente": "SeekingAlpha",
+      "fecha": "11 Aug 2026 18:06 UTC",
+      "url": "https://finnhub.io/api/news?id=cfa52dd95c0e0956dc23a7fd90a5ebbd1fcc8aa7a3a64b6149e6d03d18b66535",
+      "imagen": "",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

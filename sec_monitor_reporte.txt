@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 11/08/2026 08:09 | Período: últimos 7 días
-Desde: 2026-08-04 → Hasta: 2026-08-11
+Generado: 12/08/2026 08:17 | Período: últimos 7 días
+Desde: 2026-08-05 → Hasta: 2026-08-12
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 23 filings | 🔴 2 | 🟢 0 | 🟡 8 | 🔵 13 | ✅ 6 sin novedad
+RESUMEN: 20 filings | 🔴 2 | 🟢 0 | 🟡 6 | 🔵 12 | ✅ 8 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (2)
@@ -25,13 +25,7 @@ RESUMEN: 23 filings | 🔴 2 | 🟢 0 | 🟡 8 | 🔵 13 | ✅ 6 sin novedad
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
 ──────────────────────────────────────────────────
-
-  🟡 [SNDX] Syndax Pharmaceuticals Inc — 2 filing(s)
-     🟡 MEDIA 10-Q | 2026-08-04 | ⚖️ Litigios activos · 📋 Shelf mencionado
-     10-Q: ⚖️ Litigios activos · 📋 Shelf mencionado
-     → https://www.sec.gov/Archives/edgar/data/1395937/000119312526332750/sndx-20260630.htm
-     🔵 INFO 8-K | 2026-08-04 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1395937/000119312526332736/sndx-20260804.htm
+  ✅ [SNDX] Sin novedades
   ✅ [ARGX] Sin novedades
   ✅ [DYN] Sin novedades
 
@@ -46,19 +40,9 @@ DETALLE POR TICKER — SEC EDGAR
      🔵 INFO 4 | 2026-08-07 | Kelly-Gemmell Dorothy Elizabeth → Concesión 6,333 acciones @ $0.00 | Post: 6,333 | Rutinaria/RSU/impuestos
      Insider: Kelly-Gemmell Dorothy Elizabeth → Concesión 6,333 acciones @ $0.00 | Post: 6,333 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1607678/000214454226000004/xslF345X06/ownership.xml
-
-  🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 1 filing(s)
-     🟡 MEDIA 10-Q | 2026-08-04 | Caja: $6143.5M · Shares: 254.0M · ⚖️ Litigios activos
-     10-Q: Caja: $6143.5M · Shares: 254.0M · ⚖️ Litigios activos
-     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000259/vrtx-20260630.htm
+  ✅ [VRTX] Sin novedades
   ✅ [ALNY] Sin novedades
-
-  🟡 [BEAM] Beam Therapeutics Inc. — 2 filing(s)
-     🟡 MEDIA 10-Q | 2026-08-04 | ⚖️ Litigios activos · 📋 Shelf mencionado
-     10-Q: ⚖️ Litigios activos · 📋 Shelf mencionado
-     → https://www.sec.gov/Archives/edgar/data/1745999/000119312526331541/beam-20260630.htm
-     🔵 INFO 8-K | 2026-08-04 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1745999/000119312526331522/beam-20260804.htm
+  ✅ [BEAM] Sin novedades
   ✅ [OCUL] Sin novedades
 
   🟡 [CAI] Caris Life Sciences, Inc. — 2 filing(s)
@@ -96,7 +80,13 @@ DETALLE POR TICKER — SEC EDGAR
      🟡 MEDIA 4 | 2026-08-06 | Levy Adam D. (Chief Financial Officer) → Venta 1,142 acciones @ $1.57 | Post: 66,008 | Rutinaria/RSU/impuestos
      Insider: Levy Adam D. (Chief Financial Officer) → Venta 1,142 acciones @ $1.57 | Post: 66,008 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003499/xslF345X06/form4.xml
-  ✅ [TARA] Sin novedades
+
+  🟡 [TARA] Protara Therapeutics, Inc. — 2 filing(s)
+     🟡 MEDIA 10-Q | 2026-08-11 | Shares: 5615.0M · ⚖️ Litigios activos · 📋 Shelf mencionado
+     10-Q: Shares: 5615.0M · ⚖️ Litigios activos · 📋 Shelf mencionado
+     → https://www.sec.gov/Archives/edgar/data/1359931/000121390026087508/ea0298600-10q_protara.htm
+     🔵 INFO 8-K | 2026-08-11 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1359931/000121390026087506/ea0299236-8k_protara.htm
 
   🔴 [SENS] Senseonics Holdings, Inc. — 2 filing(s)
      🔴 ALTA 10-Q | 2026-08-06 | Shares: 41.3M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado
@@ -138,8 +128,8 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
     🔵 DELIVER Ph1/2 (z-rostudirsen DMD exon 51) ⚡CAMBIO
        Status: Activo — sin reclutamiento
        Enrollment: 86 pacientes
-       Primary completion: 2029-11
-       Última actualización: 2025-08-13
+       Primary completion: 2031-09
+       Última actualización: 2026-08-11
        → https://clinicaltrials.gov/study/NCT05524883
     🟢 ACHIEVE Ph1/2 registracional (z-basivarsen DM1) ⚡CAMBIO
        Status: Reclutando activamente

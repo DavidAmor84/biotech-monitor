@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "11/08/2026 08:09",
+  "generado": "12/08/2026 08:17",
   "periodo_dias": 7,
-  "desde": "2026-08-04",
-  "hasta": "2026-08-11",
+  "desde": "2026-08-05",
+  "hasta": "2026-08-12",
   "resumen": {
-    "total_filings": 23,
+    "total_filings": 20,
     "alertas_rojas": 2,
     "alertas_verdes": 0,
-    "alertas_amarillas": 8,
-    "alertas_azules": 13,
-    "sin_novedad": 6
+    "alertas_amarillas": 6,
+    "alertas_azules": 12,
+    "sin_novedad": 8
   },
   "tickers": {
     "SNDX": {
@@ -19,59 +19,9 @@
       "cik": "0001395937",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "10-Q",
-          "fecha": "2026-08-04",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "⚖️ Litigios activos · 📋 Shelf mencionado",
-          "detalle": "10-Q",
-          "empresa_sec": "Syndax Pharmaceuticals Inc",
-          "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526332750/sndx-20260630.htm",
-          "form4_detail": null,
-          "8k_detail": null,
-          "10q_detail": {
-            "caja_mm": null,
-            "burn_trimestral_mm": null,
-            "burn_mensual_mm": null,
-            "runway_meses": null,
-            "shares_outstanding_mm": null,
-            "litigios_detectados": true,
-            "shelf_mencionado": true,
-            "going_concern": false,
-            "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 336,477 &#160; &#160; $ 134,930 &#160; Short-term investments &#160; &#160; 211,383 &#160; &#160; &#160; 259,140 &#160; Accounts receivable, net &#160; &#160; 45,067 &#160; &#160; &#160; 37,996 &#160; Inventory, net &#160; &#160; 33,164 &#160; &#160; &#160; 32,754",
-            "resumen_10q": "⚖️ Litigios activos · 📋 Shelf mencionado"
-          },
-          "prospecto_detail": null
-        },
-        {
-          "form": "8-K",
-          "fecha": "2026-08-04",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
-          "detalle": "8-K",
-          "empresa_sec": "Syndax Pharmaceuticals Inc",
-          "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526332736/sndx-20260804.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "2.02",
-              "9.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 2.02. Results of Operations and Financial Condition. On August 4, 2026, Syndax Pharmaceuticals, Inc. (the Company ) issued a press release and presentation announcing its financial results for the quarter and year ended June 30, 2026. A copy of the press release and presentation are furnished as Exhibits 99.1 and 99.2 to this Current Report on Form 8-K and are incorporated herein by reference. The information contained in this Item 2.02 and in Exhibits 99.1 and 99.2 attached hereto is intended to be furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any of the Company s filings under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 9.01. Financial Statements and Exhibits. (d) Exhibits. Exhibit No. Description 99.1 Press Release, dated August 4, 2026 99.2 Corporate Presentation, dated August 4, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. SYNDAX PHARMACEUTICALS, INC. By: /s/ Michael A. Metzger Michael A. Metzger Chief Executive Officer Dated: August 4, 2026",
-            "nivel_ajustado": "azul",
-            "badge_ajustado": "🔵 INFO",
-            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "ARGX": {
@@ -201,35 +151,9 @@
       "cik": "0000875320",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "10-Q",
-          "fecha": "2026-08-04",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Caja: $6143.5M · Shares: 254.0M · ⚖️ Litigios activos",
-          "detalle": "10-Q",
-          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
-          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000259/vrtx-20260630.htm",
-          "form4_detail": null,
-          "8k_detail": null,
-          "10q_detail": {
-            "caja_mm": 6143.5,
-            "burn_trimestral_mm": null,
-            "burn_mensual_mm": null,
-            "runway_meses": null,
-            "shares_outstanding_mm": 254.0,
-            "litigios_detectados": true,
-            "shelf_mencionado": false,
-            "going_concern": false,
-            "extracto_financiero": "30, 2026 December 31, 2025 Assets Current assets: Cash and cash equivalents $ 6,143.5 $ 5,084.8 Marketable securities 1,708.9 1,523.3 Accounts receivable, net 2,134.3 2,052.8 Inventories 1,765.1 1,686.8 Prepaid expenses and other current assets 791.9 853.3 Total current assets 12,543.7 11,201.0 Property and equipment, net 1,665.0 1,520.3 Goodwill 1",
-            "resumen_10q": "Caja: $6143.5M · Shares: 254.0M · ⚖️ Litigios activos"
-          },
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "ALNY": {
@@ -249,59 +173,9 @@
       "cik": "0001745999",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "10-Q",
-          "fecha": "2026-08-04",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "⚖️ Litigios activos · 📋 Shelf mencionado",
-          "detalle": "10-Q",
-          "empresa_sec": "Beam Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526331541/beam-20260630.htm",
-          "form4_detail": null,
-          "8k_detail": null,
-          "10q_detail": {
-            "caja_mm": null,
-            "burn_trimestral_mm": null,
-            "burn_mensual_mm": null,
-            "runway_meses": null,
-            "shares_outstanding_mm": null,
-            "litigios_detectados": true,
-            "shelf_mencionado": true,
-            "going_concern": false,
-            "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 219,825 &#160; &#160; $ 294,944 &#160; Marketable securities &#160; &#160; 933,102 &#160; &#160; &#160; 950,266 &#160; Prepaid expenses and other current assets &#160; &#160; 25,668 &#160; &#160; &#160; 23,478 &#160; Total current assets &#160; &#160; 1,178,595 &#1",
-            "resumen_10q": "⚖️ Litigios activos · 📋 Shelf mencionado"
-          },
-          "prospecto_detail": null
-        },
-        {
-          "form": "8-K",
-          "fecha": "2026-08-04",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
-          "detalle": "8-K",
-          "empresa_sec": "Beam Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526331522/beam-20260804.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "2.02",
-              "9.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 2.02 Results of Operations and Financial Condition. On August 4, 2026, the Company issued a press release announcing its financial results for the quarter ended June 30, 2026. A copy of this press release is furnished as Exhibit 99.1 and is incorporated herein by reference. The information in this Item 2.02 as well as in the accompanying Exhibit 99.1 attached hereto is being furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any filing by the Company, under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press Release Issued by Beam Therapeutics Inc. on August 4, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. BEAM THERAPEUTICS INC. Date: August 4, 2026 By: /s/ John Evans Name: John Evans Title: Chief Executive Officer",
-            "nivel_ajustado": "azul",
-            "badge_ajustado": "🔵 INFO",
-            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "OCUL": {
@@ -631,9 +505,59 @@
       "cik": "0001359931",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "10-Q",
+          "fecha": "2026-08-11",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Shares: 5615.0M · ⚖️ Litigios activos · 📋 Shelf mencionado",
+          "detalle": "QUARTERLY REPORT",
+          "empresa_sec": "Protara Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026087508/ea0298600-10q_protara.htm",
+          "form4_detail": null,
+          "8k_detail": null,
+          "10q_detail": {
+            "caja_mm": null,
+            "burn_trimestral_mm": null,
+            "burn_mensual_mm": null,
+            "runway_meses": null,
+            "shares_outstanding_mm": 5615.0,
+            "litigios_detectados": true,
+            "shelf_mencionado": true,
+            "going_concern": false,
+            "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 17,076 &#160; &#160; $ 49,657 &#160; Marketable debt securities &#160; &#160; 125,418 &#160; &#160; &#160; 105,897 &#160; Prepaid expenses and other current assets &#160; &#160; 3,658 &#160; &#160; &#160; 3,950 &#160; Total current assets &#160; &#160; 146,152 &#16",
+            "resumen_10q": "Shares: 5615.0M · ⚖️ Litigios activos · 📋 Shelf mencionado"
+          },
+          "prospecto_detail": null
+        },
+        {
+          "form": "8-K",
+          "fecha": "2026-08-11",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+          "detalle": "CURRENT REPORT",
+          "empresa_sec": "Protara Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026087506/ea0299236-8k_protara.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "2.02",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 2.02. Results of Operations and Financial Condition. On August 11, 2026, Protara Therapeutics, Inc. (the Company ) announced its financial results for the quarter ended June 30, 2026 in the press release attached hereto as Exhibit 99.1 and incorporated herein by reference. The information in this Item 2.02, including the attached Exhibit 99.1, is being furnished and shall not be deemed filed for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that Section, nor shall it be deemed incorporated by reference in any filing made by the Company under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing regardless of any general incorporation language. Item 9.01. Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press Release dated August 11, 2026, issued by the Registrant. 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). 1 SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. PROTARA THERAPEUTICS, INC. Date: August 11, 2026 By: /s/ Patrick Fabbio Patrick Fabbio Chief Financial Officer 2",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "SENS": {
@@ -849,6 +773,59 @@
     }
   ],
   "todos_filings": [
+    {
+      "ticker": "TARA",
+      "nombre": "Protara Therapeutics, Inc.",
+      "form": "10-Q",
+      "fecha": "2026-08-11",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Shares: 5615.0M · ⚖️ Litigios activos · 📋 Shelf mencionado",
+      "detalle": "QUARTERLY REPORT",
+      "empresa_sec": "Protara Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026087508/ea0298600-10q_protara.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": {
+        "caja_mm": null,
+        "burn_trimestral_mm": null,
+        "burn_mensual_mm": null,
+        "runway_meses": null,
+        "shares_outstanding_mm": 5615.0,
+        "litigios_detectados": true,
+        "shelf_mencionado": true,
+        "going_concern": false,
+        "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 17,076 &#160; &#160; $ 49,657 &#160; Marketable debt securities &#160; &#160; 125,418 &#160; &#160; &#160; 105,897 &#160; Prepaid expenses and other current assets &#160; &#160; 3,658 &#160; &#160; &#160; 3,950 &#160; Total current assets &#160; &#160; 146,152 &#16",
+        "resumen_10q": "Shares: 5615.0M · ⚖️ Litigios activos · 📋 Shelf mencionado"
+      },
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "TARA",
+      "nombre": "Protara Therapeutics, Inc.",
+      "form": "8-K",
+      "fecha": "2026-08-11",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+      "detalle": "CURRENT REPORT",
+      "empresa_sec": "Protara Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026087506/ea0299236-8k_protara.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "2.02",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 2.02. Results of Operations and Financial Condition. On August 11, 2026, Protara Therapeutics, Inc. (the Company ) announced its financial results for the quarter ended June 30, 2026 in the press release attached hereto as Exhibit 99.1 and incorporated herein by reference. The information in this Item 2.02, including the attached Exhibit 99.1, is being furnished and shall not be deemed filed for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that Section, nor shall it be deemed incorporated by reference in any filing made by the Company under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing regardless of any general incorporation language. Item 9.01. Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press Release dated August 11, 2026, issued by the Registrant. 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). 1 SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. PROTARA THERAPEUTICS, INC. Date: August 11, 2026 By: /s/ Patrick Fabbio Patrick Fabbio Chief Financial Officer 2",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "VERA",
       "nombre": "Vera Therapeutics, Inc.",
@@ -1334,139 +1311,6 @@
       "8k_detail": null,
       "10q_detail": null,
       "prospecto_detail": null
-    },
-    {
-      "ticker": "SNDX",
-      "nombre": "Syndax Pharmaceuticals Inc",
-      "form": "10-Q",
-      "fecha": "2026-08-04",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "⚖️ Litigios activos · 📋 Shelf mencionado",
-      "detalle": "10-Q",
-      "empresa_sec": "Syndax Pharmaceuticals Inc",
-      "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526332750/sndx-20260630.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": {
-        "caja_mm": null,
-        "burn_trimestral_mm": null,
-        "burn_mensual_mm": null,
-        "runway_meses": null,
-        "shares_outstanding_mm": null,
-        "litigios_detectados": true,
-        "shelf_mencionado": true,
-        "going_concern": false,
-        "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 336,477 &#160; &#160; $ 134,930 &#160; Short-term investments &#160; &#160; 211,383 &#160; &#160; &#160; 259,140 &#160; Accounts receivable, net &#160; &#160; 45,067 &#160; &#160; &#160; 37,996 &#160; Inventory, net &#160; &#160; 33,164 &#160; &#160; &#160; 32,754",
-        "resumen_10q": "⚖️ Litigios activos · 📋 Shelf mencionado"
-      },
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "SNDX",
-      "nombre": "Syndax Pharmaceuticals Inc",
-      "form": "8-K",
-      "fecha": "2026-08-04",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "Syndax Pharmaceuticals Inc",
-      "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526332736/sndx-20260804.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "2.02",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 2.02. Results of Operations and Financial Condition. On August 4, 2026, Syndax Pharmaceuticals, Inc. (the Company ) issued a press release and presentation announcing its financial results for the quarter and year ended June 30, 2026. A copy of the press release and presentation are furnished as Exhibits 99.1 and 99.2 to this Current Report on Form 8-K and are incorporated herein by reference. The information contained in this Item 2.02 and in Exhibits 99.1 and 99.2 attached hereto is intended to be furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any of the Company s filings under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 9.01. Financial Statements and Exhibits. (d) Exhibits. Exhibit No. Description 99.1 Press Release, dated August 4, 2026 99.2 Corporate Presentation, dated August 4, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. SYNDAX PHARMACEUTICALS, INC. By: /s/ Michael A. Metzger Michael A. Metzger Chief Executive Officer Dated: August 4, 2026",
-        "nivel_ajustado": "azul",
-        "badge_ajustado": "🔵 INFO",
-        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "VRTX",
-      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
-      "form": "10-Q",
-      "fecha": "2026-08-04",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Caja: $6143.5M · Shares: 254.0M · ⚖️ Litigios activos",
-      "detalle": "10-Q",
-      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
-      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000259/vrtx-20260630.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": {
-        "caja_mm": 6143.5,
-        "burn_trimestral_mm": null,
-        "burn_mensual_mm": null,
-        "runway_meses": null,
-        "shares_outstanding_mm": 254.0,
-        "litigios_detectados": true,
-        "shelf_mencionado": false,
-        "going_concern": false,
-        "extracto_financiero": "30, 2026 December 31, 2025 Assets Current assets: Cash and cash equivalents $ 6,143.5 $ 5,084.8 Marketable securities 1,708.9 1,523.3 Accounts receivable, net 2,134.3 2,052.8 Inventories 1,765.1 1,686.8 Prepaid expenses and other current assets 791.9 853.3 Total current assets 12,543.7 11,201.0 Property and equipment, net 1,665.0 1,520.3 Goodwill 1",
-        "resumen_10q": "Caja: $6143.5M · Shares: 254.0M · ⚖️ Litigios activos"
-      },
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "BEAM",
-      "nombre": "Beam Therapeutics Inc.",
-      "form": "10-Q",
-      "fecha": "2026-08-04",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "⚖️ Litigios activos · 📋 Shelf mencionado",
-      "detalle": "10-Q",
-      "empresa_sec": "Beam Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526331541/beam-20260630.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": {
-        "caja_mm": null,
-        "burn_trimestral_mm": null,
-        "burn_mensual_mm": null,
-        "runway_meses": null,
-        "shares_outstanding_mm": null,
-        "litigios_detectados": true,
-        "shelf_mencionado": true,
-        "going_concern": false,
-        "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 219,825 &#160; &#160; $ 294,944 &#160; Marketable securities &#160; &#160; 933,102 &#160; &#160; &#160; 950,266 &#160; Prepaid expenses and other current assets &#160; &#160; 25,668 &#160; &#160; &#160; 23,478 &#160; Total current assets &#160; &#160; 1,178,595 &#1",
-        "resumen_10q": "⚖️ Litigios activos · 📋 Shelf mencionado"
-      },
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "BEAM",
-      "nombre": "Beam Therapeutics Inc.",
-      "form": "8-K",
-      "fecha": "2026-08-04",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "Beam Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526331522/beam-20260804.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "2.02",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 2.02 Results of Operations and Financial Condition. On August 4, 2026, the Company issued a press release announcing its financial results for the quarter ended June 30, 2026. A copy of this press release is furnished as Exhibit 99.1 and is incorporated herein by reference. The information in this Item 2.02 as well as in the accompanying Exhibit 99.1 attached hereto is being furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any filing by the Company, under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press Release Issued by Beam Therapeutics Inc. on August 4, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. BEAM THERAPEUTICS INC. Date: August 4, 2026 By: /s/ John Evans Name: John Evans Title: Chief Executive Officer",
-        "nivel_ajustado": "azul",
-        "badge_ajustado": "🔵 INFO",
-        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
     }
   ],
   "clinicaltrials": {
@@ -1510,8 +1354,8 @@
         "nivel": "azul",
         "badge": "🔵",
         "enrollment": 86,
-        "ultima_actualizacion": "2025-08-13",
-        "fecha_completion_primaria": "2029-11",
+        "ultima_actualizacion": "2026-08-11",
+        "fecha_completion_primaria": "2031-09",
         "changed": true,
         "url": "https://clinicaltrials.gov/study/NCT05524883"
       },

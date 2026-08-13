@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 12/08/2026 08:17 | Período: últimos 7 días
-Desde: 2026-08-05 → Hasta: 2026-08-12
+Generado: 13/08/2026 08:20 | Período: últimos 7 días
+Desde: 2026-08-06 → Hasta: 2026-08-13
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 20 filings | 🔴 2 | 🟢 0 | 🟡 6 | 🔵 12 | ✅ 8 sin novedad
+RESUMEN: 22 filings | 🔴 2 | 🟢 0 | 🟡 6 | 🔵 14 | ✅ 9 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (2)
@@ -44,15 +44,9 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [ALNY] Sin novedades
   ✅ [BEAM] Sin novedades
   ✅ [OCUL] Sin novedades
+  ✅ [CAI] Sin novedades
 
-  🟡 [CAI] Caris Life Sciences, Inc. — 2 filing(s)
-     🟡 MEDIA 10-Q | 2026-08-05 | Shares: 282.5M · ⚖️ Litigios activos
-     10-Q: Shares: 282.5M · ⚖️ Litigios activos
-     → https://www.sec.gov/Archives/edgar/data/2019410/000201941026000055/cai-20260630.htm
-     🔵 INFO 8-K | 2026-08-05 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/2019410/000201941026000053/cai-20260805.htm
-
-  🟡 [GPCR] Structure Therapeutics Inc. — 4 filing(s)
+  🟡 [GPCR] Structure Therapeutics Inc. — 3 filing(s)
      🔵 INFO 4 | 2026-08-07 | Berrios John Joseph (Chief Commercial Officer) → Concesión 140,766 acciones @ $0.00 | Post: 140,766 | Rutinaria/RSU/impuestos
      Insider: Berrios John Joseph (Chief Commercial Officer) → Concesión 140,766 acciones @ $0.00 | Post: 140,766 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1888886/000214842026000006/xslF345X06/form4-08072026_080836.xml
@@ -61,22 +55,30 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1888886/000110465926092057/gpcr-20260630x10q.htm
      🔵 INFO 8-K | 2026-08-06 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1888886/000110465926092017/tm2622407d1_8k.htm
-     🔵 INFO 4 | 2026-08-05 | Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 11,817 acciones @ $0.34 | Post: 240,777 | Rutinaria/RSU/impuestos
-     Insider: Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 11,817 acciones @ $0.34 | Post: 240,777 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1888886/000196292626000007/xslF345X06/form4-08052026_080829.xml
   ✅ [ABVX] Sin novedades
 
-  🟡 [VERA] Vera Therapeutics, Inc. — 3 filing(s)
+  🟡 [VERA] Vera Therapeutics, Inc. — 5 filing(s)
+     🔵 INFO 4/A | 2026-08-12 | Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 46,250 acciones @ $2.90 | Post: 281,494 | Rutinaria/RSU/impuestos
+     Insider: Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 46,250 acciones @ $2.90 | Post: 281,494 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1831828/000185945326000013/xslF345X06/form4a-08122026_100831.xml
+     🔵 INFO 4/A | 2026-08-12 | Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos
+     Insider: Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1831828/000185945326000012/xslF345X06/form4a-08122026_100823.xml
+     🔵 INFO 4/A | 2026-08-12 | Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos
+     Insider: Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1831828/000185945326000011/xslF345X06/form4a-08122026_100809.xml
      🟡 MEDIA 10-Q | 2026-08-10 | Shares: 72.0M · ⚖️ Litigios activos
      10-Q: Shares: 72.0M · ⚖️ Litigios activos
      → https://www.sec.gov/Archives/edgar/data/1831828/000119312526342380/vera-20260630.htm
      🔵 INFO 8-K | 2026-08-10 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1831828/000119312526342335/vera-20260810.htm
-     🔵 INFO 4 | 2026-08-05 | Boman Nancy Lee (Chief Regulatory Officer) → Concesión 44,987 acciones @ $0.00 | Post: 44,987 | Rutinaria/RSU/impuestos
-     Insider: Boman Nancy Lee (Chief Regulatory Officer) → Concesión 44,987 acciones @ $0.00 | Post: 44,987 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1831828/000214571126000002/xslF345X06/form4-08052026_080802.xml
 
-  🟡 [ACRV] Acrivon Therapeutics, Inc. — 1 filing(s)
+  🟡 [ACRV] Acrivon Therapeutics, Inc. — 3 filing(s)
+     🔵 INFO 8-K | 2026-08-12 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1781174/000119312526346859/acrv-20260812.htm
+     🟡 MEDIA 10-Q | 2026-08-12 | Shares: 42.9M · ⚖️ Litigios activos · 📋 Shelf mencionado
+     10-Q: Shares: 42.9M · ⚖️ Litigios activos · 📋 Shelf mencionado
+     → https://www.sec.gov/Archives/edgar/data/1781174/000119312526346819/acrv-20260630.htm
      🟡 MEDIA 4 | 2026-08-06 | Levy Adam D. (Chief Financial Officer) → Venta 1,142 acciones @ $1.57 | Post: 66,008 | Rutinaria/RSU/impuestos
      Insider: Levy Adam D. (Chief Financial Officer) → Venta 1,142 acciones @ $1.57 | Post: 66,008 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003499/xslF345X06/form4.xml
@@ -95,7 +97,10 @@ DETALLE POR TICKER — SEC EDGAR
      🔵 INFO 8-K | 2026-08-06 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1616543/000110465926092018/sens-20260806x8k.htm
 
-  🟡 [INSM] INSMED Inc — 3 filing(s)
+  🟡 [INSM] INSMED Inc — 4 filing(s)
+     🔵 INFO 4 | 2026-08-12 | Adsett Roger (Chief Operating Officer) → Ejercicio opción 82,280 acciones @ $13.67 | Post: 181,024 | Rutinaria/RSU/impuestos
+     Insider: Adsett Roger (Chief Operating Officer) → Ejercicio opción 82,280 acciones @ $13.67 | Post: 181,024 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1104506/000168590426000014/xslF345X06/wk-form4_1786568667.xml
      🔵 INFO 4 | 2026-08-07 | Flammer Martina M.D. (Chief Medical Officer) → Ejercicio opción 18,278 acciones @ $18.95 | Post: 78,764 | Rutinaria/RSU/impuestos
      Insider: Flammer Martina M.D. (Chief Medical Officer) → Ejercicio opción 18,278 acciones @ $18.95 | Post: 78,764 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1104506/000179696026000020/xslF345X06/wk-form4_1786135147.xml

@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "12/08/2026 09:39",
-  "fecha": "2026-08-12",
+  "generado": "13/08/2026 09:40",
+  "fecha": "2026-08-13",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -11,8 +11,8 @@
     "validacion_error": 0,
     "alertas_rojas": 0,
     "alertas_verdes": 5,
-    "alertas_amarillas": 1,
-    "alertas_azules": 28,
+    "alertas_amarillas": 0,
+    "alertas_azules": 29,
     "errores": 0
   },
   "empresas": {
@@ -73,28 +73,9 @@
           "ventana": "2026-2027",
           "monitorizar": true,
           "peso_importancia": 10,
-          "cambios": [
-            {
-              "tipo": "primary_completion_date",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Primary completion: 2029-11 → 2031-09"
-            },
-            {
-              "tipo": "study_completion_date",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Study completion: 2029-11 → 2031-09"
-            },
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2025-08-13 → 2026-08-11"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         },
         {
@@ -223,8 +204,8 @@
           "error": null
         }
       ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "score_relevancia": 29
     },
     "OCUL": {
@@ -2252,8 +2233,8 @@
       "ticker": "DYN",
       "nct": "NCT05524883",
       "nombre": "DELIVER Ph1/2 registracional — z-rostudirsen — DMD exon 51 · BLA en revisión FDA",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "ACTIVE_NOT_RECRUITING",
       "primary_completion_date": "2031-09",
       "mensaje": "Activo, sin reclutamiento",
@@ -2265,26 +2246,7 @@
       "peso_importancia": 10,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "primary_completion_date",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Primary completion: 2029-11 → 2031-09"
-        },
-        {
-          "tipo": "study_completion_date",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Study completion: 2029-11 → 2031-09"
-        },
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2025-08-13 → 2026-08-11"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT05524883"
     },
     {

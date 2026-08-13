@@ -1,8 +1,8 @@
 ====================================================================================
 CLINICALTRIALS MONITOR v9.3 · Modelo Biotech
-Generado: 12/08/2026 09:39
+Generado: 13/08/2026 09:40
 ====================================================================================
-RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 1 | 🔵 28 | Errores API: 0
+RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 0 | 🔵 29 | Errores API: 0
 
 ------------------------------------------------------------------------------------
 DETALLE POR EMPRESA
@@ -60,8 +60,8 @@ DETALLE POR EMPRESA
      Last update posted: 2026-07-21
      → https://clinicaltrials.gov/study/NCT06920004
 
-🟡 [DYN] · Score relevancia: 29
-  🟡 ⭐⭐⭐ DELIVER Ph1/2 registracional — z-rostudirsen — DMD exon 51 · BLA en revisión FDA | Prioridad: alta | Validación: OK
+🔵 [DYN] · Score relevancia: 29
+  🔵 ⭐⭐⭐ DELIVER Ph1/2 registracional — z-rostudirsen — DMD exon 51 · BLA en revisión FDA | Prioridad: alta | Validación: OK
      NCT: NCT05524883 | Status: Activo, sin reclutamiento | Tipo: registracional
      Catalizador: BLA / posible aprobación acelerada | Ventana: 2026-2027
      Sponsor: Dyne Therapeutics

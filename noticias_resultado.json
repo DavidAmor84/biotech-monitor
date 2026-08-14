@@ -1,8 +1,8 @@
 {
-  "generado": "13/08/2026 08:41 UTC",
+  "generado": "14/08/2026 08:35 UTC",
   "plazo_horas": 72,
-  "desde": "2026-08-10",
-  "hasta": "2026-08-13",
+  "desde": "2026-08-11",
+  "hasta": "2026-08-14",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -25,22 +25,9 @@
     },
     "ARGX": {
       "nombre": "ARGX",
-      "noticias": [
-        {
-          "ticker": "ARGX",
-          "titulo": "Here’s How Much You Would Have Made Owning argenx Stock In The Last 5 Years",
-          "resumen": "argenx (NASDAQ:ARGX) has outperformed the market over the past 5 years by 11.1% on an annualized basis producing an average annual return of 22.73%. Currently, argenx has a market capitalization of $54.18 billion.",
-          "fuente": "Benzinga",
-          "fecha": "10 Aug 2026 16:45 UTC",
-          "url": "https://finnhub.io/api/news?id=ae6b7db0d483651fa208003222b4e9f2af85e4ac45c5304fc00e7505f2fd400e",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_1.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "DYN": {
       "nombre": "DYN",
@@ -51,6 +38,18 @@
     "DNLI": {
       "nombre": "DNLI",
       "noticias": [
+        {
+          "ticker": "DNLI",
+          "titulo": "Denali Therapeutics: AVLAYAH Converts A Platform Story Into A Commercial One",
+          "resumen": "Denali Therapeutics (DNLI) is transitioning from a neuroscience platform to a commercial biotech with AVLAYAH, its FDA-approved rare-disease therapy.",
+          "fuente": "SeekingAlpha",
+          "fecha": "13 Aug 2026 12:13 UTC",
+          "url": "https://finnhub.io/api/news?id=7df2cac4cf0b10e91a92c09bb4f524aecb01baf876bf32b8fef79acef6b1513b",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2194222192/image_2194222192.jpg?io=getty-c-w1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "DNLI",
           "titulo": "Denali Therapeutics (NASDAQ:DNLI) Shows Perfect Technical Setup for a Breakout",
@@ -64,8 +63,8 @@
           "badge": "🔵"
         }
       ],
-      "nivel": "azul",
-      "total": 1
+      "nivel": "rojo",
+      "total": 2
     },
     "VKTX": {
       "nombre": "VKTX",
@@ -89,6 +88,18 @@
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
+        {
+          "ticker": "VRTX",
+          "titulo": "Inside Latigo Biotherapeutics’ IPO: A Non-Opioid Pain Bet Goes Public",
+          "resumen": "A California biotech just raised $350 million promising to out-perform opioids without the addiction risk, and its auditors were still warning about survival just months ago. Here is what the science and the filings actually show.",
+          "fuente": "Yahoo",
+          "fecha": "13 Aug 2026 13:35 UTC",
+          "url": "https://finnhub.io/api/news?id=f9ed0860d21fac5b45889bb5f7d101977f12066b6c9bab95f6a065bf9ebbfa7a",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "VRTX",
           "titulo": "Vertex Has Multiple Portfolio Catalysts With Favorable Risk-Reward, RBC Says",
@@ -136,18 +147,6 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex (VRTX) Q2 2026 Earnings Call Transcript",
-          "resumen": "Revenue hit $3.3 billion with guidance raised on strong newer product growth.",
-          "fuente": "Yahoo",
-          "fecha": "11 Aug 2026 01:29 UTC",
-          "url": "https://finnhub.io/api/news?id=25154402fb3d0f222a8033f7866218d6e3ae8c5b8861a9206afa0c14ca55b514",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
@@ -191,22 +190,10 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "$1000 Invested In Alnylam Pharmaceuticals 20 Years Ago Would Be Worth This Much Today",
-          "resumen": "Alnylam Pharmaceuticals (NASDAQ:ALNY) has outperformed the market over the past 20 years by 5.9% on an annualized basis producing an average annual return of 15.23%. Currently, Alnylam Pharmaceuticals has a market",
-          "fuente": "Benzinga",
-          "fecha": "10 Aug 2026 10:00 UTC",
-          "url": "https://finnhub.io/api/news?id=5a615abdc411ace29d30e1d748aef355d839fc4689f5759afc3dbdd38d4552f6",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_4.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
-      "total": 4
+      "total": 3
     },
     "BEAM": {
       "nombre": "BEAM",
@@ -315,22 +302,10 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "VERA",
-          "titulo": "Vera Therapeutics Q2 EPS $(1.52) Beats $(1.61) Estimate",
-          "resumen": "Vera Therapeutics (NASDAQ:VERA) reported quarterly losses of $(1.52) per share which beat the analyst consensus estimate of $(1.61) by 5.59 percent. This is a 26.67 percent decrease over losses of $(1.20) per share from",
-          "fuente": "Benzinga",
-          "fecha": "10 Aug 2026 17:06 UTC",
-          "url": "https://finnhub.io/api/news?id=ed9cf63948765a67fd05dc4d4023254b5ba1b53f423a30171616561b0e6a09f7",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "azul",
-      "total": 3
+      "total": 2
     },
     "ACRV": {
       "nombre": "ACRV",
@@ -346,41 +321,28 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 1
-    },
-    "TARA": {
-      "nombre": "TARA",
-      "noticias": [
+        },
         {
-          "ticker": "TARA",
-          "titulo": "Protara Therapeutics Q2 EPS $(0.36) Misses $(0.33) Estimate",
-          "resumen": "Protara Therapeutics (NASDAQ:TARA) reported quarterly losses of $(0.36) per share which missed the analyst consensus estimate of $(0.33) by 9.09 percent. This is a 2.86 percent decrease over losses of $(0.35) per share",
+          "ticker": "ACRV",
+          "titulo": "Acrivon Therapeutics Q2 EPS $(0.43) Beats $(0.50) Estimate",
+          "resumen": "Acrivon Therapeutics (NASDAQ:ACRV) reported quarterly losses of $(0.43) per share which beat the analyst consensus estimate of $(0.50) by 14 percent. This is a 21.82 percent increase over losses of $(0.55) per share",
           "fuente": "Benzinga",
-          "fecha": "11 Aug 2026 08:07 UTC",
-          "url": "https://finnhub.io/api/news?id=6e66dba9384cd786bfb05c7accb829703e24de90c2ff99ebe71870388121adfa",
+          "fecha": "12 Aug 2026 16:23 UTC",
+          "url": "https://finnhub.io/api/news?id=cc9bb1d69330e35845fe509aaf929d8bbd78bce4652dfb94803daf9b41aa4dc1",
           "imagen": "",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "TARA",
-          "titulo": "Protara Therapeutics: Orphan Drug Indications Drive A Heavily Undervalued Pipeline",
-          "resumen": "Protara Therapeutics (TARA) buy thesis: $9.96 fair value vs ~$4, upside from TARA-002 & IV choline chloride, cash runway to 2028. Read here for more.",
-          "fuente": "SeekingAlpha",
-          "fecha": "11 Aug 2026 02:15 UTC",
-          "url": "https://finnhub.io/api/news?id=1e363d070c432dda3afc9b9dea4dbeae38fd744e2de48276ee0d804fc767f7d2",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2210087580/image_2210087580.jpg?io=getty-c-w1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
-      "nivel": "azul",
+      "nivel": "rojo",
       "total": 2
+    },
+    "TARA": {
+      "nombre": "TARA",
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "SENS": {
       "nombre": "SENS",
@@ -402,67 +364,19 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "JP Morgan Maintains Overweight on Insmed, Lowers Price Target to $175",
-          "resumen": "JP Morgan  analyst Jessica Fye   maintains Insmed (NASDAQ:INSM) with a Overweight and lowers the price target from $179 to $175.",
-          "fuente": "Benzinga",
-          "fecha": "10 Aug 2026 14:53 UTC",
-          "url": "https://finnhub.io/api/news?id=b060d708734f3868c1619f8a5853906f91a32e0726a12e624092d882fa529fc7",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "Truist Securities Reiterates Buy on Insmed, Raises Price Target to $195",
-          "resumen": "Truist Securities  analyst Danielle Brill   reiterates Insmed (NASDAQ:INSM) with a Buy and raises the price target from $185 to $195.",
-          "fuente": "Benzinga",
-          "fecha": "10 Aug 2026 13:53 UTC",
-          "url": "https://finnhub.io/api/news?id=f79769686819c6edc47c8e314a3836c2bffffb58a8cfb572918f2a5ace4d0f3f",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "$1000 Invested In Insmed 5 Years Ago Would Be Worth This Much Today",
-          "resumen": "Insmed (NASDAQ:INSM) has outperformed the market over the past 5 years by 29.76% on an annualized basis producing an average annual return of 41.43%. Currently, Insmed has a market capitalization of $28.82 billion.",
-          "fuente": "Benzinga",
-          "fecha": "10 Aug 2026 12:15 UTC",
-          "url": "https://finnhub.io/api/news?id=25cb58dab2fed18dcf70659c123eb075b810740532a2fd8e45b0587e439a7e2d",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_3.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "azul",
-      "total": 4
+      "total": 1
     }
   },
   "resumen": {
-    "total_noticias": 27,
-    "tickers_con_noticias": 13,
-    "alertas_urgentes": 5,
-    "sin_noticias": 4
+    "total_noticias": 21,
+    "tickers_con_noticias": 11,
+    "alertas_urgentes": 6,
+    "sin_noticias": 6
   },
   "todas_noticias": [
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex (VRTX) Q2 2026 Earnings Call Transcript",
-      "resumen": "Revenue hit $3.3 billion with guidance raised on strong newer product growth.",
-      "fuente": "Yahoo",
-      "fecha": "11 Aug 2026 01:29 UTC",
-      "url": "https://finnhub.io/api/news?id=25154402fb3d0f222a8033f7866218d6e3ae8c5b8861a9206afa0c14ca55b514",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "ALNY",
       "titulo": "Drugs that missed the mark in pharma’s last earnings round",
@@ -560,100 +474,16 @@
       "badge": "🔴"
     },
     {
-      "ticker": "ALNY",
-      "titulo": "$1000 Invested In Alnylam Pharmaceuticals 20 Years Ago Would Be Worth This Much Today",
-      "resumen": "Alnylam Pharmaceuticals (NASDAQ:ALNY) has outperformed the market over the past 20 years by 5.9% on an annualized basis producing an average annual return of 15.23%. Currently, Alnylam Pharmaceuticals has a market",
-      "fuente": "Benzinga",
-      "fecha": "10 Aug 2026 10:00 UTC",
-      "url": "https://finnhub.io/api/news?id=5a615abdc411ace29d30e1d748aef355d839fc4689f5759afc3dbdd38d4552f6",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_4.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "$1000 Invested In Insmed 5 Years Ago Would Be Worth This Much Today",
-      "resumen": "Insmed (NASDAQ:INSM) has outperformed the market over the past 5 years by 29.76% on an annualized basis producing an average annual return of 41.43%. Currently, Insmed has a market capitalization of $28.82 billion.",
-      "fuente": "Benzinga",
-      "fecha": "10 Aug 2026 12:15 UTC",
-      "url": "https://finnhub.io/api/news?id=25cb58dab2fed18dcf70659c123eb075b810740532a2fd8e45b0587e439a7e2d",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_3.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "Truist Securities Reiterates Buy on Insmed, Raises Price Target to $195",
-      "resumen": "Truist Securities  analyst Danielle Brill   reiterates Insmed (NASDAQ:INSM) with a Buy and raises the price target from $185 to $195.",
-      "fuente": "Benzinga",
-      "fecha": "10 Aug 2026 13:53 UTC",
-      "url": "https://finnhub.io/api/news?id=f79769686819c6edc47c8e314a3836c2bffffb58a8cfb572918f2a5ace4d0f3f",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "JP Morgan Maintains Overweight on Insmed, Lowers Price Target to $175",
-      "resumen": "JP Morgan  analyst Jessica Fye   maintains Insmed (NASDAQ:INSM) with a Overweight and lowers the price target from $179 to $175.",
-      "fuente": "Benzinga",
-      "fecha": "10 Aug 2026 14:53 UTC",
-      "url": "https://finnhub.io/api/news?id=b060d708734f3868c1619f8a5853906f91a32e0726a12e624092d882fa529fc7",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "Here’s How Much You Would Have Made Owning argenx Stock In The Last 5 Years",
-      "resumen": "argenx (NASDAQ:ARGX) has outperformed the market over the past 5 years by 11.1% on an annualized basis producing an average annual return of 22.73%. Currently, argenx has a market capitalization of $54.18 billion.",
-      "fuente": "Benzinga",
-      "fecha": "10 Aug 2026 16:45 UTC",
-      "url": "https://finnhub.io/api/news?id=ae6b7db0d483651fa208003222b4e9f2af85e4ac45c5304fc00e7505f2fd400e",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_1.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VERA",
-      "titulo": "Vera Therapeutics Q2 EPS $(1.52) Beats $(1.61) Estimate",
-      "resumen": "Vera Therapeutics (NASDAQ:VERA) reported quarterly losses of $(1.52) per share which beat the analyst consensus estimate of $(1.61) by 5.59 percent. This is a 26.67 percent decrease over losses of $(1.20) per share from",
-      "fuente": "Benzinga",
-      "fecha": "10 Aug 2026 17:06 UTC",
-      "url": "https://finnhub.io/api/news?id=ed9cf63948765a67fd05dc4d4023254b5ba1b53f423a30171616561b0e6a09f7",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "TARA",
-      "titulo": "Protara Therapeutics: Orphan Drug Indications Drive A Heavily Undervalued Pipeline",
-      "resumen": "Protara Therapeutics (TARA) buy thesis: $9.96 fair value vs ~$4, upside from TARA-002 & IV choline chloride, cash runway to 2028. Read here for more.",
+      "ticker": "DNLI",
+      "titulo": "Denali Therapeutics: AVLAYAH Converts A Platform Story Into A Commercial One",
+      "resumen": "Denali Therapeutics (DNLI) is transitioning from a neuroscience platform to a commercial biotech with AVLAYAH, its FDA-approved rare-disease therapy.",
       "fuente": "SeekingAlpha",
-      "fecha": "11 Aug 2026 02:15 UTC",
-      "url": "https://finnhub.io/api/news?id=1e363d070c432dda3afc9b9dea4dbeae38fd744e2de48276ee0d804fc767f7d2",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2210087580/image_2210087580.jpg?io=getty-c-w1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "TARA",
-      "titulo": "Protara Therapeutics Q2 EPS $(0.36) Misses $(0.33) Estimate",
-      "resumen": "Protara Therapeutics (NASDAQ:TARA) reported quarterly losses of $(0.36) per share which missed the analyst consensus estimate of $(0.33) by 9.09 percent. This is a 2.86 percent decrease over losses of $(0.35) per share",
-      "fuente": "Benzinga",
-      "fecha": "11 Aug 2026 08:07 UTC",
-      "url": "https://finnhub.io/api/news?id=6e66dba9384cd786bfb05c7accb829703e24de90c2ff99ebe71870388121adfa",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "fecha": "13 Aug 2026 12:13 UTC",
+      "url": "https://finnhub.io/api/news?id=7df2cac4cf0b10e91a92c09bb4f524aecb01baf876bf32b8fef79acef6b1513b",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2194222192/image_2194222192.jpg?io=getty-c-w1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "ALNY",
@@ -770,6 +600,30 @@
       "fuente": "Yahoo",
       "fecha": "12 Aug 2026 15:02 UTC",
       "url": "https://finnhub.io/api/news?id=53aa7945d94041f79fc3c71da1078689d1f51f26eefe2f5010464d79b2c6af29",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ACRV",
+      "titulo": "Acrivon Therapeutics Q2 EPS $(0.43) Beats $(0.50) Estimate",
+      "resumen": "Acrivon Therapeutics (NASDAQ:ACRV) reported quarterly losses of $(0.43) per share which beat the analyst consensus estimate of $(0.50) by 14 percent. This is a 21.82 percent increase over losses of $(0.55) per share",
+      "fuente": "Benzinga",
+      "fecha": "12 Aug 2026 16:23 UTC",
+      "url": "https://finnhub.io/api/news?id=cc9bb1d69330e35845fe509aaf929d8bbd78bce4652dfb94803daf9b41aa4dc1",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Inside Latigo Biotherapeutics’ IPO: A Non-Opioid Pain Bet Goes Public",
+      "resumen": "A California biotech just raised $350 million promising to out-perform opioids without the addiction risk, and its auditors were still warning about survival just months ago. Here is what the science and the filings actually show.",
+      "fuente": "Yahoo",
+      "fecha": "13 Aug 2026 13:35 UTC",
+      "url": "https://finnhub.io/api/news?id=f9ed0860d21fac5b45889bb5f7d101977f12066b6c9bab95f6a065bf9ebbfa7a",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",

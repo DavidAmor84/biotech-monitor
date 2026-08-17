@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 14/08/2026 08:15 | Período: últimos 7 días
-Desde: 2026-08-07 → Hasta: 2026-08-14
+Generado: 17/08/2026 07:52 | Período: últimos 7 días
+Desde: 2026-08-10 → Hasta: 2026-08-17
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 14 filings | 🔴 0 | 🟢 0 | 🟡 4 | 🔵 10 | ✅ 10 sin novedad
+RESUMEN: 20 filings | 🔴 0 | 🟢 0 | 🟡 4 | 🔵 16 | ✅ 11 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -13,25 +13,45 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [ARGX] Sin novedades
   ✅ [DYN] Sin novedades
 
-  🟡 [DNLI] Denali Therapeutics Inc. — 1 filing(s)
+  🟡 [DNLI] Denali Therapeutics Inc. — 2 filing(s)
+     🔵 INFO 4 | 2026-08-14 | Watts Ryan J. (Director / President and CEO) → Donación 32,220 acciones @ $0.00 | Post: 2,120,384 | Rutinaria/RSU/impuestos
+     Insider: Watts Ryan J. (Director / President and CEO) → Donación 32,220 acciones @ $0.00 | Post: 2,120,384 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1714899/000172431026000007/xslF345X06/wk-form4_1786740495.xml
      🟡 MEDIA 4 | 2026-08-13 | Schuth Alexander O. (COFO and Secretary) → Venta 2,857 acciones @ $25.07 | Post: 281,763 | Rutinaria/RSU/impuestos
      Insider: Schuth Alexander O. (COFO and Secretary) → Venta 2,857 acciones @ $25.07 | Post: 281,763 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1714899/000172431126000013/xslF345X06/wk-form4_1786654917.xml
-
-  🔵 [VKTX] Viking Therapeutics, Inc. — 1 filing(s)
-     🔵 INFO 4 | 2026-08-07 | Kelly-Gemmell Dorothy Elizabeth → Concesión 6,333 acciones @ $0.00 | Post: 6,333 | Rutinaria/RSU/impuestos
-     Insider: Kelly-Gemmell Dorothy Elizabeth → Concesión 6,333 acciones @ $0.00 | Post: 6,333 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1607678/000214454226000004/xslF345X06/ownership.xml
+  ✅ [VKTX] Sin novedades
   ✅ [VRTX] Sin novedades
   ✅ [ALNY] Sin novedades
   ✅ [BEAM] Sin novedades
   ✅ [OCUL] Sin novedades
-  ✅ [CAI] Sin novedades
 
-  🔵 [GPCR] Structure Therapeutics Inc. — 1 filing(s)
-     🔵 INFO 4 | 2026-08-07 | Berrios John Joseph (Chief Commercial Officer) → Concesión 140,766 acciones @ $0.00 | Post: 140,766 | Rutinaria/RSU/impuestos
-     Insider: Berrios John Joseph (Chief Commercial Officer) → Concesión 140,766 acciones @ $0.00 | Post: 140,766 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1888886/000214842026000006/xslF345X06/form4-08072026_080836.xml
+  🔵 [CAI] Caris Life Sciences, Inc. — 8 filing(s)
+     🔵 INFO 4 | 2026-08-14 | CASTLEMAN PETER M (Director) → Concesión 13,192 acciones @ $0.00 | Post: 29,321 | Rutinaria/RSU/impuestos
+     Insider: CASTLEMAN PETER M (Director) → Concesión 13,192 acciones @ $0.00 | Post: 29,321 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/2019410/000123959426000008/xslF345X06/wk-form4_1786743879.xml
+     🔵 INFO 4 | 2026-08-14 | PHILLIPS T DANNY (Director) → Concesión 13,192 acciones @ $0.00 | Post: 133,060 | Rutinaria/RSU/impuestos
+     Insider: PHILLIPS T DANNY (Director) → Concesión 13,192 acciones @ $0.00 | Post: 133,060 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/2019410/000123969026000005/xslF345X06/wk-form4_1786743801.xml
+     🔵 INFO 4 | 2026-08-14 | Minor Lloyd (Director) → Concesión 13,192 acciones @ $0.00 | Post: 31,813 | Rutinaria/RSU/impuestos
+     Insider: Minor Lloyd (Director) → Concesión 13,192 acciones @ $0.00 | Post: 31,813 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/2019410/000203868726000007/xslF345X06/wk-form4_1786743756.xml
+     🔵 INFO 4 | 2026-08-14 | Gilliam Joseph E (Director) → Concesión 13,192 acciones @ $0.00 | Post: 29,321 | Rutinaria/RSU/impuestos
+     Insider: Gilliam Joseph E (Director) → Concesión 13,192 acciones @ $0.00 | Post: 29,321 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/2019410/000170585026000025/xslF345X06/wk-form4_1786743716.xml
+     🔵 INFO 4 | 2026-08-14 | Fredrickson David Paul (Director) → Concesión 13,192 acciones @ $0.00 | Post: 31,813 | Rutinaria/RSU/impuestos
+     Insider: Fredrickson David Paul (Director) → Concesión 13,192 acciones @ $0.00 | Post: 31,813 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/2019410/000207194826000005/xslF345X06/wk-form4_1786743682.xml
+     🔵 INFO 4 | 2026-08-14 | Vacirca Jeff L (Director) → Concesión 13,192 acciones @ $0.00 | Post: 62,863 | Rutinaria/RSU/impuestos
+     Insider: Vacirca Jeff L (Director) → Concesión 13,192 acciones @ $0.00 | Post: 62,863 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/2019410/000172416126000008/xslF345X06/wk-form4_1786743631.xml
+     🔵 INFO 4 | 2026-08-14 | JOHANSEN LAURA I (Director) → Concesión 13,192 acciones @ $0.00 | Post: 343,897 | Rutinaria/RSU/impuestos
+     Insider: JOHANSEN LAURA I (Director) → Concesión 13,192 acciones @ $0.00 | Post: 343,897 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/2019410/000118939526000002/xslF345X06/wk-form4_1786743580.xml
+     🔵 INFO 4 | 2026-08-14 | HALBERT JON (Director) → Concesión 13,192 acciones @ $0.00 | Post: 131,813 | Rutinaria/RSU/impuestos
+     Insider: HALBERT JON (Director) → Concesión 13,192 acciones @ $0.00 | Post: 131,813 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/2019410/000118939426000008/xslF345X06/wk-form4_1786743533.xml
+  ✅ [GPCR] Sin novedades
   ✅ [ABVX] Sin novedades
 
   🟡 [VERA] Vera Therapeutics, Inc. — 5 filing(s)
@@ -65,13 +85,10 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026087506/ea0299236-8k_protara.htm
   ✅ [SENS] Sin novedades
 
-  🔵 [INSM] INSMED Inc — 2 filing(s)
+  🔵 [INSM] INSMED Inc — 1 filing(s)
      🔵 INFO 4 | 2026-08-12 | Adsett Roger (Chief Operating Officer) → Ejercicio opción 82,280 acciones @ $13.67 | Post: 181,024 | Rutinaria/RSU/impuestos
      Insider: Adsett Roger (Chief Operating Officer) → Ejercicio opción 82,280 acciones @ $13.67 | Post: 181,024 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1104506/000168590426000014/xslF345X06/wk-form4_1786568667.xml
-     🔵 INFO 4 | 2026-08-07 | Flammer Martina M.D. (Chief Medical Officer) → Ejercicio opción 18,278 acciones @ $18.95 | Post: 78,764 | Rutinaria/RSU/impuestos
-     Insider: Flammer Martina M.D. (Chief Medical Officer) → Ejercicio opción 18,278 acciones @ $18.95 | Post: 78,764 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1104506/000179696026000020/xslF345X06/wk-form4_1786135147.xml
   ⚪ [NWL] Sin CIK SEC
 
 ──────────────────────────────────────────────────
@@ -109,7 +126,7 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Reclutando activamente
        Enrollment: 150 pacientes
        Primary completion: 2028-07
-       Última actualización: 2026-07-31
+       Última actualización: 2026-08-14
        → https://clinicaltrials.gov/study/NCT07486934
 
   [VKTX]

@@ -1,33 +1,33 @@
 {
-  "generado": "14/08/2026 08:35 UTC",
+  "generado": "17/08/2026 07:58 UTC",
   "plazo_horas": 72,
-  "desde": "2026-08-11",
-  "hasta": "2026-08-14",
+  "desde": "2026-08-14",
+  "hasta": "2026-08-17",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
-      "noticias": [
-        {
-          "ticker": "SNDX",
-          "titulo": "JP Morgan Maintains Overweight on Syndax Pharmaceuticals, Lowers Price Target to $40",
-          "resumen": "JP Morgan  analyst Anupam Rama   maintains Syndax Pharmaceuticals (NASDAQ:SNDX) with a Overweight and lowers the price target from $44 to $40.",
-          "fuente": "Benzinga",
-          "fecha": "11 Aug 2026 10:48 UTC",
-          "url": "https://finnhub.io/api/news?id=ba0aea8667b511997779d406921fd8567d6acba5ee46fab9e11651e4e681a071",
-          "imagen": "",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 1
-    },
-    "ARGX": {
-      "nombre": "ARGX",
       "noticias": [],
       "nivel": "ok",
       "total": 0
+    },
+    "ARGX": {
+      "nombre": "ARGX",
+      "noticias": [
+        {
+          "ticker": "ARGX",
+          "titulo": "9 Health Care Stocks Whale Activity In Today’s Session",
+          "resumen": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
+          "fuente": "Benzinga",
+          "fecha": "14 Aug 2026 13:35 UTC",
+          "url": "https://finnhub.io/api/news?id=d589796c49ee8c58aad29f907397207bc3d2821e4436174cdabb2cfa8eb12a60",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "DYN": {
       "nombre": "DYN",
@@ -37,174 +37,57 @@
     },
     "DNLI": {
       "nombre": "DNLI",
-      "noticias": [
-        {
-          "ticker": "DNLI",
-          "titulo": "Denali Therapeutics: AVLAYAH Converts A Platform Story Into A Commercial One",
-          "resumen": "Denali Therapeutics (DNLI) is transitioning from a neuroscience platform to a commercial biotech with AVLAYAH, its FDA-approved rare-disease therapy.",
-          "fuente": "SeekingAlpha",
-          "fecha": "13 Aug 2026 12:13 UTC",
-          "url": "https://finnhub.io/api/news?id=7df2cac4cf0b10e91a92c09bb4f524aecb01baf876bf32b8fef79acef6b1513b",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2194222192/image_2194222192.jpg?io=getty-c-w1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "DNLI",
-          "titulo": "Denali Therapeutics (NASDAQ:DNLI) Shows Perfect Technical Setup for a Breakout",
-          "resumen": "Denali Therapeutics (DNLI): perfect technical & setup scores. Uptrend with tight consolidation. Breakout above $25.84, stop below $23.01.",
-          "fuente": "ChartMill",
-          "fecha": "12 Aug 2026 09:41 UTC",
-          "url": "https://finnhub.io/api/news?id=61f0e4d74ef81b468a29ad1751602eccaf7ac4547a102696b7edd9d2585685b9",
-          "imagen": "https://www.chartmill.com/images/uploads/CM_Breakout_Stocks_Small_free_bb09e243c7.webp",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 2
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "VKTX": {
       "nombre": "VKTX",
-      "noticias": [
-        {
-          "ticker": "VKTX",
-          "titulo": "JP Morgan Maintains Overweight on Viking Therapeutics, Lowers Price Target to $65",
-          "resumen": "JP Morgan  analyst Hardik Parikh   maintains Viking Therapeutics (NASDAQ:VKTX) with a Overweight and lowers the price target from $75 to $65.",
-          "fuente": "Benzinga",
-          "fecha": "11 Aug 2026 10:50 UTC",
-          "url": "https://finnhub.io/api/news?id=64d1b813adb7797d2d94bc1c60fa72d8ace8a9ecdb0d9bcd5e6d7d834748d392",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
         {
           "ticker": "VRTX",
-          "titulo": "Inside Latigo Biotherapeutics’ IPO: A Non-Opioid Pain Bet Goes Public",
-          "resumen": "A California biotech just raised $350 million promising to out-perform opioids without the addiction risk, and its auditors were still warning about survival just months ago. Here is what the science and the filings actually show.",
-          "fuente": "Yahoo",
-          "fecha": "13 Aug 2026 13:35 UTC",
-          "url": "https://finnhub.io/api/news?id=f9ed0860d21fac5b45889bb5f7d101977f12066b6c9bab95f6a065bf9ebbfa7a",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "titulo": "$100 Invested In Vertex Pharmaceuticals 20 Years Ago Would Be Worth This Much Today",
+          "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) has outperformed the market over the past 20 years by 5.35% on an annualized basis producing an average annual return of 14.69%. Currently, Vertex Pharmaceuticals has a market",
+          "fuente": "Benzinga",
+          "fecha": "14 Aug 2026 12:00 UTC",
+          "url": "https://finnhub.io/api/news?id=da70f751bbe83141d4f27ef4146624b19996919da2578c396c2740a8e6ab5c54",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_2.jpg?width=2048&height=1536",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         },
         {
           "ticker": "VRTX",
-          "titulo": "Vertex Has Multiple Portfolio Catalysts With Favorable Risk-Reward, RBC Says",
-          "resumen": "Vertex Pharmaceuticals (VRTX) has multiple potential catalysts coming from its portfolio that provid",
-          "fuente": "Yahoo",
-          "fecha": "12 Aug 2026 15:02 UTC",
-          "url": "https://finnhub.io/api/news?id=53aa7945d94041f79fc3c71da1078689d1f51f26eefe2f5010464d79b2c6af29",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "One Company’s Clinical Miss Is Another’s Moat: Vertex Rallies as Sionna’s CF Bet Collapses",
-          "resumen": "Cystic fibrosis investors came to learn a harsh lesson on August 10 about how concentrated a market can be: Sionna Therapeutics, Inc. (NASDAQ:SION) shares fell more than 90% following a key trial failure, while Vertex Pharmaceuticals (NASDAQ:VRTX), the company whose drug dominance Sionna was attempt",
-          "fuente": "Yahoo",
-          "fecha": "12 Aug 2026 03:41 UTC",
-          "url": "https://finnhub.io/api/news?id=94ae668ac83f9d0c31f3ea05ec0b9d4f8d9080150624d1764bb6bc404342d9d4",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "5 Insightful Analyst Questions From Vertex Pharmaceuticals’s Q2 Earnings Call",
-          "resumen": "Vertex Pharmaceuticals’ second quarter reflected strong commercial momentum, with management highlighting the performance of its cystic fibrosis (CF) portfolio and accelerating uptake of newer products like CASGEVY and JOURNAVX. CEO Reshma Kewalramani attributed revenue growth to “the strength of ou",
-          "fuente": "Yahoo",
-          "fecha": "12 Aug 2026 01:41 UTC",
-          "url": "https://finnhub.io/api/news?id=6e1eb33508d1e98d3f2908639df7e4bb95e526c95178197694a844bc74661f7f",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "4 Biotech Stocks With Major Second-Half Pipeline Catalysts This Year",
-          "resumen": "Vertex Pharmaceuticals, Amylyx Pharmaceuticals, Praxis Precision Medicines and BridgeBio Pharma face major 2026 catalysts, from FDA decisions to late-stage readouts.",
-          "fuente": "Yahoo",
-          "fecha": "11 Aug 2026 14:01 UTC",
-          "url": "https://finnhub.io/api/news?id=3df760a6590509c410b1316b0c369b2cdec8dbbe87802b2bd472f31783084fc2",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "titulo": "Vertex Pharmaceuticals: I Was Wrong About Its Near-Term Prospects (Rating Upgrade)",
+          "resumen": "Vertex Pharmaceuticals' revenue from its cystic fibrosis franchise grew 10% quarter-on-quarter. Click here to see why VRTX stock is a Buy.",
+          "fuente": "SeekingAlpha",
+          "fecha": "14 Aug 2026 09:40 UTC",
+          "url": "https://finnhub.io/api/news?id=c3f0aff57d50e4a1dd7a3be345d26477178a91b70e18cd1e6169d1e527dc0954",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2203426973/image_2203426973.jpg?io=getty-c-w1536",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 5
+      "total": 2
     },
     "ALNY": {
       "nombre": "ALNY",
       "noticias": [
         {
           "ticker": "ALNY",
-          "titulo": "Raymond James Is Betting Big on These 2 ‘Strong Buy’ Stocks",
-          "resumen": "The S&P 500 is now sitting just below its record high, with another strong earnings season helping stocks remain near their highs. The strength has not been limited to just a handful of companies either, with most S&P 500 sectors contributing to earnings growth during the current reporting season.Cl",
-          "fuente": "Yahoo",
-          "fecha": "11 Aug 2026 17:55 UTC",
-          "url": "https://finnhub.io/api/news?id=a85b4c384f1810309d2634f133f4f88214fa8b1d990049e4075aca2f4edbb808",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Drugs that missed the mark in pharma’s last earnings round",
-          "resumen": "Why treatments from Alnylam, Merck, AbbVie and Roche stumbled in the last quarter.",
-          "fuente": "Yahoo",
-          "fecha": "11 Aug 2026 10:21 UTC",
-          "url": "https://finnhub.io/api/news?id=16291b1656578f2527c653e83361ffc5f25e5c5a92d9231961d4208e753ad851",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "American Century Focused Dynamic Growth Fund Q2 2026 Portfolio Review",
-          "resumen": "U.S. equities posted double-digit quarterly gains despite volatility stemming from the Iran conflict. Read more here.",
-          "fuente": "SeekingAlpha",
-          "fecha": "11 Aug 2026 09:30 UTC",
-          "url": "https://finnhub.io/api/news?id=41a082b7d0aa667533f2bd4bf66269cd06c65559dacd538bfd979a529a3b8155",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2288287120/image_2288287120.jpg?io=getty-c-w1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 3
-    },
-    "BEAM": {
-      "nombre": "BEAM",
-      "noticias": [
-        {
-          "ticker": "BEAM",
-          "titulo": "Prime Medicine: An Initial Prognosis",
-          "resumen": "",
-          "fuente": "SeekingAlpha",
-          "fecha": "11 Aug 2026 18:06 UTC",
-          "url": "https://finnhub.io/api/news?id=cfa52dd95c0e0956dc23a7fd90a5ebbd1fcc8aa7a3a64b6149e6d03d18b66535",
+          "titulo": "Wells Fargo Maintains Equal-Weight on Alnylam Pharmaceuticals, Lowers Price Target to $256",
+          "resumen": "Wells Fargo  analyst Derek Archila   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Equal-Weight and lowers the price target from $316 to $256.",
+          "fuente": "Benzinga",
+          "fecha": "14 Aug 2026 10:43 UTC",
+          "url": "https://finnhub.io/api/news?id=edfca361941225cc4f5a494e1e8a49030c822aad7cdba19f850079b97cbe3cb3",
           "imagen": "",
           "urgente": false,
           "nivel": "azul",
@@ -213,6 +96,12 @@
       ],
       "nivel": "azul",
       "total": 1
+    },
+    "BEAM": {
+      "nombre": "BEAM",
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "OCUL": {
       "nombre": "OCUL",
@@ -222,22 +111,9 @@
     },
     "CAI": {
       "nombre": "CAI",
-      "noticias": [
-        {
-          "ticker": "CAI",
-          "titulo": "Caris Life Sciences, Inc. 2026 Q2 - Results - Earnings Call Presentation",
-          "resumen": "2026-08-11. The following slide deck was published by Caris Life Sciences, Inc.",
-          "fuente": "SeekingAlpha",
-          "fecha": "11 Aug 2026 19:05 UTC",
-          "url": "https://finnhub.io/api/news?id=8cdcb409c79d2de7fbb41f5189926efae4739212f28064cba8c2cbcb05d4725b",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "GPCR": {
       "nombre": "GPCR",
@@ -247,96 +123,34 @@
     },
     "ABVX": {
       "nombre": "ABVX",
-      "noticias": [
-        {
-          "ticker": "ABVX",
-          "titulo": "10 Health Care Stocks With Whale Alerts In Today’s Session",
-          "resumen": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders will",
-          "fuente": "Benzinga",
-          "fecha": "12 Aug 2026 13:35 UTC",
-          "url": "https://finnhub.io/api/news?id=e239e42b732188ca7b851e111a440215ab9cdc197a501d0d5abc0d3274a14b74",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ABVX",
-          "titulo": "ABIVAX (NASDAQ:ABVX) Flashes Strong Technical Rating and Breakout Setup",
-          "resumen": "ABVX shows a strong breakout setup with 9/10 technical and setup ratings, consolidating near resistance. High relative strength and clear entry/stop levels make it one to watch.",
-          "fuente": "ChartMill",
-          "fecha": "11 Aug 2026 11:10 UTC",
-          "url": "https://finnhub.io/api/news?id=c63e04f6994f042f1cbb9a3d08eed45129e5d85da8da9f544d85cab92a557bac",
-          "imagen": "https://www.chartmill.com/images/uploads/CM_Breakout_Stocks_Small_free_bb09e243c7.webp",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 2
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "VERA": {
       "nombre": "VERA",
       "noticias": [
         {
           "ticker": "VERA",
-          "titulo": "HC Wainwright & Co. Maintains Buy on Vera Therapeutics, Lowers Price Target to $90",
-          "resumen": "HC Wainwright &amp; Co.  analyst Arthur He   maintains Vera Therapeutics (NASDAQ:VERA) with a Buy and lowers the price target from $125 to $90.",
+          "titulo": "Heartflow, Eton Pharmaceuticals, Nu Holdings And Other Big Stocks Moving Higher On Friday",
+          "resumen": "U.S. stocks up, Dow Jones 0.1% higher. HeartFlow (HTFL) shares rise 26.5% on better-than-expected earnings. Other big gains include ETON, VALN, IMXI.",
           "fuente": "Benzinga",
-          "fecha": "12 Aug 2026 07:33 UTC",
-          "url": "https://finnhub.io/api/news?id=90f6b746b462b0953a3c7ff24c9ff896757b89b413ab1d3b6706e7b401dac47a",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VERA",
-          "titulo": "Wedbush Maintains Neutral on Vera Therapeutics, Lowers Price Target to $34",
-          "resumen": "Wedbush  analyst Laura Chico   maintains Vera Therapeutics (NASDAQ:VERA) with a Neutral and lowers the price target from $43 to $34.",
-          "fuente": "Benzinga",
-          "fecha": "11 Aug 2026 09:39 UTC",
-          "url": "https://finnhub.io/api/news?id=7c65034a67b55915101de5da1a129362c0350bafce2534b97e6140a2487218a2",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 2
-    },
-    "ACRV": {
-      "nombre": "ACRV",
-      "noticias": [
-        {
-          "ticker": "ACRV",
-          "titulo": "Acrivon Reports Second Quarter 2026 Financial Results and Highlights Upcoming 2026 Clinical Data Catalysts",
-          "resumen": "ACR-368 Phase 2b prespecified interim analysis and data from all-comer serous endometrial cancer (EC) treatment arms on track for second half of 2026 ACR-2316 Phase 1/2 trial in AP3-prioritized tumor types advancing in randomized dose expansion phase supported by a promising, favorable safety profil",
-          "fuente": "Yahoo",
-          "fecha": "12 Aug 2026 20:05 UTC",
-          "url": "https://finnhub.io/api/news?id=90116553e0cb148274ac5fbfc205155266439044649ea467d6f69c1db549fcc3",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "fecha": "14 Aug 2026 09:55 UTC",
+          "url": "https://finnhub.io/api/news?id=f68f1b067a89d534a0c3336dc0e93f95744123008a74ecffd566b125bd77a791",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/14/Display-Of-Stock-Market-Quotes.jpg?width=2048&height=1536",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "ACRV",
-          "titulo": "Acrivon Therapeutics Q2 EPS $(0.43) Beats $(0.50) Estimate",
-          "resumen": "Acrivon Therapeutics (NASDAQ:ACRV) reported quarterly losses of $(0.43) per share which beat the analyst consensus estimate of $(0.50) by 14 percent. This is a 21.82 percent increase over losses of $(0.55) per share",
-          "fuente": "Benzinga",
-          "fecha": "12 Aug 2026 16:23 UTC",
-          "url": "https://finnhub.io/api/news?id=cc9bb1d69330e35845fe509aaf929d8bbd78bce4652dfb94803daf9b41aa4dc1",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 1
+    },
+    "ACRV": {
+      "nombre": "ACRV",
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "TARA": {
       "nombre": "TARA",
@@ -346,285 +160,105 @@
     },
     "SENS": {
       "nombre": "SENS",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "SENS",
+          "titulo": "Jim Cramer Says Buy Carpenter Technology, Calls This IT Services Stock a 'Value Trap'",
+          "resumen": "Cramer recommends buying Carpenter Technology (NYSE: CRS) and calls DXC Technology (NYSE: DXC) a value trap. Senseonics Holdings (NASDAQ: SENS) posts upbeat sales and Ubiquiti (NYSE: UI) reports worse-than-expected results. Hess Midstream (NYSE: HESM) is a winner while Zeta Global (NYSE: ZETA) annou",
+          "fuente": "Benzinga",
+          "fecha": "14 Aug 2026 08:34 UTC",
+          "url": "https://finnhub.io/api/news?id=16a2dce3b4e93e7d597411954452f1f1055afcf3d471838870da10aeac640cbe",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/14/Jim-Cramer--AI-Is-Bigger-Than-Rate-Cuts.jpg?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "INSM": {
       "nombre": "INSM",
-      "noticias": [
-        {
-          "ticker": "INSM",
-          "titulo": "American Century Focused Dynamic Growth Fund Q2 2026 Portfolio Review",
-          "resumen": "U.S. equities posted double-digit quarterly gains despite volatility stemming from the Iran conflict. Read more here.",
-          "fuente": "SeekingAlpha",
-          "fecha": "11 Aug 2026 09:30 UTC",
-          "url": "https://finnhub.io/api/news?id=41a082b7d0aa667533f2bd4bf66269cd06c65559dacd538bfd979a529a3b8155",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2288287120/image_2288287120.jpg?io=getty-c-w1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     }
   },
   "resumen": {
-    "total_noticias": 21,
-    "tickers_con_noticias": 11,
-    "alertas_urgentes": 6,
-    "sin_noticias": 6
+    "total_noticias": 6,
+    "tickers_con_noticias": 5,
+    "alertas_urgentes": 3,
+    "sin_noticias": 12
   },
   "todas_noticias": [
     {
-      "ticker": "ALNY",
-      "titulo": "Drugs that missed the mark in pharma’s last earnings round",
-      "resumen": "Why treatments from Alnylam, Merck, AbbVie and Roche stumbled in the last quarter.",
-      "fuente": "Yahoo",
-      "fecha": "11 Aug 2026 10:21 UTC",
-      "url": "https://finnhub.io/api/news?id=16291b1656578f2527c653e83361ffc5f25e5c5a92d9231961d4208e753ad851",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "SNDX",
-      "titulo": "JP Morgan Maintains Overweight on Syndax Pharmaceuticals, Lowers Price Target to $40",
-      "resumen": "JP Morgan  analyst Anupam Rama   maintains Syndax Pharmaceuticals (NASDAQ:SNDX) with a Overweight and lowers the price target from $44 to $40.",
+      "ticker": "SENS",
+      "titulo": "Jim Cramer Says Buy Carpenter Technology, Calls This IT Services Stock a 'Value Trap'",
+      "resumen": "Cramer recommends buying Carpenter Technology (NYSE: CRS) and calls DXC Technology (NYSE: DXC) a value trap. Senseonics Holdings (NASDAQ: SENS) posts upbeat sales and Ubiquiti (NYSE: UI) reports worse-than-expected results. Hess Midstream (NYSE: HESM) is a winner while Zeta Global (NYSE: ZETA) annou",
       "fuente": "Benzinga",
-      "fecha": "11 Aug 2026 10:48 UTC",
-      "url": "https://finnhub.io/api/news?id=ba0aea8667b511997779d406921fd8567d6acba5ee46fab9e11651e4e681a071",
-      "imagen": "",
+      "fecha": "14 Aug 2026 08:34 UTC",
+      "url": "https://finnhub.io/api/news?id=16a2dce3b4e93e7d597411954452f1f1055afcf3d471838870da10aeac640cbe",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/14/Jim-Cramer--AI-Is-Bigger-Than-Rate-Cuts.jpg?width=2048&height=1536",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
     },
     {
       "ticker": "VRTX",
-      "titulo": "4 Biotech Stocks With Major Second-Half Pipeline Catalysts This Year",
-      "resumen": "Vertex Pharmaceuticals, Amylyx Pharmaceuticals, Praxis Precision Medicines and BridgeBio Pharma face major 2026 catalysts, from FDA decisions to late-stage readouts.",
-      "fuente": "Yahoo",
-      "fecha": "11 Aug 2026 14:01 UTC",
-      "url": "https://finnhub.io/api/news?id=3df760a6590509c410b1316b0c369b2cdec8dbbe87802b2bd472f31783084fc2",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Raymond James Is Betting Big on These 2 ‘Strong Buy’ Stocks",
-      "resumen": "The S&P 500 is now sitting just below its record high, with another strong earnings season helping stocks remain near their highs. The strength has not been limited to just a handful of companies either, with most S&P 500 sectors contributing to earnings growth during the current reporting season.Cl",
-      "fuente": "Yahoo",
-      "fecha": "11 Aug 2026 17:55 UTC",
-      "url": "https://finnhub.io/api/news?id=a85b4c384f1810309d2634f133f4f88214fa8b1d990049e4075aca2f4edbb808",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "CAI",
-      "titulo": "Caris Life Sciences, Inc. 2026 Q2 - Results - Earnings Call Presentation",
-      "resumen": "2026-08-11. The following slide deck was published by Caris Life Sciences, Inc.",
+      "titulo": "Vertex Pharmaceuticals: I Was Wrong About Its Near-Term Prospects (Rating Upgrade)",
+      "resumen": "Vertex Pharmaceuticals' revenue from its cystic fibrosis franchise grew 10% quarter-on-quarter. Click here to see why VRTX stock is a Buy.",
       "fuente": "SeekingAlpha",
-      "fecha": "11 Aug 2026 19:05 UTC",
-      "url": "https://finnhub.io/api/news?id=8cdcb409c79d2de7fbb41f5189926efae4739212f28064cba8c2cbcb05d4725b",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "fecha": "14 Aug 2026 09:40 UTC",
+      "url": "https://finnhub.io/api/news?id=c3f0aff57d50e4a1dd7a3be345d26477178a91b70e18cd1e6169d1e527dc0954",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2203426973/image_2203426973.jpg?io=getty-c-w1536",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "5 Insightful Analyst Questions From Vertex Pharmaceuticals’s Q2 Earnings Call",
-      "resumen": "Vertex Pharmaceuticals’ second quarter reflected strong commercial momentum, with management highlighting the performance of its cystic fibrosis (CF) portfolio and accelerating uptake of newer products like CASGEVY and JOURNAVX. CEO Reshma Kewalramani attributed revenue growth to “the strength of ou",
-      "fuente": "Yahoo",
-      "fecha": "12 Aug 2026 01:41 UTC",
-      "url": "https://finnhub.io/api/news?id=6e1eb33508d1e98d3f2908639df7e4bb95e526c95178197694a844bc74661f7f",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "One Company’s Clinical Miss Is Another’s Moat: Vertex Rallies as Sionna’s CF Bet Collapses",
-      "resumen": "Cystic fibrosis investors came to learn a harsh lesson on August 10 about how concentrated a market can be: Sionna Therapeutics, Inc. (NASDAQ:SION) shares fell more than 90% following a key trial failure, while Vertex Pharmaceuticals (NASDAQ:VRTX), the company whose drug dominance Sionna was attempt",
-      "fuente": "Yahoo",
-      "fecha": "12 Aug 2026 03:41 UTC",
-      "url": "https://finnhub.io/api/news?id=94ae668ac83f9d0c31f3ea05ec0b9d4f8d9080150624d1764bb6bc404342d9d4",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ACRV",
-      "titulo": "Acrivon Reports Second Quarter 2026 Financial Results and Highlights Upcoming 2026 Clinical Data Catalysts",
-      "resumen": "ACR-368 Phase 2b prespecified interim analysis and data from all-comer serous endometrial cancer (EC) treatment arms on track for second half of 2026 ACR-2316 Phase 1/2 trial in AP3-prioritized tumor types advancing in randomized dose expansion phase supported by a promising, favorable safety profil",
-      "fuente": "Yahoo",
-      "fecha": "12 Aug 2026 20:05 UTC",
-      "url": "https://finnhub.io/api/news?id=90116553e0cb148274ac5fbfc205155266439044649ea467d6f69c1db549fcc3",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "DNLI",
-      "titulo": "Denali Therapeutics: AVLAYAH Converts A Platform Story Into A Commercial One",
-      "resumen": "Denali Therapeutics (DNLI) is transitioning from a neuroscience platform to a commercial biotech with AVLAYAH, its FDA-approved rare-disease therapy.",
-      "fuente": "SeekingAlpha",
-      "fecha": "13 Aug 2026 12:13 UTC",
-      "url": "https://finnhub.io/api/news?id=7df2cac4cf0b10e91a92c09bb4f524aecb01baf876bf32b8fef79acef6b1513b",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2194222192/image_2194222192.jpg?io=getty-c-w1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "American Century Focused Dynamic Growth Fund Q2 2026 Portfolio Review",
-      "resumen": "U.S. equities posted double-digit quarterly gains despite volatility stemming from the Iran conflict. Read more here.",
-      "fuente": "SeekingAlpha",
-      "fecha": "11 Aug 2026 09:30 UTC",
-      "url": "https://finnhub.io/api/news?id=41a082b7d0aa667533f2bd4bf66269cd06c65559dacd538bfd979a529a3b8155",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2288287120/image_2288287120.jpg?io=getty-c-w1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "American Century Focused Dynamic Growth Fund Q2 2026 Portfolio Review",
-      "resumen": "U.S. equities posted double-digit quarterly gains despite volatility stemming from the Iran conflict. Read more here.",
-      "fuente": "SeekingAlpha",
-      "fecha": "11 Aug 2026 09:30 UTC",
-      "url": "https://finnhub.io/api/news?id=41a082b7d0aa667533f2bd4bf66269cd06c65559dacd538bfd979a529a3b8155",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2288287120/image_2288287120.jpg?io=getty-c-w1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
     },
     {
       "ticker": "VERA",
-      "titulo": "Wedbush Maintains Neutral on Vera Therapeutics, Lowers Price Target to $34",
-      "resumen": "Wedbush  analyst Laura Chico   maintains Vera Therapeutics (NASDAQ:VERA) with a Neutral and lowers the price target from $43 to $34.",
+      "titulo": "Heartflow, Eton Pharmaceuticals, Nu Holdings And Other Big Stocks Moving Higher On Friday",
+      "resumen": "U.S. stocks up, Dow Jones 0.1% higher. HeartFlow (HTFL) shares rise 26.5% on better-than-expected earnings. Other big gains include ETON, VALN, IMXI.",
       "fuente": "Benzinga",
-      "fecha": "11 Aug 2026 09:39 UTC",
-      "url": "https://finnhub.io/api/news?id=7c65034a67b55915101de5da1a129362c0350bafce2534b97e6140a2487218a2",
+      "fecha": "14 Aug 2026 09:55 UTC",
+      "url": "https://finnhub.io/api/news?id=f68f1b067a89d534a0c3336dc0e93f95744123008a74ecffd566b125bd77a791",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/14/Display-Of-Stock-Market-Quotes.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Wells Fargo Maintains Equal-Weight on Alnylam Pharmaceuticals, Lowers Price Target to $256",
+      "resumen": "Wells Fargo  analyst Derek Archila   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Equal-Weight and lowers the price target from $316 to $256.",
+      "fuente": "Benzinga",
+      "fecha": "14 Aug 2026 10:43 UTC",
+      "url": "https://finnhub.io/api/news?id=edfca361941225cc4f5a494e1e8a49030c822aad7cdba19f850079b97cbe3cb3",
       "imagen": "",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
     },
     {
-      "ticker": "VKTX",
-      "titulo": "JP Morgan Maintains Overweight on Viking Therapeutics, Lowers Price Target to $65",
-      "resumen": "JP Morgan  analyst Hardik Parikh   maintains Viking Therapeutics (NASDAQ:VKTX) with a Overweight and lowers the price target from $75 to $65.",
+      "ticker": "VRTX",
+      "titulo": "$100 Invested In Vertex Pharmaceuticals 20 Years Ago Would Be Worth This Much Today",
+      "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) has outperformed the market over the past 20 years by 5.35% on an annualized basis producing an average annual return of 14.69%. Currently, Vertex Pharmaceuticals has a market",
       "fuente": "Benzinga",
-      "fecha": "11 Aug 2026 10:50 UTC",
-      "url": "https://finnhub.io/api/news?id=64d1b813adb7797d2d94bc1c60fa72d8ace8a9ecdb0d9bcd5e6d7d834748d392",
-      "imagen": "",
+      "fecha": "14 Aug 2026 12:00 UTC",
+      "url": "https://finnhub.io/api/news?id=da70f751bbe83141d4f27ef4146624b19996919da2578c396c2740a8e6ab5c54",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_2.jpg?width=2048&height=1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
     },
     {
-      "ticker": "ABVX",
-      "titulo": "ABIVAX (NASDAQ:ABVX) Flashes Strong Technical Rating and Breakout Setup",
-      "resumen": "ABVX shows a strong breakout setup with 9/10 technical and setup ratings, consolidating near resistance. High relative strength and clear entry/stop levels make it one to watch.",
-      "fuente": "ChartMill",
-      "fecha": "11 Aug 2026 11:10 UTC",
-      "url": "https://finnhub.io/api/news?id=c63e04f6994f042f1cbb9a3d08eed45129e5d85da8da9f544d85cab92a557bac",
-      "imagen": "https://www.chartmill.com/images/uploads/CM_Breakout_Stocks_Small_free_bb09e243c7.webp",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "BEAM",
-      "titulo": "Prime Medicine: An Initial Prognosis",
-      "resumen": "",
-      "fuente": "SeekingAlpha",
-      "fecha": "11 Aug 2026 18:06 UTC",
-      "url": "https://finnhub.io/api/news?id=cfa52dd95c0e0956dc23a7fd90a5ebbd1fcc8aa7a3a64b6149e6d03d18b66535",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VERA",
-      "titulo": "HC Wainwright & Co. Maintains Buy on Vera Therapeutics, Lowers Price Target to $90",
-      "resumen": "HC Wainwright &amp; Co.  analyst Arthur He   maintains Vera Therapeutics (NASDAQ:VERA) with a Buy and lowers the price target from $125 to $90.",
+      "ticker": "ARGX",
+      "titulo": "9 Health Care Stocks Whale Activity In Today’s Session",
+      "resumen": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
       "fuente": "Benzinga",
-      "fecha": "12 Aug 2026 07:33 UTC",
-      "url": "https://finnhub.io/api/news?id=90f6b746b462b0953a3c7ff24c9ff896757b89b413ab1d3b6706e7b401dac47a",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "DNLI",
-      "titulo": "Denali Therapeutics (NASDAQ:DNLI) Shows Perfect Technical Setup for a Breakout",
-      "resumen": "Denali Therapeutics (DNLI): perfect technical & setup scores. Uptrend with tight consolidation. Breakout above $25.84, stop below $23.01.",
-      "fuente": "ChartMill",
-      "fecha": "12 Aug 2026 09:41 UTC",
-      "url": "https://finnhub.io/api/news?id=61f0e4d74ef81b468a29ad1751602eccaf7ac4547a102696b7edd9d2585685b9",
-      "imagen": "https://www.chartmill.com/images/uploads/CM_Breakout_Stocks_Small_free_bb09e243c7.webp",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ABVX",
-      "titulo": "10 Health Care Stocks With Whale Alerts In Today’s Session",
-      "resumen": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders will",
-      "fuente": "Benzinga",
-      "fecha": "12 Aug 2026 13:35 UTC",
-      "url": "https://finnhub.io/api/news?id=e239e42b732188ca7b851e111a440215ab9cdc197a501d0d5abc0d3274a14b74",
+      "fecha": "14 Aug 2026 13:35 UTC",
+      "url": "https://finnhub.io/api/news?id=d589796c49ee8c58aad29f907397207bc3d2821e4436174cdabb2cfa8eb12a60",
       "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex Has Multiple Portfolio Catalysts With Favorable Risk-Reward, RBC Says",
-      "resumen": "Vertex Pharmaceuticals (VRTX) has multiple potential catalysts coming from its portfolio that provid",
-      "fuente": "Yahoo",
-      "fecha": "12 Aug 2026 15:02 UTC",
-      "url": "https://finnhub.io/api/news?id=53aa7945d94041f79fc3c71da1078689d1f51f26eefe2f5010464d79b2c6af29",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ACRV",
-      "titulo": "Acrivon Therapeutics Q2 EPS $(0.43) Beats $(0.50) Estimate",
-      "resumen": "Acrivon Therapeutics (NASDAQ:ACRV) reported quarterly losses of $(0.43) per share which beat the analyst consensus estimate of $(0.50) by 14 percent. This is a 21.82 percent increase over losses of $(0.55) per share",
-      "fuente": "Benzinga",
-      "fecha": "12 Aug 2026 16:23 UTC",
-      "url": "https://finnhub.io/api/news?id=cc9bb1d69330e35845fe509aaf929d8bbd78bce4652dfb94803daf9b41aa4dc1",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Inside Latigo Biotherapeutics’ IPO: A Non-Opioid Pain Bet Goes Public",
-      "resumen": "A California biotech just raised $350 million promising to out-perform opioids without the addiction risk, and its auditors were still warning about survival just months ago. Here is what the science and the filings actually show.",
-      "fuente": "Yahoo",
-      "fecha": "13 Aug 2026 13:35 UTC",
-      "url": "https://finnhub.io/api/news?id=f9ed0860d21fac5b45889bb5f7d101977f12066b6c9bab95f6a065bf9ebbfa7a",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

@@ -1,6 +1,6 @@
 ====================================================================================
 CLINICALTRIALS MONITOR v9.3 · Modelo Biotech
-Generado: 14/08/2026 09:34
+Generado: 17/08/2026 09:08
 ====================================================================================
 RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 0 | 🔵 29 | Errores API: 0
 
@@ -89,7 +89,7 @@ DETALLE POR EMPRESA
      Enrollment: 150
      Primary completion: 2028-07 ESTIMATED
      Study completion: 2029-01 ESTIMATED
-     Last update posted: 2026-07-31
+     Last update posted: 2026-08-14
      → https://clinicaltrials.gov/study/NCT07486934
 
 🟢 [VKTX] · Score relevancia: 29
@@ -165,7 +165,7 @@ DETALLE POR EMPRESA
      Enrollment: 1750
      Primary completion: 2030-05-28 ESTIMATED
      Study completion: 2032-11-30 ESTIMATED
-     Last update posted: 2026-07-23
+     Last update posted: 2026-08-14
      → https://clinicaltrials.gov/study/NCT07052903
   🔵 ⭐⭐ ZENITH Ph3 CVOT — zilebesiran — hipertensión | Prioridad: media | Validación: OK
      NCT: NCT07181109 | Status: Reclutando | Tipo: cvot
@@ -185,7 +185,7 @@ DETALLE POR EMPRESA
      Enrollment: 125
      Primary completion: 2027-12-27 ESTIMATED
      Study completion: 2031-06-12 ESTIMATED
-     Last update posted: 2026-07-23
+     Last update posted: 2026-08-14
      → https://clinicaltrials.gov/study/NCT07223203
   🔵 ⭐⭐ cAPPricorn-1 Ph2 — mivelsiran — CAA | Prioridad: media | Validación: OK
      NCT: NCT06393712 | Status: Reclutando | Tipo: phase2

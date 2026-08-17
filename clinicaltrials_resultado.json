@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "14/08/2026 09:34",
-  "fecha": "2026-08-14",
+  "generado": "17/08/2026 09:08",
+  "fecha": "2026-08-17",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -156,7 +156,7 @@
           "study_completion_date": "2029-01",
           "study_completion_type": "ESTIMATED",
           "start_date": "2026-05-14",
-          "last_update_posted": "2026-07-31",
+          "last_update_posted": "2026-08-14",
           "conditions": [
             "Myotonic Dystrophy Type 1 (DM1)",
             "DM1",
@@ -198,7 +198,14 @@
           "ventana": "2028",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-07-31 → 2026-08-14"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1802,7 +1809,7 @@
           "study_completion_date": "2032-11-30",
           "study_completion_type": "ESTIMATED",
           "start_date": "2025-07-02",
-          "last_update_posted": "2026-07-23",
+          "last_update_posted": "2026-08-14",
           "conditions": [
             "Transthyretin Amyloidosis With Cardiomyopathy"
           ],
@@ -1840,7 +1847,14 @@
           "ventana": "2030",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-07-23 → 2026-08-14"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1863,7 +1877,7 @@
           "study_completion_date": "2031-06-12",
           "study_completion_type": "ESTIMATED",
           "start_date": "2025-12-12",
-          "last_update_posted": "2026-07-23",
+          "last_update_posted": "2026-08-14",
           "conditions": [
             "Hereditary Transthyretin-Mediated Amyloidosis With Polyneuropathy",
             "hATTR-PN"
@@ -1902,7 +1916,14 @@
           "ventana": "2027-2031",
           "monitorizar": true,
           "peso_importancia": 7,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-07-23 → 2026-08-14"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2286,7 +2307,14 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-07-31 → 2026-08-14"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT07486934"
     },
     {
@@ -2686,8 +2714,42 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-07-23 → 2026-08-14"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT07052903"
+    },
+    {
+      "ticker": "ALNY",
+      "nct": "NCT07223203",
+      "nombre": "TRITON-PN Ph3 — nucresiran — hATTR-PN",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "RECRUITING",
+      "primary_completion_date": "2027-12-27",
+      "mensaje": "Reclutando",
+      "prioridad": "media",
+      "estrellas": "⭐⭐",
+      "tipo": "pivotal",
+      "catalizador": "hATTR-PN Phase 3",
+      "ventana": "2027-2031",
+      "peso_importancia": 7,
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-07-23 → 2026-08-14"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07223203"
     },
     {
       "ticker": "VRTX",

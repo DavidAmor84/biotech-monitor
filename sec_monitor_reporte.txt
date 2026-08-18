@@ -1,17 +1,33 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 17/08/2026 07:52 | Período: últimos 7 días
-Desde: 2026-08-10 → Hasta: 2026-08-17
+Generado: 18/08/2026 07:37 | Período: últimos 7 días
+Desde: 2026-08-11 → Hasta: 2026-08-18
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 20 filings | 🔴 0 | 🟢 0 | 🟡 4 | 🔵 16 | ✅ 11 sin novedad
+RESUMEN: 23 filings | 🔴 0 | 🟢 0 | 🟡 8 | 🔵 15 | ✅ 10 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
 ──────────────────────────────────────────────────
   ✅ [SNDX] Sin novedades
   ✅ [ARGX] Sin novedades
-  ✅ [DYN] Sin novedades
+
+  🟡 [DYN] Dyne Therapeutics, Inc. — 5 filing(s)
+     🟡 MEDIA 4 | 2026-08-17 | Rhodes Jason P → Venta 268,354 acciones @ $26.20 | Post: 3,801,128 | Rutinaria/RSU/impuestos
+     Insider: Rhodes Jason P → Venta 268,354 acciones @ $26.20 | Post: 3,801,128 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1818794/000157701426000016/xslF345X06/form4-08172026_050803.xml
+     🟡 MEDIA 4 | 2026-08-17 | Friedl-Naderer Johanna (Chief Commercial Officer) → Venta 226 acciones @ $26.28 | Post: 153,982 | Rutinaria/RSU/impuestos
+     Insider: Friedl-Naderer Johanna (Chief Commercial Officer) → Venta 226 acciones @ $26.28 | Post: 153,982 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1818794/000191559826000004/xslF345X06/ownership.xml
+     🟡 MEDIA 4 | 2026-08-17 | Kerr Douglas (Chief Medical Officer) → Venta 1,556 acciones @ $26.28 | Post: 167,599 | Rutinaria/RSU/impuestos
+     Insider: Kerr Douglas (Chief Medical Officer) → Venta 1,556 acciones @ $26.28 | Post: 167,599 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1818794/000181418926000004/xslF345X06/ownership.xml
+     🟡 MEDIA 4 | 2026-08-17 | Cox John (CEO & President) → Venta 4,986 acciones @ $26.28 | Post: 363,165 | Rutinaria/RSU/impuestos
+     Insider: Cox John (CEO & President) → Venta 4,986 acciones @ $26.28 | Post: 363,165 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1818794/000149842826000004/xslF345X06/ownership.xml
+     🟡 MEDIA 4 | 2026-08-17 | Lucera Erick (Chief Financial Officer) → Venta 1,797 acciones @ $26.28 | Post: 119,766 | Rutinaria/RSU/impuestos
+     Insider: Lucera Erick (Chief Financial Officer) → Venta 1,797 acciones @ $26.28 | Post: 119,766 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1818794/000169761626000002/xslF345X06/ownership.xml
 
   🟡 [DNLI] Denali Therapeutics Inc. — 2 filing(s)
      🔵 INFO 4 | 2026-08-14 | Watts Ryan J. (Director / President and CEO) → Donación 32,220 acciones @ $0.00 | Post: 2,120,384 | Rutinaria/RSU/impuestos
@@ -54,7 +70,7 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [GPCR] Sin novedades
   ✅ [ABVX] Sin novedades
 
-  🟡 [VERA] Vera Therapeutics, Inc. — 5 filing(s)
+  🔵 [VERA] Vera Therapeutics, Inc. — 3 filing(s)
      🔵 INFO 4/A | 2026-08-12 | Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 46,250 acciones @ $2.90 | Post: 281,494 | Rutinaria/RSU/impuestos
      Insider: Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 46,250 acciones @ $2.90 | Post: 281,494 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1831828/000185945326000013/xslF345X06/form4a-08122026_100831.xml
@@ -64,11 +80,6 @@ DETALLE POR TICKER — SEC EDGAR
      🔵 INFO 4/A | 2026-08-12 | Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos
      Insider: Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1831828/000185945326000011/xslF345X06/form4a-08122026_100809.xml
-     🟡 MEDIA 10-Q | 2026-08-10 | Shares: 72.0M · ⚖️ Litigios activos
-     10-Q: Shares: 72.0M · ⚖️ Litigios activos
-     → https://www.sec.gov/Archives/edgar/data/1831828/000119312526342380/vera-20260630.htm
-     🔵 INFO 8-K | 2026-08-10 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1831828/000119312526342335/vera-20260810.htm
 
   🟡 [ACRV] Acrivon Therapeutics, Inc. — 2 filing(s)
      🔵 INFO 8-K | 2026-08-12 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]

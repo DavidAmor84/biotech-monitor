@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "18/08/2026 07:37",
+  "generado": "19/08/2026 07:37",
   "periodo_dias": 7,
-  "desde": "2026-08-11",
-  "hasta": "2026-08-18",
+  "desde": "2026-08-12",
+  "hasta": "2026-08-19",
   "resumen": {
-    "total_filings": 23,
+    "total_filings": 21,
     "alertas_rojas": 0,
     "alertas_verdes": 0,
-    "alertas_amarillas": 8,
-    "alertas_azules": 15,
-    "sin_novedad": 10
+    "alertas_amarillas": 7,
+    "alertas_azules": 14,
+    "sin_novedad": 11
   },
   "tickers": {
     "SNDX": {
@@ -695,59 +695,9 @@
       "cik": "0001359931",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "10-Q",
-          "fecha": "2026-08-11",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Shares: 5615.0M · ⚖️ Litigios activos · 📋 Shelf mencionado",
-          "detalle": "QUARTERLY REPORT",
-          "empresa_sec": "Protara Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026087508/ea0298600-10q_protara.htm",
-          "form4_detail": null,
-          "8k_detail": null,
-          "10q_detail": {
-            "caja_mm": null,
-            "burn_trimestral_mm": null,
-            "burn_mensual_mm": null,
-            "runway_meses": null,
-            "shares_outstanding_mm": 5615.0,
-            "litigios_detectados": true,
-            "shelf_mencionado": true,
-            "going_concern": false,
-            "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 17,076 &#160; &#160; $ 49,657 &#160; Marketable debt securities &#160; &#160; 125,418 &#160; &#160; &#160; 105,897 &#160; Prepaid expenses and other current assets &#160; &#160; 3,658 &#160; &#160; &#160; 3,950 &#160; Total current assets &#160; &#160; 146,152 &#16",
-            "resumen_10q": "Shares: 5615.0M · ⚖️ Litigios activos · 📋 Shelf mencionado"
-          },
-          "prospecto_detail": null
-        },
-        {
-          "form": "8-K",
-          "fecha": "2026-08-11",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
-          "detalle": "CURRENT REPORT",
-          "empresa_sec": "Protara Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026087506/ea0299236-8k_protara.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "2.02",
-              "9.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 2.02. Results of Operations and Financial Condition. On August 11, 2026, Protara Therapeutics, Inc. (the Company ) announced its financial results for the quarter ended June 30, 2026 in the press release attached hereto as Exhibit 99.1 and incorporated herein by reference. The information in this Item 2.02, including the attached Exhibit 99.1, is being furnished and shall not be deemed filed for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that Section, nor shall it be deemed incorporated by reference in any filing made by the Company under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing regardless of any general incorporation language. Item 9.01. Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press Release dated August 11, 2026, issued by the Registrant. 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). 1 SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. PROTARA THERAPEUTICS, INC. Date: August 11, 2026 By: /s/ Patrick Fabbio Patrick Fabbio Chief Financial Officer 2",
-            "nivel_ajustado": "azul",
-            "badge_ajustado": "🔵 INFO",
-            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "SENS": {
@@ -1393,59 +1343,6 @@
       "8k_detail": null,
       "10q_detail": null,
       "prospecto_detail": null
-    },
-    {
-      "ticker": "TARA",
-      "nombre": "Protara Therapeutics, Inc.",
-      "form": "10-Q",
-      "fecha": "2026-08-11",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Shares: 5615.0M · ⚖️ Litigios activos · 📋 Shelf mencionado",
-      "detalle": "QUARTERLY REPORT",
-      "empresa_sec": "Protara Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026087508/ea0298600-10q_protara.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": {
-        "caja_mm": null,
-        "burn_trimestral_mm": null,
-        "burn_mensual_mm": null,
-        "runway_meses": null,
-        "shares_outstanding_mm": 5615.0,
-        "litigios_detectados": true,
-        "shelf_mencionado": true,
-        "going_concern": false,
-        "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 17,076 &#160; &#160; $ 49,657 &#160; Marketable debt securities &#160; &#160; 125,418 &#160; &#160; &#160; 105,897 &#160; Prepaid expenses and other current assets &#160; &#160; 3,658 &#160; &#160; &#160; 3,950 &#160; Total current assets &#160; &#160; 146,152 &#16",
-        "resumen_10q": "Shares: 5615.0M · ⚖️ Litigios activos · 📋 Shelf mencionado"
-      },
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "TARA",
-      "nombre": "Protara Therapeutics, Inc.",
-      "form": "8-K",
-      "fecha": "2026-08-11",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
-      "detalle": "CURRENT REPORT",
-      "empresa_sec": "Protara Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026087506/ea0299236-8k_protara.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "2.02",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 2.02. Results of Operations and Financial Condition. On August 11, 2026, Protara Therapeutics, Inc. (the Company ) announced its financial results for the quarter ended June 30, 2026 in the press release attached hereto as Exhibit 99.1 and incorporated herein by reference. The information in this Item 2.02, including the attached Exhibit 99.1, is being furnished and shall not be deemed filed for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that Section, nor shall it be deemed incorporated by reference in any filing made by the Company under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing regardless of any general incorporation language. Item 9.01. Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press Release dated August 11, 2026, issued by the Registrant. 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). 1 SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. PROTARA THERAPEUTICS, INC. Date: August 11, 2026 By: /s/ Patrick Fabbio Patrick Fabbio Chief Financial Officer 2",
-        "nivel_ajustado": "azul",
-        "badge_ajustado": "🔵 INFO",
-        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
     }
   ],
   "clinicaltrials": {
@@ -1517,7 +1414,7 @@
         "nivel": "verde",
         "badge": "🟢",
         "enrollment": 150,
-        "ultima_actualizacion": "2026-08-14",
+        "ultima_actualizacion": "2026-08-18",
         "fecha_completion_primaria": "2028-07",
         "changed": true,
         "url": "https://clinicaltrials.gov/study/NCT07486934"

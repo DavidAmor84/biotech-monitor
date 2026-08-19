@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 18/08/2026 07:37 | Período: últimos 7 días
-Desde: 2026-08-11 → Hasta: 2026-08-18
+Generado: 19/08/2026 07:37 | Período: últimos 7 días
+Desde: 2026-08-12 → Hasta: 2026-08-19
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 23 filings | 🔴 0 | 🟢 0 | 🟡 8 | 🔵 15 | ✅ 10 sin novedad
+RESUMEN: 21 filings | 🔴 0 | 🟢 0 | 🟡 7 | 🔵 14 | ✅ 11 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -87,13 +87,7 @@ DETALLE POR TICKER — SEC EDGAR
      🟡 MEDIA 10-Q | 2026-08-12 | Shares: 42.9M · ⚖️ Litigios activos · 📋 Shelf mencionado
      10-Q: Shares: 42.9M · ⚖️ Litigios activos · 📋 Shelf mencionado
      → https://www.sec.gov/Archives/edgar/data/1781174/000119312526346819/acrv-20260630.htm
-
-  🟡 [TARA] Protara Therapeutics, Inc. — 2 filing(s)
-     🟡 MEDIA 10-Q | 2026-08-11 | Shares: 5615.0M · ⚖️ Litigios activos · 📋 Shelf mencionado
-     10-Q: Shares: 5615.0M · ⚖️ Litigios activos · 📋 Shelf mencionado
-     → https://www.sec.gov/Archives/edgar/data/1359931/000121390026087508/ea0298600-10q_protara.htm
-     🔵 INFO 8-K | 2026-08-11 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1359931/000121390026087506/ea0299236-8k_protara.htm
+  ✅ [TARA] Sin novedades
   ✅ [SENS] Sin novedades
 
   🔵 [INSM] INSMED Inc — 1 filing(s)
@@ -137,7 +131,7 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Reclutando activamente
        Enrollment: 150 pacientes
        Primary completion: 2028-07
-       Última actualización: 2026-08-14
+       Última actualización: 2026-08-18
        → https://clinicaltrials.gov/study/NCT07486934
 
   [VKTX]

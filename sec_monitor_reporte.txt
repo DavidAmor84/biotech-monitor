@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 19/08/2026 07:37 | Período: últimos 7 días
-Desde: 2026-08-12 → Hasta: 2026-08-19
+Generado: 20/08/2026 07:40 | Período: últimos 7 días
+Desde: 2026-08-13 → Hasta: 2026-08-20
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 21 filings | 🔴 0 | 🟢 0 | 🟡 7 | 🔵 14 | ✅ 11 sin novedad
+RESUMEN: 17 filings | 🔴 0 | 🟢 0 | 🟡 7 | 🔵 10 | ✅ 12 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -67,33 +67,21 @@ DETALLE POR TICKER — SEC EDGAR
      🔵 INFO 4 | 2026-08-14 | HALBERT JON (Director) → Concesión 13,192 acciones @ $0.00 | Post: 131,813 | Rutinaria/RSU/impuestos
      Insider: HALBERT JON (Director) → Concesión 13,192 acciones @ $0.00 | Post: 131,813 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/2019410/000118939426000008/xslF345X06/wk-form4_1786743533.xml
-  ✅ [GPCR] Sin novedades
+
+  🔵 [GPCR] Structure Therapeutics Inc. — 1 filing(s)
+     🔵 INFO 4 | 2026-08-19 | Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 11,817 acciones @ $0.34 | Post: 240,777 | Rutinaria/RSU/impuestos
+     Insider: Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 11,817 acciones @ $0.34 | Post: 240,777 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1888886/000196292626000008/xslF345X06/form4-08202026_120854.xml
   ✅ [ABVX] Sin novedades
-
-  🔵 [VERA] Vera Therapeutics, Inc. — 3 filing(s)
-     🔵 INFO 4/A | 2026-08-12 | Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 46,250 acciones @ $2.90 | Post: 281,494 | Rutinaria/RSU/impuestos
-     Insider: Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 46,250 acciones @ $2.90 | Post: 281,494 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1831828/000185945326000013/xslF345X06/form4a-08122026_100831.xml
-     🔵 INFO 4/A | 2026-08-12 | Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos
-     Insider: Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1831828/000185945326000012/xslF345X06/form4a-08122026_100823.xml
-     🔵 INFO 4/A | 2026-08-12 | Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos
-     Insider: Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1831828/000185945326000011/xslF345X06/form4a-08122026_100809.xml
-
-  🟡 [ACRV] Acrivon Therapeutics, Inc. — 2 filing(s)
-     🔵 INFO 8-K | 2026-08-12 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1781174/000119312526346859/acrv-20260812.htm
-     🟡 MEDIA 10-Q | 2026-08-12 | Shares: 42.9M · ⚖️ Litigios activos · 📋 Shelf mencionado
-     10-Q: Shares: 42.9M · ⚖️ Litigios activos · 📋 Shelf mencionado
-     → https://www.sec.gov/Archives/edgar/data/1781174/000119312526346819/acrv-20260630.htm
+  ✅ [VERA] Sin novedades
+  ✅ [ACRV] Sin novedades
   ✅ [TARA] Sin novedades
   ✅ [SENS] Sin novedades
 
-  🔵 [INSM] INSMED Inc — 1 filing(s)
-     🔵 INFO 4 | 2026-08-12 | Adsett Roger (Chief Operating Officer) → Ejercicio opción 82,280 acciones @ $13.67 | Post: 181,024 | Rutinaria/RSU/impuestos
-     Insider: Adsett Roger (Chief Operating Officer) → Ejercicio opción 82,280 acciones @ $13.67 | Post: 181,024 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1104506/000168590426000014/xslF345X06/wk-form4_1786568667.xml
+  🟡 [INSM] INSMED Inc — 1 filing(s)
+     🟡 MEDIA 4 | 2026-08-19 | SHAROKY MELVIN MD (Director) → Venta 5,000 acciones @ $127.53 | Post: 0
+     Insider: SHAROKY MELVIN MD (Director) → Venta 5,000 acciones @ $127.53 | Post: 0
+     → https://www.sec.gov/Archives/edgar/data/1104506/000118263326000010/xslF345X06/wk-form4_1787170216.xml
   ⚪ [NWL] Sin CIK SEC
 
 ──────────────────────────────────────────────────

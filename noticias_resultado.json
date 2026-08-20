@@ -1,8 +1,8 @@
 {
-  "generado": "19/08/2026 07:50 UTC",
+  "generado": "20/08/2026 07:53 UTC",
   "plazo_horas": 72,
-  "desde": "2026-08-16",
-  "hasta": "2026-08-19",
+  "desde": "2026-08-17",
+  "hasta": "2026-08-20",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -13,6 +13,18 @@
     "ARGX": {
       "nombre": "ARGX",
       "noticias": [
+        {
+          "ticker": "ARGX",
+          "titulo": "Truist Securities Maintains Buy on argenx, Raises Price Target to $1095",
+          "resumen": "Truist Securities  analyst Danielle Brill   maintains argenx (NASDAQ:ARGX) with a Buy and raises the price target from $1030 to $1095.",
+          "fuente": "Benzinga",
+          "fecha": "18 Aug 2026 13:04 UTC",
+          "url": "https://finnhub.io/api/news?id=b3e084b8e0de0016f23c093e01ed6275d6a655c613703c3b1c3e5726b0039499",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "ARGX",
           "titulo": "argenx SE (ARGX) Discusses Positive Phase 3 ALKIVIA Trial Results for VYVGART Hytrulo in Autoimmune Myositis Transcript",
@@ -60,18 +72,6 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "Citizens Maintains Market Outperform on argenx, Raises Price Target to $1200",
-          "resumen": "Citizens  analyst Jason N. Butler   maintains argenx (NASDAQ:ARGX) with a Market Outperform and raises the price target from $932 to $1200.",
-          "fuente": "Benzinga",
-          "fecha": "18 Aug 2026 08:08 UTC",
-          "url": "https://finnhub.io/api/news?id=8443f6a7174d6da7701d5f9405e55787f0b4611be05c363b07e63eadf1cc682f",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -88,6 +88,18 @@
       "noticias": [
         {
           "ticker": "DNLI",
+          "titulo": "Denali Therapeutics: Bullish On Avlayah And Their Prospects",
+          "resumen": "Denali Therapeutics' main improvement lies with AVLAYAH, moving it from a platform story into a commercial-stage biotech. See why DNLI stock is a buy.",
+          "fuente": "SeekingAlpha",
+          "fecha": "19 Aug 2026 08:01 UTC",
+          "url": "https://finnhub.io/api/news?id=cb8ca74e971eaaba8ff6e0fb55179906a2c80d14d6424cab7f4bc949750556ad",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2244579565/image_2244579565.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "DNLI",
           "titulo": "Monopar: Licensing Agreement And Rolling NDA Submission Serve As Catalysts For 'Strong Buy'",
           "resumen": "",
           "fuente": "SeekingAlpha",
@@ -100,7 +112,7 @@
         }
       ],
       "nivel": "rojo",
-      "total": 1
+      "total": 2
     },
     "VKTX": {
       "nombre": "VKTX",
@@ -116,15 +128,53 @@
     },
     "ALNY": {
       "nombre": "ALNY",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "This Alnylam Pharmaceuticals Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Wednesday",
+          "resumen": "Top analysts change outlook on ALNY, AGMB, BMRN, BEKE, and IONS with ratings and price targets. Check out opinions and coverage on Benzinga. ",
+          "fuente": "Benzinga",
+          "fecha": "19 Aug 2026 07:55 UTC",
+          "url": "https://finnhub.io/api/news?id=e30f44927d10e1b25ce134ad4748d7e24d2432323c862853e5ba7c74024b5a42",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/19/Analysts-Debate-Depreciation-Impact.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "BMO Capital Initiates Coverage On Alnylam Pharmaceuticals with Outperform Rating, Announces Price Target of $318",
+          "resumen": "BMO Capital  analyst David Lebowitz   initiates coverage on Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Outperform rating and announces Price Target of $318.",
+          "fuente": "Benzinga",
+          "fecha": "19 Aug 2026 05:30 UTC",
+          "url": "https://finnhub.io/api/news?id=08e60fc3dc4aab53f9ede00ed6331709c67f2c4150a075b66997d78cdb8197c4",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 2
     },
     "BEAM": {
       "nombre": "BEAM",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "BEAM",
+          "titulo": "Tracking Cathie Wood's ARK Invest 13F Portfolio - Q2 2026 Update",
+          "resumen": "ARK Invest's Q2 2026 13F portfolio rose to ~$15.4B, with holdings increasing from 182 to 191 and a focus on disruptive innovation. Read more on the portfolio here.",
+          "fuente": "SeekingAlpha",
+          "fecha": "19 Aug 2026 20:47 UTC",
+          "url": "https://finnhub.io/api/news?id=6176cf1f3006a9b7f1e7eece33e01b74901f7d28aa6591f2ed6baa2cc5a017ee",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "OCUL": {
       "nombre": "OCUL",
@@ -282,10 +332,10 @@
     }
   },
   "resumen": {
-    "total_noticias": 14,
-    "tickers_con_noticias": 6,
+    "total_noticias": 18,
+    "tickers_con_noticias": 8,
     "alertas_urgentes": 4,
-    "sin_noticias": 11
+    "sin_noticias": 9
   },
   "todas_noticias": [
     {
@@ -398,18 +448,6 @@
     },
     {
       "ticker": "ARGX",
-      "titulo": "Citizens Maintains Market Outperform on argenx, Raises Price Target to $1200",
-      "resumen": "Citizens  analyst Jason N. Butler   maintains argenx (NASDAQ:ARGX) with a Market Outperform and raises the price target from $932 to $1200.",
-      "fuente": "Benzinga",
-      "fecha": "18 Aug 2026 08:08 UTC",
-      "url": "https://finnhub.io/api/news?id=8443f6a7174d6da7701d5f9405e55787f0b4611be05c363b07e63eadf1cc682f",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ARGX",
       "titulo": "Snowflake To Rally Around 24%? Here Are 10 Top Analyst Forecasts For Tuesday",
       "resumen": "Top Wall Street analysts changed their outlook on these top names. For a complete view of all analyst rating changes, including upgrades and downgrades, please see our analyst ratings page. HC Wainwright &amp; Co raised the price target for argenx SE - ADR (NASDAQ: ARGX) from $940 to $1,202. Goldman",
       "fuente": "Benzinga",
@@ -427,6 +465,18 @@
       "fuente": "Benzinga",
       "fecha": "18 Aug 2026 08:53 UTC",
       "url": "https://finnhub.io/api/news?id=4465dcf76d88a8c5fd541f647dd1f806aa6adc12406f49c4d77eead660fe2ecb",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "Truist Securities Maintains Buy on argenx, Raises Price Target to $1095",
+      "resumen": "Truist Securities  analyst Danielle Brill   maintains argenx (NASDAQ:ARGX) with a Buy and raises the price target from $1030 to $1095.",
+      "fuente": "Benzinga",
+      "fecha": "18 Aug 2026 13:04 UTC",
+      "url": "https://finnhub.io/api/news?id=b3e084b8e0de0016f23c093e01ed6275d6a655c613703c3b1c3e5726b0039499",
       "imagen": "",
       "urgente": false,
       "nivel": "azul",
@@ -452,6 +502,54 @@
       "fecha": "19 Aug 2026 01:10 UTC",
       "url": "https://finnhub.io/api/news?id=dd9db39e8abddc3f2e8095ac1b6606266bc27875ea4002694cc82d39c229a18c",
       "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1083672712/image_1083672712.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "BMO Capital Initiates Coverage On Alnylam Pharmaceuticals with Outperform Rating, Announces Price Target of $318",
+      "resumen": "BMO Capital  analyst David Lebowitz   initiates coverage on Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Outperform rating and announces Price Target of $318.",
+      "fuente": "Benzinga",
+      "fecha": "19 Aug 2026 05:30 UTC",
+      "url": "https://finnhub.io/api/news?id=08e60fc3dc4aab53f9ede00ed6331709c67f2c4150a075b66997d78cdb8197c4",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "This Alnylam Pharmaceuticals Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Wednesday",
+      "resumen": "Top analysts change outlook on ALNY, AGMB, BMRN, BEKE, and IONS with ratings and price targets. Check out opinions and coverage on Benzinga. ",
+      "fuente": "Benzinga",
+      "fecha": "19 Aug 2026 07:55 UTC",
+      "url": "https://finnhub.io/api/news?id=e30f44927d10e1b25ce134ad4748d7e24d2432323c862853e5ba7c74024b5a42",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/19/Analysts-Debate-Depreciation-Impact.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "DNLI",
+      "titulo": "Denali Therapeutics: Bullish On Avlayah And Their Prospects",
+      "resumen": "Denali Therapeutics' main improvement lies with AVLAYAH, moving it from a platform story into a commercial-stage biotech. See why DNLI stock is a buy.",
+      "fuente": "SeekingAlpha",
+      "fecha": "19 Aug 2026 08:01 UTC",
+      "url": "https://finnhub.io/api/news?id=cb8ca74e971eaaba8ff6e0fb55179906a2c80d14d6424cab7f4bc949750556ad",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2244579565/image_2244579565.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "Tracking Cathie Wood's ARK Invest 13F Portfolio - Q2 2026 Update",
+      "resumen": "ARK Invest's Q2 2026 13F portfolio rose to ~$15.4B, with holdings increasing from 182 to 191 and a focus on disruptive innovation. Read more on the portfolio here.",
+      "fuente": "SeekingAlpha",
+      "fecha": "19 Aug 2026 20:47 UTC",
+      "url": "https://finnhub.io/api/news?id=6176cf1f3006a9b7f1e7eece33e01b74901f7d28aa6591f2ed6baa2cc5a017ee",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

@@ -1,8 +1,8 @@
 {
-  "generado": "20/08/2026 07:53 UTC",
+  "generado": "21/08/2026 07:53 UTC",
   "plazo_horas": 72,
-  "desde": "2026-08-17",
-  "hasta": "2026-08-20",
+  "desde": "2026-08-18",
+  "hasta": "2026-08-21",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -13,6 +13,18 @@
     "ARGX": {
       "nombre": "ARGX",
       "noticias": [
+        {
+          "ticker": "ARGX",
+          "titulo": "argenx SE (ARGX) Discusses Positive Phase 3 ALKIVIA Trial Results for VYVGART Hytrulo in Autoimmune Myositis - Slideshow",
+          "resumen": "2026-08-20. The following slide deck was published by argenx SE in conjunction with this event.",
+          "fuente": "SeekingAlpha",
+          "fecha": "20 Aug 2026 19:09 UTC",
+          "url": "https://finnhub.io/api/news?id=0c43c33d7cb8e17ff93a53eb32351eca974e47de6f2b768800f12356f4005b14",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "ARGX",
           "titulo": "Truist Securities Maintains Buy on argenx, Raises Price Target to $1095",
@@ -60,18 +72,6 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "These Analysts Boost Their Forecasts On Argenx",
-          "resumen": "Argenx SE (NASDAQ:ARGX) reports positive Phase 3 results for VYVGART Hytrulo in autoimmune myositis. Analysts raise price targets on ARGX stock.",
-          "fuente": "Benzinga",
-          "fecha": "18 Aug 2026 08:12 UTC",
-          "url": "https://finnhub.io/api/news?id=4de4f831ecf3ea07f59d0b0d4eff7b6fffb2f9d8ff9e94dd36800c45389a5fcb",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/18/Analyst-Works-On-Personal-Computer-Showi.jpg?width=2048&height=1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
@@ -131,6 +131,30 @@
       "noticias": [
         {
           "ticker": "ALNY",
+          "titulo": "Biotech Is Booming, But These 2 Stocks Missed the Memo",
+          "resumen": "The iShares Biotechnology ETF is trading at new highs and 18 out of its top 20 constituents are green for the year.",
+          "fuente": "Benzinga",
+          "fecha": "20 Aug 2026 12:03 UTC",
+          "url": "https://finnhub.io/api/news?id=5d1c3279b1b545b5059b047cc554eb412cfac84ee11ad4eb6127fe31e9b9d83b",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/20/Close-up-View-Of-An-Abstract-Molecular-S.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam Pharmaceuticals (NASDAQ:ALNY): A Value Stock Worthy of Investor Attention",
+          "resumen": "Decent Value screen flags Alnylam Pharmaceuticals (ALNY) for strong growth, solid profitability, and reasonable forward valuation.",
+          "fuente": "ChartMill",
+          "fecha": "20 Aug 2026 10:51 UTC",
+          "url": "https://finnhub.io/api/news?id=92c77dfe0ad77116ee25ef36f3b9d6a39a8d0f961f3cc2d731cf70ceaaff6184",
+          "imagen": "https://www.chartmill.com/images/uploads/Undervalued_500_264px_webp_74997b3ff2.webp",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ALNY",
           "titulo": "This Alnylam Pharmaceuticals Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Wednesday",
           "resumen": "Top analysts change outlook on ALNY, AGMB, BMRN, BEKE, and IONS with ratings and price targets. Check out opinions and coverage on Benzinga. ",
           "fuente": "Benzinga",
@@ -155,7 +179,7 @@
         }
       ],
       "nivel": "azul",
-      "total": 2
+      "total": 4
     },
     "BEAM": {
       "nombre": "BEAM",
@@ -190,52 +214,53 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
+    },
+    "CAI": {
+      "nombre": "CAI",
+      "noticias": [
+        {
+          "ticker": "CAI",
+          "titulo": "Bessent's Bond Rescue Fizzles, Walmart Craters 9%: Stock Market Today",
+          "resumen": "Long-end Treasury yields snapped back toward 20-month highs; Walmart posted its worst session in four years.",
+          "fuente": "Benzinga",
+          "fecha": "20 Aug 2026 13:02 UTC",
+          "url": "https://finnhub.io/api/news?id=3f3a28f79218cb81b53764c2f6a3e497a8c47216dad56246efc6c5c12b4bd996",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/20/Us-Treasury-Secretary--Scott-Bessent-Wal.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
         },
         {
-          "ticker": "OCUL",
-          "titulo": "Why Is Ocular Therapeutix Stock Gaining Monday?",
-          "resumen": "Ocular Therapeutix stock jumps 6% as rival EyePoint misses Phase 3 primary endpoint for wet AMD treatment Duravyu.",
+          "ticker": "CAI",
+          "titulo": "Deere, Coinbase Global, Nordson And Other Big Stocks Moving Higher On Wednesday",
+          "resumen": "Dow Jones down 300 points, Deere &amp; Co shares up 7.9% after beating earnings expectations. SCTX, SCSC, BTBT, MRVI, HIVE, AHG, TEM, MARA, LB also gain.",
           "fuente": "Benzinga",
-          "fecha": "17 Aug 2026 13:48 UTC",
-          "url": "https://finnhub.io/api/news?id=bc05f4c4d05bd81fd5e284160bcd71724daaba9474486c70e3975a0c876e785c",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/17/Woman-With-Green-Eyes-On-Grey-Background.jpg?width=2048&height=1536",
+          "fecha": "20 Aug 2026 11:06 UTC",
+          "url": "https://finnhub.io/api/news?id=3e3afc8c4d5c5ca779d7ad214cd266df4823419f4ae921d62fcdc5578f5793fa",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/20/The-Deere-Trade.jpg?width=2048&height=1536",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
         },
         {
-          "ticker": "OCUL",
-          "titulo": "H World Group Posts Upbeat Q2 Results, Joins Almonty Industries, Diana Shipping And Other Big Stocks Moving Higher On Monday",
-          "resumen": "H World Group (HTHT) beats earnings and raises sales guidance, shares jump 8.1%. Other big gainers include ANGX, ARGX, and MESO.",
-          "fuente": "Benzinga",
-          "fecha": "17 Aug 2026 09:51 UTC",
-          "url": "https://finnhub.io/api/news?id=ad4638180e36463daef1e014698e2182a2b06c30f71828ab124f420a3654df55",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/17/Display-Of-Stock-Market-Quotes.jpg?width=2048&height=1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "OCUL",
-          "titulo": "12 Health Care Stocks Moving In Monday's Pre-Market Session",
-          "resumen": "Gainers\n\nINVO Fertility (NASDAQ:IVF) shares increased by 163.4% to $2.56 during Monday&#39;s pre-market session. The company&#39;s market cap stands at $1.7 million. \nGlucoTrack (NASDAQ:GCTK) shares moved upwards by",
-          "fuente": "Benzinga",
-          "fecha": "17 Aug 2026 08:06 UTC",
-          "url": "https://finnhub.io/api/news?id=22129e23e8408debcd17ff277bdc03d457ff95575d53c967b9c4d781bd1fdea7",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_3.jpg?width=2048&height=1536",
+          "ticker": "CAI",
+          "titulo": "Tempus AI Just Had Their Entire Strategy Validated By Moderna's Vaccine Advance",
+          "resumen": "Tempus AI remains a strong buy, driven by its unique flywheel business model and recent validation of its technology via the Personalis acquisition. Learn more about TEM stock here.",
+          "fuente": "SeekingAlpha",
+          "fecha": "20 Aug 2026 08:00 UTC",
+          "url": "https://finnhub.io/api/news?id=5b54ec56dfde684c05d3723c87da63c116166a04b8bff3d3ea948663950358c1",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2280454849/image_2280454849.jpg?io=getty-c-w1536",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 4
-    },
-    "CAI": {
-      "nombre": "CAI",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "total": 3
     },
     "GPCR": {
       "nombre": "GPCR",
@@ -264,34 +289,9 @@
     },
     "VERA": {
       "nombre": "VERA",
-      "noticias": [
-        {
-          "ticker": "VERA",
-          "titulo": "Vera Therapeutics: FDA's eGFR Analysis Supports A Speculative Buy",
-          "resumen": "Vera Therapeutics is upgraded to Buy following TRUTAKNA's FDA approval and encouraging eGFR data. Learn more about VERA stock here.",
-          "fuente": "SeekingAlpha",
-          "fecha": "17 Aug 2026 14:20 UTC",
-          "url": "https://finnhub.io/api/news?id=706c0d235c286e9a4358958d020d19e8a5482a55fd5666005c5d679e5c765abf",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1700287781/image_1700287781.jpg?io=getty-c-w1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VERA",
-          "titulo": "Wedbush Reiterates Neutral on Vera Therapeutics, Maintains $34 Price Target",
-          "resumen": "Wedbush  analyst Laura Chico   reiterates Vera Therapeutics (NASDAQ:VERA) with a Neutral and maintains $34 price target.",
-          "fuente": "Benzinga",
-          "fecha": "17 Aug 2026 09:10 UTC",
-          "url": "https://finnhub.io/api/news?id=bfb23f018d11ecab52183825ce45826a29a678dce7013b1ac5e277a14a4092e7",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 2
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "ACRV": {
       "nombre": "ACRV",
@@ -307,13 +307,38 @@
     },
     "SENS": {
       "nombre": "SENS",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "SENS",
+          "titulo": "Coty Posts Mixed Q4 Results, Joins Wolfspeed, ATRenew And Other Big Stocks Moving Lower In Thursday’s Pre-Market Session",
+          "resumen": "U.S. stock futures mixed, Nasdaq 100 up 0.1%. Coty Inc (COTY) shares down 7.7% after reporting losses in Q4 and exit of Gucci Beauty license.",
+          "fuente": "Benzinga",
+          "fecha": "20 Aug 2026 08:06 UTC",
+          "url": "https://finnhub.io/api/news?id=311bb1749a844fe1f48ea7e3177fe36789b5dfb762695268ea4d17fe4491b874",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/20/Stuttgart--Germany---10-03-2022-Mobile-P.jpg?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "INSM": {
       "nombre": "INSM",
       "noticias": [
+        {
+          "ticker": "INSM",
+          "titulo": "Biotech Is Booming, But These 2 Stocks Missed the Memo",
+          "resumen": "The iShares Biotechnology ETF is trading at new highs and 18 out of its top 20 constituents are green for the year.",
+          "fuente": "Benzinga",
+          "fecha": "20 Aug 2026 12:03 UTC",
+          "url": "https://finnhub.io/api/news?id=5d1c3279b1b545b5059b047cc554eb412cfac84ee11ad4eb6127fe31e9b9d83b",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/20/Close-up-View-Of-An-Abstract-Molecular-S.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "INSM",
           "titulo": "Artisan Global Opportunities Fund Q2 2026 Portfolio Review",
@@ -328,76 +353,16 @@
         }
       ],
       "nivel": "azul",
-      "total": 1
+      "total": 2
     }
   },
   "resumen": {
-    "total_noticias": 18,
-    "tickers_con_noticias": 8,
-    "alertas_urgentes": 4,
-    "sin_noticias": 9
+    "total_noticias": 20,
+    "tickers_con_noticias": 9,
+    "alertas_urgentes": 5,
+    "sin_noticias": 8
   },
   "todas_noticias": [
-    {
-      "ticker": "OCUL",
-      "titulo": "12 Health Care Stocks Moving In Monday's Pre-Market Session",
-      "resumen": "Gainers\n\nINVO Fertility (NASDAQ:IVF) shares increased by 163.4% to $2.56 during Monday&#39;s pre-market session. The company&#39;s market cap stands at $1.7 million. \nGlucoTrack (NASDAQ:GCTK) shares moved upwards by",
-      "fuente": "Benzinga",
-      "fecha": "17 Aug 2026 08:06 UTC",
-      "url": "https://finnhub.io/api/news?id=22129e23e8408debcd17ff277bdc03d457ff95575d53c967b9c4d781bd1fdea7",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_3.jpg?width=2048&height=1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "OCUL",
-      "titulo": "H World Group Posts Upbeat Q2 Results, Joins Almonty Industries, Diana Shipping And Other Big Stocks Moving Higher On Monday",
-      "resumen": "H World Group (HTHT) beats earnings and raises sales guidance, shares jump 8.1%. Other big gainers include ANGX, ARGX, and MESO.",
-      "fuente": "Benzinga",
-      "fecha": "17 Aug 2026 09:51 UTC",
-      "url": "https://finnhub.io/api/news?id=ad4638180e36463daef1e014698e2182a2b06c30f71828ab124f420a3654df55",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/17/Display-Of-Stock-Market-Quotes.jpg?width=2048&height=1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "OCUL",
-      "titulo": "Why Is Ocular Therapeutix Stock Gaining Monday?",
-      "resumen": "Ocular Therapeutix stock jumps 6% as rival EyePoint misses Phase 3 primary endpoint for wet AMD treatment Duravyu.",
-      "fuente": "Benzinga",
-      "fecha": "17 Aug 2026 13:48 UTC",
-      "url": "https://finnhub.io/api/news?id=bc05f4c4d05bd81fd5e284160bcd71724daaba9474486c70e3975a0c876e785c",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/17/Woman-With-Green-Eyes-On-Grey-Background.jpg?width=2048&height=1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VERA",
-      "titulo": "Vera Therapeutics: FDA's eGFR Analysis Supports A Speculative Buy",
-      "resumen": "Vera Therapeutics is upgraded to Buy following TRUTAKNA's FDA approval and encouraging eGFR data. Learn more about VERA stock here.",
-      "fuente": "SeekingAlpha",
-      "fecha": "17 Aug 2026 14:20 UTC",
-      "url": "https://finnhub.io/api/news?id=706c0d235c286e9a4358958d020d19e8a5482a55fd5666005c5d679e5c765abf",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1700287781/image_1700287781.jpg?io=getty-c-w1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "These Analysts Boost Their Forecasts On Argenx",
-      "resumen": "Argenx SE (NASDAQ:ARGX) reports positive Phase 3 results for VYVGART Hytrulo in autoimmune myositis. Analysts raise price targets on ARGX stock.",
-      "fuente": "Benzinga",
-      "fecha": "18 Aug 2026 08:12 UTC",
-      "url": "https://finnhub.io/api/news?id=4de4f831ecf3ea07f59d0b0d4eff7b6fffb2f9d8ff9e94dd36800c45389a5fcb",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/18/Analyst-Works-On-Personal-Computer-Showi.jpg?width=2048&height=1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "ARGX",
       "titulo": "argenx SE (ARGX) Discusses Positive Phase 3 ALKIVIA Trial Results for VYVGART Hytrulo in Autoimmune Myositis Transcript",
@@ -435,16 +400,52 @@
       "badge": "🔴"
     },
     {
-      "ticker": "VERA",
-      "titulo": "Wedbush Reiterates Neutral on Vera Therapeutics, Maintains $34 Price Target",
-      "resumen": "Wedbush  analyst Laura Chico   reiterates Vera Therapeutics (NASDAQ:VERA) with a Neutral and maintains $34 price target.",
+      "ticker": "CAI",
+      "titulo": "Tempus AI Just Had Their Entire Strategy Validated By Moderna's Vaccine Advance",
+      "resumen": "Tempus AI remains a strong buy, driven by its unique flywheel business model and recent validation of its technology via the Personalis acquisition. Learn more about TEM stock here.",
+      "fuente": "SeekingAlpha",
+      "fecha": "20 Aug 2026 08:00 UTC",
+      "url": "https://finnhub.io/api/news?id=5b54ec56dfde684c05d3723c87da63c116166a04b8bff3d3ea948663950358c1",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2280454849/image_2280454849.jpg?io=getty-c-w1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "SENS",
+      "titulo": "Coty Posts Mixed Q4 Results, Joins Wolfspeed, ATRenew And Other Big Stocks Moving Lower In Thursday’s Pre-Market Session",
+      "resumen": "U.S. stock futures mixed, Nasdaq 100 up 0.1%. Coty Inc (COTY) shares down 7.7% after reporting losses in Q4 and exit of Gucci Beauty license.",
       "fuente": "Benzinga",
-      "fecha": "17 Aug 2026 09:10 UTC",
-      "url": "https://finnhub.io/api/news?id=bfb23f018d11ecab52183825ce45826a29a678dce7013b1ac5e277a14a4092e7",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "fecha": "20 Aug 2026 08:06 UTC",
+      "url": "https://finnhub.io/api/news?id=311bb1749a844fe1f48ea7e3177fe36789b5dfb762695268ea4d17fe4491b874",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/20/Stuttgart--Germany---10-03-2022-Mobile-P.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "CAI",
+      "titulo": "Deere, Coinbase Global, Nordson And Other Big Stocks Moving Higher On Wednesday",
+      "resumen": "Dow Jones down 300 points, Deere &amp; Co shares up 7.9% after beating earnings expectations. SCTX, SCSC, BTBT, MRVI, HIVE, AHG, TEM, MARA, LB also gain.",
+      "fuente": "Benzinga",
+      "fecha": "20 Aug 2026 11:06 UTC",
+      "url": "https://finnhub.io/api/news?id=3e3afc8c4d5c5ca779d7ad214cd266df4823419f4ae921d62fcdc5578f5793fa",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/20/The-Deere-Trade.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "argenx SE (ARGX) Discusses Positive Phase 3 ALKIVIA Trial Results for VYVGART Hytrulo in Autoimmune Myositis - Slideshow",
+      "resumen": "2026-08-20. The following slide deck was published by argenx SE in conjunction with this event.",
+      "fuente": "SeekingAlpha",
+      "fecha": "20 Aug 2026 19:09 UTC",
+      "url": "https://finnhub.io/api/news?id=0c43c33d7cb8e17ff93a53eb32351eca974e47de6f2b768800f12356f4005b14",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "ARGX",
@@ -550,6 +551,54 @@
       "fecha": "19 Aug 2026 20:47 UTC",
       "url": "https://finnhub.io/api/news?id=6176cf1f3006a9b7f1e7eece33e01b74901f7d28aa6591f2ed6baa2cc5a017ee",
       "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam Pharmaceuticals (NASDAQ:ALNY): A Value Stock Worthy of Investor Attention",
+      "resumen": "Decent Value screen flags Alnylam Pharmaceuticals (ALNY) for strong growth, solid profitability, and reasonable forward valuation.",
+      "fuente": "ChartMill",
+      "fecha": "20 Aug 2026 10:51 UTC",
+      "url": "https://finnhub.io/api/news?id=92c77dfe0ad77116ee25ef36f3b9d6a39a8d0f961f3cc2d731cf70ceaaff6184",
+      "imagen": "https://www.chartmill.com/images/uploads/Undervalued_500_264px_webp_74997b3ff2.webp",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Biotech Is Booming, But These 2 Stocks Missed the Memo",
+      "resumen": "The iShares Biotechnology ETF is trading at new highs and 18 out of its top 20 constituents are green for the year.",
+      "fuente": "Benzinga",
+      "fecha": "20 Aug 2026 12:03 UTC",
+      "url": "https://finnhub.io/api/news?id=5d1c3279b1b545b5059b047cc554eb412cfac84ee11ad4eb6127fe31e9b9d83b",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/20/Close-up-View-Of-An-Abstract-Molecular-S.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Biotech Is Booming, But These 2 Stocks Missed the Memo",
+      "resumen": "The iShares Biotechnology ETF is trading at new highs and 18 out of its top 20 constituents are green for the year.",
+      "fuente": "Benzinga",
+      "fecha": "20 Aug 2026 12:03 UTC",
+      "url": "https://finnhub.io/api/news?id=5d1c3279b1b545b5059b047cc554eb412cfac84ee11ad4eb6127fe31e9b9d83b",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/20/Close-up-View-Of-An-Abstract-Molecular-S.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "CAI",
+      "titulo": "Bessent's Bond Rescue Fizzles, Walmart Craters 9%: Stock Market Today",
+      "resumen": "Long-end Treasury yields snapped back toward 20-month highs; Walmart posted its worst session in four years.",
+      "fuente": "Benzinga",
+      "fecha": "20 Aug 2026 13:02 UTC",
+      "url": "https://finnhub.io/api/news?id=3f3a28f79218cb81b53764c2f6a3e497a8c47216dad56246efc6c5c12b4bd996",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/20/Us-Treasury-Secretary--Scott-Bessent-Wal.jpg?width=2048&height=1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

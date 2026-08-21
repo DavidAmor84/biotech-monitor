@@ -1,10 +1,20 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 20/08/2026 07:40 | Período: últimos 7 días
-Desde: 2026-08-13 → Hasta: 2026-08-20
+Generado: 21/08/2026 07:42 | Período: últimos 7 días
+Desde: 2026-08-14 → Hasta: 2026-08-21
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 17 filings | 🔴 0 | 🟢 0 | 🟡 7 | 🔵 10 | ✅ 12 sin novedad
+RESUMEN: 22 filings | 🔴 0 | 🟢 1 | 🟡 11 | 🔵 10 | ✅ 10 sin novedad
+
+──────────────────────────────────────────────────
+🚨 ALERTAS CRÍTICAS (1)
+──────────────────────────────────────────────────
+
+  [SENS] Senseonics Holdings, Inc.
+  🟢 ALTA 4 | 2026-08-20
+  Insider BUY: ROEDER DOUGLAS A → Compra 13,953 acciones @ $8.98 | Post: 171,191
+  Insider: ROEDER DOUGLAS A → Compra 13,953 acciones @ $8.98 | Post: 171,191
+  → https://www.sec.gov/Archives/edgar/data/1616543/000127073526000014/xslF345X06/form4-08202026_100815.xml
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -29,13 +39,10 @@ DETALLE POR TICKER — SEC EDGAR
      Insider: Lucera Erick (Chief Financial Officer) → Venta 1,797 acciones @ $26.28 | Post: 119,766 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1818794/000169761626000002/xslF345X06/ownership.xml
 
-  🟡 [DNLI] Denali Therapeutics Inc. — 2 filing(s)
+  🔵 [DNLI] Denali Therapeutics Inc. — 1 filing(s)
      🔵 INFO 4 | 2026-08-14 | Watts Ryan J. (Director / President and CEO) → Donación 32,220 acciones @ $0.00 | Post: 2,120,384 | Rutinaria/RSU/impuestos
      Insider: Watts Ryan J. (Director / President and CEO) → Donación 32,220 acciones @ $0.00 | Post: 2,120,384 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1714899/000172431026000007/xslF345X06/wk-form4_1786740495.xml
-     🟡 MEDIA 4 | 2026-08-13 | Schuth Alexander O. (COFO and Secretary) → Venta 2,857 acciones @ $25.07 | Post: 281,763 | Rutinaria/RSU/impuestos
-     Insider: Schuth Alexander O. (COFO and Secretary) → Venta 2,857 acciones @ $25.07 | Post: 281,763 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1714899/000172431126000013/xslF345X06/wk-form4_1786654917.xml
   ✅ [VKTX] Sin novedades
   ✅ [VRTX] Sin novedades
   ✅ [ALNY] Sin novedades
@@ -74,9 +81,29 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1888886/000196292626000008/xslF345X06/form4-08202026_120854.xml
   ✅ [ABVX] Sin novedades
   ✅ [VERA] Sin novedades
-  ✅ [ACRV] Sin novedades
+
+  🟡 [ACRV] Acrivon Therapeutics, Inc. — 5 filing(s)
+     🟡 MEDIA 4 | 2026-08-20 | Peterson Katharine (Chief Accounting Officer) → Venta 101 acciones @ $2.01 | Post: 18,033 | Rutinaria/RSU/impuestos
+     Insider: Peterson Katharine (Chief Accounting Officer) → Venta 101 acciones @ $2.01 | Post: 18,033 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003840/xslF345X06/form4.xml
+     🟡 MEDIA 4 | 2026-08-20 | Miller Mary (Chief Legal Officer) → Venta 185 acciones @ $2.01 | Post: 82,009 | Rutinaria/RSU/impuestos
+     Insider: Miller Mary (Chief Legal Officer) → Venta 185 acciones @ $2.01 | Post: 82,009 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003839/xslF345X06/form4.xml
+     🟡 MEDIA 4 | 2026-08-20 | Gamelin Erick (Chief Development Officer) → Venta 400 acciones @ $2.01 | Post: 52,592 | Rutinaria/RSU/impuestos
+     Insider: Gamelin Erick (Chief Development Officer) → Venta 400 acciones @ $2.01 | Post: 52,592 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003838/xslF345X06/form4.xml
+     🟡 MEDIA 4 | 2026-08-20 | Devroe Eric (Chief Operating Officer) → Venta 604 acciones @ $2.01 | Post: 146,349 | Rutinaria/RSU/impuestos
+     Insider: Devroe Eric (Chief Operating Officer) → Venta 604 acciones @ $2.01 | Post: 146,349 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003837/xslF345X06/form4.xml
+     🟡 MEDIA 4 | 2026-08-20 | Blume-Jensen Peter (President and CEO) → Venta 1,229 acciones @ $2.01 | Post: 2,244,088 | Rutinaria/RSU/impuestos
+     Insider: Blume-Jensen Peter (President and CEO) → Venta 1,229 acciones @ $2.01 | Post: 2,244,088 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003836/xslF345X06/form4.xml
   ✅ [TARA] Sin novedades
-  ✅ [SENS] Sin novedades
+
+  🟢 [SENS] Senseonics Holdings, Inc. — 1 filing(s)
+     🟢 ALTA 4 | 2026-08-20 | Insider BUY: ROEDER DOUGLAS A → Compra 13,953 acciones @ $8.98 | Post: 171,191
+     Insider: ROEDER DOUGLAS A → Compra 13,953 acciones @ $8.98 | Post: 171,191
+     → https://www.sec.gov/Archives/edgar/data/1616543/000127073526000014/xslF345X06/form4-08202026_100815.xml
 
   🟡 [INSM] INSMED Inc — 1 filing(s)
      🟡 MEDIA 4 | 2026-08-19 | SHAROKY MELVIN MD (Director) → Venta 5,000 acciones @ $127.53 | Post: 0

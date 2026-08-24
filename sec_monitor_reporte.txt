@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 21/08/2026 07:42 | Período: últimos 7 días
-Desde: 2026-08-14 → Hasta: 2026-08-21
+Generado: 24/08/2026 07:57 | Período: últimos 7 días
+Desde: 2026-08-17 → Hasta: 2026-08-24
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 22 filings | 🔴 0 | 🟢 1 | 🟡 11 | 🔵 10 | ✅ 10 sin novedad
+RESUMEN: 13 filings | 🔴 0 | 🟢 1 | 🟡 11 | 🔵 1 | ✅ 12 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (1)
@@ -38,42 +38,13 @@ DETALLE POR TICKER — SEC EDGAR
      🟡 MEDIA 4 | 2026-08-17 | Lucera Erick (Chief Financial Officer) → Venta 1,797 acciones @ $26.28 | Post: 119,766 | Rutinaria/RSU/impuestos
      Insider: Lucera Erick (Chief Financial Officer) → Venta 1,797 acciones @ $26.28 | Post: 119,766 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1818794/000169761626000002/xslF345X06/ownership.xml
-
-  🔵 [DNLI] Denali Therapeutics Inc. — 1 filing(s)
-     🔵 INFO 4 | 2026-08-14 | Watts Ryan J. (Director / President and CEO) → Donación 32,220 acciones @ $0.00 | Post: 2,120,384 | Rutinaria/RSU/impuestos
-     Insider: Watts Ryan J. (Director / President and CEO) → Donación 32,220 acciones @ $0.00 | Post: 2,120,384 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1714899/000172431026000007/xslF345X06/wk-form4_1786740495.xml
+  ✅ [DNLI] Sin novedades
   ✅ [VKTX] Sin novedades
   ✅ [VRTX] Sin novedades
   ✅ [ALNY] Sin novedades
   ✅ [BEAM] Sin novedades
   ✅ [OCUL] Sin novedades
-
-  🔵 [CAI] Caris Life Sciences, Inc. — 8 filing(s)
-     🔵 INFO 4 | 2026-08-14 | CASTLEMAN PETER M (Director) → Concesión 13,192 acciones @ $0.00 | Post: 29,321 | Rutinaria/RSU/impuestos
-     Insider: CASTLEMAN PETER M (Director) → Concesión 13,192 acciones @ $0.00 | Post: 29,321 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/2019410/000123959426000008/xslF345X06/wk-form4_1786743879.xml
-     🔵 INFO 4 | 2026-08-14 | PHILLIPS T DANNY (Director) → Concesión 13,192 acciones @ $0.00 | Post: 133,060 | Rutinaria/RSU/impuestos
-     Insider: PHILLIPS T DANNY (Director) → Concesión 13,192 acciones @ $0.00 | Post: 133,060 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/2019410/000123969026000005/xslF345X06/wk-form4_1786743801.xml
-     🔵 INFO 4 | 2026-08-14 | Minor Lloyd (Director) → Concesión 13,192 acciones @ $0.00 | Post: 31,813 | Rutinaria/RSU/impuestos
-     Insider: Minor Lloyd (Director) → Concesión 13,192 acciones @ $0.00 | Post: 31,813 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/2019410/000203868726000007/xslF345X06/wk-form4_1786743756.xml
-     🔵 INFO 4 | 2026-08-14 | Gilliam Joseph E (Director) → Concesión 13,192 acciones @ $0.00 | Post: 29,321 | Rutinaria/RSU/impuestos
-     Insider: Gilliam Joseph E (Director) → Concesión 13,192 acciones @ $0.00 | Post: 29,321 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/2019410/000170585026000025/xslF345X06/wk-form4_1786743716.xml
-     🔵 INFO 4 | 2026-08-14 | Fredrickson David Paul (Director) → Concesión 13,192 acciones @ $0.00 | Post: 31,813 | Rutinaria/RSU/impuestos
-     Insider: Fredrickson David Paul (Director) → Concesión 13,192 acciones @ $0.00 | Post: 31,813 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/2019410/000207194826000005/xslF345X06/wk-form4_1786743682.xml
-     🔵 INFO 4 | 2026-08-14 | Vacirca Jeff L (Director) → Concesión 13,192 acciones @ $0.00 | Post: 62,863 | Rutinaria/RSU/impuestos
-     Insider: Vacirca Jeff L (Director) → Concesión 13,192 acciones @ $0.00 | Post: 62,863 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/2019410/000172416126000008/xslF345X06/wk-form4_1786743631.xml
-     🔵 INFO 4 | 2026-08-14 | JOHANSEN LAURA I (Director) → Concesión 13,192 acciones @ $0.00 | Post: 343,897 | Rutinaria/RSU/impuestos
-     Insider: JOHANSEN LAURA I (Director) → Concesión 13,192 acciones @ $0.00 | Post: 343,897 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/2019410/000118939526000002/xslF345X06/wk-form4_1786743580.xml
-     🔵 INFO 4 | 2026-08-14 | HALBERT JON (Director) → Concesión 13,192 acciones @ $0.00 | Post: 131,813 | Rutinaria/RSU/impuestos
-     Insider: HALBERT JON (Director) → Concesión 13,192 acciones @ $0.00 | Post: 131,813 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/2019410/000118939426000008/xslF345X06/wk-form4_1786743533.xml
+  ✅ [CAI] Sin novedades
 
   🔵 [GPCR] Structure Therapeutics Inc. — 1 filing(s)
      🔵 INFO 4 | 2026-08-19 | Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 11,817 acciones @ $0.34 | Post: 240,777 | Rutinaria/RSU/impuestos
@@ -226,7 +197,7 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Reclutando activamente
        Enrollment: 350 pacientes
        Primary completion: 2027-05-30
-       Última actualización: 2026-06-15
+       Última actualización: 2026-08-21
        → https://clinicaltrials.gov/study/NCT05548296
 
   [INSM]

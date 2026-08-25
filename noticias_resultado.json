@@ -1,8 +1,8 @@
 {
-  "generado": "24/08/2026 08:02 UTC",
+  "generado": "25/08/2026 07:55 UTC",
   "plazo_horas": 72,
-  "desde": "2026-08-21",
-  "hasta": "2026-08-24",
+  "desde": "2026-08-22",
+  "hasta": "2026-08-25",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -18,22 +18,10 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "SNDX",
-          "titulo": "UBS Maintains Buy on Syndax Pharmaceuticals, Lowers Price Target to $33",
-          "resumen": "UBS  analyst David Dai   maintains Syndax Pharmaceuticals (NASDAQ:SNDX) with a Buy and lowers the price target from $37 to $33.",
-          "fuente": "Benzinga",
-          "fecha": "21 Aug 2026 11:44 UTC",
-          "url": "https://finnhub.io/api/news?id=a8fb56fc29af5a4c58b46c8225552e4ec87ff2df19a2e39f9da0a897ef326a6f",
-          "imagen": "",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 1
     },
     "ARGX": {
       "nombre": "ARGX",
@@ -55,21 +43,15 @@
     },
     "VKTX": {
       "nombre": "VKTX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
-    },
-    "VRTX": {
-      "nombre": "VRTX",
       "noticias": [
         {
-          "ticker": "VRTX",
-          "titulo": "Uber, ServiceNow And A Health Care Stock On CNBC’s ‘Final Trades’",
-          "resumen": "CNBC&#39;s Halftime Report Final Trades: Sechan picked ServiceNow (NYSE: NOW), Lebenthal chose Vertex (NASDAQ: VRTX) and Brown recommended Uber (NYSE: UBER).",
+          "ticker": "VKTX",
+          "titulo": "10 Health Care Stocks Whale Activity In Today’s Session",
+          "resumen": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders will",
           "fuente": "Benzinga",
-          "fecha": "21 Aug 2026 08:19 UTC",
-          "url": "https://finnhub.io/api/news?id=c860ce08d4e08f9258062cb8d66f67f20b4b52147ffd6129f0e478139ec5544b",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/21/Expert-Sees-Lower-Payments.jpg?width=2048&height=1536",
+          "fecha": "24 Aug 2026 13:35 UTC",
+          "url": "https://finnhub.io/api/news?id=51e21f3e9e89a69ade69beb2705a25f5ef509f927e49a56f97601ab66eb255f0",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=2048&height=1536",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
@@ -78,11 +60,30 @@
       "nivel": "azul",
       "total": 1
     },
-    "ALNY": {
-      "nombre": "ALNY",
+    "VRTX": {
+      "nombre": "VRTX",
       "noticias": [],
       "nivel": "ok",
       "total": 0
+    },
+    "ALNY": {
+      "nombre": "ALNY",
+      "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam Pharmaceuticals To Present New Clinical And Real-World Data Across Its Transthyretin-Mediated Amyloidosis And Hypertension Programs At ESC Congress 2026",
+          "resumen": "Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY), the leading RNAi therapeutics company, today announced that it will present new clinical and real-world data across its transthyretin-mediated amyloidosis (ATTR) and",
+          "fuente": "Benzinga",
+          "fecha": "24 Aug 2026 08:35 UTC",
+          "url": "https://finnhub.io/api/news?id=e7809d04cdb827ba17a430a133cbbd51dfdc77bcd122664ac55ddf023d73fbd4",
+          "imagen": "",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "BEAM": {
       "nombre": "BEAM",
@@ -104,22 +105,9 @@
     },
     "GPCR": {
       "nombre": "GPCR",
-      "noticias": [
-        {
-          "ticker": "GPCR",
-          "titulo": "Structure Therapeutics: A Strong Bet For An Oral GLP-1 Approval Before 2030",
-          "resumen": "Structure Therapeutics (GPCR): oral GLP-1 aleniglipron shows 16.2% weight loss; Phase 3 underway, cash runway strong. Read the latest analysis on the stock here.",
-          "fuente": "SeekingAlpha",
-          "fecha": "21 Aug 2026 14:21 UTC",
-          "url": "https://finnhub.io/api/news?id=99548412b77ed23e174fa11874a35ab1341258bddc26292eb7fc253b99d11575",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1139275573/image_1139275573.jpg?io=getty-c-w1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "ABVX": {
       "nombre": "ABVX",
@@ -129,9 +117,22 @@
     },
     "VERA": {
       "nombre": "VERA",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "VERA",
+          "titulo": "Napco Security Technologies Posts Upbeat Q4 Results, Joins Alvotech, Rum Group And Other Big Stocks Moving Higher On Monday",
+          "resumen": "The text discusses recent gains in the stock market, particularly for companies like Napco Security Technologies and SuperX AI Technology. US stocks were mixed, with the Dow Jones index gaining 150 points. Napco Security Technologies rose after better-than-expected results. Other big gainers include",
+          "fuente": "Benzinga",
+          "fecha": "24 Aug 2026 10:22 UTC",
+          "url": "https://finnhub.io/api/news?id=be44b7ef7769831f0729d8dc970b693853705a4709ed7db877e37e56bbaf024a",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/24/Display-Of-Stock-Market-Quotes.jpg?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "ACRV": {
       "nombre": "ACRV",
@@ -173,35 +174,11 @@
   },
   "resumen": {
     "total_noticias": 5,
-    "tickers_con_noticias": 4,
-    "alertas_urgentes": 2,
-    "sin_noticias": 13
+    "tickers_con_noticias": 5,
+    "alertas_urgentes": 3,
+    "sin_noticias": 12
   },
   "todas_noticias": [
-    {
-      "ticker": "SNDX",
-      "titulo": "UBS Maintains Buy on Syndax Pharmaceuticals, Lowers Price Target to $33",
-      "resumen": "UBS  analyst David Dai   maintains Syndax Pharmaceuticals (NASDAQ:SNDX) with a Buy and lowers the price target from $37 to $33.",
-      "fuente": "Benzinga",
-      "fecha": "21 Aug 2026 11:44 UTC",
-      "url": "https://finnhub.io/api/news?id=a8fb56fc29af5a4c58b46c8225552e4ec87ff2df19a2e39f9da0a897ef326a6f",
-      "imagen": "",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "GPCR",
-      "titulo": "Structure Therapeutics: A Strong Bet For An Oral GLP-1 Approval Before 2030",
-      "resumen": "Structure Therapeutics (GPCR): oral GLP-1 aleniglipron shows 16.2% weight loss; Phase 3 underway, cash runway strong. Read the latest analysis on the stock here.",
-      "fuente": "SeekingAlpha",
-      "fecha": "21 Aug 2026 14:21 UTC",
-      "url": "https://finnhub.io/api/news?id=99548412b77ed23e174fa11874a35ab1341258bddc26292eb7fc253b99d11575",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1139275573/image_1139275573.jpg?io=getty-c-w1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "SNDX",
       "titulo": "Citi Predicts Up to 410% Rally for These 2 ‘Strong Buy’ Stocks",
@@ -215,16 +192,28 @@
       "badge": "🔴"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "Uber, ServiceNow And A Health Care Stock On CNBC’s ‘Final Trades’",
-      "resumen": "CNBC&#39;s Halftime Report Final Trades: Sechan picked ServiceNow (NYSE: NOW), Lebenthal chose Vertex (NASDAQ: VRTX) and Brown recommended Uber (NYSE: UBER).",
+      "ticker": "ALNY",
+      "titulo": "Alnylam Pharmaceuticals To Present New Clinical And Real-World Data Across Its Transthyretin-Mediated Amyloidosis And Hypertension Programs At ESC Congress 2026",
+      "resumen": "Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY), the leading RNAi therapeutics company, today announced that it will present new clinical and real-world data across its transthyretin-mediated amyloidosis (ATTR) and",
       "fuente": "Benzinga",
-      "fecha": "21 Aug 2026 08:19 UTC",
-      "url": "https://finnhub.io/api/news?id=c860ce08d4e08f9258062cb8d66f67f20b4b52147ffd6129f0e478139ec5544b",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/21/Expert-Sees-Lower-Payments.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "fecha": "24 Aug 2026 08:35 UTC",
+      "url": "https://finnhub.io/api/news?id=e7809d04cdb827ba17a430a133cbbd51dfdc77bcd122664ac55ddf023d73fbd4",
+      "imagen": "",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VERA",
+      "titulo": "Napco Security Technologies Posts Upbeat Q4 Results, Joins Alvotech, Rum Group And Other Big Stocks Moving Higher On Monday",
+      "resumen": "The text discusses recent gains in the stock market, particularly for companies like Napco Security Technologies and SuperX AI Technology. US stocks were mixed, with the Dow Jones index gaining 150 points. Napco Security Technologies rose after better-than-expected results. Other big gainers include",
+      "fuente": "Benzinga",
+      "fecha": "24 Aug 2026 10:22 UTC",
+      "url": "https://finnhub.io/api/news?id=be44b7ef7769831f0729d8dc970b693853705a4709ed7db877e37e56bbaf024a",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/24/Display-Of-Stock-Market-Quotes.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "INSM",
@@ -234,6 +223,18 @@
       "fecha": "23 Aug 2026 14:22 UTC",
       "url": "https://finnhub.io/api/news?id=1bc7c8c3f2c66972d3399d77bb4313e98ddbdc8d97239280f5785bd552745225",
       "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2281845986/image_2281845986.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "10 Health Care Stocks Whale Activity In Today’s Session",
+      "resumen": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders will",
+      "fuente": "Benzinga",
+      "fecha": "24 Aug 2026 13:35 UTC",
+      "url": "https://finnhub.io/api/news?id=51e21f3e9e89a69ade69beb2705a25f5ef509f927e49a56f97601ab66eb255f0",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=2048&height=1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

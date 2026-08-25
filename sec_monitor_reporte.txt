@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 24/08/2026 07:57 | Período: últimos 7 días
-Desde: 2026-08-17 → Hasta: 2026-08-24
+Generado: 25/08/2026 07:42 | Período: últimos 7 días
+Desde: 2026-08-18 → Hasta: 2026-08-25
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 13 filings | 🔴 0 | 🟢 1 | 🟡 11 | 🔵 1 | ✅ 12 sin novedad
+RESUMEN: 8 filings | 🔴 0 | 🟢 1 | 🟡 6 | 🔵 1 | ✅ 13 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (1)
@@ -21,23 +21,7 @@ DETALLE POR TICKER — SEC EDGAR
 ──────────────────────────────────────────────────
   ✅ [SNDX] Sin novedades
   ✅ [ARGX] Sin novedades
-
-  🟡 [DYN] Dyne Therapeutics, Inc. — 5 filing(s)
-     🟡 MEDIA 4 | 2026-08-17 | Rhodes Jason P → Venta 268,354 acciones @ $26.20 | Post: 3,801,128 | Rutinaria/RSU/impuestos
-     Insider: Rhodes Jason P → Venta 268,354 acciones @ $26.20 | Post: 3,801,128 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1818794/000157701426000016/xslF345X06/form4-08172026_050803.xml
-     🟡 MEDIA 4 | 2026-08-17 | Friedl-Naderer Johanna (Chief Commercial Officer) → Venta 226 acciones @ $26.28 | Post: 153,982 | Rutinaria/RSU/impuestos
-     Insider: Friedl-Naderer Johanna (Chief Commercial Officer) → Venta 226 acciones @ $26.28 | Post: 153,982 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1818794/000191559826000004/xslF345X06/ownership.xml
-     🟡 MEDIA 4 | 2026-08-17 | Kerr Douglas (Chief Medical Officer) → Venta 1,556 acciones @ $26.28 | Post: 167,599 | Rutinaria/RSU/impuestos
-     Insider: Kerr Douglas (Chief Medical Officer) → Venta 1,556 acciones @ $26.28 | Post: 167,599 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1818794/000181418926000004/xslF345X06/ownership.xml
-     🟡 MEDIA 4 | 2026-08-17 | Cox John (CEO & President) → Venta 4,986 acciones @ $26.28 | Post: 363,165 | Rutinaria/RSU/impuestos
-     Insider: Cox John (CEO & President) → Venta 4,986 acciones @ $26.28 | Post: 363,165 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1818794/000149842826000004/xslF345X06/ownership.xml
-     🟡 MEDIA 4 | 2026-08-17 | Lucera Erick (Chief Financial Officer) → Venta 1,797 acciones @ $26.28 | Post: 119,766 | Rutinaria/RSU/impuestos
-     Insider: Lucera Erick (Chief Financial Officer) → Venta 1,797 acciones @ $26.28 | Post: 119,766 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1818794/000169761626000002/xslF345X06/ownership.xml
+  ✅ [DYN] Sin novedades
   ✅ [DNLI] Sin novedades
   ✅ [VKTX] Sin novedades
   ✅ [VRTX] Sin novedades

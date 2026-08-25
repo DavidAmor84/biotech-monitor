@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "24/08/2026 09:12",
-  "fecha": "2026-08-24",
+  "generado": "25/08/2026 09:07",
+  "fecha": "2026-08-25",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -366,7 +366,7 @@
           "study_completion_date": "2032-03",
           "study_completion_type": "ESTIMATED",
           "start_date": "2023-09-15",
-          "last_update_posted": "2026-06-30",
+          "last_update_posted": "2026-08-24",
           "conditions": [
             "Non-muscle Invasive Bladder Cancer"
           ],
@@ -403,7 +403,14 @@
           "ventana": "2026-2027",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-06-30 → 2026-08-24"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1180,14 +1187,7 @@
           "ventana": "2027",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2026-06-15 → 2026-08-21"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2353,7 +2353,14 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-06-30 → 2026-08-24"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT05951179"
     },
     {
@@ -2573,14 +2580,7 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2026-06-15 → 2026-08-21"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT05548296"
     },
     {

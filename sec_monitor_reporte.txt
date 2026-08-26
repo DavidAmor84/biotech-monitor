@@ -1,7 +1,7 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 25/08/2026 07:42 | Período: últimos 7 días
-Desde: 2026-08-18 → Hasta: 2026-08-25
+Generado: 26/08/2026 07:45 | Período: últimos 7 días
+Desde: 2026-08-19 → Hasta: 2026-08-26
 ══════════════════════════════════════════════════════════════
 
 RESUMEN: 8 filings | 🔴 0 | 🟢 1 | 🟡 6 | 🔵 1 | ✅ 13 sin novedad

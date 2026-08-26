@@ -1,27 +1,14 @@
 {
-  "generado": "25/08/2026 07:55 UTC",
+  "generado": "26/08/2026 07:55 UTC",
   "plazo_horas": 72,
-  "desde": "2026-08-22",
-  "hasta": "2026-08-25",
+  "desde": "2026-08-23",
+  "hasta": "2026-08-26",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
-      "noticias": [
-        {
-          "ticker": "SNDX",
-          "titulo": "Citi Predicts Up to 410% Rally for These 2 ‘Strong Buy’ Stocks",
-          "resumen": "With the third quarter well underway and most second-quarter earnings now in the rearview mirror, investors are starting to look ahead to the rest of 2026 and how best to position their portfolios.Summer Sale - Claim 70% Off TipRanks Unlock powerful investing tools with TipRanks Premium to make smar",
-          "fuente": "Yahoo",
-          "fecha": "22 Aug 2026 18:05 UTC",
-          "url": "https://finnhub.io/api/news?id=7f86cc41227a1553692eafb8b2e48199357d3bdd23fb6285bf7e6dede276bbc8",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "ARGX": {
       "nombre": "ARGX",
@@ -87,9 +74,22 @@
     },
     "BEAM": {
       "nombre": "BEAM",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "BEAM",
+          "titulo": "HC Wainwright & Co. Reiterates Buy on Beam Therapeutics, Maintains $80 Price Target",
+          "resumen": "HC Wainwright &amp; Co.  analyst Patrick R. Trucchio   reiterates Beam Therapeutics (NASDAQ:BEAM) with a Buy and maintains $80 price target.",
+          "fuente": "Benzinga",
+          "fecha": "25 Aug 2026 07:19 UTC",
+          "url": "https://finnhub.io/api/news?id=723adc09d8510bf2168b293a61faf31d6e9c573a0115bf4236762f2e5a27cde6",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "OCUL": {
       "nombre": "OCUL",
@@ -157,6 +157,18 @@
       "noticias": [
         {
           "ticker": "INSM",
+          "titulo": "Alger Mid Cap 40 ETF Q2 2026 Portfolio Review",
+          "resumen": "Astera Labs, Nebius Group, and Western Digital Corporation were among the top contributors to performance. Read more here.",
+          "fuente": "SeekingAlpha",
+          "fecha": "25 Aug 2026 09:20 UTC",
+          "url": "https://finnhub.io/api/news?id=bf6e4a5be5f8d4c6c035a65de20d0e071c529527c0d6156cf08ba640e21ea51a",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2242191078/image_2242191078.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "INSM",
           "titulo": "Invesco Discovery Mid Cap Growth Fund Q2 2026 Portfolio Performance",
           "resumen": "Invesco Discovery Mid Cap Growth Fund had a positive return and outperformed its benchmark in the second quarter. Read more here.",
           "fuente": "SeekingAlpha",
@@ -169,28 +181,16 @@
         }
       ],
       "nivel": "azul",
-      "total": 1
+      "total": 2
     }
   },
   "resumen": {
-    "total_noticias": 5,
+    "total_noticias": 6,
     "tickers_con_noticias": 5,
-    "alertas_urgentes": 3,
+    "alertas_urgentes": 2,
     "sin_noticias": 12
   },
   "todas_noticias": [
-    {
-      "ticker": "SNDX",
-      "titulo": "Citi Predicts Up to 410% Rally for These 2 ‘Strong Buy’ Stocks",
-      "resumen": "With the third quarter well underway and most second-quarter earnings now in the rearview mirror, investors are starting to look ahead to the rest of 2026 and how best to position their portfolios.Summer Sale - Claim 70% Off TipRanks Unlock powerful investing tools with TipRanks Premium to make smar",
-      "fuente": "Yahoo",
-      "fecha": "22 Aug 2026 18:05 UTC",
-      "url": "https://finnhub.io/api/news?id=7f86cc41227a1553692eafb8b2e48199357d3bdd23fb6285bf7e6dede276bbc8",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "ALNY",
       "titulo": "Alnylam Pharmaceuticals To Present New Clinical And Real-World Data Across Its Transthyretin-Mediated Amyloidosis And Hypertension Programs At ESC Congress 2026",
@@ -235,6 +235,30 @@
       "fecha": "24 Aug 2026 13:35 UTC",
       "url": "https://finnhub.io/api/news?id=51e21f3e9e89a69ade69beb2705a25f5ef509f927e49a56f97601ab66eb255f0",
       "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "HC Wainwright & Co. Reiterates Buy on Beam Therapeutics, Maintains $80 Price Target",
+      "resumen": "HC Wainwright &amp; Co.  analyst Patrick R. Trucchio   reiterates Beam Therapeutics (NASDAQ:BEAM) with a Buy and maintains $80 price target.",
+      "fuente": "Benzinga",
+      "fecha": "25 Aug 2026 07:19 UTC",
+      "url": "https://finnhub.io/api/news?id=723adc09d8510bf2168b293a61faf31d6e9c573a0115bf4236762f2e5a27cde6",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Alger Mid Cap 40 ETF Q2 2026 Portfolio Review",
+      "resumen": "Astera Labs, Nebius Group, and Western Digital Corporation were among the top contributors to performance. Read more here.",
+      "fuente": "SeekingAlpha",
+      "fecha": "25 Aug 2026 09:20 UTC",
+      "url": "https://finnhub.io/api/news?id=bf6e4a5be5f8d4c6c035a65de20d0e071c529527c0d6156cf08ba640e21ea51a",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2242191078/image_2242191078.jpg?io=getty-c-w1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

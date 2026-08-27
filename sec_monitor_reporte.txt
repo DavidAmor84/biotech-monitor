@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 26/08/2026 07:45 | Período: últimos 7 días
-Desde: 2026-08-19 → Hasta: 2026-08-26
+Generado: 27/08/2026 18:06 | Período: últimos 7 días
+Desde: 2026-08-20 → Hasta: 2026-08-27
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 8 filings | 🔴 0 | 🟢 1 | 🟡 6 | 🔵 1 | ✅ 13 sin novedad
+RESUMEN: 10 filings | 🔴 0 | 🟢 1 | 🟡 9 | 🔵 0 | ✅ 14 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (1)
@@ -27,13 +27,22 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [VRTX] Sin novedades
   ✅ [ALNY] Sin novedades
   ✅ [BEAM] Sin novedades
-  ✅ [OCUL] Sin novedades
-  ✅ [CAI] Sin novedades
 
-  🔵 [GPCR] Structure Therapeutics Inc. — 1 filing(s)
-     🔵 INFO 4 | 2026-08-19 | Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 11,817 acciones @ $0.34 | Post: 240,777 | Rutinaria/RSU/impuestos
-     Insider: Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 11,817 acciones @ $0.34 | Post: 240,777 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1888886/000196292626000008/xslF345X06/form4-08202026_120854.xml
+  🟡 [OCUL] OCULAR THERAPEUTIX, INC — 4 filing(s)
+     🟡 MEDIA 4 | 2026-08-26 | Kaiser Peter (Chief Development Officer) → Venta 3,035 acciones @ $10.77 | Post: 264,378 | Rutinaria/RSU/impuestos
+     Insider: Kaiser Peter (Chief Development Officer) → Venta 3,035 acciones @ $10.77 | Post: 264,378 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926101674/xslF345X06/tm2624096-4_4seq1.xml
+     🟡 MEDIA 4 | 2026-08-26 | Nayak Sanjay (Chief Strategy Officer) → Venta 1,897 acciones @ $10.78 | Post: 326,898 | Rutinaria/RSU/impuestos
+     Insider: Nayak Sanjay (Chief Strategy Officer) → Venta 1,897 acciones @ $10.78 | Post: 326,898 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926101671/xslF345X06/tm2624096-3_4seq1.xml
+     🟡 MEDIA 4 | 2026-08-26 | Heier Jeffrey S. (Chief Scientific Officer) → Venta 3,296 acciones @ $10.78 | Post: 318,326 | Rutinaria/RSU/impuestos
+     Insider: Heier Jeffrey S. (Chief Scientific Officer) → Venta 3,296 acciones @ $10.78 | Post: 318,326 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926101670/xslF345X06/tm2624096-2_4seq1.xml
+     🟡 MEDIA 4 | 2026-08-26 | Dugel Pravin (Director / See Remarks) → Venta 21,649 acciones @ $10.77 | Post: 2,525,429 | Rutinaria/RSU/impuestos
+     Insider: Dugel Pravin (Director / See Remarks) → Venta 21,649 acciones @ $10.77 | Post: 2,525,429 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926101667/xslF345X06/tm2624096-1_4seq1.xml
+  ✅ [CAI] Sin novedades
+  ✅ [GPCR] Sin novedades
   ✅ [ABVX] Sin novedades
   ✅ [VERA] Sin novedades
 
@@ -59,11 +68,7 @@ DETALLE POR TICKER — SEC EDGAR
      🟢 ALTA 4 | 2026-08-20 | Insider BUY: ROEDER DOUGLAS A → Compra 13,953 acciones @ $8.98 | Post: 171,191
      Insider: ROEDER DOUGLAS A → Compra 13,953 acciones @ $8.98 | Post: 171,191
      → https://www.sec.gov/Archives/edgar/data/1616543/000127073526000014/xslF345X06/form4-08202026_100815.xml
-
-  🟡 [INSM] INSMED Inc — 1 filing(s)
-     🟡 MEDIA 4 | 2026-08-19 | SHAROKY MELVIN MD (Director) → Venta 5,000 acciones @ $127.53 | Post: 0
-     Insider: SHAROKY MELVIN MD (Director) → Venta 5,000 acciones @ $127.53 | Post: 0
-     → https://www.sec.gov/Archives/edgar/data/1104506/000118263326000010/xslF345X06/wk-form4_1787170216.xml
+  ✅ [INSM] Sin novedades
   ⚪ [NWL] Sin CIK SEC
 
 ──────────────────────────────────────────────────

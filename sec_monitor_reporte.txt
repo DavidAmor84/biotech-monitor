@@ -1,20 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 27/08/2026 18:06 | Período: últimos 7 días
-Desde: 2026-08-20 → Hasta: 2026-08-27
+Generado: 28/08/2026 19:16 | Período: últimos 7 días
+Desde: 2026-08-21 → Hasta: 2026-08-28
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 10 filings | 🔴 0 | 🟢 1 | 🟡 9 | 🔵 0 | ✅ 14 sin novedad
-
-──────────────────────────────────────────────────
-🚨 ALERTAS CRÍTICAS (1)
-──────────────────────────────────────────────────
-
-  [SENS] Senseonics Holdings, Inc.
-  🟢 ALTA 4 | 2026-08-20
-  Insider BUY: ROEDER DOUGLAS A → Compra 13,953 acciones @ $8.98 | Post: 171,191
-  Insider: ROEDER DOUGLAS A → Compra 13,953 acciones @ $8.98 | Post: 171,191
-  → https://www.sec.gov/Archives/edgar/data/1616543/000127073526000014/xslF345X06/form4-08202026_100815.xml
+RESUMEN: 5 filings | 🔴 0 | 🟢 0 | 🟡 5 | 🔵 0 | ✅ 15 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -46,28 +36,12 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [ABVX] Sin novedades
   ✅ [VERA] Sin novedades
 
-  🟡 [ACRV] Acrivon Therapeutics, Inc. — 5 filing(s)
-     🟡 MEDIA 4 | 2026-08-20 | Peterson Katharine (Chief Accounting Officer) → Venta 101 acciones @ $2.01 | Post: 18,033 | Rutinaria/RSU/impuestos
-     Insider: Peterson Katharine (Chief Accounting Officer) → Venta 101 acciones @ $2.01 | Post: 18,033 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003840/xslF345X06/form4.xml
-     🟡 MEDIA 4 | 2026-08-20 | Miller Mary (Chief Legal Officer) → Venta 185 acciones @ $2.01 | Post: 82,009 | Rutinaria/RSU/impuestos
-     Insider: Miller Mary (Chief Legal Officer) → Venta 185 acciones @ $2.01 | Post: 82,009 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003839/xslF345X06/form4.xml
-     🟡 MEDIA 4 | 2026-08-20 | Gamelin Erick (Chief Development Officer) → Venta 400 acciones @ $2.01 | Post: 52,592 | Rutinaria/RSU/impuestos
-     Insider: Gamelin Erick (Chief Development Officer) → Venta 400 acciones @ $2.01 | Post: 52,592 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003838/xslF345X06/form4.xml
-     🟡 MEDIA 4 | 2026-08-20 | Devroe Eric (Chief Operating Officer) → Venta 604 acciones @ $2.01 | Post: 146,349 | Rutinaria/RSU/impuestos
-     Insider: Devroe Eric (Chief Operating Officer) → Venta 604 acciones @ $2.01 | Post: 146,349 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003837/xslF345X06/form4.xml
-     🟡 MEDIA 4 | 2026-08-20 | Blume-Jensen Peter (President and CEO) → Venta 1,229 acciones @ $2.01 | Post: 2,244,088 | Rutinaria/RSU/impuestos
-     Insider: Blume-Jensen Peter (President and CEO) → Venta 1,229 acciones @ $2.01 | Post: 2,244,088 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003836/xslF345X06/form4.xml
+  🟡 [ACRV] Acrivon Therapeutics, Inc. — 1 filing(s)
+     🟡 MEDIA 4 | 2026-08-27 | Blume-Jensen Peter (President and CEO) → Venta 14,036 acciones @ $2.21 | Post: 2,230,052 | Rutinaria/RSU/impuestos
+     Insider: Blume-Jensen Peter (President and CEO) → Venta 14,036 acciones @ $2.21 | Post: 2,230,052 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003968/xslF345X06/form4.xml
   ✅ [TARA] Sin novedades
-
-  🟢 [SENS] Senseonics Holdings, Inc. — 1 filing(s)
-     🟢 ALTA 4 | 2026-08-20 | Insider BUY: ROEDER DOUGLAS A → Compra 13,953 acciones @ $8.98 | Post: 171,191
-     Insider: ROEDER DOUGLAS A → Compra 13,953 acciones @ $8.98 | Post: 171,191
-     → https://www.sec.gov/Archives/edgar/data/1616543/000127073526000014/xslF345X06/form4-08202026_100815.xml
+  ✅ [SENS] Sin novedades
   ✅ [INSM] Sin novedades
   ⚪ [NWL] Sin CIK SEC
 
@@ -86,7 +60,7 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Reclutando activamente
        Enrollment: 468 pacientes
        Primary completion: 2029-06
-       Última actualización: 2026-07-23
+       Última actualización: 2026-08-28
        → https://clinicaltrials.gov/study/NCT07211958
 
   [DYN]

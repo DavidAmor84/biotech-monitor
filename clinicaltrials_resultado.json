@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "27/08/2026 19:11",
-  "fecha": "2026-08-27",
+  "generado": "28/08/2026 20:17",
+  "fecha": "2026-08-28",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -756,7 +756,7 @@
           "study_completion_date": "2031-01",
           "study_completion_type": "ESTIMATED",
           "start_date": "2025-11-25",
-          "last_update_posted": "2026-07-23",
+          "last_update_posted": "2026-08-28",
           "conditions": [
             "Acute Myeloid Leukemias"
           ],
@@ -794,7 +794,14 @@
           "ventana": "2029",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-07-23 → 2026-08-28"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1640,14 +1647,7 @@
           "ventana": "2027-2030",
           "monitorizar": true,
           "peso_importancia": 7,
-          "cambios": [
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2026-07-21 → 2026-08-26"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2097,14 +2097,7 @@
           "ventana": "2026-2028",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2026-08-04 → 2026-08-26"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2480,7 +2473,14 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-07-23 → 2026-08-28"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT07211958"
     },
     {
@@ -2664,33 +2664,6 @@
       "url": "https://clinicaltrials.gov/study/NCT06298552"
     },
     {
-      "ticker": "ARGX",
-      "nct": "NCT06920004",
-      "nombre": "emvigorate Ph3 — empasiprubart vs IVIg — CIDP head-to-head",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2027-09",
-      "mensaje": "Reclutando",
-      "prioridad": "media",
-      "estrellas": "⭐⭐",
-      "tipo": "pivotal",
-      "catalizador": "datos Phase 3",
-      "ventana": "2027-2030",
-      "peso_importancia": 7,
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2026-07-21 → 2026-08-26"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06920004"
-    },
-    {
       "ticker": "DNLI",
       "nct": "NCT05371613",
       "nombre": "COMPASS Ph2/3 — tividenofusp alfa (DNL310) — Hunter MPS II",
@@ -2767,14 +2740,7 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2026-08-04 → 2026-08-26"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT05312879"
     },
     {

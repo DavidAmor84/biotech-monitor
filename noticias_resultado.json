@@ -1,8 +1,8 @@
 {
-  "generado": "28/08/2026 19:24 UTC",
+  "generado": "31/08/2026 15:03 UTC",
   "plazo_horas": 72,
-  "desde": "2026-08-25",
-  "hasta": "2026-08-28",
+  "desde": "2026-08-28",
+  "hasta": "2026-08-31",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -12,34 +12,9 @@
     },
     "ARGX": {
       "nombre": "ARGX",
-      "noticias": [
-        {
-          "ticker": "ARGX",
-          "titulo": "UBS Upgrades argenx to Buy, Raises Price Target to $1400",
-          "resumen": "UBS  analyst Xian Deng   upgrades argenx (NASDAQ:ARGX) from Neutral to Buy and raises the price target from $960 to $1400.",
-          "fuente": "Benzinga",
-          "fecha": "26 Aug 2026 12:02 UTC",
-          "url": "https://finnhub.io/api/news?id=ccc529d3564d8fa0df35c43f23f595ea084ee8eaca9379890e49979fd8eba436",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "Wells Fargo Maintains Overweight on argenx, Raises Price Target to $1415",
-          "resumen": "Wells Fargo  analyst Derek Archila   maintains argenx (NASDAQ:ARGX) with a Overweight and raises the price target from $1350 to $1415.",
-          "fuente": "Benzinga",
-          "fecha": "26 Aug 2026 08:47 UTC",
-          "url": "https://finnhub.io/api/news?id=3e05375e87bf1032b87b9b25965c8f5a23f0281e8a26f5f4f474011df0f7add0",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 2
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "DYN": {
       "nombre": "DYN",
@@ -61,64 +36,28 @@
     },
     "VRTX": {
       "nombre": "VRTX",
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
+    },
+    "ALNY": {
+      "nombre": "ALNY",
       "noticias": [
         {
-          "ticker": "VRTX",
-          "titulo": "If You Invested $100 In Vertex Pharmaceuticals Stock 20 Years Ago, You Would Have This Much Today",
-          "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) has outperformed the market over the past 20 years by 5.32% on an annualized basis producing an average annual return of 14.56%. Currently, Vertex Pharmaceuticals has a market",
+          "ticker": "ALNY",
+          "titulo": "If You Invested $100 In Alnylam Pharmaceuticals Stock 20 Years Ago, You Would Have This Much Today",
+          "resumen": "Alnylam Pharmaceuticals (NASDAQ:ALNY) has outperformed the market over the past 20 years by 5.86% on an annualized basis producing an average annual return of 15.09%. Currently, Alnylam Pharmaceuticals has a market",
           "fuente": "Benzinga",
-          "fecha": "27 Aug 2026 18:30 UTC",
-          "url": "https://finnhub.io/api/news?id=9e15849a5291795973d1ff60d89173fba9ef89cac40c0b1eef7ddc20906a3b06",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_3.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex to Participate in Upcoming September Investor Conferences",
-          "resumen": "BOSTON, August 26, 2026--Vertex Pharmaceuticals Incorporated (Nasdaq: VRTX) today announced management participation in four upcoming investor conferences.",
-          "fuente": "Yahoo",
-          "fecha": "26 Aug 2026 20:00 UTC",
-          "url": "https://finnhub.io/api/news?id=9d227bb9788bbec12f4ada19baf0f9a5b3442ec7c4b503cb31198016994d61bf",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals Up 15% in a Month: How to Play the Stock",
-          "resumen": "Vertex's stock is up 15% in a month as strong CF sales, rising non-CF drug revenues and renal pipeline progress boost its growth story.",
-          "fuente": "Yahoo",
-          "fecha": "26 Aug 2026 13:33 UTC",
-          "url": "https://finnhub.io/api/news?id=494fc4a7e7e95660a751b27eb0ae630285a8b5d40336969ed3193c07198cabfc",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "2 Large-Cap Stocks to Research Further and 1 We Question",
-          "resumen": "Large-cap stocks are known for their staying power and ability to weather market storms better than smaller competitors. However, their sheer size makes it more challenging to maintain high growth rates as they’ve already captured significant portions of their markets.",
-          "fuente": "Yahoo",
-          "fecha": "26 Aug 2026 09:31 UTC",
-          "url": "https://finnhub.io/api/news?id=2efc1eb2f1504efc935bad39ac81fc43191acc9d8325e302cef134c0b83a88df",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "fecha": "28 Aug 2026 18:00 UTC",
+          "url": "https://finnhub.io/api/news?id=1b008e5e638cee619b90d9160ef8884d66f7c539e91b0f7917b6f5fba6212802",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_2.jpg?width=2048&height=1536",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         }
       ],
-      "nivel": "rojo",
-      "total": 4
-    },
-    "ALNY": {
-      "nombre": "ALNY",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "nivel": "azul",
+      "total": 1
     },
     "BEAM": {
       "nombre": "BEAM",
@@ -134,52 +73,21 @@
     },
     "CAI": {
       "nombre": "CAI",
-      "noticias": [
-        {
-          "ticker": "CAI",
-          "titulo": "Caris Life Sciences Announces Publication Of Study Validating An AI-Driven Approach To First-Line Treatment Selection In Pancreatic Cancer In The Journal 'npj Precision Oncology'",
-          "resumen": "The study demonstrates the performance of Caris AI Insights™ to predict first-line treatment benefit using an AI–based molecular signature. In the testing cohort, standard molecular risk patients predicted to benefit",
-          "fuente": "Benzinga",
-          "fecha": "27 Aug 2026 08:35 UTC",
-          "url": "https://finnhub.io/api/news?id=3b32f63c70fd7053a002058d3415f82a6c3bad53c7ddcd1ac8f91fd5f509ba40",
-          "imagen": "",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "CAI",
-          "titulo": "Nasdaq 100 Falls as Hot PCE Inflation Stirs Rate-Hike Bets: Stock Market Today",
-          "resumen": "Nasdaq 100 falls 0.6% as traders wait on Nvidia and hot July PCE revives September rate-hike bets. Energy leads, gold sinks 1.3% to $4,599.",
-          "fuente": "Benzinga",
-          "fecha": "26 Aug 2026 12:58 UTC",
-          "url": "https://finnhub.io/api/news?id=cf087cbfcf6442c6f145fa7516f2c7ae3657b296cc038e226f8f91a561b7c4f8",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/26/Stocks-Fall--Technology-Businesses-Do-No.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 2
-    },
-    "GPCR": {
-      "nombre": "GPCR",
       "noticias": [],
       "nivel": "ok",
       "total": 0
     },
-    "ABVX": {
-      "nombre": "ABVX",
+    "GPCR": {
+      "nombre": "GPCR",
       "noticias": [
         {
-          "ticker": "ABVX",
-          "titulo": "10 Health Care Stocks With Whale Alerts In Today’s Session",
-          "resumen": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
-          "fuente": "Benzinga",
-          "fecha": "27 Aug 2026 13:35 UTC",
-          "url": "https://finnhub.io/api/news?id=b76b2b2c443ab9cdc5e0d7b1f80faa2c059934c65cbfad7ab85c3c4e47c4c2d8",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=2048&height=1536",
+          "ticker": "GPCR",
+          "titulo": "Septerna: GPCR Programs May Be Experimental, But I'm Holding For The Long Term",
+          "resumen": "Septerna, Inc. has surged >315% since May 2025, driven by its GPCR-focused drug discovery and a high-profile collaboration with Novo Nordisk. Click for more.",
+          "fuente": "SeekingAlpha",
+          "fecha": "28 Aug 2026 18:00 UTC",
+          "url": "https://finnhub.io/api/news?id=07804cbf9e4f2d111a2c2b25c15d68ad7507e5ec78bbb0a5ccfd74da9c912136",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2223811421/image_2223811421.jpg?io=getty-c-w1536",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
@@ -187,6 +95,12 @@
       ],
       "nivel": "azul",
       "total": 1
+    },
+    "ABVX": {
+      "nombre": "ABVX",
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "VERA": {
       "nombre": "VERA",
@@ -220,116 +134,32 @@
     }
   },
   "resumen": {
-    "total_noticias": 9,
-    "tickers_con_noticias": 4,
-    "alertas_urgentes": 2,
-    "sin_noticias": 13
+    "total_noticias": 2,
+    "tickers_con_noticias": 2,
+    "alertas_urgentes": 0,
+    "sin_noticias": 15
   },
   "todas_noticias": [
     {
-      "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals Up 15% in a Month: How to Play the Stock",
-      "resumen": "Vertex's stock is up 15% in a month as strong CF sales, rising non-CF drug revenues and renal pipeline progress boost its growth story.",
-      "fuente": "Yahoo",
-      "fecha": "26 Aug 2026 13:33 UTC",
-      "url": "https://finnhub.io/api/news?id=494fc4a7e7e95660a751b27eb0ae630285a8b5d40336969ed3193c07198cabfc",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "CAI",
-      "titulo": "Caris Life Sciences Announces Publication Of Study Validating An AI-Driven Approach To First-Line Treatment Selection In Pancreatic Cancer In The Journal 'npj Precision Oncology'",
-      "resumen": "The study demonstrates the performance of Caris AI Insights™ to predict first-line treatment benefit using an AI–based molecular signature. In the testing cohort, standard molecular risk patients predicted to benefit",
+      "ticker": "ALNY",
+      "titulo": "If You Invested $100 In Alnylam Pharmaceuticals Stock 20 Years Ago, You Would Have This Much Today",
+      "resumen": "Alnylam Pharmaceuticals (NASDAQ:ALNY) has outperformed the market over the past 20 years by 5.86% on an annualized basis producing an average annual return of 15.09%. Currently, Alnylam Pharmaceuticals has a market",
       "fuente": "Benzinga",
-      "fecha": "27 Aug 2026 08:35 UTC",
-      "url": "https://finnhub.io/api/news?id=3b32f63c70fd7053a002058d3415f82a6c3bad53c7ddcd1ac8f91fd5f509ba40",
-      "imagen": "",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "Wells Fargo Maintains Overweight on argenx, Raises Price Target to $1415",
-      "resumen": "Wells Fargo  analyst Derek Archila   maintains argenx (NASDAQ:ARGX) with a Overweight and raises the price target from $1350 to $1415.",
-      "fuente": "Benzinga",
-      "fecha": "26 Aug 2026 08:47 UTC",
-      "url": "https://finnhub.io/api/news?id=3e05375e87bf1032b87b9b25965c8f5a23f0281e8a26f5f4f474011df0f7add0",
-      "imagen": "",
+      "fecha": "28 Aug 2026 18:00 UTC",
+      "url": "https://finnhub.io/api/news?id=1b008e5e638cee619b90d9160ef8884d66f7c539e91b0f7917b6f5fba6212802",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_2.jpg?width=2048&height=1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "2 Large-Cap Stocks to Research Further and 1 We Question",
-      "resumen": "Large-cap stocks are known for their staying power and ability to weather market storms better than smaller competitors. However, their sheer size makes it more challenging to maintain high growth rates as they’ve already captured significant portions of their markets.",
-      "fuente": "Yahoo",
-      "fecha": "26 Aug 2026 09:31 UTC",
-      "url": "https://finnhub.io/api/news?id=2efc1eb2f1504efc935bad39ac81fc43191acc9d8325e302cef134c0b83a88df",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "UBS Upgrades argenx to Buy, Raises Price Target to $1400",
-      "resumen": "UBS  analyst Xian Deng   upgrades argenx (NASDAQ:ARGX) from Neutral to Buy and raises the price target from $960 to $1400.",
-      "fuente": "Benzinga",
-      "fecha": "26 Aug 2026 12:02 UTC",
-      "url": "https://finnhub.io/api/news?id=ccc529d3564d8fa0df35c43f23f595ea084ee8eaca9379890e49979fd8eba436",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "CAI",
-      "titulo": "Nasdaq 100 Falls as Hot PCE Inflation Stirs Rate-Hike Bets: Stock Market Today",
-      "resumen": "Nasdaq 100 falls 0.6% as traders wait on Nvidia and hot July PCE revives September rate-hike bets. Energy leads, gold sinks 1.3% to $4,599.",
-      "fuente": "Benzinga",
-      "fecha": "26 Aug 2026 12:58 UTC",
-      "url": "https://finnhub.io/api/news?id=cf087cbfcf6442c6f145fa7516f2c7ae3657b296cc038e226f8f91a561b7c4f8",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/08/26/Stocks-Fall--Technology-Businesses-Do-No.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex to Participate in Upcoming September Investor Conferences",
-      "resumen": "BOSTON, August 26, 2026--Vertex Pharmaceuticals Incorporated (Nasdaq: VRTX) today announced management participation in four upcoming investor conferences.",
-      "fuente": "Yahoo",
-      "fecha": "26 Aug 2026 20:00 UTC",
-      "url": "https://finnhub.io/api/news?id=9d227bb9788bbec12f4ada19baf0f9a5b3442ec7c4b503cb31198016994d61bf",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ABVX",
-      "titulo": "10 Health Care Stocks With Whale Alerts In Today’s Session",
-      "resumen": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
-      "fuente": "Benzinga",
-      "fecha": "27 Aug 2026 13:35 UTC",
-      "url": "https://finnhub.io/api/news?id=b76b2b2c443ab9cdc5e0d7b1f80faa2c059934c65cbfad7ab85c3c4e47c4c2d8",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "If You Invested $100 In Vertex Pharmaceuticals Stock 20 Years Ago, You Would Have This Much Today",
-      "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) has outperformed the market over the past 20 years by 5.32% on an annualized basis producing an average annual return of 14.56%. Currently, Vertex Pharmaceuticals has a market",
-      "fuente": "Benzinga",
-      "fecha": "27 Aug 2026 18:30 UTC",
-      "url": "https://finnhub.io/api/news?id=9e15849a5291795973d1ff60d89173fba9ef89cac40c0b1eef7ddc20906a3b06",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_3.jpg?width=2048&height=1536",
+      "ticker": "GPCR",
+      "titulo": "Septerna: GPCR Programs May Be Experimental, But I'm Holding For The Long Term",
+      "resumen": "Septerna, Inc. has surged >315% since May 2025, driven by its GPCR-focused drug discovery and a high-profile collaboration with Novo Nordisk. Click for more.",
+      "fuente": "SeekingAlpha",
+      "fecha": "28 Aug 2026 18:00 UTC",
+      "url": "https://finnhub.io/api/news?id=07804cbf9e4f2d111a2c2b25c15d68ad7507e5ec78bbb0a5ccfd74da9c912136",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2223811421/image_2223811421.jpg?io=getty-c-w1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "31/08/2026 16:16",
-  "fecha": "2026-08-31",
+  "generado": "01/09/2026 13:36",
+  "fecha": "2026-09-01",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -11,8 +11,8 @@
     "validacion_error": 0,
     "alertas_rojas": 0,
     "alertas_verdes": 5,
-    "alertas_amarillas": 0,
-    "alertas_azules": 29,
+    "alertas_amarillas": 1,
+    "alertas_azules": 28,
     "errores": 0
   },
   "empresas": {
@@ -2098,8 +2098,8 @@
         {
           "nct": "NCT04786262",
           "nombre_usuario": "FORWARD-101 Ph1/2/3 — zimislecel (VX-880) — T1D",
-          "titulo": "A Safety, Tolerability, and Efficacy Study of VX-880 in Participants With Type 1 Diabetes",
-          "titulo_oficial": "A Phase 1/2/3 Study to Evaluate the Safety, Tolerability, and Efficacy of VX-880 in Subjects Who Have Type 1 Diabetes Mellitus With Impaired Hypoglycemic Awareness and Severe Hypoglycemia",
+          "titulo": "A Safety, Tolerability, and Efficacy Study of VX-880 and VX-017 in Participants With Type 1 Diabetes",
+          "titulo_oficial": "A Master Protocol to Evaluate the Safety, Tolerability, and Efficacy of Islet Cell Replacement Therapies in Subjects Who Have Type 1 Diabetes Mellitus With Impaired Hypoglycemic Awareness and Severe Hypoglycemia: A Phase 1/2/3 Study of VX-880 and a Phase 1/2 Study of VX-017",
           "sponsor": "Vertex Pharmaceuticals Incorporated",
           "collaborators": [],
           "status": "RECRUITING",
@@ -2107,20 +2107,21 @@
           "nivel_base": "azul",
           "badge_base": "🔵",
           "phase": "PHASE3",
-          "enrollment": 52,
-          "primary_completion_date": "2027-06-30",
+          "enrollment": 57,
+          "primary_completion_date": "2027-12-31",
           "primary_completion_type": "ESTIMATED",
-          "study_completion_date": "2030-06-30",
+          "study_completion_date": "2031-12-31",
           "study_completion_type": "ESTIMATED",
           "start_date": "2021-03-29",
-          "last_update_posted": "2026-06-30",
+          "last_update_posted": "2026-09-01",
           "conditions": [
             "Diabetes Mellitus, Type 1",
             "Impaired Hypoglycemic Awareness",
             "Severe Hypoglycemia"
           ],
           "interventions": [
-            "VX-880"
+            "VX-880",
+            "VX-017"
           ],
           "url": "https://clinicaltrials.gov/study/NCT04786262",
           "validacion": {
@@ -2128,8 +2129,8 @@
             "errores": [],
             "detalles": {
               "sponsor_text": "Vertex Pharmaceuticals Incorporated ",
-              "drug_text": "A Safety, Tolerability, and Efficacy Study of VX-880 in Participants With Type 1 Diabetes A Phase 1/2/3 Study to Evaluate the Safety, Tolerability, and Efficacy of VX-880 in Subjects Who Have Type 1 Diabetes Mellitus With Impaired Hypoglycemic Awareness and Severe Hypoglycemia VX-880",
-              "condition_text": "A Safety, Tolerability, and Efficacy Study of VX-880 in Participants With Type 1 Diabetes A Phase 1/2/3 Study to Evaluate the Safety, Tolerability, and Efficacy of VX-880 in Subjects Who Have Type 1 Diabetes Mellitus With Impaired Hypoglycemic Awareness and Severe Hypoglycemia Diabetes Mellitus, Type 1 Impaired Hypoglycemic Awareness Severe Hypoglycemia"
+              "drug_text": "A Safety, Tolerability, and Efficacy Study of VX-880 and VX-017 in Participants With Type 1 Diabetes A Master Protocol to Evaluate the Safety, Tolerability, and Efficacy of Islet Cell Replacement Therapies in Subjects Who Have Type 1 Diabetes Mellitus With Impaired Hypoglycemic Awareness and Severe Hypoglycemia: A Phase 1/2/3 Study of VX-880 and a Phase 1/2 Study of VX-017 VX-880 VX-017",
+              "condition_text": "A Safety, Tolerability, and Efficacy Study of VX-880 and VX-017 in Participants With Type 1 Diabetes A Master Protocol to Evaluate the Safety, Tolerability, and Efficacy of Islet Cell Replacement Therapies in Subjects Who Have Type 1 Diabetes Mellitus With Impaired Hypoglycemic Awareness and Severe Hypoglycemia: A Phase 1/2/3 Study of VX-880 and a Phase 1/2 Study of VX-017 Diabetes Mellitus, Type 1 Impaired Hypoglycemic Awareness Severe Hypoglycemia"
             },
             "sponsor_keywords": [
               "vertex"
@@ -2150,14 +2151,39 @@
           "ventana": "2026-2030",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [],
-          "nivel": "azul",
-          "badge": "🔵",
+          "cambios": [
+            {
+              "tipo": "primary_completion_date",
+              "nivel": "amarillo",
+              "badge": "🟡",
+              "mensaje": "Primary completion: 2027-06-30 → 2027-12-31"
+            },
+            {
+              "tipo": "study_completion_date",
+              "nivel": "amarillo",
+              "badge": "🟡",
+              "mensaje": "Study completion: 2030-06-30 → 2031-12-31"
+            },
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-06-30 → 2026-09-01"
+            },
+            {
+              "tipo": "enrollment",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Enrollment: 52 → 57"
+            }
+          ],
+          "nivel": "amarillo",
+          "badge": "🟡",
           "error": null
         }
       ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "nivel": "amarillo",
+      "badge": "🟡",
       "score_relevancia": 24
     },
     "SENS": {
@@ -2733,10 +2759,10 @@
       "ticker": "VRTX",
       "nct": "NCT04786262",
       "nombre": "FORWARD-101 Ph1/2/3 — zimislecel (VX-880) — T1D",
-      "nivel": "azul",
-      "badge": "🔵",
+      "nivel": "amarillo",
+      "badge": "🟡",
       "status": "RECRUITING",
-      "primary_completion_date": "2027-06-30",
+      "primary_completion_date": "2027-12-31",
       "mensaje": "Reclutando",
       "prioridad": "alta",
       "estrellas": "⭐⭐⭐",
@@ -2746,7 +2772,32 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "primary_completion_date",
+          "nivel": "amarillo",
+          "badge": "🟡",
+          "mensaje": "Primary completion: 2027-06-30 → 2027-12-31"
+        },
+        {
+          "tipo": "study_completion_date",
+          "nivel": "amarillo",
+          "badge": "🟡",
+          "mensaje": "Study completion: 2030-06-30 → 2031-12-31"
+        },
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-06-30 → 2026-09-01"
+        },
+        {
+          "tipo": "enrollment",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Enrollment: 52 → 57"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT04786262"
     }
   ],

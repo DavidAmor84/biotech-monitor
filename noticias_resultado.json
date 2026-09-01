@@ -1,8 +1,8 @@
 {
-  "generado": "31/08/2026 15:03 UTC",
+  "generado": "01/09/2026 12:32 UTC",
   "plazo_horas": 72,
-  "desde": "2026-08-28",
-  "hasta": "2026-08-31",
+  "desde": "2026-08-29",
+  "hasta": "2026-09-01",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -12,9 +12,34 @@
     },
     "ARGX": {
       "nombre": "ARGX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ARGX",
+          "titulo": "Big Pharma's Comeback Is Here: Winners, Losers, And 4 ETFs",
+          "resumen": "Big Pharma hits new 52-week highs on strong Q2 results; explore why some lag and which healthcare ETF offers best income risk/reward. Click for more and the picks.",
+          "fuente": "SeekingAlpha",
+          "fecha": "31 Aug 2026 10:50 UTC",
+          "url": "https://finnhub.io/api/news?id=d92b169b63df4d431d6ca4d3e2a910e2a44404564eff749693f603b009075ae3",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/466613278/image_466613278.jpg?io=getty-c-w1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ARGX",
+          "titulo": "Morgan Stanley Maintains Overweight on argenx, Raises Price Target to $1250",
+          "resumen": "Morgan Stanley  analyst Sean Laaman   maintains argenx (NASDAQ:ARGX) with a Overweight and raises the price target from $1230 to $1250.",
+          "fuente": "Benzinga",
+          "fecha": "31 Aug 2026 10:36 UTC",
+          "url": "https://finnhub.io/api/news?id=c1899d5740d7e368f256f4d4d443a50e8ccf13dd84c82bc405a0c5b99364e6e8",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 2
     },
     "DYN": {
       "nombre": "DYN",
@@ -36,28 +61,53 @@
     },
     "VRTX": {
       "nombre": "VRTX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "VRTX",
+          "titulo": "Big Pharma's Comeback Is Here: Winners, Losers, And 4 ETFs",
+          "resumen": "Big Pharma hits new 52-week highs on strong Q2 results; explore why some lag and which healthcare ETF offers best income risk/reward. Click for more and the picks.",
+          "fuente": "SeekingAlpha",
+          "fecha": "31 Aug 2026 10:50 UTC",
+          "url": "https://finnhub.io/api/news?id=d92b169b63df4d431d6ca4d3e2a910e2a44404564eff749693f603b009075ae3",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/466613278/image_466613278.jpg?io=getty-c-w1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "ALNY": {
       "nombre": "ALNY",
       "noticias": [
         {
           "ticker": "ALNY",
-          "titulo": "If You Invested $100 In Alnylam Pharmaceuticals Stock 20 Years Ago, You Would Have This Much Today",
-          "resumen": "Alnylam Pharmaceuticals (NASDAQ:ALNY) has outperformed the market over the past 20 years by 5.86% on an annualized basis producing an average annual return of 15.09%. Currently, Alnylam Pharmaceuticals has a market",
-          "fuente": "Benzinga",
-          "fecha": "28 Aug 2026 18:00 UTC",
-          "url": "https://finnhub.io/api/news?id=1b008e5e638cee619b90d9160ef8884d66f7c539e91b0f7917b6f5fba6212802",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_2.jpg?width=2048&height=1536",
+          "titulo": "Trump Admin To Target Biotechs With Curbs On Drug Pricing? What Investors Should Know",
+          "resumen": "",
+          "fuente": "SeekingAlpha",
+          "fecha": "31 Aug 2026 14:57 UTC",
+          "url": "https://finnhub.io/api/news?id=59a441525d8351f9ca682906e1f1184af38874463dd1c92a51d84c67a55ae7f7",
+          "imagen": "",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Reported Earlier, Alnylam Highlights AMVUTTRA Results And New RNAi Approach For High Blood Pressure",
+          "resumen": "Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY), the leading RNAi therapeutics company, today announced new data at the European Society of Cardiology (ESC) Congress 2026 demonstrating the strength of RNAi-powered silencing",
+          "fuente": "Benzinga",
+          "fecha": "31 Aug 2026 03:43 UTC",
+          "url": "https://finnhub.io/api/news?id=0711d583056cc3744581902ed4491b1ccdb3016f0ce24657927b565f6c98a2c6",
+          "imagen": "",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
         }
       ],
-      "nivel": "azul",
-      "total": 1
+      "nivel": "rojo",
+      "total": 2
     },
     "BEAM": {
       "nombre": "BEAM",
@@ -79,22 +129,9 @@
     },
     "GPCR": {
       "nombre": "GPCR",
-      "noticias": [
-        {
-          "ticker": "GPCR",
-          "titulo": "Septerna: GPCR Programs May Be Experimental, But I'm Holding For The Long Term",
-          "resumen": "Septerna, Inc. has surged >315% since May 2025, driven by its GPCR-focused drug discovery and a high-profile collaboration with Novo Nordisk. Click for more.",
-          "fuente": "SeekingAlpha",
-          "fecha": "28 Aug 2026 18:00 UTC",
-          "url": "https://finnhub.io/api/news?id=07804cbf9e4f2d111a2c2b25c15d68ad7507e5ec78bbb0a5ccfd74da9c912136",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2223811421/image_2223811421.jpg?io=getty-c-w1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "ABVX": {
       "nombre": "ABVX",
@@ -128,38 +165,99 @@
     },
     "INSM": {
       "nombre": "INSM",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "INSM",
+          "titulo": "Trump Admin To Target Biotechs With Curbs On Drug Pricing? What Investors Should Know",
+          "resumen": "",
+          "fuente": "SeekingAlpha",
+          "fecha": "31 Aug 2026 14:57 UTC",
+          "url": "https://finnhub.io/api/news?id=59a441525d8351f9ca682906e1f1184af38874463dd1c92a51d84c67a55ae7f7",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     }
   },
   "resumen": {
-    "total_noticias": 2,
-    "tickers_con_noticias": 2,
-    "alertas_urgentes": 0,
-    "sin_noticias": 15
+    "total_noticias": 6,
+    "tickers_con_noticias": 4,
+    "alertas_urgentes": 3,
+    "sin_noticias": 13
   },
   "todas_noticias": [
     {
       "ticker": "ALNY",
-      "titulo": "If You Invested $100 In Alnylam Pharmaceuticals Stock 20 Years Ago, You Would Have This Much Today",
-      "resumen": "Alnylam Pharmaceuticals (NASDAQ:ALNY) has outperformed the market over the past 20 years by 5.86% on an annualized basis producing an average annual return of 15.09%. Currently, Alnylam Pharmaceuticals has a market",
+      "titulo": "Reported Earlier, Alnylam Highlights AMVUTTRA Results And New RNAi Approach For High Blood Pressure",
+      "resumen": "Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY), the leading RNAi therapeutics company, today announced new data at the European Society of Cardiology (ESC) Congress 2026 demonstrating the strength of RNAi-powered silencing",
       "fuente": "Benzinga",
-      "fecha": "28 Aug 2026 18:00 UTC",
-      "url": "https://finnhub.io/api/news?id=1b008e5e638cee619b90d9160ef8884d66f7c539e91b0f7917b6f5fba6212802",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_2.jpg?width=2048&height=1536",
+      "fecha": "31 Aug 2026 03:43 UTC",
+      "url": "https://finnhub.io/api/news?id=0711d583056cc3744581902ed4491b1ccdb3016f0ce24657927b565f6c98a2c6",
+      "imagen": "",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "Big Pharma's Comeback Is Here: Winners, Losers, And 4 ETFs",
+      "resumen": "Big Pharma hits new 52-week highs on strong Q2 results; explore why some lag and which healthcare ETF offers best income risk/reward. Click for more and the picks.",
+      "fuente": "SeekingAlpha",
+      "fecha": "31 Aug 2026 10:50 UTC",
+      "url": "https://finnhub.io/api/news?id=d92b169b63df4d431d6ca4d3e2a910e2a44404564eff749693f603b009075ae3",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/466613278/image_466613278.jpg?io=getty-c-w1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Big Pharma's Comeback Is Here: Winners, Losers, And 4 ETFs",
+      "resumen": "Big Pharma hits new 52-week highs on strong Q2 results; explore why some lag and which healthcare ETF offers best income risk/reward. Click for more and the picks.",
+      "fuente": "SeekingAlpha",
+      "fecha": "31 Aug 2026 10:50 UTC",
+      "url": "https://finnhub.io/api/news?id=d92b169b63df4d431d6ca4d3e2a910e2a44404564eff749693f603b009075ae3",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/466613278/image_466613278.jpg?io=getty-c-w1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "Morgan Stanley Maintains Overweight on argenx, Raises Price Target to $1250",
+      "resumen": "Morgan Stanley  analyst Sean Laaman   maintains argenx (NASDAQ:ARGX) with a Overweight and raises the price target from $1230 to $1250.",
+      "fuente": "Benzinga",
+      "fecha": "31 Aug 2026 10:36 UTC",
+      "url": "https://finnhub.io/api/news?id=c1899d5740d7e368f256f4d4d443a50e8ccf13dd84c82bc405a0c5b99364e6e8",
+      "imagen": "",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
     },
     {
-      "ticker": "GPCR",
-      "titulo": "Septerna: GPCR Programs May Be Experimental, But I'm Holding For The Long Term",
-      "resumen": "Septerna, Inc. has surged >315% since May 2025, driven by its GPCR-focused drug discovery and a high-profile collaboration with Novo Nordisk. Click for more.",
+      "ticker": "ALNY",
+      "titulo": "Trump Admin To Target Biotechs With Curbs On Drug Pricing? What Investors Should Know",
+      "resumen": "",
       "fuente": "SeekingAlpha",
-      "fecha": "28 Aug 2026 18:00 UTC",
-      "url": "https://finnhub.io/api/news?id=07804cbf9e4f2d111a2c2b25c15d68ad7507e5ec78bbb0a5ccfd74da9c912136",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2223811421/image_2223811421.jpg?io=getty-c-w1536",
+      "fecha": "31 Aug 2026 14:57 UTC",
+      "url": "https://finnhub.io/api/news?id=59a441525d8351f9ca682906e1f1184af38874463dd1c92a51d84c67a55ae7f7",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Trump Admin To Target Biotechs With Curbs On Drug Pricing? What Investors Should Know",
+      "resumen": "",
+      "fuente": "SeekingAlpha",
+      "fecha": "31 Aug 2026 14:57 UTC",
+      "url": "https://finnhub.io/api/news?id=59a441525d8351f9ca682906e1f1184af38874463dd1c92a51d84c67a55ae7f7",
+      "imagen": "",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

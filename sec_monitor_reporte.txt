@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 31/08/2026 14:52 | Período: últimos 7 días
-Desde: 2026-08-24 → Hasta: 2026-08-31
+Generado: 01/09/2026 12:23 | Período: últimos 7 días
+Desde: 2026-08-25 → Hasta: 2026-09-01
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 5 filings | 🔴 0 | 🟢 0 | 🟡 5 | 🔵 0 | ✅ 15 sin novedad
+RESUMEN: 6 filings | 🔴 0 | 🟢 0 | 🟡 5 | 🔵 1 | ✅ 14 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -14,7 +14,11 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [DYN] Sin novedades
   ✅ [DNLI] Sin novedades
   ✅ [VKTX] Sin novedades
-  ✅ [VRTX] Sin novedades
+
+  🔵 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 1 filing(s)
+     🔵 INFO 4 | 2026-08-31 | SACHS BRUCE I (Director) → Donación 6,000 acciones @ $0.00 | Post: 39,000
+     Insider: SACHS BRUCE I (Director) → Donación 6,000 acciones @ $0.00 | Post: 39,000
+     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000261/xslF345X06/wk-form4_1788207608.xml
   ✅ [ALNY] Sin novedades
   ✅ [BEAM] Sin novedades
 

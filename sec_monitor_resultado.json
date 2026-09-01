@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "31/08/2026 14:52",
+  "generado": "01/09/2026 12:23",
   "periodo_dias": 7,
-  "desde": "2026-08-24",
-  "hasta": "2026-08-31",
+  "desde": "2026-08-25",
+  "hasta": "2026-09-01",
   "resumen": {
-    "total_filings": 5,
+    "total_filings": 6,
     "alertas_rojas": 0,
     "alertas_verdes": 0,
     "alertas_amarillas": 5,
-    "alertas_azules": 0,
-    "sin_novedad": 15
+    "alertas_azules": 1,
+    "sin_novedad": 14
   },
   "tickers": {
     "SNDX": {
@@ -74,9 +74,36 @@
       "cik": "0000875320",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-08-31",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "SACHS BRUCE I (Director) → Donación 6,000 acciones @ $0.00 | Post: 39,000",
+          "detalle": "FORM 4",
+          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000261/xslF345X06/wk-form4_1788207608.xml",
+          "form4_detail": {
+            "insider_nombre": "SACHS BRUCE I",
+            "insider_cargo": "Director",
+            "transaccion_codigo": "G",
+            "transaccion_tipo": "Donación",
+            "transaccion_acciones": "6000",
+            "transaccion_precio": "0",
+            "transaccion_fecha": "2026-08-27",
+            "acciones_post": "39000",
+            "footnotes": null,
+            "es_rutinaria": false,
+            "resumen_detail": "SACHS BRUCE I (Director) → Donación 6,000 acciones @ $0.00 | Post: 39,000"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "ALNY": {
@@ -342,6 +369,34 @@
   },
   "alertas_criticas": [],
   "todos_filings": [
+    {
+      "ticker": "VRTX",
+      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
+      "form": "4",
+      "fecha": "2026-08-31",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "SACHS BRUCE I (Director) → Donación 6,000 acciones @ $0.00 | Post: 39,000",
+      "detalle": "FORM 4",
+      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000261/xslF345X06/wk-form4_1788207608.xml",
+      "form4_detail": {
+        "insider_nombre": "SACHS BRUCE I",
+        "insider_cargo": "Director",
+        "transaccion_codigo": "G",
+        "transaccion_tipo": "Donación",
+        "transaccion_acciones": "6000",
+        "transaccion_precio": "0",
+        "transaccion_fecha": "2026-08-27",
+        "acciones_post": "39000",
+        "footnotes": null,
+        "es_rutinaria": false,
+        "resumen_detail": "SACHS BRUCE I (Director) → Donación 6,000 acciones @ $0.00 | Post: 39,000"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "ACRV",
       "nombre": "Acrivon Therapeutics, Inc.",

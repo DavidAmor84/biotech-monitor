@@ -1,8 +1,8 @@
 ====================================================================================
 CLINICALTRIALS MONITOR v9.3 · Modelo Biotech
-Generado: 01/09/2026 13:36
+Generado: 02/09/2026 12:52
 ====================================================================================
-RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 1 | 🔵 28 | Errores API: 0
+RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 0 | 🔵 29 | Errores API: 0
 
 ------------------------------------------------------------------------------------
 DETALLE POR EMPRESA
@@ -89,7 +89,7 @@ DETALLE POR EMPRESA
      Enrollment: 150
      Primary completion: 2028-07 ESTIMATED
      Study completion: 2029-01 ESTIMATED
-     Last update posted: 2026-08-18
+     Last update posted: 2026-09-02
      → https://clinicaltrials.gov/study/NCT07486934
 
 🟢 [VKTX] · Score relevancia: 29
@@ -198,7 +198,7 @@ DETALLE POR EMPRESA
      Last update posted: 2026-07-15
      → https://clinicaltrials.gov/study/NCT06393712
 
-🟡 [VRTX] · Score relevancia: 24
+🔵 [VRTX] · Score relevancia: 24
   🔵 ⭐⭐⭐ RAINIER Ph3 — povetacicept — IgAN | Prioridad: alta | Validación: OK
      NCT: NCT06564142 | Status: Activo, sin reclutamiento | Tipo: pivotal
      Catalizador: BLA / datos Phase 3 | Ventana: 2028
@@ -219,7 +219,7 @@ DETALLE POR EMPRESA
      Study completion: 2030-05-07 ESTIMATED
      Last update posted: 2026-08-26
      → https://clinicaltrials.gov/study/NCT05312879
-  🟡 ⭐⭐⭐ FORWARD-101 Ph1/2/3 — zimislecel (VX-880) — T1D | Prioridad: alta | Validación: OK
+  🔵 ⭐⭐⭐ FORWARD-101 Ph1/2/3 — zimislecel (VX-880) — T1D | Prioridad: alta | Validación: OK
      NCT: NCT04786262 | Status: Reclutando | Tipo: cell_therapy
      Catalizador: datos Phase 3 | Ventana: 2026-2030
      Sponsor: Vertex Pharmaceuticals Incorporated

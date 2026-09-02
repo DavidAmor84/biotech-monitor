@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "01/09/2026 13:36",
-  "fecha": "2026-09-01",
+  "generado": "02/09/2026 12:52",
+  "fecha": "2026-09-02",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -11,8 +11,8 @@
     "validacion_error": 0,
     "alertas_rojas": 0,
     "alertas_verdes": 5,
-    "alertas_amarillas": 1,
-    "alertas_azules": 28,
+    "alertas_amarillas": 0,
+    "alertas_azules": 29,
     "errores": 0
   },
   "empresas": {
@@ -156,7 +156,7 @@
           "study_completion_date": "2029-01",
           "study_completion_type": "ESTIMATED",
           "start_date": "2026-05-14",
-          "last_update_posted": "2026-08-18",
+          "last_update_posted": "2026-09-02",
           "conditions": [
             "Myotonic Dystrophy Type 1 (DM1)",
             "DM1",
@@ -198,7 +198,14 @@
           "ventana": "2028",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-08-18 → 2026-09-02"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2151,39 +2158,14 @@
           "ventana": "2026-2030",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [
-            {
-              "tipo": "primary_completion_date",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Primary completion: 2027-06-30 → 2027-12-31"
-            },
-            {
-              "tipo": "study_completion_date",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Study completion: 2030-06-30 → 2031-12-31"
-            },
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2026-06-30 → 2026-09-01"
-            },
-            {
-              "tipo": "enrollment",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Enrollment: 52 → 57"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         }
       ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "score_relevancia": 24
     },
     "SENS": {
@@ -2312,7 +2294,14 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-08-18 → 2026-09-02"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT07486934"
     },
     {
@@ -2759,8 +2748,8 @@
       "ticker": "VRTX",
       "nct": "NCT04786262",
       "nombre": "FORWARD-101 Ph1/2/3 — zimislecel (VX-880) — T1D",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "RECRUITING",
       "primary_completion_date": "2027-12-31",
       "mensaje": "Reclutando",
@@ -2772,32 +2761,7 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "primary_completion_date",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Primary completion: 2027-06-30 → 2027-12-31"
-        },
-        {
-          "tipo": "study_completion_date",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Study completion: 2030-06-30 → 2031-12-31"
-        },
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2026-06-30 → 2026-09-01"
-        },
-        {
-          "tipo": "enrollment",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Enrollment: 52 → 57"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT04786262"
     }
   ],

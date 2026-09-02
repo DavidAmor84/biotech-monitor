@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 01/09/2026 12:23 | Período: últimos 7 días
-Desde: 2026-08-25 → Hasta: 2026-09-01
+Generado: 02/09/2026 11:58 | Período: últimos 7 días
+Desde: 2026-08-26 → Hasta: 2026-09-02
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 6 filings | 🔴 0 | 🟢 0 | 🟡 5 | 🔵 1 | ✅ 14 sin novedad
+RESUMEN: 8 filings | 🔴 0 | 🟢 0 | 🟡 5 | 🔵 3 | ✅ 14 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -15,7 +15,12 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [DNLI] Sin novedades
   ✅ [VKTX] Sin novedades
 
-  🔵 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 1 filing(s)
+  🔵 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 3 filing(s)
+     🔵 INFO 4 | 2026-09-01 | Ambrose Kristen (SVP & Chief Accounting Officer) → Concesión 5,000 acciones @ $0.00 | Post: 11,624 | Rutinaria/RSU/impuestos
+     Insider: Ambrose Kristen (SVP & Chief Accounting Officer) → Concesión 5,000 acciones @ $0.00 | Post: 11,624 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000267/xslF345X06/wk-form4_1788295172.xml
+     🔵 INFO 8-K | 2026-09-01 | Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02]
+     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000264/vrtx-20260827.htm
      🔵 INFO 4 | 2026-08-31 | SACHS BRUCE I (Director) → Donación 6,000 acciones @ $0.00 | Post: 39,000
      Insider: SACHS BRUCE I (Director) → Donación 6,000 acciones @ $0.00 | Post: 39,000
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000261/xslF345X06/wk-form4_1788207608.xml

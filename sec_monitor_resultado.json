@@ -1,15 +1,15 @@
 {
   "version": "v3",
-  "generado": "01/09/2026 12:23",
+  "generado": "02/09/2026 11:58",
   "periodo_dias": 7,
-  "desde": "2026-08-25",
-  "hasta": "2026-09-01",
+  "desde": "2026-08-26",
+  "hasta": "2026-09-02",
   "resumen": {
-    "total_filings": 6,
+    "total_filings": 8,
     "alertas_rojas": 0,
     "alertas_verdes": 0,
     "alertas_amarillas": 5,
-    "alertas_azules": 1,
+    "alertas_azules": 3,
     "sin_novedad": 14
   },
   "tickers": {
@@ -75,6 +75,55 @@
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
       "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-09-01",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Ambrose Kristen (SVP & Chief Accounting Officer) → Concesión 5,000 acciones @ $0.00 | Post: 11,624 | Rutinaria/RSU/impuestos",
+          "detalle": "FORM 4",
+          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000267/xslF345X06/wk-form4_1788295172.xml",
+          "form4_detail": {
+            "insider_nombre": "Ambrose Kristen",
+            "insider_cargo": "SVP & Chief Accounting Officer",
+            "transaccion_codigo": "A",
+            "transaccion_tipo": "Concesión",
+            "transaccion_acciones": "5000",
+            "transaccion_precio": "0",
+            "transaccion_fecha": "2026-08-28",
+            "acciones_post": "11624",
+            "footnotes": "Restricted stock unit award that vests on 03/01/2029.",
+            "es_rutinaria": true,
+            "resumen_detail": "Ambrose Kristen (SVP & Chief Accounting Officer) → Concesión 5,000 acciones @ $0.00 | Post: 11,624 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
+          "form": "8-K",
+          "fecha": "2026-09-01",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02]",
+          "detalle": "8-K",
+          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000264/vrtx-20260827.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "5.02"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 5.02 Departure of Directors of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. On August 27, 2026, Vertex Pharmaceuticals Incorporated (the Company ) appointed Jonathan Poole as Executive Vice President and Chief Financial Officer of the Company, effective January 1, 2027 (the Effective Date ). In connection with Mr. Poole s appointment, Charles F. Wagner, Jr., the Company s Executive Vice President and Chief Operating &amp; Financial Officer, will cease serving as Chief Financial Officer as of the Effective Date, but will remain Executive Vice President and Chief Operating Officer. Mr. Poole, 51, has been Senior Vice President, Finance at the Company since March 2020. Previously, Mr. Poole served as Chief Financial Officer of Evelo Biosciences, Inc. from March 2018 to March 2020 and as Chief Financial Officer of Genocea Biosciences, Inc. from April 2014 to March 2018. Earlier in his career, Mr. Poole held roles of increasing responsibility in finance and corporate development, including serving as Senior Vice President of Finance at Shire plc. Mr. Poole has also served as a director and member of the audit committee of Acadia Pharmaceuticals Inc. since March 2026, and previously served as a director of Codiak Biosciences, Inc., where he was chair of the audit committee. Mr. Poole received a B.Sc. in Biological Sciences from Durham University and an M.B.A. from London Business School. In connection with his appointment, the Company entered into an employment agreement and a change of",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "Item 5.02: Plan de incentivos / compensación aprobado — informativo"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
         {
           "form": "4",
           "fecha": "2026-08-31",
@@ -369,6 +418,59 @@
   },
   "alertas_criticas": [],
   "todos_filings": [
+    {
+      "ticker": "VRTX",
+      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
+      "form": "4",
+      "fecha": "2026-09-01",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Ambrose Kristen (SVP & Chief Accounting Officer) → Concesión 5,000 acciones @ $0.00 | Post: 11,624 | Rutinaria/RSU/impuestos",
+      "detalle": "FORM 4",
+      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000267/xslF345X06/wk-form4_1788295172.xml",
+      "form4_detail": {
+        "insider_nombre": "Ambrose Kristen",
+        "insider_cargo": "SVP & Chief Accounting Officer",
+        "transaccion_codigo": "A",
+        "transaccion_tipo": "Concesión",
+        "transaccion_acciones": "5000",
+        "transaccion_precio": "0",
+        "transaccion_fecha": "2026-08-28",
+        "acciones_post": "11624",
+        "footnotes": "Restricted stock unit award that vests on 03/01/2029.",
+        "es_rutinaria": true,
+        "resumen_detail": "Ambrose Kristen (SVP & Chief Accounting Officer) → Concesión 5,000 acciones @ $0.00 | Post: 11,624 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "VRTX",
+      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
+      "form": "8-K",
+      "fecha": "2026-09-01",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02]",
+      "detalle": "8-K",
+      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000264/vrtx-20260827.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "5.02"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 5.02 Departure of Directors of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. On August 27, 2026, Vertex Pharmaceuticals Incorporated (the Company ) appointed Jonathan Poole as Executive Vice President and Chief Financial Officer of the Company, effective January 1, 2027 (the Effective Date ). In connection with Mr. Poole s appointment, Charles F. Wagner, Jr., the Company s Executive Vice President and Chief Operating &amp; Financial Officer, will cease serving as Chief Financial Officer as of the Effective Date, but will remain Executive Vice President and Chief Operating Officer. Mr. Poole, 51, has been Senior Vice President, Finance at the Company since March 2020. Previously, Mr. Poole served as Chief Financial Officer of Evelo Biosciences, Inc. from March 2018 to March 2020 and as Chief Financial Officer of Genocea Biosciences, Inc. from April 2014 to March 2018. Earlier in his career, Mr. Poole held roles of increasing responsibility in finance and corporate development, including serving as Senior Vice President of Finance at Shire plc. Mr. Poole has also served as a director and member of the audit committee of Acadia Pharmaceuticals Inc. since March 2026, and previously served as a director of Codiak Biosciences, Inc., where he was chair of the audit committee. Mr. Poole received a B.Sc. in Biological Sciences from Durham University and an M.B.A. from London Business School. In connection with his appointment, the Company entered into an employment agreement and a change of",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "Item 5.02: Plan de incentivos / compensación aprobado — informativo"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "VRTX",
       "nombre": "VERTEX PHARMACEUTICALS INC / MA",

@@ -1,8 +1,8 @@
 {
-  "generado": "01/09/2026 12:32 UTC",
+  "generado": "02/09/2026 12:05 UTC",
   "plazo_horas": 72,
-  "desde": "2026-08-29",
-  "hasta": "2026-09-01",
+  "desde": "2026-08-30",
+  "hasta": "2026-09-02",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -64,23 +64,95 @@
       "noticias": [
         {
           "ticker": "VRTX",
-          "titulo": "Big Pharma's Comeback Is Here: Winners, Losers, And 4 ETFs",
-          "resumen": "Big Pharma hits new 52-week highs on strong Q2 results; explore why some lag and which healthcare ETF offers best income risk/reward. Click for more and the picks.",
-          "fuente": "SeekingAlpha",
-          "fecha": "31 Aug 2026 10:50 UTC",
-          "url": "https://finnhub.io/api/news?id=d92b169b63df4d431d6ca4d3e2a910e2a44404564eff749693f603b009075ae3",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/466613278/image_466613278.jpg?io=getty-c-w1536",
+          "titulo": "Vertex (VRTX) Stock Trades At A Premium On Earnings Yet Looks Fair On Broader Checks",
+          "resumen": "Vertex Pharmaceuticals stock has delivered strong multi year gains, and current valuation checks suggest the shares now look closer to fairly priced than clearly cheap or clearly expensive. Vertex Pharmaceuticals has returned 184.9% over the past 5 years, which puts extra focus on whether the curren",
+          "fuente": "Yahoo",
+          "fecha": "02 Sep 2026 02:07 UTC",
+          "url": "https://finnhub.io/api/news?id=24eef22228eed8ffbd8091caadf478dcbe7eea4e653e52b0d457f9066f730f6f",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Goldman Sachs refreshes conviction lists on both sides of the Atlantic",
+          "resumen": "Investing.com -- Goldman Sachs updated its U.S. and European conviction lists for September, adding several new names as it refreshed its highest-conviction ideas heading into the autumn.",
+          "fuente": "Yahoo",
+          "fecha": "01 Sep 2026 18:26 UTC",
+          "url": "https://finnhub.io/api/news?id=f978fc668293edf836ceffd17a2107060d64de5dcd451b44084cbb4d2e92d22f",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex Pharmaceuticals (VRTX) Could Be 3% Undervalued If Its Pipeline Growth Holds",
+          "resumen": "How Vertex Pharmaceuticals Stock Has Been Trading Recently Vertex Pharmaceuticals (VRTX) has drawn fresh investor attention as its share price reached $544.52 at the last close on 1 September 2026. Recent returns show mixed short term moves, with stronger performance over the past 3 months and over ",
+          "fuente": "Yahoo",
+          "fecha": "01 Sep 2026 16:08 UTC",
+          "url": "https://finnhub.io/api/news?id=a7733c47d2e1590ff56be5c3d230685ab1003ec3f5697ae84abc39b54651b637",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex Completes $10 Billion Crinetics Acquisition, Adding Rare Endocrine Growth Platform",
+          "resumen": "The completed acquisition adds PALSONIFY and atumelnant to Vertex’s portfolio, with the two therapies carrying combined peak annual revenue potential of more than $5 billion according to the company. Key Investor TakeawaysVertex Pharmaceuticals (NASDAQ:VRTX) completed its approximately $10 billion e",
+          "fuente": "Yahoo",
+          "fecha": "01 Sep 2026 16:07 UTC",
+          "url": "https://finnhub.io/api/news?id=00c6d5f725ed171c400991bf788ad7ad7d33a782f968710442e3357558b8e381",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex Completes Acquisition of Crinetics Pharmaceuticals and Announces Expansion of Executive Leadership Team",
+          "resumen": "BOSTON, September 01, 2026--Vertex Pharmaceuticals Incorporated (Nasdaq: VRTX) today announced the successful completion of the acquisition of Crinetics Pharmaceuticals, Inc. (Nasdaq: CRNX), a global pharmaceutical company focused on the discovery, development and commercialization of novel therapeu",
+          "fuente": "Yahoo",
+          "fecha": "01 Sep 2026 14:03 UTC",
+          "url": "https://finnhub.io/api/news?id=210bd0168537d1c72b6739cff803f64b6af9cf6fe69a66671729836e2fdb444b",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 1
+      "total": 5
     },
     "ALNY": {
       "nombre": "ALNY",
       "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "4 Rare Disease Drugmakers With Strong Long-Term Growth Prospects",
+          "resumen": "ALNY, BMRN, RARE and BBIO offer rare-disease growth potential through strong products, pipeline catalysts and high unmet medical needs.",
+          "fuente": "Yahoo",
+          "fecha": "01 Sep 2026 15:56 UTC",
+          "url": "https://finnhub.io/api/news?id=897a097083a08e2f7a9f68ed22c821e3723b782be7661e71ee02027b8323fa96",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam's Latest Data Strengthen Outlook for Nucresiran, TRITON-CM, Oppenheimer Says",
+          "resumen": "Alnylam Pharmaceuticals' (ALNY) latest data strengthen the case for Nucresiran and TRITON-CM success",
+          "fuente": "Yahoo",
+          "fecha": "31 Aug 2026 16:40 UTC",
+          "url": "https://finnhub.io/api/news?id=294105413af9f052821f84ad6a18c718c9b9b8b33bdcc27318975701db2eaf39",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "ALNY",
           "titulo": "Trump Admin To Target Biotechs With Curbs On Drug Pricing? What Investors Should Know",
@@ -92,6 +164,18 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Inceptive CEO Jakob Uszkoreit on Designing Medicines That Work Like Life Itself",
+          "resumen": "Inceptive CEO Jakob Uszkoreit goes Inside the ICE House to challenge the foundational assumptions of modern drug discovery, arguing that AI will enable medicines that work with the body's natural complexity rather than against it. He discusses Inceptive's partnership with Alnylam Pharmaceuticals and",
+          "fuente": "Yahoo",
+          "fecha": "31 Aug 2026 13:48 UTC",
+          "url": "https://finnhub.io/api/news?id=9eb2238ddcd405374c361cf606a0ba63eff98a46ae711ed201083bd95efa06f3",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
         },
         {
           "ticker": "ALNY",
@@ -107,7 +191,7 @@
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 5
     },
     "BEAM": {
       "nombre": "BEAM",
@@ -184,12 +268,48 @@
     }
   },
   "resumen": {
-    "total_noticias": 6,
+    "total_noticias": 13,
     "tickers_con_noticias": 4,
     "alertas_urgentes": 3,
     "sin_noticias": 13
   },
   "todas_noticias": [
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Completes Acquisition of Crinetics Pharmaceuticals and Announces Expansion of Executive Leadership Team",
+      "resumen": "BOSTON, September 01, 2026--Vertex Pharmaceuticals Incorporated (Nasdaq: VRTX) today announced the successful completion of the acquisition of Crinetics Pharmaceuticals, Inc. (Nasdaq: CRNX), a global pharmaceutical company focused on the discovery, development and commercialization of novel therapeu",
+      "fuente": "Yahoo",
+      "fecha": "01 Sep 2026 14:03 UTC",
+      "url": "https://finnhub.io/api/news?id=210bd0168537d1c72b6739cff803f64b6af9cf6fe69a66671729836e2fdb444b",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Completes $10 Billion Crinetics Acquisition, Adding Rare Endocrine Growth Platform",
+      "resumen": "The completed acquisition adds PALSONIFY and atumelnant to Vertex’s portfolio, with the two therapies carrying combined peak annual revenue potential of more than $5 billion according to the company. Key Investor TakeawaysVertex Pharmaceuticals (NASDAQ:VRTX) completed its approximately $10 billion e",
+      "fuente": "Yahoo",
+      "fecha": "01 Sep 2026 16:07 UTC",
+      "url": "https://finnhub.io/api/news?id=00c6d5f725ed171c400991bf788ad7ad7d33a782f968710442e3357558b8e381",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex (VRTX) Stock Trades At A Premium On Earnings Yet Looks Fair On Broader Checks",
+      "resumen": "Vertex Pharmaceuticals stock has delivered strong multi year gains, and current valuation checks suggest the shares now look closer to fairly priced than clearly cheap or clearly expensive. Vertex Pharmaceuticals has returned 184.9% over the past 5 years, which puts extra focus on whether the curren",
+      "fuente": "Yahoo",
+      "fecha": "02 Sep 2026 02:07 UTC",
+      "url": "https://finnhub.io/api/news?id=24eef22228eed8ffbd8091caadf478dcbe7eea4e653e52b0d457f9066f730f6f",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
     {
       "ticker": "ALNY",
       "titulo": "Reported Earlier, Alnylam Highlights AMVUTTRA Results And New RNAi Approach For High Blood Pressure",
@@ -215,16 +335,64 @@
       "badge": "🔴"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "Big Pharma's Comeback Is Here: Winners, Losers, And 4 ETFs",
-      "resumen": "Big Pharma hits new 52-week highs on strong Q2 results; explore why some lag and which healthcare ETF offers best income risk/reward. Click for more and the picks.",
-      "fuente": "SeekingAlpha",
-      "fecha": "31 Aug 2026 10:50 UTC",
-      "url": "https://finnhub.io/api/news?id=d92b169b63df4d431d6ca4d3e2a910e2a44404564eff749693f603b009075ae3",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/466613278/image_466613278.jpg?io=getty-c-w1536",
+      "ticker": "ALNY",
+      "titulo": "Inceptive CEO Jakob Uszkoreit on Designing Medicines That Work Like Life Itself",
+      "resumen": "Inceptive CEO Jakob Uszkoreit goes Inside the ICE House to challenge the foundational assumptions of modern drug discovery, arguing that AI will enable medicines that work with the body's natural complexity rather than against it. He discusses Inceptive's partnership with Alnylam Pharmaceuticals and",
+      "fuente": "Yahoo",
+      "fecha": "31 Aug 2026 13:48 UTC",
+      "url": "https://finnhub.io/api/news?id=9eb2238ddcd405374c361cf606a0ba63eff98a46ae711ed201083bd95efa06f3",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam's Latest Data Strengthen Outlook for Nucresiran, TRITON-CM, Oppenheimer Says",
+      "resumen": "Alnylam Pharmaceuticals' (ALNY) latest data strengthen the case for Nucresiran and TRITON-CM success",
+      "fuente": "Yahoo",
+      "fecha": "31 Aug 2026 16:40 UTC",
+      "url": "https://finnhub.io/api/news?id=294105413af9f052821f84ad6a18c718c9b9b8b33bdcc27318975701db2eaf39",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "4 Rare Disease Drugmakers With Strong Long-Term Growth Prospects",
+      "resumen": "ALNY, BMRN, RARE and BBIO offer rare-disease growth potential through strong products, pipeline catalysts and high unmet medical needs.",
+      "fuente": "Yahoo",
+      "fecha": "01 Sep 2026 15:56 UTC",
+      "url": "https://finnhub.io/api/news?id=897a097083a08e2f7a9f68ed22c821e3723b782be7661e71ee02027b8323fa96",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals (VRTX) Could Be 3% Undervalued If Its Pipeline Growth Holds",
+      "resumen": "How Vertex Pharmaceuticals Stock Has Been Trading Recently Vertex Pharmaceuticals (VRTX) has drawn fresh investor attention as its share price reached $544.52 at the last close on 1 September 2026. Recent returns show mixed short term moves, with stronger performance over the past 3 months and over ",
+      "fuente": "Yahoo",
+      "fecha": "01 Sep 2026 16:08 UTC",
+      "url": "https://finnhub.io/api/news?id=a7733c47d2e1590ff56be5c3d230685ab1003ec3f5697ae84abc39b54651b637",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Goldman Sachs refreshes conviction lists on both sides of the Atlantic",
+      "resumen": "Investing.com -- Goldman Sachs updated its U.S. and European conviction lists for September, adding several new names as it refreshed its highest-conviction ideas heading into the autumn.",
+      "fuente": "Yahoo",
+      "fecha": "01 Sep 2026 18:26 UTC",
+      "url": "https://finnhub.io/api/news?id=f978fc668293edf836ceffd17a2107060d64de5dcd451b44084cbb4d2e92d22f",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
     },
     {
       "ticker": "ARGX",

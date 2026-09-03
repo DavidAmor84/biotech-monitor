@@ -1,8 +1,8 @@
 ====================================================================================
 CLINICALTRIALS MONITOR v9.3 · Modelo Biotech
-Generado: 02/09/2026 12:52
+Generado: 03/09/2026 12:55
 ====================================================================================
-RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 0 | 🔵 29 | Errores API: 0
+RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 1 | 🔵 28 | Errores API: 0
 
 ------------------------------------------------------------------------------------
 DETALLE POR EMPRESA
@@ -89,7 +89,7 @@ DETALLE POR EMPRESA
      Enrollment: 150
      Primary completion: 2028-07 ESTIMATED
      Study completion: 2029-01 ESTIMATED
-     Last update posted: 2026-09-02
+     Last update posted: 2026-09-03
      → https://clinicaltrials.gov/study/NCT07486934
 
 🟢 [VKTX] · Score relevancia: 29
@@ -156,7 +156,7 @@ DETALLE POR EMPRESA
      Last update posted: 2025-10-24
      → https://clinicaltrials.gov/study/NCT05507216
 
-🔵 [ALNY] · Score relevancia: 28
+🟡 [ALNY] · Score relevancia: 28
   🔵 ⭐⭐⭐ TRITON-CM Ph3 — nucresiran — ATTR-CM | Prioridad: alta | Validación: OK
      NCT: NCT07052903 | Status: Reclutando | Tipo: pivotal
      Catalizador: ATTR-CM Phase 3 | Ventana: 2030
@@ -187,15 +187,15 @@ DETALLE POR EMPRESA
      Study completion: 2031-06-12 ESTIMATED
      Last update posted: 2026-08-14
      → https://clinicaltrials.gov/study/NCT07223203
-  🔵 ⭐⭐ cAPPricorn-1 Ph2 — mivelsiran — CAA | Prioridad: media | Validación: OK
-     NCT: NCT06393712 | Status: Reclutando | Tipo: phase2
+  🟡 ⭐⭐ cAPPricorn-1 Ph2 — mivelsiran — CAA | Prioridad: media | Validación: OK
+     NCT: NCT06393712 | Status: Activo, sin reclutamiento | Tipo: phase2
      Catalizador: datos Phase 2 CNS | Ventana: 2027-2029
      Sponsor: Alnylam Pharmaceuticals
      Phase: PHASE2
-     Enrollment: 200
+     Enrollment: 210
      Primary completion: 2027-08-09 ESTIMATED
      Study completion: 2029-12-14 ESTIMATED
-     Last update posted: 2026-07-15
+     Last update posted: 2026-09-03
      → https://clinicaltrials.gov/study/NCT06393712
 
 🔵 [VRTX] · Score relevancia: 24

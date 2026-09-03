@@ -37,7 +37,7 @@
     "status": "RECRUITING",
     "primary_completion_date": "2028-07",
     "study_completion_date": "2029-01",
-    "last_update_posted": "2026-09-02",
+    "last_update_posted": "2026-09-03",
     "enrollment": 150,
     "titulo": "Efficacy, Safety, and Tolerability of Zeleciment Basivarsen (DYNE-101) in Participants With Myotonic Dystrophy Type 1",
     "ticker": "DYN",
@@ -493,11 +493,11 @@
     "peso_importancia": 7
   },
   "NCT06393712": {
-    "status": "RECRUITING",
+    "status": "ACTIVE_NOT_RECRUITING",
     "primary_completion_date": "2027-08-09",
     "study_completion_date": "2029-12-14",
-    "last_update_posted": "2026-07-15",
-    "enrollment": 200,
+    "last_update_posted": "2026-09-03",
+    "enrollment": 210,
     "titulo": "A Phase 2 Trial of ALN-APP in Patients With Cerebral Amyloid Angiopathy",
     "ticker": "ALNY",
     "nombre_usuario": "cAPPricorn-1 Ph2 — mivelsiran — CAA",

@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 02/09/2026 11:58 | Período: últimos 7 días
-Desde: 2026-08-26 → Hasta: 2026-09-02
+Generado: 03/09/2026 11:57 | Período: últimos 7 días
+Desde: 2026-08-27 → Hasta: 2026-09-03
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 8 filings | 🔴 0 | 🟢 0 | 🟡 5 | 🔵 3 | ✅ 14 sin novedad
+RESUMEN: 7 filings | 🔴 0 | 🟢 0 | 🟡 2 | 🔵 5 | ✅ 13 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -27,25 +27,23 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [ALNY] Sin novedades
   ✅ [BEAM] Sin novedades
 
-  🟡 [OCUL] OCULAR THERAPEUTIX, INC — 4 filing(s)
-     🟡 MEDIA 4 | 2026-08-26 | Kaiser Peter (Chief Development Officer) → Venta 3,035 acciones @ $10.77 | Post: 264,378 | Rutinaria/RSU/impuestos
-     Insider: Kaiser Peter (Chief Development Officer) → Venta 3,035 acciones @ $10.77 | Post: 264,378 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926101674/xslF345X06/tm2624096-4_4seq1.xml
-     🟡 MEDIA 4 | 2026-08-26 | Nayak Sanjay (Chief Strategy Officer) → Venta 1,897 acciones @ $10.78 | Post: 326,898 | Rutinaria/RSU/impuestos
-     Insider: Nayak Sanjay (Chief Strategy Officer) → Venta 1,897 acciones @ $10.78 | Post: 326,898 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926101671/xslF345X06/tm2624096-3_4seq1.xml
-     🟡 MEDIA 4 | 2026-08-26 | Heier Jeffrey S. (Chief Scientific Officer) → Venta 3,296 acciones @ $10.78 | Post: 318,326 | Rutinaria/RSU/impuestos
-     Insider: Heier Jeffrey S. (Chief Scientific Officer) → Venta 3,296 acciones @ $10.78 | Post: 318,326 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926101670/xslF345X06/tm2624096-2_4seq1.xml
-     🟡 MEDIA 4 | 2026-08-26 | Dugel Pravin (Director / See Remarks) → Venta 21,649 acciones @ $10.77 | Post: 2,525,429 | Rutinaria/RSU/impuestos
-     Insider: Dugel Pravin (Director / See Remarks) → Venta 21,649 acciones @ $10.77 | Post: 2,525,429 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926101667/xslF345X06/tm2624096-1_4seq1.xml
+  🟡 [OCUL] OCULAR THERAPEUTIX, INC — 1 filing(s)
+     🟡 MEDIA 4 | 2026-09-02 | Notman Donald (Chief Operating Officer) → Venta 1,099 acciones @ $10.24 | Post: 366,529 | Rutinaria/RSU/impuestos
+     Insider: Notman Donald (Chief Operating Officer) → Venta 1,099 acciones @ $10.24 | Post: 366,529 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926104727/xslF345X06/tm2624617-1_4seq1.xml
   ✅ [CAI] Sin novedades
-  ✅ [GPCR] Sin novedades
+
+  🔵 [GPCR] Structure Therapeutics Inc. — 1 filing(s)
+     🔵 INFO 4 | 2026-09-02 | Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 17,817 acciones @ $0.34 | Post: 246,777 | Rutinaria/RSU/impuestos
+     Insider: Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 17,817 acciones @ $0.34 | Post: 246,777 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1888886/000196292626000009/xslF345X06/form4-09032026_010924.xml
   ✅ [ABVX] Sin novedades
   ✅ [VERA] Sin novedades
 
-  🟡 [ACRV] Acrivon Therapeutics, Inc. — 1 filing(s)
+  🟡 [ACRV] Acrivon Therapeutics, Inc. — 2 filing(s)
+     🔵 INFO 4 | 2026-09-02 | Levin Michaela (Chief Business Officer) → Concesión 30,000 acciones @ $0.00 | Post: 30,000 | Rutinaria/RSU/impuestos
+     Insider: Levin Michaela (Chief Business Officer) → Concesión 30,000 acciones @ $0.00 | Post: 30,000 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826004065/xslF345X06/form4.xml
      🟡 MEDIA 4 | 2026-08-27 | Blume-Jensen Peter (President and CEO) → Venta 14,036 acciones @ $2.21 | Post: 2,230,052 | Rutinaria/RSU/impuestos
      Insider: Blume-Jensen Peter (President and CEO) → Venta 14,036 acciones @ $2.21 | Post: 2,230,052 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1781174/000090514826003968/xslF345X06/form4.xml
@@ -89,7 +87,7 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Reclutando activamente
        Enrollment: 150 pacientes
        Primary completion: 2028-07
-       Última actualización: 2026-08-18
+       Última actualización: 2026-09-02
        → https://clinicaltrials.gov/study/NCT07486934
 
   [VKTX]

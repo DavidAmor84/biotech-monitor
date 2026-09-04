@@ -1,8 +1,8 @@
 {
-  "generado": "03/09/2026 12:04 UTC",
+  "generado": "04/09/2026 12:05 UTC",
   "plazo_horas": 72,
-  "desde": "2026-08-31",
-  "hasta": "2026-09-03",
+  "desde": "2026-09-01",
+  "hasta": "2026-09-04",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -12,9 +12,22 @@
     },
     "ARGX": {
       "nombre": "ARGX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ARGX",
+          "titulo": "Wedbush Reiterates Outperform on argenx, Maintains $1150 Price Target",
+          "resumen": "Wedbush  analyst David Nierengarten   reiterates argenx (NASDAQ:ARGX) with a Outperform and maintains $1150 price target.",
+          "fuente": "Benzinga",
+          "fecha": "03 Sep 2026 09:17 UTC",
+          "url": "https://finnhub.io/api/news?id=3f107be00584da02163f09ee1d0f717e6367f42006536fc2759afc88c7e0deb2",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "DYN": {
       "nombre": "DYN",
@@ -52,6 +65,30 @@
       "noticias": [
         {
           "ticker": "VRTX",
+          "titulo": "Vortex Energy Announces Plans for Ground Gravity Survey at the Robinsons River Salt Project",
+          "resumen": "Next Phase of Geophysical Work Advances Priority Targets Following August Technical StudyVANCOUVER, British Columbia, Sept. 03, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) is pleased to announce plans to undertake a targeted ground gra",
+          "fuente": "Yahoo",
+          "fecha": "03 Sep 2026 13:00 UTC",
+          "url": "https://finnhub.io/api/news?id=7d4700673f8c4bd5d49c4dd633a427a5be2e161e3222a34260a84ffa2dc540d8",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "The Market May Be Telling Us We're Entering A Capital Formation Cycle",
+          "resumen": "My clustering stock screener is giving us a much more interesting macro signal than simply energy stocks are strong. The portfolio is not simply long commodities. It's long capital intensity",
+          "fuente": "SeekingAlpha",
+          "fecha": "03 Sep 2026 12:05 UTC",
+          "url": "https://finnhub.io/api/news?id=d73ec82f651930fbe8adb62766f2b042452f9ee41b03a835b7ab5d39184a3300",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2201019642/image_2201019642.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
           "titulo": "2 Reasons CRISPR Therapeutics Stock Could Soar in the Final 4 Months of 2026",
           "resumen": "We'll know a little more about the company's prospects by the end of the year.",
           "fuente": "Yahoo",
@@ -85,30 +122,6 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Morgan Stanley Reinstates Overweight on Vertex Pharmaceuticals, Announces $665 Price Target",
-          "resumen": "Morgan Stanley  analyst Terence Flynn   reinstates Vertex Pharmaceuticals (NASDAQ:VRTX) with a Overweight and announces $665 price target.",
-          "fuente": "Benzinga",
-          "fecha": "02 Sep 2026 06:32 UTC",
-          "url": "https://finnhub.io/api/news?id=65baeaaa7295a12837cd612dfa717f54409a128b38c6d1881b01425069e0e7da",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex (VRTX) Stock Trades At A Premium On Earnings Yet Looks Fair On Broader Checks",
-          "resumen": "Vertex Pharmaceuticals stock has delivered strong multi year gains, and current valuation checks suggest the shares now look closer to fairly priced than clearly cheap or clearly expensive. Vertex Pharmaceuticals has returned 184.9% over the past 5 years, which puts extra focus on whether the curren",
-          "fuente": "Yahoo",
-          "fecha": "02 Sep 2026 02:07 UTC",
-          "url": "https://finnhub.io/api/news?id=24eef22228eed8ffbd8091caadf478dcbe7eea4e653e52b0d457f9066f730f6f",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
@@ -237,22 +250,9 @@
     },
     "INSM": {
       "nombre": "INSM",
-      "noticias": [
-        {
-          "ticker": "INSM",
-          "titulo": "Trump Admin To Target Biotechs With Curbs On Drug Pricing? What Investors Should Know",
-          "resumen": "",
-          "fuente": "SeekingAlpha",
-          "fecha": "31 Aug 2026 14:57 UTC",
-          "url": "https://finnhub.io/api/news?id=59a441525d8351f9ca682906e1f1184af38874463dd1c92a51d84c67a55ae7f7",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     }
   },
   "resumen": {
@@ -262,18 +262,6 @@
     "sin_noticias": 13
   },
   "todas_noticias": [
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex (VRTX) Stock Trades At A Premium On Earnings Yet Looks Fair On Broader Checks",
-      "resumen": "Vertex Pharmaceuticals stock has delivered strong multi year gains, and current valuation checks suggest the shares now look closer to fairly priced than clearly cheap or clearly expensive. Vertex Pharmaceuticals has returned 184.9% over the past 5 years, which puts extra focus on whether the curren",
-      "fuente": "Yahoo",
-      "fecha": "02 Sep 2026 02:07 UTC",
-      "url": "https://finnhub.io/api/news?id=24eef22228eed8ffbd8091caadf478dcbe7eea4e653e52b0d457f9066f730f6f",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "VKTX",
       "titulo": "MongoDB, Credo Technology Group And Other Big Stocks Moving Lower In Wednesday’s Pre-Market Session",
@@ -317,18 +305,6 @@
       "fuente": "Benzinga",
       "fecha": "02 Sep 2026 06:23 UTC",
       "url": "https://finnhub.io/api/news?id=5ef44e0f7c3dd91b0cadb927ef3c0cdb021ef8db068d5ffde69e545aae1b8e6b",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Morgan Stanley Reinstates Overweight on Vertex Pharmaceuticals, Announces $665 Price Target",
-      "resumen": "Morgan Stanley  analyst Terence Flynn   reinstates Vertex Pharmaceuticals (NASDAQ:VRTX) with a Overweight and announces $665 price target.",
-      "fuente": "Benzinga",
-      "fecha": "02 Sep 2026 06:32 UTC",
-      "url": "https://finnhub.io/api/news?id=65baeaaa7295a12837cd612dfa717f54409a128b38c6d1881b01425069e0e7da",
       "imagen": "",
       "urgente": false,
       "nivel": "azul",
@@ -395,13 +371,37 @@
       "badge": "🔵"
     },
     {
-      "ticker": "INSM",
-      "titulo": "Trump Admin To Target Biotechs With Curbs On Drug Pricing? What Investors Should Know",
-      "resumen": "",
-      "fuente": "SeekingAlpha",
-      "fecha": "31 Aug 2026 14:57 UTC",
-      "url": "https://finnhub.io/api/news?id=59a441525d8351f9ca682906e1f1184af38874463dd1c92a51d84c67a55ae7f7",
+      "ticker": "ARGX",
+      "titulo": "Wedbush Reiterates Outperform on argenx, Maintains $1150 Price Target",
+      "resumen": "Wedbush  analyst David Nierengarten   reiterates argenx (NASDAQ:ARGX) with a Outperform and maintains $1150 price target.",
+      "fuente": "Benzinga",
+      "fecha": "03 Sep 2026 09:17 UTC",
+      "url": "https://finnhub.io/api/news?id=3f107be00584da02163f09ee1d0f717e6367f42006536fc2759afc88c7e0deb2",
       "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "The Market May Be Telling Us We're Entering A Capital Formation Cycle",
+      "resumen": "My clustering stock screener is giving us a much more interesting macro signal than simply energy stocks are strong. The portfolio is not simply long commodities. It's long capital intensity",
+      "fuente": "SeekingAlpha",
+      "fecha": "03 Sep 2026 12:05 UTC",
+      "url": "https://finnhub.io/api/news?id=d73ec82f651930fbe8adb62766f2b042452f9ee41b03a835b7ab5d39184a3300",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2201019642/image_2201019642.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vortex Energy Announces Plans for Ground Gravity Survey at the Robinsons River Salt Project",
+      "resumen": "Next Phase of Geophysical Work Advances Priority Targets Following August Technical StudyVANCOUVER, British Columbia, Sept. 03, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) is pleased to announce plans to undertake a targeted ground gra",
+      "fuente": "Yahoo",
+      "fecha": "03 Sep 2026 13:00 UTC",
+      "url": "https://finnhub.io/api/news?id=7d4700673f8c4bd5d49c4dd633a427a5be2e161e3222a34260a84ffa2dc540d8",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

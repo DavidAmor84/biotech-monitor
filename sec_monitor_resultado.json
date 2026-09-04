@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "03/09/2026 11:57",
+  "generado": "04/09/2026 11:59",
   "periodo_dias": 7,
-  "desde": "2026-08-27",
-  "hasta": "2026-09-03",
+  "desde": "2026-08-28",
+  "hasta": "2026-09-04",
   "resumen": {
     "total_filings": 7,
     "alertas_rojas": 0,
     "alertas_verdes": 0,
     "alertas_amarillas": 2,
     "alertas_azules": 5,
-    "sin_novedad": 13
+    "sin_novedad": 12
   },
   "tickers": {
     "SNDX": {
@@ -52,9 +52,36 @@
       "cik": "0001714899",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-09-03",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Schuth Alexander O. (COFO and Secretary) → Venta 2,768 acciones @ $23.44 | Post: 278,995 | Rutinaria/RSU/impuestos",
+          "detalle": "FORM 4",
+          "empresa_sec": "Denali Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1714899/000172431126000014/xslF345X06/wk-form4_1788466654.xml",
+          "form4_detail": {
+            "insider_nombre": "Schuth Alexander O.",
+            "insider_cargo": "COFO and Secretary",
+            "transaccion_codigo": "S",
+            "transaccion_tipo": "Venta",
+            "transaccion_acciones": "2768",
+            "transaccion_precio": "23.44",
+            "transaccion_fecha": "2026-09-01",
+            "acciones_post": "278995",
+            "footnotes": "The sales reported by the Reporting Person were affected pursuant to a Rule 10b5-1 trading plan adopted March 27, 2026. Includes 135,475 Unvested RSUs. The shares are held of record by The Schuth Family Trust U/A DTD 06/05/2017, for which the Reporting Person serves as trustee.",
+            "es_rutinaria": true,
+            "resumen_detail": "Schuth Alexander O. (COFO and Secretary) → Venta 2,768 acciones @ $23.44 | Post: 278,995 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "VKTX": {
@@ -318,36 +345,10 @@
           "8k_detail": null,
           "10q_detail": null,
           "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-08-27",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Blume-Jensen Peter (President and CEO) → Venta 14,036 acciones @ $2.21 | Post: 2,230,052 | Rutinaria/RSU/impuestos",
-          "detalle": "FORM 4",
-          "empresa_sec": "Acrivon Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1781174/000090514826003968/xslF345X06/form4.xml",
-          "form4_detail": {
-            "insider_nombre": "Blume-Jensen Peter",
-            "insider_cargo": "President and CEO",
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "14036",
-            "transaccion_precio": "2.2064",
-            "transaccion_fecha": "2026-08-25",
-            "acciones_post": "2230052",
-            "footnotes": "Shares sold automatically to satisfy the mandatory tax withholding requirement upon vesting of restricted stock units. The price reported in Column 4 above reflects the weighted average sale price. This transaction was executed in multiple trades at prices ranging from $2.17 to $2.25, inclusive. The reporting person hereby undertakes to provide to the Securities and Exchange Commission staff, the Issuer, or a security holder of the Issuer, upon request, full information regarding the number of shares sold at each respective price within the range set forth in footnote 2 of this Form 4. These securities are held by President and CEO, Dr. Peter Blume-Jensen, who is also Dr. Kristina Masson's spouse. Dr. Masson disclaims beneficial ownership of such securities except to the extent of her pecuniary interest therein. These securities are held by co-founder and EVP, Dr. Kristina Masson, who is also Dr. Blume-Jensen's spouse. Dr. Blume-Jensen disclaims beneficial ownership of such securities except to the extent of his pecuniary interest therein.",
-            "es_rutinaria": true,
-            "resumen_detail": "Blume-Jensen Peter (President and CEO) → Venta 14,036 acciones @ $2.21 | Post: 2,230,052 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
         }
       ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "TARA": {
@@ -393,6 +394,34 @@
   },
   "alertas_criticas": [],
   "todos_filings": [
+    {
+      "ticker": "DNLI",
+      "nombre": "Denali Therapeutics Inc.",
+      "form": "4",
+      "fecha": "2026-09-03",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Schuth Alexander O. (COFO and Secretary) → Venta 2,768 acciones @ $23.44 | Post: 278,995 | Rutinaria/RSU/impuestos",
+      "detalle": "FORM 4",
+      "empresa_sec": "Denali Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1714899/000172431126000014/xslF345X06/wk-form4_1788466654.xml",
+      "form4_detail": {
+        "insider_nombre": "Schuth Alexander O.",
+        "insider_cargo": "COFO and Secretary",
+        "transaccion_codigo": "S",
+        "transaccion_tipo": "Venta",
+        "transaccion_acciones": "2768",
+        "transaccion_precio": "23.44",
+        "transaccion_fecha": "2026-09-01",
+        "acciones_post": "278995",
+        "footnotes": "The sales reported by the Reporting Person were affected pursuant to a Rule 10b5-1 trading plan adopted March 27, 2026. Includes 135,475 Unvested RSUs. The shares are held of record by The Schuth Family Trust U/A DTD 06/05/2017, for which the Reporting Person serves as trustee.",
+        "es_rutinaria": true,
+        "resumen_detail": "Schuth Alexander O. (COFO and Secretary) → Venta 2,768 acciones @ $23.44 | Post: 278,995 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "OCUL",
       "nombre": "OCULAR THERAPEUTIX, INC",
@@ -557,34 +586,6 @@
       "8k_detail": null,
       "10q_detail": null,
       "prospecto_detail": null
-    },
-    {
-      "ticker": "ACRV",
-      "nombre": "Acrivon Therapeutics, Inc.",
-      "form": "4",
-      "fecha": "2026-08-27",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Blume-Jensen Peter (President and CEO) → Venta 14,036 acciones @ $2.21 | Post: 2,230,052 | Rutinaria/RSU/impuestos",
-      "detalle": "FORM 4",
-      "empresa_sec": "Acrivon Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1781174/000090514826003968/xslF345X06/form4.xml",
-      "form4_detail": {
-        "insider_nombre": "Blume-Jensen Peter",
-        "insider_cargo": "President and CEO",
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "14036",
-        "transaccion_precio": "2.2064",
-        "transaccion_fecha": "2026-08-25",
-        "acciones_post": "2230052",
-        "footnotes": "Shares sold automatically to satisfy the mandatory tax withholding requirement upon vesting of restricted stock units. The price reported in Column 4 above reflects the weighted average sale price. This transaction was executed in multiple trades at prices ranging from $2.17 to $2.25, inclusive. The reporting person hereby undertakes to provide to the Securities and Exchange Commission staff, the Issuer, or a security holder of the Issuer, upon request, full information regarding the number of shares sold at each respective price within the range set forth in footnote 2 of this Form 4. These securities are held by President and CEO, Dr. Peter Blume-Jensen, who is also Dr. Kristina Masson's spouse. Dr. Masson disclaims beneficial ownership of such securities except to the extent of her pecuniary interest therein. These securities are held by co-founder and EVP, Dr. Kristina Masson, who is also Dr. Blume-Jensen's spouse. Dr. Blume-Jensen disclaims beneficial ownership of such securities except to the extent of his pecuniary interest therein.",
-        "es_rutinaria": true,
-        "resumen_detail": "Blume-Jensen Peter (President and CEO) → Venta 14,036 acciones @ $2.21 | Post: 2,230,052 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
     }
   ],
   "clinicaltrials": {
@@ -656,7 +657,7 @@
         "nivel": "verde",
         "badge": "🟢",
         "enrollment": 150,
-        "ultima_actualizacion": "2026-09-02",
+        "ultima_actualizacion": "2026-09-03",
         "fecha_completion_primaria": "2028-07",
         "changed": true,
         "url": "https://clinicaltrials.gov/study/NCT07486934"

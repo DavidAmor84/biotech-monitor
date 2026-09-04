@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "03/09/2026 12:55",
-  "fecha": "2026-09-03",
+  "generado": "04/09/2026 12:50",
+  "fecha": "2026-09-04",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -11,8 +11,8 @@
     "validacion_error": 0,
     "alertas_rojas": 0,
     "alertas_verdes": 5,
-    "alertas_amarillas": 1,
-    "alertas_azules": 28,
+    "alertas_amarillas": 0,
+    "alertas_azules": 29,
     "errores": 0
   },
   "empresas": {
@@ -198,14 +198,7 @@
           "ventana": "2028",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2026-09-02 → 2026-09-03"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1970,33 +1963,14 @@
           "ventana": "2027-2029",
           "monitorizar": true,
           "peso_importancia": 6,
-          "cambios": [
-            {
-              "tipo": "status",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Estado: RECRUITING → ACTIVE_NOT_RECRUITING"
-            },
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2026-07-15 → 2026-09-03"
-            },
-            {
-              "tipo": "enrollment",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Enrollment: 200 → 210"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         }
       ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "score_relevancia": 28
     },
     "VRTX": {
@@ -2313,14 +2287,7 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2026-09-02 → 2026-09-03"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT07486934"
     },
     {
@@ -2722,45 +2689,6 @@
       "errores_validacion": [],
       "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT07052903"
-    },
-    {
-      "ticker": "ALNY",
-      "nct": "NCT06393712",
-      "nombre": "cAPPricorn-1 Ph2 — mivelsiran — CAA",
-      "nivel": "amarillo",
-      "badge": "🟡",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "primary_completion_date": "2027-08-09",
-      "mensaje": "Activo, sin reclutamiento",
-      "prioridad": "media",
-      "estrellas": "⭐⭐",
-      "tipo": "phase2",
-      "catalizador": "datos Phase 2 CNS",
-      "ventana": "2027-2029",
-      "peso_importancia": 6,
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "status",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Estado: RECRUITING → ACTIVE_NOT_RECRUITING"
-        },
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2026-07-15 → 2026-09-03"
-        },
-        {
-          "tipo": "enrollment",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Enrollment: 200 → 210"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06393712"
     },
     {
       "ticker": "VRTX",

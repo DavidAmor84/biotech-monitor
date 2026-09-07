@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 04/09/2026 11:59 | Período: últimos 7 días
-Desde: 2026-08-28 → Hasta: 2026-09-04
+Generado: 07/09/2026 13:18 | Período: últimos 7 días
+Desde: 2026-08-31 → Hasta: 2026-09-07
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 7 filings | 🔴 0 | 🟢 0 | 🟡 2 | 🔵 5 | ✅ 12 sin novedad
+RESUMEN: 10 filings | 🔴 0 | 🟢 0 | 🟡 3 | 🔵 7 | ✅ 10 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -13,7 +13,10 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [ARGX] Sin novedades
   ✅ [DYN] Sin novedades
 
-  🟡 [DNLI] Denali Therapeutics Inc. — 1 filing(s)
+  🟡 [DNLI] Denali Therapeutics Inc. — 2 filing(s)
+     🟡 MEDIA 4 | 2026-09-04 | Thornberry Nancy (Director) → Venta 10,824 acciones @ $22.85 | Post: 20,301 | Rutinaria/RSU/impuestos
+     Insider: Thornberry Nancy (Director) → Venta 10,824 acciones @ $22.85 | Post: 20,301 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1714899/000179782626000006/xslF345X06/wk-form4_1788555742.xml
      🟡 MEDIA 4 | 2026-09-03 | Schuth Alexander O. (COFO and Secretary) → Venta 2,768 acciones @ $23.44 | Post: 278,995 | Rutinaria/RSU/impuestos
      Insider: Schuth Alexander O. (COFO and Secretary) → Venta 2,768 acciones @ $23.44 | Post: 278,995 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1714899/000172431126000014/xslF345X06/wk-form4_1788466654.xml
@@ -35,14 +38,22 @@ DETALLE POR TICKER — SEC EDGAR
      🟡 MEDIA 4 | 2026-09-02 | Notman Donald (Chief Operating Officer) → Venta 1,099 acciones @ $10.24 | Post: 366,529 | Rutinaria/RSU/impuestos
      Insider: Notman Donald (Chief Operating Officer) → Venta 1,099 acciones @ $10.24 | Post: 366,529 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1393434/000110465926104727/xslF345X06/tm2624617-1_4seq1.xml
-  ✅ [CAI] Sin novedades
+
+  🔵 [CAI] Caris Life Sciences, Inc. — 1 filing(s)
+     🔵 INFO 4 | 2026-09-04 | Spetzler David Baxley (President) → Ejercicio opción 1,000,000 acciones @ $2.44 | Post: 1,530,083 | Rutinaria/RSU/impuestos
+     Insider: Spetzler David Baxley (President) → Ejercicio opción 1,000,000 acciones @ $2.44 | Post: 1,530,083 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/2019410/000207195326000007/xslF345X06/wk-form4_1788555596.xml
 
   🔵 [GPCR] Structure Therapeutics Inc. — 1 filing(s)
      🔵 INFO 4 | 2026-09-02 | Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 17,817 acciones @ $0.34 | Post: 246,777 | Rutinaria/RSU/impuestos
      Insider: Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 17,817 acciones @ $0.34 | Post: 246,777 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1888886/000196292626000009/xslF345X06/form4-09032026_010924.xml
   ✅ [ABVX] Sin novedades
-  ✅ [VERA] Sin novedades
+
+  🔵 [VERA] Vera Therapeutics, Inc. — 1 filing(s)
+     🔵 INFO 4 | 2026-09-04 | Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos
+     Insider: Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1831828/000185945326000014/xslF345X06/form4-09042026_040901.xml
 
   🔵 [ACRV] Acrivon Therapeutics, Inc. — 1 filing(s)
      🔵 INFO 4 | 2026-09-02 | Levin Michaela (Chief Business Officer) → Concesión 30,000 acciones @ $0.00 | Post: 30,000 | Rutinaria/RSU/impuestos

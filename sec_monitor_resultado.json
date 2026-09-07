@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "04/09/2026 11:59",
+  "generado": "07/09/2026 13:18",
   "periodo_dias": 7,
-  "desde": "2026-08-28",
-  "hasta": "2026-09-04",
+  "desde": "2026-08-31",
+  "hasta": "2026-09-07",
   "resumen": {
-    "total_filings": 7,
+    "total_filings": 10,
     "alertas_rojas": 0,
     "alertas_verdes": 0,
-    "alertas_amarillas": 2,
-    "alertas_azules": 5,
-    "sin_novedad": 12
+    "alertas_amarillas": 3,
+    "alertas_azules": 7,
+    "sin_novedad": 10
   },
   "tickers": {
     "SNDX": {
@@ -53,6 +53,32 @@
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
       "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-09-04",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Thornberry Nancy (Director) → Venta 10,824 acciones @ $22.85 | Post: 20,301 | Rutinaria/RSU/impuestos",
+          "detalle": "FORM 4",
+          "empresa_sec": "Denali Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1714899/000179782626000006/xslF345X06/wk-form4_1788555742.xml",
+          "form4_detail": {
+            "insider_nombre": "Thornberry Nancy",
+            "insider_cargo": "Director",
+            "transaccion_codigo": "S",
+            "transaccion_tipo": "Venta",
+            "transaccion_acciones": "10824",
+            "transaccion_precio": "22.85",
+            "transaccion_fecha": "2026-09-02",
+            "acciones_post": "20301",
+            "footnotes": "The sales reported by the Reporting Person were affected pursuant to a Rule 10b5-1 trading plan adopted June 3, 2026. The sale price reported in column 4 of Table I represents the weighted average sale price of the shares ranging from $22.54 to $23.52 per share. Upon request by the Commission staff, the Issuer, or a security holder of the Issuer, the Reporting Person will provide full information regarding the number of shares sold at each separate price. Includes 6,408 Unvested RSUs. The sale price reported in column 4 of Table I represents the weighted average sale price of the shares ranging from $23.59 to $23.85 per share. Upon request by the Commission staff, the Issuer, or a security holder of the Issuer, the Reporting Person will provide full information regarding the number of shares sold at each separate price.",
+            "es_rutinaria": true,
+            "resumen_detail": "Thornberry Nancy (Director) → Venta 10,824 acciones @ $22.85 | Post: 20,301 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
         {
           "form": "4",
           "fecha": "2026-09-03",
@@ -248,9 +274,36 @@
       "cik": "0002019410",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-09-04",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Spetzler David Baxley (President) → Ejercicio opción 1,000,000 acciones @ $2.44 | Post: 1,530,083 | Rutinaria/RSU/impuestos",
+          "detalle": "FORM 4",
+          "empresa_sec": "Caris Life Sciences, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/2019410/000207195326000007/xslF345X06/wk-form4_1788555596.xml",
+          "form4_detail": {
+            "insider_nombre": "Spetzler David Baxley",
+            "insider_cargo": "President",
+            "transaccion_codigo": "M",
+            "transaccion_tipo": "Ejercicio opción",
+            "transaccion_acciones": "1000000",
+            "transaccion_precio": "2.44",
+            "transaccion_fecha": "2026-09-03",
+            "acciones_post": "1530083",
+            "footnotes": "The sales reported on this Form 4 were effected pursuant to a broker-assisted sell-to-cover exercise of fully vested stock options scheduled to expire on September 12, 2026. The shares were sold solely to cover the aggregate exercise price and applicable tax withholding obligations. The Reporting Person retained all remaining shares acquired upon exercise. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $24.3200 to $25.3100, inclusive. The reporting person undertakes to provide to Caris Life Sciences, Inc., any security holder of Caris Life Sciences, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $25.3200 to $25.3300, inclusive. The reporting person undertakes to provide to Caris Life Sciences, Inc., any security holder of Caris Life Sciences, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $24.5550 to $25.1200, inclusive. The reporting person ",
+            "es_rutinaria": true,
+            "resumen_detail": "Spetzler David Baxley (President) → Ejercicio opción 1,000,000 acciones @ $2.44 | Post: 1,530,083 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "GPCR": {
@@ -308,9 +361,36 @@
       "cik": "0001831828",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-09-04",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos",
+          "detalle": "xslF345X06/form4-09042026_040901.xml",
+          "empresa_sec": "Vera Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1831828/000185945326000014/xslF345X06/form4-09042026_040901.xml",
+          "form4_detail": {
+            "insider_nombre": "Fordyce Marshall",
+            "insider_cargo": "PRESIDENT AND CEO",
+            "transaccion_codigo": "M",
+            "transaccion_tipo": "Ejercicio opción",
+            "transaccion_acciones": "18500",
+            "transaccion_precio": "2.8968",
+            "transaccion_fecha": "2026-09-02",
+            "acciones_post": "253744",
+            "footnotes": "The sales were made pursuant to a written plan adopted on January 9, 2026, meeting the requirements of Rule 10b5-1(c) of the Securities Exchange Act of 1934, as amended. The price reported is a weighted-average price. These shares were sold in multiple transactions at prices ranging from $35.00 to $35.34, inclusive. The Reporting Person will provide upon request to the staff of the Securities and Exchange Commission, the Issuer or any security holder of the Issuer, full information regarding the number of shares sold at each separate price. 1/4 of the shares subject to the option vested on December 16, 2021, and 1/48 of the shares vested monthly thereafter.",
+            "es_rutinaria": true,
+            "resumen_detail": "Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "ACRV": {
@@ -394,6 +474,90 @@
   },
   "alertas_criticas": [],
   "todos_filings": [
+    {
+      "ticker": "DNLI",
+      "nombre": "Denali Therapeutics Inc.",
+      "form": "4",
+      "fecha": "2026-09-04",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Thornberry Nancy (Director) → Venta 10,824 acciones @ $22.85 | Post: 20,301 | Rutinaria/RSU/impuestos",
+      "detalle": "FORM 4",
+      "empresa_sec": "Denali Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1714899/000179782626000006/xslF345X06/wk-form4_1788555742.xml",
+      "form4_detail": {
+        "insider_nombre": "Thornberry Nancy",
+        "insider_cargo": "Director",
+        "transaccion_codigo": "S",
+        "transaccion_tipo": "Venta",
+        "transaccion_acciones": "10824",
+        "transaccion_precio": "22.85",
+        "transaccion_fecha": "2026-09-02",
+        "acciones_post": "20301",
+        "footnotes": "The sales reported by the Reporting Person were affected pursuant to a Rule 10b5-1 trading plan adopted June 3, 2026. The sale price reported in column 4 of Table I represents the weighted average sale price of the shares ranging from $22.54 to $23.52 per share. Upon request by the Commission staff, the Issuer, or a security holder of the Issuer, the Reporting Person will provide full information regarding the number of shares sold at each separate price. Includes 6,408 Unvested RSUs. The sale price reported in column 4 of Table I represents the weighted average sale price of the shares ranging from $23.59 to $23.85 per share. Upon request by the Commission staff, the Issuer, or a security holder of the Issuer, the Reporting Person will provide full information regarding the number of shares sold at each separate price.",
+        "es_rutinaria": true,
+        "resumen_detail": "Thornberry Nancy (Director) → Venta 10,824 acciones @ $22.85 | Post: 20,301 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "CAI",
+      "nombre": "Caris Life Sciences, Inc.",
+      "form": "4",
+      "fecha": "2026-09-04",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Spetzler David Baxley (President) → Ejercicio opción 1,000,000 acciones @ $2.44 | Post: 1,530,083 | Rutinaria/RSU/impuestos",
+      "detalle": "FORM 4",
+      "empresa_sec": "Caris Life Sciences, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/2019410/000207195326000007/xslF345X06/wk-form4_1788555596.xml",
+      "form4_detail": {
+        "insider_nombre": "Spetzler David Baxley",
+        "insider_cargo": "President",
+        "transaccion_codigo": "M",
+        "transaccion_tipo": "Ejercicio opción",
+        "transaccion_acciones": "1000000",
+        "transaccion_precio": "2.44",
+        "transaccion_fecha": "2026-09-03",
+        "acciones_post": "1530083",
+        "footnotes": "The sales reported on this Form 4 were effected pursuant to a broker-assisted sell-to-cover exercise of fully vested stock options scheduled to expire on September 12, 2026. The shares were sold solely to cover the aggregate exercise price and applicable tax withholding obligations. The Reporting Person retained all remaining shares acquired upon exercise. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $24.3200 to $25.3100, inclusive. The reporting person undertakes to provide to Caris Life Sciences, Inc., any security holder of Caris Life Sciences, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $25.3200 to $25.3300, inclusive. The reporting person undertakes to provide to Caris Life Sciences, Inc., any security holder of Caris Life Sciences, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $24.5550 to $25.1200, inclusive. The reporting person ",
+        "es_rutinaria": true,
+        "resumen_detail": "Spetzler David Baxley (President) → Ejercicio opción 1,000,000 acciones @ $2.44 | Post: 1,530,083 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "VERA",
+      "nombre": "Vera Therapeutics, Inc.",
+      "form": "4",
+      "fecha": "2026-09-04",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos",
+      "detalle": "xslF345X06/form4-09042026_040901.xml",
+      "empresa_sec": "Vera Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1831828/000185945326000014/xslF345X06/form4-09042026_040901.xml",
+      "form4_detail": {
+        "insider_nombre": "Fordyce Marshall",
+        "insider_cargo": "PRESIDENT AND CEO",
+        "transaccion_codigo": "M",
+        "transaccion_tipo": "Ejercicio opción",
+        "transaccion_acciones": "18500",
+        "transaccion_precio": "2.8968",
+        "transaccion_fecha": "2026-09-02",
+        "acciones_post": "253744",
+        "footnotes": "The sales were made pursuant to a written plan adopted on January 9, 2026, meeting the requirements of Rule 10b5-1(c) of the Securities Exchange Act of 1934, as amended. The price reported is a weighted-average price. These shares were sold in multiple transactions at prices ranging from $35.00 to $35.34, inclusive. The Reporting Person will provide upon request to the staff of the Securities and Exchange Commission, the Issuer or any security holder of the Issuer, full information regarding the number of shares sold at each separate price. 1/4 of the shares subject to the option vested on December 16, 2021, and 1/48 of the shares vested monthly thereafter.",
+        "es_rutinaria": true,
+        "resumen_detail": "Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "DNLI",
       "nombre": "Denali Therapeutics Inc.",

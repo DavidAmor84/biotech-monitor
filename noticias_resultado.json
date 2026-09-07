@@ -1,33 +1,58 @@
 {
-  "generado": "04/09/2026 12:05 UTC",
+  "generado": "07/09/2026 13:28 UTC",
   "plazo_horas": 72,
-  "desde": "2026-09-01",
-  "hasta": "2026-09-04",
+  "desde": "2026-09-04",
+  "hasta": "2026-09-07",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "SNDX",
+          "titulo": "Syndax Pharmaceuticals Reports Inducement Grants Under NASDAQ Listing Rule 5635(c)(4)",
+          "resumen": "NEW YORK, Sept. 04, 2026 (GLOBE NEWSWIRE) -- Syndax Pharmaceuticals (Nasdaq: SNDX), a commercial-stage biopharmaceutical company advancing innovative cancer therapies, today announced that on September 1, 2026, the Company granted inducement awards to purchase up to 175,000 shares of common stock to",
+          "fuente": "Yahoo",
+          "fecha": "04 Sep 2026 20:01 UTC",
+          "url": "https://finnhub.io/api/news?id=e6f59ca17ede6ef1cf3ef50b71c4663b66e2a287c39691ddbf1bafd3d081ed8d",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "ARGX": {
       "nombre": "ARGX",
       "noticias": [
         {
           "ticker": "ARGX",
-          "titulo": "Wedbush Reiterates Outperform on argenx, Maintains $1150 Price Target",
-          "resumen": "Wedbush  analyst David Nierengarten   reiterates argenx (NASDAQ:ARGX) with a Outperform and maintains $1150 price target.",
+          "titulo": "Dianthus: Hold, Based On Competitor C1s' CIDP Setback And Continued Claseprubart Advancement",
+          "resumen": "Despite positive interim results in the CAPTIVATE trial, Dianthus faces uncertainty in CIDP, as both drugs target the same C1s pathway. See why DNTH stock is a Hold.",
+          "fuente": "SeekingAlpha",
+          "fecha": "05 Sep 2026 23:01 UTC",
+          "url": "https://finnhub.io/api/news?id=9619dc7d4c6125ab7e67303e78c32361186f3675a6eb4c5443f52a67e7bd6c48",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2293141419/image_2293141419.jpg?io=getty-c-w1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ARGX",
+          "titulo": "Here's How Much $100 Invested In argenx 5 Years Ago Would Be Worth Today",
+          "resumen": "argenx (NASDAQ:ARGX) has outperformed the market over the past 5 years by 13.58% on an annualized basis producing an average annual return of 24.86%. Currently, argenx has a market capitalization of $64.63 billion.",
           "fuente": "Benzinga",
-          "fecha": "03 Sep 2026 09:17 UTC",
-          "url": "https://finnhub.io/api/news?id=3f107be00584da02163f09ee1d0f717e6367f42006536fc2759afc88c7e0deb2",
-          "imagen": "",
+          "fecha": "04 Sep 2026 16:15 UTC",
+          "url": "https://finnhub.io/api/news?id=ba47a77cbbede17414f5a00d87c1a4ca388b4a035b19f5728c5b0e63392b4b33",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_2.jpg?width=2048&height=1536",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         }
       ],
-      "nivel": "azul",
-      "total": 1
+      "nivel": "rojo",
+      "total": 2
     },
     "DYN": {
       "nombre": "DYN",
@@ -46,78 +71,66 @@
       "noticias": [
         {
           "ticker": "VKTX",
-          "titulo": "MongoDB, Credo Technology Group And Other Big Stocks Moving Lower In Wednesday’s Pre-Market Session",
-          "resumen": "US stock futures lower, MongoDB shares down 13.4% in pre-market trading after earnings beat estimates. Other stocks also declining in pre-market.",
-          "fuente": "Benzinga",
-          "fecha": "02 Sep 2026 08:03 UTC",
-          "url": "https://finnhub.io/api/news?id=fdbd24517115a9b49fb25ba352af6834ffff5e06078cc8ea58121a43fa4ff08f",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/09/02/MongoDB.jpg?width=2048&height=1536",
+          "titulo": "Viking Therapeutics Trades Well Below Its Wall Street Targets. Here's the Skeptics' Case.",
+          "resumen": "Investors always need to appreciate risk before buying into any clinical-stage biopharmaceutical company.",
+          "fuente": "Yahoo",
+          "fecha": "06 Sep 2026 00:20 UTC",
+          "url": "https://finnhub.io/api/news?id=f560de93e6d7b99e8f9a524466e7ec1fed0850a9af41b2a88e40c96fd6f4f993",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "Is Viking Therapeutics (VKTX) Stock Fully Priced After A 411% Run?",
+          "resumen": "Viking Therapeutics stock has delivered a very strong 5 year run, yet current valuation checks suggest the shares are priced at the richer end of the spectrum rather than as a clear bargain. Around 411.0% total return over 5 years highlights how much optimism has already been reflected in Viking The",
+          "fuente": "Yahoo",
+          "fecha": "04 Sep 2026 20:10 UTC",
+          "url": "https://finnhub.io/api/news?id=086c00860b2651eab63fceadfc7f1a945a17d1e5f0227916db1d1549c9cc6d31",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "Why Is Mirum Pharmaceuticals (MIRM) Up 6.9% Since Last Earnings Report?",
+          "resumen": "Mirum Pharmaceuticals (MIRM) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+          "fuente": "Yahoo",
+          "fecha": "04 Sep 2026 15:30 UTC",
+          "url": "https://finnhub.io/api/news?id=4800b57376af27d30dce5ec4c485d537e66df438461534f1bb9efdcf5574c154",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 1
+      "total": 3
     },
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
         {
           "ticker": "VRTX",
-          "titulo": "Vortex Energy Announces Plans for Ground Gravity Survey at the Robinsons River Salt Project",
-          "resumen": "Next Phase of Geophysical Work Advances Priority Targets Following August Technical StudyVANCOUVER, British Columbia, Sept. 03, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) is pleased to announce plans to undertake a targeted ground gra",
-          "fuente": "Yahoo",
-          "fecha": "03 Sep 2026 13:00 UTC",
-          "url": "https://finnhub.io/api/news?id=7d4700673f8c4bd5d49c4dd633a427a5be2e161e3222a34260a84ffa2dc540d8",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "The Market May Be Telling Us We're Entering A Capital Formation Cycle",
-          "resumen": "My clustering stock screener is giving us a much more interesting macro signal than simply energy stocks are strong. The portfolio is not simply long commodities. It's long capital intensity",
+          "titulo": "CRISPR Therapeutics: CASGEVY Validates The Platform, Strengthening The Acquisition Case",
+          "resumen": "CRISPR Therapeutics' current $5.6B market cap and $1.78B net cash position offer acquisition appeal. Click to know why CRSP is rated a Buy.",
           "fuente": "SeekingAlpha",
-          "fecha": "03 Sep 2026 12:05 UTC",
-          "url": "https://finnhub.io/api/news?id=d73ec82f651930fbe8adb62766f2b042452f9ee41b03a835b7ab5d39184a3300",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2201019642/image_2201019642.jpg?io=getty-c-w1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "2 Reasons CRISPR Therapeutics Stock Could Soar in the Final 4 Months of 2026",
-          "resumen": "We'll know a little more about the company's prospects by the end of the year.",
-          "fuente": "Yahoo",
-          "fecha": "02 Sep 2026 23:05 UTC",
-          "url": "https://finnhub.io/api/news?id=ed99b44d8e7d8891342fece7307f49bbacb2555f786e6a5fb9a66f9154a714d3",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Why Is Vertex (VRTX) Up 14.4% Since Last Earnings Report?",
-          "resumen": "Vertex (VRTX) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
-          "fuente": "Yahoo",
-          "fecha": "02 Sep 2026 16:30 UTC",
-          "url": "https://finnhub.io/api/news?id=a64fdd4280f1952b130f8c25d1558be0be050e099e1a656cc74a708d86298213",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "fecha": "05 Sep 2026 06:10 UTC",
+          "url": "https://finnhub.io/api/news?id=81a0a262d8098c7ecccc6216fe28adcb2dd0d073ce0ee2611eab1c23e9613a97",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2289017666/image_2289017666.jpg?io=getty-c-w1536",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
         },
         {
           "ticker": "VRTX",
-          "titulo": "How Is Vertex Pharmaceuticals' Stock Performance Compared to Other Biotech Stocks?",
-          "resumen": "Vertex Pharmaceuticals has underperformed the Biotech industry over the past year, but analysts are moderately optimistic about the stock’s prospects.",
+          "titulo": "Vertex vs. Regeneron: Which Biotech Giant Is the Better Buy Right Now?",
+          "resumen": "They could both outperform the market over the medium term, but one appears to have a clear edge.",
           "fuente": "Yahoo",
-          "fecha": "02 Sep 2026 15:44 UTC",
-          "url": "https://finnhub.io/api/news?id=c010c50ae2579c32161cb38bbb06fd666c9ce9e6bd53e0a53af8df5406f89934",
+          "fecha": "04 Sep 2026 18:50 UTC",
+          "url": "https://finnhub.io/api/news?id=2109b2d0a9fc059644620ec0e33e0c12123ced56d7da3cfb25d8902e87fffdc0",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
@@ -125,74 +138,13 @@
         }
       ],
       "nivel": "rojo",
-      "total": 5
+      "total": 2
     },
     "ALNY": {
       "nombre": "ALNY",
-      "noticias": [
-        {
-          "ticker": "ALNY",
-          "titulo": "Alnylam Pharmaceuticals (NASDAQ:ALNY): Affordable Growth in Biotech",
-          "resumen": "Alnylam (NASDAQ:ALNY) passes the Affordable Growth screen with strong growth, reasonable valuation, solid profitability, and healthy financials.",
-          "fuente": "ChartMill",
-          "fecha": "03 Sep 2026 08:04 UTC",
-          "url": "https://finnhub.io/api/news?id=fed91869d152fcc85adaee84e4889ea6a94c73cb0a794f99fcda847a6a80223a",
-          "imagen": "https://www.chartmill.com/images/uploads/Affordable_Growth_500_264px_webp_add6a3aa59.webp",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "TG Therapeutics (TGTX) Up 15.1% Since Last Earnings Report: Can It Continue?",
-          "resumen": "TG Therapeutics (TGTX) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
-          "fuente": "Yahoo",
-          "fecha": "02 Sep 2026 16:30 UTC",
-          "url": "https://finnhub.io/api/news?id=ec4848875c7495fabc7cc02a5cca3b99f77c041853abfd0bba1a2cafde6ab681",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "10 Health Care Stocks Whale Activity In Today’s Session",
-          "resumen": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
-          "fuente": "Benzinga",
-          "fecha": "02 Sep 2026 13:35 UTC",
-          "url": "https://finnhub.io/api/news?id=fac6b53077cb17d7af20e819aacca07cf62593653b986be157b110f4bed8e7fd",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Alnylam to Webcast Presentations at Upcoming September Investor Conferences",
-          "resumen": "CAMBRIDGE, Mass., September 02, 2026--Alnylam Pharmaceuticals, Inc. (Nasdaq: ALNY), the leading RNAi therapeutics company, announced today that management will present company overviews at the following upcoming investor conferences:",
-          "fuente": "Yahoo",
-          "fecha": "02 Sep 2026 13:00 UTC",
-          "url": "https://finnhub.io/api/news?id=8701cd6625dceb0b0667e90d5d2a25e5711e8a60c59a468c4f9cb62c00e98961",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "HC Wainwright & Co. Reiterates Buy on Alnylam Pharmaceuticals, Maintains $455 Price Target",
-          "resumen": "HC Wainwright &amp; Co.  analyst Patrick R. Trucchio   reiterates Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Buy and maintains $455 price target.",
-          "fuente": "Benzinga",
-          "fecha": "02 Sep 2026 06:23 UTC",
-          "url": "https://finnhub.io/api/news?id=5ef44e0f7c3dd91b0cadb927ef3c0cdb021ef8db068d5ffde69e545aae1b8e6b",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 5
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "BEAM": {
       "nombre": "BEAM",
@@ -208,9 +160,34 @@
     },
     "CAI": {
       "nombre": "CAI",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "CAI",
+          "titulo": "Could Caris Life Sciences (CAI) Be 7% Undervalued After Its Lung Cancer Research Update?",
+          "resumen": "Caris Life Sciences (CAI) is drawing fresh attention after announcing that its researchers will present seven lung cancer studies at the 2026 World Conference on Lung Cancer in Seoul this month. For investors, the World Conference presentations and August’s pancreatic cancer AI publication land agai",
+          "fuente": "Yahoo",
+          "fecha": "06 Sep 2026 10:11 UTC",
+          "url": "https://finnhub.io/api/news?id=02719ac99ff8e8f73ed8ab3b7fcf2f59802dd1b352d70a9d665047582b5f6eed",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "CAI",
+          "titulo": "Caris Life Sciences (CAI) Will Present Seven Studies At A Global Lung Conference",
+          "resumen": "Caris Life Sciences (NasdaqGS: CAI) announced plans to present seven major precision oncology studies at the IASLC 2026 World Conference on Lung Cancer. The company highlighted new data on molecular profiling and AI powered analysis for lung cancer care. Caris also published a validated AI driven me",
+          "fuente": "Yahoo",
+          "fecha": "05 Sep 2026 18:11 UTC",
+          "url": "https://finnhub.io/api/news?id=f8f65b4278d315528621a768ba701ca834b02e483b8701b08653dbc474662ccc",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 2
     },
     "GPCR": {
       "nombre": "GPCR",
@@ -226,9 +203,22 @@
     },
     "VERA": {
       "nombre": "VERA",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "VERA",
+          "titulo": "Vera Therapeutics Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+          "resumen": "BRISBANE, Calif., Sept. 04, 2026 (GLOBE NEWSWIRE) -- Vera Therapeutics, Inc. (Nasdaq: VERA) today announced that, on September 1, 2026, the Compensation Committee of the Board of Directors (Compensation Committee) of Vera Therapeutics granted inducement awards consisting of non-qualified stock optio",
+          "fuente": "Yahoo",
+          "fecha": "04 Sep 2026 20:05 UTC",
+          "url": "https://finnhub.io/api/news?id=25c222aee46ddf6db83304fe7f0d5f8f5bfce69ea37ae6d2b4126cf870bd7f11",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "ACRV": {
       "nombre": "ACRV",
@@ -256,151 +246,139 @@
     }
   },
   "resumen": {
-    "total_noticias": 12,
-    "tickers_con_noticias": 4,
-    "alertas_urgentes": 3,
-    "sin_noticias": 13
+    "total_noticias": 11,
+    "tickers_con_noticias": 6,
+    "alertas_urgentes": 5,
+    "sin_noticias": 11
   },
   "todas_noticias": [
     {
       "ticker": "VKTX",
-      "titulo": "MongoDB, Credo Technology Group And Other Big Stocks Moving Lower In Wednesday’s Pre-Market Session",
-      "resumen": "US stock futures lower, MongoDB shares down 13.4% in pre-market trading after earnings beat estimates. Other stocks also declining in pre-market.",
-      "fuente": "Benzinga",
-      "fecha": "02 Sep 2026 08:03 UTC",
-      "url": "https://finnhub.io/api/news?id=fdbd24517115a9b49fb25ba352af6834ffff5e06078cc8ea58121a43fa4ff08f",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/09/02/MongoDB.jpg?width=2048&height=1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Why Is Vertex (VRTX) Up 14.4% Since Last Earnings Report?",
-      "resumen": "Vertex (VRTX) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+      "titulo": "Why Is Mirum Pharmaceuticals (MIRM) Up 6.9% Since Last Earnings Report?",
+      "resumen": "Mirum Pharmaceuticals (MIRM) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
       "fuente": "Yahoo",
-      "fecha": "02 Sep 2026 16:30 UTC",
-      "url": "https://finnhub.io/api/news?id=a64fdd4280f1952b130f8c25d1558be0be050e099e1a656cc74a708d86298213",
+      "fecha": "04 Sep 2026 15:30 UTC",
+      "url": "https://finnhub.io/api/news?id=4800b57376af27d30dce5ec4c485d537e66df438461534f1bb9efdcf5574c154",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
     },
     {
-      "ticker": "ALNY",
-      "titulo": "TG Therapeutics (TGTX) Up 15.1% Since Last Earnings Report: Can It Continue?",
-      "resumen": "TG Therapeutics (TGTX) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+      "ticker": "SNDX",
+      "titulo": "Syndax Pharmaceuticals Reports Inducement Grants Under NASDAQ Listing Rule 5635(c)(4)",
+      "resumen": "NEW YORK, Sept. 04, 2026 (GLOBE NEWSWIRE) -- Syndax Pharmaceuticals (Nasdaq: SNDX), a commercial-stage biopharmaceutical company advancing innovative cancer therapies, today announced that on September 1, 2026, the Company granted inducement awards to purchase up to 175,000 shares of common stock to",
       "fuente": "Yahoo",
-      "fecha": "02 Sep 2026 16:30 UTC",
-      "url": "https://finnhub.io/api/news?id=ec4848875c7495fabc7cc02a5cca3b99f77c041853abfd0bba1a2cafde6ab681",
+      "fecha": "04 Sep 2026 20:01 UTC",
+      "url": "https://finnhub.io/api/news?id=e6f59ca17ede6ef1cf3ef50b71c4663b66e2a287c39691ddbf1bafd3d081ed8d",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
     },
     {
-      "ticker": "ALNY",
-      "titulo": "HC Wainwright & Co. Reiterates Buy on Alnylam Pharmaceuticals, Maintains $455 Price Target",
-      "resumen": "HC Wainwright &amp; Co.  analyst Patrick R. Trucchio   reiterates Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Buy and maintains $455 price target.",
-      "fuente": "Benzinga",
-      "fecha": "02 Sep 2026 06:23 UTC",
-      "url": "https://finnhub.io/api/news?id=5ef44e0f7c3dd91b0cadb927ef3c0cdb021ef8db068d5ffde69e545aae1b8e6b",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Alnylam to Webcast Presentations at Upcoming September Investor Conferences",
-      "resumen": "CAMBRIDGE, Mass., September 02, 2026--Alnylam Pharmaceuticals, Inc. (Nasdaq: ALNY), the leading RNAi therapeutics company, announced today that management will present company overviews at the following upcoming investor conferences:",
-      "fuente": "Yahoo",
-      "fecha": "02 Sep 2026 13:00 UTC",
-      "url": "https://finnhub.io/api/news?id=8701cd6625dceb0b0667e90d5d2a25e5711e8a60c59a468c4f9cb62c00e98961",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "10 Health Care Stocks Whale Activity In Today’s Session",
-      "resumen": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.\nTraders often",
-      "fuente": "Benzinga",
-      "fecha": "02 Sep 2026 13:35 UTC",
-      "url": "https://finnhub.io/api/news?id=fac6b53077cb17d7af20e819aacca07cf62593653b986be157b110f4bed8e7fd",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
       "ticker": "VRTX",
-      "titulo": "How Is Vertex Pharmaceuticals' Stock Performance Compared to Other Biotech Stocks?",
-      "resumen": "Vertex Pharmaceuticals has underperformed the Biotech industry over the past year, but analysts are moderately optimistic about the stock’s prospects.",
-      "fuente": "Yahoo",
-      "fecha": "02 Sep 2026 15:44 UTC",
-      "url": "https://finnhub.io/api/news?id=c010c50ae2579c32161cb38bbb06fd666c9ce9e6bd53e0a53af8df5406f89934",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "titulo": "CRISPR Therapeutics: CASGEVY Validates The Platform, Strengthening The Acquisition Case",
+      "resumen": "CRISPR Therapeutics' current $5.6B market cap and $1.78B net cash position offer acquisition appeal. Click to know why CRSP is rated a Buy.",
+      "fuente": "SeekingAlpha",
+      "fecha": "05 Sep 2026 06:10 UTC",
+      "url": "https://finnhub.io/api/news?id=81a0a262d8098c7ecccc6216fe28adcb2dd0d073ce0ee2611eab1c23e9613a97",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2289017666/image_2289017666.jpg?io=getty-c-w1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "2 Reasons CRISPR Therapeutics Stock Could Soar in the Final 4 Months of 2026",
-      "resumen": "We'll know a little more about the company's prospects by the end of the year.",
+      "ticker": "CAI",
+      "titulo": "Caris Life Sciences (CAI) Will Present Seven Studies At A Global Lung Conference",
+      "resumen": "Caris Life Sciences (NasdaqGS: CAI) announced plans to present seven major precision oncology studies at the IASLC 2026 World Conference on Lung Cancer. The company highlighted new data on molecular profiling and AI powered analysis for lung cancer care. Caris also published a validated AI driven me",
       "fuente": "Yahoo",
-      "fecha": "02 Sep 2026 23:05 UTC",
-      "url": "https://finnhub.io/api/news?id=ed99b44d8e7d8891342fece7307f49bbacb2555f786e6a5fb9a66f9154a714d3",
+      "fecha": "05 Sep 2026 18:11 UTC",
+      "url": "https://finnhub.io/api/news?id=f8f65b4278d315528621a768ba701ca834b02e483b8701b08653dbc474662ccc",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Alnylam Pharmaceuticals (NASDAQ:ALNY): Affordable Growth in Biotech",
-      "resumen": "Alnylam (NASDAQ:ALNY) passes the Affordable Growth screen with strong growth, reasonable valuation, solid profitability, and healthy financials.",
-      "fuente": "ChartMill",
-      "fecha": "03 Sep 2026 08:04 UTC",
-      "url": "https://finnhub.io/api/news?id=fed91869d152fcc85adaee84e4889ea6a94c73cb0a794f99fcda847a6a80223a",
-      "imagen": "https://www.chartmill.com/images/uploads/Affordable_Growth_500_264px_webp_add6a3aa59.webp",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "ARGX",
-      "titulo": "Wedbush Reiterates Outperform on argenx, Maintains $1150 Price Target",
-      "resumen": "Wedbush  analyst David Nierengarten   reiterates argenx (NASDAQ:ARGX) with a Outperform and maintains $1150 price target.",
-      "fuente": "Benzinga",
-      "fecha": "03 Sep 2026 09:17 UTC",
-      "url": "https://finnhub.io/api/news?id=3f107be00584da02163f09ee1d0f717e6367f42006536fc2759afc88c7e0deb2",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "The Market May Be Telling Us We're Entering A Capital Formation Cycle",
-      "resumen": "My clustering stock screener is giving us a much more interesting macro signal than simply energy stocks are strong. The portfolio is not simply long commodities. It's long capital intensity",
+      "titulo": "Dianthus: Hold, Based On Competitor C1s' CIDP Setback And Continued Claseprubart Advancement",
+      "resumen": "Despite positive interim results in the CAPTIVATE trial, Dianthus faces uncertainty in CIDP, as both drugs target the same C1s pathway. See why DNTH stock is a Hold.",
       "fuente": "SeekingAlpha",
-      "fecha": "03 Sep 2026 12:05 UTC",
-      "url": "https://finnhub.io/api/news?id=d73ec82f651930fbe8adb62766f2b042452f9ee41b03a835b7ab5d39184a3300",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2201019642/image_2201019642.jpg?io=getty-c-w1536",
+      "fecha": "05 Sep 2026 23:01 UTC",
+      "url": "https://finnhub.io/api/news?id=9619dc7d4c6125ab7e67303e78c32361186f3675a6eb4c5443f52a67e7bd6c48",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2293141419/image_2293141419.jpg?io=getty-c-w1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Viking Therapeutics Trades Well Below Its Wall Street Targets. Here's the Skeptics' Case.",
+      "resumen": "Investors always need to appreciate risk before buying into any clinical-stage biopharmaceutical company.",
+      "fuente": "Yahoo",
+      "fecha": "06 Sep 2026 00:20 UTC",
+      "url": "https://finnhub.io/api/news?id=f560de93e6d7b99e8f9a524466e7ec1fed0850a9af41b2a88e40c96fd6f4f993",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "Here's How Much $100 Invested In argenx 5 Years Ago Would Be Worth Today",
+      "resumen": "argenx (NASDAQ:ARGX) has outperformed the market over the past 5 years by 13.58% on an annualized basis producing an average annual return of 24.86%. Currently, argenx has a market capitalization of $64.63 billion.",
+      "fuente": "Benzinga",
+      "fecha": "04 Sep 2026 16:15 UTC",
+      "url": "https://finnhub.io/api/news?id=ba47a77cbbede17414f5a00d87c1a4ca388b4a035b19f5728c5b0e63392b4b33",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_2.jpg?width=2048&height=1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
     },
     {
       "ticker": "VRTX",
-      "titulo": "Vortex Energy Announces Plans for Ground Gravity Survey at the Robinsons River Salt Project",
-      "resumen": "Next Phase of Geophysical Work Advances Priority Targets Following August Technical StudyVANCOUVER, British Columbia, Sept. 03, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) is pleased to announce plans to undertake a targeted ground gra",
+      "titulo": "Vertex vs. Regeneron: Which Biotech Giant Is the Better Buy Right Now?",
+      "resumen": "They could both outperform the market over the medium term, but one appears to have a clear edge.",
       "fuente": "Yahoo",
-      "fecha": "03 Sep 2026 13:00 UTC",
-      "url": "https://finnhub.io/api/news?id=7d4700673f8c4bd5d49c4dd633a427a5be2e161e3222a34260a84ffa2dc540d8",
+      "fecha": "04 Sep 2026 18:50 UTC",
+      "url": "https://finnhub.io/api/news?id=2109b2d0a9fc059644620ec0e33e0c12123ced56d7da3cfb25d8902e87fffdc0",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VERA",
+      "titulo": "Vera Therapeutics Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+      "resumen": "BRISBANE, Calif., Sept. 04, 2026 (GLOBE NEWSWIRE) -- Vera Therapeutics, Inc. (Nasdaq: VERA) today announced that, on September 1, 2026, the Compensation Committee of the Board of Directors (Compensation Committee) of Vera Therapeutics granted inducement awards consisting of non-qualified stock optio",
+      "fuente": "Yahoo",
+      "fecha": "04 Sep 2026 20:05 UTC",
+      "url": "https://finnhub.io/api/news?id=25c222aee46ddf6db83304fe7f0d5f8f5bfce69ea37ae6d2b4126cf870bd7f11",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Is Viking Therapeutics (VKTX) Stock Fully Priced After A 411% Run?",
+      "resumen": "Viking Therapeutics stock has delivered a very strong 5 year run, yet current valuation checks suggest the shares are priced at the richer end of the spectrum rather than as a clear bargain. Around 411.0% total return over 5 years highlights how much optimism has already been reflected in Viking The",
+      "fuente": "Yahoo",
+      "fecha": "04 Sep 2026 20:10 UTC",
+      "url": "https://finnhub.io/api/news?id=086c00860b2651eab63fceadfc7f1a945a17d1e5f0227916db1d1549c9cc6d31",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "CAI",
+      "titulo": "Could Caris Life Sciences (CAI) Be 7% Undervalued After Its Lung Cancer Research Update?",
+      "resumen": "Caris Life Sciences (CAI) is drawing fresh attention after announcing that its researchers will present seven lung cancer studies at the 2026 World Conference on Lung Cancer in Seoul this month. For investors, the World Conference presentations and August’s pancreatic cancer AI publication land agai",
+      "fuente": "Yahoo",
+      "fecha": "06 Sep 2026 10:11 UTC",
+      "url": "https://finnhub.io/api/news?id=02719ac99ff8e8f73ed8ab3b7fcf2f59802dd1b352d70a9d665047582b5f6eed",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",

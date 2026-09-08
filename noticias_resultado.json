@@ -1,27 +1,14 @@
 {
-  "generado": "07/09/2026 13:28 UTC",
+  "generado": "08/09/2026 12:06 UTC",
   "plazo_horas": 72,
-  "desde": "2026-09-04",
-  "hasta": "2026-09-07",
+  "desde": "2026-09-05",
+  "hasta": "2026-09-08",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
-      "noticias": [
-        {
-          "ticker": "SNDX",
-          "titulo": "Syndax Pharmaceuticals Reports Inducement Grants Under NASDAQ Listing Rule 5635(c)(4)",
-          "resumen": "NEW YORK, Sept. 04, 2026 (GLOBE NEWSWIRE) -- Syndax Pharmaceuticals (Nasdaq: SNDX), a commercial-stage biopharmaceutical company advancing innovative cancer therapies, today announced that on September 1, 2026, the Company granted inducement awards to purchase up to 175,000 shares of common stock to",
-          "fuente": "Yahoo",
-          "fecha": "04 Sep 2026 20:01 UTC",
-          "url": "https://finnhub.io/api/news?id=e6f59ca17ede6ef1cf3ef50b71c4663b66e2a287c39691ddbf1bafd3d081ed8d",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "ARGX": {
       "nombre": "ARGX",
@@ -37,22 +24,10 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "Here's How Much $100 Invested In argenx 5 Years Ago Would Be Worth Today",
-          "resumen": "argenx (NASDAQ:ARGX) has outperformed the market over the past 5 years by 13.58% on an annualized basis producing an average annual return of 24.86%. Currently, argenx has a market capitalization of $64.63 billion.",
-          "fuente": "Benzinga",
-          "fecha": "04 Sep 2026 16:15 UTC",
-          "url": "https://finnhub.io/api/news?id=ba47a77cbbede17414f5a00d87c1a4ca388b4a035b19f5728c5b0e63392b4b33",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_2.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 1
     },
     "DYN": {
       "nombre": "DYN",
@@ -80,65 +55,29 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "Is Viking Therapeutics (VKTX) Stock Fully Priced After A 411% Run?",
-          "resumen": "Viking Therapeutics stock has delivered a very strong 5 year run, yet current valuation checks suggest the shares are priced at the richer end of the spectrum rather than as a clear bargain. Around 411.0% total return over 5 years highlights how much optimism has already been reflected in Viking The",
-          "fuente": "Yahoo",
-          "fecha": "04 Sep 2026 20:10 UTC",
-          "url": "https://finnhub.io/api/news?id=086c00860b2651eab63fceadfc7f1a945a17d1e5f0227916db1d1549c9cc6d31",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "Why Is Mirum Pharmaceuticals (MIRM) Up 6.9% Since Last Earnings Report?",
-          "resumen": "Mirum Pharmaceuticals (MIRM) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
-          "fuente": "Yahoo",
-          "fecha": "04 Sep 2026 15:30 UTC",
-          "url": "https://finnhub.io/api/news?id=4800b57376af27d30dce5ec4c485d537e66df438461534f1bb9efdcf5574c154",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 1
     },
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
         {
           "ticker": "VRTX",
-          "titulo": "CRISPR Therapeutics: CASGEVY Validates The Platform, Strengthening The Acquisition Case",
-          "resumen": "CRISPR Therapeutics' current $5.6B market cap and $1.78B net cash position offer acquisition appeal. Click to know why CRSP is rated a Buy.",
-          "fuente": "SeekingAlpha",
-          "fecha": "05 Sep 2026 06:10 UTC",
-          "url": "https://finnhub.io/api/news?id=81a0a262d8098c7ecccc6216fe28adcb2dd0d073ce0ee2611eab1c23e9613a97",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2289017666/image_2289017666.jpg?io=getty-c-w1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex vs. Regeneron: Which Biotech Giant Is the Better Buy Right Now?",
-          "resumen": "They could both outperform the market over the medium term, but one appears to have a clear edge.",
+          "titulo": "IBB Just Beat the S&P 500 by 22 Points in Three Months. Are You Late to the Party?",
+          "resumen": "Biotech just staged one of its sharpest reversals in years, and whether you caught it or completely missed it, the same uncomfortable question now sits in front of every portfolio: does the trade still have teeth, or did the easy money already leave?",
           "fuente": "Yahoo",
-          "fecha": "04 Sep 2026 18:50 UTC",
-          "url": "https://finnhub.io/api/news?id=2109b2d0a9fc059644620ec0e33e0c12123ced56d7da3cfb25d8902e87fffdc0",
+          "fecha": "07 Sep 2026 16:22 UTC",
+          "url": "https://finnhub.io/api/news?id=54bd7ced710bb8cc5af628a759507a12394f53b813d5d08ed02199f47fabf0b9",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         }
       ],
-      "nivel": "rojo",
-      "total": 2
+      "nivel": "azul",
+      "total": 1
     },
     "ALNY": {
       "nombre": "ALNY",
@@ -197,20 +136,14 @@
     },
     "ABVX": {
       "nombre": "ABVX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
-    },
-    "VERA": {
-      "nombre": "VERA",
       "noticias": [
         {
-          "ticker": "VERA",
-          "titulo": "Vera Therapeutics Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
-          "resumen": "BRISBANE, Calif., Sept. 04, 2026 (GLOBE NEWSWIRE) -- Vera Therapeutics, Inc. (Nasdaq: VERA) today announced that, on September 1, 2026, the Compensation Committee of the Board of Directors (Compensation Committee) of Vera Therapeutics granted inducement awards consisting of non-qualified stock optio",
+          "ticker": "ABVX",
+          "titulo": "Ulcerative Colitis Market Outlook: 5 Late-Stage Drug Candidates to Watch | DelveInsight",
+          "resumen": "Emerging therapies for ulcerative colitis treatment, such as Obefazimod (Abivax), Tulisokibart (Merck), Olamkicept (Ferring Pharmaceuticals), Afimkibart (Roche), Icotrokinra (Johnson & Johnson/Protagonist Therapeutics), Duvakitug (Teva Pharmaceuticals/Sanofi), Zotemtegrast (Eli Lilly), Zasocitinib (",
           "fuente": "Yahoo",
-          "fecha": "04 Sep 2026 20:05 UTC",
-          "url": "https://finnhub.io/api/news?id=25c222aee46ddf6db83304fe7f0d5f8f5bfce69ea37ae6d2b4126cf870bd7f11",
+          "fecha": "07 Sep 2026 17:00 UTC",
+          "url": "https://finnhub.io/api/news?id=29beab0809a7c2bc4164cb099588839029845495068a3c91385c65a59211c3d0",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
@@ -219,6 +152,12 @@
       ],
       "nivel": "azul",
       "total": 1
+    },
+    "VERA": {
+      "nombre": "VERA",
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "ACRV": {
       "nombre": "ACRV",
@@ -246,48 +185,12 @@
     }
   },
   "resumen": {
-    "total_noticias": 11,
-    "tickers_con_noticias": 6,
-    "alertas_urgentes": 5,
-    "sin_noticias": 11
+    "total_noticias": 6,
+    "tickers_con_noticias": 5,
+    "alertas_urgentes": 3,
+    "sin_noticias": 12
   },
   "todas_noticias": [
-    {
-      "ticker": "VKTX",
-      "titulo": "Why Is Mirum Pharmaceuticals (MIRM) Up 6.9% Since Last Earnings Report?",
-      "resumen": "Mirum Pharmaceuticals (MIRM) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
-      "fuente": "Yahoo",
-      "fecha": "04 Sep 2026 15:30 UTC",
-      "url": "https://finnhub.io/api/news?id=4800b57376af27d30dce5ec4c485d537e66df438461534f1bb9efdcf5574c154",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "SNDX",
-      "titulo": "Syndax Pharmaceuticals Reports Inducement Grants Under NASDAQ Listing Rule 5635(c)(4)",
-      "resumen": "NEW YORK, Sept. 04, 2026 (GLOBE NEWSWIRE) -- Syndax Pharmaceuticals (Nasdaq: SNDX), a commercial-stage biopharmaceutical company advancing innovative cancer therapies, today announced that on September 1, 2026, the Company granted inducement awards to purchase up to 175,000 shares of common stock to",
-      "fuente": "Yahoo",
-      "fecha": "04 Sep 2026 20:01 UTC",
-      "url": "https://finnhub.io/api/news?id=e6f59ca17ede6ef1cf3ef50b71c4663b66e2a287c39691ddbf1bafd3d081ed8d",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "CRISPR Therapeutics: CASGEVY Validates The Platform, Strengthening The Acquisition Case",
-      "resumen": "CRISPR Therapeutics' current $5.6B market cap and $1.78B net cash position offer acquisition appeal. Click to know why CRSP is rated a Buy.",
-      "fuente": "SeekingAlpha",
-      "fecha": "05 Sep 2026 06:10 UTC",
-      "url": "https://finnhub.io/api/news?id=81a0a262d8098c7ecccc6216fe28adcb2dd0d073ce0ee2611eab1c23e9613a97",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2289017666/image_2289017666.jpg?io=getty-c-w1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "CAI",
       "titulo": "Caris Life Sciences (CAI) Will Present Seven Studies At A Global Lung Conference",
@@ -325,60 +228,36 @@
       "badge": "🔴"
     },
     {
-      "ticker": "ARGX",
-      "titulo": "Here's How Much $100 Invested In argenx 5 Years Ago Would Be Worth Today",
-      "resumen": "argenx (NASDAQ:ARGX) has outperformed the market over the past 5 years by 13.58% on an annualized basis producing an average annual return of 24.86%. Currently, argenx has a market capitalization of $64.63 billion.",
-      "fuente": "Benzinga",
-      "fecha": "04 Sep 2026 16:15 UTC",
-      "url": "https://finnhub.io/api/news?id=ba47a77cbbede17414f5a00d87c1a4ca388b4a035b19f5728c5b0e63392b4b33",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_2.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex vs. Regeneron: Which Biotech Giant Is the Better Buy Right Now?",
-      "resumen": "They could both outperform the market over the medium term, but one appears to have a clear edge.",
-      "fuente": "Yahoo",
-      "fecha": "04 Sep 2026 18:50 UTC",
-      "url": "https://finnhub.io/api/news?id=2109b2d0a9fc059644620ec0e33e0c12123ced56d7da3cfb25d8902e87fffdc0",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VERA",
-      "titulo": "Vera Therapeutics Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
-      "resumen": "BRISBANE, Calif., Sept. 04, 2026 (GLOBE NEWSWIRE) -- Vera Therapeutics, Inc. (Nasdaq: VERA) today announced that, on September 1, 2026, the Compensation Committee of the Board of Directors (Compensation Committee) of Vera Therapeutics granted inducement awards consisting of non-qualified stock optio",
-      "fuente": "Yahoo",
-      "fecha": "04 Sep 2026 20:05 UTC",
-      "url": "https://finnhub.io/api/news?id=25c222aee46ddf6db83304fe7f0d5f8f5bfce69ea37ae6d2b4126cf870bd7f11",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "Is Viking Therapeutics (VKTX) Stock Fully Priced After A 411% Run?",
-      "resumen": "Viking Therapeutics stock has delivered a very strong 5 year run, yet current valuation checks suggest the shares are priced at the richer end of the spectrum rather than as a clear bargain. Around 411.0% total return over 5 years highlights how much optimism has already been reflected in Viking The",
-      "fuente": "Yahoo",
-      "fecha": "04 Sep 2026 20:10 UTC",
-      "url": "https://finnhub.io/api/news?id=086c00860b2651eab63fceadfc7f1a945a17d1e5f0227916db1d1549c9cc6d31",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
       "ticker": "CAI",
       "titulo": "Could Caris Life Sciences (CAI) Be 7% Undervalued After Its Lung Cancer Research Update?",
       "resumen": "Caris Life Sciences (CAI) is drawing fresh attention after announcing that its researchers will present seven lung cancer studies at the 2026 World Conference on Lung Cancer in Seoul this month. For investors, the World Conference presentations and August’s pancreatic cancer AI publication land agai",
       "fuente": "Yahoo",
       "fecha": "06 Sep 2026 10:11 UTC",
       "url": "https://finnhub.io/api/news?id=02719ac99ff8e8f73ed8ab3b7fcf2f59802dd1b352d70a9d665047582b5f6eed",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "IBB Just Beat the S&P 500 by 22 Points in Three Months. Are You Late to the Party?",
+      "resumen": "Biotech just staged one of its sharpest reversals in years, and whether you caught it or completely missed it, the same uncomfortable question now sits in front of every portfolio: does the trade still have teeth, or did the easy money already leave?",
+      "fuente": "Yahoo",
+      "fecha": "07 Sep 2026 16:22 UTC",
+      "url": "https://finnhub.io/api/news?id=54bd7ced710bb8cc5af628a759507a12394f53b813d5d08ed02199f47fabf0b9",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ABVX",
+      "titulo": "Ulcerative Colitis Market Outlook: 5 Late-Stage Drug Candidates to Watch | DelveInsight",
+      "resumen": "Emerging therapies for ulcerative colitis treatment, such as Obefazimod (Abivax), Tulisokibart (Merck), Olamkicept (Ferring Pharmaceuticals), Afimkibart (Roche), Icotrokinra (Johnson & Johnson/Protagonist Therapeutics), Duvakitug (Teva Pharmaceuticals/Sanofi), Zotemtegrast (Eli Lilly), Zasocitinib (",
+      "fuente": "Yahoo",
+      "fecha": "07 Sep 2026 17:00 UTC",
+      "url": "https://finnhub.io/api/news?id=29beab0809a7c2bc4164cb099588839029845495068a3c91385c65a59211c3d0",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",

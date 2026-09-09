@@ -1,8 +1,8 @@
 {
-  "generado": "08/09/2026 12:06 UTC",
+  "generado": "09/09/2026 12:18 UTC",
   "plazo_horas": 72,
-  "desde": "2026-09-05",
-  "hasta": "2026-09-08",
+  "desde": "2026-09-06",
+  "hasta": "2026-09-09",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -15,25 +15,98 @@
       "noticias": [
         {
           "ticker": "ARGX",
-          "titulo": "Dianthus: Hold, Based On Competitor C1s' CIDP Setback And Continued Claseprubart Advancement",
-          "resumen": "Despite positive interim results in the CAPTIVATE trial, Dianthus faces uncertainty in CIDP, as both drugs target the same C1s pathway. See why DNTH stock is a Hold.",
-          "fuente": "SeekingAlpha",
-          "fecha": "05 Sep 2026 23:01 UTC",
-          "url": "https://finnhub.io/api/news?id=9619dc7d4c6125ab7e67303e78c32361186f3675a6eb4c5443f52a67e7bd6c48",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2293141419/image_2293141419.jpg?io=getty-c-w1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
+          "titulo": "European Equities Traded in the US as American Depositary Receipts Fall in Tuesday Trading",
+          "resumen": "European equities traded in the US as American depositary receipts were tracking lower late Tuesday",
+          "fuente": "Yahoo",
+          "fecha": "08 Sep 2026 15:28 UTC",
+          "url": "https://finnhub.io/api/news?id=fa5cee34494e7ba53526ed98bc2b50051a9b44ee92d48113aaf8c21922bae51f",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ARGX",
+          "titulo": "Wedbush Reiterates Outperform on argenx, Maintains $1150 Price Target",
+          "resumen": "Wedbush  analyst David Nierengarten   reiterates argenx (NASDAQ:ARGX) with a Outperform and maintains $1150 price target.",
+          "fuente": "Benzinga",
+          "fecha": "08 Sep 2026 09:23 UTC",
+          "url": "https://finnhub.io/api/news?id=6a54bd10a3a6deaef23a85a9b36ded0528d7887dcc254e88dfec900e12bd4756",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
         }
       ],
-      "nivel": "rojo",
-      "total": 1
+      "nivel": "azul",
+      "total": 2
     },
     "DYN": {
       "nombre": "DYN",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "DYN",
+          "titulo": "Dyne Therapeutics Remains A Buy Even As Novartis Trial Failure Hits DM1 Class",
+          "resumen": "Dyne Therapeutics lead asset z-rostudirsen faces regulatory and confirmatory risks, with FDA approval likely. Find out why DYN stock is a buy.",
+          "fuente": "SeekingAlpha",
+          "fecha": "09 Sep 2026 07:45 UTC",
+          "url": "https://finnhub.io/api/news?id=5da44970b37900ed4d1e7f99141e2273b2bfd674e6f7724ccc2772245f43eda1",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2239541972/image_2239541972.jpg?io=getty-c-w1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "DYN",
+          "titulo": "Novartis Stock Tanks Following Third Major Pipeline Setback",
+          "resumen": "Following two trial misses and a third clinical setback, analysts fear Novartis may miss its 2030 growth targets without further acquisitions.",
+          "fuente": "Yahoo",
+          "fecha": "08 Sep 2026 20:26 UTC",
+          "url": "https://finnhub.io/api/news?id=5f4ba19f37c62684b5daeae751d4fae50cee1d98600029613e3a668e98ab0bc3",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "DYN",
+          "titulo": "Novartis shares fall as del-desiran flunks Phase 3 myotonic dystrophy trial",
+          "resumen": "Novartis AG (ADR) (NYSE:NVS) shares fell as much as 10% after the company's del-desiran failed to meet the primary endpoint in its pivotal Phase 3 HARBOR study evaluating the drug in myotonic dystrophy type 1. The study did not show a statistically significant improvement over placebo on...",
+          "fuente": "Yahoo",
+          "fecha": "08 Sep 2026 15:04 UTC",
+          "url": "https://finnhub.io/api/news?id=82bf234d4cc6713982c04230353f39f87cdc263d6ee03ef0ade219e91e6fd53d",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "DYN",
+          "titulo": "There are notable gap-ups and gap-downs in today's session.",
+          "resumen": "The market is filled with gapping stocks in Tuesday's session. Let's discover which stocks are showing gap-ups and gap-downs.",
+          "fuente": "ChartMill",
+          "fecha": "08 Sep 2026 14:30 UTC",
+          "url": "https://finnhub.io/api/news?id=4c65de7eb974568b5b01ad7c8a119398c1d098786e20561f5c37af5a81baba9f",
+          "imagen": "https://www.chartmill.com/images/uploads/CM_Gap_Stocks_Small_free_ad767b11cf.webp",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "DYN",
+          "titulo": "These stocks are moving in today's pre-market session",
+          "resumen": "The US market is yet to commence its session on Tuesday, but let's get a preview of the pre-market session and explore the top gainers and losers driving the early market movements.",
+          "fuente": "ChartMill",
+          "fecha": "08 Sep 2026 12:30 UTC",
+          "url": "https://finnhub.io/api/news?id=508f21275e037623751f01ced1d0171bf63edacf51420cc059208d0893fe94b8",
+          "imagen": "https://www.chartmill.com/images/uploads/CM_Premarket_Movers_Small_free_90289f6b81.webp",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 5
     },
     "DNLI": {
       "nombre": "DNLI",
@@ -46,30 +119,11 @@
       "noticias": [
         {
           "ticker": "VKTX",
-          "titulo": "Viking Therapeutics Trades Well Below Its Wall Street Targets. Here's the Skeptics' Case.",
-          "resumen": "Investors always need to appreciate risk before buying into any clinical-stage biopharmaceutical company.",
+          "titulo": "Novo Nordisk's Semaglutide Meets Goal in Pediatric Obesity Study",
+          "resumen": "NVO's semaglutide cuts BMI in children with obesity in phase III study, with 40.4% no longer classified as having obesity after 68 weeks.",
           "fuente": "Yahoo",
-          "fecha": "06 Sep 2026 00:20 UTC",
-          "url": "https://finnhub.io/api/news?id=f560de93e6d7b99e8f9a524466e7ec1fed0850a9af41b2a88e40c96fd6f4f993",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 1
-    },
-    "VRTX": {
-      "nombre": "VRTX",
-      "noticias": [
-        {
-          "ticker": "VRTX",
-          "titulo": "IBB Just Beat the S&P 500 by 22 Points in Three Months. Are You Late to the Party?",
-          "resumen": "Biotech just staged one of its sharpest reversals in years, and whether you caught it or completely missed it, the same uncomfortable question now sits in front of every portfolio: does the trade still have teeth, or did the easy money already leave?",
-          "fuente": "Yahoo",
-          "fecha": "07 Sep 2026 16:22 UTC",
-          "url": "https://finnhub.io/api/news?id=54bd7ced710bb8cc5af628a759507a12394f53b813d5d08ed02199f47fabf0b9",
+          "fecha": "08 Sep 2026 13:23 UTC",
+          "url": "https://finnhub.io/api/news?id=9ec2763621b10bdbd18024dfec19f1f8fd1385fb4d85e638a85d3a92475843d1",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
@@ -79,17 +133,158 @@
       "nivel": "azul",
       "total": 1
     },
+    "VRTX": {
+      "nombre": "VRTX",
+      "noticias": [
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex Pharmaceuticals: Solid Growth But Valuation Still Requires Flawless Execution",
+          "resumen": "Vertex Pharmaceuticals (VRTX) rated Hold: CF growth is solid but valuation, margin pressure and new-launch execution risks cap upside.",
+          "fuente": "SeekingAlpha",
+          "fecha": "09 Sep 2026 05:59 UTC",
+          "url": "https://finnhub.io/api/news?id=c0fd25989b866fd49bd22f04e54f51bc43ee5e05487d9d942e61ac0a016cc5bd",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2253107660/image_2253107660.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Goldman Sachs Just Added Vertex Pharmaceuticals to Its Conviction List. Here's the Bull Case for the Big Biotech Stock",
+          "resumen": "The company has tremendous prospects.",
+          "fuente": "Yahoo",
+          "fecha": "08 Sep 2026 22:20 UTC",
+          "url": "https://finnhub.io/api/news?id=e8ea867805065cdc3d008f6c42885b5bb3f26ba30cdd600fdc2416102b77fd41",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex Pharmaceuticals (VRTX) Suffers a Larger Drop Than the General Market: Key Insights",
+          "resumen": "In the most recent trading session, Vertex Pharmaceuticals (VRTX) closed at $528.9, indicating a -3.15% shift from the previous trading day.",
+          "fuente": "Yahoo",
+          "fecha": "08 Sep 2026 21:50 UTC",
+          "url": "https://finnhub.io/api/news?id=37c79d6938ffbf657fd58e024a3a1549c3f05cda4350c5984c3e1a1621e55abb",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Why CRISPR Therapeutics Stock Rocked the Market Last Month",
+          "resumen": "The company had fallen out of investor favor; its recovery was impressive.",
+          "fuente": "Yahoo",
+          "fecha": "08 Sep 2026 21:45 UTC",
+          "url": "https://finnhub.io/api/news?id=eb15958f52568235b27a22c2cecc31a21d7895fc6a2a010595ad690141029be4",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "3 Market-Beating Stocks for Long-Term Investors",
+          "resumen": "The best-performing stocks typically have robust sales growth, increasing margins, and rising returns on capital, and those that can maintain this trifecta year in and year out often become the legends of the investing world.",
+          "fuente": "Yahoo",
+          "fecha": "08 Sep 2026 17:03 UTC",
+          "url": "https://finnhub.io/api/news?id=b4df56d6015169489daf46666a01566f77be8ab57d8d5bfde1d18d2e1638dc87",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 5
+    },
     "ALNY": {
       "nombre": "ALNY",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam Pharmaceuticals, Inc. (ALNY) Presents at Wells Fargo 21st Annual Healthcare Conference Transcript",
+          "resumen": "Alnylam Pharmaceuticals, Inc. (ALNY) Wells Fargo 21st Annual Healthcare Conference September 8, 2026 8:45 AM EDTCompany ParticipantsJohn Kennedy - Senior...",
+          "fuente": "SeekingAlpha",
+          "fecha": "08 Sep 2026 11:55 UTC",
+          "url": "https://finnhub.io/api/news?id=ec2c833f5b212cf73c7a1b29c4266a84555fcbf368393ce94d0fbaf025087da9",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "BEAM": {
       "nombre": "BEAM",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "BEAM",
+          "titulo": "3 Promising Genomics Stocks in the Spotlight in 2026",
+          "resumen": "Genomics is reshaping healthcare, with WGS, NEO and NTLA advancing diagnostics and precision medicine.",
+          "fuente": "Yahoo",
+          "fecha": "08 Sep 2026 16:46 UTC",
+          "url": "https://finnhub.io/api/news?id=f3dd797ee8e6ba40621a7b7c12ef89201bfd69851381924e8daf3346ba78200c",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "BEAM",
+          "titulo": "Beam Therapeutics Targets Accelerated FDA Approval for Base-Editing Treatment",
+          "resumen": "Beam Therapeutics Inc. (NASDAQ:BEAM) on Tuesday presented updated Phase 1/2 trial data for BEAM-302, an experimental base-editing therapy for alpha-1 antitrypsin deficiency (AATD). AATD is a hereditary disorder caused by low levels of protective AAT protein, leading to lung damage (emphysema, COPD) ",
+          "fuente": "Yahoo",
+          "fecha": "08 Sep 2026 13:22 UTC",
+          "url": "https://finnhub.io/api/news?id=722d82d8410ce1ab28de89cbcc7b769c0184cd4ce0c94813a797b20f991cc41b",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "BEAM",
+          "titulo": "Beam Therapeutics Inc. (BEAM) Discusses Updated Phase 1/2 Data for BEAM-302 in Alpha-1 Antitrypsin Deficiency Transcript",
+          "resumen": "Beam Therapeutics Inc. (BEAM) Discusses Updated Phase 1/2 Data for BEAM-302 in Alpha-1 Antitrypsin Deficiency September 8, 2026 7:00 AM EDTCompany...",
+          "fuente": "SeekingAlpha",
+          "fecha": "08 Sep 2026 13:15 UTC",
+          "url": "https://finnhub.io/api/news?id=7b516d9e4fa41109cc8fe8de89aaf0ab6b70e5762c1f62f3b429769fa03f7d4f",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "BEAM",
+          "titulo": "Beam Therapeutics Presents Updated Clinical Data from the Phase 1/2 Trial of BEAM-302 in Alpha-1 Antitrypsin Deficiency (AATD) at the European Respiratory Society (ERS) Congress 2026",
+          "resumen": "BEAM-302 Continues to Demonstrate Potential as One-time Treatment for Both Lung and Liver Manifestations of AATD, with AAT Protein Production Under Normal Physiological Control With Up to 18 Months Follow-Up, Data Show Long-Term Durability of In Vivo Correction of Disease-causing Mutation with Singl",
+          "fuente": "Yahoo",
+          "fecha": "08 Sep 2026 10:00 UTC",
+          "url": "https://finnhub.io/api/news?id=e03b45fa88e4f19582926b524616a689c7e848426d2a7f34a1aa6ebb543c48ca",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "BEAM",
+          "titulo": "Beam Therapeutics Announces Updated Clinical Data From Its Phase 1/2 Trial Evaluating BEAM-302 For Alpha-1 Antitrypsin Deficiency; BEAM-302 Continues To Demonstrate Potential As One-Time Treatment For",
+          "resumen": "With Up to 18 Months Follow-Up, Data Show Long-Term Durability of In Vivo Correction of Disease-causing Mutation with Single Dose of BEAM-302Treatment with BEAM-302 Increased Total and Functional AAT and Decreased",
+          "fuente": "Benzinga",
+          "fecha": "08 Sep 2026 06:05 UTC",
+          "url": "https://finnhub.io/api/news?id=183343ba346bd9b02e32350d68fd7ce3910274bedb9af8ea5ece9ee97778d72e",
+          "imagen": "",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 5
     },
     "OCUL": {
       "nombre": "OCUL",
@@ -102,23 +297,11 @@
       "noticias": [
         {
           "ticker": "CAI",
-          "titulo": "Could Caris Life Sciences (CAI) Be 7% Undervalued After Its Lung Cancer Research Update?",
-          "resumen": "Caris Life Sciences (CAI) is drawing fresh attention after announcing that its researchers will present seven lung cancer studies at the 2026 World Conference on Lung Cancer in Seoul this month. For investors, the World Conference presentations and August’s pancreatic cancer AI publication land agai",
+          "titulo": "Caris Life Sciences Launches New National Commercial Featuring Kevin Costner to Raise Awareness of Early Cancer Detection and Caris Detect",
+          "resumen": "Caris Life Sciences® (NASDAQ: CAI), a leading TechBio company, today announced the launch of its new national campaign titled, \"Math,\" featuring the iconic, award-winning actor, producer and director, Kevin Costner. The partnership is designed to raise awareness of the critical importance of early c",
           "fuente": "Yahoo",
-          "fecha": "06 Sep 2026 10:11 UTC",
-          "url": "https://finnhub.io/api/news?id=02719ac99ff8e8f73ed8ab3b7fcf2f59802dd1b352d70a9d665047582b5f6eed",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "CAI",
-          "titulo": "Caris Life Sciences (CAI) Will Present Seven Studies At A Global Lung Conference",
-          "resumen": "Caris Life Sciences (NasdaqGS: CAI) announced plans to present seven major precision oncology studies at the IASLC 2026 World Conference on Lung Cancer. The company highlighted new data on molecular profiling and AI powered analysis for lung cancer care. Caris also published a validated AI driven me",
-          "fuente": "Yahoo",
-          "fecha": "05 Sep 2026 18:11 UTC",
-          "url": "https://finnhub.io/api/news?id=f8f65b4278d315528621a768ba701ca834b02e483b8701b08653dbc474662ccc",
+          "fecha": "08 Sep 2026 10:30 UTC",
+          "url": "https://finnhub.io/api/news?id=577b2eb186dd3430d4c13be9cd4d26a78981c3c03ad8801ba77c4d873e0c15b7",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -126,17 +309,78 @@
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 1
     },
     "GPCR": {
       "nombre": "GPCR",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "GPCR",
+          "titulo": "Structure Therapeutics Inc. (GPCR) Discusses Positive Clinical Data Updates for Oral Small Molecule Amylin and GLP-1 Programs in Chronic Weight Management Transcript",
+          "resumen": "Structure Therapeutics Inc. (GPCR) Discusses Positive Clinical Data Updates for Oral Small Molecule Amylin and GLP-1 Programs in Chronic Weight Management...",
+          "fuente": "SeekingAlpha",
+          "fecha": "08 Sep 2026 18:45 UTC",
+          "url": "https://finnhub.io/api/news?id=26c3181a602848f1eb356d5910ed3eed9fb7559c6327731857d4ca5745c84eb3",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "GPCR",
+          "titulo": "Structure Therapeutics Reports Up to 16.2% Weight Loss in Aleniglipron Trial",
+          "resumen": "Structure Therapeutics (GPCR) said Tuesday that a single dose of its ACCG-2671 drug candidate reduce",
+          "fuente": "Yahoo",
+          "fecha": "08 Sep 2026 17:29 UTC",
+          "url": "https://finnhub.io/api/news?id=f00e297a043d219ff5c5bf4349427f71f8803da7810a82159f51ad98a32b5e71",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "GPCR",
+          "titulo": "Novo Nordisk's Semaglutide Meets Goal in Pediatric Obesity Study",
+          "resumen": "NVO's semaglutide cuts BMI in children with obesity in phase III study, with 40.4% no longer classified as having obesity after 68 weeks.",
+          "fuente": "Yahoo",
+          "fecha": "08 Sep 2026 13:23 UTC",
+          "url": "https://finnhub.io/api/news?id=9ec2763621b10bdbd18024dfec19f1f8fd1385fb4d85e638a85d3a92475843d1",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "GPCR",
+          "titulo": "Structure Therapeutics Reports Positive Clinical Data Across Oral Small Molecule Amylin and GLP-1 Programs for Chronic Weight Management",
+          "resumen": "ACCG-2671 (oral small molecule amylin receptor agonist) demonstrated a ~6-day half-life, no serious adverse events, and evidence of target engagement including up to 3.3% body weight loss in Phase 1/2a SAD clinical trial First participants dosed with ACCG-2671 in the 12-week MAD portion of the Phase",
+          "fuente": "Yahoo",
+          "fecha": "08 Sep 2026 12:00 UTC",
+          "url": "https://finnhub.io/api/news?id=8d91bf83a7627b0143ab98d7e2c7f98f201fdaf5cfc130b1ddaf196f717be06d",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 4
     },
     "ABVX": {
       "nombre": "ABVX",
       "noticias": [
+        {
+          "ticker": "ABVX",
+          "titulo": "Abivax SA Sponsored ADR (ABVX) Upgraded to Buy: Here's Why",
+          "resumen": "Abivax SA Sponsored ADR (ABVX) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #2 (Buy).",
+          "fuente": "Yahoo",
+          "fecha": "08 Sep 2026 16:00 UTC",
+          "url": "https://finnhub.io/api/news?id=fa7aa709a688dbef59f461d27643ce89057e29db48a87fef0cf668f704d30b00",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "ABVX",
           "titulo": "Ulcerative Colitis Market Outlook: 5 Late-Stage Drug Candidates to Watch | DelveInsight",
@@ -150,14 +394,27 @@
           "badge": "🔵"
         }
       ],
-      "nivel": "azul",
-      "total": 1
+      "nivel": "rojo",
+      "total": 2
     },
     "VERA": {
       "nombre": "VERA",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "VERA",
+          "titulo": "JP Morgan Maintains Overweight on Vera Therapeutics, Raises Price Target to $83",
+          "resumen": "JP Morgan  analyst Anupam Rama   maintains Vera Therapeutics (NASDAQ:VERA) with a Overweight and raises the price target from $76 to $83.",
+          "fuente": "Benzinga",
+          "fecha": "08 Sep 2026 11:47 UTC",
+          "url": "https://finnhub.io/api/news?id=5a2f372438c57c019306198071df29ed19d51b3d86a77488387abcc8ca55022d",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "ACRV": {
       "nombre": "ACRV",
@@ -167,9 +424,22 @@
     },
     "TARA": {
       "nombre": "TARA",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "TARA",
+          "titulo": "Protara Therapeutics to Present at the H.C. Wainwright 28th Annual Global Investment Conference",
+          "resumen": "NEW YORK, Sept. 08, 2026 (GLOBE NEWSWIRE) -- Protara Therapeutics, Inc. (Nasdaq: TARA), a clinical-stage company developing transformative therapies for the treatment of cancer and rare diseases, today announced that management will present at the H.C. Wainwright 28th Annual Global Investment Confer",
+          "fuente": "Yahoo",
+          "fecha": "08 Sep 2026 20:05 UTC",
+          "url": "https://finnhub.io/api/news?id=16a73b299dcdaae5d14eeeb5223d2309a53a9611ad5ef3ae7e7a7ecac847b271",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "SENS": {
       "nombre": "SENS",
@@ -179,74 +449,207 @@
     },
     "INSM": {
       "nombre": "INSM",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "INSM",
+          "titulo": "Insmed: A Strong Launch And A Much Bigger Peak Sales Opportunity",
+          "resumen": "Insmed is rated Strong Buy with a $175 target, offering ~39% upside from current levels.",
+          "fuente": "SeekingAlpha",
+          "fecha": "08 Sep 2026 09:29 UTC",
+          "url": "https://finnhub.io/api/news?id=20317562183df7c35ccb41c7eb1f680da3fefa2e5f183c4b7ce6c85843de44a7",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1420834518/image_1420834518.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "Here's How Much $100 Invested In Insmed 5 Years Ago Would Be Worth Today",
+          "resumen": "Insmed (NASDAQ:INSM) has outperformed the market over the past 5 years by 24.42% on an annualized basis producing an average annual return of 35.99%. Currently, Insmed has a market capitalization of $27.58 billion.",
+          "fuente": "Benzinga",
+          "fecha": "07 Sep 2026 16:45 UTC",
+          "url": "https://finnhub.io/api/news?id=676b76fc9884d8d11fde5588dc7dff8389b3976224028a022a8b6c0b8a572b64",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_1.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 2
     }
   },
   "resumen": {
-    "total_noticias": 6,
-    "tickers_con_noticias": 5,
-    "alertas_urgentes": 3,
-    "sin_noticias": 12
+    "total_noticias": 30,
+    "tickers_con_noticias": 12,
+    "alertas_urgentes": 6,
+    "sin_noticias": 5
   },
   "todas_noticias": [
     {
-      "ticker": "CAI",
-      "titulo": "Caris Life Sciences (CAI) Will Present Seven Studies At A Global Lung Conference",
-      "resumen": "Caris Life Sciences (NasdaqGS: CAI) announced plans to present seven major precision oncology studies at the IASLC 2026 World Conference on Lung Cancer. The company highlighted new data on molecular profiling and AI powered analysis for lung cancer care. Caris also published a validated AI driven me",
+      "ticker": "BEAM",
+      "titulo": "Beam Therapeutics Announces Updated Clinical Data From Its Phase 1/2 Trial Evaluating BEAM-302 For Alpha-1 Antitrypsin Deficiency; BEAM-302 Continues To Demonstrate Potential As One-Time Treatment For",
+      "resumen": "With Up to 18 Months Follow-Up, Data Show Long-Term Durability of In Vivo Correction of Disease-causing Mutation with Single Dose of BEAM-302Treatment with BEAM-302 Increased Total and Functional AAT and Decreased",
+      "fuente": "Benzinga",
+      "fecha": "08 Sep 2026 06:05 UTC",
+      "url": "https://finnhub.io/api/news?id=183343ba346bd9b02e32350d68fd7ce3910274bedb9af8ea5ece9ee97778d72e",
+      "imagen": "",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "Beam Therapeutics Presents Updated Clinical Data from the Phase 1/2 Trial of BEAM-302 in Alpha-1 Antitrypsin Deficiency (AATD) at the European Respiratory Society (ERS) Congress 2026",
+      "resumen": "BEAM-302 Continues to Demonstrate Potential as One-time Treatment for Both Lung and Liver Manifestations of AATD, with AAT Protein Production Under Normal Physiological Control With Up to 18 Months Follow-Up, Data Show Long-Term Durability of In Vivo Correction of Disease-causing Mutation with Singl",
       "fuente": "Yahoo",
-      "fecha": "05 Sep 2026 18:11 UTC",
-      "url": "https://finnhub.io/api/news?id=f8f65b4278d315528621a768ba701ca834b02e483b8701b08653dbc474662ccc",
+      "fecha": "08 Sep 2026 10:00 UTC",
+      "url": "https://finnhub.io/api/news?id=e03b45fa88e4f19582926b524616a689c7e848426d2a7f34a1aa6ebb543c48ca",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
     },
     {
-      "ticker": "ARGX",
-      "titulo": "Dianthus: Hold, Based On Competitor C1s' CIDP Setback And Continued Claseprubart Advancement",
-      "resumen": "Despite positive interim results in the CAPTIVATE trial, Dianthus faces uncertainty in CIDP, as both drugs target the same C1s pathway. See why DNTH stock is a Hold.",
+      "ticker": "CAI",
+      "titulo": "Caris Life Sciences Launches New National Commercial Featuring Kevin Costner to Raise Awareness of Early Cancer Detection and Caris Detect",
+      "resumen": "Caris Life Sciences® (NASDAQ: CAI), a leading TechBio company, today announced the launch of its new national campaign titled, \"Math,\" featuring the iconic, award-winning actor, producer and director, Kevin Costner. The partnership is designed to raise awareness of the critical importance of early c",
+      "fuente": "Yahoo",
+      "fecha": "08 Sep 2026 10:30 UTC",
+      "url": "https://finnhub.io/api/news?id=577b2eb186dd3430d4c13be9cd4d26a78981c3c03ad8801ba77c4d873e0c15b7",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "GPCR",
+      "titulo": "Structure Therapeutics Reports Positive Clinical Data Across Oral Small Molecule Amylin and GLP-1 Programs for Chronic Weight Management",
+      "resumen": "ACCG-2671 (oral small molecule amylin receptor agonist) demonstrated a ~6-day half-life, no serious adverse events, and evidence of target engagement including up to 3.3% body weight loss in Phase 1/2a SAD clinical trial First participants dosed with ACCG-2671 in the 12-week MAD portion of the Phase",
+      "fuente": "Yahoo",
+      "fecha": "08 Sep 2026 12:00 UTC",
+      "url": "https://finnhub.io/api/news?id=8d91bf83a7627b0143ab98d7e2c7f98f201fdaf5cfc130b1ddaf196f717be06d",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "Beam Therapeutics Inc. (BEAM) Discusses Updated Phase 1/2 Data for BEAM-302 in Alpha-1 Antitrypsin Deficiency Transcript",
+      "resumen": "Beam Therapeutics Inc. (BEAM) Discusses Updated Phase 1/2 Data for BEAM-302 in Alpha-1 Antitrypsin Deficiency September 8, 2026 7:00 AM EDTCompany...",
       "fuente": "SeekingAlpha",
-      "fecha": "05 Sep 2026 23:01 UTC",
-      "url": "https://finnhub.io/api/news?id=9619dc7d4c6125ab7e67303e78c32361186f3675a6eb4c5443f52a67e7bd6c48",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2293141419/image_2293141419.jpg?io=getty-c-w1536",
+      "fecha": "08 Sep 2026 13:15 UTC",
+      "url": "https://finnhub.io/api/news?id=7b516d9e4fa41109cc8fe8de89aaf0ab6b70e5762c1f62f3b429769fa03f7d4f",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
     },
     {
-      "ticker": "VKTX",
-      "titulo": "Viking Therapeutics Trades Well Below Its Wall Street Targets. Here's the Skeptics' Case.",
-      "resumen": "Investors always need to appreciate risk before buying into any clinical-stage biopharmaceutical company.",
+      "ticker": "BEAM",
+      "titulo": "Beam Therapeutics Targets Accelerated FDA Approval for Base-Editing Treatment",
+      "resumen": "Beam Therapeutics Inc. (NASDAQ:BEAM) on Tuesday presented updated Phase 1/2 trial data for BEAM-302, an experimental base-editing therapy for alpha-1 antitrypsin deficiency (AATD). AATD is a hereditary disorder caused by low levels of protective AAT protein, leading to lung damage (emphysema, COPD) ",
       "fuente": "Yahoo",
-      "fecha": "06 Sep 2026 00:20 UTC",
-      "url": "https://finnhub.io/api/news?id=f560de93e6d7b99e8f9a524466e7ec1fed0850a9af41b2a88e40c96fd6f4f993",
+      "fecha": "08 Sep 2026 13:22 UTC",
+      "url": "https://finnhub.io/api/news?id=722d82d8410ce1ab28de89cbcc7b769c0184cd4ce0c94813a797b20f991cc41b",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
     },
     {
-      "ticker": "CAI",
-      "titulo": "Could Caris Life Sciences (CAI) Be 7% Undervalued After Its Lung Cancer Research Update?",
-      "resumen": "Caris Life Sciences (CAI) is drawing fresh attention after announcing that its researchers will present seven lung cancer studies at the 2026 World Conference on Lung Cancer in Seoul this month. For investors, the World Conference presentations and August’s pancreatic cancer AI publication land agai",
+      "ticker": "DYN",
+      "titulo": "Novartis shares fall as del-desiran flunks Phase 3 myotonic dystrophy trial",
+      "resumen": "Novartis AG (ADR) (NYSE:NVS) shares fell as much as 10% after the company's del-desiran failed to meet the primary endpoint in its pivotal Phase 3 HARBOR study evaluating the drug in myotonic dystrophy type 1. The study did not show a statistically significant improvement over placebo on...",
       "fuente": "Yahoo",
-      "fecha": "06 Sep 2026 10:11 UTC",
-      "url": "https://finnhub.io/api/news?id=02719ac99ff8e8f73ed8ab3b7fcf2f59802dd1b352d70a9d665047582b5f6eed",
+      "fecha": "08 Sep 2026 15:04 UTC",
+      "url": "https://finnhub.io/api/news?id=82bf234d4cc6713982c04230353f39f87cdc263d6ee03ef0ade219e91e6fd53d",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "IBB Just Beat the S&P 500 by 22 Points in Three Months. Are You Late to the Party?",
-      "resumen": "Biotech just staged one of its sharpest reversals in years, and whether you caught it or completely missed it, the same uncomfortable question now sits in front of every portfolio: does the trade still have teeth, or did the easy money already leave?",
+      "ticker": "ABVX",
+      "titulo": "Abivax SA Sponsored ADR (ABVX) Upgraded to Buy: Here's Why",
+      "resumen": "Abivax SA Sponsored ADR (ABVX) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #2 (Buy).",
       "fuente": "Yahoo",
-      "fecha": "07 Sep 2026 16:22 UTC",
-      "url": "https://finnhub.io/api/news?id=54bd7ced710bb8cc5af628a759507a12394f53b813d5d08ed02199f47fabf0b9",
+      "fecha": "08 Sep 2026 16:00 UTC",
+      "url": "https://finnhub.io/api/news?id=fa7aa709a688dbef59f461d27643ce89057e29db48a87fef0cf668f704d30b00",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "GPCR",
+      "titulo": "Structure Therapeutics Reports Up to 16.2% Weight Loss in Aleniglipron Trial",
+      "resumen": "Structure Therapeutics (GPCR) said Tuesday that a single dose of its ACCG-2671 drug candidate reduce",
+      "fuente": "Yahoo",
+      "fecha": "08 Sep 2026 17:29 UTC",
+      "url": "https://finnhub.io/api/news?id=f00e297a043d219ff5c5bf4349427f71f8803da7810a82159f51ad98a32b5e71",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "GPCR",
+      "titulo": "Structure Therapeutics Inc. (GPCR) Discusses Positive Clinical Data Updates for Oral Small Molecule Amylin and GLP-1 Programs in Chronic Weight Management Transcript",
+      "resumen": "Structure Therapeutics Inc. (GPCR) Discusses Positive Clinical Data Updates for Oral Small Molecule Amylin and GLP-1 Programs in Chronic Weight Management...",
+      "fuente": "SeekingAlpha",
+      "fecha": "08 Sep 2026 18:45 UTC",
+      "url": "https://finnhub.io/api/news?id=26c3181a602848f1eb356d5910ed3eed9fb7559c6327731857d4ca5745c84eb3",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "TARA",
+      "titulo": "Protara Therapeutics to Present at the H.C. Wainwright 28th Annual Global Investment Conference",
+      "resumen": "NEW YORK, Sept. 08, 2026 (GLOBE NEWSWIRE) -- Protara Therapeutics, Inc. (Nasdaq: TARA), a clinical-stage company developing transformative therapies for the treatment of cancer and rare diseases, today announced that management will present at the H.C. Wainwright 28th Annual Global Investment Confer",
+      "fuente": "Yahoo",
+      "fecha": "08 Sep 2026 20:05 UTC",
+      "url": "https://finnhub.io/api/news?id=16a73b299dcdaae5d14eeeb5223d2309a53a9611ad5ef3ae7e7a7ecac847b271",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "DYN",
+      "titulo": "Novartis Stock Tanks Following Third Major Pipeline Setback",
+      "resumen": "Following two trial misses and a third clinical setback, analysts fear Novartis may miss its 2030 growth targets without further acquisitions.",
+      "fuente": "Yahoo",
+      "fecha": "08 Sep 2026 20:26 UTC",
+      "url": "https://finnhub.io/api/news?id=5f4ba19f37c62684b5daeae751d4fae50cee1d98600029613e3a668e98ab0bc3",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "DYN",
+      "titulo": "Dyne Therapeutics Remains A Buy Even As Novartis Trial Failure Hits DM1 Class",
+      "resumen": "Dyne Therapeutics lead asset z-rostudirsen faces regulatory and confirmatory risks, with FDA approval likely. Find out why DYN stock is a buy.",
+      "fuente": "SeekingAlpha",
+      "fecha": "09 Sep 2026 07:45 UTC",
+      "url": "https://finnhub.io/api/news?id=5da44970b37900ed4d1e7f99141e2273b2bfd674e6f7724ccc2772245f43eda1",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2239541972/image_2239541972.jpg?io=getty-c-w1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Here's How Much $100 Invested In Insmed 5 Years Ago Would Be Worth Today",
+      "resumen": "Insmed (NASDAQ:INSM) has outperformed the market over the past 5 years by 24.42% on an annualized basis producing an average annual return of 35.99%. Currently, Insmed has a market capitalization of $27.58 billion.",
+      "fuente": "Benzinga",
+      "fecha": "07 Sep 2026 16:45 UTC",
+      "url": "https://finnhub.io/api/news?id=676b76fc9884d8d11fde5588dc7dff8389b3976224028a022a8b6c0b8a572b64",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_1.jpg?width=2048&height=1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
@@ -259,6 +662,186 @@
       "fecha": "07 Sep 2026 17:00 UTC",
       "url": "https://finnhub.io/api/news?id=29beab0809a7c2bc4164cb099588839029845495068a3c91385c65a59211c3d0",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "Wedbush Reiterates Outperform on argenx, Maintains $1150 Price Target",
+      "resumen": "Wedbush  analyst David Nierengarten   reiterates argenx (NASDAQ:ARGX) with a Outperform and maintains $1150 price target.",
+      "fuente": "Benzinga",
+      "fecha": "08 Sep 2026 09:23 UTC",
+      "url": "https://finnhub.io/api/news?id=6a54bd10a3a6deaef23a85a9b36ded0528d7887dcc254e88dfec900e12bd4756",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Insmed: A Strong Launch And A Much Bigger Peak Sales Opportunity",
+      "resumen": "Insmed is rated Strong Buy with a $175 target, offering ~39% upside from current levels.",
+      "fuente": "SeekingAlpha",
+      "fecha": "08 Sep 2026 09:29 UTC",
+      "url": "https://finnhub.io/api/news?id=20317562183df7c35ccb41c7eb1f680da3fefa2e5f183c4b7ce6c85843de44a7",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1420834518/image_1420834518.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VERA",
+      "titulo": "JP Morgan Maintains Overweight on Vera Therapeutics, Raises Price Target to $83",
+      "resumen": "JP Morgan  analyst Anupam Rama   maintains Vera Therapeutics (NASDAQ:VERA) with a Overweight and raises the price target from $76 to $83.",
+      "fuente": "Benzinga",
+      "fecha": "08 Sep 2026 11:47 UTC",
+      "url": "https://finnhub.io/api/news?id=5a2f372438c57c019306198071df29ed19d51b3d86a77488387abcc8ca55022d",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam Pharmaceuticals, Inc. (ALNY) Presents at Wells Fargo 21st Annual Healthcare Conference Transcript",
+      "resumen": "Alnylam Pharmaceuticals, Inc. (ALNY) Wells Fargo 21st Annual Healthcare Conference September 8, 2026 8:45 AM EDTCompany ParticipantsJohn Kennedy - Senior...",
+      "fuente": "SeekingAlpha",
+      "fecha": "08 Sep 2026 11:55 UTC",
+      "url": "https://finnhub.io/api/news?id=ec2c833f5b212cf73c7a1b29c4266a84555fcbf368393ce94d0fbaf025087da9",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "DYN",
+      "titulo": "These stocks are moving in today's pre-market session",
+      "resumen": "The US market is yet to commence its session on Tuesday, but let's get a preview of the pre-market session and explore the top gainers and losers driving the early market movements.",
+      "fuente": "ChartMill",
+      "fecha": "08 Sep 2026 12:30 UTC",
+      "url": "https://finnhub.io/api/news?id=508f21275e037623751f01ced1d0171bf63edacf51420cc059208d0893fe94b8",
+      "imagen": "https://www.chartmill.com/images/uploads/CM_Premarket_Movers_Small_free_90289f6b81.webp",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Novo Nordisk's Semaglutide Meets Goal in Pediatric Obesity Study",
+      "resumen": "NVO's semaglutide cuts BMI in children with obesity in phase III study, with 40.4% no longer classified as having obesity after 68 weeks.",
+      "fuente": "Yahoo",
+      "fecha": "08 Sep 2026 13:23 UTC",
+      "url": "https://finnhub.io/api/news?id=9ec2763621b10bdbd18024dfec19f1f8fd1385fb4d85e638a85d3a92475843d1",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "GPCR",
+      "titulo": "Novo Nordisk's Semaglutide Meets Goal in Pediatric Obesity Study",
+      "resumen": "NVO's semaglutide cuts BMI in children with obesity in phase III study, with 40.4% no longer classified as having obesity after 68 weeks.",
+      "fuente": "Yahoo",
+      "fecha": "08 Sep 2026 13:23 UTC",
+      "url": "https://finnhub.io/api/news?id=9ec2763621b10bdbd18024dfec19f1f8fd1385fb4d85e638a85d3a92475843d1",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "DYN",
+      "titulo": "There are notable gap-ups and gap-downs in today's session.",
+      "resumen": "The market is filled with gapping stocks in Tuesday's session. Let's discover which stocks are showing gap-ups and gap-downs.",
+      "fuente": "ChartMill",
+      "fecha": "08 Sep 2026 14:30 UTC",
+      "url": "https://finnhub.io/api/news?id=4c65de7eb974568b5b01ad7c8a119398c1d098786e20561f5c37af5a81baba9f",
+      "imagen": "https://www.chartmill.com/images/uploads/CM_Gap_Stocks_Small_free_ad767b11cf.webp",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "European Equities Traded in the US as American Depositary Receipts Fall in Tuesday Trading",
+      "resumen": "European equities traded in the US as American depositary receipts were tracking lower late Tuesday",
+      "fuente": "Yahoo",
+      "fecha": "08 Sep 2026 15:28 UTC",
+      "url": "https://finnhub.io/api/news?id=fa5cee34494e7ba53526ed98bc2b50051a9b44ee92d48113aaf8c21922bae51f",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "3 Promising Genomics Stocks in the Spotlight in 2026",
+      "resumen": "Genomics is reshaping healthcare, with WGS, NEO and NTLA advancing diagnostics and precision medicine.",
+      "fuente": "Yahoo",
+      "fecha": "08 Sep 2026 16:46 UTC",
+      "url": "https://finnhub.io/api/news?id=f3dd797ee8e6ba40621a7b7c12ef89201bfd69851381924e8daf3346ba78200c",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "3 Market-Beating Stocks for Long-Term Investors",
+      "resumen": "The best-performing stocks typically have robust sales growth, increasing margins, and rising returns on capital, and those that can maintain this trifecta year in and year out often become the legends of the investing world.",
+      "fuente": "Yahoo",
+      "fecha": "08 Sep 2026 17:03 UTC",
+      "url": "https://finnhub.io/api/news?id=b4df56d6015169489daf46666a01566f77be8ab57d8d5bfde1d18d2e1638dc87",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Why CRISPR Therapeutics Stock Rocked the Market Last Month",
+      "resumen": "The company had fallen out of investor favor; its recovery was impressive.",
+      "fuente": "Yahoo",
+      "fecha": "08 Sep 2026 21:45 UTC",
+      "url": "https://finnhub.io/api/news?id=eb15958f52568235b27a22c2cecc31a21d7895fc6a2a010595ad690141029be4",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals (VRTX) Suffers a Larger Drop Than the General Market: Key Insights",
+      "resumen": "In the most recent trading session, Vertex Pharmaceuticals (VRTX) closed at $528.9, indicating a -3.15% shift from the previous trading day.",
+      "fuente": "Yahoo",
+      "fecha": "08 Sep 2026 21:50 UTC",
+      "url": "https://finnhub.io/api/news?id=37c79d6938ffbf657fd58e024a3a1549c3f05cda4350c5984c3e1a1621e55abb",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Goldman Sachs Just Added Vertex Pharmaceuticals to Its Conviction List. Here's the Bull Case for the Big Biotech Stock",
+      "resumen": "The company has tremendous prospects.",
+      "fuente": "Yahoo",
+      "fecha": "08 Sep 2026 22:20 UTC",
+      "url": "https://finnhub.io/api/news?id=e8ea867805065cdc3d008f6c42885b5bb3f26ba30cdd600fdc2416102b77fd41",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals: Solid Growth But Valuation Still Requires Flawless Execution",
+      "resumen": "Vertex Pharmaceuticals (VRTX) rated Hold: CF growth is solid but valuation, margin pressure and new-launch execution risks cap upside.",
+      "fuente": "SeekingAlpha",
+      "fecha": "09 Sep 2026 05:59 UTC",
+      "url": "https://finnhub.io/api/news?id=c0fd25989b866fd49bd22f04e54f51bc43ee5e05487d9d942e61ac0a016cc5bd",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2253107660/image_2253107660.jpg?io=getty-c-w1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

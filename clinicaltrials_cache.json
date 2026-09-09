@@ -425,11 +425,11 @@
     "peso_importancia": 7
   },
   "NCT05371613": {
-    "status": "RECRUITING",
+    "status": "ACTIVE_NOT_RECRUITING",
     "primary_completion_date": "2027-12",
     "study_completion_date": "2027-12",
-    "last_update_posted": "2025-08-05",
-    "enrollment": 63,
+    "last_update_posted": "2026-09-09",
+    "enrollment": 65,
     "titulo": "A Study to Determine the Efficacy and Safety of Tividenofusp Alfa (DNL310) vs Idursulfase in Pediatric and Young Adult Participants With Neuronopathic (nMPS II) or Non-Neuronopathic Mucopolysaccharidosis Type II (nnMPS II)",
     "ticker": "DNLI",
     "nombre_usuario": "COMPASS Ph2/3 — tividenofusp alfa (DNL310) — Hunter MPS II",
@@ -530,7 +530,7 @@
     "status": "RECRUITING",
     "primary_completion_date": "2028-06-02",
     "study_completion_date": "2030-05-07",
-    "last_update_posted": "2026-08-26",
+    "last_update_posted": "2026-09-09",
     "enrollment": 466,
     "titulo": "Phase 2/3 Adaptive Study of VX-147 in Adult and Pediatric Participants With APOL1-Mediated Proteinuric Kidney Disease",
     "ticker": "VRTX",

@@ -1,8 +1,8 @@
 ====================================================================================
 CLINICALTRIALS MONITOR v9.3 · Modelo Biotech
-Generado: 08/09/2026 12:59
+Generado: 09/09/2026 13:03
 ====================================================================================
-RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 0 | 🔵 29 | Errores API: 0
+RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 1 | 🔵 28 | Errores API: 0
 
 ------------------------------------------------------------------------------------
 DETALLE POR EMPRESA
@@ -217,7 +217,7 @@ DETALLE POR EMPRESA
      Enrollment: 466
      Primary completion: 2028-06-02 ESTIMATED
      Study completion: 2030-05-07 ESTIMATED
-     Last update posted: 2026-08-26
+     Last update posted: 2026-09-09
      → https://clinicaltrials.gov/study/NCT05312879
   🔵 ⭐⭐⭐ FORWARD-101 Ph1/2/3 — zimislecel (VX-880) — T1D | Prioridad: alta | Validación: OK
      NCT: NCT04786262 | Status: Reclutando | Tipo: cell_therapy
@@ -332,16 +332,16 @@ DETALLE POR EMPRESA
      Last update posted: 2026-08-10
      → https://clinicaltrials.gov/study/NCT06693843
 
-🔵 [DNLI] · Score relevancia: 9
-  🔵 ⭐⭐⭐ COMPASS Ph2/3 — tividenofusp alfa (DNL310) — Hunter MPS II | Prioridad: alta | Validación: OK
-     NCT: NCT05371613 | Status: Reclutando | Tipo: pivotal
+🟡 [DNLI] · Score relevancia: 9
+  🟡 ⭐⭐⭐ COMPASS Ph2/3 — tividenofusp alfa (DNL310) — Hunter MPS II | Prioridad: alta | Validación: OK
+     NCT: NCT05371613 | Status: Activo, sin reclutamiento | Tipo: pivotal
      Catalizador: Phase 2/3 / posible aprobación | Ventana: 2027
      Sponsor: Denali Therapeutics Inc.
      Phase: PHASE2, PHASE3
-     Enrollment: 63
+     Enrollment: 65
      Primary completion: 2027-12 ESTIMATED
      Study completion: 2027-12 ESTIMATED
-     Last update posted: 2025-08-05
+     Last update posted: 2026-09-09
      → https://clinicaltrials.gov/study/NCT05371613
 
 🔵 [ACRV] · Score relevancia: 8

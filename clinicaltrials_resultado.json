@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "09/09/2026 13:03",
-  "fecha": "2026-09-09",
+  "generado": "10/09/2026 13:00",
+  "fecha": "2026-09-10",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -11,8 +11,8 @@
     "validacion_error": 0,
     "alertas_rojas": 0,
     "alertas_verdes": 5,
-    "alertas_amarillas": 1,
-    "alertas_azules": 28,
+    "alertas_amarillas": 0,
+    "alertas_azules": 29,
     "errores": 0
   },
   "empresas": {
@@ -432,8 +432,8 @@
           "primary_completion_type": "ACTUAL",
           "study_completion_date": "2025-06-25",
           "study_completion_type": "ACTUAL",
-          "start_date": "2022-10-10",
-          "last_update_posted": "2025-10-24",
+          "start_date": "2022-11-16",
+          "last_update_posted": "2026-09-10",
           "conditions": [
             "Ulcerative Colitis"
           ],
@@ -470,7 +470,14 @@
           "ventana": "2026",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2025-10-24 → 2026-09-10"
+            }
+          ],
           "nivel": "verde",
           "badge": "🟢",
           "error": null
@@ -492,8 +499,8 @@
           "primary_completion_type": "ACTUAL",
           "study_completion_date": "2025-07-15",
           "study_completion_type": "ACTUAL",
-          "start_date": "2022-12-21",
-          "last_update_posted": "2025-10-24",
+          "start_date": "2023-01-25",
+          "last_update_posted": "2026-09-10",
           "conditions": [
             "Ulcerative Colitis"
           ],
@@ -530,7 +537,14 @@
           "ventana": "2026",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2025-10-24 → 2026-09-10"
+            }
+          ],
           "nivel": "verde",
           "badge": "🟢",
           "error": null
@@ -1709,33 +1723,14 @@
           "ventana": "2027",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [
-            {
-              "tipo": "status",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Estado: RECRUITING → ACTIVE_NOT_RECRUITING"
-            },
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2025-08-05 → 2026-09-09"
-            },
-            {
-              "tipo": "enrollment",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Enrollment: 63 → 65"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         }
       ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "score_relevancia": 9
     },
     "ALNY": {
@@ -2109,14 +2104,7 @@
           "ventana": "2026-2028",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2026-08-26 → 2026-09-09"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2393,7 +2381,14 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2025-10-24 → 2026-09-10"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT05507203"
     },
     {
@@ -2413,7 +2408,14 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2025-10-24 → 2026-09-10"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT05507216"
     },
     {
@@ -2680,8 +2682,8 @@
       "ticker": "DNLI",
       "nct": "NCT05371613",
       "nombre": "COMPASS Ph2/3 — tividenofusp alfa (DNL310) — Hunter MPS II",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "ACTIVE_NOT_RECRUITING",
       "primary_completion_date": "2027-12",
       "mensaje": "Activo, sin reclutamiento",
@@ -2693,26 +2695,7 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "status",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Estado: RECRUITING → ACTIVE_NOT_RECRUITING"
-        },
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2025-08-05 → 2026-09-09"
-        },
-        {
-          "tipo": "enrollment",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Enrollment: 63 → 65"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT05371613"
     },
     {
@@ -2772,14 +2755,7 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2026-08-26 → 2026-09-09"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT05312879"
     },
     {

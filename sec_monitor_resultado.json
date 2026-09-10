@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "09/09/2026 12:10",
+  "generado": "10/09/2026 12:04",
   "periodo_dias": 7,
-  "desde": "2026-09-02",
-  "hasta": "2026-09-09",
+  "desde": "2026-09-03",
+  "hasta": "2026-09-10",
   "resumen": {
-    "total_filings": 11,
+    "total_filings": 9,
     "alertas_rojas": 0,
     "alertas_verdes": 1,
     "alertas_amarillas": 6,
-    "alertas_azules": 4,
-    "sin_novedad": 10
+    "alertas_azules": 2,
+    "sin_novedad": 12
   },
   "tickers": {
     "SNDX": {
@@ -134,6 +134,32 @@
       "filings": [
         {
           "form": "4",
+          "fecha": "2026-09-09",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Chin Peter Scott (Chief Medical Officer) → Venta 1,654 acciones @ $22.29 | Post: 204,538 | Rutinaria/RSU/impuestos",
+          "detalle": "FORM 4",
+          "empresa_sec": "Denali Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1714899/000212475526000007/xslF345X06/wk-form4_1788986671.xml",
+          "form4_detail": {
+            "insider_nombre": "Chin Peter Scott",
+            "insider_cargo": "Chief Medical Officer",
+            "transaccion_codigo": "S",
+            "transaccion_tipo": "Venta",
+            "transaccion_acciones": "1654",
+            "transaccion_precio": "22.29",
+            "transaccion_fecha": "2026-09-04",
+            "acciones_post": "204538",
+            "footnotes": "Shares sold to satisfy the tax obligations by the Reporting Person in connection with the settlement of previously vested restricted stock units. The sale price reported in column 4 of Table I represents the weighted average sale price of the shares ranging from $22.28 to $22.29 per share. Upon request by the Commission staff, the Issuer, or a\nsecurity holder of the Issuer, the Reporting Person will provide full information regarding the number of shares sold at each separate price. Includes 142,845 Unvested RSU's Includes 1,790 shares acquired under the ESPP Purchase on June 1, 2026.",
+            "es_rutinaria": true,
+            "resumen_detail": "Chin Peter Scott (Chief Medical Officer) → Venta 1,654 acciones @ $22.29 | Post: 204,538 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
+          "form": "4",
           "fecha": "2026-09-04",
           "nivel": "amarillo",
           "badge": "🟡 MEDIA",
@@ -239,36 +265,9 @@
       "cik": "0001393434",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-09-02",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Notman Donald (Chief Operating Officer) → Venta 1,099 acciones @ $10.24 | Post: 366,529 | Rutinaria/RSU/impuestos",
-          "detalle": "OWNERSHIP DOCUMENT",
-          "empresa_sec": "OCULAR THERAPEUTIX, INC",
-          "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926104727/xslF345X06/tm2624617-1_4seq1.xml",
-          "form4_detail": {
-            "insider_nombre": "Notman Donald",
-            "insider_cargo": "Chief Operating Officer",
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "1099",
-            "transaccion_precio": "10.24",
-            "transaccion_fecha": "2026-08-31",
-            "acciones_post": "366529",
-            "footnotes": "Represents shares of common stock of Ocular Therapeutix, Inc. (the \"Corporation\") sold, pursuant to a durable automatic sale instruction adopted by the reporting person on May 13, 2022, effecting the sell-to-cover election of the reporting person to satisfy tax withholding obligations in connection with the vesting of restricted stock units on August 29, 2026. The sales do not represent a discretionary trade by the reporting person. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $10.1600 to $10.3800, inclusive. The reporting person undertakes to provide to the Corporation, any security holder of the Corporation, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in footnote (2) to this Form 4. Includes 1,272 shares of common stock acquired under the Corporation's Amended and Restated 2014 Employee Stock Purchase Plan on June 30, 2026.",
-            "es_rutinaria": true,
-            "resumen_detail": "Notman Donald (Chief Operating Officer) → Venta 1,099 acciones @ $10.24 | Post: 366,529 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "CAI": {
@@ -340,32 +339,6 @@
           },
           "10q_detail": null,
           "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-09-02",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 17,817 acciones @ $0.34 | Post: 246,777 | Rutinaria/RSU/impuestos",
-          "detalle": "xslF345X06/form4-09032026_010924.xml",
-          "empresa_sec": "Structure Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000196292626000009/xslF345X06/form4-09032026_010924.xml",
-          "form4_detail": {
-            "insider_nombre": "Lin Xichen",
-            "insider_cargo": "CHIEF SCIENTIFIC OFFICER",
-            "transaccion_codigo": "M",
-            "transaccion_tipo": "Ejercicio opción",
-            "transaccion_acciones": "17817",
-            "transaccion_precio": "0.34",
-            "transaccion_fecha": "2026-09-01",
-            "acciones_post": "246777",
-            "footnotes": "Reflects price per share in Ordinary Shares. The Ordinary Shares were converted into American Depositary Shares as reported in Table II. 1/4 of the Ordinary Shares vested one year after July 22, 2019 (the \"Vesting Commencement Date\"); the balance of the Ordinary Shares vested in a series of 36 successive equal monthly installments measured from the first anniversary of the Vesting Commencement Date. This reflects the number of Ordinary Shares remaining under the share option following the partial exercise of the share option for 17,817 Ordinary Shares. Each American Depositary Share is convertible at any time, at the holder's election, into three Ordinary Shares of the Issuer.  The American Depositary Shares have no expiration date. 17,817 Ordinary Shares, which were acquired upon exercise of a share option, were converted into 5,939 American Depositary Shares. The American Depositary Shares were sold pursuant to a Rule 10b5-1 trading plan entered into on March 26, 2026. Reflects price per share in American Depositary Shares. The weighted average sale price for the transaction reported was $45.8642 and the range of prices were between $45.63 and $46.38. Upon request by the SEC staff, the Issuer, or any security holder of the Issuer, full information regarding the number of American Depositary Shares sold at each price will be provided. The weighted average sale price for the transaction reported was $47.2030, and the range of prices were between $46.80 and $47.76. Upon reques",
-            "es_rutinaria": true,
-            "resumen_detail": "Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 17,817 acciones @ $0.34 | Post: 246,777 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
         }
       ],
       "nivel": "verde",
@@ -427,36 +400,9 @@
       "cik": "0001781174",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-09-02",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Levin Michaela (Chief Business Officer) → Concesión 30,000 acciones @ $0.00 | Post: 30,000 | Rutinaria/RSU/impuestos",
-          "detalle": "FORM 4",
-          "empresa_sec": "Acrivon Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1781174/000090514826004065/xslF345X06/form4.xml",
-          "form4_detail": {
-            "insider_nombre": "Levin Michaela",
-            "insider_cargo": "Chief Business Officer",
-            "transaccion_codigo": "A",
-            "transaccion_tipo": "Concesión",
-            "transaccion_acciones": "30000",
-            "transaccion_precio": "0",
-            "transaccion_fecha": "2026-08-31",
-            "acciones_post": "30000",
-            "footnotes": "These shares represent restricted stock units (\"RSUs\"). Each RSU represents a contingent right to receive one share of the Issuer's Common Stock. These RSUs shall vest in full on September 1, 2027, subject to the Reporting Person's continuous service through such vesting date. Twenty-five percent (25%) of the shares subject to the option vest on September 1, 2027, and the remaining shares subject to the option vest in 36 substantially equal monthly installments thereafter, in each case subject to the Reporting Person's continuous service through each vesting date.",
-            "es_rutinaria": true,
-            "resumen_detail": "Levin Michaela (Chief Business Officer) → Concesión 30,000 acciones @ $0.00 | Post: 30,000 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "TARA": {
@@ -530,6 +476,34 @@
     }
   ],
   "todos_filings": [
+    {
+      "ticker": "DNLI",
+      "nombre": "Denali Therapeutics Inc.",
+      "form": "4",
+      "fecha": "2026-09-09",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Chin Peter Scott (Chief Medical Officer) → Venta 1,654 acciones @ $22.29 | Post: 204,538 | Rutinaria/RSU/impuestos",
+      "detalle": "FORM 4",
+      "empresa_sec": "Denali Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1714899/000212475526000007/xslF345X06/wk-form4_1788986671.xml",
+      "form4_detail": {
+        "insider_nombre": "Chin Peter Scott",
+        "insider_cargo": "Chief Medical Officer",
+        "transaccion_codigo": "S",
+        "transaccion_tipo": "Venta",
+        "transaccion_acciones": "1654",
+        "transaccion_precio": "22.29",
+        "transaccion_fecha": "2026-09-04",
+        "acciones_post": "204538",
+        "footnotes": "Shares sold to satisfy the tax obligations by the Reporting Person in connection with the settlement of previously vested restricted stock units. The sale price reported in column 4 of Table I represents the weighted average sale price of the shares ranging from $22.28 to $22.29 per share. Upon request by the Commission staff, the Issuer, or a\nsecurity holder of the Issuer, the Reporting Person will provide full information regarding the number of shares sold at each separate price. Includes 142,845 Unvested RSU's Includes 1,790 shares acquired under the ESPP Purchase on June 1, 2026.",
+        "es_rutinaria": true,
+        "resumen_detail": "Chin Peter Scott (Chief Medical Officer) → Venta 1,654 acciones @ $22.29 | Post: 204,538 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "DYN",
       "nombre": "Dyne Therapeutics, Inc.",
@@ -748,90 +722,6 @@
         "footnotes": "The sales reported by the Reporting Person were affected pursuant to a Rule 10b5-1 trading plan adopted March 27, 2026. Includes 135,475 Unvested RSUs. The shares are held of record by The Schuth Family Trust U/A DTD 06/05/2017, for which the Reporting Person serves as trustee.",
         "es_rutinaria": true,
         "resumen_detail": "Schuth Alexander O. (COFO and Secretary) → Venta 2,768 acciones @ $23.44 | Post: 278,995 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "OCUL",
-      "nombre": "OCULAR THERAPEUTIX, INC",
-      "form": "4",
-      "fecha": "2026-09-02",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Notman Donald (Chief Operating Officer) → Venta 1,099 acciones @ $10.24 | Post: 366,529 | Rutinaria/RSU/impuestos",
-      "detalle": "OWNERSHIP DOCUMENT",
-      "empresa_sec": "OCULAR THERAPEUTIX, INC",
-      "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926104727/xslF345X06/tm2624617-1_4seq1.xml",
-      "form4_detail": {
-        "insider_nombre": "Notman Donald",
-        "insider_cargo": "Chief Operating Officer",
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "1099",
-        "transaccion_precio": "10.24",
-        "transaccion_fecha": "2026-08-31",
-        "acciones_post": "366529",
-        "footnotes": "Represents shares of common stock of Ocular Therapeutix, Inc. (the \"Corporation\") sold, pursuant to a durable automatic sale instruction adopted by the reporting person on May 13, 2022, effecting the sell-to-cover election of the reporting person to satisfy tax withholding obligations in connection with the vesting of restricted stock units on August 29, 2026. The sales do not represent a discretionary trade by the reporting person. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $10.1600 to $10.3800, inclusive. The reporting person undertakes to provide to the Corporation, any security holder of the Corporation, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in footnote (2) to this Form 4. Includes 1,272 shares of common stock acquired under the Corporation's Amended and Restated 2014 Employee Stock Purchase Plan on June 30, 2026.",
-        "es_rutinaria": true,
-        "resumen_detail": "Notman Donald (Chief Operating Officer) → Venta 1,099 acciones @ $10.24 | Post: 366,529 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "GPCR",
-      "nombre": "Structure Therapeutics Inc.",
-      "form": "4",
-      "fecha": "2026-09-02",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 17,817 acciones @ $0.34 | Post: 246,777 | Rutinaria/RSU/impuestos",
-      "detalle": "xslF345X06/form4-09032026_010924.xml",
-      "empresa_sec": "Structure Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000196292626000009/xslF345X06/form4-09032026_010924.xml",
-      "form4_detail": {
-        "insider_nombre": "Lin Xichen",
-        "insider_cargo": "CHIEF SCIENTIFIC OFFICER",
-        "transaccion_codigo": "M",
-        "transaccion_tipo": "Ejercicio opción",
-        "transaccion_acciones": "17817",
-        "transaccion_precio": "0.34",
-        "transaccion_fecha": "2026-09-01",
-        "acciones_post": "246777",
-        "footnotes": "Reflects price per share in Ordinary Shares. The Ordinary Shares were converted into American Depositary Shares as reported in Table II. 1/4 of the Ordinary Shares vested one year after July 22, 2019 (the \"Vesting Commencement Date\"); the balance of the Ordinary Shares vested in a series of 36 successive equal monthly installments measured from the first anniversary of the Vesting Commencement Date. This reflects the number of Ordinary Shares remaining under the share option following the partial exercise of the share option for 17,817 Ordinary Shares. Each American Depositary Share is convertible at any time, at the holder's election, into three Ordinary Shares of the Issuer.  The American Depositary Shares have no expiration date. 17,817 Ordinary Shares, which were acquired upon exercise of a share option, were converted into 5,939 American Depositary Shares. The American Depositary Shares were sold pursuant to a Rule 10b5-1 trading plan entered into on March 26, 2026. Reflects price per share in American Depositary Shares. The weighted average sale price for the transaction reported was $45.8642 and the range of prices were between $45.63 and $46.38. Upon request by the SEC staff, the Issuer, or any security holder of the Issuer, full information regarding the number of American Depositary Shares sold at each price will be provided. The weighted average sale price for the transaction reported was $47.2030, and the range of prices were between $46.80 and $47.76. Upon reques",
-        "es_rutinaria": true,
-        "resumen_detail": "Lin Xichen (CHIEF SCIENTIFIC OFFICER) → Ejercicio opción 17,817 acciones @ $0.34 | Post: 246,777 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "ACRV",
-      "nombre": "Acrivon Therapeutics, Inc.",
-      "form": "4",
-      "fecha": "2026-09-02",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Levin Michaela (Chief Business Officer) → Concesión 30,000 acciones @ $0.00 | Post: 30,000 | Rutinaria/RSU/impuestos",
-      "detalle": "FORM 4",
-      "empresa_sec": "Acrivon Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1781174/000090514826004065/xslF345X06/form4.xml",
-      "form4_detail": {
-        "insider_nombre": "Levin Michaela",
-        "insider_cargo": "Chief Business Officer",
-        "transaccion_codigo": "A",
-        "transaccion_tipo": "Concesión",
-        "transaccion_acciones": "30000",
-        "transaccion_precio": "0",
-        "transaccion_fecha": "2026-08-31",
-        "acciones_post": "30000",
-        "footnotes": "These shares represent restricted stock units (\"RSUs\"). Each RSU represents a contingent right to receive one share of the Issuer's Common Stock. These RSUs shall vest in full on September 1, 2027, subject to the Reporting Person's continuous service through such vesting date. Twenty-five percent (25%) of the shares subject to the option vest on September 1, 2027, and the remaining shares subject to the option vest in 36 substantially equal monthly installments thereafter, in each case subject to the Reporting Person's continuous service through each vesting date.",
-        "es_rutinaria": true,
-        "resumen_detail": "Levin Michaela (Chief Business Officer) → Concesión 30,000 acciones @ $0.00 | Post: 30,000 | Rutinaria/RSU/impuestos"
       },
       "8k_detail": null,
       "10q_detail": null,

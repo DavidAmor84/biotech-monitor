@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "10/09/2026 12:04",
+  "generado": "11/09/2026 12:02",
   "periodo_dias": 7,
-  "desde": "2026-09-03",
-  "hasta": "2026-09-10",
+  "desde": "2026-09-04",
+  "hasta": "2026-09-11",
   "resumen": {
     "total_filings": 9,
     "alertas_rojas": 0,
     "alertas_verdes": 1,
-    "alertas_amarillas": 6,
-    "alertas_azules": 2,
-    "sin_novedad": 12
+    "alertas_amarillas": 5,
+    "alertas_azules": 3,
+    "sin_novedad": 11
   },
   "tickers": {
     "SNDX": {
@@ -183,32 +183,6 @@
           "8k_detail": null,
           "10q_detail": null,
           "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-09-03",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Schuth Alexander O. (COFO and Secretary) → Venta 2,768 acciones @ $23.44 | Post: 278,995 | Rutinaria/RSU/impuestos",
-          "detalle": "FORM 4",
-          "empresa_sec": "Denali Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1714899/000172431126000014/xslF345X06/wk-form4_1788466654.xml",
-          "form4_detail": {
-            "insider_nombre": "Schuth Alexander O.",
-            "insider_cargo": "COFO and Secretary",
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "2768",
-            "transaccion_precio": "23.44",
-            "transaccion_fecha": "2026-09-01",
-            "acciones_post": "278995",
-            "footnotes": "The sales reported by the Reporting Person were affected pursuant to a Rule 10b5-1 trading plan adopted March 27, 2026. Includes 135,475 Unvested RSUs. The shares are held of record by The Schuth Family Trust U/A DTD 06/05/2017, for which the Reporting Person serves as trustee.",
-            "es_rutinaria": true,
-            "resumen_detail": "Schuth Alexander O. (COFO and Secretary) → Venta 2,768 acciones @ $23.44 | Post: 278,995 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
         }
       ],
       "nivel": "amarillo",
@@ -232,9 +206,36 @@
       "cik": "0000875320",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-09-10",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "van Grunsven Jasper (EVP,   CP and NPPO) → Concesión 8,682 acciones @ $0.00 | Post: 8,682 | Rutinaria/RSU/impuestos",
+          "detalle": "FORM 4",
+          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000272/xslF345X06/wk-form4_1789072310.xml",
+          "form4_detail": {
+            "insider_nombre": "van Grunsven Jasper",
+            "insider_cargo": "EVP,   CP and NPPO",
+            "transaccion_codigo": "A",
+            "transaccion_tipo": "Concesión",
+            "transaccion_acciones": "8682",
+            "transaccion_precio": "0",
+            "transaccion_fecha": "2026-09-08",
+            "acciones_post": "8682",
+            "footnotes": "Restricted stock unit award that vests in installments beginning on 09/08/2027.",
+            "es_rutinaria": true,
+            "resumen_detail": "van Grunsven Jasper (EVP,   CP and NPPO) → Concesión 8,682 acciones @ $0.00 | Post: 8,682 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "ALNY": {
@@ -477,6 +478,34 @@
   ],
   "todos_filings": [
     {
+      "ticker": "VRTX",
+      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
+      "form": "4",
+      "fecha": "2026-09-10",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "van Grunsven Jasper (EVP,   CP and NPPO) → Concesión 8,682 acciones @ $0.00 | Post: 8,682 | Rutinaria/RSU/impuestos",
+      "detalle": "FORM 4",
+      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000272/xslF345X06/wk-form4_1789072310.xml",
+      "form4_detail": {
+        "insider_nombre": "van Grunsven Jasper",
+        "insider_cargo": "EVP,   CP and NPPO",
+        "transaccion_codigo": "A",
+        "transaccion_tipo": "Concesión",
+        "transaccion_acciones": "8682",
+        "transaccion_precio": "0",
+        "transaccion_fecha": "2026-09-08",
+        "acciones_post": "8682",
+        "footnotes": "Restricted stock unit award that vests in installments beginning on 09/08/2027.",
+        "es_rutinaria": true,
+        "resumen_detail": "van Grunsven Jasper (EVP,   CP and NPPO) → Concesión 8,682 acciones @ $0.00 | Post: 8,682 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
       "ticker": "DNLI",
       "nombre": "Denali Therapeutics Inc.",
       "form": "4",
@@ -698,34 +727,6 @@
       "8k_detail": null,
       "10q_detail": null,
       "prospecto_detail": null
-    },
-    {
-      "ticker": "DNLI",
-      "nombre": "Denali Therapeutics Inc.",
-      "form": "4",
-      "fecha": "2026-09-03",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Schuth Alexander O. (COFO and Secretary) → Venta 2,768 acciones @ $23.44 | Post: 278,995 | Rutinaria/RSU/impuestos",
-      "detalle": "FORM 4",
-      "empresa_sec": "Denali Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1714899/000172431126000014/xslF345X06/wk-form4_1788466654.xml",
-      "form4_detail": {
-        "insider_nombre": "Schuth Alexander O.",
-        "insider_cargo": "COFO and Secretary",
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "2768",
-        "transaccion_precio": "23.44",
-        "transaccion_fecha": "2026-09-01",
-        "acciones_post": "278995",
-        "footnotes": "The sales reported by the Reporting Person were affected pursuant to a Rule 10b5-1 trading plan adopted March 27, 2026. Includes 135,475 Unvested RSUs. The shares are held of record by The Schuth Family Trust U/A DTD 06/05/2017, for which the Reporting Person serves as trustee.",
-        "es_rutinaria": true,
-        "resumen_detail": "Schuth Alexander O. (COFO and Secretary) → Venta 2,768 acciones @ $23.44 | Post: 278,995 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
     }
   ],
   "clinicaltrials": {
@@ -919,7 +920,7 @@
         "nivel": "verde",
         "badge": "🟢",
         "enrollment": 639,
-        "ultima_actualizacion": "2025-10-24",
+        "ultima_actualizacion": "2026-09-10",
         "fecha_completion_primaria": "2025-06-24",
         "changed": true,
         "url": "https://clinicaltrials.gov/study/NCT05507203"
@@ -933,7 +934,7 @@
         "nivel": "verde",
         "badge": "🟢",
         "enrollment": 636,
-        "ultima_actualizacion": "2025-10-24",
+        "ultima_actualizacion": "2026-09-10",
         "fecha_completion_primaria": "2025-06-24",
         "changed": true,
         "url": "https://clinicaltrials.gov/study/NCT05507216"

@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 10/09/2026 12:04 | Período: últimos 7 días
-Desde: 2026-09-03 → Hasta: 2026-09-10
+Generado: 11/09/2026 12:02 | Período: últimos 7 días
+Desde: 2026-09-04 → Hasta: 2026-09-11
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 9 filings | 🔴 0 | 🟢 1 | 🟡 6 | 🔵 2 | ✅ 12 sin novedad
+RESUMEN: 9 filings | 🔴 0 | 🟢 1 | 🟡 5 | 🔵 3 | ✅ 11 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (1)
@@ -32,18 +32,19 @@ DETALLE POR TICKER — SEC EDGAR
      Insider: Cox John (CEO & President) → Venta 5,658 acciones @ $18.88 | Post: 357,507 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1818794/000149842826000005/xslF345X06/ownership.xml
 
-  🟡 [DNLI] Denali Therapeutics Inc. — 3 filing(s)
+  🟡 [DNLI] Denali Therapeutics Inc. — 2 filing(s)
      🟡 MEDIA 4 | 2026-09-09 | Chin Peter Scott (Chief Medical Officer) → Venta 1,654 acciones @ $22.29 | Post: 204,538 | Rutinaria/RSU/impuestos
      Insider: Chin Peter Scott (Chief Medical Officer) → Venta 1,654 acciones @ $22.29 | Post: 204,538 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1714899/000212475526000007/xslF345X06/wk-form4_1788986671.xml
      🟡 MEDIA 4 | 2026-09-04 | Thornberry Nancy (Director) → Venta 10,824 acciones @ $22.85 | Post: 20,301 | Rutinaria/RSU/impuestos
      Insider: Thornberry Nancy (Director) → Venta 10,824 acciones @ $22.85 | Post: 20,301 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1714899/000179782626000006/xslF345X06/wk-form4_1788555742.xml
-     🟡 MEDIA 4 | 2026-09-03 | Schuth Alexander O. (COFO and Secretary) → Venta 2,768 acciones @ $23.44 | Post: 278,995 | Rutinaria/RSU/impuestos
-     Insider: Schuth Alexander O. (COFO and Secretary) → Venta 2,768 acciones @ $23.44 | Post: 278,995 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1714899/000172431126000014/xslF345X06/wk-form4_1788466654.xml
   ✅ [VKTX] Sin novedades
-  ✅ [VRTX] Sin novedades
+
+  🔵 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 1 filing(s)
+     🔵 INFO 4 | 2026-09-10 | van Grunsven Jasper (EVP,   CP and NPPO) → Concesión 8,682 acciones @ $0.00 | Post: 8,682 | Rutinaria/RSU/impuestos
+     Insider: van Grunsven Jasper (EVP,   CP and NPPO) → Concesión 8,682 acciones @ $0.00 | Post: 8,682 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000272/xslF345X06/wk-form4_1789072310.xml
   ✅ [ALNY] Sin novedades
   ✅ [BEAM] Sin novedades
   ✅ [OCUL] Sin novedades
@@ -161,13 +162,13 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Completado
        Enrollment: 639 pacientes
        Primary completion: 2025-06-24
-       Última actualización: 2025-10-24
+       Última actualización: 2026-09-10
        → https://clinicaltrials.gov/study/NCT05507203
     🟢 ABTECT-2 Ph3 inducción AT-failure (obefazimod UC) ⚡CAMBIO
        Status: Completado
        Enrollment: 636 pacientes
        Primary completion: 2025-06-24
-       Última actualización: 2025-10-24
+       Última actualización: 2026-09-10
        → https://clinicaltrials.gov/study/NCT05507216
 
   [VERA]

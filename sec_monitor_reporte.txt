@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 11/09/2026 12:02 | Período: últimos 7 días
-Desde: 2026-09-04 → Hasta: 2026-09-11
+Generado: 14/09/2026 13:41 | Período: últimos 7 días
+Desde: 2026-09-07 → Hasta: 2026-09-14
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 9 filings | 🔴 0 | 🟢 1 | 🟡 5 | 🔵 3 | ✅ 11 sin novedad
+RESUMEN: 7 filings | 🔴 0 | 🟢 1 | 🟡 5 | 🔵 1 | ✅ 12 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (1)
@@ -32,13 +32,10 @@ DETALLE POR TICKER — SEC EDGAR
      Insider: Cox John (CEO & President) → Venta 5,658 acciones @ $18.88 | Post: 357,507 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1818794/000149842826000005/xslF345X06/ownership.xml
 
-  🟡 [DNLI] Denali Therapeutics Inc. — 2 filing(s)
+  🟡 [DNLI] Denali Therapeutics Inc. — 1 filing(s)
      🟡 MEDIA 4 | 2026-09-09 | Chin Peter Scott (Chief Medical Officer) → Venta 1,654 acciones @ $22.29 | Post: 204,538 | Rutinaria/RSU/impuestos
      Insider: Chin Peter Scott (Chief Medical Officer) → Venta 1,654 acciones @ $22.29 | Post: 204,538 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1714899/000212475526000007/xslF345X06/wk-form4_1788986671.xml
-     🟡 MEDIA 4 | 2026-09-04 | Thornberry Nancy (Director) → Venta 10,824 acciones @ $22.85 | Post: 20,301 | Rutinaria/RSU/impuestos
-     Insider: Thornberry Nancy (Director) → Venta 10,824 acciones @ $22.85 | Post: 20,301 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1714899/000179782626000006/xslF345X06/wk-form4_1788555742.xml
   ✅ [VKTX] Sin novedades
 
   🔵 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 1 filing(s)
@@ -48,25 +45,21 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [ALNY] Sin novedades
   ✅ [BEAM] Sin novedades
   ✅ [OCUL] Sin novedades
-
-  🔵 [CAI] Caris Life Sciences, Inc. — 1 filing(s)
-     🔵 INFO 4 | 2026-09-04 | Spetzler David Baxley (President) → Ejercicio opción 1,000,000 acciones @ $2.44 | Post: 1,530,083 | Rutinaria/RSU/impuestos
-     Insider: Spetzler David Baxley (President) → Ejercicio opción 1,000,000 acciones @ $2.44 | Post: 1,530,083 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/2019410/000207195326000007/xslF345X06/wk-form4_1788555596.xml
+  ✅ [CAI] Sin novedades
 
   🟢 [GPCR] Structure Therapeutics Inc. — 1 filing(s)
      🟢 ALTA 8-K | 2026-09-08 | 8-K — Evento positivo potencial: Datos topline positivos [Items: 7.01, 8.01, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1888886/000110465926105688/tm2624945d1_8k.htm
   ✅ [ABVX] Sin novedades
-
-  🔵 [VERA] Vera Therapeutics, Inc. — 1 filing(s)
-     🔵 INFO 4 | 2026-09-04 | Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos
-     Insider: Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1831828/000185945326000014/xslF345X06/form4-09042026_040901.xml
+  ✅ [VERA] Sin novedades
   ✅ [ACRV] Sin novedades
   ✅ [TARA] Sin novedades
   ✅ [SENS] Sin novedades
-  ✅ [INSM] Sin novedades
+
+  🟡 [INSM] INSMED Inc — 1 filing(s)
+     🟡 MEDIA 4 | 2026-09-11 | Brennan David R (Director) → Venta 25,000 acciones @ $124.00 | Post: 39,238
+     Insider: Brennan David R (Director) → Venta 25,000 acciones @ $124.00 | Post: 39,238
+     → https://www.sec.gov/Archives/edgar/data/1104506/000160930526000009/xslF345X06/wk-form4_1789157083.xml
   ⚪ [NWL] Sin CIK SEC
 
 ──────────────────────────────────────────────────

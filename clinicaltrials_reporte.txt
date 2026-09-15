@@ -1,6 +1,6 @@
 ====================================================================================
 CLINICALTRIALS MONITOR v9.3 · Modelo Biotech
-Generado: 14/09/2026 15:09
+Generado: 15/09/2026 13:45
 ====================================================================================
 RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 0 | 🔵 29 | Errores API: 0
 
@@ -185,7 +185,7 @@ DETALLE POR EMPRESA
      Enrollment: 125
      Primary completion: 2027-12-27 ESTIMATED
      Study completion: 2031-06-12 ESTIMATED
-     Last update posted: 2026-08-14
+     Last update posted: 2026-09-15
      → https://clinicaltrials.gov/study/NCT07223203
   🔵 ⭐⭐ cAPPricorn-1 Ph2 — mivelsiran — CAA | Prioridad: media | Validación: OK
      NCT: NCT06393712 | Status: Activo, sin reclutamiento | Tipo: phase2

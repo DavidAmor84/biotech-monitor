@@ -1,14 +1,19 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 14/09/2026 13:41 | Período: últimos 7 días
-Desde: 2026-09-07 → Hasta: 2026-09-14
+Generado: 15/09/2026 12:28 | Período: últimos 7 días
+Desde: 2026-09-08 → Hasta: 2026-09-15
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 7 filings | 🔴 0 | 🟢 1 | 🟡 5 | 🔵 1 | ✅ 12 sin novedad
+RESUMEN: 10 filings | 🔴 0 | 🟢 2 | 🟡 5 | 🔵 3 | ✅ 10 sin novedad
 
 ──────────────────────────────────────────────────
-🚨 ALERTAS CRÍTICAS (1)
+🚨 ALERTAS CRÍTICAS (2)
 ──────────────────────────────────────────────────
+
+  [VERA] Vera Therapeutics, Inc.
+  🟢 ALTA 8-K | 2026-09-15
+  8-K — Evento positivo potencial: Resultado estadísticamente significativo [Items: 7.01, 8.01, 9.01]
+  → https://www.sec.gov/Archives/edgar/data/1831828/000119312526391280/d32300d8k.htm
 
   [GPCR] Structure Therapeutics Inc.
   🟢 ALTA 8-K | 2026-09-08
@@ -45,13 +50,22 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [ALNY] Sin novedades
   ✅ [BEAM] Sin novedades
   ✅ [OCUL] Sin novedades
-  ✅ [CAI] Sin novedades
+
+  🔵 [CAI] Caris Life Sciences, Inc. — 1 filing(s)
+     🔵 INFO 8-K | 2026-09-14 | 8-K — Sin clasificación específica por Item [Items: 7.01]
+     → https://www.sec.gov/Archives/edgar/data/2019410/000201941026000061/cai-20260914.htm
 
   🟢 [GPCR] Structure Therapeutics Inc. — 1 filing(s)
      🟢 ALTA 8-K | 2026-09-08 | 8-K — Evento positivo potencial: Datos topline positivos [Items: 7.01, 8.01, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1888886/000110465926105688/tm2624945d1_8k.htm
   ✅ [ABVX] Sin novedades
-  ✅ [VERA] Sin novedades
+
+  🟢 [VERA] Vera Therapeutics, Inc. — 2 filing(s)
+     🟢 ALTA 8-K | 2026-09-15 | 8-K — Evento positivo potencial: Resultado estadísticamente significativo [Items: 7.01, 8.01, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1831828/000119312526391280/d32300d8k.htm
+     🔵 INFO 4 | 2026-09-14 | Young Joseph R (SVP, FINANCE, CHIEF ACCT OFFCR) → Ejercicio opción 5,000 acciones @ $3.94 | Post: 80,754
+     Insider: Young Joseph R (SVP, FINANCE, CHIEF ACCT OFFCR) → Ejercicio opción 5,000 acciones @ $3.94 | Post: 80,754
+     → https://www.sec.gov/Archives/edgar/data/1831828/000186168426000006/xslF345X06/form4-09142026_080921.xml
   ✅ [ACRV] Sin novedades
   ✅ [TARA] Sin novedades
   ✅ [SENS] Sin novedades

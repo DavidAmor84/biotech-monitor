@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "14/09/2026 13:41",
+  "generado": "15/09/2026 12:28",
   "periodo_dias": 7,
-  "desde": "2026-09-07",
-  "hasta": "2026-09-14",
+  "desde": "2026-09-08",
+  "hasta": "2026-09-15",
   "resumen": {
-    "total_filings": 7,
+    "total_filings": 10,
     "alertas_rojas": 0,
-    "alertas_verdes": 1,
+    "alertas_verdes": 2,
     "alertas_amarillas": 5,
-    "alertas_azules": 1,
-    "sin_novedad": 12
+    "alertas_azules": 3,
+    "sin_novedad": 10
   },
   "tickers": {
     "SNDX": {
@@ -251,9 +251,33 @@
       "cik": "0002019410",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "8-K",
+          "fecha": "2026-09-14",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Sin clasificación específica por Item [Items: 7.01]",
+          "detalle": "8-K",
+          "empresa_sec": "Caris Life Sciences, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/2019410/000201941026000061/cai-20260914.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "7.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 7.01 Regulation FD Disclosure Beginning on September 14, 2026, representatives of Caris Life Sciences, Inc. (the Company ) intend to use an investor presentation (the Investor Presentation ) in meetings with current and potential investors at the Morgan Stanley 24th Annual Global Healthcare Conference and from time to time at other investor conferences and meetings. The Company will post the Investor Presentation on its investor relations website at https://investor.carislifesciences.com. The website and presentation contents referenced herein are not incorporated into this Current Report on Form 8-K. The information in this Item 7.01 is being furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth in such filing. SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Date: September 14, 2026 CARIS LIFE SCIENCES, INC. By: /s/ Luke Power Name: Luke Power Title: Senior Vice President, Chief Financial Officer and Chief Accounting Officer",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "GPCR": {
@@ -310,9 +334,61 @@
       "cik": "0001831828",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "8-K",
+          "fecha": "2026-09-15",
+          "nivel": "verde",
+          "badge": "🟢 ALTA",
+          "resumen": "8-K — Evento positivo potencial: Resultado estadísticamente significativo [Items: 7.01, 8.01, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "Vera Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1831828/000119312526391280/d32300d8k.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "7.01",
+              "8.01",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 7.01 Regulation FD Disclosure. On September 15, 2026, Vera Therapeutics, Inc. (the Company ) announced that TRUTAKNA (atacicept-vymj) met all prespecified endpoints of the final efficacy analysis of the ORIGIN 3 trial in adults with primary IgA nephropathy ( IgAN ) at risk for disease progression. A copy of the press release is furnished as Exhibit 99.1. In connection with the data release, the Company updated its corporate presentation (the Corporate Presentation ) to include the final efficacy analysis of the ORIGIN 3 trial referenced above. A copy of the Corporate Presentation is furnished as Exhibit 99.2. For important information about forward-looking statements, see the slide titled Forward-Looking Statements in Exhibit 99.2 attached hereto. The information in this Item 7.01 of this Current Report on Form 8-K, including Exhibits 99.1 and 99.2, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended. The information contained in this Item 7.01, including Exhibits 99.1 and 99.2, shall not be incorporated by reference into any filing with the U.S. Securities and Exchange Commission ( SEC ) made by the Company, whether made before or after the date hereof, regardless of any general incorporation language in such filing. Item 8.01 Other Events. As noted in Item 7.01, on September 15, 2026, the Company announced that TRUTAKNA met all prespecified endpoints of the final efficacy analysis of the ORI",
+            "nivel_ajustado": "verde",
+            "badge_ajustado": "🟢 ALTA",
+            "resumen_ajustado": "8-K — Evento positivo potencial: Resultado estadísticamente significativo"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
+          "form": "4",
+          "fecha": "2026-09-14",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Young Joseph R (SVP, FINANCE, CHIEF ACCT OFFCR) → Ejercicio opción 5,000 acciones @ $3.94 | Post: 80,754",
+          "detalle": "xslF345X06/form4-09142026_080921.xml",
+          "empresa_sec": "Vera Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1831828/000186168426000006/xslF345X06/form4-09142026_080921.xml",
+          "form4_detail": {
+            "insider_nombre": "Young Joseph R",
+            "insider_cargo": "SVP, FINANCE, CHIEF ACCT OFFCR",
+            "transaccion_codigo": "M",
+            "transaccion_tipo": "Ejercicio opción",
+            "transaccion_acciones": "5000",
+            "transaccion_precio": "3.9396",
+            "transaccion_fecha": "2026-09-11",
+            "acciones_post": "80754",
+            "footnotes": "1/4 of the shares subject to the option vested on March 9, 2022, and 1/48 of the shares vest monthly thereafter.",
+            "es_rutinaria": false,
+            "resumen_detail": "Young Joseph R (SVP, FINANCE, CHIEF ACCT OFFCR) → Ejercicio opción 5,000 acciones @ $3.94 | Post: 80,754"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "verde",
+      "badge": "🟢",
       "error": null
     },
     "ACRV": {
@@ -396,6 +472,33 @@
   },
   "alertas_criticas": [
     {
+      "ticker": "VERA",
+      "nombre": "Vera Therapeutics, Inc.",
+      "form": "8-K",
+      "fecha": "2026-09-15",
+      "nivel": "verde",
+      "badge": "🟢 ALTA",
+      "resumen": "8-K — Evento positivo potencial: Resultado estadísticamente significativo [Items: 7.01, 8.01, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Vera Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1831828/000119312526391280/d32300d8k.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "7.01",
+          "8.01",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 7.01 Regulation FD Disclosure. On September 15, 2026, Vera Therapeutics, Inc. (the Company ) announced that TRUTAKNA (atacicept-vymj) met all prespecified endpoints of the final efficacy analysis of the ORIGIN 3 trial in adults with primary IgA nephropathy ( IgAN ) at risk for disease progression. A copy of the press release is furnished as Exhibit 99.1. In connection with the data release, the Company updated its corporate presentation (the Corporate Presentation ) to include the final efficacy analysis of the ORIGIN 3 trial referenced above. A copy of the Corporate Presentation is furnished as Exhibit 99.2. For important information about forward-looking statements, see the slide titled Forward-Looking Statements in Exhibit 99.2 attached hereto. The information in this Item 7.01 of this Current Report on Form 8-K, including Exhibits 99.1 and 99.2, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended. The information contained in this Item 7.01, including Exhibits 99.1 and 99.2, shall not be incorporated by reference into any filing with the U.S. Securities and Exchange Commission ( SEC ) made by the Company, whether made before or after the date hereof, regardless of any general incorporation language in such filing. Item 8.01 Other Events. As noted in Item 7.01, on September 15, 2026, the Company announced that TRUTAKNA met all prespecified endpoints of the final efficacy analysis of the ORI",
+        "nivel_ajustado": "verde",
+        "badge_ajustado": "🟢 ALTA",
+        "resumen_ajustado": "8-K — Evento positivo potencial: Resultado estadísticamente significativo"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
       "ticker": "GPCR",
       "nombre": "Structure Therapeutics Inc.",
       "form": "8-K",
@@ -424,6 +527,86 @@
     }
   ],
   "todos_filings": [
+    {
+      "ticker": "VERA",
+      "nombre": "Vera Therapeutics, Inc.",
+      "form": "8-K",
+      "fecha": "2026-09-15",
+      "nivel": "verde",
+      "badge": "🟢 ALTA",
+      "resumen": "8-K — Evento positivo potencial: Resultado estadísticamente significativo [Items: 7.01, 8.01, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Vera Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1831828/000119312526391280/d32300d8k.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "7.01",
+          "8.01",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 7.01 Regulation FD Disclosure. On September 15, 2026, Vera Therapeutics, Inc. (the Company ) announced that TRUTAKNA (atacicept-vymj) met all prespecified endpoints of the final efficacy analysis of the ORIGIN 3 trial in adults with primary IgA nephropathy ( IgAN ) at risk for disease progression. A copy of the press release is furnished as Exhibit 99.1. In connection with the data release, the Company updated its corporate presentation (the Corporate Presentation ) to include the final efficacy analysis of the ORIGIN 3 trial referenced above. A copy of the Corporate Presentation is furnished as Exhibit 99.2. For important information about forward-looking statements, see the slide titled Forward-Looking Statements in Exhibit 99.2 attached hereto. The information in this Item 7.01 of this Current Report on Form 8-K, including Exhibits 99.1 and 99.2, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended. The information contained in this Item 7.01, including Exhibits 99.1 and 99.2, shall not be incorporated by reference into any filing with the U.S. Securities and Exchange Commission ( SEC ) made by the Company, whether made before or after the date hereof, regardless of any general incorporation language in such filing. Item 8.01 Other Events. As noted in Item 7.01, on September 15, 2026, the Company announced that TRUTAKNA met all prespecified endpoints of the final efficacy analysis of the ORI",
+        "nivel_ajustado": "verde",
+        "badge_ajustado": "🟢 ALTA",
+        "resumen_ajustado": "8-K — Evento positivo potencial: Resultado estadísticamente significativo"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "CAI",
+      "nombre": "Caris Life Sciences, Inc.",
+      "form": "8-K",
+      "fecha": "2026-09-14",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Sin clasificación específica por Item [Items: 7.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Caris Life Sciences, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/2019410/000201941026000061/cai-20260914.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "7.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 7.01 Regulation FD Disclosure Beginning on September 14, 2026, representatives of Caris Life Sciences, Inc. (the Company ) intend to use an investor presentation (the Investor Presentation ) in meetings with current and potential investors at the Morgan Stanley 24th Annual Global Healthcare Conference and from time to time at other investor conferences and meetings. The Company will post the Investor Presentation on its investor relations website at https://investor.carislifesciences.com. The website and presentation contents referenced herein are not incorporated into this Current Report on Form 8-K. The information in this Item 7.01 is being furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth in such filing. SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Date: September 14, 2026 CARIS LIFE SCIENCES, INC. By: /s/ Luke Power Name: Luke Power Title: Senior Vice President, Chief Financial Officer and Chief Accounting Officer",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "VERA",
+      "nombre": "Vera Therapeutics, Inc.",
+      "form": "4",
+      "fecha": "2026-09-14",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Young Joseph R (SVP, FINANCE, CHIEF ACCT OFFCR) → Ejercicio opción 5,000 acciones @ $3.94 | Post: 80,754",
+      "detalle": "xslF345X06/form4-09142026_080921.xml",
+      "empresa_sec": "Vera Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1831828/000186168426000006/xslF345X06/form4-09142026_080921.xml",
+      "form4_detail": {
+        "insider_nombre": "Young Joseph R",
+        "insider_cargo": "SVP, FINANCE, CHIEF ACCT OFFCR",
+        "transaccion_codigo": "M",
+        "transaccion_tipo": "Ejercicio opción",
+        "transaccion_acciones": "5000",
+        "transaccion_precio": "3.9396",
+        "transaccion_fecha": "2026-09-11",
+        "acciones_post": "80754",
+        "footnotes": "1/4 of the shares subject to the option vested on March 9, 2022, and 1/48 of the shares vest monthly thereafter.",
+        "es_rutinaria": false,
+        "resumen_detail": "Young Joseph R (SVP, FINANCE, CHIEF ACCT OFFCR) → Ejercicio opción 5,000 acciones @ $3.94 | Post: 80,754"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "INSM",
       "nombre": "INSMED Inc",

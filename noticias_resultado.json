@@ -1,8 +1,8 @@
 {
-  "generado": "14/09/2026 13:58 UTC",
+  "generado": "15/09/2026 12:38 UTC",
   "plazo_horas": 72,
-  "desde": "2026-09-11",
-  "hasta": "2026-09-14",
+  "desde": "2026-09-12",
+  "hasta": "2026-09-15",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -12,31 +12,155 @@
     },
     "ARGX": {
       "nombre": "ARGX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ARGX",
+          "titulo": "argenx SE (ARGX) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
+          "resumen": "argenx SE (ARGX) Morgan Stanley 24th Annual Global Healthcare Conference September 14, 2026 9:15 AM EDTCompany ParticipantsKarl Gubitz - Chief Financial...",
+          "fuente": "SeekingAlpha",
+          "fecha": "14 Sep 2026 14:11 UTC",
+          "url": "https://finnhub.io/api/news?id=56d99a32a6cfee85a0e4c2e9d4189fdb3d59b116bce4fdcbbb3874df5c604a04",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "DYN": {
       "nombre": "DYN",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "DYN",
+          "titulo": "Dyne Therapeutics, Inc. (DYN) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
+          "resumen": "Dyne Therapeutics, Inc. (DYN) Morgan Stanley 24th Annual Global Healthcare Conference September 14, 2026 9:15 AM EDTCompany ParticipantsJohn Cox - CEO,...",
+          "fuente": "SeekingAlpha",
+          "fecha": "14 Sep 2026 12:21 UTC",
+          "url": "https://finnhub.io/api/news?id=bc0e3ed52edd20259b2ef2c98f19a143ae3ec77ae2f53a6b1f000a9439c9f608",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "DNLI": {
       "nombre": "DNLI",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "DNLI",
+          "titulo": "Denali Therapeutics Inc. (DNLI) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
+          "resumen": "Denali Therapeutics Inc. (DNLI) Morgan Stanley 24th Annual Global Healthcare Conference September 14, 2026 4:05 PM EDTCompany ParticipantsRyan Watts -...",
+          "fuente": "SeekingAlpha",
+          "fecha": "14 Sep 2026 19:41 UTC",
+          "url": "https://finnhub.io/api/news?id=e91da1e367976e2f8129e914d5229040a2a2a623998a9be23059307478580369",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "VKTX": {
       "nombre": "VKTX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "VKTX",
+          "titulo": "Viking Therapeutics Advances VK2735 Obesity Drug Into Phase 3 After 15% Weight Loss",
+          "resumen": "Viking Therapeutics (NASDAQ:VKTX) said its obesity drug candidate VK2735 has advanced into Phase 3 development following Phase 2 results that showed approximately 15% weight loss from baseline after 13 weeks at the highest tested dose. Speaking at the Morgan Stanley Global Healthcare Conference, Pr",
+          "fuente": "Yahoo",
+          "fecha": "15 Sep 2026 03:01 UTC",
+          "url": "https://finnhub.io/api/news?id=41959543743fde20c09e167485d4807397079dc69e82452c804842dbfe2e9532",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "Viking Therapeutics, Inc. (VKTX) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
+          "resumen": "Viking Therapeutics, Inc. (VKTX) Morgan Stanley 24th Annual Global Healthcare Conference September 14, 2026 3:20 PM EDTCompany ParticipantsBrian Lian -...",
+          "fuente": "SeekingAlpha",
+          "fecha": "14 Sep 2026 17:31 UTC",
+          "url": "https://finnhub.io/api/news?id=ab6999eafe6a900129c53542d7cdcf38189fc78f1876f4ddc4745425c5b6ebe3",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "Will Morgan Stanley's NVO Downgrade Deepen Patent and Rival Woes?",
+          "resumen": "Novo faces a tougher growth outlook as Morgan Stanley downgrades the stock to Underweight, citing muted growth, patent risks and rising pressure from Lilly.",
+          "fuente": "Yahoo",
+          "fecha": "14 Sep 2026 14:37 UTC",
+          "url": "https://finnhub.io/api/news?id=5a14c35259c52ba7c2a147a44702b7b24a14222df871fcf09754d4c6af14fe59",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "Baron Global Opportunity Fund Q2 2026 Portfolio Activity",
+          "resumen": "Baron Global Opportunity Fund (the Fund) gained 26.7% (Institutional Shares) during the second quarter, compared to the 14.9% gain for the MSCI ACWI Index (the Index). Read more here.",
+          "fuente": "SeekingAlpha",
+          "fecha": "14 Sep 2026 12:19 UTC",
+          "url": "https://finnhub.io/api/news?id=c8785df4f7899efef2abb19514bd0dd756d78a264c63cb00667c004349c7477e",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2266615986/image_2266615986.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 4
     },
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
+        {
+          "ticker": "VRTX",
+          "titulo": "1 Unpopular Stock That Should Get More Attention and 2 We Brush Off",
+          "resumen": "When Wall Street turns bearish on a stock, it’s worth paying attention. These calls stand out because analysts rarely issue grim ratings on companies for fear their firms will lose out in other business lines such as M&A advisory.",
+          "fuente": "Yahoo",
+          "fecha": "14 Sep 2026 12:27 UTC",
+          "url": "https://finnhub.io/api/news?id=e90c30daddd690f1f0614d4184e7200f5deb92923a32408030d7c6472982416f",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex Pharmaceuticals Eyes Renal Growth With Key PDUFA, Pipeline Catalysts Ahead",
+          "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) is continuing to broaden its business beyond cystic fibrosis, with its renal medicine portfolio, rare endocrine assets and cell therapies among the company’s priorities, CEO and President Reshma Kewalramani said at Morgan Stanley’s 24th Annual Healthcare Conferen",
+          "fuente": "Yahoo",
+          "fecha": "14 Sep 2026 12:02 UTC",
+          "url": "https://finnhub.io/api/news?id=9b2649970024bba8e61f11ecfb688566857301b4810a69ad5e06dd74a5c20075",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vortex Energy Engages Lonquist to Manage Ground Gravity Survey at the Robinsons River Salt Project",
+          "resumen": "Lonquist to lead survey planning and data acquisition, building on recent technical work at Robinsons RiverVANCOUVER, British Columbia, Sept. 14, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) is pleased to announce that it has engaged Lo",
+          "fuente": "Yahoo",
+          "fecha": "14 Sep 2026 12:00 UTC",
+          "url": "https://finnhub.io/api/news?id=b49be2873844475d6d7d1921630e7dc34b843a1056b5666de4b7ccf5773fde37",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "VRTX",
           "titulo": "Amgen vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy in 2026?",
@@ -51,61 +175,92 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals Highlights Catalyst-Rich Pipeline Beyond Cystic Fibrosis",
-          "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) highlighted a series of upcoming clinical, regulatory and commercial catalysts across renal disease, pain management, cystic fibrosis and endocrinology during a Wells Fargo healthcare conference appearance. Susie Lisa, the company’s head of investor relations, s",
-          "fuente": "Yahoo",
-          "fecha": "12 Sep 2026 11:01 UTC",
-          "url": "https://finnhub.io/api/news?id=19b05aa2eaabf2956d27685c0d94fc60464a6c7783b9a30a47b57dc2f98f2da4",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals Maps Growth Beyond CF at Cantor Conference",
-          "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) outlined a broadening commercial and clinical strategy at the Cantor Global Healthcare Conference, highlighting its recent Crinetics acquisition, planned renal product launch efforts and upcoming pipeline milestones across kidney disease, pain, cystic fibrosis an",
-          "fuente": "Yahoo",
-          "fecha": "12 Sep 2026 10:01 UTC",
-          "url": "https://finnhub.io/api/news?id=757546458d0e9518932ea4fa23b133c59aa91cc4ddbf8cd4a47f6a259f4ca868",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals Incorporated (VRTX): Crinetics Acquisition Creates a New Growth Engine Beyond Cystic Fibrosis",
-          "resumen": "Vertex Pharmaceuticals Incorporated (NASDAQ:VRTX) could be positioning itself for its next major phase of growth following its roughly $10 billion acquisition of Crinetics Pharmaceuticals. The deal gives the company immediate exposure to the endocrinology market and provides a new commercial platfor",
-          "fuente": "Yahoo",
-          "fecha": "11 Sep 2026 21:03 UTC",
-          "url": "https://finnhub.io/api/news?id=71bb1a80a1b815f14695bce6d476fb35dad2d2412533bf56c4d80a87734ddcb6",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
+          "titulo": "Vertex Pharmaceuticals Incorporated (VRTX) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
+          "resumen": "",
+          "fuente": "SeekingAlpha",
+          "fecha": "14 Sep 2026 10:41 UTC",
+          "url": "https://finnhub.io/api/news?id=d3b6425c93925b9efbcae1f357745572feef9ac424c65740cf6f2c4c553cb274",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
-      "total": 4
+      "total": 5
     },
     "ALNY": {
       "nombre": "ALNY",
+      "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "Oligonucleotide Therapeutics Market Outlook 2026-2035 - Featuring Profiles of Alnylam Pharmaceuticals, Ionis Pharmaceuticals, and Sarepta Therapeutics",
+          "resumen": "Oligonucleotide Therapeutics Expand Beyond Rare Diseases as RNA Innovation, Targeted Delivery and Patient-Friendly Dosing Accelerate AdoptionDublin, Sept. 15, 2026 (GLOBE NEWSWIRE) -- \"Oligonucleotide Therapeutics Market Opportunity, Growth Drivers, Industry Trend Analysis, and Forecast 2026-2035\" h",
+          "fuente": "Yahoo",
+          "fecha": "15 Sep 2026 09:58 UTC",
+          "url": "https://finnhub.io/api/news?id=4a1f3337112856e6a5833dfc8b0b6774af1b30a26a0564c3731b6f2a2e6db231",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam's Sell-Off Looks Ugly -- but Wall Street Still Sees a Much Brighter Picture",
+          "resumen": "Analysts think Alnylam could rebound strongly over the next 12 months.",
+          "fuente": "Yahoo",
+          "fecha": "15 Sep 2026 09:04 UTC",
+          "url": "https://finnhub.io/api/news?id=00203c20130c55d32e6ff5ae121ee77146e33cde5f41459501c80955c0605e78",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Alger Russell Innovation Index Updates for Third Quarter 2026",
+          "resumen": "Fred Alger Management, LLC (\"Alger\"), a privately held growth equity investment manager, today announced the quarterly rebalancing of the Alger Russell Innovation Index (\"Index\"). Following the close of trading on Friday, September 18, 2026, the Index will be rebalanced, and the following changes wi",
+          "fuente": "Yahoo",
+          "fecha": "14 Sep 2026 16:53 UTC",
+          "url": "https://finnhub.io/api/news?id=4536d075d900463d79c886b57ebb51963b33d201d6f85976796ed4f09bf19001",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam Pharmaceuticals, Inc. (ALNY) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
+          "resumen": "Alnylam Pharmaceuticals, Inc. (ALNY) Morgan Stanley 24th Annual Global Healthcare Conference September 14, 2026 10:00 AM EDTCompany ParticipantsYvonne...",
+          "fuente": "SeekingAlpha",
+          "fecha": "14 Sep 2026 13:11 UTC",
+          "url": "https://finnhub.io/api/news?id=0410bc789e3321169957e0d4e613028370f7b4da70de57b69c245059d29d341f",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 4
+    },
+    "BEAM": {
+      "nombre": "BEAM",
       "noticias": [],
       "nivel": "ok",
       "total": 0
     },
-    "BEAM": {
-      "nombre": "BEAM",
+    "OCUL": {
+      "nombre": "OCUL",
       "noticias": [
         {
-          "ticker": "BEAM",
-          "titulo": "Beam Therapeutics: Market Selling Phase 2 AATD Data Is Understandable, In My View",
-          "resumen": "Beam Therapeutics' BEAM-302 Phase 1/2 AATD results show sustained AAT increases, but durability, safety, and approval risks remain. Click for this BEAM update",
-          "fuente": "SeekingAlpha",
-          "fecha": "11 Sep 2026 16:11 UTC",
-          "url": "https://finnhub.io/api/news?id=eca561a6d0e5329596e14c8ca4d8c33fb2893a5e3b466d3fd4794734f31dadb4",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2217533380/image_2217533380.jpg?io=getty-c-w1536",
+          "ticker": "OCUL",
+          "titulo": "Ocular Therapeutix™ Announces Positive Pre-NDA Meeting with U.S. FDA for AXPAXLI™ in Wet AMD",
+          "resumen": "Consistent with prior Type C Meeting, the Pre-NDA Meeting confirms Ocular’s plan to submit AXPAXLI NDA based on SOL-1 Week 52 efficacy and safety, interim SOL-R safety, and confirmatory evidence AXPAXLI NDA submission for wet AMD remains on track for 4Q 2026 NDA submission to include subjects that h",
+          "fuente": "Yahoo",
+          "fecha": "15 Sep 2026 11:00 UTC",
+          "url": "https://finnhub.io/api/news?id=d8417e0932c32c685df0892e2ed1dc0394fce4b21d6acc45d9d6067996bb6e51",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
@@ -113,12 +268,6 @@
       ],
       "nivel": "rojo",
       "total": 1
-    },
-    "OCUL": {
-      "nombre": "OCUL",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
     },
     "CAI": {
       "nombre": "CAI",
@@ -128,15 +277,41 @@
     },
     "GPCR": {
       "nombre": "GPCR",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "GPCR",
+          "titulo": "Will Morgan Stanley's NVO Downgrade Deepen Patent and Rival Woes?",
+          "resumen": "Novo faces a tougher growth outlook as Morgan Stanley downgrades the stock to Underweight, citing muted growth, patent risks and rising pressure from Lilly.",
+          "fuente": "Yahoo",
+          "fecha": "14 Sep 2026 14:37 UTC",
+          "url": "https://finnhub.io/api/news?id=5a14c35259c52ba7c2a147a44702b7b24a14222df871fcf09754d4c6af14fe59",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "ABVX": {
       "nombre": "ABVX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ABVX",
+          "titulo": "Abivax Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call",
+          "resumen": "Abivax will report H1 earnings Sept. 21; analysts expect a $1.08 loss/share and $1.86M revenue.",
+          "fuente": "Benzinga",
+          "fecha": "14 Sep 2026 04:55 UTC",
+          "url": "https://finnhub.io/api/news?id=3631136f33831a11b81524cc8ba6809ea87a0a72bfc1b36e85ab37c0a03812fa",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/09/14/Analysts-Adjust-Progressive-Targets.jpg?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "VERA": {
       "nombre": "VERA",
@@ -170,82 +345,82 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
+        },
+        {
+          "ticker": "SENS",
+          "titulo": "Senseonics Partners With Beta Bionics To Integrate Its Eversense 365 CGM With Beta Bionics’ iLet Bionic Pancreas Automated Insulin Delivery System",
+          "resumen": "The companies are collaborating to integrate Eversense® 365 CGM with Beta Bionics’ iLet® Bionic Pancreas automated insulin delivery (AID) system designed to simplify diabetes management. The integrated device will aim",
+          "fuente": "Benzinga",
+          "fecha": "14 Sep 2026 07:05 UTC",
+          "url": "https://finnhub.io/api/news?id=b85440f9a2771192d74c1dd7706de2638ce518e95b9bf24c21fbf1d11811ca37",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
-      "total": 1
+      "total": 2
     },
     "INSM": {
       "nombre": "INSM",
       "noticias": [
         {
           "ticker": "INSM",
-          "titulo": "LQDA Loses 13.9% in a Month: Should Investors Avoid the Stock Now?",
-          "resumen": "Liquidia's Yutrepia is gaining traction, but patent litigation, competition, rising costs and heavy product dependence cloud LQDA's outlook.",
-          "fuente": "Yahoo",
-          "fecha": "11 Sep 2026 18:21 UTC",
-          "url": "https://finnhub.io/api/news?id=6d89beea9b719b4cdceda8453c4037e1bbf41b5689404b4591ff51cfeb5c4aae",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "titulo": "Insmed (NASDAQ:INSM) Sets Up for Breakout With Strong Technicals",
+          "resumen": "INSMED shows a strong technical breakout setup with a 7 health rating, 9 setup quality, and key resistance at 131.11.",
+          "fuente": "ChartMill",
+          "fecha": "15 Sep 2026 09:10 UTC",
+          "url": "https://finnhub.io/api/news?id=6bcd9dc73f1f6824576b0fff694ff98ca9e93303a812438943a1707108ec2df8",
+          "imagen": "https://www.chartmill.com/images/uploads/CM_Breakout_Stocks_Small_free_bb09e243c7.webp",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "HQL: The Rally That Makes Growth Harder (Rating Downgrade)",
+          "resumen": "HQL downgraded to Hold after big rally; 12.5% yield, NAV discount and payout risks weigh on upside.",
+          "fuente": "SeekingAlpha",
+          "fecha": "15 Sep 2026 06:30 UTC",
+          "url": "https://finnhub.io/api/news?id=8d58a3a56fd98eb83a4827890b1b1f2b2c48299e9cbeac78bed4175c21845830",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2193239681/image_2193239681.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "Insmed Incorporated (INSM) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
+          "resumen": "Insmed Incorporated (INSM) Morgan Stanley 24th Annual Global Healthcare Conference September 14, 2026 2:35 PM EDTCompany ParticipantsWilliam Lewis -...",
+          "fuente": "SeekingAlpha",
+          "fecha": "14 Sep 2026 20:31 UTC",
+          "url": "https://finnhub.io/api/news?id=d600177c835ef5a991647cc0f41c9f448fca3d06825632088359e205c935a69c",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         }
       ],
       "nivel": "azul",
-      "total": 1
+      "total": 3
     }
   },
   "resumen": {
-    "total_noticias": 7,
-    "tickers_con_noticias": 4,
-    "alertas_urgentes": 3,
-    "sin_noticias": 13
+    "total_noticias": 24,
+    "tickers_con_noticias": 11,
+    "alertas_urgentes": 5,
+    "sin_noticias": 6
   },
   "todas_noticias": [
     {
-      "ticker": "BEAM",
-      "titulo": "Beam Therapeutics: Market Selling Phase 2 AATD Data Is Understandable, In My View",
-      "resumen": "Beam Therapeutics' BEAM-302 Phase 1/2 AATD results show sustained AAT increases, but durability, safety, and approval risks remain. Click for this BEAM update",
-      "fuente": "SeekingAlpha",
-      "fecha": "11 Sep 2026 16:11 UTC",
-      "url": "https://finnhub.io/api/news?id=eca561a6d0e5329596e14c8ca4d8c33fb2893a5e3b466d3fd4794734f31dadb4",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2217533380/image_2217533380.jpg?io=getty-c-w1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals Incorporated (VRTX): Crinetics Acquisition Creates a New Growth Engine Beyond Cystic Fibrosis",
-      "resumen": "Vertex Pharmaceuticals Incorporated (NASDAQ:VRTX) could be positioning itself for its next major phase of growth following its roughly $10 billion acquisition of Crinetics Pharmaceuticals. The deal gives the company immediate exposure to the endocrinology market and provides a new commercial platfor",
-      "fuente": "Yahoo",
-      "fecha": "11 Sep 2026 21:03 UTC",
-      "url": "https://finnhub.io/api/news?id=71bb1a80a1b815f14695bce6d476fb35dad2d2412533bf56c4d80a87734ddcb6",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals Maps Growth Beyond CF at Cantor Conference",
-      "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) outlined a broadening commercial and clinical strategy at the Cantor Global Healthcare Conference, highlighting its recent Crinetics acquisition, planned renal product launch efforts and upcoming pipeline milestones across kidney disease, pain, cystic fibrosis an",
-      "fuente": "Yahoo",
-      "fecha": "12 Sep 2026 10:01 UTC",
-      "url": "https://finnhub.io/api/news?id=757546458d0e9518932ea4fa23b133c59aa91cc4ddbf8cd4a47f6a259f4ca868",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals Highlights Catalyst-Rich Pipeline Beyond Cystic Fibrosis",
-      "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) highlighted a series of upcoming clinical, regulatory and commercial catalysts across renal disease, pain management, cystic fibrosis and endocrinology during a Wells Fargo healthcare conference appearance. Susie Lisa, the company’s head of investor relations, s",
-      "fuente": "Yahoo",
-      "fecha": "12 Sep 2026 11:01 UTC",
-      "url": "https://finnhub.io/api/news?id=19b05aa2eaabf2956d27685c0d94fc60464a6c7783b9a30a47b57dc2f98f2da4",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "ticker": "ABVX",
+      "titulo": "Abivax Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call",
+      "resumen": "Abivax will report H1 earnings Sept. 21; analysts expect a $1.08 loss/share and $1.86M revenue.",
+      "fuente": "Benzinga",
+      "fecha": "14 Sep 2026 04:55 UTC",
+      "url": "https://finnhub.io/api/news?id=3631136f33831a11b81524cc8ba6809ea87a0a72bfc1b36e85ab37c0a03812fa",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/09/14/Analysts-Adjust-Progressive-Targets.jpg?width=2048&height=1536",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
@@ -263,13 +438,73 @@
       "badge": "🔴"
     },
     {
-      "ticker": "INSM",
-      "titulo": "LQDA Loses 13.9% in a Month: Should Investors Avoid the Stock Now?",
-      "resumen": "Liquidia's Yutrepia is gaining traction, but patent litigation, competition, rising costs and heavy product dependence cloud LQDA's outlook.",
+      "ticker": "VRTX",
+      "titulo": "Vortex Energy Engages Lonquist to Manage Ground Gravity Survey at the Robinsons River Salt Project",
+      "resumen": "Lonquist to lead survey planning and data acquisition, building on recent technical work at Robinsons RiverVANCOUVER, British Columbia, Sept. 14, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) is pleased to announce that it has engaged Lo",
       "fuente": "Yahoo",
-      "fecha": "11 Sep 2026 18:21 UTC",
-      "url": "https://finnhub.io/api/news?id=6d89beea9b719b4cdceda8453c4037e1bbf41b5689404b4591ff51cfeb5c4aae",
+      "fecha": "14 Sep 2026 12:00 UTC",
+      "url": "https://finnhub.io/api/news?id=b49be2873844475d6d7d1921630e7dc34b843a1056b5666de4b7ccf5773fde37",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals Eyes Renal Growth With Key PDUFA, Pipeline Catalysts Ahead",
+      "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) is continuing to broaden its business beyond cystic fibrosis, with its renal medicine portfolio, rare endocrine assets and cell therapies among the company’s priorities, CEO and President Reshma Kewalramani said at Morgan Stanley’s 24th Annual Healthcare Conferen",
+      "fuente": "Yahoo",
+      "fecha": "14 Sep 2026 12:02 UTC",
+      "url": "https://finnhub.io/api/news?id=9b2649970024bba8e61f11ecfb688566857301b4810a69ad5e06dd74a5c20075",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Viking Therapeutics Advances VK2735 Obesity Drug Into Phase 3 After 15% Weight Loss",
+      "resumen": "Viking Therapeutics (NASDAQ:VKTX) said its obesity drug candidate VK2735 has advanced into Phase 3 development following Phase 2 results that showed approximately 15% weight loss from baseline after 13 weeks at the highest tested dose. Speaking at the Morgan Stanley Global Healthcare Conference, Pr",
+      "fuente": "Yahoo",
+      "fecha": "15 Sep 2026 03:01 UTC",
+      "url": "https://finnhub.io/api/news?id=41959543743fde20c09e167485d4807397079dc69e82452c804842dbfe2e9532",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "OCUL",
+      "titulo": "Ocular Therapeutix™ Announces Positive Pre-NDA Meeting with U.S. FDA for AXPAXLI™ in Wet AMD",
+      "resumen": "Consistent with prior Type C Meeting, the Pre-NDA Meeting confirms Ocular’s plan to submit AXPAXLI NDA based on SOL-1 Week 52 efficacy and safety, interim SOL-R safety, and confirmatory evidence AXPAXLI NDA submission for wet AMD remains on track for 4Q 2026 NDA submission to include subjects that h",
+      "fuente": "Yahoo",
+      "fecha": "15 Sep 2026 11:00 UTC",
+      "url": "https://finnhub.io/api/news?id=d8417e0932c32c685df0892e2ed1dc0394fce4b21d6acc45d9d6067996bb6e51",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "SENS",
+      "titulo": "Senseonics Partners With Beta Bionics To Integrate Its Eversense 365 CGM With Beta Bionics’ iLet Bionic Pancreas Automated Insulin Delivery System",
+      "resumen": "The companies are collaborating to integrate Eversense® 365 CGM with Beta Bionics’ iLet® Bionic Pancreas automated insulin delivery (AID) system designed to simplify diabetes management. The integrated device will aim",
+      "fuente": "Benzinga",
+      "fecha": "14 Sep 2026 07:05 UTC",
+      "url": "https://finnhub.io/api/news?id=b85440f9a2771192d74c1dd7706de2638ce518e95b9bf24c21fbf1d11811ca37",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals Incorporated (VRTX) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
+      "resumen": "",
+      "fuente": "SeekingAlpha",
+      "fecha": "14 Sep 2026 10:41 UTC",
+      "url": "https://finnhub.io/api/news?id=d3b6425c93925b9efbcae1f357745572feef9ac424c65740cf6f2c4c553cb274",
+      "imagen": "",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
@@ -281,6 +516,186 @@
       "fuente": "Yahoo",
       "fecha": "14 Sep 2026 11:03 UTC",
       "url": "https://finnhub.io/api/news?id=da1e88d3e7f35b8059dfd20fd97ed62f63419a669479637d7a9f61c48ee2f6bc",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Baron Global Opportunity Fund Q2 2026 Portfolio Activity",
+      "resumen": "Baron Global Opportunity Fund (the Fund) gained 26.7% (Institutional Shares) during the second quarter, compared to the 14.9% gain for the MSCI ACWI Index (the Index). Read more here.",
+      "fuente": "SeekingAlpha",
+      "fecha": "14 Sep 2026 12:19 UTC",
+      "url": "https://finnhub.io/api/news?id=c8785df4f7899efef2abb19514bd0dd756d78a264c63cb00667c004349c7477e",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2266615986/image_2266615986.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "DYN",
+      "titulo": "Dyne Therapeutics, Inc. (DYN) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
+      "resumen": "Dyne Therapeutics, Inc. (DYN) Morgan Stanley 24th Annual Global Healthcare Conference September 14, 2026 9:15 AM EDTCompany ParticipantsJohn Cox - CEO,...",
+      "fuente": "SeekingAlpha",
+      "fecha": "14 Sep 2026 12:21 UTC",
+      "url": "https://finnhub.io/api/news?id=bc0e3ed52edd20259b2ef2c98f19a143ae3ec77ae2f53a6b1f000a9439c9f608",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "1 Unpopular Stock That Should Get More Attention and 2 We Brush Off",
+      "resumen": "When Wall Street turns bearish on a stock, it’s worth paying attention. These calls stand out because analysts rarely issue grim ratings on companies for fear their firms will lose out in other business lines such as M&A advisory.",
+      "fuente": "Yahoo",
+      "fecha": "14 Sep 2026 12:27 UTC",
+      "url": "https://finnhub.io/api/news?id=e90c30daddd690f1f0614d4184e7200f5deb92923a32408030d7c6472982416f",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam Pharmaceuticals, Inc. (ALNY) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
+      "resumen": "Alnylam Pharmaceuticals, Inc. (ALNY) Morgan Stanley 24th Annual Global Healthcare Conference September 14, 2026 10:00 AM EDTCompany ParticipantsYvonne...",
+      "fuente": "SeekingAlpha",
+      "fecha": "14 Sep 2026 13:11 UTC",
+      "url": "https://finnhub.io/api/news?id=0410bc789e3321169957e0d4e613028370f7b4da70de57b69c245059d29d341f",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "argenx SE (ARGX) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
+      "resumen": "argenx SE (ARGX) Morgan Stanley 24th Annual Global Healthcare Conference September 14, 2026 9:15 AM EDTCompany ParticipantsKarl Gubitz - Chief Financial...",
+      "fuente": "SeekingAlpha",
+      "fecha": "14 Sep 2026 14:11 UTC",
+      "url": "https://finnhub.io/api/news?id=56d99a32a6cfee85a0e4c2e9d4189fdb3d59b116bce4fdcbbb3874df5c604a04",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Will Morgan Stanley's NVO Downgrade Deepen Patent and Rival Woes?",
+      "resumen": "Novo faces a tougher growth outlook as Morgan Stanley downgrades the stock to Underweight, citing muted growth, patent risks and rising pressure from Lilly.",
+      "fuente": "Yahoo",
+      "fecha": "14 Sep 2026 14:37 UTC",
+      "url": "https://finnhub.io/api/news?id=5a14c35259c52ba7c2a147a44702b7b24a14222df871fcf09754d4c6af14fe59",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "GPCR",
+      "titulo": "Will Morgan Stanley's NVO Downgrade Deepen Patent and Rival Woes?",
+      "resumen": "Novo faces a tougher growth outlook as Morgan Stanley downgrades the stock to Underweight, citing muted growth, patent risks and rising pressure from Lilly.",
+      "fuente": "Yahoo",
+      "fecha": "14 Sep 2026 14:37 UTC",
+      "url": "https://finnhub.io/api/news?id=5a14c35259c52ba7c2a147a44702b7b24a14222df871fcf09754d4c6af14fe59",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alger Russell Innovation Index Updates for Third Quarter 2026",
+      "resumen": "Fred Alger Management, LLC (\"Alger\"), a privately held growth equity investment manager, today announced the quarterly rebalancing of the Alger Russell Innovation Index (\"Index\"). Following the close of trading on Friday, September 18, 2026, the Index will be rebalanced, and the following changes wi",
+      "fuente": "Yahoo",
+      "fecha": "14 Sep 2026 16:53 UTC",
+      "url": "https://finnhub.io/api/news?id=4536d075d900463d79c886b57ebb51963b33d201d6f85976796ed4f09bf19001",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Viking Therapeutics, Inc. (VKTX) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
+      "resumen": "Viking Therapeutics, Inc. (VKTX) Morgan Stanley 24th Annual Global Healthcare Conference September 14, 2026 3:20 PM EDTCompany ParticipantsBrian Lian -...",
+      "fuente": "SeekingAlpha",
+      "fecha": "14 Sep 2026 17:31 UTC",
+      "url": "https://finnhub.io/api/news?id=ab6999eafe6a900129c53542d7cdcf38189fc78f1876f4ddc4745425c5b6ebe3",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "DNLI",
+      "titulo": "Denali Therapeutics Inc. (DNLI) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
+      "resumen": "Denali Therapeutics Inc. (DNLI) Morgan Stanley 24th Annual Global Healthcare Conference September 14, 2026 4:05 PM EDTCompany ParticipantsRyan Watts -...",
+      "fuente": "SeekingAlpha",
+      "fecha": "14 Sep 2026 19:41 UTC",
+      "url": "https://finnhub.io/api/news?id=e91da1e367976e2f8129e914d5229040a2a2a623998a9be23059307478580369",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Insmed Incorporated (INSM) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
+      "resumen": "Insmed Incorporated (INSM) Morgan Stanley 24th Annual Global Healthcare Conference September 14, 2026 2:35 PM EDTCompany ParticipantsWilliam Lewis -...",
+      "fuente": "SeekingAlpha",
+      "fecha": "14 Sep 2026 20:31 UTC",
+      "url": "https://finnhub.io/api/news?id=d600177c835ef5a991647cc0f41c9f448fca3d06825632088359e205c935a69c",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "HQL: The Rally That Makes Growth Harder (Rating Downgrade)",
+      "resumen": "HQL downgraded to Hold after big rally; 12.5% yield, NAV discount and payout risks weigh on upside.",
+      "fuente": "SeekingAlpha",
+      "fecha": "15 Sep 2026 06:30 UTC",
+      "url": "https://finnhub.io/api/news?id=8d58a3a56fd98eb83a4827890b1b1f2b2c48299e9cbeac78bed4175c21845830",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2193239681/image_2193239681.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam's Sell-Off Looks Ugly -- but Wall Street Still Sees a Much Brighter Picture",
+      "resumen": "Analysts think Alnylam could rebound strongly over the next 12 months.",
+      "fuente": "Yahoo",
+      "fecha": "15 Sep 2026 09:04 UTC",
+      "url": "https://finnhub.io/api/news?id=00203c20130c55d32e6ff5ae121ee77146e33cde5f41459501c80955c0605e78",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Insmed (NASDAQ:INSM) Sets Up for Breakout With Strong Technicals",
+      "resumen": "INSMED shows a strong technical breakout setup with a 7 health rating, 9 setup quality, and key resistance at 131.11.",
+      "fuente": "ChartMill",
+      "fecha": "15 Sep 2026 09:10 UTC",
+      "url": "https://finnhub.io/api/news?id=6bcd9dc73f1f6824576b0fff694ff98ca9e93303a812438943a1707108ec2df8",
+      "imagen": "https://www.chartmill.com/images/uploads/CM_Breakout_Stocks_Small_free_bb09e243c7.webp",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Oligonucleotide Therapeutics Market Outlook 2026-2035 - Featuring Profiles of Alnylam Pharmaceuticals, Ionis Pharmaceuticals, and Sarepta Therapeutics",
+      "resumen": "Oligonucleotide Therapeutics Expand Beyond Rare Diseases as RNA Innovation, Targeted Delivery and Patient-Friendly Dosing Accelerate AdoptionDublin, Sept. 15, 2026 (GLOBE NEWSWIRE) -- \"Oligonucleotide Therapeutics Market Opportunity, Growth Drivers, Industry Trend Analysis, and Forecast 2026-2035\" h",
+      "fuente": "Yahoo",
+      "fecha": "15 Sep 2026 09:58 UTC",
+      "url": "https://finnhub.io/api/news?id=4a1f3337112856e6a5833dfc8b0b6774af1b30a26a0564c3731b6f2a2e6db231",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",

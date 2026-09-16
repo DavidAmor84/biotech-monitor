@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "15/09/2026 13:45",
-  "fecha": "2026-09-15",
+  "generado": "16/09/2026 13:38",
+  "fecha": "2026-09-16",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -688,7 +688,7 @@
           "study_completion_date": "2027-12-15",
           "study_completion_type": "ESTIMATED",
           "start_date": "2019-11-05",
-          "last_update_posted": "2026-03-18",
+          "last_update_posted": "2026-09-16",
           "conditions": [
             "Acute Myeloid Leukemia",
             "Acute Lymphoblastic Leukemia",
@@ -733,7 +733,14 @@
           "ventana": "2026-2027",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-03-18 → 2026-09-16"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1802,7 +1809,7 @@
           "study_completion_date": "2032-11-30",
           "study_completion_type": "ESTIMATED",
           "start_date": "2025-07-02",
-          "last_update_posted": "2026-08-14",
+          "last_update_posted": "2026-09-16",
           "conditions": [
             "Transthyretin Amyloidosis With Cardiomyopathy"
           ],
@@ -1840,7 +1847,14 @@
           "ventana": "2030",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-08-14 → 2026-09-16"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1902,14 +1916,7 @@
           "ventana": "2027-2031",
           "monitorizar": true,
           "peso_importancia": 7,
-          "cambios": [
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2026-08-14 → 2026-09-15"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2454,7 +2461,14 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-03-18 → 2026-09-16"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT04065399"
     },
     {
@@ -2694,35 +2708,15 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
-      "url": "https://clinicaltrials.gov/study/NCT07052903"
-    },
-    {
-      "ticker": "ALNY",
-      "nct": "NCT07223203",
-      "nombre": "TRITON-PN Ph3 — nucresiran — hATTR-PN",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2027-12-27",
-      "mensaje": "Reclutando",
-      "prioridad": "media",
-      "estrellas": "⭐⭐",
-      "tipo": "pivotal",
-      "catalizador": "hATTR-PN Phase 3",
-      "ventana": "2027-2031",
-      "peso_importancia": 7,
-      "validacion_ok": true,
-      "errores_validacion": [],
       "cambios": [
         {
           "tipo": "last_update_posted",
           "nivel": "azul",
           "badge": "🔵",
-          "mensaje": "Última actualización: 2026-08-14 → 2026-09-15"
+          "mensaje": "Última actualización: 2026-08-14 → 2026-09-16"
         }
       ],
-      "url": "https://clinicaltrials.gov/study/NCT07223203"
+      "url": "https://clinicaltrials.gov/study/NCT07052903"
     },
     {
       "ticker": "VRTX",

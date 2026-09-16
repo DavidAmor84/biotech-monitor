@@ -1,8 +1,8 @@
 {
-  "generado": "15/09/2026 12:38 UTC",
+  "generado": "16/09/2026 12:34 UTC",
   "plazo_horas": 72,
-  "desde": "2026-09-12",
-  "hasta": "2026-09-15",
+  "desde": "2026-09-13",
+  "hasta": "2026-09-16",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -72,6 +72,18 @@
       "noticias": [
         {
           "ticker": "VKTX",
+          "titulo": "Can Viking Therapeutics Beat Big Pharma With Monthly Weight-Loss Shots? Here’s The Risk CEO Says Could Derail It",
+          "resumen": "CEO Brian Lian said monthly VK2735 must preserve weight loss without restarting nausea, vomiting and other gastrointestinal effects.",
+          "fuente": "Yahoo",
+          "fecha": "15 Sep 2026 06:03 UTC",
+          "url": "https://finnhub.io/api/news?id=a0553eb56c214b24d155315ca4e00bcf76d288309a8f36ae6fe4c3c886ba7785",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VKTX",
           "titulo": "Viking Therapeutics Advances VK2735 Obesity Drug Into Phase 3 After 15% Weight Loss",
           "resumen": "Viking Therapeutics (NASDAQ:VKTX) said its obesity drug candidate VK2735 has advanced into Phase 3 development following Phase 2 results that showed approximately 15% weight loss from baseline after 13 weeks at the highest tested dose. Speaking at the Morgan Stanley Global Healthcare Conference, Pr",
           "fuente": "Yahoo",
@@ -120,18 +132,18 @@
         }
       ],
       "nivel": "rojo",
-      "total": 4
+      "total": 5
     },
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
         {
           "ticker": "VRTX",
-          "titulo": "1 Unpopular Stock That Should Get More Attention and 2 We Brush Off",
-          "resumen": "When Wall Street turns bearish on a stock, it’s worth paying attention. These calls stand out because analysts rarely issue grim ratings on companies for fear their firms will lose out in other business lines such as M&A advisory.",
+          "titulo": "Will Vertex’s (VRTX) New CFO Elevation and Digital Focus Reframe Its Capital Allocation Narrative?",
+          "resumen": "In August 2026, Vertex Pharmaceuticals announced that Senior Vice President of Finance Jonathan Poole will become Executive Vice President and Chief Financial Officer on January 1, 2027, while Charles F. Wagner Jr. remains Executive Vice President and Chief Operating Officer. This internal promotion",
           "fuente": "Yahoo",
-          "fecha": "14 Sep 2026 12:27 UTC",
-          "url": "https://finnhub.io/api/news?id=e90c30daddd690f1f0614d4184e7200f5deb92923a32408030d7c6472982416f",
+          "fecha": "15 Sep 2026 19:17 UTC",
+          "url": "https://finnhub.io/api/news?id=bafd21402f2d7b657dd1e012c85c33390fce2ef2f28708022569a714e7fed18c",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
@@ -139,35 +151,11 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals Eyes Renal Growth With Key PDUFA, Pipeline Catalysts Ahead",
-          "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) is continuing to broaden its business beyond cystic fibrosis, with its renal medicine portfolio, rare endocrine assets and cell therapies among the company’s priorities, CEO and President Reshma Kewalramani said at Morgan Stanley’s 24th Annual Healthcare Conferen",
+          "titulo": "Vertex Pharmaceuticals (VRTX), Why Is It Getting Fresh Attention Now?",
+          "resumen": "Vertex Pharmaceuticals (VRTX) has been in focus after presenting at the 18th Annual Boston C-Level Technology Leadership Summit on September 10, where its Chief Digital and Information Officer outlined the group’s technology priorities. Recent trading has been choppy for Vertex Pharmaceuticals, with",
           "fuente": "Yahoo",
-          "fecha": "14 Sep 2026 12:02 UTC",
-          "url": "https://finnhub.io/api/news?id=9b2649970024bba8e61f11ecfb688566857301b4810a69ad5e06dd74a5c20075",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vortex Energy Engages Lonquist to Manage Ground Gravity Survey at the Robinsons River Salt Project",
-          "resumen": "Lonquist to lead survey planning and data acquisition, building on recent technical work at Robinsons RiverVANCOUVER, British Columbia, Sept. 14, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) is pleased to announce that it has engaged Lo",
-          "fuente": "Yahoo",
-          "fecha": "14 Sep 2026 12:00 UTC",
-          "url": "https://finnhub.io/api/news?id=b49be2873844475d6d7d1921630e7dc34b843a1056b5666de4b7ccf5773fde37",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Amgen vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy in 2026?",
-          "resumen": "Amgen trades at a cheaper valuation but carries higher leverage, while Vertex boasts pristine finances and 32% net margins, a classic trade-off between value and quality.",
-          "fuente": "Yahoo",
-          "fecha": "14 Sep 2026 11:03 UTC",
-          "url": "https://finnhub.io/api/news?id=da1e88d3e7f35b8059dfd20fd97ed62f63419a669479637d7a9f61c48ee2f6bc",
+          "fecha": "15 Sep 2026 18:16 UTC",
+          "url": "https://finnhub.io/api/news?id=4e6adfec3743d42a561f6c355e995a4c160a17e9e848fd9d9df547454ab4ba4a",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
@@ -175,12 +163,36 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals Incorporated (VRTX) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
-          "resumen": "",
+          "titulo": "Why Vera Therapeutics Stock Is Jumping on New Kidney Drug Trial Results",
+          "resumen": "Vera Therapeutics takes a step toward securing full Food and Drug Administration approval for its injectable kidney drug, Trutakna.",
+          "fuente": "Yahoo",
+          "fecha": "15 Sep 2026 16:03 UTC",
+          "url": "https://finnhub.io/api/news?id=7ab9eaf4d12e2187ef720cd80e4d8448a9d4a157bfc70e66bff0c843f18b4e98",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vera Reverses Its Major Chart Upset As Vertex Rivalry Deepens — What Happened?",
+          "resumen": "Vera stock reversed course Tuesday despite positive results for its kidney disease treatment, a rival to drugs from Otsuka and Vertex.",
+          "fuente": "Yahoo",
+          "fecha": "15 Sep 2026 14:42 UTC",
+          "url": "https://finnhub.io/api/news?id=3b729838f7c302e6c9d69d783e1fbda883ee5ef8ad59c30098a6580708b6719d",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Undercovered Dozen: Ares Capital, Grab, Lenovo, Rigetti And More",
+          "resumen": "Discover Seeking Alphaâs Undercovered Dozenâ12 under-the-radar stocks for fresh investment ideas.",
           "fuente": "SeekingAlpha",
-          "fecha": "14 Sep 2026 10:41 UTC",
-          "url": "https://finnhub.io/api/news?id=d3b6425c93925b9efbcae1f357745572feef9ac424c65740cf6f2c4c553cb274",
-          "imagen": "",
+          "fecha": "15 Sep 2026 13:19 UTC",
+          "url": "https://finnhub.io/api/news?id=b6c8911f00367ad639573dc67c3655a7b5c6861f93d18c550f14ee75fb4297c2",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1207255116/image_1207255116.jpg?io=getty-c-w1536",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
@@ -192,6 +204,30 @@
     "ALNY": {
       "nombre": "ALNY",
       "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "Is Alnylam (ALNY) Quietly Repricing Its RNAi Risk Profile Amid Oligonucleotide Market Optimism?",
+          "resumen": "Alnylam Pharmaceuticals recently presented at Wells Fargo’s 21st Annual Healthcare Conference in Boston and Morgan Stanley’s 24th Annual Global Healthcare Conference in New York, highlighting its RNA interference portfolio to investors and industry peers. These appearances coincided with a very larg",
+          "fuente": "Yahoo",
+          "fecha": "15 Sep 2026 19:18 UTC",
+          "url": "https://finnhub.io/api/news?id=1e230050f2c7fa86a490ecf3a15369284ba71f159b4561c5d7776d42e60587c0",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Slate Medicines Names Kenneth Koblan as Chief Scientific Officer",
+          "resumen": "By Karen Roman Slate Medicines Inc. said it appointed Kenneth Koblan, PhD, as its new Chief Scientific Officer, having previously served as Head of Research and Development at Vesalius Therapeutics, and at Sumitomo Pharma America as Chief Scientific Officer and Head of Development Operations. Dr. Ko",
+          "fuente": "Yahoo",
+          "fecha": "15 Sep 2026 15:18 UTC",
+          "url": "https://finnhub.io/api/news?id=3563b4f01ddf6785f748d560a36fd080f37613a38ffbf4bf80a2d6bd2a9e11f0",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "ALNY",
           "titulo": "Oligonucleotide Therapeutics Market Outlook 2026-2035 - Featuring Profiles of Alnylam Pharmaceuticals, Ionis Pharmaceuticals, and Sarepta Therapeutics",
@@ -227,32 +263,45 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
+        }
+      ],
+      "nivel": "rojo",
+      "total": 5
+    },
+    "BEAM": {
+      "nombre": "BEAM",
+      "noticias": [
         {
-          "ticker": "ALNY",
-          "titulo": "Alnylam Pharmaceuticals, Inc. (ALNY) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
-          "resumen": "Alnylam Pharmaceuticals, Inc. (ALNY) Morgan Stanley 24th Annual Global Healthcare Conference September 14, 2026 10:00 AM EDTCompany ParticipantsYvonne...",
-          "fuente": "SeekingAlpha",
-          "fecha": "14 Sep 2026 13:11 UTC",
-          "url": "https://finnhub.io/api/news?id=0410bc789e3321169957e0d4e613028370f7b4da70de57b69c245059d29d341f",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "ticker": "BEAM",
+          "titulo": "These 10 Stocks Are Squeeze Candidates Waiting to Happen",
+          "resumen": "These 10 heavily shorted stocks face potential reversals, led by Venture Global, followed by CleanSpark and Dutch Bros.",
+          "fuente": "Benzinga",
+          "fecha": "14 Sep 2026 15:46 UTC",
+          "url": "https://finnhub.io/api/news?id=d45011c0ae71d09ec920b9a132b44c566bd0635870020afe871b30c10ebad9f2",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/09/14/Glowing-Orange-Candlestick-And-Line-Char.jpg?width=2048&height=1536",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         }
       ],
       "nivel": "azul",
-      "total": 4
-    },
-    "BEAM": {
-      "nombre": "BEAM",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "total": 1
     },
     "OCUL": {
       "nombre": "OCUL",
       "noticias": [
+        {
+          "ticker": "OCUL",
+          "titulo": "Sector Update: Healthcare Stocks Fall Pre-Bell Tuesday",
+          "resumen": "Healthcare stocks were falling pre-bell Tuesday, with the State Street Health Care Select Sector SPD",
+          "fuente": "Yahoo",
+          "fecha": "15 Sep 2026 13:12 UTC",
+          "url": "https://finnhub.io/api/news?id=6d95197a20c3a680d24728d7085817fb1526ab3aee7ff7a5cae38e943ccb8f5d",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "OCUL",
           "titulo": "Ocular Therapeutix™ Announces Positive Pre-NDA Meeting with U.S. FDA for AXPAXLI™ in Wet AMD",
@@ -264,10 +313,22 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
+        },
+        {
+          "ticker": "OCUL",
+          "titulo": "Ocular Therapeutix Announces Completion Of Pre-NDA Meeting With FDA For Investigational Product Candidate AXPAXLI For Treatment Of Wet Age-Related Macular Degeneration",
+          "resumen": "Consistent with prior Type C Meeting, the Pre-NDA Meeting confirms Ocular’s plan to submit AXPAXLI NDA based on SOL-1 Week 52 efficacy and safety, interim SOL-R safety, and confirmatory evidenceAXPAXLI NDA submission",
+          "fuente": "Benzinga",
+          "fecha": "15 Sep 2026 07:05 UTC",
+          "url": "https://finnhub.io/api/news?id=9bf8b53983b5c42a289a231902aa72a34a0ca1704144d5e8a4fbb341b4a96d96",
+          "imagen": "",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 1
+      "total": 3
     },
     "CAI": {
       "nombre": "CAI",
@@ -315,15 +376,89 @@
     },
     "VERA": {
       "nombre": "VERA",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "VERA",
+          "titulo": "Biotech Midweek Pulse: XBI Loses Steam After Hot 2026 Run — Here Are The Stocks And Catalysts To Watch Next",
+          "resumen": "Large-cap healthcare outperformed this week: XLV gained 1.4% through Tuesday, while XBI fell 1.4% and IBB declined 0.5%.",
+          "fuente": "Yahoo",
+          "fecha": "16 Sep 2026 01:51 UTC",
+          "url": "https://finnhub.io/api/news?id=e3c6968e4c4a4115a4bb555c4a25b58235b8605068ae87a606228577c2e3c2eb",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VERA",
+          "titulo": "Vera Reverses Its Major Chart Upset As Vertex Rivalry Deepens — What Happened?",
+          "resumen": "Vera stock reversed course Tuesday despite positive results for its kidney disease treatment, a rival to drugs from Otsuka and Vertex.",
+          "fuente": "Yahoo",
+          "fecha": "15 Sep 2026 20:40 UTC",
+          "url": "https://finnhub.io/api/news?id=3b729838f7c302e6c9d69d783e1fbda883ee5ef8ad59c30098a6580708b6719d",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VERA",
+          "titulo": "Vera Therapeutics, Inc. (VERA) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
+          "resumen": "Vera Therapeutics, Inc. (VERA) Morgan Stanley 24th Annual Global Healthcare Conference September 15, 2026 5:35 PM EDTCompany ParticipantsMarshall Fordyce -...",
+          "fuente": "SeekingAlpha",
+          "fecha": "15 Sep 2026 20:01 UTC",
+          "url": "https://finnhub.io/api/news?id=3c4391371603e7b9af83f04ca0225d7ca61308338ea2a217e6a780083706ba34",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VERA",
+          "titulo": "Vera set up for full approval for Trutakna in IgAN with Phase III win",
+          "resumen": "Vera’s Trutakna was granted FDA accelerated approval in IgAN based on 36-week data.",
+          "fuente": "Yahoo",
+          "fecha": "15 Sep 2026 16:39 UTC",
+          "url": "https://finnhub.io/api/news?id=eb0befba671c2f81a26b19891f22137f75dc29f5701bf58d681d3b1866629c16",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VERA",
+          "titulo": "Why Vera Therapeutics Stock Is Jumping on New Kidney Drug Trial Results",
+          "resumen": "Vera Therapeutics takes a step toward securing full Food and Drug Administration approval for its injectable kidney drug, Trutakna.",
+          "fuente": "Yahoo",
+          "fecha": "15 Sep 2026 16:03 UTC",
+          "url": "https://finnhub.io/api/news?id=7ab9eaf4d12e2187ef720cd80e4d8448a9d4a157bfc70e66bff0c843f18b4e98",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 5
     },
     "ACRV": {
       "nombre": "ACRV",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ACRV",
+          "titulo": "What Makes Acrivon Therapeutics, Inc. (ACRV) a New Buy Stock",
+          "resumen": "Acrivon Therapeutics, Inc. (ACRV) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #2 (Buy).",
+          "fuente": "Yahoo",
+          "fecha": "15 Sep 2026 16:00 UTC",
+          "url": "https://finnhub.io/api/news?id=6045fa1226e6f70a57dc51ea032d73905b06a44d16bb6dd067e8a79ba32955ec",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "TARA": {
       "nombre": "TARA",
@@ -407,10 +542,10 @@
     }
   },
   "resumen": {
-    "total_noticias": 24,
-    "tickers_con_noticias": 11,
-    "alertas_urgentes": 5,
-    "sin_noticias": 6
+    "total_noticias": 35,
+    "tickers_con_noticias": 14,
+    "alertas_urgentes": 8,
+    "sin_noticias": 3
   },
   "todas_noticias": [
     {
@@ -438,30 +573,6 @@
       "badge": "🔴"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "Vortex Energy Engages Lonquist to Manage Ground Gravity Survey at the Robinsons River Salt Project",
-      "resumen": "Lonquist to lead survey planning and data acquisition, building on recent technical work at Robinsons RiverVANCOUVER, British Columbia, Sept. 14, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) is pleased to announce that it has engaged Lo",
-      "fuente": "Yahoo",
-      "fecha": "14 Sep 2026 12:00 UTC",
-      "url": "https://finnhub.io/api/news?id=b49be2873844475d6d7d1921630e7dc34b843a1056b5666de4b7ccf5773fde37",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals Eyes Renal Growth With Key PDUFA, Pipeline Catalysts Ahead",
-      "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) is continuing to broaden its business beyond cystic fibrosis, with its renal medicine portfolio, rare endocrine assets and cell therapies among the company’s priorities, CEO and President Reshma Kewalramani said at Morgan Stanley’s 24th Annual Healthcare Conferen",
-      "fuente": "Yahoo",
-      "fecha": "14 Sep 2026 12:02 UTC",
-      "url": "https://finnhub.io/api/news?id=9b2649970024bba8e61f11ecfb688566857301b4810a69ad5e06dd74a5c20075",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
       "ticker": "VKTX",
       "titulo": "Viking Therapeutics Advances VK2735 Obesity Drug Into Phase 3 After 15% Weight Loss",
       "resumen": "Viking Therapeutics (NASDAQ:VKTX) said its obesity drug candidate VK2735 has advanced into Phase 3 development following Phase 2 results that showed approximately 15% weight loss from baseline after 13 weeks at the highest tested dose. Speaking at the Morgan Stanley Global Healthcare Conference, Pr",
@@ -469,6 +580,18 @@
       "fecha": "15 Sep 2026 03:01 UTC",
       "url": "https://finnhub.io/api/news?id=41959543743fde20c09e167485d4807397079dc69e82452c804842dbfe2e9532",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "OCUL",
+      "titulo": "Ocular Therapeutix Announces Completion Of Pre-NDA Meeting With FDA For Investigational Product Candidate AXPAXLI For Treatment Of Wet Age-Related Macular Degeneration",
+      "resumen": "Consistent with prior Type C Meeting, the Pre-NDA Meeting confirms Ocular’s plan to submit AXPAXLI NDA based on SOL-1 Week 52 efficacy and safety, interim SOL-R safety, and confirmatory evidenceAXPAXLI NDA submission",
+      "fuente": "Benzinga",
+      "fecha": "15 Sep 2026 07:05 UTC",
+      "url": "https://finnhub.io/api/news?id=9bf8b53983b5c42a289a231902aa72a34a0ca1704144d5e8a4fbb341b4a96d96",
+      "imagen": "",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
@@ -486,6 +609,90 @@
       "badge": "🔴"
     },
     {
+      "ticker": "VRTX",
+      "titulo": "Vera Reverses Its Major Chart Upset As Vertex Rivalry Deepens — What Happened?",
+      "resumen": "Vera stock reversed course Tuesday despite positive results for its kidney disease treatment, a rival to drugs from Otsuka and Vertex.",
+      "fuente": "Yahoo",
+      "fecha": "15 Sep 2026 14:42 UTC",
+      "url": "https://finnhub.io/api/news?id=3b729838f7c302e6c9d69d783e1fbda883ee5ef8ad59c30098a6580708b6719d",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Slate Medicines Names Kenneth Koblan as Chief Scientific Officer",
+      "resumen": "By Karen Roman Slate Medicines Inc. said it appointed Kenneth Koblan, PhD, as its new Chief Scientific Officer, having previously served as Head of Research and Development at Vesalius Therapeutics, and at Sumitomo Pharma America as Chief Scientific Officer and Head of Development Operations. Dr. Ko",
+      "fuente": "Yahoo",
+      "fecha": "15 Sep 2026 15:18 UTC",
+      "url": "https://finnhub.io/api/news?id=3563b4f01ddf6785f748d560a36fd080f37613a38ffbf4bf80a2d6bd2a9e11f0",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ACRV",
+      "titulo": "What Makes Acrivon Therapeutics, Inc. (ACRV) a New Buy Stock",
+      "resumen": "Acrivon Therapeutics, Inc. (ACRV) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #2 (Buy).",
+      "fuente": "Yahoo",
+      "fecha": "15 Sep 2026 16:00 UTC",
+      "url": "https://finnhub.io/api/news?id=6045fa1226e6f70a57dc51ea032d73905b06a44d16bb6dd067e8a79ba32955ec",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Why Vera Therapeutics Stock Is Jumping on New Kidney Drug Trial Results",
+      "resumen": "Vera Therapeutics takes a step toward securing full Food and Drug Administration approval for its injectable kidney drug, Trutakna.",
+      "fuente": "Yahoo",
+      "fecha": "15 Sep 2026 16:03 UTC",
+      "url": "https://finnhub.io/api/news?id=7ab9eaf4d12e2187ef720cd80e4d8448a9d4a157bfc70e66bff0c843f18b4e98",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VERA",
+      "titulo": "Why Vera Therapeutics Stock Is Jumping on New Kidney Drug Trial Results",
+      "resumen": "Vera Therapeutics takes a step toward securing full Food and Drug Administration approval for its injectable kidney drug, Trutakna.",
+      "fuente": "Yahoo",
+      "fecha": "15 Sep 2026 16:03 UTC",
+      "url": "https://finnhub.io/api/news?id=7ab9eaf4d12e2187ef720cd80e4d8448a9d4a157bfc70e66bff0c843f18b4e98",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VERA",
+      "titulo": "Vera set up for full approval for Trutakna in IgAN with Phase III win",
+      "resumen": "Vera’s Trutakna was granted FDA accelerated approval in IgAN based on 36-week data.",
+      "fuente": "Yahoo",
+      "fecha": "15 Sep 2026 16:39 UTC",
+      "url": "https://finnhub.io/api/news?id=eb0befba671c2f81a26b19891f22137f75dc29f5701bf58d681d3b1866629c16",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VERA",
+      "titulo": "Vera Reverses Its Major Chart Upset As Vertex Rivalry Deepens — What Happened?",
+      "resumen": "Vera stock reversed course Tuesday despite positive results for its kidney disease treatment, a rival to drugs from Otsuka and Vertex.",
+      "fuente": "Yahoo",
+      "fecha": "15 Sep 2026 20:40 UTC",
+      "url": "https://finnhub.io/api/news?id=3b729838f7c302e6c9d69d783e1fbda883ee5ef8ad59c30098a6580708b6719d",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
       "ticker": "SENS",
       "titulo": "Senseonics Partners With Beta Bionics To Integrate Its Eversense 365 CGM With Beta Bionics’ iLet Bionic Pancreas Automated Insulin Delivery System",
       "resumen": "The companies are collaborating to integrate Eversense® 365 CGM with Beta Bionics’ iLet® Bionic Pancreas automated insulin delivery (AID) system designed to simplify diabetes management. The integrated device will aim",
@@ -493,30 +700,6 @@
       "fecha": "14 Sep 2026 07:05 UTC",
       "url": "https://finnhub.io/api/news?id=b85440f9a2771192d74c1dd7706de2638ce518e95b9bf24c21fbf1d11811ca37",
       "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals Incorporated (VRTX) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
-      "resumen": "",
-      "fuente": "SeekingAlpha",
-      "fecha": "14 Sep 2026 10:41 UTC",
-      "url": "https://finnhub.io/api/news?id=d3b6425c93925b9efbcae1f357745572feef9ac424c65740cf6f2c4c553cb274",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Amgen vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy in 2026?",
-      "resumen": "Amgen trades at a cheaper valuation but carries higher leverage, while Vertex boasts pristine finances and 32% net margins, a classic trade-off between value and quality.",
-      "fuente": "Yahoo",
-      "fecha": "14 Sep 2026 11:03 UTC",
-      "url": "https://finnhub.io/api/news?id=da1e88d3e7f35b8059dfd20fd97ed62f63419a669479637d7a9f61c48ee2f6bc",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
@@ -540,30 +723,6 @@
       "fuente": "SeekingAlpha",
       "fecha": "14 Sep 2026 12:21 UTC",
       "url": "https://finnhub.io/api/news?id=bc0e3ed52edd20259b2ef2c98f19a143ae3ec77ae2f53a6b1f000a9439c9f608",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "1 Unpopular Stock That Should Get More Attention and 2 We Brush Off",
-      "resumen": "When Wall Street turns bearish on a stock, it’s worth paying attention. These calls stand out because analysts rarely issue grim ratings on companies for fear their firms will lose out in other business lines such as M&A advisory.",
-      "fuente": "Yahoo",
-      "fecha": "14 Sep 2026 12:27 UTC",
-      "url": "https://finnhub.io/api/news?id=e90c30daddd690f1f0614d4184e7200f5deb92923a32408030d7c6472982416f",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Alnylam Pharmaceuticals, Inc. (ALNY) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
-      "resumen": "Alnylam Pharmaceuticals, Inc. (ALNY) Morgan Stanley 24th Annual Global Healthcare Conference September 14, 2026 10:00 AM EDTCompany ParticipantsYvonne...",
-      "fuente": "SeekingAlpha",
-      "fecha": "14 Sep 2026 13:11 UTC",
-      "url": "https://finnhub.io/api/news?id=0410bc789e3321169957e0d4e613028370f7b4da70de57b69c245059d29d341f",
       "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
       "urgente": false,
       "nivel": "azul",
@@ -601,6 +760,18 @@
       "fecha": "14 Sep 2026 14:37 UTC",
       "url": "https://finnhub.io/api/news?id=5a14c35259c52ba7c2a147a44702b7b24a14222df871fcf09754d4c6af14fe59",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "These 10 Stocks Are Squeeze Candidates Waiting to Happen",
+      "resumen": "These 10 heavily shorted stocks face potential reversals, led by Venture Global, followed by CleanSpark and Dutch Bros.",
+      "fuente": "Benzinga",
+      "fecha": "14 Sep 2026 15:46 UTC",
+      "url": "https://finnhub.io/api/news?id=d45011c0ae71d09ec920b9a132b44c566bd0635870020afe871b30c10ebad9f2",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/09/14/Glowing-Orange-Candlestick-And-Line-Char.jpg?width=2048&height=1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
@@ -654,6 +825,18 @@
       "badge": "🔵"
     },
     {
+      "ticker": "VKTX",
+      "titulo": "Can Viking Therapeutics Beat Big Pharma With Monthly Weight-Loss Shots? Here’s The Risk CEO Says Could Derail It",
+      "resumen": "CEO Brian Lian said monthly VK2735 must preserve weight loss without restarting nausea, vomiting and other gastrointestinal effects.",
+      "fuente": "Yahoo",
+      "fecha": "15 Sep 2026 06:03 UTC",
+      "url": "https://finnhub.io/api/news?id=a0553eb56c214b24d155315ca4e00bcf76d288309a8f36ae6fe4c3c886ba7785",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
       "ticker": "INSM",
       "titulo": "HQL: The Rally That Makes Growth Harder (Rating Downgrade)",
       "resumen": "HQL downgraded to Hold after big rally; 12.5% yield, NAV discount and payout risks weigh on upside.",
@@ -696,6 +879,90 @@
       "fuente": "Yahoo",
       "fecha": "15 Sep 2026 09:58 UTC",
       "url": "https://finnhub.io/api/news?id=4a1f3337112856e6a5833dfc8b0b6774af1b30a26a0564c3731b6f2a2e6db231",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "OCUL",
+      "titulo": "Sector Update: Healthcare Stocks Fall Pre-Bell Tuesday",
+      "resumen": "Healthcare stocks were falling pre-bell Tuesday, with the State Street Health Care Select Sector SPD",
+      "fuente": "Yahoo",
+      "fecha": "15 Sep 2026 13:12 UTC",
+      "url": "https://finnhub.io/api/news?id=6d95197a20c3a680d24728d7085817fb1526ab3aee7ff7a5cae38e943ccb8f5d",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Undercovered Dozen: Ares Capital, Grab, Lenovo, Rigetti And More",
+      "resumen": "Discover Seeking Alphaâs Undercovered Dozenâ12 under-the-radar stocks for fresh investment ideas.",
+      "fuente": "SeekingAlpha",
+      "fecha": "15 Sep 2026 13:19 UTC",
+      "url": "https://finnhub.io/api/news?id=b6c8911f00367ad639573dc67c3655a7b5c6861f93d18c550f14ee75fb4297c2",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1207255116/image_1207255116.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals (VRTX), Why Is It Getting Fresh Attention Now?",
+      "resumen": "Vertex Pharmaceuticals (VRTX) has been in focus after presenting at the 18th Annual Boston C-Level Technology Leadership Summit on September 10, where its Chief Digital and Information Officer outlined the group’s technology priorities. Recent trading has been choppy for Vertex Pharmaceuticals, with",
+      "fuente": "Yahoo",
+      "fecha": "15 Sep 2026 18:16 UTC",
+      "url": "https://finnhub.io/api/news?id=4e6adfec3743d42a561f6c355e995a4c160a17e9e848fd9d9df547454ab4ba4a",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Will Vertex’s (VRTX) New CFO Elevation and Digital Focus Reframe Its Capital Allocation Narrative?",
+      "resumen": "In August 2026, Vertex Pharmaceuticals announced that Senior Vice President of Finance Jonathan Poole will become Executive Vice President and Chief Financial Officer on January 1, 2027, while Charles F. Wagner Jr. remains Executive Vice President and Chief Operating Officer. This internal promotion",
+      "fuente": "Yahoo",
+      "fecha": "15 Sep 2026 19:17 UTC",
+      "url": "https://finnhub.io/api/news?id=bafd21402f2d7b657dd1e012c85c33390fce2ef2f28708022569a714e7fed18c",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Is Alnylam (ALNY) Quietly Repricing Its RNAi Risk Profile Amid Oligonucleotide Market Optimism?",
+      "resumen": "Alnylam Pharmaceuticals recently presented at Wells Fargo’s 21st Annual Healthcare Conference in Boston and Morgan Stanley’s 24th Annual Global Healthcare Conference in New York, highlighting its RNA interference portfolio to investors and industry peers. These appearances coincided with a very larg",
+      "fuente": "Yahoo",
+      "fecha": "15 Sep 2026 19:18 UTC",
+      "url": "https://finnhub.io/api/news?id=1e230050f2c7fa86a490ecf3a15369284ba71f159b4561c5d7776d42e60587c0",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VERA",
+      "titulo": "Vera Therapeutics, Inc. (VERA) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
+      "resumen": "Vera Therapeutics, Inc. (VERA) Morgan Stanley 24th Annual Global Healthcare Conference September 15, 2026 5:35 PM EDTCompany ParticipantsMarshall Fordyce -...",
+      "fuente": "SeekingAlpha",
+      "fecha": "15 Sep 2026 20:01 UTC",
+      "url": "https://finnhub.io/api/news?id=3c4391371603e7b9af83f04ca0225d7ca61308338ea2a217e6a780083706ba34",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VERA",
+      "titulo": "Biotech Midweek Pulse: XBI Loses Steam After Hot 2026 Run — Here Are The Stocks And Catalysts To Watch Next",
+      "resumen": "Large-cap healthcare outperformed this week: XLV gained 1.4% through Tuesday, while XBI fell 1.4% and IBB declined 0.5%.",
+      "fuente": "Yahoo",
+      "fecha": "16 Sep 2026 01:51 UTC",
+      "url": "https://finnhub.io/api/news?id=e3c6968e4c4a4115a4bb555c4a25b58235b8605068ae87a606228577c2e3c2eb",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",

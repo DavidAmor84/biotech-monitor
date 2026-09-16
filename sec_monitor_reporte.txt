@@ -1,13 +1,13 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 15/09/2026 12:28 | Período: últimos 7 días
-Desde: 2026-09-08 → Hasta: 2026-09-15
+Generado: 16/09/2026 12:26 | Período: últimos 7 días
+Desde: 2026-09-09 → Hasta: 2026-09-16
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 10 filings | 🔴 0 | 🟢 2 | 🟡 5 | 🔵 3 | ✅ 10 sin novedad
+RESUMEN: 6 filings | 🔴 0 | 🟢 1 | 🟡 2 | 🔵 3 | ✅ 12 sin novedad
 
 ──────────────────────────────────────────────────
-🚨 ALERTAS CRÍTICAS (2)
+🚨 ALERTAS CRÍTICAS (1)
 ──────────────────────────────────────────────────
 
   [VERA] Vera Therapeutics, Inc.
@@ -15,27 +15,12 @@ RESUMEN: 10 filings | 🔴 0 | 🟢 2 | 🟡 5 | 🔵 3 | ✅ 10 sin novedad
   8-K — Evento positivo potencial: Resultado estadísticamente significativo [Items: 7.01, 8.01, 9.01]
   → https://www.sec.gov/Archives/edgar/data/1831828/000119312526391280/d32300d8k.htm
 
-  [GPCR] Structure Therapeutics Inc.
-  🟢 ALTA 8-K | 2026-09-08
-  8-K — Evento positivo potencial: Datos topline positivos [Items: 7.01, 8.01, 9.01]
-  → https://www.sec.gov/Archives/edgar/data/1888886/000110465926105688/tm2624945d1_8k.htm
-
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
 ──────────────────────────────────────────────────
   ✅ [SNDX] Sin novedades
   ✅ [ARGX] Sin novedades
-
-  🟡 [DYN] Dyne Therapeutics, Inc. — 3 filing(s)
-     🟡 MEDIA 4 | 2026-09-08 | Friedl-Naderer Johanna (Chief Commercial Officer) → Venta 900 acciones @ $24.35 | Post: 153,082 | Rutinaria/RSU/impuestos
-     Insider: Friedl-Naderer Johanna (Chief Commercial Officer) → Venta 900 acciones @ $24.35 | Post: 153,082 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1818794/000191559826000005/xslF345X06/ownership.xml
-     🟡 MEDIA 4 | 2026-09-08 | Kerr Douglas (Chief Medical Officer) → Venta 3,745 acciones @ $24.35 | Post: 163,854 | Rutinaria/RSU/impuestos
-     Insider: Kerr Douglas (Chief Medical Officer) → Venta 3,745 acciones @ $24.35 | Post: 163,854 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1818794/000181418926000005/xslF345X06/ownership.xml
-     🟡 MEDIA 4 | 2026-09-08 | Cox John (CEO & President) → Venta 5,658 acciones @ $18.88 | Post: 357,507 | Rutinaria/RSU/impuestos
-     Insider: Cox John (CEO & President) → Venta 5,658 acciones @ $18.88 | Post: 357,507 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1818794/000149842826000005/xslF345X06/ownership.xml
+  ✅ [DYN] Sin novedades
 
   🟡 [DNLI] Denali Therapeutics Inc. — 1 filing(s)
      🟡 MEDIA 4 | 2026-09-09 | Chin Peter Scott (Chief Medical Officer) → Venta 1,654 acciones @ $22.29 | Post: 204,538 | Rutinaria/RSU/impuestos
@@ -54,10 +39,7 @@ DETALLE POR TICKER — SEC EDGAR
   🔵 [CAI] Caris Life Sciences, Inc. — 1 filing(s)
      🔵 INFO 8-K | 2026-09-14 | 8-K — Sin clasificación específica por Item [Items: 7.01]
      → https://www.sec.gov/Archives/edgar/data/2019410/000201941026000061/cai-20260914.htm
-
-  🟢 [GPCR] Structure Therapeutics Inc. — 1 filing(s)
-     🟢 ALTA 8-K | 2026-09-08 | 8-K — Evento positivo potencial: Datos topline positivos [Items: 7.01, 8.01, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1888886/000110465926105688/tm2624945d1_8k.htm
+  ✅ [GPCR] Sin novedades
   ✅ [ABVX] Sin novedades
 
   🟢 [VERA] Vera Therapeutics, Inc. — 2 filing(s)
@@ -85,7 +67,7 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Reclutando activamente
        Enrollment: 447 pacientes
        Primary completion: 2027-12-15
-       Última actualización: 2026-03-18
+       Última actualización: 2026-09-16
        → https://clinicaltrials.gov/study/NCT04065399
     🟢 REVEAL Ph3 (revumenib NPM1m AML frontline) ⚡CAMBIO
        Status: Reclutando activamente

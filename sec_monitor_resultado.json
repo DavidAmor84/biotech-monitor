@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "15/09/2026 12:28",
+  "generado": "16/09/2026 12:26",
   "periodo_dias": 7,
-  "desde": "2026-09-08",
-  "hasta": "2026-09-15",
+  "desde": "2026-09-09",
+  "hasta": "2026-09-16",
   "resumen": {
-    "total_filings": 10,
+    "total_filings": 6,
     "alertas_rojas": 0,
-    "alertas_verdes": 2,
-    "alertas_amarillas": 5,
+    "alertas_verdes": 1,
+    "alertas_amarillas": 2,
     "alertas_azules": 3,
-    "sin_novedad": 10
+    "sin_novedad": 12
   },
   "tickers": {
     "SNDX": {
@@ -41,88 +41,9 @@
       "cik": "0001818794",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-09-08",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Friedl-Naderer Johanna (Chief Commercial Officer) → Venta 900 acciones @ $24.35 | Post: 153,082 | Rutinaria/RSU/impuestos",
-          "detalle": "4",
-          "empresa_sec": "Dyne Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000191559826000005/xslF345X06/ownership.xml",
-          "form4_detail": {
-            "insider_nombre": "Friedl-Naderer Johanna",
-            "insider_cargo": "Chief Commercial Officer",
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "900",
-            "transaccion_precio": "24.35",
-            "transaccion_fecha": "2026-09-04",
-            "acciones_post": "153082",
-            "footnotes": "Represents shares automatically sold by the Reporting Person to satisfy tax withholding obligations in connection with the vesting of restricted stock units granted to the Reporting Person on September 3, 2024. The automatic sale of the Reporting Person's shares is provided for in a restricted stock unit agreement constituting a \"binding contract\" consistent with the affirmative defense to liability under Rule 10b5-1 and the sale does not represent a discretionary trade by the Reporting Person. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices within the range of $24.29 to $24.50, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote of this Form 4. Represents shares automatically sold by the Reporting Person to satisfy tax withholding obligations in connection with the vesting of restricted stock units granted to the Reporting Person on December 4, 2024. The automatic sale of the Reporting Person's shares is provided for in a restricted stock unit agreement constituting a \"binding contract\" consistent with the affirmative defense to liability under Rule 10b5-1 and the sale does not represent a discretionary trade by the Reporting Person. The price reported in Column 4 is a ",
-            "es_rutinaria": true,
-            "resumen_detail": "Friedl-Naderer Johanna (Chief Commercial Officer) → Venta 900 acciones @ $24.35 | Post: 153,082 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-09-08",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Kerr Douglas (Chief Medical Officer) → Venta 3,745 acciones @ $24.35 | Post: 163,854 | Rutinaria/RSU/impuestos",
-          "detalle": "4",
-          "empresa_sec": "Dyne Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181418926000005/xslF345X06/ownership.xml",
-          "form4_detail": {
-            "insider_nombre": "Kerr Douglas",
-            "insider_cargo": "Chief Medical Officer",
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "3745",
-            "transaccion_precio": "24.35",
-            "transaccion_fecha": "2026-09-04",
-            "acciones_post": "163854",
-            "footnotes": "Represents shares automatically sold by the Reporting Person to satisfy tax withholding obligations in connection with the vesting of restricted stock units granted to the Reporting Person on September 3, 2024. The automatic sale of the Reporting Person's shares is provided for in a restricted stock unit agreement constituting a \"binding contract\" consistent with the affirmative defense to liability under Rule 10b5-1 and the sale does not represent a discretionary trade by the Reporting Person. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices within the range of $24.27 to $24.50, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote of this Form 4. Represents shares automatically sold by the Reporting Person to satisfy tax withholding obligations in connection with the vesting of restricted stock units granted to the Reporting Person on December 4, 2024. The automatic sale of the Reporting Person's shares is provided for in a restricted stock unit agreement constituting a \"binding contract\" consistent with the affirmative defense to liability under Rule 10b5-1 and the sale does not represent a discretionary trade by the Reporting Person. The price reported in Column 4 is a ",
-            "es_rutinaria": true,
-            "resumen_detail": "Kerr Douglas (Chief Medical Officer) → Venta 3,745 acciones @ $24.35 | Post: 163,854 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-09-08",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Cox John (CEO & President) → Venta 5,658 acciones @ $18.88 | Post: 357,507 | Rutinaria/RSU/impuestos",
-          "detalle": "4",
-          "empresa_sec": "Dyne Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000149842826000005/xslF345X06/ownership.xml",
-          "form4_detail": {
-            "insider_nombre": "Cox John",
-            "insider_cargo": "CEO & President",
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "5658",
-            "transaccion_precio": "18.88",
-            "transaccion_fecha": "2026-09-08",
-            "acciones_post": "357507",
-            "footnotes": "Represents shares automatically sold by the Reporting Person to satisfy tax withholding obligations in connection with the vesting of restricted stock units granted to the Reporting Person on December 4, 2024. The automatic sale of the Reporting Person's shares is provided for in a restricted stock unit agreement constituting a \"binding contract\" consistent with the affirmative defense to liability under Rule 10b5-1 and the sale does not represent a discretionary trade by the Reporting Person. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices within the range of $18.77 to $18.92, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote of this Form 4. Includes 239,233 unvested RSUs. These shares are held in a trust for the benefit of a child of the Reporting Person.",
-            "es_rutinaria": true,
-            "resumen_detail": "Cox John (CEO & President) → Venta 5,658 acciones @ $18.88 | Post: 357,507 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "DNLI": {
@@ -286,35 +207,9 @@
       "cik": "0001888886",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "8-K",
-          "fecha": "2026-09-08",
-          "nivel": "verde",
-          "badge": "🟢 ALTA",
-          "resumen": "8-K — Evento positivo potencial: Datos topline positivos [Items: 7.01, 8.01, 9.01]",
-          "detalle": "FORM 8-K",
-          "empresa_sec": "Structure Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000110465926105688/tm2624945d1_8k.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "7.01",
-              "8.01",
-              "9.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 7.01 Regulation FD Disclosure. On September 8, 2026, Structure Therapeutics Inc. (the Company) issued a press release announcing positive topline clinical trial results across its oral small molecule amylin and GLP-1 programs for chronic weight management, including Phase 1/2a single ascending dose (SAD) results for ACCG-2671 (oral small molecule amylin receptor agonist) and 72-week results from the ACCESS open-label extension (OLE) study of aleniglipron (oral small molecule selective GLP-1 receptor agonist). A copy of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K. On September 8, 2026, the Company made available on its website an investor presentation to be shared with investors and others from time to time. A copy of this presentation is being furnished as Exhibit 99.2 to this Current Report on Form 8-K. The information set forth in this Item 7.01 and in the press release and investor presentation attached hereto as Exhibits 99.1 and 99.2, respectively, is deemed to be furnished and shall not be deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to the liabilities of that Section. The information set forth in this Item 7.01, including Exhibits 99.1 and 99.2, shall not be deemed incorporated by reference into any filing under the Exchange Act or the Securities Act of 1933, as amended, except to the extent that the Company specifically incorporates it by reference. Item 8.01 Other Events. ACCG-2671 (Oral Small Molecule DACRA): Phase 1 SAD Topline C",
-            "nivel_ajustado": "verde",
-            "badge_ajustado": "🟢 ALTA",
-            "resumen_ajustado": "8-K — Evento positivo potencial: Datos topline positivos"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "verde",
-      "badge": "🟢",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "ABVX": {
@@ -497,33 +392,6 @@
       },
       "10q_detail": null,
       "prospecto_detail": null
-    },
-    {
-      "ticker": "GPCR",
-      "nombre": "Structure Therapeutics Inc.",
-      "form": "8-K",
-      "fecha": "2026-09-08",
-      "nivel": "verde",
-      "badge": "🟢 ALTA",
-      "resumen": "8-K — Evento positivo potencial: Datos topline positivos [Items: 7.01, 8.01, 9.01]",
-      "detalle": "FORM 8-K",
-      "empresa_sec": "Structure Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000110465926105688/tm2624945d1_8k.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "7.01",
-          "8.01",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 7.01 Regulation FD Disclosure. On September 8, 2026, Structure Therapeutics Inc. (the Company) issued a press release announcing positive topline clinical trial results across its oral small molecule amylin and GLP-1 programs for chronic weight management, including Phase 1/2a single ascending dose (SAD) results for ACCG-2671 (oral small molecule amylin receptor agonist) and 72-week results from the ACCESS open-label extension (OLE) study of aleniglipron (oral small molecule selective GLP-1 receptor agonist). A copy of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K. On September 8, 2026, the Company made available on its website an investor presentation to be shared with investors and others from time to time. A copy of this presentation is being furnished as Exhibit 99.2 to this Current Report on Form 8-K. The information set forth in this Item 7.01 and in the press release and investor presentation attached hereto as Exhibits 99.1 and 99.2, respectively, is deemed to be furnished and shall not be deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to the liabilities of that Section. The information set forth in this Item 7.01, including Exhibits 99.1 and 99.2, shall not be deemed incorporated by reference into any filing under the Exchange Act or the Securities Act of 1933, as amended, except to the extent that the Company specifically incorporates it by reference. Item 8.01 Other Events. ACCG-2671 (Oral Small Molecule DACRA): Phase 1 SAD Topline C",
-        "nivel_ajustado": "verde",
-        "badge_ajustado": "🟢 ALTA",
-        "resumen_ajustado": "8-K — Evento positivo potencial: Datos topline positivos"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
     }
   ],
   "todos_filings": [
@@ -690,117 +558,6 @@
       "8k_detail": null,
       "10q_detail": null,
       "prospecto_detail": null
-    },
-    {
-      "ticker": "DYN",
-      "nombre": "Dyne Therapeutics, Inc.",
-      "form": "4",
-      "fecha": "2026-09-08",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Friedl-Naderer Johanna (Chief Commercial Officer) → Venta 900 acciones @ $24.35 | Post: 153,082 | Rutinaria/RSU/impuestos",
-      "detalle": "4",
-      "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000191559826000005/xslF345X06/ownership.xml",
-      "form4_detail": {
-        "insider_nombre": "Friedl-Naderer Johanna",
-        "insider_cargo": "Chief Commercial Officer",
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "900",
-        "transaccion_precio": "24.35",
-        "transaccion_fecha": "2026-09-04",
-        "acciones_post": "153082",
-        "footnotes": "Represents shares automatically sold by the Reporting Person to satisfy tax withholding obligations in connection with the vesting of restricted stock units granted to the Reporting Person on September 3, 2024. The automatic sale of the Reporting Person's shares is provided for in a restricted stock unit agreement constituting a \"binding contract\" consistent with the affirmative defense to liability under Rule 10b5-1 and the sale does not represent a discretionary trade by the Reporting Person. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices within the range of $24.29 to $24.50, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote of this Form 4. Represents shares automatically sold by the Reporting Person to satisfy tax withholding obligations in connection with the vesting of restricted stock units granted to the Reporting Person on December 4, 2024. The automatic sale of the Reporting Person's shares is provided for in a restricted stock unit agreement constituting a \"binding contract\" consistent with the affirmative defense to liability under Rule 10b5-1 and the sale does not represent a discretionary trade by the Reporting Person. The price reported in Column 4 is a ",
-        "es_rutinaria": true,
-        "resumen_detail": "Friedl-Naderer Johanna (Chief Commercial Officer) → Venta 900 acciones @ $24.35 | Post: 153,082 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "DYN",
-      "nombre": "Dyne Therapeutics, Inc.",
-      "form": "4",
-      "fecha": "2026-09-08",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Kerr Douglas (Chief Medical Officer) → Venta 3,745 acciones @ $24.35 | Post: 163,854 | Rutinaria/RSU/impuestos",
-      "detalle": "4",
-      "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181418926000005/xslF345X06/ownership.xml",
-      "form4_detail": {
-        "insider_nombre": "Kerr Douglas",
-        "insider_cargo": "Chief Medical Officer",
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "3745",
-        "transaccion_precio": "24.35",
-        "transaccion_fecha": "2026-09-04",
-        "acciones_post": "163854",
-        "footnotes": "Represents shares automatically sold by the Reporting Person to satisfy tax withholding obligations in connection with the vesting of restricted stock units granted to the Reporting Person on September 3, 2024. The automatic sale of the Reporting Person's shares is provided for in a restricted stock unit agreement constituting a \"binding contract\" consistent with the affirmative defense to liability under Rule 10b5-1 and the sale does not represent a discretionary trade by the Reporting Person. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices within the range of $24.27 to $24.50, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote of this Form 4. Represents shares automatically sold by the Reporting Person to satisfy tax withholding obligations in connection with the vesting of restricted stock units granted to the Reporting Person on December 4, 2024. The automatic sale of the Reporting Person's shares is provided for in a restricted stock unit agreement constituting a \"binding contract\" consistent with the affirmative defense to liability under Rule 10b5-1 and the sale does not represent a discretionary trade by the Reporting Person. The price reported in Column 4 is a ",
-        "es_rutinaria": true,
-        "resumen_detail": "Kerr Douglas (Chief Medical Officer) → Venta 3,745 acciones @ $24.35 | Post: 163,854 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "DYN",
-      "nombre": "Dyne Therapeutics, Inc.",
-      "form": "4",
-      "fecha": "2026-09-08",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Cox John (CEO & President) → Venta 5,658 acciones @ $18.88 | Post: 357,507 | Rutinaria/RSU/impuestos",
-      "detalle": "4",
-      "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000149842826000005/xslF345X06/ownership.xml",
-      "form4_detail": {
-        "insider_nombre": "Cox John",
-        "insider_cargo": "CEO & President",
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "5658",
-        "transaccion_precio": "18.88",
-        "transaccion_fecha": "2026-09-08",
-        "acciones_post": "357507",
-        "footnotes": "Represents shares automatically sold by the Reporting Person to satisfy tax withholding obligations in connection with the vesting of restricted stock units granted to the Reporting Person on December 4, 2024. The automatic sale of the Reporting Person's shares is provided for in a restricted stock unit agreement constituting a \"binding contract\" consistent with the affirmative defense to liability under Rule 10b5-1 and the sale does not represent a discretionary trade by the Reporting Person. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices within the range of $18.77 to $18.92, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote of this Form 4. Includes 239,233 unvested RSUs. These shares are held in a trust for the benefit of a child of the Reporting Person.",
-        "es_rutinaria": true,
-        "resumen_detail": "Cox John (CEO & President) → Venta 5,658 acciones @ $18.88 | Post: 357,507 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "GPCR",
-      "nombre": "Structure Therapeutics Inc.",
-      "form": "8-K",
-      "fecha": "2026-09-08",
-      "nivel": "verde",
-      "badge": "🟢 ALTA",
-      "resumen": "8-K — Evento positivo potencial: Datos topline positivos [Items: 7.01, 8.01, 9.01]",
-      "detalle": "FORM 8-K",
-      "empresa_sec": "Structure Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000110465926105688/tm2624945d1_8k.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "7.01",
-          "8.01",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 7.01 Regulation FD Disclosure. On September 8, 2026, Structure Therapeutics Inc. (the Company) issued a press release announcing positive topline clinical trial results across its oral small molecule amylin and GLP-1 programs for chronic weight management, including Phase 1/2a single ascending dose (SAD) results for ACCG-2671 (oral small molecule amylin receptor agonist) and 72-week results from the ACCESS open-label extension (OLE) study of aleniglipron (oral small molecule selective GLP-1 receptor agonist). A copy of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K. On September 8, 2026, the Company made available on its website an investor presentation to be shared with investors and others from time to time. A copy of this presentation is being furnished as Exhibit 99.2 to this Current Report on Form 8-K. The information set forth in this Item 7.01 and in the press release and investor presentation attached hereto as Exhibits 99.1 and 99.2, respectively, is deemed to be furnished and shall not be deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to the liabilities of that Section. The information set forth in this Item 7.01, including Exhibits 99.1 and 99.2, shall not be deemed incorporated by reference into any filing under the Exchange Act or the Securities Act of 1933, as amended, except to the extent that the Company specifically incorporates it by reference. Item 8.01 Other Events. ACCG-2671 (Oral Small Molecule DACRA): Phase 1 SAD Topline C",
-        "nivel_ajustado": "verde",
-        "badge_ajustado": "🟢 ALTA",
-        "resumen_ajustado": "8-K — Evento positivo potencial: Datos topline positivos"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
     }
   ],
   "clinicaltrials": {
@@ -814,7 +571,7 @@
         "nivel": "verde",
         "badge": "🟢",
         "enrollment": 447,
-        "ultima_actualizacion": "2026-03-18",
+        "ultima_actualizacion": "2026-09-16",
         "fecha_completion_primaria": "2027-12-15",
         "changed": true,
         "url": "https://clinicaltrials.gov/study/NCT04065399"

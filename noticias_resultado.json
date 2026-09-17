@@ -1,8 +1,8 @@
 {
-  "generado": "16/09/2026 12:34 UTC",
+  "generado": "17/09/2026 12:33 UTC",
   "plazo_horas": 72,
-  "desde": "2026-09-13",
-  "hasta": "2026-09-16",
+  "desde": "2026-09-14",
+  "hasta": "2026-09-17",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -13,6 +13,18 @@
     "ARGX": {
       "nombre": "ARGX",
       "noticias": [
+        {
+          "ticker": "ARGX",
+          "titulo": "ARGENX SE - ADR (NASDAQ:ARGX) Meets Minervini Trend Template and High Growth Momentum",
+          "resumen": "ARGX passes Minervini’s Trend Template plus High Growth Momentum, with strong EPS/revenue growth, high relative strength, and a Stage 2 uptrend.",
+          "fuente": "ChartMill",
+          "fecha": "17 Sep 2026 09:40 UTC",
+          "url": "https://finnhub.io/api/news?id=01860f539dbc31547378b437108ff59c74ff67813d3f9957bb79644c868b6362",
+          "imagen": "https://www.chartmill.com/images/uploads/minervini_news_8825971f4b.webp",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "ARGX",
           "titulo": "argenx SE (ARGX) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
@@ -26,27 +38,14 @@
           "badge": "🔵"
         }
       ],
-      "nivel": "azul",
-      "total": 1
+      "nivel": "rojo",
+      "total": 2
     },
     "DYN": {
       "nombre": "DYN",
-      "noticias": [
-        {
-          "ticker": "DYN",
-          "titulo": "Dyne Therapeutics, Inc. (DYN) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
-          "resumen": "Dyne Therapeutics, Inc. (DYN) Morgan Stanley 24th Annual Global Healthcare Conference September 14, 2026 9:15 AM EDTCompany ParticipantsJohn Cox - CEO,...",
-          "fuente": "SeekingAlpha",
-          "fecha": "14 Sep 2026 12:21 UTC",
-          "url": "https://finnhub.io/api/news?id=bc0e3ed52edd20259b2ef2c98f19a143ae3ec77ae2f53a6b1f000a9439c9f608",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "DNLI": {
       "nombre": "DNLI",
@@ -70,6 +69,30 @@
     "VKTX": {
       "nombre": "VKTX",
       "noticias": [
+        {
+          "ticker": "VKTX",
+          "titulo": "Viking Therapeutics, Inc. (VKTX) Registers a Bigger Fall Than the Market: Important Facts to Note",
+          "resumen": "The latest trading day saw Viking Therapeutics, Inc. (VKTX) settling at $29.52, representing a -1.44% change from its previous close.",
+          "fuente": "Yahoo",
+          "fecha": "16 Sep 2026 21:45 UTC",
+          "url": "https://finnhub.io/api/news?id=f5a0d1aa5ceb0961eda4547c365939c42e5de0782d70567912aa057b5ad1b054",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "What's Going On With the Dip in Viking Therapeutics Stock?",
+          "resumen": "Viking Therapeutics shares are dropping Tuesday amid a risk-off trade, though its longer-term uptrend and sector strength both remain intact.",
+          "fuente": "Benzinga",
+          "fecha": "15 Sep 2026 15:28 UTC",
+          "url": "https://finnhub.io/api/news?id=f63df1e999a422760e55ff272f450ce13f911692f2f2165440137045d96cb611",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/09/15/Viking-Therapeutics.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "VKTX",
           "titulo": "Can Viking Therapeutics Beat Big Pharma With Monthly Weight-Loss Shots? Here’s The Risk CEO Says Could Derail It",
@@ -105,30 +128,6 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "Will Morgan Stanley's NVO Downgrade Deepen Patent and Rival Woes?",
-          "resumen": "Novo faces a tougher growth outlook as Morgan Stanley downgrades the stock to Underweight, citing muted growth, patent risks and rising pressure from Lilly.",
-          "fuente": "Yahoo",
-          "fecha": "14 Sep 2026 14:37 UTC",
-          "url": "https://finnhub.io/api/news?id=5a14c35259c52ba7c2a147a44702b7b24a14222df871fcf09754d4c6af14fe59",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "Baron Global Opportunity Fund Q2 2026 Portfolio Activity",
-          "resumen": "Baron Global Opportunity Fund (the Fund) gained 26.7% (Institutional Shares) during the second quarter, compared to the 14.9% gain for the MSCI ACWI Index (the Index). Read more here.",
-          "fuente": "SeekingAlpha",
-          "fecha": "14 Sep 2026 12:19 UTC",
-          "url": "https://finnhub.io/api/news?id=c8785df4f7899efef2abb19514bd0dd756d78a264c63cb00667c004349c7477e",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2266615986/image_2266615986.jpg?io=getty-c-w1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -137,6 +136,18 @@
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
+        {
+          "ticker": "VRTX",
+          "titulo": "SION to Cut Workforce by Nearly Half After CF Study Failure, Stock Down",
+          "resumen": "Sionna set to reduce its workforce by 46% after SION-719 fails a key CF study, shifting focus to SION-451 + SION-2222.",
+          "fuente": "Yahoo",
+          "fecha": "16 Sep 2026 15:26 UTC",
+          "url": "https://finnhub.io/api/news?id=e8497402e100d80727a2574a900a148b893ca68055168e2218b5529478e1ea0b",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "VRTX",
           "titulo": "Will Vertex’s (VRTX) New CFO Elevation and Digital Focus Reframe Its Capital Allocation Narrative?",
@@ -184,18 +195,6 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Undercovered Dozen: Ares Capital, Grab, Lenovo, Rigetti And More",
-          "resumen": "Discover Seeking Alphaâs Undercovered Dozenâ12 under-the-radar stocks for fresh investment ideas.",
-          "fuente": "SeekingAlpha",
-          "fecha": "15 Sep 2026 13:19 UTC",
-          "url": "https://finnhub.io/api/news?id=b6c8911f00367ad639573dc67c3655a7b5c6861f93d18c550f14ee75fb4297c2",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1207255116/image_1207255116.jpg?io=getty-c-w1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -292,6 +291,18 @@
       "noticias": [
         {
           "ticker": "OCUL",
+          "titulo": "HC Wainwright & Co. Reiterates Buy on Ocular Therapeutix, Maintains $25 Price Target",
+          "resumen": "HC Wainwright &amp; Co.  analyst Yi Chen   reiterates Ocular Therapeutix (NASDAQ:OCUL) with a Buy and maintains $25 price target.",
+          "fuente": "Benzinga",
+          "fecha": "16 Sep 2026 06:24 UTC",
+          "url": "https://finnhub.io/api/news?id=9cd163ed2ed6d588b609b8c64971c6e4792bf1ba2ae53d2039f322a2072fa1b1",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "OCUL",
           "titulo": "Sector Update: Healthcare Stocks Fall Pre-Bell Tuesday",
           "resumen": "Healthcare stocks were falling pre-bell Tuesday, with the State Street Health Care Select Sector SPD",
           "fuente": "Yahoo",
@@ -328,17 +339,78 @@
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 4
     },
     "CAI": {
       "nombre": "CAI",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "CAI",
+          "titulo": "Cerenome Appoints Samantha Fowlkes as Vice President and Head of Commercial Sales, CNSide Diagnostics Division",
+          "resumen": "HOUSTON, Sept. 16, 2026 (GLOBE NEWSWIRE) -- CNSide Diagnostics, LLC, a wholly owned subsidiary of Cerenome, Inc. (Nasdaq: CNSY) (“Cerenome” or the “Company”), today announces the appointment of Samantha Fowlkes as Vice President Head of Commercial Sales. Samantha will lead the commercial expansion o",
+          "fuente": "Yahoo",
+          "fecha": "16 Sep 2026 11:30 UTC",
+          "url": "https://finnhub.io/api/news?id=5025d64aa5c5fdb56b689d19e136862e8cf30ca6cdddc83b6809ad5ccbbc2504",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "CAI",
+          "titulo": "Strength Seen in Revvity (RVTY): Can Its 9.1% Jump Turn into More Strength?",
+          "resumen": "Revvity (RVTY) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might not help the stock continue moving higher in the near term.",
+          "fuente": "Yahoo",
+          "fecha": "16 Sep 2026 09:14 UTC",
+          "url": "https://finnhub.io/api/news?id=03b1bbe1a346d39ced2120c20af628767c205f491c25a175a480c992424683c9",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "CAI",
+          "titulo": "Caris Life Sciences, Inc. (CAI) Soars 9.4%: Is Further Upside Left in the Stock?",
+          "resumen": "Caris Life Sciences, Inc. (CAI) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might not help the stock continue moving higher in the near term.",
+          "fuente": "Yahoo",
+          "fecha": "16 Sep 2026 07:51 UTC",
+          "url": "https://finnhub.io/api/news?id=7e7ad6a5aec069dbb25bc07a0e8e9be9c02ff2f82946db04666d81361a9db615",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "CAI",
+          "titulo": "10-Year Yield Tops 5%, Oil Storms Past $105: Stock Market Today",
+          "resumen": "The 10-year Treasury yield broke 5% for the first time since 2007 as WTI surged past $105 on Saudi pipeline outages, pressuring stocks ahead of the Fed.",
+          "fuente": "Benzinga",
+          "fecha": "15 Sep 2026 13:27 UTC",
+          "url": "https://finnhub.io/api/news?id=d1cab808ccf45cf13f1263e44cacc1adc587155103fca3659b6bbe4aa4db95f1",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/09/15/Stock-Market-Graph-Crashing-Down--Wall-S.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 4
     },
     "GPCR": {
       "nombre": "GPCR",
       "noticias": [
+        {
+          "ticker": "GPCR",
+          "titulo": "Structure Therapeutics Inc. (GPCR) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
+          "resumen": "Structure Therapeutics Inc. (GPCR) Morgan Stanley 24th Annual Global Healthcare Conference September 16, 2026 10:45 AM EDTCompany ParticipantsRaymond...",
+          "fuente": "SeekingAlpha",
+          "fecha": "16 Sep 2026 14:31 UTC",
+          "url": "https://finnhub.io/api/news?id=0e22e55a7ad3f3fdc011f72dcd4a6d98cb8b7cd5341b3c3a29c99073efbbbb1f",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "GPCR",
           "titulo": "Will Morgan Stanley's NVO Downgrade Deepen Patent and Rival Woes?",
@@ -353,30 +425,29 @@
         }
       ],
       "nivel": "azul",
-      "total": 1
+      "total": 2
     },
     "ABVX": {
       "nombre": "ABVX",
-      "noticias": [
-        {
-          "ticker": "ABVX",
-          "titulo": "Abivax Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call",
-          "resumen": "Abivax will report H1 earnings Sept. 21; analysts expect a $1.08 loss/share and $1.86M revenue.",
-          "fuente": "Benzinga",
-          "fecha": "14 Sep 2026 04:55 UTC",
-          "url": "https://finnhub.io/api/news?id=3631136f33831a11b81524cc8ba6809ea87a0a72bfc1b36e85ab37c0a03812fa",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/09/14/Analysts-Adjust-Progressive-Targets.jpg?width=2048&height=1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "VERA": {
       "nombre": "VERA",
       "noticias": [
+        {
+          "ticker": "VERA",
+          "titulo": "Vera Therapeutics (VERA) Says TRUTAKNA Met All Phase III Endpoints",
+          "resumen": "Vera Therapeutics (NasdaqGM: VERA) reported that TRUTAKNA met all prespecified endpoints in the final Phase III ORIGIN 3 trial for IgA nephropathy. The company said the study showed prevention of disease progression and stabilization of kidney function alongside a favorable safety profile. Managemen",
+          "fuente": "Yahoo",
+          "fecha": "17 Sep 2026 06:12 UTC",
+          "url": "https://finnhub.io/api/news?id=c71d3e3a6666469e17c08ab4a21984bf5a724bd8f24ee8186dbc3d6193bd89cf",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "VERA",
           "titulo": "Biotech Midweek Pulse: XBI Loses Steam After Hot 2026 Run — Here Are The Stocks And Catalysts To Watch Next",
@@ -424,18 +495,6 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "VERA",
-          "titulo": "Why Vera Therapeutics Stock Is Jumping on New Kidney Drug Trial Results",
-          "resumen": "Vera Therapeutics takes a step toward securing full Food and Drug Administration approval for its injectable kidney drug, Trutakna.",
-          "fuente": "Yahoo",
-          "fecha": "15 Sep 2026 16:03 UTC",
-          "url": "https://finnhub.io/api/news?id=7ab9eaf4d12e2187ef720cd80e4d8448a9d4a157bfc70e66bff0c843f18b4e98",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
@@ -468,38 +527,61 @@
     },
     "SENS": {
       "nombre": "SENS",
-      "noticias": [
-        {
-          "ticker": "SENS",
-          "titulo": "Senseonics Announces Strategic Partnership with Beta Bionics to Integrate Eversense® 365 with the iLet® Bionic Pancreas",
-          "resumen": "Pairing year-long continuous glucose monitoring with automated insulin delivery to further simplify diabetes management for patients Brings Eversense 365 to the growing community of iLet Bionic Pancreas users Plan for commercial launch of the integrated system in Q4 2026 GERMANTOWN, Md., Sept. 14, 2",
-          "fuente": "Yahoo",
-          "fecha": "14 Sep 2026 11:00 UTC",
-          "url": "https://finnhub.io/api/news?id=e4b557149ec75d876f0ce1db10902a25bb2ede93c32caebb50f055c89ed0c84c",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "SENS",
-          "titulo": "Senseonics Partners With Beta Bionics To Integrate Its Eversense 365 CGM With Beta Bionics’ iLet Bionic Pancreas Automated Insulin Delivery System",
-          "resumen": "The companies are collaborating to integrate Eversense® 365 CGM with Beta Bionics’ iLet® Bionic Pancreas automated insulin delivery (AID) system designed to simplify diabetes management. The integrated device will aim",
-          "fuente": "Benzinga",
-          "fecha": "14 Sep 2026 07:05 UTC",
-          "url": "https://finnhub.io/api/news?id=b85440f9a2771192d74c1dd7706de2638ce518e95b9bf24c21fbf1d11811ca37",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 2
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "INSM": {
       "nombre": "INSM",
       "noticias": [
+        {
+          "ticker": "INSM",
+          "titulo": "Tracking Baker Brothers' Portfolio: Q2 2026 Update",
+          "resumen": "",
+          "fuente": "SeekingAlpha",
+          "fecha": "16 Sep 2026 19:46 UTC",
+          "url": "https://finnhub.io/api/news?id=b5d523235573dcfeba3a034b33cd96fff4bafdc2078a47f853a6a557590b0058",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "The Fund Exited Insmed (INSM) After the Investment Thesis Played Out",
+          "resumen": "Parnassus Investments, an investment management company, released the “Parnassus Growth Equity Fund” second-quarter 2026 investor letter. The letter can be downloaded here. During the quarter, the Fund (Investor Shares) returned 17.49% (net of fees), outperforming the Russell 1000 Growth Index’s 16.",
+          "fuente": "Yahoo",
+          "fecha": "16 Sep 2026 14:40 UTC",
+          "url": "https://finnhub.io/api/news?id=0dbf73b4b82646d01f95c3a018e66598c079b42b0daea1409d9a8391aa49afb8",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "Insmed Expands Community Impact During Fifth Annual Global Day of Good",
+          "resumen": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today holds its fifth annual Global Day of Good, a company-wide day of service during which employees",
+          "fuente": "Yahoo",
+          "fecha": "16 Sep 2026 11:00 UTC",
+          "url": "https://finnhub.io/api/news?id=0dbd1d772d60670892e0320fa8f2b9ffe059650f6e1b7a714b5c50ece976c49c",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "Roth Capital Reiterates Buy on Insmed, Lowers Price Target to $198",
+          "resumen": "Roth Capital  analyst Adam Walsh   reiterates Insmed (NASDAQ:INSM) with a Buy and lowers the price target from $212 to $198.",
+          "fuente": "Benzinga",
+          "fecha": "15 Sep 2026 12:40 UTC",
+          "url": "https://finnhub.io/api/news?id=d35a5ea79563559778145059924fc0151a1e0f04073f3024ff92ae825b957a88",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "INSM",
           "titulo": "Insmed (NASDAQ:INSM) Sets Up for Breakout With Strong Technicals",
@@ -511,67 +593,19 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "HQL: The Rally That Makes Growth Harder (Rating Downgrade)",
-          "resumen": "HQL downgraded to Hold after big rally; 12.5% yield, NAV discount and payout risks weigh on upside.",
-          "fuente": "SeekingAlpha",
-          "fecha": "15 Sep 2026 06:30 UTC",
-          "url": "https://finnhub.io/api/news?id=8d58a3a56fd98eb83a4827890b1b1f2b2c48299e9cbeac78bed4175c21845830",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2193239681/image_2193239681.jpg?io=getty-c-w1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "Insmed Incorporated (INSM) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
-          "resumen": "Insmed Incorporated (INSM) Morgan Stanley 24th Annual Global Healthcare Conference September 14, 2026 2:35 PM EDTCompany ParticipantsWilliam Lewis -...",
-          "fuente": "SeekingAlpha",
-          "fecha": "14 Sep 2026 20:31 UTC",
-          "url": "https://finnhub.io/api/news?id=d600177c835ef5a991647cc0f41c9f448fca3d06825632088359e205c935a69c",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "azul",
-      "total": 3
+      "total": 5
     }
   },
   "resumen": {
-    "total_noticias": 35,
-    "tickers_con_noticias": 14,
+    "total_noticias": 40,
+    "tickers_con_noticias": 12,
     "alertas_urgentes": 8,
-    "sin_noticias": 3
+    "sin_noticias": 5
   },
   "todas_noticias": [
-    {
-      "ticker": "ABVX",
-      "titulo": "Abivax Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call",
-      "resumen": "Abivax will report H1 earnings Sept. 21; analysts expect a $1.08 loss/share and $1.86M revenue.",
-      "fuente": "Benzinga",
-      "fecha": "14 Sep 2026 04:55 UTC",
-      "url": "https://finnhub.io/api/news?id=3631136f33831a11b81524cc8ba6809ea87a0a72bfc1b36e85ab37c0a03812fa",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/09/14/Analysts-Adjust-Progressive-Targets.jpg?width=2048&height=1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "SENS",
-      "titulo": "Senseonics Announces Strategic Partnership with Beta Bionics to Integrate Eversense® 365 with the iLet® Bionic Pancreas",
-      "resumen": "Pairing year-long continuous glucose monitoring with automated insulin delivery to further simplify diabetes management for patients Brings Eversense 365 to the growing community of iLet Bionic Pancreas users Plan for commercial launch of the integrated system in Q4 2026 GERMANTOWN, Md., Sept. 14, 2",
-      "fuente": "Yahoo",
-      "fecha": "14 Sep 2026 11:00 UTC",
-      "url": "https://finnhub.io/api/news?id=e4b557149ec75d876f0ce1db10902a25bb2ede93c32caebb50f055c89ed0c84c",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "VKTX",
       "titulo": "Viking Therapeutics Advances VK2735 Obesity Drug Into Phase 3 After 15% Weight Loss",
@@ -658,18 +692,6 @@
     },
     {
       "ticker": "VERA",
-      "titulo": "Why Vera Therapeutics Stock Is Jumping on New Kidney Drug Trial Results",
-      "resumen": "Vera Therapeutics takes a step toward securing full Food and Drug Administration approval for its injectable kidney drug, Trutakna.",
-      "fuente": "Yahoo",
-      "fecha": "15 Sep 2026 16:03 UTC",
-      "url": "https://finnhub.io/api/news?id=7ab9eaf4d12e2187ef720cd80e4d8448a9d4a157bfc70e66bff0c843f18b4e98",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VERA",
       "titulo": "Vera set up for full approval for Trutakna in IgAN with Phase III win",
       "resumen": "Vera’s Trutakna was granted FDA accelerated approval in IgAN based on 36-week data.",
       "fuente": "Yahoo",
@@ -693,40 +715,52 @@
       "badge": "🔴"
     },
     {
-      "ticker": "SENS",
-      "titulo": "Senseonics Partners With Beta Bionics To Integrate Its Eversense 365 CGM With Beta Bionics’ iLet Bionic Pancreas Automated Insulin Delivery System",
-      "resumen": "The companies are collaborating to integrate Eversense® 365 CGM with Beta Bionics’ iLet® Bionic Pancreas automated insulin delivery (AID) system designed to simplify diabetes management. The integrated device will aim",
-      "fuente": "Benzinga",
-      "fecha": "14 Sep 2026 07:05 UTC",
-      "url": "https://finnhub.io/api/news?id=b85440f9a2771192d74c1dd7706de2638ce518e95b9bf24c21fbf1d11811ca37",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "ticker": "CAI",
+      "titulo": "Caris Life Sciences, Inc. (CAI) Soars 9.4%: Is Further Upside Left in the Stock?",
+      "resumen": "Caris Life Sciences, Inc. (CAI) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might not help the stock continue moving higher in the near term.",
+      "fuente": "Yahoo",
+      "fecha": "16 Sep 2026 07:51 UTC",
+      "url": "https://finnhub.io/api/news?id=7e7ad6a5aec069dbb25bc07a0e8e9be9c02ff2f82946db04666d81361a9db615",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "VKTX",
-      "titulo": "Baron Global Opportunity Fund Q2 2026 Portfolio Activity",
-      "resumen": "Baron Global Opportunity Fund (the Fund) gained 26.7% (Institutional Shares) during the second quarter, compared to the 14.9% gain for the MSCI ACWI Index (the Index). Read more here.",
-      "fuente": "SeekingAlpha",
-      "fecha": "14 Sep 2026 12:19 UTC",
-      "url": "https://finnhub.io/api/news?id=c8785df4f7899efef2abb19514bd0dd756d78a264c63cb00667c004349c7477e",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2266615986/image_2266615986.jpg?io=getty-c-w1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "ticker": "CAI",
+      "titulo": "Strength Seen in Revvity (RVTY): Can Its 9.1% Jump Turn into More Strength?",
+      "resumen": "Revvity (RVTY) was a big mover last session on higher-than-average trading volume. The latest trend in earnings estimate revisions might not help the stock continue moving higher in the near term.",
+      "fuente": "Yahoo",
+      "fecha": "16 Sep 2026 09:14 UTC",
+      "url": "https://finnhub.io/api/news?id=03b1bbe1a346d39ced2120c20af628767c205f491c25a175a480c992424683c9",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "DYN",
-      "titulo": "Dyne Therapeutics, Inc. (DYN) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
-      "resumen": "Dyne Therapeutics, Inc. (DYN) Morgan Stanley 24th Annual Global Healthcare Conference September 14, 2026 9:15 AM EDTCompany ParticipantsJohn Cox - CEO,...",
-      "fuente": "SeekingAlpha",
-      "fecha": "14 Sep 2026 12:21 UTC",
-      "url": "https://finnhub.io/api/news?id=bc0e3ed52edd20259b2ef2c98f19a143ae3ec77ae2f53a6b1f000a9439c9f608",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "ticker": "VERA",
+      "titulo": "Vera Therapeutics (VERA) Says TRUTAKNA Met All Phase III Endpoints",
+      "resumen": "Vera Therapeutics (NasdaqGM: VERA) reported that TRUTAKNA met all prespecified endpoints in the final Phase III ORIGIN 3 trial for IgA nephropathy. The company said the study showed prevention of disease progression and stabilization of kidney function alongside a favorable safety profile. Managemen",
+      "fuente": "Yahoo",
+      "fecha": "17 Sep 2026 06:12 UTC",
+      "url": "https://finnhub.io/api/news?id=c71d3e3a6666469e17c08ab4a21984bf5a724bd8f24ee8186dbc3d6193bd89cf",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "ARGENX SE - ADR (NASDAQ:ARGX) Meets Minervini Trend Template and High Growth Momentum",
+      "resumen": "ARGX passes Minervini’s Trend Template plus High Growth Momentum, with strong EPS/revenue growth, high relative strength, and a Stage 2 uptrend.",
+      "fuente": "ChartMill",
+      "fecha": "17 Sep 2026 09:40 UTC",
+      "url": "https://finnhub.io/api/news?id=01860f539dbc31547378b437108ff59c74ff67813d3f9957bb79644c868b6362",
+      "imagen": "https://www.chartmill.com/images/uploads/minervini_news_8825971f4b.webp",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "ARGX",
@@ -736,18 +770,6 @@
       "fecha": "14 Sep 2026 14:11 UTC",
       "url": "https://finnhub.io/api/news?id=56d99a32a6cfee85a0e4c2e9d4189fdb3d59b116bce4fdcbbb3874df5c604a04",
       "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "Will Morgan Stanley's NVO Downgrade Deepen Patent and Rival Woes?",
-      "resumen": "Novo faces a tougher growth outlook as Morgan Stanley downgrades the stock to Underweight, citing muted growth, patent risks and rising pressure from Lilly.",
-      "fuente": "Yahoo",
-      "fecha": "14 Sep 2026 14:37 UTC",
-      "url": "https://finnhub.io/api/news?id=5a14c35259c52ba7c2a147a44702b7b24a14222df871fcf09754d4c6af14fe59",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
@@ -813,18 +835,6 @@
       "badge": "🔵"
     },
     {
-      "ticker": "INSM",
-      "titulo": "Insmed Incorporated (INSM) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
-      "resumen": "Insmed Incorporated (INSM) Morgan Stanley 24th Annual Global Healthcare Conference September 14, 2026 2:35 PM EDTCompany ParticipantsWilliam Lewis -...",
-      "fuente": "SeekingAlpha",
-      "fecha": "14 Sep 2026 20:31 UTC",
-      "url": "https://finnhub.io/api/news?id=d600177c835ef5a991647cc0f41c9f448fca3d06825632088359e205c935a69c",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
       "ticker": "VKTX",
       "titulo": "Can Viking Therapeutics Beat Big Pharma With Monthly Weight-Loss Shots? Here’s The Risk CEO Says Could Derail It",
       "resumen": "CEO Brian Lian said monthly VK2735 must preserve weight loss without restarting nausea, vomiting and other gastrointestinal effects.",
@@ -832,18 +842,6 @@
       "fecha": "15 Sep 2026 06:03 UTC",
       "url": "https://finnhub.io/api/news?id=a0553eb56c214b24d155315ca4e00bcf76d288309a8f36ae6fe4c3c886ba7785",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "HQL: The Rally That Makes Growth Harder (Rating Downgrade)",
-      "resumen": "HQL downgraded to Hold after big rally; 12.5% yield, NAV discount and payout risks weigh on upside.",
-      "fuente": "SeekingAlpha",
-      "fecha": "15 Sep 2026 06:30 UTC",
-      "url": "https://finnhub.io/api/news?id=8d58a3a56fd98eb83a4827890b1b1f2b2c48299e9cbeac78bed4175c21845830",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2193239681/image_2193239681.jpg?io=getty-c-w1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
@@ -885,6 +883,18 @@
       "badge": "🔵"
     },
     {
+      "ticker": "INSM",
+      "titulo": "Roth Capital Reiterates Buy on Insmed, Lowers Price Target to $198",
+      "resumen": "Roth Capital  analyst Adam Walsh   reiterates Insmed (NASDAQ:INSM) with a Buy and lowers the price target from $212 to $198.",
+      "fuente": "Benzinga",
+      "fecha": "15 Sep 2026 12:40 UTC",
+      "url": "https://finnhub.io/api/news?id=d35a5ea79563559778145059924fc0151a1e0f04073f3024ff92ae825b957a88",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
       "ticker": "OCUL",
       "titulo": "Sector Update: Healthcare Stocks Fall Pre-Bell Tuesday",
       "resumen": "Healthcare stocks were falling pre-bell Tuesday, with the State Street Health Care Select Sector SPD",
@@ -897,13 +907,25 @@
       "badge": "🔵"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "Undercovered Dozen: Ares Capital, Grab, Lenovo, Rigetti And More",
-      "resumen": "Discover Seeking Alphaâs Undercovered Dozenâ12 under-the-radar stocks for fresh investment ideas.",
-      "fuente": "SeekingAlpha",
-      "fecha": "15 Sep 2026 13:19 UTC",
-      "url": "https://finnhub.io/api/news?id=b6c8911f00367ad639573dc67c3655a7b5c6861f93d18c550f14ee75fb4297c2",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1207255116/image_1207255116.jpg?io=getty-c-w1536",
+      "ticker": "CAI",
+      "titulo": "10-Year Yield Tops 5%, Oil Storms Past $105: Stock Market Today",
+      "resumen": "The 10-year Treasury yield broke 5% for the first time since 2007 as WTI surged past $105 on Saudi pipeline outages, pressuring stocks ahead of the Fed.",
+      "fuente": "Benzinga",
+      "fecha": "15 Sep 2026 13:27 UTC",
+      "url": "https://finnhub.io/api/news?id=d1cab808ccf45cf13f1263e44cacc1adc587155103fca3659b6bbe4aa4db95f1",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/09/15/Stock-Market-Graph-Crashing-Down--Wall-S.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "What's Going On With the Dip in Viking Therapeutics Stock?",
+      "resumen": "Viking Therapeutics shares are dropping Tuesday amid a risk-off trade, though its longer-term uptrend and sector strength both remain intact.",
+      "fuente": "Benzinga",
+      "fecha": "15 Sep 2026 15:28 UTC",
+      "url": "https://finnhub.io/api/news?id=f63df1e999a422760e55ff272f450ce13f911692f2f2165440137045d96cb611",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/09/15/Viking-Therapeutics.jpg?width=2048&height=1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
@@ -963,6 +985,102 @@
       "fuente": "Yahoo",
       "fecha": "16 Sep 2026 01:51 UTC",
       "url": "https://finnhub.io/api/news?id=e3c6968e4c4a4115a4bb555c4a25b58235b8605068ae87a606228577c2e3c2eb",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "OCUL",
+      "titulo": "HC Wainwright & Co. Reiterates Buy on Ocular Therapeutix, Maintains $25 Price Target",
+      "resumen": "HC Wainwright &amp; Co.  analyst Yi Chen   reiterates Ocular Therapeutix (NASDAQ:OCUL) with a Buy and maintains $25 price target.",
+      "fuente": "Benzinga",
+      "fecha": "16 Sep 2026 06:24 UTC",
+      "url": "https://finnhub.io/api/news?id=9cd163ed2ed6d588b609b8c64971c6e4792bf1ba2ae53d2039f322a2072fa1b1",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Insmed Expands Community Impact During Fifth Annual Global Day of Good",
+      "resumen": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today holds its fifth annual Global Day of Good, a company-wide day of service during which employees",
+      "fuente": "Yahoo",
+      "fecha": "16 Sep 2026 11:00 UTC",
+      "url": "https://finnhub.io/api/news?id=0dbd1d772d60670892e0320fa8f2b9ffe059650f6e1b7a714b5c50ece976c49c",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "CAI",
+      "titulo": "Cerenome Appoints Samantha Fowlkes as Vice President and Head of Commercial Sales, CNSide Diagnostics Division",
+      "resumen": "HOUSTON, Sept. 16, 2026 (GLOBE NEWSWIRE) -- CNSide Diagnostics, LLC, a wholly owned subsidiary of Cerenome, Inc. (Nasdaq: CNSY) (“Cerenome” or the “Company”), today announces the appointment of Samantha Fowlkes as Vice President Head of Commercial Sales. Samantha will lead the commercial expansion o",
+      "fuente": "Yahoo",
+      "fecha": "16 Sep 2026 11:30 UTC",
+      "url": "https://finnhub.io/api/news?id=5025d64aa5c5fdb56b689d19e136862e8cf30ca6cdddc83b6809ad5ccbbc2504",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "GPCR",
+      "titulo": "Structure Therapeutics Inc. (GPCR) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
+      "resumen": "Structure Therapeutics Inc. (GPCR) Morgan Stanley 24th Annual Global Healthcare Conference September 16, 2026 10:45 AM EDTCompany ParticipantsRaymond...",
+      "fuente": "SeekingAlpha",
+      "fecha": "16 Sep 2026 14:31 UTC",
+      "url": "https://finnhub.io/api/news?id=0e22e55a7ad3f3fdc011f72dcd4a6d98cb8b7cd5341b3c3a29c99073efbbbb1f",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "The Fund Exited Insmed (INSM) After the Investment Thesis Played Out",
+      "resumen": "Parnassus Investments, an investment management company, released the “Parnassus Growth Equity Fund” second-quarter 2026 investor letter. The letter can be downloaded here. During the quarter, the Fund (Investor Shares) returned 17.49% (net of fees), outperforming the Russell 1000 Growth Index’s 16.",
+      "fuente": "Yahoo",
+      "fecha": "16 Sep 2026 14:40 UTC",
+      "url": "https://finnhub.io/api/news?id=0dbf73b4b82646d01f95c3a018e66598c079b42b0daea1409d9a8391aa49afb8",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "SION to Cut Workforce by Nearly Half After CF Study Failure, Stock Down",
+      "resumen": "Sionna set to reduce its workforce by 46% after SION-719 fails a key CF study, shifting focus to SION-451 + SION-2222.",
+      "fuente": "Yahoo",
+      "fecha": "16 Sep 2026 15:26 UTC",
+      "url": "https://finnhub.io/api/news?id=e8497402e100d80727a2574a900a148b893ca68055168e2218b5529478e1ea0b",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Tracking Baker Brothers' Portfolio: Q2 2026 Update",
+      "resumen": "",
+      "fuente": "SeekingAlpha",
+      "fecha": "16 Sep 2026 19:46 UTC",
+      "url": "https://finnhub.io/api/news?id=b5d523235573dcfeba3a034b33cd96fff4bafdc2078a47f853a6a557590b0058",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Viking Therapeutics, Inc. (VKTX) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "resumen": "The latest trading day saw Viking Therapeutics, Inc. (VKTX) settling at $29.52, representing a -1.44% change from its previous close.",
+      "fuente": "Yahoo",
+      "fecha": "16 Sep 2026 21:45 UTC",
+      "url": "https://finnhub.io/api/news?id=f5a0d1aa5ceb0961eda4547c365939c42e5de0782d70567912aa057b5ad1b054",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",

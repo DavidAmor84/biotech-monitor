@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 16/09/2026 12:26 | Período: últimos 7 días
-Desde: 2026-09-09 → Hasta: 2026-09-16
+Generado: 17/09/2026 12:26 | Período: últimos 7 días
+Desde: 2026-09-10 → Hasta: 2026-09-17
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 6 filings | 🔴 0 | 🟢 1 | 🟡 2 | 🔵 3 | ✅ 12 sin novedad
+RESUMEN: 5 filings | 🔴 0 | 🟢 1 | 🟡 1 | 🔵 3 | ✅ 13 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (1)
@@ -21,11 +21,7 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [SNDX] Sin novedades
   ✅ [ARGX] Sin novedades
   ✅ [DYN] Sin novedades
-
-  🟡 [DNLI] Denali Therapeutics Inc. — 1 filing(s)
-     🟡 MEDIA 4 | 2026-09-09 | Chin Peter Scott (Chief Medical Officer) → Venta 1,654 acciones @ $22.29 | Post: 204,538 | Rutinaria/RSU/impuestos
-     Insider: Chin Peter Scott (Chief Medical Officer) → Venta 1,654 acciones @ $22.29 | Post: 204,538 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1714899/000212475526000007/xslF345X06/wk-form4_1788986671.xml
+  ✅ [DNLI] Sin novedades
   ✅ [VKTX] Sin novedades
 
   🔵 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 1 filing(s)

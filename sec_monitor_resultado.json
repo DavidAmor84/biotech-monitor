@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "16/09/2026 12:26",
+  "generado": "17/09/2026 12:26",
   "periodo_dias": 7,
-  "desde": "2026-09-09",
-  "hasta": "2026-09-16",
+  "desde": "2026-09-10",
+  "hasta": "2026-09-17",
   "resumen": {
-    "total_filings": 6,
+    "total_filings": 5,
     "alertas_rojas": 0,
     "alertas_verdes": 1,
-    "alertas_amarillas": 2,
+    "alertas_amarillas": 1,
     "alertas_azules": 3,
-    "sin_novedad": 12
+    "sin_novedad": 13
   },
   "tickers": {
     "SNDX": {
@@ -52,36 +52,9 @@
       "cik": "0001714899",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-09-09",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Chin Peter Scott (Chief Medical Officer) → Venta 1,654 acciones @ $22.29 | Post: 204,538 | Rutinaria/RSU/impuestos",
-          "detalle": "FORM 4",
-          "empresa_sec": "Denali Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1714899/000212475526000007/xslF345X06/wk-form4_1788986671.xml",
-          "form4_detail": {
-            "insider_nombre": "Chin Peter Scott",
-            "insider_cargo": "Chief Medical Officer",
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "1654",
-            "transaccion_precio": "22.29",
-            "transaccion_fecha": "2026-09-04",
-            "acciones_post": "204538",
-            "footnotes": "Shares sold to satisfy the tax obligations by the Reporting Person in connection with the settlement of previously vested restricted stock units. The sale price reported in column 4 of Table I represents the weighted average sale price of the shares ranging from $22.28 to $22.29 per share. Upon request by the Commission staff, the Issuer, or a\nsecurity holder of the Issuer, the Reporting Person will provide full information regarding the number of shares sold at each separate price. Includes 142,845 Unvested RSU's Includes 1,790 shares acquired under the ESPP Purchase on June 1, 2026.",
-            "es_rutinaria": true,
-            "resumen_detail": "Chin Peter Scott (Chief Medical Officer) → Venta 1,654 acciones @ $22.29 | Post: 204,538 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "VKTX": {
@@ -526,34 +499,6 @@
         "footnotes": "Restricted stock unit award that vests in installments beginning on 09/08/2027.",
         "es_rutinaria": true,
         "resumen_detail": "van Grunsven Jasper (EVP,   CP and NPPO) → Concesión 8,682 acciones @ $0.00 | Post: 8,682 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "DNLI",
-      "nombre": "Denali Therapeutics Inc.",
-      "form": "4",
-      "fecha": "2026-09-09",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Chin Peter Scott (Chief Medical Officer) → Venta 1,654 acciones @ $22.29 | Post: 204,538 | Rutinaria/RSU/impuestos",
-      "detalle": "FORM 4",
-      "empresa_sec": "Denali Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1714899/000212475526000007/xslF345X06/wk-form4_1788986671.xml",
-      "form4_detail": {
-        "insider_nombre": "Chin Peter Scott",
-        "insider_cargo": "Chief Medical Officer",
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "1654",
-        "transaccion_precio": "22.29",
-        "transaccion_fecha": "2026-09-04",
-        "acciones_post": "204538",
-        "footnotes": "Shares sold to satisfy the tax obligations by the Reporting Person in connection with the settlement of previously vested restricted stock units. The sale price reported in column 4 of Table I represents the weighted average sale price of the shares ranging from $22.28 to $22.29 per share. Upon request by the Commission staff, the Issuer, or a\nsecurity holder of the Issuer, the Reporting Person will provide full information regarding the number of shares sold at each separate price. Includes 142,845 Unvested RSU's Includes 1,790 shares acquired under the ESPP Purchase on June 1, 2026.",
-        "es_rutinaria": true,
-        "resumen_detail": "Chin Peter Scott (Chief Medical Officer) → Venta 1,654 acciones @ $22.29 | Post: 204,538 | Rutinaria/RSU/impuestos"
       },
       "8k_detail": null,
       "10q_detail": null,

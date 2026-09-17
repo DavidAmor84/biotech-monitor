@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "16/09/2026 13:38",
-  "fecha": "2026-09-16",
+  "generado": "17/09/2026 13:40",
+  "fecha": "2026-09-17",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -733,14 +733,7 @@
           "ventana": "2026-2027",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2026-03-18 → 2026-09-16"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1607,7 +1600,7 @@
           "study_completion_date": "2030-09",
           "study_completion_type": "ESTIMATED",
           "start_date": "2025-08-22",
-          "last_update_posted": "2026-08-26",
+          "last_update_posted": "2026-09-17",
           "conditions": [
             "Chronic Inflammatory Demyelinating Polyneuropathy",
             "CIDP",
@@ -1647,7 +1640,14 @@
           "ventana": "2027-2030",
           "monitorizar": true,
           "peso_importancia": 7,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-08-26 → 2026-09-17"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1847,14 +1847,7 @@
           "ventana": "2030",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2026-08-14 → 2026-09-16"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2461,14 +2454,7 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2026-03-18 → 2026-09-16"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT04065399"
     },
     {
@@ -2672,6 +2658,33 @@
       "url": "https://clinicaltrials.gov/study/NCT06298552"
     },
     {
+      "ticker": "ARGX",
+      "nct": "NCT06920004",
+      "nombre": "emvigorate Ph3 — empasiprubart vs IVIg — CIDP head-to-head",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "RECRUITING",
+      "primary_completion_date": "2027-09",
+      "mensaje": "Reclutando",
+      "prioridad": "media",
+      "estrellas": "⭐⭐",
+      "tipo": "pivotal",
+      "catalizador": "datos Phase 3",
+      "ventana": "2027-2030",
+      "peso_importancia": 7,
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-08-26 → 2026-09-17"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06920004"
+    },
+    {
       "ticker": "DNLI",
       "nct": "NCT05371613",
       "nombre": "COMPASS Ph2/3 — tividenofusp alfa (DNL310) — Hunter MPS II",
@@ -2708,14 +2721,7 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2026-08-14 → 2026-09-16"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT07052903"
     },
     {

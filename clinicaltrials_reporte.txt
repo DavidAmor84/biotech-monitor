@@ -1,8 +1,8 @@
 ====================================================================================
 CLINICALTRIALS MONITOR v9.3 · Modelo Biotech
-Generado: 17/09/2026 13:40
+Generado: 18/09/2026 13:03
 ====================================================================================
-RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 0 | 🔵 29 | Errores API: 0
+RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 1 | 🔵 28 | Errores API: 0
 
 ------------------------------------------------------------------------------------
 DETALLE POR EMPRESA
@@ -156,7 +156,7 @@ DETALLE POR EMPRESA
      Last update posted: 2026-09-10
      → https://clinicaltrials.gov/study/NCT05507216
 
-🔵 [ALNY] · Score relevancia: 28
+🟡 [ALNY] · Score relevancia: 28
   🔵 ⭐⭐⭐ TRITON-CM Ph3 — nucresiran — ATTR-CM | Prioridad: alta | Validación: OK
      NCT: NCT07052903 | Status: Reclutando | Tipo: pivotal
      Catalizador: ATTR-CM Phase 3 | Ventana: 2030
@@ -167,15 +167,15 @@ DETALLE POR EMPRESA
      Study completion: 2032-11-30 ESTIMATED
      Last update posted: 2026-09-16
      → https://clinicaltrials.gov/study/NCT07052903
-  🔵 ⭐⭐ ZENITH Ph3 CVOT — zilebesiran — hipertensión | Prioridad: media | Validación: OK
+  🟡 ⭐⭐ ZENITH Ph3 CVOT — zilebesiran — hipertensión | Prioridad: media | Validación: OK
      NCT: NCT07181109 | Status: Reclutando | Tipo: cvot
      Catalizador: CVOT / MACE endpoint | Ventana: 2030
      Sponsor: Alnylam Pharmaceuticals
      Phase: PHASE3
      Enrollment: 11000
-     Primary completion: 2030-09-30 ESTIMATED
-     Study completion: 2030-09-30 ESTIMATED
-     Last update posted: 2026-08-19
+     Primary completion: 2030-09-23 ESTIMATED
+     Study completion: 2030-09-23 ESTIMATED
+     Last update posted: 2026-09-18
      → https://clinicaltrials.gov/study/NCT07181109
   🔵 ⭐⭐ TRITON-PN Ph3 — nucresiran — hATTR-PN | Prioridad: media | Validación: OK
      NCT: NCT07223203 | Status: Reclutando | Tipo: pivotal
@@ -195,7 +195,7 @@ DETALLE POR EMPRESA
      Enrollment: 210
      Primary completion: 2027-08-09 ESTIMATED
      Study completion: 2029-12-14 ESTIMATED
-     Last update posted: 2026-09-03
+     Last update posted: 2026-09-18
      → https://clinicaltrials.gov/study/NCT06393712
 
 🔵 [VRTX] · Score relevancia: 24

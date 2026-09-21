@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 18/09/2026 12:05 | Período: últimos 7 días
-Desde: 2026-09-11 → Hasta: 2026-09-18
+Generado: 21/09/2026 13:40 | Período: últimos 7 días
+Desde: 2026-09-14 → Hasta: 2026-09-21
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 6 filings | 🔴 0 | 🟢 1 | 🟡 1 | 🔵 4 | ✅ 14 sin novedad
+RESUMEN: 5 filings | 🔴 0 | 🟢 1 | 🟡 0 | 🔵 4 | ✅ 15 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (1)
@@ -49,11 +49,7 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [ACRV] Sin novedades
   ✅ [TARA] Sin novedades
   ✅ [SENS] Sin novedades
-
-  🟡 [INSM] INSMED Inc — 1 filing(s)
-     🟡 MEDIA 4 | 2026-09-11 | Brennan David R (Director) → Venta 25,000 acciones @ $124.00 | Post: 39,238
-     Insider: Brennan David R (Director) → Venta 25,000 acciones @ $124.00 | Post: 39,238
-     → https://www.sec.gov/Archives/edgar/data/1104506/000160930526000009/xslF345X06/wk-form4_1789157083.xml
+  ✅ [INSM] Sin novedades
   ⚪ [NWL] Sin CIK SEC
 
 ──────────────────────────────────────────────────

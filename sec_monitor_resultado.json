@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "18/09/2026 12:05",
+  "generado": "21/09/2026 13:40",
   "periodo_dias": 7,
-  "desde": "2026-09-11",
-  "hasta": "2026-09-18",
+  "desde": "2026-09-14",
+  "hasta": "2026-09-21",
   "resumen": {
-    "total_filings": 6,
+    "total_filings": 5,
     "alertas_rojas": 0,
     "alertas_verdes": 1,
-    "alertas_amarillas": 1,
+    "alertas_amarillas": 0,
     "alertas_azules": 4,
-    "sin_novedad": 14
+    "sin_novedad": 15
   },
   "tickers": {
     "SNDX": {
@@ -323,36 +323,9 @@
       "cik": "0001104506",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-09-11",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Brennan David R (Director) → Venta 25,000 acciones @ $124.00 | Post: 39,238",
-          "detalle": "FORM 4",
-          "empresa_sec": "INSMED Inc",
-          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000160930526000009/xslF345X06/wk-form4_1789157083.xml",
-          "form4_detail": {
-            "insider_nombre": "Brennan David R",
-            "insider_cargo": "Director",
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "25000",
-            "transaccion_precio": "124",
-            "transaccion_fecha": "2026-09-09",
-            "acciones_post": "39238",
-            "footnotes": null,
-            "es_rutinaria": false,
-            "resumen_detail": "Brennan David R (Director) → Venta 25,000 acciones @ $124.00 | Post: 39,238"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "NWL": {
@@ -524,34 +497,6 @@
         "footnotes": "1/4 of the shares subject to the option vested on March 9, 2022, and 1/48 of the shares vest monthly thereafter.",
         "es_rutinaria": false,
         "resumen_detail": "Young Joseph R (SVP, FINANCE, CHIEF ACCT OFFCR) → Ejercicio opción 5,000 acciones @ $3.94 | Post: 80,754"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "INSM",
-      "nombre": "INSMED Inc",
-      "form": "4",
-      "fecha": "2026-09-11",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Brennan David R (Director) → Venta 25,000 acciones @ $124.00 | Post: 39,238",
-      "detalle": "FORM 4",
-      "empresa_sec": "INSMED Inc",
-      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000160930526000009/xslF345X06/wk-form4_1789157083.xml",
-      "form4_detail": {
-        "insider_nombre": "Brennan David R",
-        "insider_cargo": "Director",
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "25000",
-        "transaccion_precio": "124",
-        "transaccion_fecha": "2026-09-09",
-        "acciones_post": "39238",
-        "footnotes": null,
-        "es_rutinaria": false,
-        "resumen_detail": "Brennan David R (Director) → Venta 25,000 acciones @ $124.00 | Post: 39,238"
       },
       "8k_detail": null,
       "10q_detail": null,

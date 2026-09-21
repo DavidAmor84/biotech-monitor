@@ -1,8 +1,8 @@
 ====================================================================================
 CLINICALTRIALS MONITOR v9.3 · Modelo Biotech
-Generado: 18/09/2026 13:03
+Generado: 21/09/2026 15:14
 ====================================================================================
-RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 1 | 🔵 28 | Errores API: 0
+RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 0 | 🔵 29 | Errores API: 0
 
 ------------------------------------------------------------------------------------
 DETALLE POR EMPRESA
@@ -156,7 +156,7 @@ DETALLE POR EMPRESA
      Last update posted: 2026-09-10
      → https://clinicaltrials.gov/study/NCT05507216
 
-🟡 [ALNY] · Score relevancia: 28
+🔵 [ALNY] · Score relevancia: 28
   🔵 ⭐⭐⭐ TRITON-CM Ph3 — nucresiran — ATTR-CM | Prioridad: alta | Validación: OK
      NCT: NCT07052903 | Status: Reclutando | Tipo: pivotal
      Catalizador: ATTR-CM Phase 3 | Ventana: 2030
@@ -167,7 +167,7 @@ DETALLE POR EMPRESA
      Study completion: 2032-11-30 ESTIMATED
      Last update posted: 2026-09-16
      → https://clinicaltrials.gov/study/NCT07052903
-  🟡 ⭐⭐ ZENITH Ph3 CVOT — zilebesiran — hipertensión | Prioridad: media | Validación: OK
+  🔵 ⭐⭐ ZENITH Ph3 CVOT — zilebesiran — hipertensión | Prioridad: media | Validación: OK
      NCT: NCT07181109 | Status: Reclutando | Tipo: cvot
      Catalizador: CVOT / MACE endpoint | Ventana: 2030
      Sponsor: Alnylam Pharmaceuticals
@@ -217,7 +217,7 @@ DETALLE POR EMPRESA
      Enrollment: 466
      Primary completion: 2028-06-02 ESTIMATED
      Study completion: 2030-05-07 ESTIMATED
-     Last update posted: 2026-09-09
+     Last update posted: 2026-09-21
      → https://clinicaltrials.gov/study/NCT05312879
   🔵 ⭐⭐⭐ FORWARD-101 Ph1/2/3 — zimislecel (VX-880) — T1D | Prioridad: alta | Validación: OK
      NCT: NCT04786262 | Status: Reclutando | Tipo: cell_therapy

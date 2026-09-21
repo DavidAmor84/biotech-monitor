@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "18/09/2026 13:03",
-  "fecha": "2026-09-18",
+  "generado": "21/09/2026 15:14",
+  "fecha": "2026-09-21",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -11,8 +11,8 @@
     "validacion_error": 0,
     "alertas_rojas": 0,
     "alertas_verdes": 5,
-    "alertas_amarillas": 1,
-    "alertas_azules": 28,
+    "alertas_amarillas": 0,
+    "alertas_azules": 29,
     "errores": 0
   },
   "empresas": {
@@ -1779,28 +1779,9 @@
           "ventana": "2030",
           "monitorizar": true,
           "peso_importancia": 7,
-          "cambios": [
-            {
-              "tipo": "primary_completion_date",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Primary completion: 2030-09-30 → 2030-09-23"
-            },
-            {
-              "tipo": "study_completion_date",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Study completion: 2030-09-30 → 2030-09-23"
-            },
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2026-08-19 → 2026-09-18"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         },
         {
@@ -1982,21 +1963,14 @@
           "ventana": "2027-2029",
           "monitorizar": true,
           "peso_importancia": 6,
-          "cambios": [
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2026-09-03 → 2026-09-18"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
         }
       ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "score_relevancia": 28
     },
     "VRTX": {
@@ -2079,7 +2053,7 @@
           "study_completion_date": "2030-05-07",
           "study_completion_type": "ESTIMATED",
           "start_date": "2022-03-30",
-          "last_update_posted": "2026-09-09",
+          "last_update_posted": "2026-09-21",
           "conditions": [
             "Proteinuric Kidney Disease"
           ],
@@ -2116,7 +2090,14 @@
           "ventana": "2026-2028",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-09-09 → 2026-09-21"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2698,45 +2679,6 @@
     },
     {
       "ticker": "ALNY",
-      "nct": "NCT07181109",
-      "nombre": "ZENITH Ph3 CVOT — zilebesiran — hipertensión",
-      "nivel": "amarillo",
-      "badge": "🟡",
-      "status": "RECRUITING",
-      "primary_completion_date": "2030-09-23",
-      "mensaje": "Reclutando",
-      "prioridad": "media",
-      "estrellas": "⭐⭐",
-      "tipo": "cvot",
-      "catalizador": "CVOT / MACE endpoint",
-      "ventana": "2030",
-      "peso_importancia": 7,
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "primary_completion_date",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Primary completion: 2030-09-30 → 2030-09-23"
-        },
-        {
-          "tipo": "study_completion_date",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Study completion: 2030-09-30 → 2030-09-23"
-        },
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2026-08-19 → 2026-09-18"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07181109"
-    },
-    {
-      "ticker": "ALNY",
       "nct": "NCT07052903",
       "nombre": "TRITON-CM Ph3 — nucresiran — ATTR-CM",
       "nivel": "azul",
@@ -2754,33 +2696,6 @@
       "errores_validacion": [],
       "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT07052903"
-    },
-    {
-      "ticker": "ALNY",
-      "nct": "NCT06393712",
-      "nombre": "cAPPricorn-1 Ph2 — mivelsiran — CAA",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "ACTIVE_NOT_RECRUITING",
-      "primary_completion_date": "2027-08-09",
-      "mensaje": "Activo, sin reclutamiento",
-      "prioridad": "media",
-      "estrellas": "⭐⭐",
-      "tipo": "phase2",
-      "catalizador": "datos Phase 2 CNS",
-      "ventana": "2027-2029",
-      "peso_importancia": 6,
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2026-09-03 → 2026-09-18"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06393712"
     },
     {
       "ticker": "VRTX",
@@ -2819,7 +2734,14 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-09-09 → 2026-09-21"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT05312879"
     },
     {

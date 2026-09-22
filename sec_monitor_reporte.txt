@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 21/09/2026 13:40 | Período: últimos 7 días
-Desde: 2026-09-14 → Hasta: 2026-09-21
+Generado: 22/09/2026 12:23 | Período: últimos 7 días
+Desde: 2026-09-15 → Hasta: 2026-09-22
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 5 filings | 🔴 0 | 🟢 1 | 🟡 0 | 🔵 4 | ✅ 15 sin novedad
+RESUMEN: 4 filings | 🔴 0 | 🟢 1 | 🟡 0 | 🔵 3 | ✅ 14 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (1)
@@ -22,30 +22,28 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [ARGX] Sin novedades
   ✅ [DYN] Sin novedades
   ✅ [DNLI] Sin novedades
-  ✅ [VKTX] Sin novedades
+
+  🔵 [VKTX] Viking Therapeutics, Inc. — 1 filing(s)
+     🔵 INFO 8-K | 2026-09-22 | Item 8.01: Otros eventos — revisar [Items: 8.01, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1607678/000119312526397219/vktx-20260922.htm
   ✅ [VRTX] Sin novedades
   ✅ [ALNY] Sin novedades
   ✅ [BEAM] Sin novedades
   ✅ [OCUL] Sin novedades
 
-  🔵 [CAI] Caris Life Sciences, Inc. — 2 filing(s)
+  🔵 [CAI] Caris Life Sciences, Inc. — 1 filing(s)
      🔵 INFO 4 | 2026-09-17 | Brille Brian J (Director / See Remarks) → Ejercicio opción 400,000 acciones @ $2.44 | Post: 630,303 | Rutinaria/RSU/impuestos
      Insider: Brille Brian J (Director / See Remarks) → Ejercicio opción 400,000 acciones @ $2.44 | Post: 630,303 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/2019410/000207195926000008/xslF345X06/wk-form4_1789682909.xml
-     🔵 INFO 8-K | 2026-09-14 | 8-K — Sin clasificación específica por Item [Items: 7.01]
-     → https://www.sec.gov/Archives/edgar/data/2019410/000201941026000061/cai-20260914.htm
   ✅ [GPCR] Sin novedades
   ✅ [ABVX] Sin novedades
 
-  🟢 [VERA] Vera Therapeutics, Inc. — 3 filing(s)
+  🟢 [VERA] Vera Therapeutics, Inc. — 2 filing(s)
      🔵 INFO 4 | 2026-09-17 | Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos
      Insider: Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1831828/000185945326000015/xslF345X06/form4-09172026_080936.xml
      🟢 ALTA 8-K | 2026-09-15 | 8-K — Evento positivo potencial: Resultado estadísticamente significativo [Items: 7.01, 8.01, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1831828/000119312526391280/d32300d8k.htm
-     🔵 INFO 4 | 2026-09-14 | Young Joseph R (SVP, FINANCE, CHIEF ACCT OFFCR) → Ejercicio opción 5,000 acciones @ $3.94 | Post: 80,754
-     Insider: Young Joseph R (SVP, FINANCE, CHIEF ACCT OFFCR) → Ejercicio opción 5,000 acciones @ $3.94 | Post: 80,754
-     → https://www.sec.gov/Archives/edgar/data/1831828/000186168426000006/xslF345X06/form4-09142026_080921.xml
   ✅ [ACRV] Sin novedades
   ✅ [TARA] Sin novedades
   ✅ [SENS] Sin novedades

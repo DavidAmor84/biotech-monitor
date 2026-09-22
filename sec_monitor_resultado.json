@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "21/09/2026 13:40",
+  "generado": "22/09/2026 12:23",
   "periodo_dias": 7,
-  "desde": "2026-09-14",
-  "hasta": "2026-09-21",
+  "desde": "2026-09-15",
+  "hasta": "2026-09-22",
   "resumen": {
-    "total_filings": 5,
+    "total_filings": 4,
     "alertas_rojas": 0,
     "alertas_verdes": 1,
     "alertas_amarillas": 0,
-    "alertas_azules": 4,
-    "sin_novedad": 15
+    "alertas_azules": 3,
+    "sin_novedad": 14
   },
   "tickers": {
     "SNDX": {
@@ -63,9 +63,34 @@
       "cik": "0001607678",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "8-K",
+          "fecha": "2026-09-22",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Item 8.01: Otros eventos — revisar [Items: 8.01, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "Viking Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526397219/vktx-20260922.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "8.01",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 8.01 Other Events. On September 22, 2026, Viking Therapeutics, Inc. issued a press release announcing top-line results from its maintenance study of GLP-1/GIP agonist VK2735. A copy of the press release is filed as Exhibit 99.1 to this Current Report on Form 8-K and incorporated herein by reference. Item 9.01 Financial Statements and Exhibits. (d) Exhibits. Exhibit Number Description 99.1 Press Release, dated September 22, 2026. 104 Cover Page Interactive Data File, formatted in Inline Extensible Business Reporting Language (iXBRL). SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. VIKING THERAPEUTICS, INC. Date: September 22, 2026 By: /s/ Brian Lian, Ph.D. Brian Lian, Ph.D. President and Chief Executive Officer (Principal Executive Officer)",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "Item 8.01: Otros eventos — revisar"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "VRTX": {
@@ -142,29 +167,6 @@
             "resumen_detail": "Brille Brian J (Director / See Remarks) → Ejercicio opción 400,000 acciones @ $2.44 | Post: 630,303 | Rutinaria/RSU/impuestos"
           },
           "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "8-K",
-          "fecha": "2026-09-14",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "8-K — Sin clasificación específica por Item [Items: 7.01]",
-          "detalle": "8-K",
-          "empresa_sec": "Caris Life Sciences, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/2019410/000201941026000061/cai-20260914.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "7.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 7.01 Regulation FD Disclosure Beginning on September 14, 2026, representatives of Caris Life Sciences, Inc. (the Company ) intend to use an investor presentation (the Investor Presentation ) in meetings with current and potential investors at the Morgan Stanley 24th Annual Global Healthcare Conference and from time to time at other investor conferences and meetings. The Company will post the Investor Presentation on its investor relations website at https://investor.carislifesciences.com. The website and presentation contents referenced herein are not incorporated into this Current Report on Form 8-K. The information in this Item 7.01 is being furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth in such filing. SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Date: September 14, 2026 CARIS LIFE SCIENCES, INC. By: /s/ Luke Power Name: Luke Power Title: Senior Vice President, Chief Financial Officer and Chief Accounting Officer",
-            "nivel_ajustado": "azul",
-            "badge_ajustado": "🔵 INFO",
-            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
-          },
           "10q_detail": null,
           "prospecto_detail": null
         }
@@ -250,32 +252,6 @@
             "badge_ajustado": "🟢 ALTA",
             "resumen_ajustado": "8-K — Evento positivo potencial: Resultado estadísticamente significativo"
           },
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-09-14",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Young Joseph R (SVP, FINANCE, CHIEF ACCT OFFCR) → Ejercicio opción 5,000 acciones @ $3.94 | Post: 80,754",
-          "detalle": "xslF345X06/form4-09142026_080921.xml",
-          "empresa_sec": "Vera Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1831828/000186168426000006/xslF345X06/form4-09142026_080921.xml",
-          "form4_detail": {
-            "insider_nombre": "Young Joseph R",
-            "insider_cargo": "SVP, FINANCE, CHIEF ACCT OFFCR",
-            "transaccion_codigo": "M",
-            "transaccion_tipo": "Ejercicio opción",
-            "transaccion_acciones": "5000",
-            "transaccion_precio": "3.9396",
-            "transaccion_fecha": "2026-09-11",
-            "acciones_post": "80754",
-            "footnotes": "1/4 of the shares subject to the option vested on March 9, 2022, and 1/48 of the shares vest monthly thereafter.",
-            "es_rutinaria": false,
-            "resumen_detail": "Young Joseph R (SVP, FINANCE, CHIEF ACCT OFFCR) → Ejercicio opción 5,000 acciones @ $3.94 | Post: 80,754"
-          },
-          "8k_detail": null,
           "10q_detail": null,
           "prospecto_detail": null
         }
@@ -367,6 +343,32 @@
   ],
   "todos_filings": [
     {
+      "ticker": "VKTX",
+      "nombre": "Viking Therapeutics, Inc.",
+      "form": "8-K",
+      "fecha": "2026-09-22",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Item 8.01: Otros eventos — revisar [Items: 8.01, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Viking Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526397219/vktx-20260922.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "8.01",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 8.01 Other Events. On September 22, 2026, Viking Therapeutics, Inc. issued a press release announcing top-line results from its maintenance study of GLP-1/GIP agonist VK2735. A copy of the press release is filed as Exhibit 99.1 to this Current Report on Form 8-K and incorporated herein by reference. Item 9.01 Financial Statements and Exhibits. (d) Exhibits. Exhibit Number Description 99.1 Press Release, dated September 22, 2026. 104 Cover Page Interactive Data File, formatted in Inline Extensible Business Reporting Language (iXBRL). SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. VIKING THERAPEUTICS, INC. Date: September 22, 2026 By: /s/ Brian Lian, Ph.D. Brian Lian, Ph.D. President and Chief Executive Officer (Principal Executive Officer)",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "Item 8.01: Otros eventos — revisar"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
       "ticker": "CAI",
       "nombre": "Caris Life Sciences, Inc.",
       "form": "4",
@@ -446,59 +448,6 @@
         "badge_ajustado": "🟢 ALTA",
         "resumen_ajustado": "8-K — Evento positivo potencial: Resultado estadísticamente significativo"
       },
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "CAI",
-      "nombre": "Caris Life Sciences, Inc.",
-      "form": "8-K",
-      "fecha": "2026-09-14",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "8-K — Sin clasificación específica por Item [Items: 7.01]",
-      "detalle": "8-K",
-      "empresa_sec": "Caris Life Sciences, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/2019410/000201941026000061/cai-20260914.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "7.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 7.01 Regulation FD Disclosure Beginning on September 14, 2026, representatives of Caris Life Sciences, Inc. (the Company ) intend to use an investor presentation (the Investor Presentation ) in meetings with current and potential investors at the Morgan Stanley 24th Annual Global Healthcare Conference and from time to time at other investor conferences and meetings. The Company will post the Investor Presentation on its investor relations website at https://investor.carislifesciences.com. The website and presentation contents referenced herein are not incorporated into this Current Report on Form 8-K. The information in this Item 7.01 is being furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth in such filing. SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Date: September 14, 2026 CARIS LIFE SCIENCES, INC. By: /s/ Luke Power Name: Luke Power Title: Senior Vice President, Chief Financial Officer and Chief Accounting Officer",
-        "nivel_ajustado": "azul",
-        "badge_ajustado": "🔵 INFO",
-        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "VERA",
-      "nombre": "Vera Therapeutics, Inc.",
-      "form": "4",
-      "fecha": "2026-09-14",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Young Joseph R (SVP, FINANCE, CHIEF ACCT OFFCR) → Ejercicio opción 5,000 acciones @ $3.94 | Post: 80,754",
-      "detalle": "xslF345X06/form4-09142026_080921.xml",
-      "empresa_sec": "Vera Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1831828/000186168426000006/xslF345X06/form4-09142026_080921.xml",
-      "form4_detail": {
-        "insider_nombre": "Young Joseph R",
-        "insider_cargo": "SVP, FINANCE, CHIEF ACCT OFFCR",
-        "transaccion_codigo": "M",
-        "transaccion_tipo": "Ejercicio opción",
-        "transaccion_acciones": "5000",
-        "transaccion_precio": "3.9396",
-        "transaccion_fecha": "2026-09-11",
-        "acciones_post": "80754",
-        "footnotes": "1/4 of the shares subject to the option vested on March 9, 2022, and 1/48 of the shares vest monthly thereafter.",
-        "es_rutinaria": false,
-        "resumen_detail": "Young Joseph R (SVP, FINANCE, CHIEF ACCT OFFCR) → Ejercicio opción 5,000 acciones @ $3.94 | Post: 80,754"
-      },
-      "8k_detail": null,
       "10q_detail": null,
       "prospecto_detail": null
     }

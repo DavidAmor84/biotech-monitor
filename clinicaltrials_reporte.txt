@@ -1,6 +1,6 @@
 ====================================================================================
 CLINICALTRIALS MONITOR v9.3 · Modelo Biotech
-Generado: 21/09/2026 15:14
+Generado: 22/09/2026 13:34
 ====================================================================================
 RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 0 | 🔵 29 | Errores API: 0
 
@@ -47,7 +47,7 @@ DETALLE POR EMPRESA
      Enrollment: 154
      Primary completion: 2026-09 ESTIMATED
      Study completion: 2029-12 ESTIMATED
-     Last update posted: 2026-05-20
+     Last update posted: 2026-09-22
      → https://clinicaltrials.gov/study/NCT06742190
   🔵 ⭐⭐ emvigorate Ph3 — empasiprubart vs IVIg — CIDP head-to-head | Prioridad: media | Validación: OK
      NCT: NCT06920004 | Status: Reclutando | Tipo: pivotal
@@ -57,7 +57,7 @@ DETALLE POR EMPRESA
      Enrollment: 218
      Primary completion: 2027-09 ESTIMATED
      Study completion: 2030-09 ESTIMATED
-     Last update posted: 2026-09-17
+     Last update posted: 2026-09-22
      → https://clinicaltrials.gov/study/NCT06920004
 
 🔵 [DYN] · Score relevancia: 29

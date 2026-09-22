@@ -1,8 +1,8 @@
 {
-  "generado": "21/09/2026 14:02 UTC",
+  "generado": "22/09/2026 12:33 UTC",
   "plazo_horas": 72,
-  "desde": "2026-09-18",
-  "hasta": "2026-09-21",
+  "desde": "2026-09-19",
+  "hasta": "2026-09-22",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -15,11 +15,11 @@
       "noticias": [
         {
           "ticker": "ARGX",
-          "titulo": "2 Wall Street Analysts Think Argenx Can Soar More Than 40%. Here's Why They're Right.",
-          "resumen": "It's easy to be bullish about Argenx.",
+          "titulo": "Halozyme (HALO) Just Made A $1.3B Bet On Itself",
+          "resumen": "On September 17, Halozyme (NASDAQ:HALO) priced $1.3 billion of convertible senior notes due 2033, an offering that grew from an originally planned $1.05 billion as demand came in. The notes carry a 1.50% coupon and convert into stock at $139.84 a share, a 27.5% premium to the $109.68 closing price t",
           "fuente": "Yahoo",
-          "fecha": "20 Sep 2026 10:12 UTC",
-          "url": "https://finnhub.io/api/news?id=1ee6ac266f6d29abe0bca4eeb1cd6dc91a882a80d5ca2a09c15a904d99a6a4f2",
+          "fecha": "22 Sep 2026 02:57 UTC",
+          "url": "https://finnhub.io/api/news?id=ba4a8dd6f2a49b5a1582751bf18b519c40df217f011bdeb740f74a7203c6bc86",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
@@ -27,11 +27,11 @@
         },
         {
           "ticker": "ARGX",
-          "titulo": "BMY vs. ARGX: Which Stock Is the Better Value Option?",
-          "resumen": "BMY vs. ARGX: Which Stock Is the Better Value Option?",
+          "titulo": "2 Wall Street Analysts Think Argenx Can Soar More Than 40%. Here's Why They're Right.",
+          "resumen": "It's easy to be bullish about Argenx.",
           "fuente": "Yahoo",
-          "fecha": "18 Sep 2026 15:40 UTC",
-          "url": "https://finnhub.io/api/news?id=6bbc171aa455a9e1cef393f7a806b4de55ca405c14ce345d938a28435af1d8df",
+          "fecha": "20 Sep 2026 10:12 UTC",
+          "url": "https://finnhub.io/api/news?id=1ee6ac266f6d29abe0bca4eeb1cd6dc91a882a80d5ca2a09c15a904d99a6a4f2",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
@@ -58,78 +58,53 @@
       "noticias": [
         {
           "ticker": "VKTX",
-          "titulo": "Can Eli Lilly’s Two-Drug Obesity Treatment Justify Its $1 Trillion Valuation?",
-          "resumen": "Eli Lilly stakes its trillion-dollar valuation on mid-stage data for a two-drug obesity combo, and the September 30 readout will reveal whether eloraTZP is a genuine franchise leap or an expensive gamble on incremental gains.",
+          "titulo": "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher",
+          "resumen": "Novo Nordisk (NYSE:NVO) laid out its long-term growth strategy at a capital markets day in London Monday morning, and the plan didn’t calm investor worries about the company’s ability to defend the weight-loss market it helped build. That response is concentrated in the stock itself rather than in t",
           "fuente": "Yahoo",
-          "fecha": "18 Sep 2026 21:15 UTC",
-          "url": "https://finnhub.io/api/news?id=4c15f2280c623867fcd415af8db79b161f66a3cff9fc184120f701e9e9fb0332",
+          "fecha": "21 Sep 2026 13:45 UTC",
+          "url": "https://finnhub.io/api/news?id=14c42b1575ccfdd96ee3960d2da38032f2e04be74570662eff763d249778977a",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "4 Biotech Stocks to Watch as Potential Takeover Targets",
-          "resumen": "Biotech M&A surges in 2026, putting ABVX, IOVA, VKTX and BCRX on watchlists, as drugmakers seek late-stage and commercial assets.",
-          "fuente": "Yahoo",
-          "fecha": "18 Sep 2026 16:31 UTC",
-          "url": "https://finnhub.io/api/news?id=2f94d516b9514e3b44250c1ee5b2021449815a5a007c876cadfc15e9a7c16873",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 1
     },
     "VRTX": {
       "nombre": "VRTX",
-      "noticias": [
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals (VRTX) Stock Sinks As Market Gains: Here's Why",
-          "resumen": "Vertex Pharmaceuticals (VRTX) concluded the recent trading session at $508.34, signifying a -1.55% move from its prior day's close.",
-          "fuente": "Yahoo",
-          "fecha": "18 Sep 2026 21:50 UTC",
-          "url": "https://finnhub.io/api/news?id=9a08dfe80c7272eacc9f1bcb6bda065fff2d09b997ef498266da89aba68991e7",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "2 Reasons to Like VRTX (and 1 Not So Much)",
-          "resumen": "Vertex Pharmaceuticals has followed the market’s trajectory closely, rising in tandem with the S&P 500 over the past six months. The stock has climbed by 13.9% to $514.18 per share while the index has gained 14%.",
-          "fuente": "Yahoo",
-          "fecha": "18 Sep 2026 17:52 UTC",
-          "url": "https://finnhub.io/api/news?id=9eaac3e60968de82f61b79cd2b09d4e9c04ed32b3703dd330e5eb9dc904f1765",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
-          "resumen": "This company has had plenty of setbacks in recent years, but it generally bounces back.",
-          "fuente": "Yahoo",
-          "fecha": "18 Sep 2026 17:20 UTC",
-          "url": "https://finnhub.io/api/news?id=ba00c81c0942540ac59da3585da45c3de04edab96cccd77c66c7cb63553d73cf",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 3
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "ALNY": {
       "nombre": "ALNY",
       "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "4 Alzheimer's Drug Stocks to Watch on World Alzheimer's Day",
+          "resumen": "Four biotech stocks advance Alzheimer's therapies, from marketed treatments to experimental programs targeting amyloid and tau.",
+          "fuente": "Yahoo",
+          "fecha": "21 Sep 2026 16:40 UTC",
+          "url": "https://finnhub.io/api/news?id=9621dec4437d024eba38c9bebeddc44fda5bb58df29c739bb6a87a7d6b6b34c9",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "HC Wainwright & Co. Reiterates Buy on Alnylam Pharmaceuticals, Maintains $455 Price Target",
+          "resumen": "HC Wainwright &amp; Co.  analyst Patrick R. Trucchio   reiterates Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Buy and maintains $455 price target.",
+          "fuente": "Benzinga",
+          "fecha": "21 Sep 2026 06:34 UTC",
+          "url": "https://finnhub.io/api/news?id=a70fc33a2382c90bcb72488cbc41447204b9a62a9c597fcc586bfb1b69641d60",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "ALNY",
           "titulo": "Alnylam Highlights AMVUTTRA Momentum, Resets 2026 TTR Revenue Outlook",
@@ -156,26 +131,13 @@
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 4
     },
     "BEAM": {
       "nombre": "BEAM",
-      "noticias": [
-        {
-          "ticker": "BEAM",
-          "titulo": "In Vivo Gene Editing Market Size, Share & Trends Analysis - Global Opportunity Analysis & Industry Forecast (2026-2036)",
-          "resumen": "The global in vivo gene editing market was valued at USD 3.4 billion in 2025 and is forecast to reach USD 22.6 billion by 2036, growing at a 16.8% CAGR from 2026. Growth is driven by CRISPR, base and prime editing, LNP and AAV delivery systems, precision medicine investment, and expanding clinical p",
-          "fuente": "Yahoo",
-          "fecha": "18 Sep 2026 15:38 UTC",
-          "url": "https://finnhub.io/api/news?id=0311463bf9018a0c2ec239e1f2231ec6e056e7cf05e78e4fe8e2a63e37598c1c",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "OCUL": {
       "nombre": "OCUL",
@@ -185,19 +147,105 @@
     },
     "CAI": {
       "nombre": "CAI",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "CAI",
+          "titulo": "Caris Life Sciences: Adjusting My Position After A Recent Steep Incline (Downgrade)",
+          "resumen": "Caris Life Sciences' Q2 featured accelerating clinical volumes, 68% gross margin, and strong early traction for Caris Detect. Read why CAI stock is a Hold.",
+          "fuente": "SeekingAlpha",
+          "fecha": "22 Sep 2026 02:21 UTC",
+          "url": "https://finnhub.io/api/news?id=dc7fa802c5782d4c6bc4d0d019eed686d90b10fdee500bce99a7d782e5a50cae",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2285026184/image_2285026184.jpg?io=getty-c-w1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "GPCR": {
       "nombre": "GPCR",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "GPCR",
+          "titulo": "Structure Therapeutics (GPCR) Gains Fresh Obesity Trial Backing Following Data That Keeps Valuation In Focus",
+          "resumen": "Structure Therapeutics (GPCR) has put fresh clinical data for its oral obesity pipeline in front of investors, highlighting results from early stage ACCG-2671 studies and longer term aleniglipron weight loss trials. Recent trading tells a mixed story for Structure Therapeutics. The 1-day share price",
+          "fuente": "Yahoo",
+          "fecha": "22 Sep 2026 11:13 UTC",
+          "url": "https://finnhub.io/api/news?id=654ce657083dc1a37b6d7f9c3fd2dece04642cee7b9c0978b5032128000ab431",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "GPCR",
+          "titulo": "VKTX, GPCR, ALT Stocks Rise: Novo Nordisk Signals Bigger M&A As It Chases Over 5 ‘Multi-Blockbusters’",
+          "resumen": "Novo targets over $23 billion in risk-adjusted pipeline sales by 2035, excluding any contribution from future acquisitions.",
+          "fuente": "Yahoo",
+          "fecha": "22 Sep 2026 05:29 UTC",
+          "url": "https://finnhub.io/api/news?id=b36d210620deb29bb488aca5b7edf4a217af76820e025c05c96f206181bdddc5",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 2
     },
     "ABVX": {
       "nombre": "ABVX",
       "noticias": [
+        {
+          "ticker": "ABVX",
+          "titulo": "Abivax Presents Business Updates and First Half 2026 Financial Results",
+          "resumen": "Abivax Presents Business Updates and First Half 2026 Financial Results Chris Rabbat to succeed Fabio Cataldi as Chief Medical Officer; Tim Kelly appointed Chief Technical Officer to advance commercial supply readiness and lead Abivax’s Chemistry, Manufacturing and Controls (“CMC”), Quality and Infor",
+          "fuente": "Yahoo",
+          "fecha": "21 Sep 2026 20:05 UTC",
+          "url": "https://finnhub.io/api/news?id=373f8a0094d82ba3d27a7849ce2437712cfbcc283c526d5063603b89a269b9aa",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ABVX",
+          "titulo": "Earnings Scheduled For September 21, 2026",
+          "resumen": "Companies Reporting Before The Bell\n• Ennis (NYSE:EBF) is expected to report earnings for its second quarter. \nCompanies Reporting After The Bell\n• Abivax (NASDAQ:ABVX) is projected to report quarterly loss at $1.08 per",
+          "fuente": "Benzinga",
+          "fecha": "21 Sep 2026 07:11 UTC",
+          "url": "https://finnhub.io/api/news?id=a01fedea1c368e3980235e34fb2b48857a311e316785bc97266ccf56bf8f8f75",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_scheduled_1.jpg?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ABVX",
+          "titulo": "Nasdaq Gains Over 100 Points, Posts Weekly Gain: Investor Sentiment Improves Slightly, But Greed Index Remains in ‘Fear’ Zone",
+          "resumen": "Market sentiment improved slightly but stayed in Fear; stocks were mixed, the Dow had its worst week since March.",
+          "fuente": "Benzinga",
+          "fecha": "21 Sep 2026 02:47 UTC",
+          "url": "https://finnhub.io/api/news?id=1a6d5d8d9d979847f8991029df1628bf6117c702b01e47050c20eefdb22a719a",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/09/21/Fear-and-Greed.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ABVX",
+          "titulo": "Accenture, Abivax and 3 Stocks to Watch Heading Into Monday",
+          "resumen": "Stocks in focus: Abivax, Marygold and Neuphoria report losses; Accenture partners with Anthropic, while Lobo Technologies posts H1 growth.",
+          "fuente": "Benzinga",
+          "fecha": "21 Sep 2026 02:06 UTC",
+          "url": "https://finnhub.io/api/news?id=13c2dd63abf01d65b14c4390b115a7d85d25e09dd950c43625966aa29a9c0cb8",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/09/21/Warsaw--Poland---May-2020-Accenture-Comp.jpg?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "ABVX",
           "titulo": "Wall Street Week Ahead",
@@ -209,34 +257,10 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "ABVX",
-          "titulo": "Costco, BlackBerry To Headline Earnings In A Muted Week",
-          "resumen": "Preview next weekâs market movers: Fed, yields, PMI, jobless claims, durable goods, earnings (Costco, BB), dividends & IPOs. Read here for more.",
-          "fuente": "SeekingAlpha",
-          "fecha": "19 Sep 2026 11:00 UTC",
-          "url": "https://finnhub.io/api/news?id=c49bde757f11715b696ad23b5e4bc21bc8f7a2ae5edc726eef973401c1f35cde",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ABVX",
-          "titulo": "4 Biotech Stocks to Watch as Potential Takeover Targets",
-          "resumen": "Biotech M&A surges in 2026, putting ABVX, IOVA, VKTX and BCRX on watchlists, as drugmakers seek late-stage and commercial assets.",
-          "fuente": "Yahoo",
-          "fecha": "18 Sep 2026 16:31 UTC",
-          "url": "https://finnhub.io/api/news?id=2f94d516b9514e3b44250c1ee5b2021449815a5a007c876cadfc15e9a7c16873",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 5
     },
     "VERA": {
       "nombre": "VERA",
@@ -264,54 +288,55 @@
     },
     "INSM": {
       "nombre": "INSM",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "INSM",
+          "titulo": "Did FDA Priority Review of ARIKAYCE ENCORE Data Just Shift Insmed's (INSM) Investment Narrative?",
+          "resumen": "Insmed has reported that the U.S. FDA previously accepted its supplemental New Drug Application for ARIKAYCE for MAC lung disease under Priority Review, with a target action date of January 28, 2027, based on positive Phase 3b ENCORE data fulfilling a key post-marketing requirement. The ENCORE trial",
+          "fuente": "Yahoo",
+          "fecha": "21 Sep 2026 18:18 UTC",
+          "url": "https://finnhub.io/api/news?id=bece424221e5f425556ac71c4844a294b514ea2d8d821c65268929cca04e4b92",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "FDA Grants Priority Review to Insmed's sNDA for ARIKAYCE® (amikacin liposome inhalation suspension) for Treatment of MAC Lung Disease With PDUFA Target Action Date Set for January 28, 2027",
+          "resumen": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced that the U.S. Food and Drug Administration (FDA) has accepted the Company's Supplemen",
+          "fuente": "Yahoo",
+          "fecha": "21 Sep 2026 11:00 UTC",
+          "url": "https://finnhub.io/api/news?id=6cf59088952c7da54064d7485d06ac8ba5a6b77a125c06f63339f8d23906bdfa",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "The FDA Accepts Insmed's Supplemental New Drug Application For Review Of Arikayce (Amikacin Liposome Inhalation Suspension) For Mycobacterium Avium Complex Lung Disease As Part Of Combination Antibact",
+          "resumen": "Insmed Incorporated (NASDAQ:INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced that",
+          "fuente": "Benzinga",
+          "fecha": "21 Sep 2026 07:10 UTC",
+          "url": "https://finnhub.io/api/news?id=9019a33a204287eda65c94172650a4c5add7781c760f2ce0b12df11f4a699b07",
+          "imagen": "",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 3
     }
   },
   "resumen": {
-    "total_noticias": 13,
-    "tickers_con_noticias": 6,
-    "alertas_urgentes": 4,
-    "sin_noticias": 11
+    "total_noticias": 18,
+    "tickers_con_noticias": 7,
+    "alertas_urgentes": 6,
+    "sin_noticias": 10
   },
   "todas_noticias": [
-    {
-      "ticker": "BEAM",
-      "titulo": "In Vivo Gene Editing Market Size, Share & Trends Analysis - Global Opportunity Analysis & Industry Forecast (2026-2036)",
-      "resumen": "The global in vivo gene editing market was valued at USD 3.4 billion in 2025 and is forecast to reach USD 22.6 billion by 2036, growing at a 16.8% CAGR from 2026. Growth is driven by CRISPR, base and prime editing, LNP and AAV delivery systems, precision medicine investment, and expanding clinical p",
-      "fuente": "Yahoo",
-      "fecha": "18 Sep 2026 15:38 UTC",
-      "url": "https://finnhub.io/api/news?id=0311463bf9018a0c2ec239e1f2231ec6e056e7cf05e78e4fe8e2a63e37598c1c",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "Can Eli Lilly’s Two-Drug Obesity Treatment Justify Its $1 Trillion Valuation?",
-      "resumen": "Eli Lilly stakes its trillion-dollar valuation on mid-stage data for a two-drug obesity combo, and the September 30 readout will reveal whether eloraTZP is a genuine franchise leap or an expensive gamble on incremental gains.",
-      "fuente": "Yahoo",
-      "fecha": "18 Sep 2026 21:15 UTC",
-      "url": "https://finnhub.io/api/news?id=4c15f2280c623867fcd415af8db79b161f66a3cff9fc184120f701e9e9fb0332",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ABVX",
-      "titulo": "Costco, BlackBerry To Headline Earnings In A Muted Week",
-      "resumen": "Preview next weekâs market movers: Fed, yields, PMI, jobless claims, durable goods, earnings (Costco, BB), dividends & IPOs. Read here for more.",
-      "fuente": "SeekingAlpha",
-      "fecha": "19 Sep 2026 11:00 UTC",
-      "url": "https://finnhub.io/api/news?id=c49bde757f11715b696ad23b5e4bc21bc8f7a2ae5edc726eef973401c1f35cde",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "ALNY",
       "titulo": "Alnylam’s Zilebesiran Targets Twice-Yearly Blood Pressure Control in ZENITH Trial",
@@ -349,76 +374,124 @@
       "badge": "🔴"
     },
     {
-      "ticker": "ARGX",
-      "titulo": "BMY vs. ARGX: Which Stock Is the Better Value Option?",
-      "resumen": "BMY vs. ARGX: Which Stock Is the Better Value Option?",
-      "fuente": "Yahoo",
-      "fecha": "18 Sep 2026 15:40 UTC",
-      "url": "https://finnhub.io/api/news?id=6bbc171aa455a9e1cef393f7a806b4de55ca405c14ce345d938a28435af1d8df",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "ticker": "ABVX",
+      "titulo": "Accenture, Abivax and 3 Stocks to Watch Heading Into Monday",
+      "resumen": "Stocks in focus: Abivax, Marygold and Neuphoria report losses; Accenture partners with Anthropic, while Lobo Technologies posts H1 growth.",
+      "fuente": "Benzinga",
+      "fecha": "21 Sep 2026 02:06 UTC",
+      "url": "https://finnhub.io/api/news?id=13c2dd63abf01d65b14c4390b115a7d85d25e09dd950c43625966aa29a9c0cb8",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/09/21/Warsaw--Poland---May-2020-Accenture-Comp.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "VKTX",
-      "titulo": "4 Biotech Stocks to Watch as Potential Takeover Targets",
-      "resumen": "Biotech M&A surges in 2026, putting ABVX, IOVA, VKTX and BCRX on watchlists, as drugmakers seek late-stage and commercial assets.",
-      "fuente": "Yahoo",
-      "fecha": "18 Sep 2026 16:31 UTC",
-      "url": "https://finnhub.io/api/news?id=2f94d516b9514e3b44250c1ee5b2021449815a5a007c876cadfc15e9a7c16873",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "ticker": "INSM",
+      "titulo": "The FDA Accepts Insmed's Supplemental New Drug Application For Review Of Arikayce (Amikacin Liposome Inhalation Suspension) For Mycobacterium Avium Complex Lung Disease As Part Of Combination Antibact",
+      "resumen": "Insmed Incorporated (NASDAQ:INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced that",
+      "fuente": "Benzinga",
+      "fecha": "21 Sep 2026 07:10 UTC",
+      "url": "https://finnhub.io/api/news?id=9019a33a204287eda65c94172650a4c5add7781c760f2ce0b12df11f4a699b07",
+      "imagen": "",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "ABVX",
-      "titulo": "4 Biotech Stocks to Watch as Potential Takeover Targets",
-      "resumen": "Biotech M&A surges in 2026, putting ABVX, IOVA, VKTX and BCRX on watchlists, as drugmakers seek late-stage and commercial assets.",
-      "fuente": "Yahoo",
-      "fecha": "18 Sep 2026 16:31 UTC",
-      "url": "https://finnhub.io/api/news?id=2f94d516b9514e3b44250c1ee5b2021449815a5a007c876cadfc15e9a7c16873",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "titulo": "Earnings Scheduled For September 21, 2026",
+      "resumen": "Companies Reporting Before The Bell\n• Ennis (NYSE:EBF) is expected to report earnings for its second quarter. \nCompanies Reporting After The Bell\n• Abivax (NASDAQ:ABVX) is projected to report quarterly loss at $1.08 per",
+      "fuente": "Benzinga",
+      "fecha": "21 Sep 2026 07:11 UTC",
+      "url": "https://finnhub.io/api/news?id=a01fedea1c368e3980235e34fb2b48857a311e316785bc97266ccf56bf8f8f75",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_scheduled_1.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "Is This Biotech Stock Too Cheap to Ignore After Its Latest Pullback?",
-      "resumen": "This company has had plenty of setbacks in recent years, but it generally bounces back.",
+      "ticker": "INSM",
+      "titulo": "FDA Grants Priority Review to Insmed's sNDA for ARIKAYCE® (amikacin liposome inhalation suspension) for Treatment of MAC Lung Disease With PDUFA Target Action Date Set for January 28, 2027",
+      "resumen": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced that the U.S. Food and Drug Administration (FDA) has accepted the Company's Supplemen",
       "fuente": "Yahoo",
-      "fecha": "18 Sep 2026 17:20 UTC",
-      "url": "https://finnhub.io/api/news?id=ba00c81c0942540ac59da3585da45c3de04edab96cccd77c66c7cb63553d73cf",
+      "fecha": "21 Sep 2026 11:00 UTC",
+      "url": "https://finnhub.io/api/news?id=6cf59088952c7da54064d7485d06ac8ba5a6b77a125c06f63339f8d23906bdfa",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "2 Reasons to Like VRTX (and 1 Not So Much)",
-      "resumen": "Vertex Pharmaceuticals has followed the market’s trajectory closely, rising in tandem with the S&P 500 over the past six months. The stock has climbed by 13.9% to $514.18 per share while the index has gained 14%.",
+      "ticker": "VKTX",
+      "titulo": "Novo Nordisk Falls 7% as Post-Wegovy Growth Plan Fails to Ease Competition Fears; Eli Lilly Slips, Viking Therapeutics Edges Higher",
+      "resumen": "Novo Nordisk (NYSE:NVO) laid out its long-term growth strategy at a capital markets day in London Monday morning, and the plan didn’t calm investor worries about the company’s ability to defend the weight-loss market it helped build. That response is concentrated in the stock itself rather than in t",
       "fuente": "Yahoo",
-      "fecha": "18 Sep 2026 17:52 UTC",
-      "url": "https://finnhub.io/api/news?id=9eaac3e60968de82f61b79cd2b09d4e9c04ed32b3703dd330e5eb9dc904f1765",
+      "fecha": "21 Sep 2026 13:45 UTC",
+      "url": "https://finnhub.io/api/news?id=14c42b1575ccfdd96ee3960d2da38032f2e04be74570662eff763d249778977a",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals (VRTX) Stock Sinks As Market Gains: Here's Why",
-      "resumen": "Vertex Pharmaceuticals (VRTX) concluded the recent trading session at $508.34, signifying a -1.55% move from its prior day's close.",
+      "ticker": "INSM",
+      "titulo": "Did FDA Priority Review of ARIKAYCE ENCORE Data Just Shift Insmed's (INSM) Investment Narrative?",
+      "resumen": "Insmed has reported that the U.S. FDA previously accepted its supplemental New Drug Application for ARIKAYCE for MAC lung disease under Priority Review, with a target action date of January 28, 2027, based on positive Phase 3b ENCORE data fulfilling a key post-marketing requirement. The ENCORE trial",
       "fuente": "Yahoo",
-      "fecha": "18 Sep 2026 21:50 UTC",
-      "url": "https://finnhub.io/api/news?id=9a08dfe80c7272eacc9f1bcb6bda065fff2d09b997ef498266da89aba68991e7",
+      "fecha": "21 Sep 2026 18:18 UTC",
+      "url": "https://finnhub.io/api/news?id=bece424221e5f425556ac71c4844a294b514ea2d8d821c65268929cca04e4b92",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ABVX",
+      "titulo": "Abivax Presents Business Updates and First Half 2026 Financial Results",
+      "resumen": "Abivax Presents Business Updates and First Half 2026 Financial Results Chris Rabbat to succeed Fabio Cataldi as Chief Medical Officer; Tim Kelly appointed Chief Technical Officer to advance commercial supply readiness and lead Abivax’s Chemistry, Manufacturing and Controls (“CMC”), Quality and Infor",
+      "fuente": "Yahoo",
+      "fecha": "21 Sep 2026 20:05 UTC",
+      "url": "https://finnhub.io/api/news?id=373f8a0094d82ba3d27a7849ce2437712cfbcc283c526d5063603b89a269b9aa",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "CAI",
+      "titulo": "Caris Life Sciences: Adjusting My Position After A Recent Steep Incline (Downgrade)",
+      "resumen": "Caris Life Sciences' Q2 featured accelerating clinical volumes, 68% gross margin, and strong early traction for Caris Detect. Read why CAI stock is a Hold.",
+      "fuente": "SeekingAlpha",
+      "fecha": "22 Sep 2026 02:21 UTC",
+      "url": "https://finnhub.io/api/news?id=dc7fa802c5782d4c6bc4d0d019eed686d90b10fdee500bce99a7d782e5a50cae",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2285026184/image_2285026184.jpg?io=getty-c-w1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "GPCR",
+      "titulo": "VKTX, GPCR, ALT Stocks Rise: Novo Nordisk Signals Bigger M&A As It Chases Over 5 ‘Multi-Blockbusters’",
+      "resumen": "Novo targets over $23 billion in risk-adjusted pipeline sales by 2035, excluding any contribution from future acquisitions.",
+      "fuente": "Yahoo",
+      "fecha": "22 Sep 2026 05:29 UTC",
+      "url": "https://finnhub.io/api/news?id=b36d210620deb29bb488aca5b7edf4a217af76820e025c05c96f206181bdddc5",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "GPCR",
+      "titulo": "Structure Therapeutics (GPCR) Gains Fresh Obesity Trial Backing Following Data That Keeps Valuation In Focus",
+      "resumen": "Structure Therapeutics (GPCR) has put fresh clinical data for its oral obesity pipeline in front of investors, highlighting results from early stage ACCG-2671 studies and longer term aleniglipron weight loss trials. Recent trading tells a mixed story for Structure Therapeutics. The 1-day share price",
+      "fuente": "Yahoo",
+      "fecha": "22 Sep 2026 11:13 UTC",
+      "url": "https://finnhub.io/api/news?id=654ce657083dc1a37b6d7f9c3fd2dece04642cee7b9c0978b5032128000ab431",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "ARGX",
@@ -427,6 +500,54 @@
       "fuente": "Yahoo",
       "fecha": "20 Sep 2026 10:12 UTC",
       "url": "https://finnhub.io/api/news?id=1ee6ac266f6d29abe0bca4eeb1cd6dc91a882a80d5ca2a09c15a904d99a6a4f2",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ABVX",
+      "titulo": "Nasdaq Gains Over 100 Points, Posts Weekly Gain: Investor Sentiment Improves Slightly, But Greed Index Remains in ‘Fear’ Zone",
+      "resumen": "Market sentiment improved slightly but stayed in Fear; stocks were mixed, the Dow had its worst week since March.",
+      "fuente": "Benzinga",
+      "fecha": "21 Sep 2026 02:47 UTC",
+      "url": "https://finnhub.io/api/news?id=1a6d5d8d9d979847f8991029df1628bf6117c702b01e47050c20eefdb22a719a",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/09/21/Fear-and-Greed.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "HC Wainwright & Co. Reiterates Buy on Alnylam Pharmaceuticals, Maintains $455 Price Target",
+      "resumen": "HC Wainwright &amp; Co.  analyst Patrick R. Trucchio   reiterates Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Buy and maintains $455 price target.",
+      "fuente": "Benzinga",
+      "fecha": "21 Sep 2026 06:34 UTC",
+      "url": "https://finnhub.io/api/news?id=a70fc33a2382c90bcb72488cbc41447204b9a62a9c597fcc586bfb1b69641d60",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "4 Alzheimer's Drug Stocks to Watch on World Alzheimer's Day",
+      "resumen": "Four biotech stocks advance Alzheimer's therapies, from marketed treatments to experimental programs targeting amyloid and tau.",
+      "fuente": "Yahoo",
+      "fecha": "21 Sep 2026 16:40 UTC",
+      "url": "https://finnhub.io/api/news?id=9621dec4437d024eba38c9bebeddc44fda5bb58df29c739bb6a87a7d6b6b34c9",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "Halozyme (HALO) Just Made A $1.3B Bet On Itself",
+      "resumen": "On September 17, Halozyme (NASDAQ:HALO) priced $1.3 billion of convertible senior notes due 2033, an offering that grew from an originally planned $1.05 billion as demand came in. The notes carry a 1.50% coupon and convert into stock at $139.84 a share, a 27.5% premium to the $109.68 closing price t",
+      "fuente": "Yahoo",
+      "fecha": "22 Sep 2026 02:57 UTC",
+      "url": "https://finnhub.io/api/news?id=ba4a8dd6f2a49b5a1582751bf18b519c40df217f011bdeb740f74a7203c6bc86",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",

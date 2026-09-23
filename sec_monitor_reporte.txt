@@ -1,19 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 22/09/2026 12:23 | Período: últimos 7 días
-Desde: 2026-09-15 → Hasta: 2026-09-22
+Generado: 23/09/2026 12:35 | Período: últimos 7 días
+Desde: 2026-09-16 → Hasta: 2026-09-23
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 4 filings | 🔴 0 | 🟢 1 | 🟡 0 | 🔵 3 | ✅ 14 sin novedad
-
-──────────────────────────────────────────────────
-🚨 ALERTAS CRÍTICAS (1)
-──────────────────────────────────────────────────
-
-  [VERA] Vera Therapeutics, Inc.
-  🟢 ALTA 8-K | 2026-09-15
-  8-K — Evento positivo potencial: Resultado estadísticamente significativo [Items: 7.01, 8.01, 9.01]
-  → https://www.sec.gov/Archives/edgar/data/1831828/000119312526391280/d32300d8k.htm
+RESUMEN: 5 filings | 🔴 0 | 🟢 0 | 🟡 0 | 🔵 5 | ✅ 12 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -27,7 +18,11 @@ DETALLE POR TICKER — SEC EDGAR
      🔵 INFO 8-K | 2026-09-22 | Item 8.01: Otros eventos — revisar [Items: 8.01, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1607678/000119312526397219/vktx-20260922.htm
   ✅ [VRTX] Sin novedades
-  ✅ [ALNY] Sin novedades
+
+  🔵 [ALNY] ALNYLAM PHARMACEUTICALS, INC. — 1 filing(s)
+     🔵 INFO 4 | 2026-09-22 | Greenstreet Yvonne (Director / Chief Executive Officer) → Concesión 107 acciones @ $0.00 | Post: 95,802 | Rutinaria/RSU/impuestos
+     Insider: Greenstreet Yvonne (Director / Chief Executive Officer) → Concesión 107 acciones @ $0.00 | Post: 95,802 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000065/xslF345X06/form4.xml
   ✅ [BEAM] Sin novedades
   ✅ [OCUL] Sin novedades
 
@@ -35,15 +30,17 @@ DETALLE POR TICKER — SEC EDGAR
      🔵 INFO 4 | 2026-09-17 | Brille Brian J (Director / See Remarks) → Ejercicio opción 400,000 acciones @ $2.44 | Post: 630,303 | Rutinaria/RSU/impuestos
      Insider: Brille Brian J (Director / See Remarks) → Ejercicio opción 400,000 acciones @ $2.44 | Post: 630,303 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/2019410/000207195926000008/xslF345X06/wk-form4_1789682909.xml
-  ✅ [GPCR] Sin novedades
+
+  🔵 [GPCR] Structure Therapeutics Inc. — 1 filing(s)
+     🔵 INFO 4 | 2026-09-22 | Coll Crespo Blas (CHIEF MEDICAL OFFICER) → Retención impuestos 10,626 acciones @ $11.67 | Post: 270,252 | Rutinaria/RSU/impuestos
+     Insider: Coll Crespo Blas (CHIEF MEDICAL OFFICER) → Retención impuestos 10,626 acciones @ $11.67 | Post: 270,252 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1888886/000203714426000004/xslF345X06/form4-09222026_090944.xml
   ✅ [ABVX] Sin novedades
 
-  🟢 [VERA] Vera Therapeutics, Inc. — 2 filing(s)
+  🔵 [VERA] Vera Therapeutics, Inc. — 1 filing(s)
      🔵 INFO 4 | 2026-09-17 | Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos
      Insider: Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1831828/000185945326000015/xslF345X06/form4-09172026_080936.xml
-     🟢 ALTA 8-K | 2026-09-15 | 8-K — Evento positivo potencial: Resultado estadísticamente significativo [Items: 7.01, 8.01, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1831828/000119312526391280/d32300d8k.htm
   ✅ [ACRV] Sin novedades
   ✅ [TARA] Sin novedades
   ✅ [SENS] Sin novedades
@@ -75,11 +72,11 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Primary completion: 2031-09
        Última actualización: 2026-08-11
        → https://clinicaltrials.gov/study/NCT05524883
-    🟢 ACHIEVE Ph1/2 registracional (z-basivarsen DM1) ⚡CAMBIO
-       Status: Reclutando activamente
-       Enrollment: 116 pacientes
+    🔵 ACHIEVE Ph1/2 registracional (z-basivarsen DM1) ⚡CAMBIO
+       Status: Activo — sin reclutamiento
+       Enrollment: 127 pacientes
        Primary completion: 2029-07
-       Última actualización: 2026-05-12
+       Última actualización: 2026-09-23
        → https://clinicaltrials.gov/study/NCT05481879
     🟢 HARMONIA Ph3 (z-basivarsen DM1 confirmatorio) ⚡CAMBIO
        Status: Reclutando activamente

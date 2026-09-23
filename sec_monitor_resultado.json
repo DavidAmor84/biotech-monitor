@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "22/09/2026 12:23",
+  "generado": "23/09/2026 12:35",
   "periodo_dias": 7,
-  "desde": "2026-09-15",
-  "hasta": "2026-09-22",
+  "desde": "2026-09-16",
+  "hasta": "2026-09-23",
   "resumen": {
-    "total_filings": 4,
+    "total_filings": 5,
     "alertas_rojas": 0,
-    "alertas_verdes": 1,
+    "alertas_verdes": 0,
     "alertas_amarillas": 0,
-    "alertas_azules": 3,
-    "sin_novedad": 14
+    "alertas_azules": 5,
+    "sin_novedad": 12
   },
   "tickers": {
     "SNDX": {
@@ -110,9 +110,36 @@
       "cik": "0001178670",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-09-22",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Greenstreet Yvonne (Director / Chief Executive Officer) → Concesión 107 acciones @ $0.00 | Post: 95,802 | Rutinaria/RSU/impuestos",
+          "detalle": "PRIMARY DOCUMENT",
+          "empresa_sec": "ALNYLAM PHARMACEUTICALS, INC.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000065/xslF345X06/form4.xml",
+          "form4_detail": {
+            "insider_nombre": "Greenstreet Yvonne",
+            "insider_cargo": "Director / Chief Executive Officer",
+            "transaccion_codigo": "A",
+            "transaccion_tipo": "Concesión",
+            "transaccion_acciones": "107",
+            "transaccion_precio": "0",
+            "transaccion_fecha": "2026-09-19",
+            "acciones_post": "95802",
+            "footnotes": "On February 23, 2016, the People, Culture, and Compensation Committee of the issuer approved the issuance of shares of Company common stock having an aggregate value of USD $50,000 to each employee who completes 10 consecutive years of employment. The shares issued and reported here on Form 4, net of the minimum statutory tax liability, were issued to the reporting person in recognition of 10 years of continuous employment on September 19, 2026. Reflects shares of ALNY common stock acquired by the reporting person under the ALNY 401(k) plan as a result of the ALNY 401(k) matching contribution program.",
+            "es_rutinaria": true,
+            "resumen_detail": "Greenstreet Yvonne (Director / Chief Executive Officer) → Concesión 107 acciones @ $0.00 | Post: 95,802 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "BEAM": {
@@ -181,9 +208,36 @@
       "cik": "0001888886",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-09-22",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Coll Crespo Blas (CHIEF MEDICAL OFFICER) → Retención impuestos 10,626 acciones @ $11.67 | Post: 270,252 | Rutinaria/RSU/impuestos",
+          "detalle": "xslF345X06/form4-09222026_090944.xml",
+          "empresa_sec": "Structure Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000203714426000004/xslF345X06/form4-09222026_090944.xml",
+          "form4_detail": {
+            "insider_nombre": "Coll Crespo Blas",
+            "insider_cargo": "CHIEF MEDICAL OFFICER",
+            "transaccion_codigo": "F",
+            "transaccion_tipo": "Retención impuestos",
+            "transaccion_acciones": "10626",
+            "transaccion_precio": "11.67",
+            "transaccion_fecha": "2026-09-18",
+            "acciones_post": "270252",
+            "footnotes": "The Ordinary Shares of the Issuer may be represented by American Depositary Shares (\"ADSs\"). Each ADS represents three Ordinary Shares of the Issuer. Represents shares withheld by the Issuer to satisfy income tax obligations associated with the vesting of a restricted share unit award. Reflects price per share in Ordinary Shares. 12,024 Ordinary Shares were converted into 4,008 American Depositary Shares as reported in Table II. Each American Depositary Share is convertible at any time, at the holder's election, into three Ordinary Shares of the Issuer. The American Depositary Shares have no expiration date. The American Depositary Shares were sold pursuant to a Rule 10b5-1 trading plan entered into on March 30, 2026.",
+            "es_rutinaria": true,
+            "resumen_detail": "Coll Crespo Blas (CHIEF MEDICAL OFFICER) → Retención impuestos 10,626 acciones @ $11.67 | Post: 270,252 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "ABVX": {
@@ -229,35 +283,10 @@
           "8k_detail": null,
           "10q_detail": null,
           "prospecto_detail": null
-        },
-        {
-          "form": "8-K",
-          "fecha": "2026-09-15",
-          "nivel": "verde",
-          "badge": "🟢 ALTA",
-          "resumen": "8-K — Evento positivo potencial: Resultado estadísticamente significativo [Items: 7.01, 8.01, 9.01]",
-          "detalle": "8-K",
-          "empresa_sec": "Vera Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1831828/000119312526391280/d32300d8k.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "7.01",
-              "8.01",
-              "9.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 7.01 Regulation FD Disclosure. On September 15, 2026, Vera Therapeutics, Inc. (the Company ) announced that TRUTAKNA (atacicept-vymj) met all prespecified endpoints of the final efficacy analysis of the ORIGIN 3 trial in adults with primary IgA nephropathy ( IgAN ) at risk for disease progression. A copy of the press release is furnished as Exhibit 99.1. In connection with the data release, the Company updated its corporate presentation (the Corporate Presentation ) to include the final efficacy analysis of the ORIGIN 3 trial referenced above. A copy of the Corporate Presentation is furnished as Exhibit 99.2. For important information about forward-looking statements, see the slide titled Forward-Looking Statements in Exhibit 99.2 attached hereto. The information in this Item 7.01 of this Current Report on Form 8-K, including Exhibits 99.1 and 99.2, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended. The information contained in this Item 7.01, including Exhibits 99.1 and 99.2, shall not be incorporated by reference into any filing with the U.S. Securities and Exchange Commission ( SEC ) made by the Company, whether made before or after the date hereof, regardless of any general incorporation language in such filing. Item 8.01 Other Events. As noted in Item 7.01, on September 15, 2026, the Company announced that TRUTAKNA met all prespecified endpoints of the final efficacy analysis of the ORI",
-            "nivel_ajustado": "verde",
-            "badge_ajustado": "🟢 ALTA",
-            "resumen_ajustado": "8-K — Evento positivo potencial: Resultado estadísticamente significativo"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
         }
       ],
-      "nivel": "verde",
-      "badge": "🟢",
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "ACRV": {
@@ -312,35 +341,7 @@
       "error": "Sin CIK SEC"
     }
   },
-  "alertas_criticas": [
-    {
-      "ticker": "VERA",
-      "nombre": "Vera Therapeutics, Inc.",
-      "form": "8-K",
-      "fecha": "2026-09-15",
-      "nivel": "verde",
-      "badge": "🟢 ALTA",
-      "resumen": "8-K — Evento positivo potencial: Resultado estadísticamente significativo [Items: 7.01, 8.01, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "Vera Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1831828/000119312526391280/d32300d8k.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "7.01",
-          "8.01",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 7.01 Regulation FD Disclosure. On September 15, 2026, Vera Therapeutics, Inc. (the Company ) announced that TRUTAKNA (atacicept-vymj) met all prespecified endpoints of the final efficacy analysis of the ORIGIN 3 trial in adults with primary IgA nephropathy ( IgAN ) at risk for disease progression. A copy of the press release is furnished as Exhibit 99.1. In connection with the data release, the Company updated its corporate presentation (the Corporate Presentation ) to include the final efficacy analysis of the ORIGIN 3 trial referenced above. A copy of the Corporate Presentation is furnished as Exhibit 99.2. For important information about forward-looking statements, see the slide titled Forward-Looking Statements in Exhibit 99.2 attached hereto. The information in this Item 7.01 of this Current Report on Form 8-K, including Exhibits 99.1 and 99.2, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended. The information contained in this Item 7.01, including Exhibits 99.1 and 99.2, shall not be incorporated by reference into any filing with the U.S. Securities and Exchange Commission ( SEC ) made by the Company, whether made before or after the date hereof, regardless of any general incorporation language in such filing. Item 8.01 Other Events. As noted in Item 7.01, on September 15, 2026, the Company announced that TRUTAKNA met all prespecified endpoints of the final efficacy analysis of the ORI",
-        "nivel_ajustado": "verde",
-        "badge_ajustado": "🟢 ALTA",
-        "resumen_ajustado": "8-K — Evento positivo potencial: Resultado estadísticamente significativo"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
-    }
-  ],
+  "alertas_criticas": [],
   "todos_filings": [
     {
       "ticker": "VKTX",
@@ -365,6 +366,62 @@
         "badge_ajustado": "🔵 INFO",
         "resumen_ajustado": "Item 8.01: Otros eventos — revisar"
       },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "ALNY",
+      "nombre": "ALNYLAM PHARMACEUTICALS, INC.",
+      "form": "4",
+      "fecha": "2026-09-22",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Greenstreet Yvonne (Director / Chief Executive Officer) → Concesión 107 acciones @ $0.00 | Post: 95,802 | Rutinaria/RSU/impuestos",
+      "detalle": "PRIMARY DOCUMENT",
+      "empresa_sec": "ALNYLAM PHARMACEUTICALS, INC.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000065/xslF345X06/form4.xml",
+      "form4_detail": {
+        "insider_nombre": "Greenstreet Yvonne",
+        "insider_cargo": "Director / Chief Executive Officer",
+        "transaccion_codigo": "A",
+        "transaccion_tipo": "Concesión",
+        "transaccion_acciones": "107",
+        "transaccion_precio": "0",
+        "transaccion_fecha": "2026-09-19",
+        "acciones_post": "95802",
+        "footnotes": "On February 23, 2016, the People, Culture, and Compensation Committee of the issuer approved the issuance of shares of Company common stock having an aggregate value of USD $50,000 to each employee who completes 10 consecutive years of employment. The shares issued and reported here on Form 4, net of the minimum statutory tax liability, were issued to the reporting person in recognition of 10 years of continuous employment on September 19, 2026. Reflects shares of ALNY common stock acquired by the reporting person under the ALNY 401(k) plan as a result of the ALNY 401(k) matching contribution program.",
+        "es_rutinaria": true,
+        "resumen_detail": "Greenstreet Yvonne (Director / Chief Executive Officer) → Concesión 107 acciones @ $0.00 | Post: 95,802 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "GPCR",
+      "nombre": "Structure Therapeutics Inc.",
+      "form": "4",
+      "fecha": "2026-09-22",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Coll Crespo Blas (CHIEF MEDICAL OFFICER) → Retención impuestos 10,626 acciones @ $11.67 | Post: 270,252 | Rutinaria/RSU/impuestos",
+      "detalle": "xslF345X06/form4-09222026_090944.xml",
+      "empresa_sec": "Structure Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000203714426000004/xslF345X06/form4-09222026_090944.xml",
+      "form4_detail": {
+        "insider_nombre": "Coll Crespo Blas",
+        "insider_cargo": "CHIEF MEDICAL OFFICER",
+        "transaccion_codigo": "F",
+        "transaccion_tipo": "Retención impuestos",
+        "transaccion_acciones": "10626",
+        "transaccion_precio": "11.67",
+        "transaccion_fecha": "2026-09-18",
+        "acciones_post": "270252",
+        "footnotes": "The Ordinary Shares of the Issuer may be represented by American Depositary Shares (\"ADSs\"). Each ADS represents three Ordinary Shares of the Issuer. Represents shares withheld by the Issuer to satisfy income tax obligations associated with the vesting of a restricted share unit award. Reflects price per share in Ordinary Shares. 12,024 Ordinary Shares were converted into 4,008 American Depositary Shares as reported in Table II. Each American Depositary Share is convertible at any time, at the holder's election, into three Ordinary Shares of the Issuer. The American Depositary Shares have no expiration date. The American Depositary Shares were sold pursuant to a Rule 10b5-1 trading plan entered into on March 30, 2026.",
+        "es_rutinaria": true,
+        "resumen_detail": "Coll Crespo Blas (CHIEF MEDICAL OFFICER) → Retención impuestos 10,626 acciones @ $11.67 | Post: 270,252 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
       "10q_detail": null,
       "prospecto_detail": null
     },
@@ -423,33 +480,6 @@
       "8k_detail": null,
       "10q_detail": null,
       "prospecto_detail": null
-    },
-    {
-      "ticker": "VERA",
-      "nombre": "Vera Therapeutics, Inc.",
-      "form": "8-K",
-      "fecha": "2026-09-15",
-      "nivel": "verde",
-      "badge": "🟢 ALTA",
-      "resumen": "8-K — Evento positivo potencial: Resultado estadísticamente significativo [Items: 7.01, 8.01, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "Vera Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1831828/000119312526391280/d32300d8k.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "7.01",
-          "8.01",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 7.01 Regulation FD Disclosure. On September 15, 2026, Vera Therapeutics, Inc. (the Company ) announced that TRUTAKNA (atacicept-vymj) met all prespecified endpoints of the final efficacy analysis of the ORIGIN 3 trial in adults with primary IgA nephropathy ( IgAN ) at risk for disease progression. A copy of the press release is furnished as Exhibit 99.1. In connection with the data release, the Company updated its corporate presentation (the Corporate Presentation ) to include the final efficacy analysis of the ORIGIN 3 trial referenced above. A copy of the Corporate Presentation is furnished as Exhibit 99.2. For important information about forward-looking statements, see the slide titled Forward-Looking Statements in Exhibit 99.2 attached hereto. The information in this Item 7.01 of this Current Report on Form 8-K, including Exhibits 99.1 and 99.2, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section or Sections 11 and 12(a)(2) of the Securities Act of 1933, as amended. The information contained in this Item 7.01, including Exhibits 99.1 and 99.2, shall not be incorporated by reference into any filing with the U.S. Securities and Exchange Commission ( SEC ) made by the Company, whether made before or after the date hereof, regardless of any general incorporation language in such filing. Item 8.01 Other Events. As noted in Item 7.01, on September 15, 2026, the Company announced that TRUTAKNA met all prespecified endpoints of the final efficacy analysis of the ORI",
-        "nivel_ajustado": "verde",
-        "badge_ajustado": "🟢 ALTA",
-        "resumen_ajustado": "8-K — Evento positivo potencial: Resultado estadísticamente significativo"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
     }
   ],
   "clinicaltrials": {
@@ -502,12 +532,12 @@
         "nct": "NCT05481879",
         "nombre": "ACHIEVE Ph1/2 registracional (z-basivarsen DM1)",
         "titulo": "Safety, Tolerability, Pharmacodynamic, Efficacy, and Pharmacokinetic Study of DYNE-101 in Participan",
-        "status": "RECRUITING",
-        "status_desc": "Reclutando activamente",
-        "nivel": "verde",
-        "badge": "🟢",
-        "enrollment": 116,
-        "ultima_actualizacion": "2026-05-12",
+        "status": "ACTIVE_NOT_RECRUITING",
+        "status_desc": "Activo — sin reclutamiento",
+        "nivel": "azul",
+        "badge": "🔵",
+        "enrollment": 127,
+        "ultima_actualizacion": "2026-09-23",
         "fecha_completion_primaria": "2029-07",
         "changed": true,
         "url": "https://clinicaltrials.gov/study/NCT05481879"

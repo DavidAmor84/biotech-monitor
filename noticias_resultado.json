@@ -1,8 +1,8 @@
 {
-  "generado": "23/09/2026 12:43 UTC",
+  "generado": "24/09/2026 12:41 UTC",
   "plazo_horas": 72,
-  "desde": "2026-09-20",
-  "hasta": "2026-09-23",
+  "desde": "2026-09-21",
+  "hasta": "2026-09-24",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -13,6 +13,18 @@
     "ARGX": {
       "nombre": "ARGX",
       "noticias": [
+        {
+          "ticker": "ARGX",
+          "titulo": "These ‘Moonshot’ Biotech Stocks Could Break Out, Morgan Stanley Says. What Must Go Right.",
+          "resumen": "Morgan Stanley highlights high-risk, high-reward biotech stocks poised for massive upside following key upcoming clinical readouts.",
+          "fuente": "Yahoo",
+          "fecha": "23 Sep 2026 05:45 UTC",
+          "url": "https://finnhub.io/api/news?id=062ef42604487f6fb1b989b1073c300436bb966441f11a9b3372f4e2384085c4",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "ARGX",
           "titulo": "Halozyme (HALO) Just Made A $1.3B Bet On Itself",
@@ -26,8 +38,8 @@
           "badge": "🔵"
         }
       ],
-      "nivel": "azul",
-      "total": 1
+      "nivel": "rojo",
+      "total": 2
     },
     "DYN": {
       "nombre": "DYN",
@@ -46,23 +58,35 @@
       "noticias": [
         {
           "ticker": "VKTX",
-          "titulo": "Viking Therapeutics, Inc. (VKTX) Discusses Top Line Data from VK2735 Maintenance Study in Obesity and Type 2 Diabetes - Slideshow",
-          "resumen": "2026-09-22. The following slide deck was published by Viking Therapeutics, Inc.",
+          "titulo": "VKTX Stock Rises on Encouraging Weight-Loss Maintenance Results",
+          "resumen": "Viking Therapeutics' shares jump 36% as VK2735 maintenance data show most weight loss is preserved with less-frequent dosing.",
+          "fuente": "Yahoo",
+          "fecha": "23 Sep 2026 13:42 UTC",
+          "url": "https://finnhub.io/api/news?id=8ee9e20d20930825587fdac7b9171c06d0b7e72849e4290bfcdbd515729be571",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "Viking Therapeutics: 'Strong Buy' On Injectable VK2735 Maintenance Data And Treatment Optionality",
+          "resumen": "Viking Therapeutics maintains a 'Strong Buy' rating, driven by positive phase 2 and maintenance data for its dual GLP-1/GIP agonist VK2735. Click for more.",
           "fuente": "SeekingAlpha",
-          "fecha": "22 Sep 2026 23:33 UTC",
-          "url": "https://finnhub.io/api/news?id=d3bc5fb7906b7d6355a73a0c59f4be8c4a02cfbed633e28f1390dbbf543974d0",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "fecha": "23 Sep 2026 13:09 UTC",
+          "url": "https://finnhub.io/api/news?id=166dd202aa62d2c0a6dcdef2d839f237b3735c383c2ad324b5f6f61089514f90",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2293541979/image_2293541979.jpg?io=getty-c-w1536",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
         },
         {
           "ticker": "VKTX",
-          "titulo": "Viking Therapeutics (VKTX) Rockets 35.7% After Weight Loss Drug Trial — What’s The Selling Point?",
-          "resumen": "Viking Therapeutics Inc. (NASDAQ:VKTX) soared by a whopping 35.67 percent on Tuesday to close at $40.85 apiece—just $2 shy of its 52-week high—after reporting stellar results from its weight loss drug candidate, VK2735. After 21 weeks of clinical trial, the company said that enrolled patients who to",
+          "titulo": "Viking Therapeutics Stock Surges 36% Following Weight Loss Drug Study Results",
+          "resumen": "Key Stats for Viking Therapeutics StockPrice change for Viking Therapeutics stock Today: 36%$VKTX Stock Price as of Sep. 22: $4152-Week High: $43$VKTX Stock Price Target: $92What Happened?Viking Therapeutics (VKTX) stock jumped more than 35% on Tuesday after the company released new data on its obes",
           "fuente": "Yahoo",
-          "fecha": "22 Sep 2026 22:37 UTC",
-          "url": "https://finnhub.io/api/news?id=b1a32be754b78241d02f94dddb8351df346973d64d7ef640b61a98ee3c705a07",
+          "fecha": "23 Sep 2026 12:38 UTC",
+          "url": "https://finnhub.io/api/news?id=74ac1f94108e34820b8337e24d4025e83305676128e037a5bbd26423c01cdf86",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -70,39 +94,27 @@
         },
         {
           "ticker": "VKTX",
-          "titulo": "Lilly Rises Higher as Viking Preserves Up to 90% Monthly",
-          "resumen": "Less-frequent injections could challenge chronic-treatment economics long before Viking reaches the market.",
+          "titulo": "6 ‘Moonshot’ Biotech Stocks That Offer Big Risks, Bigger Rewards",
+          "resumen": "Morgan Stanley highlights high-risk, high-reward biotech stocks poised for massive upside following key upcoming clinical readouts.",
           "fuente": "Yahoo",
-          "fecha": "22 Sep 2026 21:35 UTC",
-          "url": "https://finnhub.io/api/news?id=35e71c066fb482c854f7192cdfeee67a0777a4c059b3dd81c3906c67c34014e9",
+          "fecha": "23 Sep 2026 12:28 UTC",
+          "url": "https://finnhub.io/api/news?id=87962f9bb4b6eb0c25e3cfa1c05685a4b675d266644338f9cd62473a6e65ac29",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "The Stock Market Is Sleeping on the Next Big AI Catalyst",
+          "resumen": "Meta’s annual conference kicks off today, and the latest on Anthropic's IPO, but this is the next big AI catalyst.",
+          "fuente": "Yahoo",
+          "fecha": "23 Sep 2026 11:37 UTC",
+          "url": "https://finnhub.io/api/news?id=b096cae32f515003579c0e0f79cfc899da15a225ba8fb4d4c35a49d44f568cfe",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "Nasdaq Jumps To Close At Record As Chipmakers Climb, Oil Prices Cool — AAPL, META, SPCX, MSFT, VKTX In Focus",
-          "resumen": "Wall Street is gearing up for this week’s summit between Donald Trump and Chinese President Xi Jinping.",
-          "fuente": "Yahoo",
-          "fecha": "22 Sep 2026 21:26 UTC",
-          "url": "https://finnhub.io/api/news?id=cf6b359eed1be11cee0cd30e23e7dfbb5807a0232a285f9348f5ea355e5d4742",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "Sandisk, Lennar, Viking Therapeutics, Shopify, GameStop, and More Stocks That Explain Today’s Market",
-          "resumen": "Sandisk rises. Rosenblatt initiates coverage of the stock with a Buy rating and a price target of $2,400.",
-          "fuente": "Yahoo",
-          "fecha": "22 Sep 2026 20:34 UTC",
-          "url": "https://finnhub.io/api/news?id=ef21d8940808885bf299b0c1651140d3a90d9abde2728583ad8fe9a02583eb67",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
@@ -111,6 +123,42 @@
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex (VRTX) Stock Could Be 24% Undervalued As Kidney Trial Progress Continues",
+          "resumen": "Vertex Pharmaceuticals has ridden a powerful five year share price run while pushing deeper into kidney disease, endocrinology and pain treatments, which puts fresh attention on what investors are really paying for its cash flows today. With the stock near recent highs after a series of clinical and",
+          "fuente": "Yahoo",
+          "fecha": "24 Sep 2026 03:23 UTC",
+          "url": "https://finnhub.io/api/news?id=b178cf9c9a3c71bf57484e7393076efd879db06489a63b1d3ad0ca9ea6966d12",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex Posts Positive Phase II Data on Kidney Disease Drug",
+          "resumen": "VRTX announces positive AMPLIFIED data for inaxaplin, while completing AMPLITUDE enrollment and targeting interim results in early 2027.",
+          "fuente": "Yahoo",
+          "fecha": "23 Sep 2026 16:08 UTC",
+          "url": "https://finnhub.io/api/news?id=a98d3b33622162ff080cdad3121e9da25683017965436b651b972af21f3481ca",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "CRISPR Therapeutics Traded Sideways and Down for 12 Months: One Wall Street Pro Expects 85% Gains Soon",
+          "resumen": "CRISPR Therapeutics owns the only approved gene therapy of its kind, yet the stock sits far below where Wall Street thinks it belongs. One analyst sees a path to gains that would embarrass the broader market, but the numbers tell a complicated story.",
+          "fuente": "Yahoo",
+          "fecha": "23 Sep 2026 12:22 UTC",
+          "url": "https://finnhub.io/api/news?id=22a992c5189f8c70149b83d875e9d4e3a1a430473294d656fa585389bb8fade0",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "VRTX",
           "titulo": "Autologous Hematopoietic Stem Cell Gene Therapy Market Global Report 2026: A $13.44 Billion Market by 2030 as Novartis, Vertex, CRISPR Therapeutics and Orchard Therapeutics Accelerate the Gene-Editing",
@@ -134,42 +182,6 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Twin Moves: VRTX Rises On Kidney Disease Trial Results, MAZE Rallies Harder",
-          "resumen": "Vertex on Tuesday announced results from the mid-stage trial of its experimental pill, inaxaplin, in two groups of patients with APOL1-mediated kidney disease.",
-          "fuente": "Yahoo",
-          "fecha": "22 Sep 2026 17:01 UTC",
-          "url": "https://finnhub.io/api/news?id=5b7dc37ffdea34b3de0eb05acd32ac8d6dad5c01e5da11710b58826f6a9a9854",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex’s Kidney Drug Success Sparks a 22% Surge for This Rival Biotech",
-          "resumen": "Maze Therapeutics stock jumped after Vertex Pharmaceuticals reported positive results for inaxaplin, boosting confidence in a rival treatment from Maze.",
-          "fuente": "Yahoo",
-          "fecha": "22 Sep 2026 16:46 UTC",
-          "url": "https://finnhub.io/api/news?id=682a6ae0753726fdf1372a8cd16cb1ab0d7ed56636c581dc58b575ad56498b17",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "SBIO: Big Pharma Needs What This Fund Owns",
-          "resumen": "The ALPS Medical Breakthroughs ETF is a Buy, as its pullback offers a better entry into late-stage biotech. Click for more on the SBIO ETF.",
-          "fuente": "SeekingAlpha",
-          "fecha": "22 Sep 2026 14:17 UTC",
-          "url": "https://finnhub.io/api/news?id=d70ac5b085b2dd2b11398be094973537ed2cda6076339fbea493af09383d1426",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1386962515/image_1386962515.jpg?io=getty-c-w1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
@@ -201,38 +213,26 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "HC Wainwright & Co. Reiterates Buy on Alnylam Pharmaceuticals, Maintains $455 Price Target",
-          "resumen": "HC Wainwright &amp; Co.  analyst Patrick R. Trucchio   reiterates Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Buy and maintains $455 price target.",
-          "fuente": "Benzinga",
-          "fecha": "21 Sep 2026 06:34 UTC",
-          "url": "https://finnhub.io/api/news?id=a70fc33a2382c90bcb72488cbc41447204b9a62a9c597fcc586bfb1b69641d60",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Alnylam Highlights AMVUTTRA Momentum, Resets 2026 TTR Revenue Outlook",
-          "resumen": "Alnylam Pharmaceuticals (NASDAQ:ALNY) highlighted continued momentum for its AMVUTTRA treatment in transthyretin-mediated cardiomyopathy, while outlining a pipeline of upcoming clinical catalysts and discussing changes in the market that prompted a revision to its 2026 TTR franchise revenue outlook.",
-          "fuente": "Yahoo",
-          "fecha": "20 Sep 2026 16:02 UTC",
-          "url": "https://finnhub.io/api/news?id=665c0f6f25546e7db0819bbcb690c72ad2526df93e0bf2f6dcfbde4aee9cb3e4",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 4
+      "total": 2
     },
     "BEAM": {
       "nombre": "BEAM",
       "noticias": [
+        {
+          "ticker": "BEAM",
+          "titulo": "CRISPR Therapeutics Traded Sideways and Down for 12 Months: One Wall Street Pro Expects 85% Gains Soon",
+          "resumen": "CRISPR Therapeutics owns the only approved gene therapy of its kind, yet the stock sits far below where Wall Street thinks it belongs. One analyst sees a path to gains that would embarrass the broader market, but the numbers tell a complicated story.",
+          "fuente": "Yahoo",
+          "fecha": "23 Sep 2026 12:22 UTC",
+          "url": "https://finnhub.io/api/news?id=22a992c5189f8c70149b83d875e9d4e3a1a430473294d656fa585389bb8fade0",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "BEAM",
           "titulo": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought",
@@ -270,8 +270,8 @@
           "badge": "🔵"
         }
       ],
-      "nivel": "azul",
-      "total": 3
+      "nivel": "rojo",
+      "total": 4
     },
     "OCUL": {
       "nombre": "OCUL",
@@ -383,6 +383,30 @@
       "noticias": [
         {
           "ticker": "ABVX",
+          "titulo": "Abivax: Priced Right Ahead Of 2 Make-Or-Break Catalysts",
+          "resumen": "Abivax is advancing obefazimod for ulcerative colitis and Crohnâs, with recent safety concerns now largely addressed. Read more on ABVX stock here.",
+          "fuente": "SeekingAlpha",
+          "fecha": "23 Sep 2026 13:00 UTC",
+          "url": "https://finnhub.io/api/news?id=97d1e045fd61bf94f39cb113e3b60efd121d2e0446bf96163da177e90db289d6",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2279249103/image_2279249103.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ABVX",
+          "titulo": "BTIG Reiterates Buy on Abivax, Maintains $175 Price Target",
+          "resumen": "BTIG  analyst Julian Harrison   reiterates Abivax (NASDAQ:ABVX) with a Buy and maintains $175 price target.",
+          "fuente": "Benzinga",
+          "fecha": "22 Sep 2026 11:30 UTC",
+          "url": "https://finnhub.io/api/news?id=e3e289ce37a3f416656c24e4534ec623b363f08c47a2cc88e8c17037635f2453",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ABVX",
           "titulo": "These Analysts Slash Their Forecasts On Abivax Following H1 Results",
           "resumen": "Abivax missed EPS estimates but beat sales in H1; shares dipped. Wedbush and Truist cut price targets to $118 and $151.",
           "fuente": "Benzinga",
@@ -412,30 +436,6 @@
           "fuente": "Benzinga",
           "fecha": "22 Sep 2026 08:40 UTC",
           "url": "https://finnhub.io/api/news?id=6928a010a6c1d33686e5480a4ad9eaa774d478ef7ffd68847b087cfa479c7744",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ABVX",
-          "titulo": "Abivax Presents Business Updates and First Half 2026 Financial Results",
-          "resumen": "Abivax Presents Business Updates and First Half 2026 Financial Results Chris Rabbat to succeed Fabio Cataldi as Chief Medical Officer; Tim Kelly appointed Chief Technical Officer to advance commercial supply readiness and lead Abivax’s Chemistry, Manufacturing and Controls (“CMC”), Quality and Infor",
-          "fuente": "Yahoo",
-          "fecha": "21 Sep 2026 20:05 UTC",
-          "url": "https://finnhub.io/api/news?id=373f8a0094d82ba3d27a7849ce2437712cfbcc283c526d5063603b89a269b9aa",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ABVX",
-          "titulo": "Abivax H1 EPS $(2.43) Misses $(1.08) Estimate, Sales $2.959M Beat $1.860M Estimate",
-          "resumen": "Abivax (NASDAQ:ABVX) reported quarterly losses of $(2.43) per share which missed the analyst consensus estimate of $(1.08) by 125 percent. This is a 65.31 percent decrease over losses of $(1.47) per share from the same",
-          "fuente": "Benzinga",
-          "fecha": "21 Sep 2026 16:40 UTC",
-          "url": "https://finnhub.io/api/news?id=ed351d7c80690039451e7bc996be9db91409ab8847185bd048916e4014ebef7e",
           "imagen": "",
           "urgente": false,
           "nivel": "azul",
@@ -474,6 +474,18 @@
       "noticias": [
         {
           "ticker": "INSM",
+          "titulo": "Can LQDA's Yutrepia Outpace Intensifying PAH Competition?",
+          "resumen": "Liquidia's Yutrepia posts rapid sales growth, but intensifying competition from established therapies and emerging drugs could test its momentum.",
+          "fuente": "Yahoo",
+          "fecha": "23 Sep 2026 15:14 UTC",
+          "url": "https://finnhub.io/api/news?id=02998441f46ba4edc52963e4deefab3ef598c7581792d7569e63527770a1842f",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "INSM",
           "titulo": "FDA Accepts Insmed's Filing Seeking Label Expansion for Arikayce",
           "resumen": "INSM's Arikayce label expansion gets FDA priority review, potentially broadening its use in newly diagnosed MAC lung disease.",
           "fuente": "Yahoo",
@@ -507,79 +519,19 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "FDA Grants Priority Review to Insmed's sNDA for ARIKAYCE® (amikacin liposome inhalation suspension) for Treatment of MAC Lung Disease With PDUFA Target Action Date Set for January 28, 2027",
-          "resumen": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced that the U.S. Food and Drug Administration (FDA) has accepted the Company's Supplemen",
-          "fuente": "Yahoo",
-          "fecha": "21 Sep 2026 11:00 UTC",
-          "url": "https://finnhub.io/api/news?id=6cf59088952c7da54064d7485d06ac8ba5a6b77a125c06f63339f8d23906bdfa",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "The FDA Accepts Insmed's Supplemental New Drug Application For Review Of Arikayce (Amikacin Liposome Inhalation Suspension) For Mycobacterium Avium Complex Lung Disease As Part Of Combination Antibact",
-          "resumen": "Insmed Incorporated (NASDAQ:INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced that",
-          "fuente": "Benzinga",
-          "fecha": "21 Sep 2026 07:10 UTC",
-          "url": "https://finnhub.io/api/news?id=9019a33a204287eda65c94172650a4c5add7781c760f2ce0b12df11f4a699b07",
-          "imagen": "",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 5
+      "total": 4
     }
   },
   "resumen": {
-    "total_noticias": 35,
+    "total_noticias": 34,
     "tickers_con_noticias": 10,
-    "alertas_urgentes": 8,
+    "alertas_urgentes": 10,
     "sin_noticias": 7
   },
   "todas_noticias": [
-    {
-      "ticker": "ALNY",
-      "titulo": "Alnylam Highlights AMVUTTRA Momentum, Resets 2026 TTR Revenue Outlook",
-      "resumen": "Alnylam Pharmaceuticals (NASDAQ:ALNY) highlighted continued momentum for its AMVUTTRA treatment in transthyretin-mediated cardiomyopathy, while outlining a pipeline of upcoming clinical catalysts and discussing changes in the market that prompted a revision to its 2026 TTR franchise revenue outlook.",
-      "fuente": "Yahoo",
-      "fecha": "20 Sep 2026 16:02 UTC",
-      "url": "https://finnhub.io/api/news?id=665c0f6f25546e7db0819bbcb690c72ad2526df93e0bf2f6dcfbde4aee9cb3e4",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "The FDA Accepts Insmed's Supplemental New Drug Application For Review Of Arikayce (Amikacin Liposome Inhalation Suspension) For Mycobacterium Avium Complex Lung Disease As Part Of Combination Antibact",
-      "resumen": "Insmed Incorporated (NASDAQ:INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced that",
-      "fuente": "Benzinga",
-      "fecha": "21 Sep 2026 07:10 UTC",
-      "url": "https://finnhub.io/api/news?id=9019a33a204287eda65c94172650a4c5add7781c760f2ce0b12df11f4a699b07",
-      "imagen": "",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "FDA Grants Priority Review to Insmed's sNDA for ARIKAYCE® (amikacin liposome inhalation suspension) for Treatment of MAC Lung Disease With PDUFA Target Action Date Set for January 28, 2027",
-      "resumen": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced that the U.S. Food and Drug Administration (FDA) has accepted the Company's Supplemen",
-      "fuente": "Yahoo",
-      "fecha": "21 Sep 2026 11:00 UTC",
-      "url": "https://finnhub.io/api/news?id=6cf59088952c7da54064d7485d06ac8ba5a6b77a125c06f63339f8d23906bdfa",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "INSM",
       "titulo": "Did FDA Priority Review of ARIKAYCE ENCORE Data Just Shift Insmed's (INSM) Investment Narrative?",
@@ -587,18 +539,6 @@
       "fuente": "Yahoo",
       "fecha": "21 Sep 2026 18:18 UTC",
       "url": "https://finnhub.io/api/news?id=bece424221e5f425556ac71c4844a294b514ea2d8d821c65268929cca04e4b92",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ABVX",
-      "titulo": "Abivax Presents Business Updates and First Half 2026 Financial Results",
-      "resumen": "Abivax Presents Business Updates and First Half 2026 Financial Results Chris Rabbat to succeed Fabio Cataldi as Chief Medical Officer; Tim Kelly appointed Chief Technical Officer to advance commercial supply readiness and lead Abivax’s Chemistry, Manufacturing and Controls (“CMC”), Quality and Infor",
-      "fuente": "Yahoo",
-      "fecha": "21 Sep 2026 20:05 UTC",
-      "url": "https://finnhub.io/api/news?id=373f8a0094d82ba3d27a7849ce2437712cfbcc283c526d5063603b89a269b9aa",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
@@ -665,48 +605,12 @@
       "badge": "🔴"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "SBIO: Big Pharma Needs What This Fund Owns",
-      "resumen": "The ALPS Medical Breakthroughs ETF is a Buy, as its pullback offers a better entry into late-stage biotech. Click for more on the SBIO ETF.",
-      "fuente": "SeekingAlpha",
-      "fecha": "22 Sep 2026 14:17 UTC",
-      "url": "https://finnhub.io/api/news?id=d70ac5b085b2dd2b11398be094973537ed2cda6076339fbea493af09383d1426",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1386962515/image_1386962515.jpg?io=getty-c-w1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
       "ticker": "INSM",
       "titulo": "FDA Accepts Insmed's Filing Seeking Label Expansion for Arikayce",
       "resumen": "INSM's Arikayce label expansion gets FDA priority review, potentially broadening its use in newly diagnosed MAC lung disease.",
       "fuente": "Yahoo",
       "fecha": "22 Sep 2026 16:23 UTC",
       "url": "https://finnhub.io/api/news?id=316e12854c617e220df388493ae82fa48cdf63730f46bdbc38f9e1426aba9913",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex’s Kidney Drug Success Sparks a 22% Surge for This Rival Biotech",
-      "resumen": "Maze Therapeutics stock jumped after Vertex Pharmaceuticals reported positive results for inaxaplin, boosting confidence in a rival treatment from Maze.",
-      "fuente": "Yahoo",
-      "fecha": "22 Sep 2026 16:46 UTC",
-      "url": "https://finnhub.io/api/news?id=682a6ae0753726fdf1372a8cd16cb1ab0d7ed56636c581dc58b575ad56498b17",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Twin Moves: VRTX Rises On Kidney Disease Trial Results, MAZE Rallies Harder",
-      "resumen": "Vertex on Tuesday announced results from the mid-stage trial of its experimental pill, inaxaplin, in two groups of patients with APOL1-mediated kidney disease.",
-      "fuente": "Yahoo",
-      "fecha": "22 Sep 2026 17:01 UTC",
-      "url": "https://finnhub.io/api/news?id=5b7dc37ffdea34b3de0eb05acd32ac8d6dad5c01e5da11710b58826f6a9a9854",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
@@ -737,48 +641,24 @@
       "badge": "🔴"
     },
     {
-      "ticker": "VKTX",
-      "titulo": "Sandisk, Lennar, Viking Therapeutics, Shopify, GameStop, and More Stocks That Explain Today’s Market",
-      "resumen": "Sandisk rises. Rosenblatt initiates coverage of the stock with a Buy rating and a price target of $2,400.",
-      "fuente": "Yahoo",
-      "fecha": "22 Sep 2026 20:34 UTC",
-      "url": "https://finnhub.io/api/news?id=ef21d8940808885bf299b0c1651140d3a90d9abde2728583ad8fe9a02583eb67",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "Viking Therapeutics (VKTX) Rockets 35.7% After Weight Loss Drug Trial — What’s The Selling Point?",
-      "resumen": "Viking Therapeutics Inc. (NASDAQ:VKTX) soared by a whopping 35.67 percent on Tuesday to close at $40.85 apiece—just $2 shy of its 52-week high—after reporting stellar results from its weight loss drug candidate, VK2735. After 21 weeks of clinical trial, the company said that enrolled patients who to",
-      "fuente": "Yahoo",
-      "fecha": "22 Sep 2026 22:37 UTC",
-      "url": "https://finnhub.io/api/news?id=b1a32be754b78241d02f94dddb8351df346973d64d7ef640b61a98ee3c705a07",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "Viking Therapeutics, Inc. (VKTX) Discusses Top Line Data from VK2735 Maintenance Study in Obesity and Type 2 Diabetes - Slideshow",
-      "resumen": "2026-09-22. The following slide deck was published by Viking Therapeutics, Inc.",
-      "fuente": "SeekingAlpha",
-      "fecha": "22 Sep 2026 23:33 UTC",
-      "url": "https://finnhub.io/api/news?id=d3bc5fb7906b7d6355a73a0c59f4be8c4a02cfbed633e28f1390dbbf543974d0",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
       "ticker": "OCUL",
       "titulo": "Ocular Therapeutix Eyes Q4 FDA Filing for AXPAXLI After SOL-1 Success",
       "resumen": "Ocular Therapeutix (NASDAQ:OCUL) said it remains on track to submit a U.S. marketing application for AXPAXLI in the fourth quarter of this year, following what Chief Executive Officer Pravin Dugel described as alignment with the Food and Drug Administration on the company’s planned submission packag",
       "fuente": "Yahoo",
       "fecha": "23 Sep 2026 03:02 UTC",
       "url": "https://finnhub.io/api/news?id=012a22fff0ae8fff37e3250fc86adff22640ed4d48e2f910d41d649810c2f820",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "These ‘Moonshot’ Biotech Stocks Could Break Out, Morgan Stanley Says. What Must Go Right.",
+      "resumen": "Morgan Stanley highlights high-risk, high-reward biotech stocks poised for massive upside following key upcoming clinical readouts.",
+      "fuente": "Yahoo",
+      "fecha": "23 Sep 2026 05:45 UTC",
+      "url": "https://finnhub.io/api/news?id=062ef42604487f6fb1b989b1073c300436bb966441f11a9b3372f4e2384085c4",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
@@ -809,16 +689,100 @@
       "badge": "🔴"
     },
     {
-      "ticker": "ALNY",
-      "titulo": "HC Wainwright & Co. Reiterates Buy on Alnylam Pharmaceuticals, Maintains $455 Price Target",
-      "resumen": "HC Wainwright &amp; Co.  analyst Patrick R. Trucchio   reiterates Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Buy and maintains $455 price target.",
-      "fuente": "Benzinga",
-      "fecha": "21 Sep 2026 06:34 UTC",
-      "url": "https://finnhub.io/api/news?id=a70fc33a2382c90bcb72488cbc41447204b9a62a9c597fcc586bfb1b69641d60",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "ticker": "VRTX",
+      "titulo": "CRISPR Therapeutics Traded Sideways and Down for 12 Months: One Wall Street Pro Expects 85% Gains Soon",
+      "resumen": "CRISPR Therapeutics owns the only approved gene therapy of its kind, yet the stock sits far below where Wall Street thinks it belongs. One analyst sees a path to gains that would embarrass the broader market, but the numbers tell a complicated story.",
+      "fuente": "Yahoo",
+      "fecha": "23 Sep 2026 12:22 UTC",
+      "url": "https://finnhub.io/api/news?id=22a992c5189f8c70149b83d875e9d4e3a1a430473294d656fa585389bb8fade0",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "CRISPR Therapeutics Traded Sideways and Down for 12 Months: One Wall Street Pro Expects 85% Gains Soon",
+      "resumen": "CRISPR Therapeutics owns the only approved gene therapy of its kind, yet the stock sits far below where Wall Street thinks it belongs. One analyst sees a path to gains that would embarrass the broader market, but the numbers tell a complicated story.",
+      "fuente": "Yahoo",
+      "fecha": "23 Sep 2026 12:22 UTC",
+      "url": "https://finnhub.io/api/news?id=22a992c5189f8c70149b83d875e9d4e3a1a430473294d656fa585389bb8fade0",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "6 ‘Moonshot’ Biotech Stocks That Offer Big Risks, Bigger Rewards",
+      "resumen": "Morgan Stanley highlights high-risk, high-reward biotech stocks poised for massive upside following key upcoming clinical readouts.",
+      "fuente": "Yahoo",
+      "fecha": "23 Sep 2026 12:28 UTC",
+      "url": "https://finnhub.io/api/news?id=87962f9bb4b6eb0c25e3cfa1c05685a4b675d266644338f9cd62473a6e65ac29",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Viking Therapeutics Stock Surges 36% Following Weight Loss Drug Study Results",
+      "resumen": "Key Stats for Viking Therapeutics StockPrice change for Viking Therapeutics stock Today: 36%$VKTX Stock Price as of Sep. 22: $4152-Week High: $43$VKTX Stock Price Target: $92What Happened?Viking Therapeutics (VKTX) stock jumped more than 35% on Tuesday after the company released new data on its obes",
+      "fuente": "Yahoo",
+      "fecha": "23 Sep 2026 12:38 UTC",
+      "url": "https://finnhub.io/api/news?id=74ac1f94108e34820b8337e24d4025e83305676128e037a5bbd26423c01cdf86",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Viking Therapeutics: 'Strong Buy' On Injectable VK2735 Maintenance Data And Treatment Optionality",
+      "resumen": "Viking Therapeutics maintains a 'Strong Buy' rating, driven by positive phase 2 and maintenance data for its dual GLP-1/GIP agonist VK2735. Click for more.",
+      "fuente": "SeekingAlpha",
+      "fecha": "23 Sep 2026 13:09 UTC",
+      "url": "https://finnhub.io/api/news?id=166dd202aa62d2c0a6dcdef2d839f237b3735c383c2ad324b5f6f61089514f90",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2293541979/image_2293541979.jpg?io=getty-c-w1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "VKTX Stock Rises on Encouraging Weight-Loss Maintenance Results",
+      "resumen": "Viking Therapeutics' shares jump 36% as VK2735 maintenance data show most weight loss is preserved with less-frequent dosing.",
+      "fuente": "Yahoo",
+      "fecha": "23 Sep 2026 13:42 UTC",
+      "url": "https://finnhub.io/api/news?id=8ee9e20d20930825587fdac7b9171c06d0b7e72849e4290bfcdbd515729be571",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Posts Positive Phase II Data on Kidney Disease Drug",
+      "resumen": "VRTX announces positive AMPLIFIED data for inaxaplin, while completing AMPLITUDE enrollment and targeting interim results in early 2027.",
+      "fuente": "Yahoo",
+      "fecha": "23 Sep 2026 16:08 UTC",
+      "url": "https://finnhub.io/api/news?id=a98d3b33622162ff080cdad3121e9da25683017965436b651b972af21f3481ca",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex (VRTX) Stock Could Be 24% Undervalued As Kidney Trial Progress Continues",
+      "resumen": "Vertex Pharmaceuticals has ridden a powerful five year share price run while pushing deeper into kidney disease, endocrinology and pain treatments, which puts fresh attention on what investors are really paying for its cash flows today. With the stock near recent highs after a series of clinical and",
+      "fuente": "Yahoo",
+      "fecha": "24 Sep 2026 03:23 UTC",
+      "url": "https://finnhub.io/api/news?id=b178cf9c9a3c71bf57484e7393076efd879db06489a63b1d3ad0ca9ea6966d12",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "ALNY",
@@ -828,18 +792,6 @@
       "fecha": "21 Sep 2026 16:40 UTC",
       "url": "https://finnhub.io/api/news?id=9621dec4437d024eba38c9bebeddc44fda5bb58df29c739bb6a87a7d6b6b34c9",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ABVX",
-      "titulo": "Abivax H1 EPS $(2.43) Misses $(1.08) Estimate, Sales $2.959M Beat $1.860M Estimate",
-      "resumen": "Abivax (NASDAQ:ABVX) reported quarterly losses of $(2.43) per share which missed the analyst consensus estimate of $(1.08) by 125 percent. This is a 65.31 percent decrease over losses of $(1.47) per share from the same",
-      "fuente": "Benzinga",
-      "fecha": "21 Sep 2026 16:40 UTC",
-      "url": "https://finnhub.io/api/news?id=ed351d7c80690039451e7bc996be9db91409ab8847185bd048916e4014ebef7e",
-      "imagen": "",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
@@ -905,6 +857,18 @@
       "badge": "🔵"
     },
     {
+      "ticker": "ABVX",
+      "titulo": "BTIG Reiterates Buy on Abivax, Maintains $175 Price Target",
+      "resumen": "BTIG  analyst Julian Harrison   reiterates Abivax (NASDAQ:ABVX) with a Buy and maintains $175 price target.",
+      "fuente": "Benzinga",
+      "fecha": "22 Sep 2026 11:30 UTC",
+      "url": "https://finnhub.io/api/news?id=e3e289ce37a3f416656c24e4534ec623b363f08c47a2cc88e8c17037635f2453",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
       "ticker": "BEAM",
       "titulo": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought",
       "resumen": "The widely followed growth investor keeps making moves.",
@@ -942,23 +906,35 @@
     },
     {
       "ticker": "VKTX",
-      "titulo": "Nasdaq Jumps To Close At Record As Chipmakers Climb, Oil Prices Cool — AAPL, META, SPCX, MSFT, VKTX In Focus",
-      "resumen": "Wall Street is gearing up for this week’s summit between Donald Trump and Chinese President Xi Jinping.",
+      "titulo": "The Stock Market Is Sleeping on the Next Big AI Catalyst",
+      "resumen": "Meta’s annual conference kicks off today, and the latest on Anthropic's IPO, but this is the next big AI catalyst.",
       "fuente": "Yahoo",
-      "fecha": "22 Sep 2026 21:26 UTC",
-      "url": "https://finnhub.io/api/news?id=cf6b359eed1be11cee0cd30e23e7dfbb5807a0232a285f9348f5ea355e5d4742",
+      "fecha": "23 Sep 2026 11:37 UTC",
+      "url": "https://finnhub.io/api/news?id=b096cae32f515003579c0e0f79cfc899da15a225ba8fb4d4c35a49d44f568cfe",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
     },
     {
-      "ticker": "VKTX",
-      "titulo": "Lilly Rises Higher as Viking Preserves Up to 90% Monthly",
-      "resumen": "Less-frequent injections could challenge chronic-treatment economics long before Viking reaches the market.",
+      "ticker": "ABVX",
+      "titulo": "Abivax: Priced Right Ahead Of 2 Make-Or-Break Catalysts",
+      "resumen": "Abivax is advancing obefazimod for ulcerative colitis and Crohnâs, with recent safety concerns now largely addressed. Read more on ABVX stock here.",
+      "fuente": "SeekingAlpha",
+      "fecha": "23 Sep 2026 13:00 UTC",
+      "url": "https://finnhub.io/api/news?id=97d1e045fd61bf94f39cb113e3b60efd121d2e0446bf96163da177e90db289d6",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2279249103/image_2279249103.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Can LQDA's Yutrepia Outpace Intensifying PAH Competition?",
+      "resumen": "Liquidia's Yutrepia posts rapid sales growth, but intensifying competition from established therapies and emerging drugs could test its momentum.",
       "fuente": "Yahoo",
-      "fecha": "22 Sep 2026 21:35 UTC",
-      "url": "https://finnhub.io/api/news?id=35e71c066fb482c854f7192cdfeee67a0777a4c059b3dd81c3906c67c34014e9",
+      "fecha": "23 Sep 2026 15:14 UTC",
+      "url": "https://finnhub.io/api/news?id=02998441f46ba4edc52963e4deefab3ef598c7581792d7569e63527770a1842f",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",

@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "23/09/2026 13:46",
-  "fecha": "2026-09-23",
+  "generado": "24/09/2026 13:41",
+  "fecha": "2026-09-24",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -11,8 +11,8 @@
     "validacion_error": 0,
     "alertas_rojas": 0,
     "alertas_verdes": 5,
-    "alertas_amarillas": 1,
-    "alertas_azules": 28,
+    "alertas_amarillas": 0,
+    "alertas_azules": 29,
     "errores": 0
   },
   "empresas": {
@@ -133,28 +133,9 @@
           "ventana": "2027",
           "monitorizar": true,
           "peso_importancia": 10,
-          "cambios": [
-            {
-              "tipo": "status",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Estado: RECRUITING → ACTIVE_NOT_RECRUITING"
-            },
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2026-05-12 → 2026-09-23"
-            },
-            {
-              "tipo": "enrollment",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Enrollment: 116 → 127"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         },
         {
@@ -223,8 +204,8 @@
           "error": null
         }
       ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "score_relevancia": 29
     },
     "OCUL": {
@@ -1619,7 +1600,7 @@
           "study_completion_date": "2030-09",
           "study_completion_type": "ESTIMATED",
           "start_date": "2025-08-22",
-          "last_update_posted": "2026-09-22",
+          "last_update_posted": "2026-09-24",
           "conditions": [
             "Chronic Inflammatory Demyelinating Polyneuropathy",
             "CIDP",
@@ -1659,7 +1640,14 @@
           "ventana": "2027-2030",
           "monitorizar": true,
           "peso_importancia": 7,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-09-22 → 2026-09-24"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2273,8 +2261,8 @@
       "ticker": "DYN",
       "nct": "NCT05481879",
       "nombre": "ACHIEVE Ph1/2 registracional — z-basivarsen — DM1 · Accel. Approval Q1 2027",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "ACTIVE_NOT_RECRUITING",
       "primary_completion_date": "2029-07",
       "mensaje": "Activo, sin reclutamiento",
@@ -2286,26 +2274,7 @@
       "peso_importancia": 10,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "status",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Estado: RECRUITING → ACTIVE_NOT_RECRUITING"
-        },
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2026-05-12 → 2026-09-23"
-        },
-        {
-          "tipo": "enrollment",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Enrollment: 116 → 127"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT05481879"
     },
     {
@@ -2687,6 +2656,33 @@
       "errores_validacion": [],
       "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT06298552"
+    },
+    {
+      "ticker": "ARGX",
+      "nct": "NCT06920004",
+      "nombre": "emvigorate Ph3 — empasiprubart vs IVIg — CIDP head-to-head",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "RECRUITING",
+      "primary_completion_date": "2027-09",
+      "mensaje": "Reclutando",
+      "prioridad": "media",
+      "estrellas": "⭐⭐",
+      "tipo": "pivotal",
+      "catalizador": "datos Phase 3",
+      "ventana": "2027-2030",
+      "peso_importancia": 7,
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-09-22 → 2026-09-24"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06920004"
     },
     {
       "ticker": "DNLI",

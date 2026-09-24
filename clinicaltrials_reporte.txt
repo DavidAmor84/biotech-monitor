@@ -1,8 +1,8 @@
 ====================================================================================
 CLINICALTRIALS MONITOR v9.3 · Modelo Biotech
-Generado: 23/09/2026 13:46
+Generado: 24/09/2026 13:41
 ====================================================================================
-RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 1 | 🔵 28 | Errores API: 0
+RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 0 | 🔵 29 | Errores API: 0
 
 ------------------------------------------------------------------------------------
 DETALLE POR EMPRESA
@@ -57,10 +57,10 @@ DETALLE POR EMPRESA
      Enrollment: 218
      Primary completion: 2027-09 ESTIMATED
      Study completion: 2030-09 ESTIMATED
-     Last update posted: 2026-09-22
+     Last update posted: 2026-09-24
      → https://clinicaltrials.gov/study/NCT06920004
 
-🟡 [DYN] · Score relevancia: 29
+🔵 [DYN] · Score relevancia: 29
   🔵 ⭐⭐⭐ DELIVER Ph1/2 registracional — z-rostudirsen — DMD exon 51 · BLA en revisión FDA | Prioridad: alta | Validación: OK
      NCT: NCT05524883 | Status: Activo, sin reclutamiento | Tipo: registracional
      Catalizador: BLA / posible aprobación acelerada | Ventana: 2026-2027
@@ -71,7 +71,7 @@ DETALLE POR EMPRESA
      Study completion: 2031-09 ESTIMATED
      Last update posted: 2026-08-11
      → https://clinicaltrials.gov/study/NCT05524883
-  🟡 ⭐⭐⭐ ACHIEVE Ph1/2 registracional — z-basivarsen — DM1 · Accel. Approval Q1 2027 | Prioridad: alta | Validación: OK
+  🔵 ⭐⭐⭐ ACHIEVE Ph1/2 registracional — z-basivarsen — DM1 · Accel. Approval Q1 2027 | Prioridad: alta | Validación: OK
      NCT: NCT05481879 | Status: Activo, sin reclutamiento | Tipo: registracional
      Catalizador: posible aprobación acelerada | Ventana: 2027
      Sponsor: Dyne Therapeutics

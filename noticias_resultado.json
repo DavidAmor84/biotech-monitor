@@ -1,8 +1,8 @@
 {
-  "generado": "24/09/2026 12:41 UTC",
+  "generado": "25/09/2026 12:44 UTC",
   "plazo_horas": 72,
-  "desde": "2026-09-21",
-  "hasta": "2026-09-24",
+  "desde": "2026-09-22",
+  "hasta": "2026-09-25",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -15,11 +15,35 @@
       "noticias": [
         {
           "ticker": "ARGX",
-          "titulo": "These ‘Moonshot’ Biotech Stocks Could Break Out, Morgan Stanley Says. What Must Go Right.",
-          "resumen": "Morgan Stanley highlights high-risk, high-reward biotech stocks poised for massive upside following key upcoming clinical readouts.",
+          "titulo": "European Equities Traded in the US as American Depositary Receipts Edge Lower in Thursday Trading",
+          "resumen": "European equities traded in the US as American depositary receipts were tracking slightly lower Thur",
           "fuente": "Yahoo",
-          "fecha": "23 Sep 2026 05:45 UTC",
-          "url": "https://finnhub.io/api/news?id=062ef42604487f6fb1b989b1073c300436bb966441f11a9b3372f4e2384085c4",
+          "fecha": "24 Sep 2026 15:10 UTC",
+          "url": "https://finnhub.io/api/news?id=25ede88f415f5610a459fe3778d613f23b897c4d9ab4b05718655842a7c3e762",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ARGX",
+          "titulo": "argenx (ENXTBR:ARGX) Shares Moved, So What Is Drawing Attention Now?",
+          "resumen": "argenx (ENXTBR:ARGX) drew fresh attention after its Extraordinary General Meeting confirmed Thomas M. Brakel and Khurem Farooq as new non-executive directors, prompting investors to reassess how board composition might influence longer term decision making. argenx shares trade at €835.8 after a mode",
+          "fuente": "Yahoo",
+          "fecha": "24 Sep 2026 06:12 UTC",
+          "url": "https://finnhub.io/api/news?id=2d6bd4d10985eac4506552b3cc744c7132c2c84b0270a24e1f4a87c5b4a49cc6",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ARGX",
+          "titulo": "argenx (ENXTBR:ARGX) Stock Could Be Pricey Despite Strong Earnings Expectations",
+          "resumen": "argenx has delivered a striking share-price run over the past few years, which naturally puts the microscope on what investors are paying for its earnings today. With the stock coming off a strong multi‑year performance but some recent soft patches, the key issue is whether the current market price ",
+          "fuente": "Yahoo",
+          "fecha": "24 Sep 2026 03:22 UTC",
+          "url": "https://finnhub.io/api/news?id=32310cd7520ae75274b289ee93618e42730a5e3a9c68243e820e2ab918b427fc",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -27,19 +51,31 @@
         },
         {
           "ticker": "ARGX",
-          "titulo": "Halozyme (HALO) Just Made A $1.3B Bet On Itself",
-          "resumen": "On September 17, Halozyme (NASDAQ:HALO) priced $1.3 billion of convertible senior notes due 2033, an offering that grew from an originally planned $1.05 billion as demand came in. The notes carry a 1.50% coupon and convert into stock at $139.84 a share, a 27.5% premium to the $109.68 closing price t",
+          "titulo": "Stock Market Today: Small Caps Lead Dip Amid Hot Economic Data; Micron Keeps Drop In Control (Live Coverage)",
+          "resumen": "Stock Market Today: The Dow Jones index falls Wednesday after the Nasdaq set new highs Tuesday. Micron and Sandisk drop in morning trade.",
           "fuente": "Yahoo",
-          "fecha": "22 Sep 2026 02:57 UTC",
-          "url": "https://finnhub.io/api/news?id=ba4a8dd6f2a49b5a1582751bf18b519c40df217f011bdeb740f74a7203c6bc86",
+          "fecha": "23 Sep 2026 20:59 UTC",
+          "url": "https://finnhub.io/api/news?id=9ed42b91c8b83009392a247c5fe24ff94731aa843903a59ef91c6b0510daace0",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ARGX",
+          "titulo": "6 ‘Moonshot’ Biotech Stocks That Offer Big Risks, Bigger Rewards",
+          "resumen": "Morgan Stanley highlights high-risk, high-reward biotech stocks poised for massive upside following key upcoming clinical readouts.",
+          "fuente": "Yahoo",
+          "fecha": "23 Sep 2026 12:28 UTC",
+          "url": "https://finnhub.io/api/news?id=87962f9bb4b6eb0c25e3cfa1c05685a4b675d266644338f9cd62473a6e65ac29",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 5
     },
     "DYN": {
       "nombre": "DYN",
@@ -58,11 +94,35 @@
       "noticias": [
         {
           "ticker": "VKTX",
-          "titulo": "VKTX Stock Rises on Encouraging Weight-Loss Maintenance Results",
-          "resumen": "Viking Therapeutics' shares jump 36% as VK2735 maintenance data show most weight loss is preserved with less-frequent dosing.",
+          "titulo": "Viking Therapeutics, Inc. (VKTX) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+          "resumen": "Viking Therapeutics, Inc. (VKTX) closed the most recent trading day at $36.75, moving 11.76% from the previous trading session.",
           "fuente": "Yahoo",
-          "fecha": "23 Sep 2026 13:42 UTC",
-          "url": "https://finnhub.io/api/news?id=8ee9e20d20930825587fdac7b9171c06d0b7e72849e4290bfcdbd515729be571",
+          "fecha": "24 Sep 2026 20:45 UTC",
+          "url": "https://finnhub.io/api/news?id=4d6fd8d4b2e288715166d9c305ae3b64c4382673d21f4e3e84fc63f674df8082",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "One investor reportedly took a third of Viking’s share sale",
+          "resumen": "Investing.com -- Viking Therapeutics Inc. completed a $500 million capital raise through a two-part offering, with one investor acquiring approximately one-third of the shares in the upsized equity portion, Bloomberg reported Thursday.",
+          "fuente": "Yahoo",
+          "fecha": "24 Sep 2026 17:48 UTC",
+          "url": "https://finnhub.io/api/news?id=117f4185baa251fd44fd03cb257601f1abc04dc1f30c10054c459efed44c7f67",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "Here's Why Viking Therapeutics Shares Slumped Today",
+          "resumen": "It's been an eventful week for the weight-loss drug company, which continues to impress with its clinical data, and today's move isn't much to worry about.",
+          "fuente": "Yahoo",
+          "fecha": "24 Sep 2026 15:50 UTC",
+          "url": "https://finnhub.io/api/news?id=7b46a8942101ba1017d613609b75887af58caa597dfb0692612a6840a8627ae4",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -70,23 +130,11 @@
         },
         {
           "ticker": "VKTX",
-          "titulo": "Viking Therapeutics: 'Strong Buy' On Injectable VK2735 Maintenance Data And Treatment Optionality",
-          "resumen": "Viking Therapeutics maintains a 'Strong Buy' rating, driven by positive phase 2 and maintenance data for its dual GLP-1/GIP agonist VK2735. Click for more.",
-          "fuente": "SeekingAlpha",
-          "fecha": "23 Sep 2026 13:09 UTC",
-          "url": "https://finnhub.io/api/news?id=166dd202aa62d2c0a6dcdef2d839f237b3735c383c2ad324b5f6f61089514f90",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2293541979/image_2293541979.jpg?io=getty-c-w1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "Viking Therapeutics Stock Surges 36% Following Weight Loss Drug Study Results",
-          "resumen": "Key Stats for Viking Therapeutics StockPrice change for Viking Therapeutics stock Today: 36%$VKTX Stock Price as of Sep. 22: $4152-Week High: $43$VKTX Stock Price Target: $92What Happened?Viking Therapeutics (VKTX) stock jumped more than 35% on Tuesday after the company released new data on its obes",
+          "titulo": "Viking Therapeutics Sinks 12% on “Upsized” $500 Million Raise",
+          "resumen": "Viking Therapeutics (VKTX) shares are down about 12% this morning after the company priced a $500 million raise. Two days ago, when the stock soared on its maintenance study results, I wrote that “if management needs to dilute shareholders with a follow-on equity offering, I expect plenty of takers.",
           "fuente": "Yahoo",
-          "fecha": "23 Sep 2026 12:38 UTC",
-          "url": "https://finnhub.io/api/news?id=74ac1f94108e34820b8337e24d4025e83305676128e037a5bbd26423c01cdf86",
+          "fecha": "24 Sep 2026 14:24 UTC",
+          "url": "https://finnhub.io/api/news?id=2bdff1adc7883ed508e7b4cbc83c6dd9af155f25c101a981b71b1c65eaa5eba4",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -94,23 +142,11 @@
         },
         {
           "ticker": "VKTX",
-          "titulo": "6 ‘Moonshot’ Biotech Stocks That Offer Big Risks, Bigger Rewards",
-          "resumen": "Morgan Stanley highlights high-risk, high-reward biotech stocks poised for massive upside following key upcoming clinical readouts.",
+          "titulo": "Viking Therapeutics Sinks 15% After Pricing Upsized $500M Offering; Jaguar Health Tumbles 25%",
+          "resumen": "Two biotech stocks are getting crushed while the sector benchmark climbs, and the reasons behind each selloff could not be more different. Understanding what separates a deliberate corporate move from pure micro-cap chaos is the key to reading both situations correctly.",
           "fuente": "Yahoo",
-          "fecha": "23 Sep 2026 12:28 UTC",
-          "url": "https://finnhub.io/api/news?id=87962f9bb4b6eb0c25e3cfa1c05685a4b675d266644338f9cd62473a6e65ac29",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "The Stock Market Is Sleeping on the Next Big AI Catalyst",
-          "resumen": "Meta’s annual conference kicks off today, and the latest on Anthropic's IPO, but this is the next big AI catalyst.",
-          "fuente": "Yahoo",
-          "fecha": "23 Sep 2026 11:37 UTC",
-          "url": "https://finnhub.io/api/news?id=b096cae32f515003579c0e0f79cfc899da15a225ba8fb4d4c35a49d44f568cfe",
+          "fecha": "24 Sep 2026 14:23 UTC",
+          "url": "https://finnhub.io/api/news?id=8aac685980aec9635768581e3f203fb9e85959e4933af99ce60f24d6d4e7970a",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
@@ -125,11 +161,11 @@
       "noticias": [
         {
           "ticker": "VRTX",
-          "titulo": "Vertex (VRTX) Stock Could Be 24% Undervalued As Kidney Trial Progress Continues",
-          "resumen": "Vertex Pharmaceuticals has ridden a powerful five year share price run while pushing deeper into kidney disease, endocrinology and pain treatments, which puts fresh attention on what investors are really paying for its cash flows today. With the stock near recent highs after a series of clinical and",
+          "titulo": "Maze Therapeutics (MAZE) Shares Moved, So What Is Driving Attention Now?",
+          "resumen": "Fresh Coverage Puts Maze Therapeutics in Focus Maze Therapeutics (MAZE) moved higher in pre-market trading on 23 September after CIBC began covering the clinical-stage kidney and metabolic disease specialist, with the share reaction unfolding alongside new kidney data from Vertex Pharmaceuticals. Re",
           "fuente": "Yahoo",
-          "fecha": "24 Sep 2026 03:23 UTC",
-          "url": "https://finnhub.io/api/news?id=b178cf9c9a3c71bf57484e7393076efd879db06489a63b1d3ad0ca9ea6966d12",
+          "fecha": "25 Sep 2026 04:23 UTC",
+          "url": "https://finnhub.io/api/news?id=bc77ee2f3a731640cb511366a42735fcd3fed89234dd95f89b3c42f07dff1808",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -137,51 +173,51 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "Vertex Posts Positive Phase II Data on Kidney Disease Drug",
-          "resumen": "VRTX announces positive AMPLIFIED data for inaxaplin, while completing AMPLITUDE enrollment and targeting interim results in early 2027.",
+          "titulo": "Vertex Pharmaceuticals (VRTX) Increases Despite Market Slip: Here's What You Need to Know",
+          "resumen": "Vertex Pharmaceuticals (VRTX) closed at $522.38 in the latest trading session, marking a +1.17% move from the prior day.",
           "fuente": "Yahoo",
-          "fecha": "23 Sep 2026 16:08 UTC",
-          "url": "https://finnhub.io/api/news?id=a98d3b33622162ff080cdad3121e9da25683017965436b651b972af21f3481ca",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "CRISPR Therapeutics Traded Sideways and Down for 12 Months: One Wall Street Pro Expects 85% Gains Soon",
-          "resumen": "CRISPR Therapeutics owns the only approved gene therapy of its kind, yet the stock sits far below where Wall Street thinks it belongs. One analyst sees a path to gains that would embarrass the broader market, but the numbers tell a complicated story.",
-          "fuente": "Yahoo",
-          "fecha": "23 Sep 2026 12:22 UTC",
-          "url": "https://finnhub.io/api/news?id=22a992c5189f8c70149b83d875e9d4e3a1a430473294d656fa585389bb8fade0",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Autologous Hematopoietic Stem Cell Gene Therapy Market Global Report 2026: A $13.44 Billion Market by 2030 as Novartis, Vertex, CRISPR Therapeutics and Orchard Therapeutics Accelerate the Gene-Editing",
-          "resumen": "Boost ROI via rare-disease R&D, CRISPR therapies, scalable manufacturing, CDMO partnerships and regulatory incentives that accelerate approvals and commercialization. Autologous Hematopoietic Stem Cell Gene Therapy Market Autologous Hematopoietic Stem Cell Gene Therapy Market Dublin, Sept. 23, 2026 ",
-          "fuente": "Yahoo",
-          "fecha": "23 Sep 2026 10:49 UTC",
-          "url": "https://finnhub.io/api/news?id=0a13f5a67b8180abcef8254a1d573ad4d482836f915f01c00fae2dc6849110d9",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "The Surprise That Sent Vertex — And Its Chief Rival — Soaring",
-          "resumen": "Vertex stock popped Tuesday — while shares of rival Maze Therapeutics skyrocketed — on a surprise expansion for their kidney disease drugs.",
-          "fuente": "Yahoo",
-          "fecha": "22 Sep 2026 17:39 UTC",
-          "url": "https://finnhub.io/api/news?id=fe02e3a8e191484d3f1b2d83c5415de18f887b655ef7fe8ebf13c605948ecd92",
+          "fecha": "24 Sep 2026 20:50 UTC",
+          "url": "https://finnhub.io/api/news?id=8d960186a0c346263dfff2e307f730d164cd86c45a32484e1998e77e86f3a011",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Crispr Therapeutics: Why AI Giant Anthropic's Discovery Has Rocked Gene Editing",
+          "resumen": "",
+          "fuente": "SeekingAlpha",
+          "fecha": "24 Sep 2026 14:59 UTC",
+          "url": "https://finnhub.io/api/news?id=e5b28f04036f73c4e5e5d62cd7d6c652d57fb578b4b8687edc670e0b567a5243",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Will Vertex's Kidney Disease Pipeline Be a New Growth Engine?",
+          "resumen": "VRTX is expanding beyond its CF stronghold with a promising kidney disease pipeline led by povetacicept and inaxaplin.",
+          "fuente": "Yahoo",
+          "fecha": "24 Sep 2026 14:27 UTC",
+          "url": "https://finnhub.io/api/news?id=8a32f016a9b3684f1fe9cfa6af45d10ca02839421a41253f2f7a3954c90aa335",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Lilly’s latest China drug deal; Immunovant’s setback in lupus",
+          "resumen": "Lilly wagered up to $3.35 billion in its fourth China-focused alliance since January 2025. Elsewhere, analysts are now more confident about one of Vertex’s top prospects and an RNA drug succeeded against a rare form of ALS.",
+          "fuente": "Yahoo",
+          "fecha": "24 Sep 2026 14:14 UTC",
+          "url": "https://finnhub.io/api/news?id=abc95706b599049ea61198dad4403b3c20a062769fff63f839285132541fe923",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
@@ -190,6 +226,30 @@
     "ALNY": {
       "nombre": "ALNY",
       "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "RNAi drug specialist ADARx raises $446M IPO",
+          "resumen": "ADARx is the only maker of RNA-based drugs to go public since 2024 and the first RNAi biotech to price an IPO in the U.S. in more than a decade.",
+          "fuente": "Yahoo",
+          "fecha": "25 Sep 2026 00:36 UTC",
+          "url": "https://finnhub.io/api/news?id=1fd36013929a761d6c8f46c97dbf8562efcdccbd14b8b3cf5171ca6e2b610859",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Novo Nordisk: Capital Markets Day Reveals Its Next Growth Engine",
+          "resumen": "Novo Nordisk A/Sâs 2030 pipeline targets, Wegovy pill growth and Q2 sales show major upside. Click for this NVO stock update.",
+          "fuente": "SeekingAlpha",
+          "fecha": "24 Sep 2026 09:39 UTC",
+          "url": "https://finnhub.io/api/news?id=47fb0c0d1ea5d7f938146cd3d2cba6f7f12e5e792a65b7020e835a670e3f34b7",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/103332926/image_103332926.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "ALNY",
           "titulo": "Was Moderna Stock's Cancer Vaccine Run Visible In Advance?",
@@ -201,26 +261,50 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "4 Alzheimer's Drug Stocks to Watch on World Alzheimer's Day",
-          "resumen": "Four biotech stocks advance Alzheimer's therapies, from marketed treatments to experimental programs targeting amyloid and tau.",
-          "fuente": "Yahoo",
-          "fecha": "21 Sep 2026 16:40 UTC",
-          "url": "https://finnhub.io/api/news?id=9621dec4437d024eba38c9bebeddc44fda5bb58df29c739bb6a87a7d6b6b34c9",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 3
     },
     "BEAM": {
       "nombre": "BEAM",
       "noticias": [
+        {
+          "ticker": "BEAM",
+          "titulo": "Crispr Therapeutics: Why AI Giant Anthropic's Discovery Has Rocked Gene Editing",
+          "resumen": "",
+          "fuente": "SeekingAlpha",
+          "fecha": "24 Sep 2026 14:59 UTC",
+          "url": "https://finnhub.io/api/news?id=e5b28f04036f73c4e5e5d62cd7d6c652d57fb578b4b8687edc670e0b567a5243",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "BEAM",
+          "titulo": "Anthropic AI Discovery Gene-Editing Stocks Falling",
+          "resumen": "Anthropic says Claude identified a novel enzyme system with characteristics reminiscent of CRISPR",
+          "fuente": "Yahoo",
+          "fecha": "24 Sep 2026 12:46 UTC",
+          "url": "https://finnhub.io/api/news?id=f2a49904a86d10d21792117697b52df5460da845dbfcf7a4aba248356b15fc00",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "BEAM",
+          "titulo": "Beam Therapeutics (BEAM) Stock Could Trade At A Premium As Gene Editing Interest Grows",
+          "resumen": "Beam Therapeutics sits in a crowded gene editing field, and its share price history raises a simple question for you as an investor: Is the current US$24.37 price properly reflecting what the business is generating in sales today? Over the past 5 years the stock has fallen 72.1%, which puts the focu",
+          "fuente": "Yahoo",
+          "fecha": "24 Sep 2026 01:14 UTC",
+          "url": "https://finnhub.io/api/news?id=909a2dd8c036df07475bb9a8e60711a31d9f2cd326ca31b6a1506c6713c063e2",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "BEAM",
           "titulo": "CRISPR Therapeutics Traded Sideways and Down for 12 Months: One Wall Street Pro Expects 85% Gains Soon",
@@ -244,38 +328,26 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
+        }
+      ],
+      "nivel": "rojo",
+      "total": 5
+    },
+    "OCUL": {
+      "nombre": "OCUL",
+      "noticias": [
         {
-          "ticker": "BEAM",
-          "titulo": "Beyond Meta, Cathie Wood’s ARKG Loads Up On These 4 Biotech Names",
-          "resumen": "ARK’s latest portfolio moves spotlighted IONS, VCYT, SCTX, and BEAM as the firm increased its biotech exposure alongside a major Meta purchase.",
+          "ticker": "OCUL",
+          "titulo": "Ocular Therapeutix and ANI Pharmaceuticals Stocks Trade Down, What You Need To Know",
+          "resumen": "A number of stocks fell in the afternoon session after sentiment in the healthcare sector weakened, as the Centers for Medicare and Medicaid Services moved to cancel Affordable Care Act coverage for roughly 760,000 people and claw back billions in subsidies.",
           "fuente": "Yahoo",
-          "fecha": "22 Sep 2026 11:10 UTC",
-          "url": "https://finnhub.io/api/news?id=aa301be7380290cb3549100a94a50ed15300090cae7ec2f4d3e307125f58e209",
+          "fecha": "23 Sep 2026 21:38 UTC",
+          "url": "https://finnhub.io/api/news?id=4d859abb63dfb366a05c7ae731fbe621edb02bc13fd79678a39621fecb0b216a",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         },
-        {
-          "ticker": "BEAM",
-          "titulo": "Cathie Wood Loads Up On Biotech: 5 ETFs Holding Her Latest Bets",
-          "resumen": "Cathie Wood’s ARKG bought Ionis, Beam, Veracyte and Scribe Therapeutics. Here are the biotech ETFs that also hold her latest bets.",
-          "fuente": "Benzinga",
-          "fecha": "22 Sep 2026 10:40 UTC",
-          "url": "https://finnhub.io/api/news?id=0ed87ebca19796f2f033dd2053d3825edb0e6f4b210de7a1ba342ae3fe69d47f",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/09/22/ARK-Invest-Photo-Cathie-Wood-3.png?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 4
-    },
-    "OCUL": {
-      "nombre": "OCUL",
-      "noticias": [
         {
           "ticker": "OCUL",
           "titulo": "Is Ocular Therapeutix (OCUL) Stock a Buy Ahead of Its Major NDA Catalyst?",
@@ -302,7 +374,7 @@
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 3
     },
     "CAI": {
       "nombre": "CAI",
@@ -318,26 +390,26 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "CAI",
-          "titulo": "Caris Life Sciences: Adjusting My Position After A Recent Steep Incline (Downgrade)",
-          "resumen": "Caris Life Sciences' Q2 featured accelerating clinical volumes, 68% gross margin, and strong early traction for Caris Detect. Read why CAI stock is a Hold.",
-          "fuente": "SeekingAlpha",
-          "fecha": "22 Sep 2026 02:21 UTC",
-          "url": "https://finnhub.io/api/news?id=dc7fa802c5782d4c6bc4d0d019eed686d90b10fdee500bce99a7d782e5a50cae",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2285026184/image_2285026184.jpg?io=getty-c-w1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
-      "nivel": "rojo",
-      "total": 2
+      "nivel": "azul",
+      "total": 1
     },
     "GPCR": {
       "nombre": "GPCR",
       "noticias": [
+        {
+          "ticker": "GPCR",
+          "titulo": "Can Novo's Rare Disease Pipeline Add a New Growth Pillar Beyond GLP-1?",
+          "resumen": "NVO's rare disease pipeline gains momentum as Frehemgo and Sogroya receive positive CHMP opinions for EU approval, opening new growth opportunities beyond GLP-1.",
+          "fuente": "Yahoo",
+          "fecha": "23 Sep 2026 14:11 UTC",
+          "url": "https://finnhub.io/api/news?id=dc5058d57340ac7bb16f5557c6114282e776c23b10205bde32d07b87af95147d",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "GPCR",
           "titulo": "Viking Soars Alone as Obesity Complex Shrugs at Strong GLP-1 Results",
@@ -349,34 +421,10 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "GPCR",
-          "titulo": "Structure Therapeutics (GPCR) Gains Fresh Obesity Trial Backing Following Data That Keeps Valuation In Focus",
-          "resumen": "Structure Therapeutics (GPCR) has put fresh clinical data for its oral obesity pipeline in front of investors, highlighting results from early stage ACCG-2671 studies and longer term aleniglipron weight loss trials. Recent trading tells a mixed story for Structure Therapeutics. The 1-day share price",
-          "fuente": "Yahoo",
-          "fecha": "22 Sep 2026 11:13 UTC",
-          "url": "https://finnhub.io/api/news?id=654ce657083dc1a37b6d7f9c3fd2dece04642cee7b9c0978b5032128000ab431",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "GPCR",
-          "titulo": "VKTX, GPCR, ALT Stocks Rise: Novo Nordisk Signals Bigger M&A As It Chases Over 5 ‘Multi-Blockbusters’",
-          "resumen": "Novo targets over $23 billion in risk-adjusted pipeline sales by 2035, excluding any contribution from future acquisitions.",
-          "fuente": "Yahoo",
-          "fecha": "22 Sep 2026 05:29 UTC",
-          "url": "https://finnhub.io/api/news?id=b36d210620deb29bb488aca5b7edf4a217af76820e025c05c96f206181bdddc5",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 2
     },
     "ABVX": {
       "nombre": "ABVX",
@@ -392,64 +440,29 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
+    },
+    "VERA": {
+      "nombre": "VERA",
+      "noticias": [
         {
-          "ticker": "ABVX",
-          "titulo": "BTIG Reiterates Buy on Abivax, Maintains $175 Price Target",
-          "resumen": "BTIG  analyst Julian Harrison   reiterates Abivax (NASDAQ:ABVX) with a Buy and maintains $175 price target.",
-          "fuente": "Benzinga",
-          "fecha": "22 Sep 2026 11:30 UTC",
-          "url": "https://finnhub.io/api/news?id=e3e289ce37a3f416656c24e4534ec623b363f08c47a2cc88e8c17037635f2453",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ABVX",
-          "titulo": "These Analysts Slash Their Forecasts On Abivax Following H1 Results",
-          "resumen": "Abivax missed EPS estimates but beat sales in H1; shares dipped. Wedbush and Truist cut price targets to $118 and $151.",
-          "fuente": "Benzinga",
-          "fecha": "22 Sep 2026 09:28 UTC",
-          "url": "https://finnhub.io/api/news?id=584b86fc4510a16b07e47fa6d140de3a8afcfd19bd26400b6eb518f071480725",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/09/22/Analysts-Debate-Depreciation-Impact.jpg?width=2048&height=1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ABVX",
-          "titulo": "Truist Securities Maintains Buy on Abivax, Lowers Price Target to $151",
-          "resumen": "Truist Securities  analyst Gregory Renza   maintains Abivax (NASDAQ:ABVX) with a Buy and lowers the price target from $155 to $151.",
-          "fuente": "Benzinga",
-          "fecha": "22 Sep 2026 09:19 UTC",
-          "url": "https://finnhub.io/api/news?id=87c97e0e38d597452047946c70b1b2eba5e544fcce36e2803ac07ca0b7949dbf",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ABVX",
-          "titulo": "Wedbush Maintains Neutral on Abivax, Lowers Price Target to $118",
-          "resumen": "Wedbush  analyst David Nierengarten   maintains Abivax (NASDAQ:ABVX) with a Neutral and lowers the price target from $140 to $118.",
-          "fuente": "Benzinga",
-          "fecha": "22 Sep 2026 08:40 UTC",
-          "url": "https://finnhub.io/api/news?id=6928a010a6c1d33686e5480a4ad9eaa774d478ef7ffd68847b087cfa479c7744",
-          "imagen": "",
+          "ticker": "VERA",
+          "titulo": "Will Vertex's Kidney Disease Pipeline Be a New Growth Engine?",
+          "resumen": "VRTX is expanding beyond its CF stronghold with a promising kidney disease pipeline led by povetacicept and inaxaplin.",
+          "fuente": "Yahoo",
+          "fecha": "24 Sep 2026 14:27 UTC",
+          "url": "https://finnhub.io/api/news?id=8a32f016a9b3684f1fe9cfa6af45d10ca02839421a41253f2f7a3954c90aa335",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         }
       ],
-      "nivel": "rojo",
-      "total": 5
-    },
-    "VERA": {
-      "nombre": "VERA",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "nivel": "azul",
+      "total": 1
     },
     "ACRV": {
       "nombre": "ACRV",
@@ -474,6 +487,18 @@
       "noticias": [
         {
           "ticker": "INSM",
+          "titulo": "Goldman Sachs Reinstates Buy on Insmed, Announces $188 Price Target",
+          "resumen": "Goldman Sachs  analyst Andrea Newkirk   reinstates Insmed (NASDAQ:INSM) with a Buy and announces $188 price target.",
+          "fuente": "Benzinga",
+          "fecha": "24 Sep 2026 09:42 UTC",
+          "url": "https://finnhub.io/api/news?id=9cb10fd4dca4907668b627d4997f5053e8a2b6235bc87b408dc185ab0c9ae578",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "INSM",
           "titulo": "Can LQDA's Yutrepia Outpace Intensifying PAH Competition?",
           "resumen": "Liquidia's Yutrepia posts rapid sales growth, but intensifying competition from established therapies and emerging drugs could test its momentum.",
           "fuente": "Yahoo",
@@ -495,115 +520,19 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "Insmed: Expensive Stock, But Discount To Recent Highs Makes Bull Case",
-          "resumen": "Insmed Incorporated is rated a Buy, driven by Brinsupriâs blockbuster launch and strong TPIP Phase 2b data. Read more on INSM stock here.",
-          "fuente": "SeekingAlpha",
-          "fecha": "22 Sep 2026 10:43 UTC",
-          "url": "https://finnhub.io/api/news?id=6f3e1368bd62d6b98672234b527ef63c2fb6472696ee3b04662a7bb352c9a09c",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2233334965/image_2233334965.jpg?io=getty-c-w1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "Did FDA Priority Review of ARIKAYCE ENCORE Data Just Shift Insmed's (INSM) Investment Narrative?",
-          "resumen": "Insmed has reported that the U.S. FDA previously accepted its supplemental New Drug Application for ARIKAYCE for MAC lung disease under Priority Review, with a target action date of January 28, 2027, based on positive Phase 3b ENCORE data fulfilling a key post-marketing requirement. The ENCORE trial",
-          "fuente": "Yahoo",
-          "fecha": "21 Sep 2026 18:18 UTC",
-          "url": "https://finnhub.io/api/news?id=bece424221e5f425556ac71c4844a294b514ea2d8d821c65268929cca04e4b92",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 4
+      "total": 3
     }
   },
   "resumen": {
     "total_noticias": 34,
-    "tickers_con_noticias": 10,
-    "alertas_urgentes": 10,
-    "sin_noticias": 7
+    "tickers_con_noticias": 11,
+    "alertas_urgentes": 8,
+    "sin_noticias": 6
   },
   "todas_noticias": [
-    {
-      "ticker": "INSM",
-      "titulo": "Did FDA Priority Review of ARIKAYCE ENCORE Data Just Shift Insmed's (INSM) Investment Narrative?",
-      "resumen": "Insmed has reported that the U.S. FDA previously accepted its supplemental New Drug Application for ARIKAYCE for MAC lung disease under Priority Review, with a target action date of January 28, 2027, based on positive Phase 3b ENCORE data fulfilling a key post-marketing requirement. The ENCORE trial",
-      "fuente": "Yahoo",
-      "fecha": "21 Sep 2026 18:18 UTC",
-      "url": "https://finnhub.io/api/news?id=bece424221e5f425556ac71c4844a294b514ea2d8d821c65268929cca04e4b92",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "CAI",
-      "titulo": "Caris Life Sciences: Adjusting My Position After A Recent Steep Incline (Downgrade)",
-      "resumen": "Caris Life Sciences' Q2 featured accelerating clinical volumes, 68% gross margin, and strong early traction for Caris Detect. Read why CAI stock is a Hold.",
-      "fuente": "SeekingAlpha",
-      "fecha": "22 Sep 2026 02:21 UTC",
-      "url": "https://finnhub.io/api/news?id=dc7fa802c5782d4c6bc4d0d019eed686d90b10fdee500bce99a7d782e5a50cae",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2285026184/image_2285026184.jpg?io=getty-c-w1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "GPCR",
-      "titulo": "VKTX, GPCR, ALT Stocks Rise: Novo Nordisk Signals Bigger M&A As It Chases Over 5 ‘Multi-Blockbusters’",
-      "resumen": "Novo targets over $23 billion in risk-adjusted pipeline sales by 2035, excluding any contribution from future acquisitions.",
-      "fuente": "Yahoo",
-      "fecha": "22 Sep 2026 05:29 UTC",
-      "url": "https://finnhub.io/api/news?id=b36d210620deb29bb488aca5b7edf4a217af76820e025c05c96f206181bdddc5",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ABVX",
-      "titulo": "These Analysts Slash Their Forecasts On Abivax Following H1 Results",
-      "resumen": "Abivax missed EPS estimates but beat sales in H1; shares dipped. Wedbush and Truist cut price targets to $118 and $151.",
-      "fuente": "Benzinga",
-      "fecha": "22 Sep 2026 09:28 UTC",
-      "url": "https://finnhub.io/api/news?id=584b86fc4510a16b07e47fa6d140de3a8afcfd19bd26400b6eb518f071480725",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/09/22/Analysts-Debate-Depreciation-Impact.jpg?width=2048&height=1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "Insmed: Expensive Stock, But Discount To Recent Highs Makes Bull Case",
-      "resumen": "Insmed Incorporated is rated a Buy, driven by Brinsupriâs blockbuster launch and strong TPIP Phase 2b data. Read more on INSM stock here.",
-      "fuente": "SeekingAlpha",
-      "fecha": "22 Sep 2026 10:43 UTC",
-      "url": "https://finnhub.io/api/news?id=6f3e1368bd62d6b98672234b527ef63c2fb6472696ee3b04662a7bb352c9a09c",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2233334965/image_2233334965.jpg?io=getty-c-w1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "GPCR",
-      "titulo": "Structure Therapeutics (GPCR) Gains Fresh Obesity Trial Backing Following Data That Keeps Valuation In Focus",
-      "resumen": "Structure Therapeutics (GPCR) has put fresh clinical data for its oral obesity pipeline in front of investors, highlighting results from early stage ACCG-2671 studies and longer term aleniglipron weight loss trials. Recent trading tells a mixed story for Structure Therapeutics. The 1-day share price",
-      "fuente": "Yahoo",
-      "fecha": "22 Sep 2026 11:13 UTC",
-      "url": "https://finnhub.io/api/news?id=654ce657083dc1a37b6d7f9c3fd2dece04642cee7b9c0978b5032128000ab431",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "INSM",
       "titulo": "FDA Accepts Insmed's Filing Seeking Label Expansion for Arikayce",
@@ -653,18 +582,6 @@
       "badge": "🔴"
     },
     {
-      "ticker": "ARGX",
-      "titulo": "These ‘Moonshot’ Biotech Stocks Could Break Out, Morgan Stanley Says. What Must Go Right.",
-      "resumen": "Morgan Stanley highlights high-risk, high-reward biotech stocks poised for massive upside following key upcoming clinical readouts.",
-      "fuente": "Yahoo",
-      "fecha": "23 Sep 2026 05:45 UTC",
-      "url": "https://finnhub.io/api/news?id=062ef42604487f6fb1b989b1073c300436bb966441f11a9b3372f4e2384085c4",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
       "ticker": "OCUL",
       "titulo": "Is Ocular Therapeutix (OCUL) Stock a Buy Ahead of Its Major NDA Catalyst?",
       "resumen": "In the high-stakes realm of clinical-stage biotechnology, long-term shareholder value is fundamentally forged by pipeline assets that solve deep-seated clinical bottlenecks while offering significant pricing power and capital efficiency. Ocular Therapeutix (NASDAQ:OCUL) operates squarely at this int",
@@ -677,30 +594,6 @@
       "badge": "🔴"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "Autologous Hematopoietic Stem Cell Gene Therapy Market Global Report 2026: A $13.44 Billion Market by 2030 as Novartis, Vertex, CRISPR Therapeutics and Orchard Therapeutics Accelerate the Gene-Editing",
-      "resumen": "Boost ROI via rare-disease R&D, CRISPR therapies, scalable manufacturing, CDMO partnerships and regulatory incentives that accelerate approvals and commercialization. Autologous Hematopoietic Stem Cell Gene Therapy Market Autologous Hematopoietic Stem Cell Gene Therapy Market Dublin, Sept. 23, 2026 ",
-      "fuente": "Yahoo",
-      "fecha": "23 Sep 2026 10:49 UTC",
-      "url": "https://finnhub.io/api/news?id=0a13f5a67b8180abcef8254a1d573ad4d482836f915f01c00fae2dc6849110d9",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "CRISPR Therapeutics Traded Sideways and Down for 12 Months: One Wall Street Pro Expects 85% Gains Soon",
-      "resumen": "CRISPR Therapeutics owns the only approved gene therapy of its kind, yet the stock sits far below where Wall Street thinks it belongs. One analyst sees a path to gains that would embarrass the broader market, but the numbers tell a complicated story.",
-      "fuente": "Yahoo",
-      "fecha": "23 Sep 2026 12:22 UTC",
-      "url": "https://finnhub.io/api/news?id=22a992c5189f8c70149b83d875e9d4e3a1a430473294d656fa585389bb8fade0",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
       "ticker": "BEAM",
       "titulo": "CRISPR Therapeutics Traded Sideways and Down for 12 Months: One Wall Street Pro Expects 85% Gains Soon",
       "resumen": "CRISPR Therapeutics owns the only approved gene therapy of its kind, yet the stock sits far below where Wall Street thinks it belongs. One analyst sees a path to gains that would embarrass the broader market, but the numbers tell a complicated story.",
@@ -713,7 +606,7 @@
       "badge": "🔴"
     },
     {
-      "ticker": "VKTX",
+      "ticker": "ARGX",
       "titulo": "6 ‘Moonshot’ Biotech Stocks That Offer Big Risks, Bigger Rewards",
       "resumen": "Morgan Stanley highlights high-risk, high-reward biotech stocks poised for massive upside following key upcoming clinical readouts.",
       "fuente": "Yahoo",
@@ -725,148 +618,100 @@
       "badge": "🔴"
     },
     {
-      "ticker": "VKTX",
-      "titulo": "Viking Therapeutics Stock Surges 36% Following Weight Loss Drug Study Results",
-      "resumen": "Key Stats for Viking Therapeutics StockPrice change for Viking Therapeutics stock Today: 36%$VKTX Stock Price as of Sep. 22: $4152-Week High: $43$VKTX Stock Price Target: $92What Happened?Viking Therapeutics (VKTX) stock jumped more than 35% on Tuesday after the company released new data on its obes",
+      "ticker": "GPCR",
+      "titulo": "Can Novo's Rare Disease Pipeline Add a New Growth Pillar Beyond GLP-1?",
+      "resumen": "NVO's rare disease pipeline gains momentum as Frehemgo and Sogroya receive positive CHMP opinions for EU approval, opening new growth opportunities beyond GLP-1.",
       "fuente": "Yahoo",
-      "fecha": "23 Sep 2026 12:38 UTC",
-      "url": "https://finnhub.io/api/news?id=74ac1f94108e34820b8337e24d4025e83305676128e037a5bbd26423c01cdf86",
+      "fecha": "23 Sep 2026 14:11 UTC",
+      "url": "https://finnhub.io/api/news?id=dc5058d57340ac7bb16f5557c6114282e776c23b10205bde32d07b87af95147d",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "Viking Therapeutics: 'Strong Buy' On Injectable VK2735 Maintenance Data And Treatment Optionality",
-      "resumen": "Viking Therapeutics maintains a 'Strong Buy' rating, driven by positive phase 2 and maintenance data for its dual GLP-1/GIP agonist VK2735. Click for more.",
-      "fuente": "SeekingAlpha",
-      "fecha": "23 Sep 2026 13:09 UTC",
-      "url": "https://finnhub.io/api/news?id=166dd202aa62d2c0a6dcdef2d839f237b3735c383c2ad324b5f6f61089514f90",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2293541979/image_2293541979.jpg?io=getty-c-w1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "VKTX Stock Rises on Encouraging Weight-Loss Maintenance Results",
-      "resumen": "Viking Therapeutics' shares jump 36% as VK2735 maintenance data show most weight loss is preserved with less-frequent dosing.",
-      "fuente": "Yahoo",
-      "fecha": "23 Sep 2026 13:42 UTC",
-      "url": "https://finnhub.io/api/news?id=8ee9e20d20930825587fdac7b9171c06d0b7e72849e4290bfcdbd515729be571",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex Posts Positive Phase II Data on Kidney Disease Drug",
-      "resumen": "VRTX announces positive AMPLIFIED data for inaxaplin, while completing AMPLITUDE enrollment and targeting interim results in early 2027.",
-      "fuente": "Yahoo",
-      "fecha": "23 Sep 2026 16:08 UTC",
-      "url": "https://finnhub.io/api/news?id=a98d3b33622162ff080cdad3121e9da25683017965436b651b972af21f3481ca",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex (VRTX) Stock Could Be 24% Undervalued As Kidney Trial Progress Continues",
-      "resumen": "Vertex Pharmaceuticals has ridden a powerful five year share price run while pushing deeper into kidney disease, endocrinology and pain treatments, which puts fresh attention on what investors are really paying for its cash flows today. With the stock near recent highs after a series of clinical and",
-      "fuente": "Yahoo",
-      "fecha": "24 Sep 2026 03:23 UTC",
-      "url": "https://finnhub.io/api/news?id=b178cf9c9a3c71bf57484e7393076efd879db06489a63b1d3ad0ca9ea6966d12",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "4 Alzheimer's Drug Stocks to Watch on World Alzheimer's Day",
-      "resumen": "Four biotech stocks advance Alzheimer's therapies, from marketed treatments to experimental programs targeting amyloid and tau.",
-      "fuente": "Yahoo",
-      "fecha": "21 Sep 2026 16:40 UTC",
-      "url": "https://finnhub.io/api/news?id=9621dec4437d024eba38c9bebeddc44fda5bb58df29c739bb6a87a7d6b6b34c9",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
     },
     {
       "ticker": "ARGX",
-      "titulo": "Halozyme (HALO) Just Made A $1.3B Bet On Itself",
-      "resumen": "On September 17, Halozyme (NASDAQ:HALO) priced $1.3 billion of convertible senior notes due 2033, an offering that grew from an originally planned $1.05 billion as demand came in. The notes carry a 1.50% coupon and convert into stock at $139.84 a share, a 27.5% premium to the $109.68 closing price t",
+      "titulo": "Stock Market Today: Small Caps Lead Dip Amid Hot Economic Data; Micron Keeps Drop In Control (Live Coverage)",
+      "resumen": "Stock Market Today: The Dow Jones index falls Wednesday after the Nasdaq set new highs Tuesday. Micron and Sandisk drop in morning trade.",
       "fuente": "Yahoo",
-      "fecha": "22 Sep 2026 02:57 UTC",
-      "url": "https://finnhub.io/api/news?id=ba4a8dd6f2a49b5a1582751bf18b519c40df217f011bdeb740f74a7203c6bc86",
+      "fecha": "23 Sep 2026 20:59 UTC",
+      "url": "https://finnhub.io/api/news?id=9ed42b91c8b83009392a247c5fe24ff94731aa843903a59ef91c6b0510daace0",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ABVX",
-      "titulo": "Wedbush Maintains Neutral on Abivax, Lowers Price Target to $118",
-      "resumen": "Wedbush  analyst David Nierengarten   maintains Abivax (NASDAQ:ABVX) with a Neutral and lowers the price target from $140 to $118.",
-      "fuente": "Benzinga",
-      "fecha": "22 Sep 2026 08:40 UTC",
-      "url": "https://finnhub.io/api/news?id=6928a010a6c1d33686e5480a4ad9eaa774d478ef7ffd68847b087cfa479c7744",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ABVX",
-      "titulo": "Truist Securities Maintains Buy on Abivax, Lowers Price Target to $151",
-      "resumen": "Truist Securities  analyst Gregory Renza   maintains Abivax (NASDAQ:ABVX) with a Buy and lowers the price target from $155 to $151.",
-      "fuente": "Benzinga",
-      "fecha": "22 Sep 2026 09:19 UTC",
-      "url": "https://finnhub.io/api/news?id=87c97e0e38d597452047946c70b1b2eba5e544fcce36e2803ac07ca0b7949dbf",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "BEAM",
-      "titulo": "Cathie Wood Loads Up On Biotech: 5 ETFs Holding Her Latest Bets",
-      "resumen": "Cathie Wood’s ARKG bought Ionis, Beam, Veracyte and Scribe Therapeutics. Here are the biotech ETFs that also hold her latest bets.",
-      "fuente": "Benzinga",
-      "fecha": "22 Sep 2026 10:40 UTC",
-      "url": "https://finnhub.io/api/news?id=0ed87ebca19796f2f033dd2053d3825edb0e6f4b210de7a1ba342ae3fe69d47f",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/09/22/ARK-Invest-Photo-Cathie-Wood-3.png?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "BEAM",
-      "titulo": "Beyond Meta, Cathie Wood’s ARKG Loads Up On These 4 Biotech Names",
-      "resumen": "ARK’s latest portfolio moves spotlighted IONS, VCYT, SCTX, and BEAM as the firm increased its biotech exposure alongside a major Meta purchase.",
+      "titulo": "Beam Therapeutics (BEAM) Stock Could Trade At A Premium As Gene Editing Interest Grows",
+      "resumen": "Beam Therapeutics sits in a crowded gene editing field, and its share price history raises a simple question for you as an investor: Is the current US$24.37 price properly reflecting what the business is generating in sales today? Over the past 5 years the stock has fallen 72.1%, which puts the focu",
       "fuente": "Yahoo",
-      "fecha": "22 Sep 2026 11:10 UTC",
-      "url": "https://finnhub.io/api/news?id=aa301be7380290cb3549100a94a50ed15300090cae7ec2f4d3e307125f58e209",
+      "fecha": "24 Sep 2026 01:14 UTC",
+      "url": "https://finnhub.io/api/news?id=909a2dd8c036df07475bb9a8e60711a31d9f2cd326ca31b6a1506c6713c063e2",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "ABVX",
-      "titulo": "BTIG Reiterates Buy on Abivax, Maintains $175 Price Target",
-      "resumen": "BTIG  analyst Julian Harrison   reiterates Abivax (NASDAQ:ABVX) with a Buy and maintains $175 price target.",
-      "fuente": "Benzinga",
-      "fecha": "22 Sep 2026 11:30 UTC",
-      "url": "https://finnhub.io/api/news?id=e3e289ce37a3f416656c24e4534ec623b363f08c47a2cc88e8c17037635f2453",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "ticker": "ARGX",
+      "titulo": "argenx (ENXTBR:ARGX) Stock Could Be Pricey Despite Strong Earnings Expectations",
+      "resumen": "argenx has delivered a striking share-price run over the past few years, which naturally puts the microscope on what investors are paying for its earnings today. With the stock coming off a strong multi‑year performance but some recent soft patches, the key issue is whether the current market price ",
+      "fuente": "Yahoo",
+      "fecha": "24 Sep 2026 03:22 UTC",
+      "url": "https://finnhub.io/api/news?id=32310cd7520ae75274b289ee93618e42730a5e3a9c68243e820e2ab918b427fc",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Lilly’s latest China drug deal; Immunovant’s setback in lupus",
+      "resumen": "Lilly wagered up to $3.35 billion in its fourth China-focused alliance since January 2025. Elsewhere, analysts are now more confident about one of Vertex’s top prospects and an RNA drug succeeded against a rare form of ALS.",
+      "fuente": "Yahoo",
+      "fecha": "24 Sep 2026 14:14 UTC",
+      "url": "https://finnhub.io/api/news?id=abc95706b599049ea61198dad4403b3c20a062769fff63f839285132541fe923",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Viking Therapeutics Sinks 12% on “Upsized” $500 Million Raise",
+      "resumen": "Viking Therapeutics (VKTX) shares are down about 12% this morning after the company priced a $500 million raise. Two days ago, when the stock soared on its maintenance study results, I wrote that “if management needs to dilute shareholders with a follow-on equity offering, I expect plenty of takers.",
+      "fuente": "Yahoo",
+      "fecha": "24 Sep 2026 14:24 UTC",
+      "url": "https://finnhub.io/api/news?id=2bdff1adc7883ed508e7b4cbc83c6dd9af155f25c101a981b71b1c65eaa5eba4",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Here's Why Viking Therapeutics Shares Slumped Today",
+      "resumen": "It's been an eventful week for the weight-loss drug company, which continues to impress with its clinical data, and today's move isn't much to worry about.",
+      "fuente": "Yahoo",
+      "fecha": "24 Sep 2026 15:50 UTC",
+      "url": "https://finnhub.io/api/news?id=7b46a8942101ba1017d613609b75887af58caa597dfb0692612a6840a8627ae4",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Maze Therapeutics (MAZE) Shares Moved, So What Is Driving Attention Now?",
+      "resumen": "Fresh Coverage Puts Maze Therapeutics in Focus Maze Therapeutics (MAZE) moved higher in pre-market trading on 23 September after CIBC began covering the clinical-stage kidney and metabolic disease specialist, with the share reaction unfolding alongside new kidney data from Vertex Pharmaceuticals. Re",
+      "fuente": "Yahoo",
+      "fecha": "25 Sep 2026 04:23 UTC",
+      "url": "https://finnhub.io/api/news?id=bc77ee2f3a731640cb511366a42735fcd3fed89234dd95f89b3c42f07dff1808",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "BEAM",
@@ -881,36 +726,12 @@
       "badge": "🔵"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "The Surprise That Sent Vertex — And Its Chief Rival — Soaring",
-      "resumen": "Vertex stock popped Tuesday — while shares of rival Maze Therapeutics skyrocketed — on a surprise expansion for their kidney disease drugs.",
-      "fuente": "Yahoo",
-      "fecha": "22 Sep 2026 17:39 UTC",
-      "url": "https://finnhub.io/api/news?id=fe02e3a8e191484d3f1b2d83c5415de18f887b655ef7fe8ebf13c605948ecd92",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
       "ticker": "CAI",
       "titulo": "Caris Life Sciences Coasts Past A Buy Point; Why This Texas Biotech Researcher Deserves A Look",
       "resumen": "In general, many current shareholders have lived through a deep correction that started after Caris Life Sciences peaked at 42.50 on Aug. 22 last year.  Thus, Caris Life Sciences is still extended.  Caris Life Sciences uses artificial intelligence and other technology to profile molecules of interes",
       "fuente": "Yahoo",
       "fecha": "22 Sep 2026 18:01 UTC",
       "url": "https://finnhub.io/api/news?id=6ae1fdcfd06de1c654ef2ce67958d49581ed13fff111a86af021a3452ad246f3",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "The Stock Market Is Sleeping on the Next Big AI Catalyst",
-      "resumen": "Meta’s annual conference kicks off today, and the latest on Anthropic's IPO, but this is the next big AI catalyst.",
-      "fuente": "Yahoo",
-      "fecha": "23 Sep 2026 11:37 UTC",
-      "url": "https://finnhub.io/api/news?id=b096cae32f515003579c0e0f79cfc899da15a225ba8fb4d4c35a49d44f568cfe",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
@@ -935,6 +756,186 @@
       "fuente": "Yahoo",
       "fecha": "23 Sep 2026 15:14 UTC",
       "url": "https://finnhub.io/api/news?id=02998441f46ba4edc52963e4deefab3ef598c7581792d7569e63527770a1842f",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "OCUL",
+      "titulo": "Ocular Therapeutix and ANI Pharmaceuticals Stocks Trade Down, What You Need To Know",
+      "resumen": "A number of stocks fell in the afternoon session after sentiment in the healthcare sector weakened, as the Centers for Medicare and Medicaid Services moved to cancel Affordable Care Act coverage for roughly 760,000 people and claw back billions in subsidies.",
+      "fuente": "Yahoo",
+      "fecha": "23 Sep 2026 21:38 UTC",
+      "url": "https://finnhub.io/api/news?id=4d859abb63dfb366a05c7ae731fbe621edb02bc13fd79678a39621fecb0b216a",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "argenx (ENXTBR:ARGX) Shares Moved, So What Is Drawing Attention Now?",
+      "resumen": "argenx (ENXTBR:ARGX) drew fresh attention after its Extraordinary General Meeting confirmed Thomas M. Brakel and Khurem Farooq as new non-executive directors, prompting investors to reassess how board composition might influence longer term decision making. argenx shares trade at €835.8 after a mode",
+      "fuente": "Yahoo",
+      "fecha": "24 Sep 2026 06:12 UTC",
+      "url": "https://finnhub.io/api/news?id=2d6bd4d10985eac4506552b3cc744c7132c2c84b0270a24e1f4a87c5b4a49cc6",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Novo Nordisk: Capital Markets Day Reveals Its Next Growth Engine",
+      "resumen": "Novo Nordisk A/Sâs 2030 pipeline targets, Wegovy pill growth and Q2 sales show major upside. Click for this NVO stock update.",
+      "fuente": "SeekingAlpha",
+      "fecha": "24 Sep 2026 09:39 UTC",
+      "url": "https://finnhub.io/api/news?id=47fb0c0d1ea5d7f938146cd3d2cba6f7f12e5e792a65b7020e835a670e3f34b7",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/103332926/image_103332926.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Goldman Sachs Reinstates Buy on Insmed, Announces $188 Price Target",
+      "resumen": "Goldman Sachs  analyst Andrea Newkirk   reinstates Insmed (NASDAQ:INSM) with a Buy and announces $188 price target.",
+      "fuente": "Benzinga",
+      "fecha": "24 Sep 2026 09:42 UTC",
+      "url": "https://finnhub.io/api/news?id=9cb10fd4dca4907668b627d4997f5053e8a2b6235bc87b408dc185ab0c9ae578",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "Anthropic AI Discovery Gene-Editing Stocks Falling",
+      "resumen": "Anthropic says Claude identified a novel enzyme system with characteristics reminiscent of CRISPR",
+      "fuente": "Yahoo",
+      "fecha": "24 Sep 2026 12:46 UTC",
+      "url": "https://finnhub.io/api/news?id=f2a49904a86d10d21792117697b52df5460da845dbfcf7a4aba248356b15fc00",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Viking Therapeutics Sinks 15% After Pricing Upsized $500M Offering; Jaguar Health Tumbles 25%",
+      "resumen": "Two biotech stocks are getting crushed while the sector benchmark climbs, and the reasons behind each selloff could not be more different. Understanding what separates a deliberate corporate move from pure micro-cap chaos is the key to reading both situations correctly.",
+      "fuente": "Yahoo",
+      "fecha": "24 Sep 2026 14:23 UTC",
+      "url": "https://finnhub.io/api/news?id=8aac685980aec9635768581e3f203fb9e85959e4933af99ce60f24d6d4e7970a",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Will Vertex's Kidney Disease Pipeline Be a New Growth Engine?",
+      "resumen": "VRTX is expanding beyond its CF stronghold with a promising kidney disease pipeline led by povetacicept and inaxaplin.",
+      "fuente": "Yahoo",
+      "fecha": "24 Sep 2026 14:27 UTC",
+      "url": "https://finnhub.io/api/news?id=8a32f016a9b3684f1fe9cfa6af45d10ca02839421a41253f2f7a3954c90aa335",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VERA",
+      "titulo": "Will Vertex's Kidney Disease Pipeline Be a New Growth Engine?",
+      "resumen": "VRTX is expanding beyond its CF stronghold with a promising kidney disease pipeline led by povetacicept and inaxaplin.",
+      "fuente": "Yahoo",
+      "fecha": "24 Sep 2026 14:27 UTC",
+      "url": "https://finnhub.io/api/news?id=8a32f016a9b3684f1fe9cfa6af45d10ca02839421a41253f2f7a3954c90aa335",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Crispr Therapeutics: Why AI Giant Anthropic's Discovery Has Rocked Gene Editing",
+      "resumen": "",
+      "fuente": "SeekingAlpha",
+      "fecha": "24 Sep 2026 14:59 UTC",
+      "url": "https://finnhub.io/api/news?id=e5b28f04036f73c4e5e5d62cd7d6c652d57fb578b4b8687edc670e0b567a5243",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "Crispr Therapeutics: Why AI Giant Anthropic's Discovery Has Rocked Gene Editing",
+      "resumen": "",
+      "fuente": "SeekingAlpha",
+      "fecha": "24 Sep 2026 14:59 UTC",
+      "url": "https://finnhub.io/api/news?id=e5b28f04036f73c4e5e5d62cd7d6c652d57fb578b4b8687edc670e0b567a5243",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "European Equities Traded in the US as American Depositary Receipts Edge Lower in Thursday Trading",
+      "resumen": "European equities traded in the US as American depositary receipts were tracking slightly lower Thur",
+      "fuente": "Yahoo",
+      "fecha": "24 Sep 2026 15:10 UTC",
+      "url": "https://finnhub.io/api/news?id=25ede88f415f5610a459fe3778d613f23b897c4d9ab4b05718655842a7c3e762",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "One investor reportedly took a third of Viking’s share sale",
+      "resumen": "Investing.com -- Viking Therapeutics Inc. completed a $500 million capital raise through a two-part offering, with one investor acquiring approximately one-third of the shares in the upsized equity portion, Bloomberg reported Thursday.",
+      "fuente": "Yahoo",
+      "fecha": "24 Sep 2026 17:48 UTC",
+      "url": "https://finnhub.io/api/news?id=117f4185baa251fd44fd03cb257601f1abc04dc1f30c10054c459efed44c7f67",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Viking Therapeutics, Inc. (VKTX) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "resumen": "Viking Therapeutics, Inc. (VKTX) closed the most recent trading day at $36.75, moving 11.76% from the previous trading session.",
+      "fuente": "Yahoo",
+      "fecha": "24 Sep 2026 20:45 UTC",
+      "url": "https://finnhub.io/api/news?id=4d6fd8d4b2e288715166d9c305ae3b64c4382673d21f4e3e84fc63f674df8082",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals (VRTX) Increases Despite Market Slip: Here's What You Need to Know",
+      "resumen": "Vertex Pharmaceuticals (VRTX) closed at $522.38 in the latest trading session, marking a +1.17% move from the prior day.",
+      "fuente": "Yahoo",
+      "fecha": "24 Sep 2026 20:50 UTC",
+      "url": "https://finnhub.io/api/news?id=8d960186a0c346263dfff2e307f730d164cd86c45a32484e1998e77e86f3a011",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "RNAi drug specialist ADARx raises $446M IPO",
+      "resumen": "ADARx is the only maker of RNA-based drugs to go public since 2024 and the first RNAi biotech to price an IPO in the U.S. in more than a decade.",
+      "fuente": "Yahoo",
+      "fecha": "25 Sep 2026 00:36 UTC",
+      "url": "https://finnhub.io/api/news?id=1fd36013929a761d6c8f46c97dbf8562efcdccbd14b8b3cf5171ca6e2b610859",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",

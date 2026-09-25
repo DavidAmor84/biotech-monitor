@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "24/09/2026 13:41",
-  "fecha": "2026-09-24",
+  "generado": "25/09/2026 14:02",
+  "fecha": "2026-09-25",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -156,7 +156,7 @@
           "study_completion_date": "2029-01",
           "study_completion_type": "ESTIMATED",
           "start_date": "2026-05-14",
-          "last_update_posted": "2026-09-03",
+          "last_update_posted": "2026-09-25",
           "conditions": [
             "Myotonic Dystrophy Type 1 (DM1)",
             "DM1",
@@ -198,7 +198,14 @@
           "ventana": "2028",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-09-03 → 2026-09-25"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -756,7 +763,7 @@
           "study_completion_date": "2031-01",
           "study_completion_type": "ESTIMATED",
           "start_date": "2025-11-25",
-          "last_update_posted": "2026-08-28",
+          "last_update_posted": "2026-09-25",
           "conditions": [
             "Acute Myeloid Leukemias"
           ],
@@ -794,7 +801,14 @@
           "ventana": "2029",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-08-28 → 2026-09-25"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1640,14 +1654,7 @@
           "ventana": "2027-2030",
           "monitorizar": true,
           "peso_importancia": 7,
-          "cambios": [
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2026-09-22 → 2026-09-24"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2294,7 +2301,14 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-09-03 → 2026-09-25"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT07486934"
     },
     {
@@ -2474,7 +2488,14 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-08-28 → 2026-09-25"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT07211958"
     },
     {
@@ -2656,33 +2677,6 @@
       "errores_validacion": [],
       "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT06298552"
-    },
-    {
-      "ticker": "ARGX",
-      "nct": "NCT06920004",
-      "nombre": "emvigorate Ph3 — empasiprubart vs IVIg — CIDP head-to-head",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2027-09",
-      "mensaje": "Reclutando",
-      "prioridad": "media",
-      "estrellas": "⭐⭐",
-      "tipo": "pivotal",
-      "catalizador": "datos Phase 3",
-      "ventana": "2027-2030",
-      "peso_importancia": 7,
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2026-09-22 → 2026-09-24"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06920004"
     },
     {
       "ticker": "DNLI",

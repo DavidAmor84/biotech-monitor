@@ -1,14 +1,26 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 24/09/2026 12:33 | Período: últimos 7 días
-Desde: 2026-09-17 → Hasta: 2026-09-24
+Generado: 25/09/2026 12:35 | Período: últimos 7 días
+Desde: 2026-09-18 → Hasta: 2026-09-25
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 8 filings | 🔴 2 | 🟢 0 | 🟡 1 | 🔵 5 | ✅ 12 sin novedad
+RESUMEN: 8 filings | 🔴 4 | 🟢 0 | 🟡 1 | 🔵 3 | ✅ 13 sin novedad
 
 ──────────────────────────────────────────────────
-🚨 ALERTAS CRÍTICAS (2)
+🚨 ALERTAS CRÍTICAS (4)
 ──────────────────────────────────────────────────
+
+  [VKTX] Viking Therapeutics, Inc.
+  🔴 ALTA 424B5 | 2026-09-25
+  ATM (At-The-Market) · $6750000.0M · Dilución 🔴 ALTO
+  Oferta: ATM (At-The-Market) · $6750000.0M · Dilución 🔴 ALTO
+  → https://www.sec.gov/Archives/edgar/data/1607678/000119312526401385/vktx-20260925.htm
+
+  [VKTX] Viking Therapeutics, Inc.
+  🔴 ALTA 424B5 | 2026-09-25
+  ATM (At-The-Market) · $16500000.3M · Dilución 🔴 ALTO
+  Oferta: ATM (At-The-Market) · $16500000.3M · Dilución 🔴 ALTO
+  → https://www.sec.gov/Archives/edgar/data/1607678/000119312526401384/vktx-20260925.htm
 
   [VKTX] Viking Therapeutics, Inc.
   🔴 ALTA 424B5 | 2026-09-23
@@ -30,7 +42,13 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [DYN] Sin novedades
   ✅ [DNLI] Sin novedades
 
-  🔴 [VKTX] Viking Therapeutics, Inc. — 3 filing(s)
+  🔴 [VKTX] Viking Therapeutics, Inc. — 5 filing(s)
+     🔴 ALTA 424B5 | 2026-09-25 | ATM (At-The-Market) · $6750000.0M · Dilución 🔴 ALTO
+     Oferta: ATM (At-The-Market) · $6750000.0M · Dilución 🔴 ALTO
+     → https://www.sec.gov/Archives/edgar/data/1607678/000119312526401385/vktx-20260925.htm
+     🔴 ALTA 424B5 | 2026-09-25 | ATM (At-The-Market) · $16500000.3M · Dilución 🔴 ALTO
+     Oferta: ATM (At-The-Market) · $16500000.3M · Dilución 🔴 ALTO
+     → https://www.sec.gov/Archives/edgar/data/1607678/000119312526401384/vktx-20260925.htm
      🔴 ALTA 424B5 | 2026-09-23 | ATM (At-The-Market)
      Oferta: ATM (At-The-Market)
      → https://www.sec.gov/Archives/edgar/data/1607678/000119312526399628/vktx-2026-09-23-424b5_co.htm
@@ -48,24 +66,17 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [BEAM] Sin novedades
   ✅ [OCUL] Sin novedades
 
-  🟡 [CAI] Caris Life Sciences, Inc. — 2 filing(s)
+  🟡 [CAI] Caris Life Sciences, Inc. — 1 filing(s)
      🟡 MEDIA 4 | 2026-09-23 | Denton John Russel (See Remarks) → Venta 7,500 acciones @ $31.82 | Post: 174,855 | Rutinaria/RSU/impuestos
      Insider: Denton John Russel (See Remarks) → Venta 7,500 acciones @ $31.82 | Post: 174,855 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/2019410/000207192326000007/xslF345X06/wk-form4_1790197601.xml
-     🔵 INFO 4 | 2026-09-17 | Brille Brian J (Director / See Remarks) → Ejercicio opción 400,000 acciones @ $2.44 | Post: 630,303 | Rutinaria/RSU/impuestos
-     Insider: Brille Brian J (Director / See Remarks) → Ejercicio opción 400,000 acciones @ $2.44 | Post: 630,303 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/2019410/000207195926000008/xslF345X06/wk-form4_1789682909.xml
 
   🔵 [GPCR] Structure Therapeutics Inc. — 1 filing(s)
      🔵 INFO 4 | 2026-09-22 | Coll Crespo Blas (CHIEF MEDICAL OFFICER) → Retención impuestos 10,626 acciones @ $11.67 | Post: 270,252 | Rutinaria/RSU/impuestos
      Insider: Coll Crespo Blas (CHIEF MEDICAL OFFICER) → Retención impuestos 10,626 acciones @ $11.67 | Post: 270,252 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1888886/000203714426000004/xslF345X06/form4-09222026_090944.xml
   ✅ [ABVX] Sin novedades
-
-  🔵 [VERA] Vera Therapeutics, Inc. — 1 filing(s)
-     🔵 INFO 4 | 2026-09-17 | Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos
-     Insider: Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1831828/000185945326000015/xslF345X06/form4-09172026_080936.xml
+  ✅ [VERA] Sin novedades
   ✅ [ACRV] Sin novedades
   ✅ [TARA] Sin novedades
   ✅ [SENS] Sin novedades
@@ -87,7 +98,7 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Reclutando activamente
        Enrollment: 468 pacientes
        Primary completion: 2029-06
-       Última actualización: 2026-08-28
+       Última actualización: 2026-09-25
        → https://clinicaltrials.gov/study/NCT07211958
 
   [DYN]
@@ -107,7 +118,7 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Reclutando activamente
        Enrollment: 150 pacientes
        Primary completion: 2028-07
-       Última actualización: 2026-09-03
+       Última actualización: 2026-09-25
        → https://clinicaltrials.gov/study/NCT07486934
 
   [VKTX]

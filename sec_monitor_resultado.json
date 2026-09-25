@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "24/09/2026 12:33",
+  "generado": "25/09/2026 12:35",
   "periodo_dias": 7,
-  "desde": "2026-09-17",
-  "hasta": "2026-09-24",
+  "desde": "2026-09-18",
+  "hasta": "2026-09-25",
   "resumen": {
     "total_filings": 8,
-    "alertas_rojas": 2,
+    "alertas_rojas": 4,
     "alertas_verdes": 0,
     "alertas_amarillas": 1,
-    "alertas_azules": 5,
-    "sin_novedad": 12
+    "alertas_azules": 3,
+    "sin_novedad": 13
   },
   "tickers": {
     "SNDX": {
@@ -64,6 +64,44 @@
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
       "filings": [
+        {
+          "form": "424B5",
+          "fecha": "2026-09-25",
+          "nivel": "rojo",
+          "badge": "🔴 ALTA",
+          "resumen": "ATM (At-The-Market) · $6750000.0M · Dilución 🔴 ALTO",
+          "detalle": "424B5",
+          "empresa_sec": "Viking Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526401385/vktx-20260925.htm",
+          "form4_detail": null,
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": {
+            "importe_mm": 6750000.0,
+            "tipo_oferta": "ATM (At-The-Market)",
+            "riesgo_dilucion": "🔴 ALTO",
+            "resumen_oferta": "ATM (At-The-Market) · $6750000.0M · Dilución 🔴 ALTO"
+          }
+        },
+        {
+          "form": "424B5",
+          "fecha": "2026-09-25",
+          "nivel": "rojo",
+          "badge": "🔴 ALTA",
+          "resumen": "ATM (At-The-Market) · $16500000.3M · Dilución 🔴 ALTO",
+          "detalle": "424B5",
+          "empresa_sec": "Viking Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526401384/vktx-20260925.htm",
+          "form4_detail": null,
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": {
+            "importe_mm": 16500000.3,
+            "tipo_oferta": "ATM (At-The-Market)",
+            "riesgo_dilucion": "🔴 ALTO",
+            "resumen_oferta": "ATM (At-The-Market) · $16500000.3M · Dilución 🔴 ALTO"
+          }
+        },
         {
           "form": "424B5",
           "fecha": "2026-09-23",
@@ -234,32 +272,6 @@
           "8k_detail": null,
           "10q_detail": null,
           "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-09-17",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Brille Brian J (Director / See Remarks) → Ejercicio opción 400,000 acciones @ $2.44 | Post: 630,303 | Rutinaria/RSU/impuestos",
-          "detalle": "FORM 4",
-          "empresa_sec": "Caris Life Sciences, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/2019410/000207195926000008/xslF345X06/wk-form4_1789682909.xml",
-          "form4_detail": {
-            "insider_nombre": "Brille Brian J",
-            "insider_cargo": "Director / See Remarks",
-            "transaccion_codigo": "M",
-            "transaccion_tipo": "Ejercicio opción",
-            "transaccion_acciones": "400000",
-            "transaccion_precio": "2.44",
-            "transaccion_fecha": "2026-09-17",
-            "acciones_post": "630303",
-            "footnotes": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $30.2100 to $30.5650, inclusive. The reporting person undertakes to provide to Caris Life Sciences, Inc., any security holder of Caris Life Sciences, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote. The Reporting Person disclaims beneficial ownership except to the extent of his pecuniary interest therein. By a family trust, with shares previously held in multiple family trusts consolidated into a single trust. The stock option is fully vested and exercisable.",
-            "es_rutinaria": true,
-            "resumen_detail": "Brille Brian J (Director / See Remarks) → Ejercicio opción 400,000 acciones @ $2.44 | Post: 630,303 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
         }
       ],
       "nivel": "amarillo",
@@ -321,36 +333,9 @@
       "cik": "0001831828",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-09-17",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos",
-          "detalle": "xslF345X06/form4-09172026_080936.xml",
-          "empresa_sec": "Vera Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1831828/000185945326000015/xslF345X06/form4-09172026_080936.xml",
-          "form4_detail": {
-            "insider_nombre": "Fordyce Marshall",
-            "insider_cargo": "PRESIDENT AND CEO",
-            "transaccion_codigo": "M",
-            "transaccion_tipo": "Ejercicio opción",
-            "transaccion_acciones": "18500",
-            "transaccion_precio": "2.8968",
-            "transaccion_fecha": "2026-09-15",
-            "acciones_post": "253744",
-            "footnotes": "The sales were made pursuant to a written plan adopted on January 9, 2026, meeting the requirements of Rule 10b5-1(c) of the Securities Exchange Act of 1934, as amended. 1/4 of the shares subject to the option vested on December 16, 2021, and 1/48 of the shares vested monthly thereafter.",
-            "es_rutinaria": true,
-            "resumen_detail": "Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "ACRV": {
@@ -410,6 +395,48 @@
       "ticker": "VKTX",
       "nombre": "Viking Therapeutics, Inc.",
       "form": "424B5",
+      "fecha": "2026-09-25",
+      "nivel": "rojo",
+      "badge": "🔴 ALTA",
+      "resumen": "ATM (At-The-Market) · $6750000.0M · Dilución 🔴 ALTO",
+      "detalle": "424B5",
+      "empresa_sec": "Viking Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526401385/vktx-20260925.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": {
+        "importe_mm": 6750000.0,
+        "tipo_oferta": "ATM (At-The-Market)",
+        "riesgo_dilucion": "🔴 ALTO",
+        "resumen_oferta": "ATM (At-The-Market) · $6750000.0M · Dilución 🔴 ALTO"
+      }
+    },
+    {
+      "ticker": "VKTX",
+      "nombre": "Viking Therapeutics, Inc.",
+      "form": "424B5",
+      "fecha": "2026-09-25",
+      "nivel": "rojo",
+      "badge": "🔴 ALTA",
+      "resumen": "ATM (At-The-Market) · $16500000.3M · Dilución 🔴 ALTO",
+      "detalle": "424B5",
+      "empresa_sec": "Viking Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526401384/vktx-20260925.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": {
+        "importe_mm": 16500000.3,
+        "tipo_oferta": "ATM (At-The-Market)",
+        "riesgo_dilucion": "🔴 ALTO",
+        "resumen_oferta": "ATM (At-The-Market) · $16500000.3M · Dilución 🔴 ALTO"
+      }
+    },
+    {
+      "ticker": "VKTX",
+      "nombre": "Viking Therapeutics, Inc.",
+      "form": "424B5",
       "fecha": "2026-09-23",
       "nivel": "rojo",
       "badge": "🔴 ALTA",
@@ -450,6 +477,48 @@
     }
   ],
   "todos_filings": [
+    {
+      "ticker": "VKTX",
+      "nombre": "Viking Therapeutics, Inc.",
+      "form": "424B5",
+      "fecha": "2026-09-25",
+      "nivel": "rojo",
+      "badge": "🔴 ALTA",
+      "resumen": "ATM (At-The-Market) · $6750000.0M · Dilución 🔴 ALTO",
+      "detalle": "424B5",
+      "empresa_sec": "Viking Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526401385/vktx-20260925.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": {
+        "importe_mm": 6750000.0,
+        "tipo_oferta": "ATM (At-The-Market)",
+        "riesgo_dilucion": "🔴 ALTO",
+        "resumen_oferta": "ATM (At-The-Market) · $6750000.0M · Dilución 🔴 ALTO"
+      }
+    },
+    {
+      "ticker": "VKTX",
+      "nombre": "Viking Therapeutics, Inc.",
+      "form": "424B5",
+      "fecha": "2026-09-25",
+      "nivel": "rojo",
+      "badge": "🔴 ALTA",
+      "resumen": "ATM (At-The-Market) · $16500000.3M · Dilución 🔴 ALTO",
+      "detalle": "424B5",
+      "empresa_sec": "Viking Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526401384/vktx-20260925.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": {
+        "importe_mm": 16500000.3,
+        "tipo_oferta": "ATM (At-The-Market)",
+        "riesgo_dilucion": "🔴 ALTO",
+        "resumen_oferta": "ATM (At-The-Market) · $16500000.3M · Dilución 🔴 ALTO"
+      }
+    },
     {
       "ticker": "VKTX",
       "nombre": "Viking Therapeutics, Inc.",
@@ -601,62 +670,6 @@
       "8k_detail": null,
       "10q_detail": null,
       "prospecto_detail": null
-    },
-    {
-      "ticker": "CAI",
-      "nombre": "Caris Life Sciences, Inc.",
-      "form": "4",
-      "fecha": "2026-09-17",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Brille Brian J (Director / See Remarks) → Ejercicio opción 400,000 acciones @ $2.44 | Post: 630,303 | Rutinaria/RSU/impuestos",
-      "detalle": "FORM 4",
-      "empresa_sec": "Caris Life Sciences, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/2019410/000207195926000008/xslF345X06/wk-form4_1789682909.xml",
-      "form4_detail": {
-        "insider_nombre": "Brille Brian J",
-        "insider_cargo": "Director / See Remarks",
-        "transaccion_codigo": "M",
-        "transaccion_tipo": "Ejercicio opción",
-        "transaccion_acciones": "400000",
-        "transaccion_precio": "2.44",
-        "transaccion_fecha": "2026-09-17",
-        "acciones_post": "630303",
-        "footnotes": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $30.2100 to $30.5650, inclusive. The reporting person undertakes to provide to Caris Life Sciences, Inc., any security holder of Caris Life Sciences, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote. The Reporting Person disclaims beneficial ownership except to the extent of his pecuniary interest therein. By a family trust, with shares previously held in multiple family trusts consolidated into a single trust. The stock option is fully vested and exercisable.",
-        "es_rutinaria": true,
-        "resumen_detail": "Brille Brian J (Director / See Remarks) → Ejercicio opción 400,000 acciones @ $2.44 | Post: 630,303 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "VERA",
-      "nombre": "Vera Therapeutics, Inc.",
-      "form": "4",
-      "fecha": "2026-09-17",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos",
-      "detalle": "xslF345X06/form4-09172026_080936.xml",
-      "empresa_sec": "Vera Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1831828/000185945326000015/xslF345X06/form4-09172026_080936.xml",
-      "form4_detail": {
-        "insider_nombre": "Fordyce Marshall",
-        "insider_cargo": "PRESIDENT AND CEO",
-        "transaccion_codigo": "M",
-        "transaccion_tipo": "Ejercicio opción",
-        "transaccion_acciones": "18500",
-        "transaccion_precio": "2.8968",
-        "transaccion_fecha": "2026-09-15",
-        "acciones_post": "253744",
-        "footnotes": "The sales were made pursuant to a written plan adopted on January 9, 2026, meeting the requirements of Rule 10b5-1(c) of the Securities Exchange Act of 1934, as amended. 1/4 of the shares subject to the option vested on December 16, 2021, and 1/48 of the shares vested monthly thereafter.",
-        "es_rutinaria": true,
-        "resumen_detail": "Fordyce Marshall (PRESIDENT AND CEO) → Ejercicio opción 18,500 acciones @ $2.90 | Post: 253,744 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
     }
   ],
   "clinicaltrials": {
@@ -684,7 +697,7 @@
         "nivel": "verde",
         "badge": "🟢",
         "enrollment": 468,
-        "ultima_actualizacion": "2026-08-28",
+        "ultima_actualizacion": "2026-09-25",
         "fecha_completion_primaria": "2029-06",
         "changed": true,
         "url": "https://clinicaltrials.gov/study/NCT07211958"
@@ -728,7 +741,7 @@
         "nivel": "verde",
         "badge": "🟢",
         "enrollment": 150,
-        "ultima_actualizacion": "2026-09-03",
+        "ultima_actualizacion": "2026-09-25",
         "fecha_completion_primaria": "2028-07",
         "changed": true,
         "url": "https://clinicaltrials.gov/study/NCT07486934"

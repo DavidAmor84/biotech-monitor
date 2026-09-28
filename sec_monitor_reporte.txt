@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 25/09/2026 12:35 | Período: últimos 7 días
-Desde: 2026-09-18 → Hasta: 2026-09-25
+Generado: 28/09/2026 14:59 | Período: últimos 7 días
+Desde: 2026-09-21 → Hasta: 2026-09-28
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 8 filings | 🔴 4 | 🟢 0 | 🟡 1 | 🔵 3 | ✅ 13 sin novedad
+RESUMEN: 9 filings | 🔴 4 | 🟢 0 | 🟡 1 | 🔵 4 | ✅ 12 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (4)
@@ -63,7 +63,11 @@ DETALLE POR TICKER — SEC EDGAR
      🔵 INFO 4 | 2026-09-22 | Greenstreet Yvonne (Director / Chief Executive Officer) → Concesión 107 acciones @ $0.00 | Post: 95,802 | Rutinaria/RSU/impuestos
      Insider: Greenstreet Yvonne (Director / Chief Executive Officer) → Concesión 107 acciones @ $0.00 | Post: 95,802 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000065/xslF345X06/form4.xml
-  ✅ [BEAM] Sin novedades
+
+  🔵 [BEAM] Beam Therapeutics Inc. — 1 filing(s)
+     🔵 INFO 4 | 2026-09-25 | Ciaramella Giuseppe (President) → Donación 123,407 acciones @ $0.00 | Post: 130,504
+     Insider: Ciaramella Giuseppe (President) → Donación 123,407 acciones @ $0.00 | Post: 130,504
+     → https://www.sec.gov/Archives/edgar/data/1745999/000119312526402814/xslF345X06/ownership.xml
   ✅ [OCUL] Sin novedades
 
   🟡 [CAI] Caris Life Sciences, Inc. — 1 filing(s)

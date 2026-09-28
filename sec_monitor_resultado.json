@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "25/09/2026 12:35",
+  "generado": "28/09/2026 14:59",
   "periodo_dias": 7,
-  "desde": "2026-09-18",
-  "hasta": "2026-09-25",
+  "desde": "2026-09-21",
+  "hasta": "2026-09-28",
   "resumen": {
-    "total_filings": 8,
+    "total_filings": 9,
     "alertas_rojas": 4,
     "alertas_verdes": 0,
     "alertas_amarillas": 1,
-    "alertas_azules": 3,
-    "sin_novedad": 13
+    "alertas_azules": 4,
+    "sin_novedad": 12
   },
   "tickers": {
     "SNDX": {
@@ -224,9 +224,36 @@
       "cik": "0001745999",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-09-25",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Ciaramella Giuseppe (President) → Donación 123,407 acciones @ $0.00 | Post: 130,504",
+          "detalle": "4",
+          "empresa_sec": "Beam Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526402814/xslF345X06/ownership.xml",
+          "form4_detail": {
+            "insider_nombre": "Ciaramella Giuseppe",
+            "insider_cargo": "President",
+            "transaccion_codigo": "G",
+            "transaccion_tipo": "Donación",
+            "transaccion_acciones": "123407",
+            "transaccion_precio": "0.00",
+            "transaccion_fecha": "2026-09-24",
+            "acciones_post": "130504",
+            "footnotes": "On September 24, 2026, the reporting person contributed 123,407 shares of BEAM common stock to the Giuseppe Ciaramella Irrevocable Trust - 2026, of which the reporting person's spouse is trustee. The beneficiaries of the trust are the reporting person's spouse and children. The reporting person disclaims beneficial ownership of the securities held by the trust.",
+            "es_rutinaria": false,
+            "resumen_detail": "Ciaramella Giuseppe (President) → Donación 123,407 acciones @ $0.00 | Post: 130,504"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "OCUL": {
@@ -518,6 +545,34 @@
         "riesgo_dilucion": "🔴 ALTO",
         "resumen_oferta": "ATM (At-The-Market) · $16500000.3M · Dilución 🔴 ALTO"
       }
+    },
+    {
+      "ticker": "BEAM",
+      "nombre": "Beam Therapeutics Inc.",
+      "form": "4",
+      "fecha": "2026-09-25",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Ciaramella Giuseppe (President) → Donación 123,407 acciones @ $0.00 | Post: 130,504",
+      "detalle": "4",
+      "empresa_sec": "Beam Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526402814/xslF345X06/ownership.xml",
+      "form4_detail": {
+        "insider_nombre": "Ciaramella Giuseppe",
+        "insider_cargo": "President",
+        "transaccion_codigo": "G",
+        "transaccion_tipo": "Donación",
+        "transaccion_acciones": "123407",
+        "transaccion_precio": "0.00",
+        "transaccion_fecha": "2026-09-24",
+        "acciones_post": "130504",
+        "footnotes": "On September 24, 2026, the reporting person contributed 123,407 shares of BEAM common stock to the Giuseppe Ciaramella Irrevocable Trust - 2026, of which the reporting person's spouse is trustee. The beneficiaries of the trust are the reporting person's spouse and children. The reporting person disclaims beneficial ownership of the securities held by the trust.",
+        "es_rutinaria": false,
+        "resumen_detail": "Ciaramella Giuseppe (President) → Donación 123,407 acciones @ $0.00 | Post: 130,504"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
     },
     {
       "ticker": "VKTX",

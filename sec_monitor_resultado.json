@@ -1,12 +1,12 @@
 {
   "version": "v3",
-  "generado": "28/09/2026 14:59",
+  "generado": "29/09/2026 13:46",
   "periodo_dias": 7,
-  "desde": "2026-09-21",
-  "hasta": "2026-09-28",
+  "desde": "2026-09-22",
+  "hasta": "2026-09-29",
   "resumen": {
-    "total_filings": 9,
-    "alertas_rojas": 4,
+    "total_filings": 10,
+    "alertas_rojas": 5,
     "alertas_verdes": 0,
     "alertas_amarillas": 1,
     "alertas_azules": 4,
@@ -64,6 +64,31 @@
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
       "filings": [
+        {
+          "form": "8-K",
+          "fecha": "2026-09-28",
+          "nivel": "rojo",
+          "badge": "🔴 ALTA",
+          "resumen": "8-K — Evento negativo potencial: Bankruptcy [Items: 1.01, 2.03, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "Viking Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526405580/vktx-20260923.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "1.01",
+              "2.03",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 1.01 Entry into a Material Definitive Agreement. Equity Offering On September 23, 2026, Viking Therapeutics, Inc. (the Company ) entered into an underwriting agreement (the Equity Underwriting Agreement ) with Morgan Stanley &amp; Co. LLC and J.P. Morgan Securities LLC (the Equity Representatives ), as representatives of the several underwriters named therein (the Equity Underwriters ), to issue and sell (the Equity Offering ) 7,857,143 shares of the Company s common stock, par value $0.00001 per share ( Common Stock ), at a public offering price of $35.00 per share. Under the terms of the Equity Underwriting Agreement, the Company also granted the Equity Underwriters a 30-day option to purchase up to an additional 1,178,571 shares of Common Stock, on the same terms and conditions, which the Equity Underwriters exercised in full on September 24, 2026. The Equity Offering was made pursuant to the Company s automatic shelf registration statement on Form S-3 (File No. 333-297820), previously filed with the Securities and Exchange Commission (the SEC ) on July 30, 2026 and which automatically became effective upon filing, a base prospectus dated July 29, 2026 and a prospectus supplement dated September 23, 2026. The Equity Offering closed on September 25, 2026. Net proceeds from the Equity Offering were approximately $297.0 million, after deducting underwriting discounts and commissions and estimated offering expenses payable by the Company and giving effect to the exercise of the option to purchase additional shares of Common Stock. The Equity Underwriting Agreement conta",
+            "nivel_ajustado": "rojo",
+            "badge_ajustado": "🔴 ALTA",
+            "resumen_ajustado": "8-K — Evento negativo potencial: Bankruptcy"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
         {
           "form": "424B5",
           "fecha": "2026-09-25",
@@ -421,6 +446,33 @@
     {
       "ticker": "VKTX",
       "nombre": "Viking Therapeutics, Inc.",
+      "form": "8-K",
+      "fecha": "2026-09-28",
+      "nivel": "rojo",
+      "badge": "🔴 ALTA",
+      "resumen": "8-K — Evento negativo potencial: Bankruptcy [Items: 1.01, 2.03, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Viking Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526405580/vktx-20260923.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "1.01",
+          "2.03",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 1.01 Entry into a Material Definitive Agreement. Equity Offering On September 23, 2026, Viking Therapeutics, Inc. (the Company ) entered into an underwriting agreement (the Equity Underwriting Agreement ) with Morgan Stanley &amp; Co. LLC and J.P. Morgan Securities LLC (the Equity Representatives ), as representatives of the several underwriters named therein (the Equity Underwriters ), to issue and sell (the Equity Offering ) 7,857,143 shares of the Company s common stock, par value $0.00001 per share ( Common Stock ), at a public offering price of $35.00 per share. Under the terms of the Equity Underwriting Agreement, the Company also granted the Equity Underwriters a 30-day option to purchase up to an additional 1,178,571 shares of Common Stock, on the same terms and conditions, which the Equity Underwriters exercised in full on September 24, 2026. The Equity Offering was made pursuant to the Company s automatic shelf registration statement on Form S-3 (File No. 333-297820), previously filed with the Securities and Exchange Commission (the SEC ) on July 30, 2026 and which automatically became effective upon filing, a base prospectus dated July 29, 2026 and a prospectus supplement dated September 23, 2026. The Equity Offering closed on September 25, 2026. Net proceeds from the Equity Offering were approximately $297.0 million, after deducting underwriting discounts and commissions and estimated offering expenses payable by the Company and giving effect to the exercise of the option to purchase additional shares of Common Stock. The Equity Underwriting Agreement conta",
+        "nivel_ajustado": "rojo",
+        "badge_ajustado": "🔴 ALTA",
+        "resumen_ajustado": "8-K — Evento negativo potencial: Bankruptcy"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "VKTX",
+      "nombre": "Viking Therapeutics, Inc.",
       "form": "424B5",
       "fecha": "2026-09-25",
       "nivel": "rojo",
@@ -504,6 +556,33 @@
     }
   ],
   "todos_filings": [
+    {
+      "ticker": "VKTX",
+      "nombre": "Viking Therapeutics, Inc.",
+      "form": "8-K",
+      "fecha": "2026-09-28",
+      "nivel": "rojo",
+      "badge": "🔴 ALTA",
+      "resumen": "8-K — Evento negativo potencial: Bankruptcy [Items: 1.01, 2.03, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Viking Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526405580/vktx-20260923.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "1.01",
+          "2.03",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 1.01 Entry into a Material Definitive Agreement. Equity Offering On September 23, 2026, Viking Therapeutics, Inc. (the Company ) entered into an underwriting agreement (the Equity Underwriting Agreement ) with Morgan Stanley &amp; Co. LLC and J.P. Morgan Securities LLC (the Equity Representatives ), as representatives of the several underwriters named therein (the Equity Underwriters ), to issue and sell (the Equity Offering ) 7,857,143 shares of the Company s common stock, par value $0.00001 per share ( Common Stock ), at a public offering price of $35.00 per share. Under the terms of the Equity Underwriting Agreement, the Company also granted the Equity Underwriters a 30-day option to purchase up to an additional 1,178,571 shares of Common Stock, on the same terms and conditions, which the Equity Underwriters exercised in full on September 24, 2026. The Equity Offering was made pursuant to the Company s automatic shelf registration statement on Form S-3 (File No. 333-297820), previously filed with the Securities and Exchange Commission (the SEC ) on July 30, 2026 and which automatically became effective upon filing, a base prospectus dated July 29, 2026 and a prospectus supplement dated September 23, 2026. The Equity Offering closed on September 25, 2026. Net proceeds from the Equity Offering were approximately $297.0 million, after deducting underwriting discounts and commissions and estimated offering expenses payable by the Company and giving effect to the exercise of the option to purchase additional shares of Common Stock. The Equity Underwriting Agreement conta",
+        "nivel_ajustado": "rojo",
+        "badge_ajustado": "🔴 ALTA",
+        "resumen_ajustado": "8-K — Evento negativo potencial: Bankruptcy"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "VKTX",
       "nombre": "Viking Therapeutics, Inc.",

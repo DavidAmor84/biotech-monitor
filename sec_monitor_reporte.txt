@@ -1,14 +1,19 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 28/09/2026 14:59 | Período: últimos 7 días
-Desde: 2026-09-21 → Hasta: 2026-09-28
+Generado: 29/09/2026 13:46 | Período: últimos 7 días
+Desde: 2026-09-22 → Hasta: 2026-09-29
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 9 filings | 🔴 4 | 🟢 0 | 🟡 1 | 🔵 4 | ✅ 12 sin novedad
+RESUMEN: 10 filings | 🔴 5 | 🟢 0 | 🟡 1 | 🔵 4 | ✅ 12 sin novedad
 
 ──────────────────────────────────────────────────
-🚨 ALERTAS CRÍTICAS (4)
+🚨 ALERTAS CRÍTICAS (5)
 ──────────────────────────────────────────────────
+
+  [VKTX] Viking Therapeutics, Inc.
+  🔴 ALTA 8-K | 2026-09-28
+  8-K — Evento negativo potencial: Bankruptcy [Items: 1.01, 2.03, 9.01]
+  → https://www.sec.gov/Archives/edgar/data/1607678/000119312526405580/vktx-20260923.htm
 
   [VKTX] Viking Therapeutics, Inc.
   🔴 ALTA 424B5 | 2026-09-25
@@ -42,7 +47,9 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [DYN] Sin novedades
   ✅ [DNLI] Sin novedades
 
-  🔴 [VKTX] Viking Therapeutics, Inc. — 5 filing(s)
+  🔴 [VKTX] Viking Therapeutics, Inc. — 6 filing(s)
+     🔴 ALTA 8-K | 2026-09-28 | 8-K — Evento negativo potencial: Bankruptcy [Items: 1.01, 2.03, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1607678/000119312526405580/vktx-20260923.htm
      🔴 ALTA 424B5 | 2026-09-25 | ATM (At-The-Market) · $6750000.0M · Dilución 🔴 ALTO
      Oferta: ATM (At-The-Market) · $6750000.0M · Dilución 🔴 ALTO
      → https://www.sec.gov/Archives/edgar/data/1607678/000119312526401385/vktx-20260925.htm

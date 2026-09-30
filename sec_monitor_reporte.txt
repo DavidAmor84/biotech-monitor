@@ -1,14 +1,19 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 29/09/2026 13:46 | Período: últimos 7 días
-Desde: 2026-09-22 → Hasta: 2026-09-29
+Generado: 30/09/2026 13:21 | Período: últimos 7 días
+Desde: 2026-09-23 → Hasta: 2026-09-30
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 10 filings | 🔴 5 | 🟢 0 | 🟡 1 | 🔵 4 | ✅ 12 sin novedad
+RESUMEN: 8 filings | 🔴 5 | 🟢 1 | 🟡 1 | 🔵 1 | ✅ 13 sin novedad
 
 ──────────────────────────────────────────────────
-🚨 ALERTAS CRÍTICAS (5)
+🚨 ALERTAS CRÍTICAS (6)
 ──────────────────────────────────────────────────
+
+  [DYN] Dyne Therapeutics, Inc.
+  🟢 ALTA 8-K | 2026-09-29
+  8-K — Evento positivo potencial: Aprobación acelerada [Items: 7.01, 8.01, 9.01]
+  → https://www.sec.gov/Archives/edgar/data/1818794/000181879426000009/dyn-20260929.htm
 
   [VKTX] Viking Therapeutics, Inc.
   🔴 ALTA 8-K | 2026-09-28
@@ -44,10 +49,13 @@ DETALLE POR TICKER — SEC EDGAR
 ──────────────────────────────────────────────────
   ✅ [SNDX] Sin novedades
   ✅ [ARGX] Sin novedades
-  ✅ [DYN] Sin novedades
+
+  🟢 [DYN] Dyne Therapeutics, Inc. — 1 filing(s)
+     🟢 ALTA 8-K | 2026-09-29 | 8-K — Evento positivo potencial: Aprobación acelerada [Items: 7.01, 8.01, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1818794/000181879426000009/dyn-20260929.htm
   ✅ [DNLI] Sin novedades
 
-  🔴 [VKTX] Viking Therapeutics, Inc. — 6 filing(s)
+  🔴 [VKTX] Viking Therapeutics, Inc. — 5 filing(s)
      🔴 ALTA 8-K | 2026-09-28 | 8-K — Evento negativo potencial: Bankruptcy [Items: 1.01, 2.03, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1607678/000119312526405580/vktx-20260923.htm
      🔴 ALTA 424B5 | 2026-09-25 | ATM (At-The-Market) · $6750000.0M · Dilución 🔴 ALTO
@@ -62,14 +70,8 @@ DETALLE POR TICKER — SEC EDGAR
      🔴 ALTA 424B5 | 2026-09-23 | ATM (At-The-Market)
      Oferta: ATM (At-The-Market)
      → https://www.sec.gov/Archives/edgar/data/1607678/000119312526399627/vktx-2026-09-23-424b5_cm.htm
-     🔵 INFO 8-K | 2026-09-22 | Item 8.01: Otros eventos — revisar [Items: 8.01, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1607678/000119312526397219/vktx-20260922.htm
   ✅ [VRTX] Sin novedades
-
-  🔵 [ALNY] ALNYLAM PHARMACEUTICALS, INC. — 1 filing(s)
-     🔵 INFO 4 | 2026-09-22 | Greenstreet Yvonne (Director / Chief Executive Officer) → Concesión 107 acciones @ $0.00 | Post: 95,802 | Rutinaria/RSU/impuestos
-     Insider: Greenstreet Yvonne (Director / Chief Executive Officer) → Concesión 107 acciones @ $0.00 | Post: 95,802 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000065/xslF345X06/form4.xml
+  ✅ [ALNY] Sin novedades
 
   🔵 [BEAM] Beam Therapeutics Inc. — 1 filing(s)
      🔵 INFO 4 | 2026-09-25 | Ciaramella Giuseppe (President) → Donación 123,407 acciones @ $0.00 | Post: 130,504
@@ -81,11 +83,7 @@ DETALLE POR TICKER — SEC EDGAR
      🟡 MEDIA 4 | 2026-09-23 | Denton John Russel (See Remarks) → Venta 7,500 acciones @ $31.82 | Post: 174,855 | Rutinaria/RSU/impuestos
      Insider: Denton John Russel (See Remarks) → Venta 7,500 acciones @ $31.82 | Post: 174,855 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/2019410/000207192326000007/xslF345X06/wk-form4_1790197601.xml
-
-  🔵 [GPCR] Structure Therapeutics Inc. — 1 filing(s)
-     🔵 INFO 4 | 2026-09-22 | Coll Crespo Blas (CHIEF MEDICAL OFFICER) → Retención impuestos 10,626 acciones @ $11.67 | Post: 270,252 | Rutinaria/RSU/impuestos
-     Insider: Coll Crespo Blas (CHIEF MEDICAL OFFICER) → Retención impuestos 10,626 acciones @ $11.67 | Post: 270,252 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1888886/000203714426000004/xslF345X06/form4-09222026_090944.xml
+  ✅ [GPCR] Sin novedades
   ✅ [ABVX] Sin novedades
   ✅ [VERA] Sin novedades
   ✅ [ACRV] Sin novedades

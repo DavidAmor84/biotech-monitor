@@ -1,13 +1,13 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 30/09/2026 13:21 | Período: últimos 7 días
-Desde: 2026-09-23 → Hasta: 2026-09-30
+Generado: 01/10/2026 14:15 | Período: últimos 7 días
+Desde: 2026-09-24 → Hasta: 2026-10-01
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 8 filings | 🔴 5 | 🟢 1 | 🟡 1 | 🔵 1 | ✅ 13 sin novedad
+RESUMEN: 5 filings | 🔴 3 | 🟢 1 | 🟡 0 | 🔵 1 | ✅ 14 sin novedad
 
 ──────────────────────────────────────────────────
-🚨 ALERTAS CRÍTICAS (6)
+🚨 ALERTAS CRÍTICAS (4)
 ──────────────────────────────────────────────────
 
   [DYN] Dyne Therapeutics, Inc.
@@ -32,18 +32,6 @@ RESUMEN: 8 filings | 🔴 5 | 🟢 1 | 🟡 1 | 🔵 1 | ✅ 13 sin novedad
   Oferta: ATM (At-The-Market) · $16500000.3M · Dilución 🔴 ALTO
   → https://www.sec.gov/Archives/edgar/data/1607678/000119312526401384/vktx-20260925.htm
 
-  [VKTX] Viking Therapeutics, Inc.
-  🔴 ALTA 424B5 | 2026-09-23
-  ATM (At-The-Market)
-  Oferta: ATM (At-The-Market)
-  → https://www.sec.gov/Archives/edgar/data/1607678/000119312526399628/vktx-2026-09-23-424b5_co.htm
-
-  [VKTX] Viking Therapeutics, Inc.
-  🔴 ALTA 424B5 | 2026-09-23
-  ATM (At-The-Market)
-  Oferta: ATM (At-The-Market)
-  → https://www.sec.gov/Archives/edgar/data/1607678/000119312526399627/vktx-2026-09-23-424b5_cm.htm
-
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
 ──────────────────────────────────────────────────
@@ -55,7 +43,7 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1818794/000181879426000009/dyn-20260929.htm
   ✅ [DNLI] Sin novedades
 
-  🔴 [VKTX] Viking Therapeutics, Inc. — 5 filing(s)
+  🔴 [VKTX] Viking Therapeutics, Inc. — 3 filing(s)
      🔴 ALTA 8-K | 2026-09-28 | 8-K — Evento negativo potencial: Bankruptcy [Items: 1.01, 2.03, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1607678/000119312526405580/vktx-20260923.htm
      🔴 ALTA 424B5 | 2026-09-25 | ATM (At-The-Market) · $6750000.0M · Dilución 🔴 ALTO
@@ -64,12 +52,6 @@ DETALLE POR TICKER — SEC EDGAR
      🔴 ALTA 424B5 | 2026-09-25 | ATM (At-The-Market) · $16500000.3M · Dilución 🔴 ALTO
      Oferta: ATM (At-The-Market) · $16500000.3M · Dilución 🔴 ALTO
      → https://www.sec.gov/Archives/edgar/data/1607678/000119312526401384/vktx-20260925.htm
-     🔴 ALTA 424B5 | 2026-09-23 | ATM (At-The-Market)
-     Oferta: ATM (At-The-Market)
-     → https://www.sec.gov/Archives/edgar/data/1607678/000119312526399628/vktx-2026-09-23-424b5_co.htm
-     🔴 ALTA 424B5 | 2026-09-23 | ATM (At-The-Market)
-     Oferta: ATM (At-The-Market)
-     → https://www.sec.gov/Archives/edgar/data/1607678/000119312526399627/vktx-2026-09-23-424b5_cm.htm
   ✅ [VRTX] Sin novedades
   ✅ [ALNY] Sin novedades
 
@@ -78,11 +60,7 @@ DETALLE POR TICKER — SEC EDGAR
      Insider: Ciaramella Giuseppe (President) → Donación 123,407 acciones @ $0.00 | Post: 130,504
      → https://www.sec.gov/Archives/edgar/data/1745999/000119312526402814/xslF345X06/ownership.xml
   ✅ [OCUL] Sin novedades
-
-  🟡 [CAI] Caris Life Sciences, Inc. — 1 filing(s)
-     🟡 MEDIA 4 | 2026-09-23 | Denton John Russel (See Remarks) → Venta 7,500 acciones @ $31.82 | Post: 174,855 | Rutinaria/RSU/impuestos
-     Insider: Denton John Russel (See Remarks) → Venta 7,500 acciones @ $31.82 | Post: 174,855 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/2019410/000207192326000007/xslF345X06/wk-form4_1790197601.xml
+  ✅ [CAI] Sin novedades
   ✅ [GPCR] Sin novedades
   ✅ [ABVX] Sin novedades
   ✅ [VERA] Sin novedades
@@ -127,7 +105,7 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Reclutando activamente
        Enrollment: 150 pacientes
        Primary completion: 2028-07
-       Última actualización: 2026-09-25
+       Última actualización: 2026-10-01
        → https://clinicaltrials.gov/study/NCT07486934
 
   [VKTX]
@@ -197,9 +175,9 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
   [VERA]
     🔵 ORIGIN 3 Ph3 (atacicept IgAN) — PDUFA 7 jul 2026 ⚡CAMBIO
        Status: Activo — sin reclutamiento
-       Enrollment: 376 pacientes
+       Enrollment: 428 pacientes
        Primary completion: 2025-05-15
-       Última actualización: 2025-09-30
+       Última actualización: 2026-10-01
        → https://clinicaltrials.gov/study/NCT04716231
 
   [ACRV]

@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "30/09/2026 13:21",
+  "generado": "01/10/2026 14:15",
   "periodo_dias": 7,
-  "desde": "2026-09-23",
-  "hasta": "2026-09-30",
+  "desde": "2026-09-24",
+  "hasta": "2026-10-01",
   "resumen": {
-    "total_filings": 8,
-    "alertas_rojas": 5,
+    "total_filings": 5,
+    "alertas_rojas": 3,
     "alertas_verdes": 1,
-    "alertas_amarillas": 1,
+    "alertas_amarillas": 0,
     "alertas_azules": 1,
-    "sin_novedad": 13
+    "sin_novedad": 14
   },
   "tickers": {
     "SNDX": {
@@ -152,44 +152,6 @@
             "riesgo_dilucion": "🔴 ALTO",
             "resumen_oferta": "ATM (At-The-Market) · $16500000.3M · Dilución 🔴 ALTO"
           }
-        },
-        {
-          "form": "424B5",
-          "fecha": "2026-09-23",
-          "nivel": "rojo",
-          "badge": "🔴 ALTA",
-          "resumen": "ATM (At-The-Market)",
-          "detalle": "424B5",
-          "empresa_sec": "Viking Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526399628/vktx-2026-09-23-424b5_co.htm",
-          "form4_detail": null,
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": {
-            "importe_mm": null,
-            "tipo_oferta": "ATM (At-The-Market)",
-            "riesgo_dilucion": null,
-            "resumen_oferta": "ATM (At-The-Market)"
-          }
-        },
-        {
-          "form": "424B5",
-          "fecha": "2026-09-23",
-          "nivel": "rojo",
-          "badge": "🔴 ALTA",
-          "resumen": "ATM (At-The-Market)",
-          "detalle": "424B5",
-          "empresa_sec": "Viking Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526399627/vktx-2026-09-23-424b5_cm.htm",
-          "form4_detail": null,
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": {
-            "importe_mm": null,
-            "tipo_oferta": "ATM (At-The-Market)",
-            "riesgo_dilucion": null,
-            "resumen_oferta": "ATM (At-The-Market)"
-          }
         }
       ],
       "nivel": "rojo",
@@ -273,36 +235,9 @@
       "cik": "0002019410",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-09-23",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Denton John Russel (See Remarks) → Venta 7,500 acciones @ $31.82 | Post: 174,855 | Rutinaria/RSU/impuestos",
-          "detalle": "FORM 4",
-          "empresa_sec": "Caris Life Sciences, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/2019410/000207192326000007/xslF345X06/wk-form4_1790197601.xml",
-          "form4_detail": {
-            "insider_nombre": "Denton John Russel",
-            "insider_cargo": "See Remarks",
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "7500",
-            "transaccion_precio": "31.8168",
-            "transaccion_fecha": "2026-09-22",
-            "acciones_post": "174855",
-            "footnotes": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $31.7750 to $31.8700, inclusive. The reporting person undertakes to provide to Caris Life Sciences, Inc., any security holder of Caris Life Sciences, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote. Includes shares acquired in a non-reportable transaction under the Caris Life Sciences, Inc. 2025 Employee Stock Purchase Plan (a tax-qualified plan) after the date of the reporting person's previous Form 4.",
-            "es_rutinaria": true,
-            "resumen_detail": "Denton John Russel (See Remarks) → Venta 7,500 acciones @ $31.82 | Post: 174,855 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "GPCR": {
@@ -486,48 +421,6 @@
         "riesgo_dilucion": "🔴 ALTO",
         "resumen_oferta": "ATM (At-The-Market) · $16500000.3M · Dilución 🔴 ALTO"
       }
-    },
-    {
-      "ticker": "VKTX",
-      "nombre": "Viking Therapeutics, Inc.",
-      "form": "424B5",
-      "fecha": "2026-09-23",
-      "nivel": "rojo",
-      "badge": "🔴 ALTA",
-      "resumen": "ATM (At-The-Market)",
-      "detalle": "424B5",
-      "empresa_sec": "Viking Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526399628/vktx-2026-09-23-424b5_co.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": {
-        "importe_mm": null,
-        "tipo_oferta": "ATM (At-The-Market)",
-        "riesgo_dilucion": null,
-        "resumen_oferta": "ATM (At-The-Market)"
-      }
-    },
-    {
-      "ticker": "VKTX",
-      "nombre": "Viking Therapeutics, Inc.",
-      "form": "424B5",
-      "fecha": "2026-09-23",
-      "nivel": "rojo",
-      "badge": "🔴 ALTA",
-      "resumen": "ATM (At-The-Market)",
-      "detalle": "424B5",
-      "empresa_sec": "Viking Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526399627/vktx-2026-09-23-424b5_cm.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": {
-        "importe_mm": null,
-        "tipo_oferta": "ATM (At-The-Market)",
-        "riesgo_dilucion": null,
-        "resumen_oferta": "ATM (At-The-Market)"
-      }
     }
   ],
   "todos_filings": [
@@ -654,76 +547,6 @@
       "8k_detail": null,
       "10q_detail": null,
       "prospecto_detail": null
-    },
-    {
-      "ticker": "VKTX",
-      "nombre": "Viking Therapeutics, Inc.",
-      "form": "424B5",
-      "fecha": "2026-09-23",
-      "nivel": "rojo",
-      "badge": "🔴 ALTA",
-      "resumen": "ATM (At-The-Market)",
-      "detalle": "424B5",
-      "empresa_sec": "Viking Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526399628/vktx-2026-09-23-424b5_co.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": {
-        "importe_mm": null,
-        "tipo_oferta": "ATM (At-The-Market)",
-        "riesgo_dilucion": null,
-        "resumen_oferta": "ATM (At-The-Market)"
-      }
-    },
-    {
-      "ticker": "VKTX",
-      "nombre": "Viking Therapeutics, Inc.",
-      "form": "424B5",
-      "fecha": "2026-09-23",
-      "nivel": "rojo",
-      "badge": "🔴 ALTA",
-      "resumen": "ATM (At-The-Market)",
-      "detalle": "424B5",
-      "empresa_sec": "Viking Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526399627/vktx-2026-09-23-424b5_cm.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": {
-        "importe_mm": null,
-        "tipo_oferta": "ATM (At-The-Market)",
-        "riesgo_dilucion": null,
-        "resumen_oferta": "ATM (At-The-Market)"
-      }
-    },
-    {
-      "ticker": "CAI",
-      "nombre": "Caris Life Sciences, Inc.",
-      "form": "4",
-      "fecha": "2026-09-23",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Denton John Russel (See Remarks) → Venta 7,500 acciones @ $31.82 | Post: 174,855 | Rutinaria/RSU/impuestos",
-      "detalle": "FORM 4",
-      "empresa_sec": "Caris Life Sciences, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/2019410/000207192326000007/xslF345X06/wk-form4_1790197601.xml",
-      "form4_detail": {
-        "insider_nombre": "Denton John Russel",
-        "insider_cargo": "See Remarks",
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "7500",
-        "transaccion_precio": "31.8168",
-        "transaccion_fecha": "2026-09-22",
-        "acciones_post": "174855",
-        "footnotes": "The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $31.7750 to $31.8700, inclusive. The reporting person undertakes to provide to Caris Life Sciences, Inc., any security holder of Caris Life Sciences, Inc., or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote. Includes shares acquired in a non-reportable transaction under the Caris Life Sciences, Inc. 2025 Employee Stock Purchase Plan (a tax-qualified plan) after the date of the reporting person's previous Form 4.",
-        "es_rutinaria": true,
-        "resumen_detail": "Denton John Russel (See Remarks) → Venta 7,500 acciones @ $31.82 | Post: 174,855 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
     }
   ],
   "clinicaltrials": {
@@ -795,7 +618,7 @@
         "nivel": "verde",
         "badge": "🟢",
         "enrollment": 150,
-        "ultima_actualizacion": "2026-09-25",
+        "ultima_actualizacion": "2026-10-01",
         "fecha_completion_primaria": "2028-07",
         "changed": true,
         "url": "https://clinicaltrials.gov/study/NCT07486934"
@@ -946,8 +769,8 @@
         "status_desc": "Activo — sin reclutamiento",
         "nivel": "azul",
         "badge": "🔵",
-        "enrollment": 376,
-        "ultima_actualizacion": "2025-09-30",
+        "enrollment": 428,
+        "ultima_actualizacion": "2026-10-01",
         "fecha_completion_primaria": "2025-05-15",
         "changed": true,
         "url": "https://clinicaltrials.gov/study/NCT04716231"

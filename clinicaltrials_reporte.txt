@@ -1,6 +1,6 @@
 ====================================================================================
 CLINICALTRIALS MONITOR v9.3 · Modelo Biotech
-Generado: 30/09/2026 15:05
+Generado: 01/10/2026 15:34
 ====================================================================================
 RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 0 | 🔵 29 | Errores API: 0
 
@@ -89,7 +89,7 @@ DETALLE POR EMPRESA
      Enrollment: 150
      Primary completion: 2028-07 ESTIMATED
      Study completion: 2029-01 ESTIMATED
-     Last update posted: 2026-09-25
+     Last update posted: 2026-10-01
      → https://clinicaltrials.gov/study/NCT07486934
 
 🟢 [VKTX] · Score relevancia: 29
@@ -302,10 +302,10 @@ DETALLE POR EMPRESA
      Catalizador: PDUFA 7 jul 2026 — catalizador más próximo de cartera | Ventana: jul 2026
      Sponsor: Vera Therapeutics, Inc.
      Phase: PHASE3
-     Enrollment: 376
+     Enrollment: 428
      Primary completion: 2025-05-15 ACTUAL
      Study completion: 2028-07 ESTIMATED
-     Last update posted: 2025-09-30
+     Last update posted: 2026-10-01
      → https://clinicaltrials.gov/study/NCT04716231
 
 🔵 [TARA] · Score relevancia: 9

@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "30/09/2026 15:05",
-  "fecha": "2026-09-30",
+  "generado": "01/10/2026 15:34",
+  "fecha": "2026-10-01",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -156,7 +156,7 @@
           "study_completion_date": "2029-01",
           "study_completion_type": "ESTIMATED",
           "start_date": "2026-05-14",
-          "last_update_posted": "2026-09-25",
+          "last_update_posted": "2026-10-01",
           "conditions": [
             "Myotonic Dystrophy Type 1 (DM1)",
             "DM1",
@@ -198,7 +198,14 @@
           "ventana": "2028",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-09-25 → 2026-10-01"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -614,13 +621,13 @@
           "nivel_base": "azul",
           "badge_base": "🔵",
           "phase": "PHASE3",
-          "enrollment": 376,
+          "enrollment": 428,
           "primary_completion_date": "2025-05-15",
           "primary_completion_type": "ACTUAL",
           "study_completion_date": "2028-07",
           "study_completion_type": "ESTIMATED",
           "start_date": "2023-06-29",
-          "last_update_posted": "2025-09-30",
+          "last_update_posted": "2026-10-01",
           "conditions": [
             "IgA Nephropathy",
             "Berger Disease"
@@ -658,7 +665,20 @@
           "ventana": "jul 2026",
           "monitorizar": true,
           "peso_importancia": 10,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2025-09-30 → 2026-10-01"
+            },
+            {
+              "tipo": "enrollment",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Enrollment: 376 → 428"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2287,7 +2307,14 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-09-25 → 2026-10-01"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT07486934"
     },
     {
@@ -2427,7 +2454,20 @@
       "peso_importancia": 10,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2025-09-30 → 2026-10-01"
+        },
+        {
+          "tipo": "enrollment",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Enrollment: 376 → 428"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT04716231"
     },
     {

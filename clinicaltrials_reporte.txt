@@ -1,6 +1,6 @@
 ====================================================================================
 CLINICALTRIALS MONITOR v9.3 · Modelo Biotech
-Generado: 02/10/2026 14:52
+Generado: 05/10/2026 17:17
 ====================================================================================
 RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 0 | 🔵 29 | Errores API: 0
 
@@ -89,7 +89,7 @@ DETALLE POR EMPRESA
      Enrollment: 150
      Primary completion: 2028-07 ESTIMATED
      Study completion: 2029-01 ESTIMATED
-     Last update posted: 2026-10-01
+     Last update posted: 2026-10-05
      → https://clinicaltrials.gov/study/NCT07486934
 
 🟢 [VKTX] · Score relevancia: 29
@@ -290,10 +290,10 @@ DETALLE POR EMPRESA
      Catalizador: datos tempranos | Ventana: 2026-2028
      Sponsor: Beam Therapeutics Inc.
      Phase: PHASE1, PHASE2
-     Enrollment: 106
+     Enrollment: 192
      Primary completion: 2028-05 ESTIMATED
      Study completion: 2030-05 ESTIMATED
-     Last update posted: 2026-03-20
+     Last update posted: 2026-10-05
      → https://clinicaltrials.gov/study/NCT06389877
 
 🔵 [VERA] · Score relevancia: 10

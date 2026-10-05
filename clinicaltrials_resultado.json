@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "02/10/2026 14:52",
-  "fecha": "2026-10-02",
+  "generado": "05/10/2026 17:17",
+  "fecha": "2026-10-05",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -156,7 +156,7 @@
           "study_completion_date": "2029-01",
           "study_completion_type": "ESTIMATED",
           "start_date": "2026-05-14",
-          "last_update_posted": "2026-10-01",
+          "last_update_posted": "2026-10-05",
           "conditions": [
             "Myotonic Dystrophy Type 1 (DM1)",
             "DM1",
@@ -198,7 +198,14 @@
           "ventana": "2028",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-10-01 → 2026-10-05"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1065,13 +1072,13 @@
           "nivel_base": "azul",
           "badge_base": "🔵",
           "phase": "PHASE1, PHASE2",
-          "enrollment": 106,
+          "enrollment": 192,
           "primary_completion_date": "2028-05",
           "primary_completion_type": "ESTIMATED",
           "study_completion_date": "2030-05",
           "study_completion_type": "ESTIMATED",
           "start_date": "2024-06-19",
-          "last_update_posted": "2026-03-20",
+          "last_update_posted": "2026-10-05",
           "conditions": [
             "Alpha 1-Antitrypsin Deficiency"
           ],
@@ -1108,7 +1115,20 @@
           "ventana": "2026-2028",
           "monitorizar": true,
           "peso_importancia": 6,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-03-20 → 2026-10-05"
+            },
+            {
+              "tipo": "enrollment",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Enrollment: 106 → 192"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2287,7 +2307,14 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-10-01 → 2026-10-05"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT07486934"
     },
     {
@@ -2549,6 +2576,39 @@
       "errores_validacion": [],
       "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT05456880"
+    },
+    {
+      "ticker": "BEAM",
+      "nct": "NCT06389877",
+      "nombre": "Ph1/2 — BEAM-302 — AATD",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "RECRUITING",
+      "primary_completion_date": "2028-05",
+      "mensaje": "Reclutando",
+      "prioridad": "media",
+      "estrellas": "⭐⭐",
+      "tipo": "phase1_2",
+      "catalizador": "datos tempranos",
+      "ventana": "2026-2028",
+      "peso_importancia": 6,
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-03-20 → 2026-10-05"
+        },
+        {
+          "tipo": "enrollment",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Enrollment: 106 → 192"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06389877"
     },
     {
       "ticker": "ACRV",

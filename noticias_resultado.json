@@ -1,8 +1,8 @@
 {
-  "generado": "02/10/2026 13:49 UTC",
+  "generado": "05/10/2026 15:56 UTC",
   "plazo_horas": 72,
-  "desde": "2026-09-29",
-  "hasta": "2026-10-02",
+  "desde": "2026-10-02",
+  "hasta": "2026-10-05",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -12,89 +12,15 @@
     },
     "ARGX": {
       "nombre": "ARGX",
-      "noticias": [
-        {
-          "ticker": "ARGX",
-          "titulo": "European Equities Traded in the US as American Depositary Receipts Decline in Wednesday Trading",
-          "resumen": "European equities traded in the US as American depositary receipts were trending lower late Wednesda",
-          "fuente": "Yahoo",
-          "fecha": "30 Sep 2026 15:19 UTC",
-          "url": "https://finnhub.io/api/news?id=998f93bc015b9646f9b5a54dfaf00fbbf13b0fd3357064f4d8b6ca9e52c0abca",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "DYN": {
       "nombre": "DYN",
-      "noticias": [
-        {
-          "ticker": "DYN",
-          "titulo": "Dyne: Recent Price Drop On Rival's DM1 Data Creates (Risky) 'Buy The Dip' Scenario",
-          "resumen": "Dyne Therapeutics is reiterated as a \"risky Buy\" following a >30% stock decline, presenting a contrarian opportunity. Click for this DYN stock update.",
-          "fuente": "SeekingAlpha",
-          "fecha": "30 Sep 2026 13:30 UTC",
-          "url": "https://finnhub.io/api/news?id=8b0e8e35a27ec3938d09892d425ca212a81a015142ffe991f15a585b59a0adfe",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2209596910/image_2209596910.jpg?io=getty-c-w1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "DYN",
-          "titulo": "HC Wainwright & Co. Maintains Buy on Dyne Therapeutics, Lowers Price Target to $32",
-          "resumen": "HC Wainwright &amp; Co.  analyst Ananda Ghosh   maintains Dyne Therapeutics (NASDAQ:DYN) with a Buy and lowers the price target from $50 to $32.",
-          "fuente": "Benzinga",
-          "fecha": "30 Sep 2026 06:18 UTC",
-          "url": "https://finnhub.io/api/news?id=29a086fe66da579e19e74dcaf8238694a26aca02c6b0f134e12cd02126e9de4a",
-          "imagen": "",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "DYN",
-          "titulo": "Dyne Therapeutics stock rises on positive DM1 trial results",
-          "resumen": "Investing.com -- Dyne Therapeutics Inc (NASDAQ:DYN) shares gained 2.1% in after-hours trading Tuesday following the release of one-year trial data for its experimental DM1 treatment z-basivarsen.",
-          "fuente": "Yahoo",
-          "fecha": "29 Sep 2026 21:23 UTC",
-          "url": "https://finnhub.io/api/news?id=2774c42038a161bbb877cdc94c9e8df49e68238543067bd27427f59af986be0e",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "DYN",
-          "titulo": "Dyne Therapeutics Announces Additional One-Year Clinical Data from Phase 1/2 ACHIEVE Trial of Z-Basivarsen (DYNE-101) for Myotonic Dystrophy Type 1 (DM1)",
-          "resumen": "- Data from a pooled dose group of participants initially enrolled in the multiple ascending dose (MAD) portion of ACHIEVE showed functional improvement versus baseline, versus placebo and versus a matched natural history cohort across multiple measures at 12 months - - Data continued to support imp",
-          "fuente": "Yahoo",
-          "fecha": "29 Sep 2026 20:05 UTC",
-          "url": "https://finnhub.io/api/news?id=378090f76f533f973aff43713e2f3b24d1279af91e5c304490a59530af6418a7",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "DYN",
-          "titulo": "Dyne Therapeutics Announces Additional One-Year Clinical Data From Phase 1/2 ACHIEVE Trial",
-          "resumen": "- Data from a pooled dose group of participants initially enrolled in the multiple ascending dose (MAD) portion of ACHIEVE showed functional improvement versus baseline, versus placebo and versus a matched natural",
-          "fuente": "Benzinga",
-          "fecha": "29 Sep 2026 16:08 UTC",
-          "url": "https://finnhub.io/api/news?id=38fd56fba65863318688941aac1be8105464fa36d3d4353b85d0910eb272e3d8",
-          "imagen": "",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 5
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "DNLI": {
       "nombre": "DNLI",
@@ -104,81 +30,20 @@
     },
     "VKTX": {
       "nombre": "VKTX",
-      "noticias": [
-        {
-          "ticker": "VKTX",
-          "titulo": "Viking Therapeutics, Inc. (VKTX) Stock Declines While Market Improves: Some Information for Investors",
-          "resumen": "Viking Therapeutics, Inc. (VKTX) closed the most recent trading day at $30.51, moving 6.41% from the previous trading session.",
-          "fuente": "Yahoo",
-          "fecha": "01 Oct 2026 20:45 UTC",
-          "url": "https://finnhub.io/api/news?id=eeea1614baf9feffb48a8279b220f38d8dc2bfea20f0e8cdbdab38f0f53c71c5",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "Novo Is Open to Acquisitions. Here Are 2 Companies That Would Be Great Candidates to Buy",
-          "resumen": "Could this be what Novo needs to turn things around?",
-          "fuente": "Yahoo",
-          "fecha": "30 Sep 2026 23:30 UTC",
-          "url": "https://finnhub.io/api/news?id=88b7df9c9d61e720043af10293f6dff5981ba23098b746adcd33aa8c361ae5f2",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "Viking Therapeutics Stock Soars 36% on Weight-Loss Drug Data. Why It's Not Too Late to Buy the Stock.",
-          "resumen": "There could be more catalysts for the biotech over the next 18 months.",
-          "fuente": "Yahoo",
-          "fecha": "30 Sep 2026 21:20 UTC",
-          "url": "https://finnhub.io/api/news?id=c681ecd51bebed5e433958435348512ebe4ab762fa43fe4f97f4feed2da35df2",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "Viking Therapeutics, Inc. (VKTX) Rises As Market Takes a Dip: Key Facts",
-          "resumen": "Viking Therapeutics, Inc. (VKTX) concluded the recent trading session at $32.74, signifying a +2.92% move from its prior day's close.",
-          "fuente": "Yahoo",
-          "fecha": "30 Sep 2026 20:50 UTC",
-          "url": "https://finnhub.io/api/news?id=6a12b4a45b439c4f60ea09b755072f63792ac27471ad7fa8ec603ca9c04367d4",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "3 Emerging Biotech Stocks With Significant Upside Potential",
-          "resumen": "Delcath Systems, Viking Therapeutics and AxoGen show growth potential backed by analyst Moderate Buy ratings and strong institutional ownership, despite risks like dilution and patent cliffs.",
-          "fuente": "Yahoo",
-          "fecha": "30 Sep 2026 16:45 UTC",
-          "url": "https://finnhub.io/api/news?id=ef7c8825b8e98a10187a7d22161fca31ed93787e574295d3dc7ad2ac23995027",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 5
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
         {
           "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals And 2 Other Top Gene Therapy Stocks",
-          "resumen": "Global bond yields recently hit multidecade highs, raising borrowing costs and putting pressure on many high growth sectors. When money gets more expensive, investors often look harder at balance sheets and valuations. That is where select biotechnology stocks with more reasonable finances can draw ",
+          "titulo": "Vertex Pharmaceuticals Incorporated (VRTX) is Attracting Investor Attention: Here is What You Should Know",
+          "resumen": "Vertex (VRTX) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
           "fuente": "Yahoo",
-          "fecha": "01 Oct 2026 22:07 UTC",
-          "url": "https://finnhub.io/api/news?id=33db27cdedbadf5d64a8a23a56996eefb15a99869c55975888b7930bc6d25e12",
+          "fecha": "05 Oct 2026 12:00 UTC",
+          "url": "https://finnhub.io/api/news?id=1796d84c2e8a9f60a1a7b9d29266b5788128dd7ef6544af57255d46a92509159",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
@@ -186,23 +51,11 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals (VRTX) Stock Falls Amid Market Uptick: What Investors Need to Know",
-          "resumen": "In the latest trading session, Vertex Pharmaceuticals (VRTX) closed at $506.74, marking a -3.07% move from the previous day.",
+          "titulo": "Vortex Energy Commissions Hydrogen and Helium Study at Robinsons River Salt Project",
+          "resumen": "Desktop study will use existing geological, geophysical and well data to assess natural hydrogen and helium potentialVANCOUVER, British Columbia, Oct. 05, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) is pleased to announce that it has c",
           "fuente": "Yahoo",
-          "fecha": "01 Oct 2026 21:00 UTC",
-          "url": "https://finnhub.io/api/news?id=f4e27e824ed2216180d2fc1ff43a6009ba5e9ba7b333adb15c9fd852d617ac38",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vortex Energy Completes Acquisition of the Meadows Project in Saskatchewan",
-          "resumen": "VANCOUVER, British Columbia, Oct. 01, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (\"Vortex\" or the \"Company\") is pleased to announce that, further to its news release dated September 17, 2026, it has completed the acquisition (the “Acquisition”) of the Purchased ",
-          "fuente": "Yahoo",
-          "fecha": "01 Oct 2026 21:00 UTC",
-          "url": "https://finnhub.io/api/news?id=8b2cc6a116d127762d8c7ff932bc5889f16d9ceca2d269093a071a3cf8886285",
+          "fecha": "05 Oct 2026 12:00 UTC",
+          "url": "https://finnhub.io/api/news?id=943cb8c1f83470d9cc644feb430e61cb7adee87a478c61044c0106a7f544aae2",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -210,11 +63,11 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "Axsome Therapeutics vs. Vertex Pharmaceuticals: Which Biotech Stock Is a Better Buy in 2026?",
-          "resumen": "Vertex dominates cystic fibrosis with expanding disease coverage and a pipeline entering new therapeutic areas. Axsome is building a commercial drug portfolio quickly but is still working toward consistent profitability.",
+          "titulo": "2 Safe-and-Steady Stocks with Promising Prospects and 1 We Turn Down",
+          "resumen": "A stock with low volatility can be reassuring, but it doesn’t always mean strong long-term performance. Investors who prioritize stability may miss out on higher-reward opportunities elsewhere.",
           "fuente": "Yahoo",
-          "fecha": "01 Oct 2026 19:17 UTC",
-          "url": "https://finnhub.io/api/news?id=efdd7ae1fb5005fdb07db2a037384ba09bae20b4b50dc26ed3c05ad7df9cd2ef",
+          "fecha": "05 Oct 2026 09:55 UTC",
+          "url": "https://finnhub.io/api/news?id=e577f7a9f57d44c3b91d86f0a9d89c225339a9fd4ab39a07dabc04048da37e08",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
@@ -222,12 +75,24 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "The Top HealthTech Questions Landing On Our Desks",
-          "resumen": "Strong performance across the healthtech sector over the past two quarters has sparked renewed market interest in medical innovation.",
-          "fuente": "SeekingAlpha",
-          "fecha": "01 Oct 2026 03:31 UTC",
-          "url": "https://finnhub.io/api/news?id=7d6465b472d118677c03014527a5f47cd568772afebdfde05f26b16e70df37cb",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1440523601/image_1440523601.jpg?io=getty-c-w1536",
+          "titulo": "Amgen vs. Vertex Pharmaceuticals: Which Biotech Stock Is a Better Buy in 2026?",
+          "resumen": "One offers a more affordable entry point while the other boasts some of the highest profit margins in the sector. The choice comes down to whether you prioritize income stability or growth potential.",
+          "fuente": "Yahoo",
+          "fecha": "04 Oct 2026 14:34 UTC",
+          "url": "https://finnhub.io/api/news?id=773d3787e684fba498bba3b49094c209329c0e46fcca5973e7c495eb6d0c1b89",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex (VRTX) or Regeneron (REGN)? Two Biotech Moats, Two Very Different Bets",
+          "resumen": "Biotech companies are strange businesses to think about in terms of competitive advantages. A software company can lock customers into an ecosystem for years. A manufacturer can have a cost advantage. A biotech company, meanwhile, can spend billions developing a drug only to see a competitor produce",
+          "fuente": "Yahoo",
+          "fecha": "03 Oct 2026 02:40 UTC",
+          "url": "https://finnhub.io/api/news?id=1510dab33932c078bbdfa82bd31981132c1fe6efe647aba58030c1ffd02f120c",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
@@ -238,113 +103,26 @@
     },
     "ALNY": {
       "nombre": "ALNY",
-      "noticias": [
-        {
-          "ticker": "ALNY",
-          "titulo": "JP Morgan Maintains Overweight on Alnylam Pharmaceuticals, Lowers Price Target to $369",
-          "resumen": "JP Morgan  analyst Jessica Fye   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Overweight and lowers the price target from $375 to $369.",
-          "fuente": "Benzinga",
-          "fecha": "30 Sep 2026 14:00 UTC",
-          "url": "https://finnhub.io/api/news?id=bbea3de313dae95c3a1781a3b54660db0d3428fac68f736ef169b0d43badadc7",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "BEAM": {
       "nombre": "BEAM",
-      "noticias": [
-        {
-          "ticker": "BEAM",
-          "titulo": "Will IP Theft Allegations Against YolTech and Serapha Bio Change Beam Therapeutics' (BEAM) Narrative",
-          "resumen": "In September 2026, Beam Therapeutics filed a lawsuit alleging that former scientist Zi Jun “Emma” Wang stole confidential research to co-found Chinese biotech YolTech Therapeutics and, through it, helped create Serapha Bio using Beam’s trade secrets and patentable know‑how. This dispute underscores ",
-          "fuente": "Yahoo",
-          "fecha": "01 Oct 2026 01:23 UTC",
-          "url": "https://finnhub.io/api/news?id=15feb276733afc478388110ed7463a8957a1735afaaf566493d69197e1d78fa1",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "BEAM",
-          "titulo": "Beam sues 2 biotechs, alleging theft of base editing trade secrets",
-          "resumen": "Beam claimed a former scientist stole confidential information and quietly spun up a rival rare disease treatment at YolTech Therapeutics. Serapha Bio, which licensed that therapy, denies the charges.",
-          "fuente": "Yahoo",
-          "fecha": "29 Sep 2026 18:34 UTC",
-          "url": "https://finnhub.io/api/news?id=9b108502cc008f1fa2f1b52a315017e2ac539a7b97feca4020de5f0b252daa73",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 2
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "OCUL": {
       "nombre": "OCUL",
       "noticias": [
         {
           "ticker": "OCUL",
-          "titulo": "OCUL Stock On Track For Worst Week In 2.5 Years As Rivals Raise The Bar In Wet AMD",
-          "resumen": "OCUL stock selloff began on Monday after Kodiak Sciences and 4D Molecular posted updates from clinical trials of their eye-disease drugs.",
+          "titulo": "Stocktwits Pharma Pulse: Roche Faces FDA Decision, Gene-Therapy Stocks Step Into Focus — The Week’s Biotech Watchlist",
+          "resumen": "Rocket, RegenXBio, Precision BioSciences, Kyverna and uniQure will present on Monday at a cell and gene-therapy conference.",
           "fuente": "Yahoo",
-          "fecha": "01 Oct 2026 21:35 UTC",
-          "url": "https://finnhub.io/api/news?id=d87e788f494f1754d63aeac50d405e033c0ecb2363c9d315f9e2a391f0a26909",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "OCUL",
-          "titulo": "3 Reasons to Avoid OCUL and 1 Stock to Buy Instead",
-          "resumen": "Over the last six months, Ocular Therapeutix’s shares have sunk to $7.74, producing a disappointing 7.1% loss - a stark contrast to the S&P 500’s 16.6% gain. This might have investors contemplating their next move.",
-          "fuente": "Yahoo",
-          "fecha": "01 Oct 2026 16:53 UTC",
-          "url": "https://finnhub.io/api/news?id=4aa3ee72c7451fd28c75dfb5c882bee1ae5b8d1e1b5706166dbb7ced7894aa76",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "OCUL",
-          "titulo": "Ocular Therapeutix™ to Participate in October Scientific and Investor Conferences",
-          "resumen": "BEDFORD, Mass., Oct. 01, 2026 (GLOBE NEWSWIRE) -- Ocular Therapeutix, Inc. (NASDAQ: OCUL, “Ocular”), an integrated biopharmaceutical company committed to redefining the retina experience, today announced participation in several upcoming scientific and investor conferences in October 2026. Upcoming ",
-          "fuente": "Yahoo",
-          "fecha": "01 Oct 2026 11:00 UTC",
-          "url": "https://finnhub.io/api/news?id=bdbe97cd3d669c0b53bb85c12ebfd3c441c2d19ed89ad5853874b0a3ae585de6",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 3
-    },
-    "CAI": {
-      "nombre": "CAI",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
-    },
-    "GPCR": {
-      "nombre": "GPCR",
-      "noticias": [
-        {
-          "ticker": "GPCR",
-          "titulo": "Can Novo's Licensing Strategy Build Its Next Wave of Oral Medicines?",
-          "resumen": "NVO's latest Hengrui deal adds a phase I-ready, once-weekly oral GLP-1/GIP candidate, building on deals for oral drug-delivery tech and small-molecule approaches.",
-          "fuente": "Yahoo",
-          "fecha": "30 Sep 2026 12:17 UTC",
-          "url": "https://finnhub.io/api/news?id=f3375827f058c0a3d601260d7179d441b0b3522f6026ccf490e23b0364fbe724",
+          "fecha": "05 Oct 2026 03:09 UTC",
+          "url": "https://finnhub.io/api/news?id=4cb88bc1b0cbb87ce43302eeb489ca2bc7c204edd68f72b2327890e7324f3496",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -354,42 +132,55 @@
       "nivel": "rojo",
       "total": 1
     },
-    "ABVX": {
-      "nombre": "ABVX",
+    "CAI": {
+      "nombre": "CAI",
       "noticias": [
         {
-          "ticker": "ABVX",
-          "titulo": "Abivax to Present Data on Obefazimod at United European Gastroenterology (UEG) Week 2026",
-          "resumen": "Abivax to Present Data on Obefazimod at United European Gastroenterology (UEG) Week 2026 Four oral presentations and three posters build upon Phase 3 ABTECT Maintenance and Induction programs in ulcerative colitis, long-term Phase 2 findings, and preclinical anti-fibrotic research PARIS, France – Se",
+          "ticker": "CAI",
+          "titulo": "IPO Stock Of The Week: Caris Pulls Back After More Than Doubling In Just Two Months",
+          "resumen": "Caris stock is pulling back after more than doubling in just two months. Wait for the IPO stock to offer a new buy point.",
           "fuente": "Yahoo",
-          "fecha": "30 Sep 2026 20:05 UTC",
-          "url": "https://finnhub.io/api/news?id=af5128a5cd65c0f5e4c5b6317d2348ab341fb6b86c7b5b2ee071c219ebfffa3e",
+          "fecha": "02 Oct 2026 19:02 UTC",
+          "url": "https://finnhub.io/api/news?id=d443e6d5de8d91e42ff85d70c41d928e9adabcaf3d0ff4928d22c39a2ce015bf",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ABVX",
-          "titulo": "Abivax To Present Seven Scientific Abstracts On Obefazimod, Lead Drug Candidate For Treatment Of Active Ulcerative Colitis At UEG Week 2026 Meeting",
-          "resumen": "Abivax to Present Data on Obefazimod at United European Gastroenterology (UEG) Week 2026Four oral presentations and three posters build upon Phase 3 ABTECT Maintenance and Induction programs in ulcerative colitis,",
-          "fuente": "Benzinga",
-          "fecha": "30 Sep 2026 16:16 UTC",
-          "url": "https://finnhub.io/api/news?id=5b4b7ae756be6e142cd598506a13f440596c6187c08a8bf954598aac04f76841",
-          "imagen": "",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
         }
       ],
-      "nivel": "rojo",
-      "total": 2
+      "nivel": "azul",
+      "total": 1
     },
-    "VERA": {
-      "nombre": "VERA",
+    "GPCR": {
+      "nombre": "GPCR",
       "noticias": [],
       "nivel": "ok",
       "total": 0
+    },
+    "ABVX": {
+      "nombre": "ABVX",
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
+    },
+    "VERA": {
+      "nombre": "VERA",
+      "noticias": [
+        {
+          "ticker": "VERA",
+          "titulo": "Vera Therapeutics Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+          "resumen": "BRISBANE, Calif., Oct. 02, 2026 (GLOBE NEWSWIRE) -- Vera Therapeutics, Inc. (Nasdaq: VERA) today announced that, on September 29, 2026, the Compensation Committee of the Board of Directors (Compensation Committee) of Vera Therapeutics granted inducement awards consisting of non-qualified stock optio",
+          "fuente": "Yahoo",
+          "fecha": "02 Oct 2026 20:05 UTC",
+          "url": "https://finnhub.io/api/news?id=fadf8f7aeb7fe02714c59eefe8d31c020f5d8d71289da8aafbb754714886e264",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "ACRV": {
       "nombre": "ACRV",
@@ -405,393 +196,188 @@
     },
     "SENS": {
       "nombre": "SENS",
-      "noticias": [
-        {
-          "ticker": "SENS",
-          "titulo": "Beta Bionics Stock Down Despite iLet-Eversense 365 Integration Deal",
-          "resumen": "BBNX's Eversense 365 partnership is likely to broaden CGM choice and strengthen its automated insulin delivery ecosystem across iLet and mint.",
-          "fuente": "Yahoo",
-          "fecha": "29 Sep 2026 14:06 UTC",
-          "url": "https://finnhub.io/api/news?id=c8a3883a0d743ae06ec3b632acdcbfbf365a4abeaa0485104c7b26b8a525f462",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "INSM": {
       "nombre": "INSM",
       "noticias": [
         {
           "ticker": "INSM",
-          "titulo": "Liquidia Stock Plunges 57% on UTHR Patent Litigation Setback",
-          "resumen": "LQDA faces a major setback as a patent ruling threatens Yutrepia's PH-ILD indication and creates uncertainty around its commercial outlook.",
+          "titulo": "Insmed Announces CFO Transition",
+          "resumen": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced that Sara Bonstein will step down as Chief Financial Officer (CFO). Ms. Bonstein will",
           "fuente": "Yahoo",
-          "fecha": "01 Oct 2026 16:30 UTC",
-          "url": "https://finnhub.io/api/news?id=444780a77d713c713f1062fae18e6b4c080e474175c5c32e50d2291833c6ac24",
+          "fecha": "05 Oct 2026 11:00 UTC",
+          "url": "https://finnhub.io/api/news?id=36925e6371d3b107d9aaeeabb1825049cf0b05b350b6bbcf7609cff26d38aa1b",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
         },
         {
           "ticker": "INSM",
-          "titulo": "Barclays Maintains Overweight on Insmed, Lowers Price Target to $207",
-          "resumen": "Barclays  analyst Eliana Merle   maintains Insmed (NASDAQ:INSM) with a Overweight and lowers the price target from $237 to $207.",
+          "titulo": "Insmed Q2 2026 Earnings Call Transcript",
+          "resumen": "Insmed (NASDAQ:INSM) reported second-quarter financial results on Thursday. The transcript from the company&#39;s second-quarter earnings call has been provided below.\nBenzinga APIs provide real-time access to earnings",
           "fuente": "Benzinga",
-          "fecha": "30 Sep 2026 11:37 UTC",
-          "url": "https://finnhub.io/api/news?id=e84ac5e76200827bb106d5002b39384c73bab38415ba78958b38184fcdd0fd77",
+          "fecha": "05 Oct 2026 07:46 UTC",
+          "url": "https://finnhub.io/api/news?id=0da9504d820a183e49f801e6a47b515c072925817a45dc9e0adfc62135db8aa9",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_1.jpg?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "Insmed Reaffirms FY26 Revenue Guidance Of $1.25B-$1.40B For BRINSUPRI And $450M- $470M For ARIKAYCE",
+          "resumen": "Reaffirms Full-Year 2026 GuidanceAs Insmed continues to build on its operational excellence and momentum, the Company reaffirms its full-year 2026 financial guidance of revenue in the range of $1.25 billion to $1.40",
+          "fuente": "Benzinga",
+          "fecha": "05 Oct 2026 07:07 UTC",
+          "url": "https://finnhub.io/api/news?id=5e702ce5d105130fc7cd08566e9ab73b9bd6b6cf199683bfce9581846b1e19f0",
           "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
         }
       ],
-      "nivel": "azul",
-      "total": 2
+      "nivel": "rojo",
+      "total": 3
     }
   },
   "resumen": {
-    "total_noticias": 28,
-    "tickers_con_noticias": 11,
-    "alertas_urgentes": 7,
-    "sin_noticias": 6
+    "total_noticias": 11,
+    "tickers_con_noticias": 5,
+    "alertas_urgentes": 3,
+    "sin_noticias": 12
   },
   "todas_noticias": [
     {
-      "ticker": "VRTX",
-      "titulo": "Vortex Energy Completes Acquisition of the Meadows Project in Saskatchewan",
-      "resumen": "VANCOUVER, British Columbia, Oct. 01, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (\"Vortex\" or the \"Company\") is pleased to announce that, further to its news release dated September 17, 2026, it has completed the acquisition (the “Acquisition”) of the Purchased ",
-      "fuente": "Yahoo",
-      "fecha": "01 Oct 2026 21:00 UTC",
-      "url": "https://finnhub.io/api/news?id=8b2cc6a116d127762d8c7ff932bc5889f16d9ceca2d269093a071a3cf8886285",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
       "ticker": "OCUL",
-      "titulo": "OCUL Stock On Track For Worst Week In 2.5 Years As Rivals Raise The Bar In Wet AMD",
-      "resumen": "OCUL stock selloff began on Monday after Kodiak Sciences and 4D Molecular posted updates from clinical trials of their eye-disease drugs.",
+      "titulo": "Stocktwits Pharma Pulse: Roche Faces FDA Decision, Gene-Therapy Stocks Step Into Focus — The Week’s Biotech Watchlist",
+      "resumen": "Rocket, RegenXBio, Precision BioSciences, Kyverna and uniQure will present on Monday at a cell and gene-therapy conference.",
       "fuente": "Yahoo",
-      "fecha": "01 Oct 2026 21:35 UTC",
-      "url": "https://finnhub.io/api/news?id=d87e788f494f1754d63aeac50d405e033c0ecb2363c9d315f9e2a391f0a26909",
+      "fecha": "05 Oct 2026 03:09 UTC",
+      "url": "https://finnhub.io/api/news?id=4cb88bc1b0cbb87ce43302eeb489ca2bc7c204edd68f72b2327890e7324f3496",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
-    },
-    {
-      "ticker": "SENS",
-      "titulo": "Beta Bionics Stock Down Despite iLet-Eversense 365 Integration Deal",
-      "resumen": "BBNX's Eversense 365 partnership is likely to broaden CGM choice and strengthen its automated insulin delivery ecosystem across iLet and mint.",
-      "fuente": "Yahoo",
-      "fecha": "29 Sep 2026 14:06 UTC",
-      "url": "https://finnhub.io/api/news?id=c8a3883a0d743ae06ec3b632acdcbfbf365a4abeaa0485104c7b26b8a525f462",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "DYN",
-      "titulo": "Dyne Therapeutics Announces Additional One-Year Clinical Data From Phase 1/2 ACHIEVE Trial",
-      "resumen": "- Data from a pooled dose group of participants initially enrolled in the multiple ascending dose (MAD) portion of ACHIEVE showed functional improvement versus baseline, versus placebo and versus a matched natural",
-      "fuente": "Benzinga",
-      "fecha": "29 Sep 2026 16:08 UTC",
-      "url": "https://finnhub.io/api/news?id=38fd56fba65863318688941aac1be8105464fa36d3d4353b85d0910eb272e3d8",
-      "imagen": "",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "DYN",
-      "titulo": "Dyne Therapeutics Announces Additional One-Year Clinical Data from Phase 1/2 ACHIEVE Trial of Z-Basivarsen (DYNE-101) for Myotonic Dystrophy Type 1 (DM1)",
-      "resumen": "- Data from a pooled dose group of participants initially enrolled in the multiple ascending dose (MAD) portion of ACHIEVE showed functional improvement versus baseline, versus placebo and versus a matched natural history cohort across multiple measures at 12 months - - Data continued to support imp",
-      "fuente": "Yahoo",
-      "fecha": "29 Sep 2026 20:05 UTC",
-      "url": "https://finnhub.io/api/news?id=378090f76f533f973aff43713e2f3b24d1279af91e5c304490a59530af6418a7",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "DYN",
-      "titulo": "Dyne Therapeutics stock rises on positive DM1 trial results",
-      "resumen": "Investing.com -- Dyne Therapeutics Inc (NASDAQ:DYN) shares gained 2.1% in after-hours trading Tuesday following the release of one-year trial data for its experimental DM1 treatment z-basivarsen.",
-      "fuente": "Yahoo",
-      "fecha": "29 Sep 2026 21:23 UTC",
-      "url": "https://finnhub.io/api/news?id=2774c42038a161bbb877cdc94c9e8df49e68238543067bd27427f59af986be0e",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "DYN",
-      "titulo": "HC Wainwright & Co. Maintains Buy on Dyne Therapeutics, Lowers Price Target to $32",
-      "resumen": "HC Wainwright &amp; Co.  analyst Ananda Ghosh   maintains Dyne Therapeutics (NASDAQ:DYN) with a Buy and lowers the price target from $50 to $32.",
-      "fuente": "Benzinga",
-      "fecha": "30 Sep 2026 06:18 UTC",
-      "url": "https://finnhub.io/api/news?id=29a086fe66da579e19e74dcaf8238694a26aca02c6b0f134e12cd02126e9de4a",
-      "imagen": "",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "GPCR",
-      "titulo": "Can Novo's Licensing Strategy Build Its Next Wave of Oral Medicines?",
-      "resumen": "NVO's latest Hengrui deal adds a phase I-ready, once-weekly oral GLP-1/GIP candidate, building on deals for oral drug-delivery tech and small-molecule approaches.",
-      "fuente": "Yahoo",
-      "fecha": "30 Sep 2026 12:17 UTC",
-      "url": "https://finnhub.io/api/news?id=f3375827f058c0a3d601260d7179d441b0b3522f6026ccf490e23b0364fbe724",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "DYN",
-      "titulo": "Dyne: Recent Price Drop On Rival's DM1 Data Creates (Risky) 'Buy The Dip' Scenario",
-      "resumen": "Dyne Therapeutics is reiterated as a \"risky Buy\" following a >30% stock decline, presenting a contrarian opportunity. Click for this DYN stock update.",
-      "fuente": "SeekingAlpha",
-      "fecha": "30 Sep 2026 13:30 UTC",
-      "url": "https://finnhub.io/api/news?id=8b0e8e35a27ec3938d09892d425ca212a81a015142ffe991f15a585b59a0adfe",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2209596910/image_2209596910.jpg?io=getty-c-w1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ABVX",
-      "titulo": "Abivax To Present Seven Scientific Abstracts On Obefazimod, Lead Drug Candidate For Treatment Of Active Ulcerative Colitis At UEG Week 2026 Meeting",
-      "resumen": "Abivax to Present Data on Obefazimod at United European Gastroenterology (UEG) Week 2026Four oral presentations and three posters build upon Phase 3 ABTECT Maintenance and Induction programs in ulcerative colitis,",
-      "fuente": "Benzinga",
-      "fecha": "30 Sep 2026 16:16 UTC",
-      "url": "https://finnhub.io/api/news?id=5b4b7ae756be6e142cd598506a13f440596c6187c08a8bf954598aac04f76841",
-      "imagen": "",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ABVX",
-      "titulo": "Abivax to Present Data on Obefazimod at United European Gastroenterology (UEG) Week 2026",
-      "resumen": "Abivax to Present Data on Obefazimod at United European Gastroenterology (UEG) Week 2026 Four oral presentations and three posters build upon Phase 3 ABTECT Maintenance and Induction programs in ulcerative colitis, long-term Phase 2 findings, and preclinical anti-fibrotic research PARIS, France – Se",
-      "fuente": "Yahoo",
-      "fecha": "30 Sep 2026 20:05 UTC",
-      "url": "https://finnhub.io/api/news?id=af5128a5cd65c0f5e4c5b6317d2348ab341fb6b86c7b5b2ee071c219ebfffa3e",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "Viking Therapeutics Stock Soars 36% on Weight-Loss Drug Data. Why It's Not Too Late to Buy the Stock.",
-      "resumen": "There could be more catalysts for the biotech over the next 18 months.",
-      "fuente": "Yahoo",
-      "fecha": "30 Sep 2026 21:20 UTC",
-      "url": "https://finnhub.io/api/news?id=c681ecd51bebed5e433958435348512ebe4ab762fa43fe4f97f4feed2da35df2",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "Novo Is Open to Acquisitions. Here Are 2 Companies That Would Be Great Candidates to Buy",
-      "resumen": "Could this be what Novo needs to turn things around?",
-      "fuente": "Yahoo",
-      "fecha": "30 Sep 2026 23:30 UTC",
-      "url": "https://finnhub.io/api/news?id=88b7df9c9d61e720043af10293f6dff5981ba23098b746adcd33aa8c361ae5f2",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "BEAM",
-      "titulo": "Will IP Theft Allegations Against YolTech and Serapha Bio Change Beam Therapeutics' (BEAM) Narrative",
-      "resumen": "In September 2026, Beam Therapeutics filed a lawsuit alleging that former scientist Zi Jun “Emma” Wang stole confidential research to co-found Chinese biotech YolTech Therapeutics and, through it, helped create Serapha Bio using Beam’s trade secrets and patentable know‑how. This dispute underscores ",
-      "fuente": "Yahoo",
-      "fecha": "01 Oct 2026 01:23 UTC",
-      "url": "https://finnhub.io/api/news?id=15feb276733afc478388110ed7463a8957a1735afaaf566493d69197e1d78fa1",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "The Top HealthTech Questions Landing On Our Desks",
-      "resumen": "Strong performance across the healthtech sector over the past two quarters has sparked renewed market interest in medical innovation.",
-      "fuente": "SeekingAlpha",
-      "fecha": "01 Oct 2026 03:31 UTC",
-      "url": "https://finnhub.io/api/news?id=7d6465b472d118677c03014527a5f47cd568772afebdfde05f26b16e70df37cb",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1440523601/image_1440523601.jpg?io=getty-c-w1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "OCUL",
-      "titulo": "Ocular Therapeutix™ to Participate in October Scientific and Investor Conferences",
-      "resumen": "BEDFORD, Mass., Oct. 01, 2026 (GLOBE NEWSWIRE) -- Ocular Therapeutix, Inc. (NASDAQ: OCUL, “Ocular”), an integrated biopharmaceutical company committed to redefining the retina experience, today announced participation in several upcoming scientific and investor conferences in October 2026. Upcoming ",
-      "fuente": "Yahoo",
-      "fecha": "01 Oct 2026 11:00 UTC",
-      "url": "https://finnhub.io/api/news?id=bdbe97cd3d669c0b53bb85c12ebfd3c441c2d19ed89ad5853874b0a3ae585de6",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
     },
     {
       "ticker": "INSM",
-      "titulo": "Liquidia Stock Plunges 57% on UTHR Patent Litigation Setback",
-      "resumen": "LQDA faces a major setback as a patent ruling threatens Yutrepia's PH-ILD indication and creates uncertainty around its commercial outlook.",
-      "fuente": "Yahoo",
-      "fecha": "01 Oct 2026 16:30 UTC",
-      "url": "https://finnhub.io/api/news?id=444780a77d713c713f1062fae18e6b4c080e474175c5c32e50d2291833c6ac24",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "OCUL",
-      "titulo": "3 Reasons to Avoid OCUL and 1 Stock to Buy Instead",
-      "resumen": "Over the last six months, Ocular Therapeutix’s shares have sunk to $7.74, producing a disappointing 7.1% loss - a stark contrast to the S&P 500’s 16.6% gain. This might have investors contemplating their next move.",
-      "fuente": "Yahoo",
-      "fecha": "01 Oct 2026 16:53 UTC",
-      "url": "https://finnhub.io/api/news?id=4aa3ee72c7451fd28c75dfb5c882bee1ae5b8d1e1b5706166dbb7ced7894aa76",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Axsome Therapeutics vs. Vertex Pharmaceuticals: Which Biotech Stock Is a Better Buy in 2026?",
-      "resumen": "Vertex dominates cystic fibrosis with expanding disease coverage and a pipeline entering new therapeutic areas. Axsome is building a commercial drug portfolio quickly but is still working toward consistent profitability.",
-      "fuente": "Yahoo",
-      "fecha": "01 Oct 2026 19:17 UTC",
-      "url": "https://finnhub.io/api/news?id=efdd7ae1fb5005fdb07db2a037384ba09bae20b4b50dc26ed3c05ad7df9cd2ef",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "Viking Therapeutics, Inc. (VKTX) Stock Declines While Market Improves: Some Information for Investors",
-      "resumen": "Viking Therapeutics, Inc. (VKTX) closed the most recent trading day at $30.51, moving 6.41% from the previous trading session.",
-      "fuente": "Yahoo",
-      "fecha": "01 Oct 2026 20:45 UTC",
-      "url": "https://finnhub.io/api/news?id=eeea1614baf9feffb48a8279b220f38d8dc2bfea20f0e8cdbdab38f0f53c71c5",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals (VRTX) Stock Falls Amid Market Uptick: What Investors Need to Know",
-      "resumen": "In the latest trading session, Vertex Pharmaceuticals (VRTX) closed at $506.74, marking a -3.07% move from the previous day.",
-      "fuente": "Yahoo",
-      "fecha": "01 Oct 2026 21:00 UTC",
-      "url": "https://finnhub.io/api/news?id=f4e27e824ed2216180d2fc1ff43a6009ba5e9ba7b333adb15c9fd852d617ac38",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals And 2 Other Top Gene Therapy Stocks",
-      "resumen": "Global bond yields recently hit multidecade highs, raising borrowing costs and putting pressure on many high growth sectors. When money gets more expensive, investors often look harder at balance sheets and valuations. That is where select biotechnology stocks with more reasonable finances can draw ",
-      "fuente": "Yahoo",
-      "fecha": "01 Oct 2026 22:07 UTC",
-      "url": "https://finnhub.io/api/news?id=33db27cdedbadf5d64a8a23a56996eefb15a99869c55975888b7930bc6d25e12",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "BEAM",
-      "titulo": "Beam sues 2 biotechs, alleging theft of base editing trade secrets",
-      "resumen": "Beam claimed a former scientist stole confidential information and quietly spun up a rival rare disease treatment at YolTech Therapeutics. Serapha Bio, which licensed that therapy, denies the charges.",
-      "fuente": "Yahoo",
-      "fecha": "29 Sep 2026 18:34 UTC",
-      "url": "https://finnhub.io/api/news?id=9b108502cc008f1fa2f1b52a315017e2ac539a7b97feca4020de5f0b252daa73",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "titulo": "Insmed Reaffirms FY26 Revenue Guidance Of $1.25B-$1.40B For BRINSUPRI And $450M- $470M For ARIKAYCE",
+      "resumen": "Reaffirms Full-Year 2026 GuidanceAs Insmed continues to build on its operational excellence and momentum, the Company reaffirms its full-year 2026 financial guidance of revenue in the range of $1.25 billion to $1.40",
+      "fuente": "Benzinga",
+      "fecha": "05 Oct 2026 07:07 UTC",
+      "url": "https://finnhub.io/api/news?id=5e702ce5d105130fc7cd08566e9ab73b9bd6b6cf199683bfce9581846b1e19f0",
+      "imagen": "",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "INSM",
-      "titulo": "Barclays Maintains Overweight on Insmed, Lowers Price Target to $207",
-      "resumen": "Barclays  analyst Eliana Merle   maintains Insmed (NASDAQ:INSM) with a Overweight and lowers the price target from $237 to $207.",
+      "titulo": "Insmed Q2 2026 Earnings Call Transcript",
+      "resumen": "Insmed (NASDAQ:INSM) reported second-quarter financial results on Thursday. The transcript from the company&#39;s second-quarter earnings call has been provided below.\nBenzinga APIs provide real-time access to earnings",
       "fuente": "Benzinga",
-      "fecha": "30 Sep 2026 11:37 UTC",
-      "url": "https://finnhub.io/api/news?id=e84ac5e76200827bb106d5002b39384c73bab38415ba78958b38184fcdd0fd77",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "fecha": "05 Oct 2026 07:46 UTC",
+      "url": "https://finnhub.io/api/news?id=0da9504d820a183e49f801e6a47b515c072925817a45dc9e0adfc62135db8aa9",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_1.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "ALNY",
-      "titulo": "JP Morgan Maintains Overweight on Alnylam Pharmaceuticals, Lowers Price Target to $369",
-      "resumen": "JP Morgan  analyst Jessica Fye   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Overweight and lowers the price target from $375 to $369.",
-      "fuente": "Benzinga",
-      "fecha": "30 Sep 2026 14:00 UTC",
-      "url": "https://finnhub.io/api/news?id=bbea3de313dae95c3a1781a3b54660db0d3428fac68f736ef169b0d43badadc7",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "European Equities Traded in the US as American Depositary Receipts Decline in Wednesday Trading",
-      "resumen": "European equities traded in the US as American depositary receipts were trending lower late Wednesda",
+      "ticker": "INSM",
+      "titulo": "Insmed Announces CFO Transition",
+      "resumen": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced that Sara Bonstein will step down as Chief Financial Officer (CFO). Ms. Bonstein will",
       "fuente": "Yahoo",
-      "fecha": "30 Sep 2026 15:19 UTC",
-      "url": "https://finnhub.io/api/news?id=998f93bc015b9646f9b5a54dfaf00fbbf13b0fd3357064f4d8b6ca9e52c0abca",
+      "fecha": "05 Oct 2026 11:00 UTC",
+      "url": "https://finnhub.io/api/news?id=36925e6371d3b107d9aaeeabb1825049cf0b05b350b6bbcf7609cff26d38aa1b",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vortex Energy Commissions Hydrogen and Helium Study at Robinsons River Salt Project",
+      "resumen": "Desktop study will use existing geological, geophysical and well data to assess natural hydrogen and helium potentialVANCOUVER, British Columbia, Oct. 05, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) is pleased to announce that it has c",
+      "fuente": "Yahoo",
+      "fecha": "05 Oct 2026 12:00 UTC",
+      "url": "https://finnhub.io/api/news?id=943cb8c1f83470d9cc644feb430e61cb7adee87a478c61044c0106a7f544aae2",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "CAI",
+      "titulo": "IPO Stock Of The Week: Caris Pulls Back After More Than Doubling In Just Two Months",
+      "resumen": "Caris stock is pulling back after more than doubling in just two months. Wait for the IPO stock to offer a new buy point.",
+      "fuente": "Yahoo",
+      "fecha": "02 Oct 2026 19:02 UTC",
+      "url": "https://finnhub.io/api/news?id=d443e6d5de8d91e42ff85d70c41d928e9adabcaf3d0ff4928d22c39a2ce015bf",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
     },
     {
-      "ticker": "VKTX",
-      "titulo": "3 Emerging Biotech Stocks With Significant Upside Potential",
-      "resumen": "Delcath Systems, Viking Therapeutics and AxoGen show growth potential backed by analyst Moderate Buy ratings and strong institutional ownership, despite risks like dilution and patent cliffs.",
+      "ticker": "VERA",
+      "titulo": "Vera Therapeutics Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+      "resumen": "BRISBANE, Calif., Oct. 02, 2026 (GLOBE NEWSWIRE) -- Vera Therapeutics, Inc. (Nasdaq: VERA) today announced that, on September 29, 2026, the Compensation Committee of the Board of Directors (Compensation Committee) of Vera Therapeutics granted inducement awards consisting of non-qualified stock optio",
       "fuente": "Yahoo",
-      "fecha": "30 Sep 2026 16:45 UTC",
-      "url": "https://finnhub.io/api/news?id=ef7c8825b8e98a10187a7d22161fca31ed93787e574295d3dc7ad2ac23995027",
+      "fecha": "02 Oct 2026 20:05 UTC",
+      "url": "https://finnhub.io/api/news?id=fadf8f7aeb7fe02714c59eefe8d31c020f5d8d71289da8aafbb754714886e264",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
     },
     {
-      "ticker": "VKTX",
-      "titulo": "Viking Therapeutics, Inc. (VKTX) Rises As Market Takes a Dip: Key Facts",
-      "resumen": "Viking Therapeutics, Inc. (VKTX) concluded the recent trading session at $32.74, signifying a +2.92% move from its prior day's close.",
+      "ticker": "VRTX",
+      "titulo": "Vertex (VRTX) or Regeneron (REGN)? Two Biotech Moats, Two Very Different Bets",
+      "resumen": "Biotech companies are strange businesses to think about in terms of competitive advantages. A software company can lock customers into an ecosystem for years. A manufacturer can have a cost advantage. A biotech company, meanwhile, can spend billions developing a drug only to see a competitor produce",
       "fuente": "Yahoo",
-      "fecha": "30 Sep 2026 20:50 UTC",
-      "url": "https://finnhub.io/api/news?id=6a12b4a45b439c4f60ea09b755072f63792ac27471ad7fa8ec603ca9c04367d4",
+      "fecha": "03 Oct 2026 02:40 UTC",
+      "url": "https://finnhub.io/api/news?id=1510dab33932c078bbdfa82bd31981132c1fe6efe647aba58030c1ffd02f120c",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Amgen vs. Vertex Pharmaceuticals: Which Biotech Stock Is a Better Buy in 2026?",
+      "resumen": "One offers a more affordable entry point while the other boasts some of the highest profit margins in the sector. The choice comes down to whether you prioritize income stability or growth potential.",
+      "fuente": "Yahoo",
+      "fecha": "04 Oct 2026 14:34 UTC",
+      "url": "https://finnhub.io/api/news?id=773d3787e684fba498bba3b49094c209329c0e46fcca5973e7c495eb6d0c1b89",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "2 Safe-and-Steady Stocks with Promising Prospects and 1 We Turn Down",
+      "resumen": "A stock with low volatility can be reassuring, but it doesn’t always mean strong long-term performance. Investors who prioritize stability may miss out on higher-reward opportunities elsewhere.",
+      "fuente": "Yahoo",
+      "fecha": "05 Oct 2026 09:55 UTC",
+      "url": "https://finnhub.io/api/news?id=e577f7a9f57d44c3b91d86f0a9d89c225339a9fd4ab39a07dabc04048da37e08",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals Incorporated (VRTX) is Attracting Investor Attention: Here is What You Should Know",
+      "resumen": "Vertex (VRTX) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+      "fuente": "Yahoo",
+      "fecha": "05 Oct 2026 12:00 UTC",
+      "url": "https://finnhub.io/api/news?id=1796d84c2e8a9f60a1a7b9d29266b5788128dd7ef6544af57255d46a92509159",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",

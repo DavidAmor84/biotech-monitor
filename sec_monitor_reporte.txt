@@ -1,13 +1,13 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 02/10/2026 13:37 | Período: últimos 7 días
-Desde: 2026-09-25 → Hasta: 2026-10-02
+Generado: 05/10/2026 15:35 | Período: últimos 7 días
+Desde: 2026-09-28 → Hasta: 2026-10-05
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 5 filings | 🔴 3 | 🟢 1 | 🟡 0 | 🔵 1 | ✅ 14 sin novedad
+RESUMEN: 4 filings | 🔴 1 | 🟢 1 | 🟡 1 | 🔵 1 | ✅ 13 sin novedad
 
 ──────────────────────────────────────────────────
-🚨 ALERTAS CRÍTICAS (4)
+🚨 ALERTAS CRÍTICAS (2)
 ──────────────────────────────────────────────────
 
   [DYN] Dyne Therapeutics, Inc.
@@ -20,18 +20,6 @@ RESUMEN: 5 filings | 🔴 3 | 🟢 1 | 🟡 0 | 🔵 1 | ✅ 14 sin novedad
   8-K — Evento negativo potencial: Bankruptcy [Items: 1.01, 2.03, 9.01]
   → https://www.sec.gov/Archives/edgar/data/1607678/000119312526405580/vktx-20260923.htm
 
-  [VKTX] Viking Therapeutics, Inc.
-  🔴 ALTA 424B5 | 2026-09-25
-  ATM (At-The-Market) · $6750000.0M · Dilución 🔴 ALTO
-  Oferta: ATM (At-The-Market) · $6750000.0M · Dilución 🔴 ALTO
-  → https://www.sec.gov/Archives/edgar/data/1607678/000119312526401385/vktx-20260925.htm
-
-  [VKTX] Viking Therapeutics, Inc.
-  🔴 ALTA 424B5 | 2026-09-25
-  ATM (At-The-Market) · $16500000.3M · Dilución 🔴 ALTO
-  Oferta: ATM (At-The-Market) · $16500000.3M · Dilución 🔴 ALTO
-  → https://www.sec.gov/Archives/edgar/data/1607678/000119312526401384/vktx-20260925.htm
-
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
 ──────────────────────────────────────────────────
@@ -43,22 +31,16 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1818794/000181879426000009/dyn-20260929.htm
   ✅ [DNLI] Sin novedades
 
-  🔴 [VKTX] Viking Therapeutics, Inc. — 3 filing(s)
+  🔴 [VKTX] Viking Therapeutics, Inc. — 1 filing(s)
      🔴 ALTA 8-K | 2026-09-28 | 8-K — Evento negativo potencial: Bankruptcy [Items: 1.01, 2.03, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1607678/000119312526405580/vktx-20260923.htm
-     🔴 ALTA 424B5 | 2026-09-25 | ATM (At-The-Market) · $6750000.0M · Dilución 🔴 ALTO
-     Oferta: ATM (At-The-Market) · $6750000.0M · Dilución 🔴 ALTO
-     → https://www.sec.gov/Archives/edgar/data/1607678/000119312526401385/vktx-20260925.htm
-     🔴 ALTA 424B5 | 2026-09-25 | ATM (At-The-Market) · $16500000.3M · Dilución 🔴 ALTO
-     Oferta: ATM (At-The-Market) · $16500000.3M · Dilución 🔴 ALTO
-     → https://www.sec.gov/Archives/edgar/data/1607678/000119312526401384/vktx-20260925.htm
   ✅ [VRTX] Sin novedades
   ✅ [ALNY] Sin novedades
 
-  🔵 [BEAM] Beam Therapeutics Inc. — 1 filing(s)
-     🔵 INFO 4 | 2026-09-25 | Ciaramella Giuseppe (President) → Donación 123,407 acciones @ $0.00 | Post: 130,504
-     Insider: Ciaramella Giuseppe (President) → Donación 123,407 acciones @ $0.00 | Post: 130,504
-     → https://www.sec.gov/Archives/edgar/data/1745999/000119312526402814/xslF345X06/ownership.xml
+  🟡 [BEAM] Beam Therapeutics Inc. — 1 filing(s)
+     🟡 MEDIA 4 | 2026-10-02 | Cavanagh Bethany J (SVP, Finance and Treasurer) → Venta 187 acciones @ $24.41 | Post: 50,984 | Rutinaria/RSU/impuestos
+     Insider: Cavanagh Bethany J (SVP, Finance and Treasurer) → Venta 187 acciones @ $24.41 | Post: 50,984 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1745999/000119312526412236/xslF345X06/ownership.xml
   ✅ [OCUL] Sin novedades
   ✅ [CAI] Sin novedades
   ✅ [GPCR] Sin novedades
@@ -67,7 +49,10 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [ACRV] Sin novedades
   ✅ [TARA] Sin novedades
   ✅ [SENS] Sin novedades
-  ✅ [INSM] Sin novedades
+
+  🔵 [INSM] INSMED Inc — 1 filing(s)
+     🔵 INFO 8-K | 2026-10-05 | Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02, 7.01, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1104506/000114036126038529/ef20083216_8k.htm
   ⚪ [NWL] Sin CIK SEC
 
 ──────────────────────────────────────────────────
@@ -105,7 +90,7 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Reclutando activamente
        Enrollment: 150 pacientes
        Primary completion: 2028-07
-       Última actualización: 2026-10-01
+       Última actualización: 2026-10-05
        → https://clinicaltrials.gov/study/NCT07486934
 
   [VKTX]
@@ -131,9 +116,9 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        → https://clinicaltrials.gov/study/NCT05456880
     🟢 Ph1/2 (BEAM-302 AATD corrección genética in vivo) ⚡CAMBIO
        Status: Reclutando activamente
-       Enrollment: 106 pacientes
+       Enrollment: 192 pacientes
        Primary completion: 2028-05
-       Última actualización: 2026-03-20
+       Última actualización: 2026-10-05
        → https://clinicaltrials.gov/study/NCT06389877
 
   [OCUL]

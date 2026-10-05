@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "02/10/2026 13:37",
+  "generado": "05/10/2026 15:35",
   "periodo_dias": 7,
-  "desde": "2026-09-25",
-  "hasta": "2026-10-02",
+  "desde": "2026-09-28",
+  "hasta": "2026-10-05",
   "resumen": {
-    "total_filings": 5,
-    "alertas_rojas": 3,
+    "total_filings": 4,
+    "alertas_rojas": 1,
     "alertas_verdes": 1,
-    "alertas_amarillas": 0,
+    "alertas_amarillas": 1,
     "alertas_azules": 1,
-    "sin_novedad": 14
+    "sin_novedad": 13
   },
   "tickers": {
     "SNDX": {
@@ -114,44 +114,6 @@
           },
           "10q_detail": null,
           "prospecto_detail": null
-        },
-        {
-          "form": "424B5",
-          "fecha": "2026-09-25",
-          "nivel": "rojo",
-          "badge": "🔴 ALTA",
-          "resumen": "ATM (At-The-Market) · $6750000.0M · Dilución 🔴 ALTO",
-          "detalle": "424B5",
-          "empresa_sec": "Viking Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526401385/vktx-20260925.htm",
-          "form4_detail": null,
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": {
-            "importe_mm": 6750000.0,
-            "tipo_oferta": "ATM (At-The-Market)",
-            "riesgo_dilucion": "🔴 ALTO",
-            "resumen_oferta": "ATM (At-The-Market) · $6750000.0M · Dilución 🔴 ALTO"
-          }
-        },
-        {
-          "form": "424B5",
-          "fecha": "2026-09-25",
-          "nivel": "rojo",
-          "badge": "🔴 ALTA",
-          "resumen": "ATM (At-The-Market) · $16500000.3M · Dilución 🔴 ALTO",
-          "detalle": "424B5",
-          "empresa_sec": "Viking Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526401384/vktx-20260925.htm",
-          "form4_detail": null,
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": {
-            "importe_mm": 16500000.3,
-            "tipo_oferta": "ATM (At-The-Market)",
-            "riesgo_dilucion": "🔴 ALTO",
-            "resumen_oferta": "ATM (At-The-Market) · $16500000.3M · Dilución 🔴 ALTO"
-          }
         }
       ],
       "nivel": "rojo",
@@ -189,33 +151,33 @@
       "filings": [
         {
           "form": "4",
-          "fecha": "2026-09-25",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Ciaramella Giuseppe (President) → Donación 123,407 acciones @ $0.00 | Post: 130,504",
+          "fecha": "2026-10-02",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Cavanagh Bethany J (SVP, Finance and Treasurer) → Venta 187 acciones @ $24.41 | Post: 50,984 | Rutinaria/RSU/impuestos",
           "detalle": "4",
           "empresa_sec": "Beam Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526402814/xslF345X06/ownership.xml",
+          "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526412236/xslF345X06/ownership.xml",
           "form4_detail": {
-            "insider_nombre": "Ciaramella Giuseppe",
-            "insider_cargo": "President",
-            "transaccion_codigo": "G",
-            "transaccion_tipo": "Donación",
-            "transaccion_acciones": "123407",
-            "transaccion_precio": "0.00",
-            "transaccion_fecha": "2026-09-24",
-            "acciones_post": "130504",
-            "footnotes": "On September 24, 2026, the reporting person contributed 123,407 shares of BEAM common stock to the Giuseppe Ciaramella Irrevocable Trust - 2026, of which the reporting person's spouse is trustee. The beneficiaries of the trust are the reporting person's spouse and children. The reporting person disclaims beneficial ownership of the securities held by the trust.",
-            "es_rutinaria": false,
-            "resumen_detail": "Ciaramella Giuseppe (President) → Donación 123,407 acciones @ $0.00 | Post: 130,504"
+            "insider_nombre": "Cavanagh Bethany J",
+            "insider_cargo": "SVP, Finance and Treasurer",
+            "transaccion_codigo": "S",
+            "transaccion_tipo": "Venta",
+            "transaccion_acciones": "187",
+            "transaccion_precio": "24.41",
+            "transaccion_fecha": "2026-10-01",
+            "acciones_post": "50984",
+            "footnotes": "These shares of common stock were automatically sold in a non-discretionary transaction by the Reporting Person in order to cover tax withholding obligations upon the vesting of certain restricted stock units granted to the Reporting Person under the Beam Therapeutics Inc. 2019 Equity Incentive Plan on September 30, 2024. The sales were effected pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on August 9, 2024.",
+            "es_rutinaria": true,
+            "resumen_detail": "Cavanagh Bethany J (SVP, Finance and Treasurer) → Venta 187 acciones @ $24.41 | Post: 50,984 | Rutinaria/RSU/impuestos"
           },
           "8k_detail": null,
           "10q_detail": null,
           "prospecto_detail": null
         }
       ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "OCUL": {
@@ -312,9 +274,35 @@
       "cik": "0001104506",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "8-K",
+          "fecha": "2026-10-05",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02, 7.01, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "INSMED Inc",
+          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126038529/ef20083216_8k.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "5.02",
+              "7.01",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "ITEM 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. On October 5, 2026, Insmed Incorporated (the Company ) announced that Sara Bonstein, the Company s Chief Financial Officer, would be separating from the Company, effective October 30, 2026, and the Company has a search underway to identify a successor. The separation is not related to any disagreement between Ms. Bonstein and the Company on any matter relating to the Company s accounting practices, financial statements, internal controls or operations. Ms. Bonstein will receive the benefits set forth in Section 6.e of the Amended and Restated Employment Agreement between the Company and Ms. Bonstein dated April 1, 2022. ITEM 7.01 Regulation FD Disclosure. On October 5, 2026, the Company issued a press release announcing the separation of Ms. Bonstein and providing certain guidance information for the third quarter of 2026. A copy of the press release is attached hereto as Exhibit 99.1 and incorporated herein by reference. The information contained in this Item 7.01, including Exhibit 99.1, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing. ITEM 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press release issued by Insmed Incorp",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "Item 5.02: Plan de incentivos / compensación aprobado — informativo"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "NWL": {
@@ -379,51 +367,64 @@
       },
       "10q_detail": null,
       "prospecto_detail": null
-    },
-    {
-      "ticker": "VKTX",
-      "nombre": "Viking Therapeutics, Inc.",
-      "form": "424B5",
-      "fecha": "2026-09-25",
-      "nivel": "rojo",
-      "badge": "🔴 ALTA",
-      "resumen": "ATM (At-The-Market) · $6750000.0M · Dilución 🔴 ALTO",
-      "detalle": "424B5",
-      "empresa_sec": "Viking Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526401385/vktx-20260925.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": {
-        "importe_mm": 6750000.0,
-        "tipo_oferta": "ATM (At-The-Market)",
-        "riesgo_dilucion": "🔴 ALTO",
-        "resumen_oferta": "ATM (At-The-Market) · $6750000.0M · Dilución 🔴 ALTO"
-      }
-    },
-    {
-      "ticker": "VKTX",
-      "nombre": "Viking Therapeutics, Inc.",
-      "form": "424B5",
-      "fecha": "2026-09-25",
-      "nivel": "rojo",
-      "badge": "🔴 ALTA",
-      "resumen": "ATM (At-The-Market) · $16500000.3M · Dilución 🔴 ALTO",
-      "detalle": "424B5",
-      "empresa_sec": "Viking Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526401384/vktx-20260925.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": {
-        "importe_mm": 16500000.3,
-        "tipo_oferta": "ATM (At-The-Market)",
-        "riesgo_dilucion": "🔴 ALTO",
-        "resumen_oferta": "ATM (At-The-Market) · $16500000.3M · Dilución 🔴 ALTO"
-      }
     }
   ],
   "todos_filings": [
+    {
+      "ticker": "INSM",
+      "nombre": "INSMED Inc",
+      "form": "8-K",
+      "fecha": "2026-10-05",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02, 7.01, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "INSMED Inc",
+      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126038529/ef20083216_8k.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "5.02",
+          "7.01",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "ITEM 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. On October 5, 2026, Insmed Incorporated (the Company ) announced that Sara Bonstein, the Company s Chief Financial Officer, would be separating from the Company, effective October 30, 2026, and the Company has a search underway to identify a successor. The separation is not related to any disagreement between Ms. Bonstein and the Company on any matter relating to the Company s accounting practices, financial statements, internal controls or operations. Ms. Bonstein will receive the benefits set forth in Section 6.e of the Amended and Restated Employment Agreement between the Company and Ms. Bonstein dated April 1, 2022. ITEM 7.01 Regulation FD Disclosure. On October 5, 2026, the Company issued a press release announcing the separation of Ms. Bonstein and providing certain guidance information for the third quarter of 2026. A copy of the press release is attached hereto as Exhibit 99.1 and incorporated herein by reference. The information contained in this Item 7.01, including Exhibit 99.1, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing. ITEM 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press release issued by Insmed Incorp",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "Item 5.02: Plan de incentivos / compensación aprobado — informativo"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "BEAM",
+      "nombre": "Beam Therapeutics Inc.",
+      "form": "4",
+      "fecha": "2026-10-02",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Cavanagh Bethany J (SVP, Finance and Treasurer) → Venta 187 acciones @ $24.41 | Post: 50,984 | Rutinaria/RSU/impuestos",
+      "detalle": "4",
+      "empresa_sec": "Beam Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526412236/xslF345X06/ownership.xml",
+      "form4_detail": {
+        "insider_nombre": "Cavanagh Bethany J",
+        "insider_cargo": "SVP, Finance and Treasurer",
+        "transaccion_codigo": "S",
+        "transaccion_tipo": "Venta",
+        "transaccion_acciones": "187",
+        "transaccion_precio": "24.41",
+        "transaccion_fecha": "2026-10-01",
+        "acciones_post": "50984",
+        "footnotes": "These shares of common stock were automatically sold in a non-discretionary transaction by the Reporting Person in order to cover tax withholding obligations upon the vesting of certain restricted stock units granted to the Reporting Person under the Beam Therapeutics Inc. 2019 Equity Incentive Plan on September 30, 2024. The sales were effected pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on August 9, 2024.",
+        "es_rutinaria": true,
+        "resumen_detail": "Cavanagh Bethany J (SVP, Finance and Treasurer) → Venta 187 acciones @ $24.41 | Post: 50,984 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "DYN",
       "nombre": "Dyne Therapeutics, Inc.",
@@ -475,76 +476,6 @@
         "badge_ajustado": "🔴 ALTA",
         "resumen_ajustado": "8-K — Evento negativo potencial: Bankruptcy"
       },
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "VKTX",
-      "nombre": "Viking Therapeutics, Inc.",
-      "form": "424B5",
-      "fecha": "2026-09-25",
-      "nivel": "rojo",
-      "badge": "🔴 ALTA",
-      "resumen": "ATM (At-The-Market) · $6750000.0M · Dilución 🔴 ALTO",
-      "detalle": "424B5",
-      "empresa_sec": "Viking Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526401385/vktx-20260925.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": {
-        "importe_mm": 6750000.0,
-        "tipo_oferta": "ATM (At-The-Market)",
-        "riesgo_dilucion": "🔴 ALTO",
-        "resumen_oferta": "ATM (At-The-Market) · $6750000.0M · Dilución 🔴 ALTO"
-      }
-    },
-    {
-      "ticker": "VKTX",
-      "nombre": "Viking Therapeutics, Inc.",
-      "form": "424B5",
-      "fecha": "2026-09-25",
-      "nivel": "rojo",
-      "badge": "🔴 ALTA",
-      "resumen": "ATM (At-The-Market) · $16500000.3M · Dilución 🔴 ALTO",
-      "detalle": "424B5",
-      "empresa_sec": "Viking Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526401384/vktx-20260925.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": {
-        "importe_mm": 16500000.3,
-        "tipo_oferta": "ATM (At-The-Market)",
-        "riesgo_dilucion": "🔴 ALTO",
-        "resumen_oferta": "ATM (At-The-Market) · $16500000.3M · Dilución 🔴 ALTO"
-      }
-    },
-    {
-      "ticker": "BEAM",
-      "nombre": "Beam Therapeutics Inc.",
-      "form": "4",
-      "fecha": "2026-09-25",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Ciaramella Giuseppe (President) → Donación 123,407 acciones @ $0.00 | Post: 130,504",
-      "detalle": "4",
-      "empresa_sec": "Beam Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526402814/xslF345X06/ownership.xml",
-      "form4_detail": {
-        "insider_nombre": "Ciaramella Giuseppe",
-        "insider_cargo": "President",
-        "transaccion_codigo": "G",
-        "transaccion_tipo": "Donación",
-        "transaccion_acciones": "123407",
-        "transaccion_precio": "0.00",
-        "transaccion_fecha": "2026-09-24",
-        "acciones_post": "130504",
-        "footnotes": "On September 24, 2026, the reporting person contributed 123,407 shares of BEAM common stock to the Giuseppe Ciaramella Irrevocable Trust - 2026, of which the reporting person's spouse is trustee. The beneficiaries of the trust are the reporting person's spouse and children. The reporting person disclaims beneficial ownership of the securities held by the trust.",
-        "es_rutinaria": false,
-        "resumen_detail": "Ciaramella Giuseppe (President) → Donación 123,407 acciones @ $0.00 | Post: 130,504"
-      },
-      "8k_detail": null,
       "10q_detail": null,
       "prospecto_detail": null
     }
@@ -618,7 +549,7 @@
         "nivel": "verde",
         "badge": "🟢",
         "enrollment": 150,
-        "ultima_actualizacion": "2026-10-01",
+        "ultima_actualizacion": "2026-10-05",
         "fecha_completion_primaria": "2028-07",
         "changed": true,
         "url": "https://clinicaltrials.gov/study/NCT07486934"
@@ -677,8 +608,8 @@
         "status_desc": "Reclutando activamente",
         "nivel": "verde",
         "badge": "🟢",
-        "enrollment": 106,
-        "ultima_actualizacion": "2026-03-20",
+        "enrollment": 192,
+        "ultima_actualizacion": "2026-10-05",
         "fecha_completion_primaria": "2028-05",
         "changed": true,
         "url": "https://clinicaltrials.gov/study/NCT06389877"

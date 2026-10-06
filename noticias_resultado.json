@@ -1,8 +1,8 @@
 {
-  "generado": "05/10/2026 15:56 UTC",
+  "generado": "06/10/2026 14:08 UTC",
   "plazo_horas": 72,
-  "desde": "2026-10-02",
-  "hasta": "2026-10-05",
+  "desde": "2026-10-03",
+  "hasta": "2026-10-06",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -12,9 +12,22 @@
     },
     "ARGX": {
       "nombre": "ARGX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ARGX",
+          "titulo": "10 Wall Street Analysts Think Argenx Stock Is Headed to At Least $1,200 -- Is the Stock a Buy Now?",
+          "resumen": "This biotech stock could soar 30% or more over the next 12 months if some analysts are right.",
+          "fuente": "Yahoo",
+          "fecha": "05 Oct 2026 08:46 UTC",
+          "url": "https://finnhub.io/api/news?id=c628411b3ccc574b4e45df220559a2ba8d4ac1f734fbc33223e72b953e72f696",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "DYN": {
       "nombre": "DYN",
@@ -30,13 +43,38 @@
     },
     "VKTX": {
       "nombre": "VKTX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "VKTX",
+          "titulo": "Here Are My Top 4 Stocks to Buy in October",
+          "resumen": "Get 'em while they're still on sale. Catalysts are on the horizon.",
+          "fuente": "Yahoo",
+          "fecha": "05 Oct 2026 12:44 UTC",
+          "url": "https://finnhub.io/api/news?id=c4e3dc7dcd715b8a8121b50abdd4b358eaf96565f4dd531057bcc7bfff41fa56",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
+        {
+          "ticker": "VRTX",
+          "titulo": "Novavax (NVAX) Surges 20.1%: Is This an Indication of Further Gains?",
+          "resumen": "Novavax (NVAX) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions could translate into further price increase in the near term.",
+          "fuente": "Yahoo",
+          "fecha": "06 Oct 2026 06:13 UTC",
+          "url": "https://finnhub.io/api/news?id=64e8feaa5bebd866362af05857dd3615e6f456997b2380633ef07012abc6d3a2",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "VRTX",
           "titulo": "Vertex Pharmaceuticals Incorporated (VRTX) is Attracting Investor Attention: Here is What You Should Know",
@@ -84,18 +122,6 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex (VRTX) or Regeneron (REGN)? Two Biotech Moats, Two Very Different Bets",
-          "resumen": "Biotech companies are strange businesses to think about in terms of competitive advantages. A software company can lock customers into an ecosystem for years. A manufacturer can have a cost advantage. A biotech company, meanwhile, can spend billions developing a drug only to see a competitor produce",
-          "fuente": "Yahoo",
-          "fecha": "03 Oct 2026 02:40 UTC",
-          "url": "https://finnhub.io/api/news?id=1510dab33932c078bbdfa82bd31981132c1fe6efe647aba58030c1ffd02f120c",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -103,9 +129,22 @@
     },
     "ALNY": {
       "nombre": "ALNY",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "Nasdaq 100 Records Have Rarely Been This Narrow, 55 Stocks Are Still Below 50-Day Average",
+          "resumen": "The Nasdaq 100 trades at records Monday, yet 55 of its 101 stocks sit below their 50-day average. QQQ has beaten equal-weight QQQE by 8% since late July.",
+          "fuente": "Benzinga",
+          "fecha": "05 Oct 2026 15:00 UTC",
+          "url": "https://finnhub.io/api/news?id=d78ffd39021735e4739cfbbd4e7ce2c89bcdbad94ff4f003fc44637d8d221831",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/05/Nasdaq-Inscription-Next-To-Us-Dollars--T.jpg?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "BEAM": {
       "nombre": "BEAM",
@@ -116,6 +155,30 @@
     "OCUL": {
       "nombre": "OCUL",
       "noticias": [
+        {
+          "ticker": "OCUL",
+          "titulo": "Top 3 Health Care Stocks Which Could Rescue Your Portfolio This Quarter",
+          "resumen": "Oversold health care stocks Align Technology, Dianthus Therapeutics and Ocular Therapeutix show RSI readings near or below 30, signaling potential value.",
+          "fuente": "Benzinga",
+          "fecha": "06 Oct 2026 06:23 UTC",
+          "url": "https://finnhub.io/api/news?id=01fdf54c7e15316d6433b4164052c40c9973390ed6d4eb26c67ace7c79612048",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/06/Healthcare-stocks.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "OCUL",
+          "titulo": "3 Stocks Under $10 That Fall Short",
+          "resumen": "Stocks trading in the $1-10 range are generally smaller players with less risk than their penny stock counterparts. But that doesn’t mean the underlying businesses are cheap, and we advise caution as many have questionable fundamentals.",
+          "fuente": "Yahoo",
+          "fecha": "05 Oct 2026 11:39 UTC",
+          "url": "https://finnhub.io/api/news?id=ef996930bf812eba9fe806793f41753c2fd48b9566bf744b8807be2f9098c040",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "OCUL",
           "titulo": "Stocktwits Pharma Pulse: Roche Faces FDA Decision, Gene-Therapy Stocks Step Into Focus — The Week’s Biotech Watchlist",
@@ -130,26 +193,13 @@
         }
       ],
       "nivel": "rojo",
-      "total": 1
+      "total": 3
     },
     "CAI": {
       "nombre": "CAI",
-      "noticias": [
-        {
-          "ticker": "CAI",
-          "titulo": "IPO Stock Of The Week: Caris Pulls Back After More Than Doubling In Just Two Months",
-          "resumen": "Caris stock is pulling back after more than doubling in just two months. Wait for the IPO stock to offer a new buy point.",
-          "fuente": "Yahoo",
-          "fecha": "02 Oct 2026 19:02 UTC",
-          "url": "https://finnhub.io/api/news?id=d443e6d5de8d91e42ff85d70c41d928e9adabcaf3d0ff4928d22c39a2ce015bf",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "GPCR": {
       "nombre": "GPCR",
@@ -165,22 +215,9 @@
     },
     "VERA": {
       "nombre": "VERA",
-      "noticias": [
-        {
-          "ticker": "VERA",
-          "titulo": "Vera Therapeutics Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
-          "resumen": "BRISBANE, Calif., Oct. 02, 2026 (GLOBE NEWSWIRE) -- Vera Therapeutics, Inc. (Nasdaq: VERA) today announced that, on September 29, 2026, the Compensation Committee of the Board of Directors (Compensation Committee) of Vera Therapeutics granted inducement awards consisting of non-qualified stock optio",
-          "fuente": "Yahoo",
-          "fecha": "02 Oct 2026 20:05 UTC",
-          "url": "https://finnhub.io/api/news?id=fadf8f7aeb7fe02714c59eefe8d31c020f5d8d71289da8aafbb754714886e264",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "ACRV": {
       "nombre": "ACRV",
@@ -203,6 +240,30 @@
     "INSM": {
       "nombre": "INSM",
       "noticias": [
+        {
+          "ticker": "INSM",
+          "titulo": "Insmed stock falls as CFO Sara Bonstein to step down",
+          "resumen": "Investing.com -- Insmed Inc (NASDAQ:INSM) shares fell 8% Monday after the company announced Chief Financial Officer Sara Bonstein will step down on October 30.",
+          "fuente": "Yahoo",
+          "fecha": "05 Oct 2026 15:14 UTC",
+          "url": "https://finnhub.io/api/news?id=7349904e86a22cc5e2b044a65aab517663db5f31383aa837514f99446034e720",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "Nasdaq 100 Hits Record, Brazil's EWZ Soars 13%: Stock Market Today",
+          "resumen": "Nasdaq 100 hits a record as Brazil&#39;s EWZ jumps 13% on Bolsonaro&#39;s election upset; ISM services prices hit a four-year high and the 10-year yield tops 5.3%.",
+          "fuente": "Benzinga",
+          "fecha": "05 Oct 2026 12:53 UTC",
+          "url": "https://finnhub.io/api/news?id=420d81619353dc41008d8bede89d6434cf407b32ffd2375f4580f15bc4ac695a",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/05/New-York--Ny--Usa---11-05-2024-Wall-Stre.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "INSM",
           "titulo": "Insmed Announces CFO Transition",
@@ -241,14 +302,14 @@
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 5
     }
   },
   "resumen": {
-    "total_noticias": 11,
-    "tickers_con_noticias": 5,
-    "alertas_urgentes": 3,
-    "sin_noticias": 12
+    "total_noticias": 16,
+    "tickers_con_noticias": 6,
+    "alertas_urgentes": 4,
+    "sin_noticias": 11
   },
   "todas_noticias": [
     {
@@ -300,6 +361,18 @@
       "badge": "🔴"
     },
     {
+      "ticker": "OCUL",
+      "titulo": "3 Stocks Under $10 That Fall Short",
+      "resumen": "Stocks trading in the $1-10 range are generally smaller players with less risk than their penny stock counterparts. But that doesn’t mean the underlying businesses are cheap, and we advise caution as many have questionable fundamentals.",
+      "fuente": "Yahoo",
+      "fecha": "05 Oct 2026 11:39 UTC",
+      "url": "https://finnhub.io/api/news?id=ef996930bf812eba9fe806793f41753c2fd48b9566bf744b8807be2f9098c040",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
       "ticker": "VRTX",
       "titulo": "Vortex Energy Commissions Hydrogen and Helium Study at Robinsons River Salt Project",
       "resumen": "Desktop study will use existing geological, geophysical and well data to assess natural hydrogen and helium potentialVANCOUVER, British Columbia, Oct. 05, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) is pleased to announce that it has c",
@@ -312,40 +385,40 @@
       "badge": "🔴"
     },
     {
-      "ticker": "CAI",
-      "titulo": "IPO Stock Of The Week: Caris Pulls Back After More Than Doubling In Just Two Months",
-      "resumen": "Caris stock is pulling back after more than doubling in just two months. Wait for the IPO stock to offer a new buy point.",
-      "fuente": "Yahoo",
-      "fecha": "02 Oct 2026 19:02 UTC",
-      "url": "https://finnhub.io/api/news?id=d443e6d5de8d91e42ff85d70c41d928e9adabcaf3d0ff4928d22c39a2ce015bf",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "ticker": "ALNY",
+      "titulo": "Nasdaq 100 Records Have Rarely Been This Narrow, 55 Stocks Are Still Below 50-Day Average",
+      "resumen": "The Nasdaq 100 trades at records Monday, yet 55 of its 101 stocks sit below their 50-day average. QQQ has beaten equal-weight QQQE by 8% since late July.",
+      "fuente": "Benzinga",
+      "fecha": "05 Oct 2026 15:00 UTC",
+      "url": "https://finnhub.io/api/news?id=d78ffd39021735e4739cfbbd4e7ce2c89bcdbad94ff4f003fc44637d8d221831",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/05/Nasdaq-Inscription-Next-To-Us-Dollars--T.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "VERA",
-      "titulo": "Vera Therapeutics Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
-      "resumen": "BRISBANE, Calif., Oct. 02, 2026 (GLOBE NEWSWIRE) -- Vera Therapeutics, Inc. (Nasdaq: VERA) today announced that, on September 29, 2026, the Compensation Committee of the Board of Directors (Compensation Committee) of Vera Therapeutics granted inducement awards consisting of non-qualified stock optio",
+      "ticker": "INSM",
+      "titulo": "Insmed stock falls as CFO Sara Bonstein to step down",
+      "resumen": "Investing.com -- Insmed Inc (NASDAQ:INSM) shares fell 8% Monday after the company announced Chief Financial Officer Sara Bonstein will step down on October 30.",
       "fuente": "Yahoo",
-      "fecha": "02 Oct 2026 20:05 UTC",
-      "url": "https://finnhub.io/api/news?id=fadf8f7aeb7fe02714c59eefe8d31c020f5d8d71289da8aafbb754714886e264",
+      "fecha": "05 Oct 2026 15:14 UTC",
+      "url": "https://finnhub.io/api/news?id=7349904e86a22cc5e2b044a65aab517663db5f31383aa837514f99446034e720",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "VRTX",
-      "titulo": "Vertex (VRTX) or Regeneron (REGN)? Two Biotech Moats, Two Very Different Bets",
-      "resumen": "Biotech companies are strange businesses to think about in terms of competitive advantages. A software company can lock customers into an ecosystem for years. A manufacturer can have a cost advantage. A biotech company, meanwhile, can spend billions developing a drug only to see a competitor produce",
+      "titulo": "Novavax (NVAX) Surges 20.1%: Is This an Indication of Further Gains?",
+      "resumen": "Novavax (NVAX) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions could translate into further price increase in the near term.",
       "fuente": "Yahoo",
-      "fecha": "03 Oct 2026 02:40 UTC",
-      "url": "https://finnhub.io/api/news?id=1510dab33932c078bbdfa82bd31981132c1fe6efe647aba58030c1ffd02f120c",
+      "fecha": "06 Oct 2026 06:13 UTC",
+      "url": "https://finnhub.io/api/news?id=64e8feaa5bebd866362af05857dd3615e6f456997b2380633ef07012abc6d3a2",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "VRTX",
@@ -354,6 +427,18 @@
       "fuente": "Yahoo",
       "fecha": "04 Oct 2026 14:34 UTC",
       "url": "https://finnhub.io/api/news?id=773d3787e684fba498bba3b49094c209329c0e46fcca5973e7c495eb6d0c1b89",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "10 Wall Street Analysts Think Argenx Stock Is Headed to At Least $1,200 -- Is the Stock a Buy Now?",
+      "resumen": "This biotech stock could soar 30% or more over the next 12 months if some analysts are right.",
+      "fuente": "Yahoo",
+      "fecha": "05 Oct 2026 08:46 UTC",
+      "url": "https://finnhub.io/api/news?id=c628411b3ccc574b4e45df220559a2ba8d4ac1f734fbc33223e72b953e72f696",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
@@ -379,6 +464,42 @@
       "fecha": "05 Oct 2026 12:00 UTC",
       "url": "https://finnhub.io/api/news?id=1796d84c2e8a9f60a1a7b9d29266b5788128dd7ef6544af57255d46a92509159",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Here Are My Top 4 Stocks to Buy in October",
+      "resumen": "Get 'em while they're still on sale. Catalysts are on the horizon.",
+      "fuente": "Yahoo",
+      "fecha": "05 Oct 2026 12:44 UTC",
+      "url": "https://finnhub.io/api/news?id=c4e3dc7dcd715b8a8121b50abdd4b358eaf96565f4dd531057bcc7bfff41fa56",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Nasdaq 100 Hits Record, Brazil's EWZ Soars 13%: Stock Market Today",
+      "resumen": "Nasdaq 100 hits a record as Brazil&#39;s EWZ jumps 13% on Bolsonaro&#39;s election upset; ISM services prices hit a four-year high and the 10-year yield tops 5.3%.",
+      "fuente": "Benzinga",
+      "fecha": "05 Oct 2026 12:53 UTC",
+      "url": "https://finnhub.io/api/news?id=420d81619353dc41008d8bede89d6434cf407b32ffd2375f4580f15bc4ac695a",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/05/New-York--Ny--Usa---11-05-2024-Wall-Stre.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "OCUL",
+      "titulo": "Top 3 Health Care Stocks Which Could Rescue Your Portfolio This Quarter",
+      "resumen": "Oversold health care stocks Align Technology, Dianthus Therapeutics and Ocular Therapeutix show RSI readings near or below 30, signaling potential value.",
+      "fuente": "Benzinga",
+      "fecha": "06 Oct 2026 06:23 UTC",
+      "url": "https://finnhub.io/api/news?id=01fdf54c7e15316d6433b4164052c40c9973390ed6d4eb26c67ace7c79612048",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/06/Healthcare-stocks.jpg?width=2048&height=1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

@@ -1,15 +1,15 @@
 {
   "version": "v3",
-  "generado": "05/10/2026 15:35",
+  "generado": "06/10/2026 13:57",
   "periodo_dias": 7,
-  "desde": "2026-09-28",
-  "hasta": "2026-10-05",
+  "desde": "2026-09-29",
+  "hasta": "2026-10-06",
   "resumen": {
-    "total_filings": 4,
-    "alertas_rojas": 1,
+    "total_filings": 7,
+    "alertas_rojas": 0,
     "alertas_verdes": 1,
     "alertas_amarillas": 1,
-    "alertas_azules": 1,
+    "alertas_azules": 5,
     "sin_novedad": 13
   },
   "tickers": {
@@ -89,35 +89,9 @@
       "cik": "0001607678",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "8-K",
-          "fecha": "2026-09-28",
-          "nivel": "rojo",
-          "badge": "🔴 ALTA",
-          "resumen": "8-K — Evento negativo potencial: Bankruptcy [Items: 1.01, 2.03, 9.01]",
-          "detalle": "8-K",
-          "empresa_sec": "Viking Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526405580/vktx-20260923.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "1.01",
-              "2.03",
-              "9.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 1.01 Entry into a Material Definitive Agreement. Equity Offering On September 23, 2026, Viking Therapeutics, Inc. (the Company ) entered into an underwriting agreement (the Equity Underwriting Agreement ) with Morgan Stanley &amp; Co. LLC and J.P. Morgan Securities LLC (the Equity Representatives ), as representatives of the several underwriters named therein (the Equity Underwriters ), to issue and sell (the Equity Offering ) 7,857,143 shares of the Company s common stock, par value $0.00001 per share ( Common Stock ), at a public offering price of $35.00 per share. Under the terms of the Equity Underwriting Agreement, the Company also granted the Equity Underwriters a 30-day option to purchase up to an additional 1,178,571 shares of Common Stock, on the same terms and conditions, which the Equity Underwriters exercised in full on September 24, 2026. The Equity Offering was made pursuant to the Company s automatic shelf registration statement on Form S-3 (File No. 333-297820), previously filed with the Securities and Exchange Commission (the SEC ) on July 30, 2026 and which automatically became effective upon filing, a base prospectus dated July 29, 2026 and a prospectus supplement dated September 23, 2026. The Equity Offering closed on September 25, 2026. Net proceeds from the Equity Offering were approximately $297.0 million, after deducting underwriting discounts and commissions and estimated offering expenses payable by the Company and giving effect to the exercise of the option to purchase additional shares of Common Stock. The Equity Underwriting Agreement conta",
-            "nivel_ajustado": "rojo",
-            "badge_ajustado": "🔴 ALTA",
-            "resumen_ajustado": "8-K — Evento negativo potencial: Bankruptcy"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "rojo",
-      "badge": "🔴",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "VRTX": {
@@ -263,9 +237,114 @@
       "cik": "0001616543",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-10-05",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Prince Douglas S → Concesión 815 acciones @ $9.96 | Post: 70,146 | Rutinaria/RSU/impuestos",
+          "detalle": "xslF345X06/form4-10052026_041010.xml",
+          "empresa_sec": "Senseonics Holdings, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000166699526000010/xslF345X06/form4-10052026_041010.xml",
+          "form4_detail": {
+            "insider_nombre": "Prince Douglas S",
+            "insider_cargo": null,
+            "transaccion_codigo": "A",
+            "transaccion_tipo": "Concesión",
+            "transaccion_acciones": "815",
+            "transaccion_precio": "9.96",
+            "transaccion_fecha": "2026-10-01",
+            "acciones_post": "70146",
+            "footnotes": "This common stock was issued to the Reporting Person pursuant to the Issuer's non-employee director compensation policy in lieu of quarterly retainer fees. The number of shares of common stock is equal to $8,117.40 divided by $9.96, the closing price of Issuer's common stock on the Nasdaq Global Select Market on October 1, 2026.",
+            "es_rutinaria": true,
+            "resumen_detail": "Prince Douglas S → Concesión 815 acciones @ $9.96 | Post: 70,146 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
+          "form": "4",
+          "fecha": "2026-10-05",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "ROEDER DOUGLAS A → Concesión 1,480 acciones @ $9.96 | Post: 172,671 | Rutinaria/RSU/impuestos",
+          "detalle": "xslF345X06/form4-10052026_041008.xml",
+          "empresa_sec": "Senseonics Holdings, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000127073526000016/xslF345X06/form4-10052026_041008.xml",
+          "form4_detail": {
+            "insider_nombre": "ROEDER DOUGLAS A",
+            "insider_cargo": null,
+            "transaccion_codigo": "A",
+            "transaccion_tipo": "Concesión",
+            "transaccion_acciones": "1480",
+            "transaccion_precio": "9.96",
+            "transaccion_fecha": "2026-10-01",
+            "acciones_post": "172671.2843",
+            "footnotes": "This common stock was issued to the Reporting Person pursuant to the Issuer's non-employee director compensation policy in lieu of quarterly retainer fees. The number of shares of common stock is equal to  $14,740.80 divided by $9.96, the closing price of Issuer's common stock on the Nasdaq Global Select Market on October 1, 2026.",
+            "es_rutinaria": true,
+            "resumen_detail": "ROEDER DOUGLAS A → Concesión 1,480 acciones @ $9.96 | Post: 172,671 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
+          "form": "4",
+          "fecha": "2026-10-05",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Fiorentino Edward → Concesión 1,418 acciones @ $9.96 | Post: 87,392 | Rutinaria/RSU/impuestos",
+          "detalle": "xslF345X06/form4-10052026_041006.xml",
+          "empresa_sec": "Senseonics Holdings, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000166697226000010/xslF345X06/form4-10052026_041006.xml",
+          "form4_detail": {
+            "insider_nombre": "Fiorentino Edward",
+            "insider_cargo": null,
+            "transaccion_codigo": "A",
+            "transaccion_tipo": "Concesión",
+            "transaccion_acciones": "1418",
+            "transaccion_precio": "9.96",
+            "transaccion_fecha": "2026-10-01",
+            "acciones_post": "87392",
+            "footnotes": "This common stock was issued to the Reporting Person pursuant to the Issuer's non-employee director compensation policy in lieu of quarterly retainer fees. The number of shares of common stock is equal to $14,123.28 divided by $9.96, the closing price of Issuer's common stock on the Nasdaq Global Select Market on October 1, 2026.",
+            "es_rutinaria": true,
+            "resumen_detail": "Fiorentino Edward → Concesión 1,418 acciones @ $9.96 | Post: 87,392 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
+          "form": "4",
+          "fecha": "2026-10-05",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Steven Edelman → Concesión 1,292 acciones @ $9.96 | Post: 92,375 | Rutinaria/RSU/impuestos",
+          "detalle": "xslF345X06/form4-10052026_041003.xml",
+          "empresa_sec": "Senseonics Holdings, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000168335426000010/xslF345X06/form4-10052026_041003.xml",
+          "form4_detail": {
+            "insider_nombre": "Steven Edelman",
+            "insider_cargo": null,
+            "transaccion_codigo": "A",
+            "transaccion_tipo": "Concesión",
+            "transaccion_acciones": "1292",
+            "transaccion_precio": "9.96",
+            "transaccion_fecha": "2026-10-01",
+            "acciones_post": "92375",
+            "footnotes": "This common stock was issued to the Reporting Person pursuant to the Issuer's non-employee director compensation policy in lieu of quarterly retainer fees. The number of shares of common stock is equal to $12,868.32 divided by $9.96, the closing price of Issuer's common stock on the Nasdaq Global Select Market on October 1, 2026.",
+            "es_rutinaria": true,
+            "resumen_detail": "Steven Edelman → Concesión 1,292 acciones @ $9.96 | Post: 92,375 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "INSM": {
@@ -340,36 +419,121 @@
       },
       "10q_detail": null,
       "prospecto_detail": null
-    },
-    {
-      "ticker": "VKTX",
-      "nombre": "Viking Therapeutics, Inc.",
-      "form": "8-K",
-      "fecha": "2026-09-28",
-      "nivel": "rojo",
-      "badge": "🔴 ALTA",
-      "resumen": "8-K — Evento negativo potencial: Bankruptcy [Items: 1.01, 2.03, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "Viking Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526405580/vktx-20260923.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "1.01",
-          "2.03",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 1.01 Entry into a Material Definitive Agreement. Equity Offering On September 23, 2026, Viking Therapeutics, Inc. (the Company ) entered into an underwriting agreement (the Equity Underwriting Agreement ) with Morgan Stanley &amp; Co. LLC and J.P. Morgan Securities LLC (the Equity Representatives ), as representatives of the several underwriters named therein (the Equity Underwriters ), to issue and sell (the Equity Offering ) 7,857,143 shares of the Company s common stock, par value $0.00001 per share ( Common Stock ), at a public offering price of $35.00 per share. Under the terms of the Equity Underwriting Agreement, the Company also granted the Equity Underwriters a 30-day option to purchase up to an additional 1,178,571 shares of Common Stock, on the same terms and conditions, which the Equity Underwriters exercised in full on September 24, 2026. The Equity Offering was made pursuant to the Company s automatic shelf registration statement on Form S-3 (File No. 333-297820), previously filed with the Securities and Exchange Commission (the SEC ) on July 30, 2026 and which automatically became effective upon filing, a base prospectus dated July 29, 2026 and a prospectus supplement dated September 23, 2026. The Equity Offering closed on September 25, 2026. Net proceeds from the Equity Offering were approximately $297.0 million, after deducting underwriting discounts and commissions and estimated offering expenses payable by the Company and giving effect to the exercise of the option to purchase additional shares of Common Stock. The Equity Underwriting Agreement conta",
-        "nivel_ajustado": "rojo",
-        "badge_ajustado": "🔴 ALTA",
-        "resumen_ajustado": "8-K — Evento negativo potencial: Bankruptcy"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
     }
   ],
   "todos_filings": [
+    {
+      "ticker": "SENS",
+      "nombre": "Senseonics Holdings, Inc.",
+      "form": "4",
+      "fecha": "2026-10-05",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Prince Douglas S → Concesión 815 acciones @ $9.96 | Post: 70,146 | Rutinaria/RSU/impuestos",
+      "detalle": "xslF345X06/form4-10052026_041010.xml",
+      "empresa_sec": "Senseonics Holdings, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000166699526000010/xslF345X06/form4-10052026_041010.xml",
+      "form4_detail": {
+        "insider_nombre": "Prince Douglas S",
+        "insider_cargo": null,
+        "transaccion_codigo": "A",
+        "transaccion_tipo": "Concesión",
+        "transaccion_acciones": "815",
+        "transaccion_precio": "9.96",
+        "transaccion_fecha": "2026-10-01",
+        "acciones_post": "70146",
+        "footnotes": "This common stock was issued to the Reporting Person pursuant to the Issuer's non-employee director compensation policy in lieu of quarterly retainer fees. The number of shares of common stock is equal to $8,117.40 divided by $9.96, the closing price of Issuer's common stock on the Nasdaq Global Select Market on October 1, 2026.",
+        "es_rutinaria": true,
+        "resumen_detail": "Prince Douglas S → Concesión 815 acciones @ $9.96 | Post: 70,146 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "SENS",
+      "nombre": "Senseonics Holdings, Inc.",
+      "form": "4",
+      "fecha": "2026-10-05",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "ROEDER DOUGLAS A → Concesión 1,480 acciones @ $9.96 | Post: 172,671 | Rutinaria/RSU/impuestos",
+      "detalle": "xslF345X06/form4-10052026_041008.xml",
+      "empresa_sec": "Senseonics Holdings, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000127073526000016/xslF345X06/form4-10052026_041008.xml",
+      "form4_detail": {
+        "insider_nombre": "ROEDER DOUGLAS A",
+        "insider_cargo": null,
+        "transaccion_codigo": "A",
+        "transaccion_tipo": "Concesión",
+        "transaccion_acciones": "1480",
+        "transaccion_precio": "9.96",
+        "transaccion_fecha": "2026-10-01",
+        "acciones_post": "172671.2843",
+        "footnotes": "This common stock was issued to the Reporting Person pursuant to the Issuer's non-employee director compensation policy in lieu of quarterly retainer fees. The number of shares of common stock is equal to  $14,740.80 divided by $9.96, the closing price of Issuer's common stock on the Nasdaq Global Select Market on October 1, 2026.",
+        "es_rutinaria": true,
+        "resumen_detail": "ROEDER DOUGLAS A → Concesión 1,480 acciones @ $9.96 | Post: 172,671 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "SENS",
+      "nombre": "Senseonics Holdings, Inc.",
+      "form": "4",
+      "fecha": "2026-10-05",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Fiorentino Edward → Concesión 1,418 acciones @ $9.96 | Post: 87,392 | Rutinaria/RSU/impuestos",
+      "detalle": "xslF345X06/form4-10052026_041006.xml",
+      "empresa_sec": "Senseonics Holdings, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000166697226000010/xslF345X06/form4-10052026_041006.xml",
+      "form4_detail": {
+        "insider_nombre": "Fiorentino Edward",
+        "insider_cargo": null,
+        "transaccion_codigo": "A",
+        "transaccion_tipo": "Concesión",
+        "transaccion_acciones": "1418",
+        "transaccion_precio": "9.96",
+        "transaccion_fecha": "2026-10-01",
+        "acciones_post": "87392",
+        "footnotes": "This common stock was issued to the Reporting Person pursuant to the Issuer's non-employee director compensation policy in lieu of quarterly retainer fees. The number of shares of common stock is equal to $14,123.28 divided by $9.96, the closing price of Issuer's common stock on the Nasdaq Global Select Market on October 1, 2026.",
+        "es_rutinaria": true,
+        "resumen_detail": "Fiorentino Edward → Concesión 1,418 acciones @ $9.96 | Post: 87,392 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "SENS",
+      "nombre": "Senseonics Holdings, Inc.",
+      "form": "4",
+      "fecha": "2026-10-05",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Steven Edelman → Concesión 1,292 acciones @ $9.96 | Post: 92,375 | Rutinaria/RSU/impuestos",
+      "detalle": "xslF345X06/form4-10052026_041003.xml",
+      "empresa_sec": "Senseonics Holdings, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000168335426000010/xslF345X06/form4-10052026_041003.xml",
+      "form4_detail": {
+        "insider_nombre": "Steven Edelman",
+        "insider_cargo": null,
+        "transaccion_codigo": "A",
+        "transaccion_tipo": "Concesión",
+        "transaccion_acciones": "1292",
+        "transaccion_precio": "9.96",
+        "transaccion_fecha": "2026-10-01",
+        "acciones_post": "92375",
+        "footnotes": "This common stock was issued to the Reporting Person pursuant to the Issuer's non-employee director compensation policy in lieu of quarterly retainer fees. The number of shares of common stock is equal to $12,868.32 divided by $9.96, the closing price of Issuer's common stock on the Nasdaq Global Select Market on October 1, 2026.",
+        "es_rutinaria": true,
+        "resumen_detail": "Steven Edelman → Concesión 1,292 acciones @ $9.96 | Post: 92,375 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "INSM",
       "nombre": "INSMED Inc",
@@ -448,33 +612,6 @@
         "nivel_ajustado": "verde",
         "badge_ajustado": "🟢 ALTA",
         "resumen_ajustado": "8-K — Evento positivo potencial: Aprobación acelerada"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "VKTX",
-      "nombre": "Viking Therapeutics, Inc.",
-      "form": "8-K",
-      "fecha": "2026-09-28",
-      "nivel": "rojo",
-      "badge": "🔴 ALTA",
-      "resumen": "8-K — Evento negativo potencial: Bankruptcy [Items: 1.01, 2.03, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "Viking Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526405580/vktx-20260923.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "1.01",
-          "2.03",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 1.01 Entry into a Material Definitive Agreement. Equity Offering On September 23, 2026, Viking Therapeutics, Inc. (the Company ) entered into an underwriting agreement (the Equity Underwriting Agreement ) with Morgan Stanley &amp; Co. LLC and J.P. Morgan Securities LLC (the Equity Representatives ), as representatives of the several underwriters named therein (the Equity Underwriters ), to issue and sell (the Equity Offering ) 7,857,143 shares of the Company s common stock, par value $0.00001 per share ( Common Stock ), at a public offering price of $35.00 per share. Under the terms of the Equity Underwriting Agreement, the Company also granted the Equity Underwriters a 30-day option to purchase up to an additional 1,178,571 shares of Common Stock, on the same terms and conditions, which the Equity Underwriters exercised in full on September 24, 2026. The Equity Offering was made pursuant to the Company s automatic shelf registration statement on Form S-3 (File No. 333-297820), previously filed with the Securities and Exchange Commission (the SEC ) on July 30, 2026 and which automatically became effective upon filing, a base prospectus dated July 29, 2026 and a prospectus supplement dated September 23, 2026. The Equity Offering closed on September 25, 2026. Net proceeds from the Equity Offering were approximately $297.0 million, after deducting underwriting discounts and commissions and estimated offering expenses payable by the Company and giving effect to the exercise of the option to purchase additional shares of Common Stock. The Equity Underwriting Agreement conta",
-        "nivel_ajustado": "rojo",
-        "badge_ajustado": "🔴 ALTA",
-        "resumen_ajustado": "8-K — Evento negativo potencial: Bankruptcy"
       },
       "10q_detail": null,
       "prospecto_detail": null

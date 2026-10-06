@@ -1,24 +1,19 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 05/10/2026 15:35 | Período: últimos 7 días
-Desde: 2026-09-28 → Hasta: 2026-10-05
+Generado: 06/10/2026 13:57 | Período: últimos 7 días
+Desde: 2026-09-29 → Hasta: 2026-10-06
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 4 filings | 🔴 1 | 🟢 1 | 🟡 1 | 🔵 1 | ✅ 13 sin novedad
+RESUMEN: 7 filings | 🔴 0 | 🟢 1 | 🟡 1 | 🔵 5 | ✅ 13 sin novedad
 
 ──────────────────────────────────────────────────
-🚨 ALERTAS CRÍTICAS (2)
+🚨 ALERTAS CRÍTICAS (1)
 ──────────────────────────────────────────────────
 
   [DYN] Dyne Therapeutics, Inc.
   🟢 ALTA 8-K | 2026-09-29
   8-K — Evento positivo potencial: Aprobación acelerada [Items: 7.01, 8.01, 9.01]
   → https://www.sec.gov/Archives/edgar/data/1818794/000181879426000009/dyn-20260929.htm
-
-  [VKTX] Viking Therapeutics, Inc.
-  🔴 ALTA 8-K | 2026-09-28
-  8-K — Evento negativo potencial: Bankruptcy [Items: 1.01, 2.03, 9.01]
-  → https://www.sec.gov/Archives/edgar/data/1607678/000119312526405580/vktx-20260923.htm
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -30,10 +25,7 @@ DETALLE POR TICKER — SEC EDGAR
      🟢 ALTA 8-K | 2026-09-29 | 8-K — Evento positivo potencial: Aprobación acelerada [Items: 7.01, 8.01, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1818794/000181879426000009/dyn-20260929.htm
   ✅ [DNLI] Sin novedades
-
-  🔴 [VKTX] Viking Therapeutics, Inc. — 1 filing(s)
-     🔴 ALTA 8-K | 2026-09-28 | 8-K — Evento negativo potencial: Bankruptcy [Items: 1.01, 2.03, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1607678/000119312526405580/vktx-20260923.htm
+  ✅ [VKTX] Sin novedades
   ✅ [VRTX] Sin novedades
   ✅ [ALNY] Sin novedades
 
@@ -48,7 +40,20 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [VERA] Sin novedades
   ✅ [ACRV] Sin novedades
   ✅ [TARA] Sin novedades
-  ✅ [SENS] Sin novedades
+
+  🔵 [SENS] Senseonics Holdings, Inc. — 4 filing(s)
+     🔵 INFO 4 | 2026-10-05 | Prince Douglas S → Concesión 815 acciones @ $9.96 | Post: 70,146 | Rutinaria/RSU/impuestos
+     Insider: Prince Douglas S → Concesión 815 acciones @ $9.96 | Post: 70,146 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1616543/000166699526000010/xslF345X06/form4-10052026_041010.xml
+     🔵 INFO 4 | 2026-10-05 | ROEDER DOUGLAS A → Concesión 1,480 acciones @ $9.96 | Post: 172,671 | Rutinaria/RSU/impuestos
+     Insider: ROEDER DOUGLAS A → Concesión 1,480 acciones @ $9.96 | Post: 172,671 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1616543/000127073526000016/xslF345X06/form4-10052026_041008.xml
+     🔵 INFO 4 | 2026-10-05 | Fiorentino Edward → Concesión 1,418 acciones @ $9.96 | Post: 87,392 | Rutinaria/RSU/impuestos
+     Insider: Fiorentino Edward → Concesión 1,418 acciones @ $9.96 | Post: 87,392 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1616543/000166697226000010/xslF345X06/form4-10052026_041006.xml
+     🔵 INFO 4 | 2026-10-05 | Steven Edelman → Concesión 1,292 acciones @ $9.96 | Post: 92,375 | Rutinaria/RSU/impuestos
+     Insider: Steven Edelman → Concesión 1,292 acciones @ $9.96 | Post: 92,375 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1616543/000168335426000010/xslF345X06/form4-10052026_041003.xml
 
   🔵 [INSM] INSMED Inc — 1 filing(s)
      🔵 INFO 8-K | 2026-10-05 | Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02, 7.01, 9.01]

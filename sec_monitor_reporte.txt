@@ -1,19 +1,20 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 06/10/2026 13:57 | Período: últimos 7 días
-Desde: 2026-09-29 → Hasta: 2026-10-06
+Generado: 07/10/2026 14:14 | Período: últimos 7 días
+Desde: 2026-09-30 → Hasta: 2026-10-07
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 7 filings | 🔴 0 | 🟢 1 | 🟡 1 | 🔵 5 | ✅ 13 sin novedad
+RESUMEN: 10 filings | 🔴 0 | 🟢 1 | 🟡 4 | 🔵 5 | ✅ 11 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (1)
 ──────────────────────────────────────────────────
 
   [DYN] Dyne Therapeutics, Inc.
-  🟢 ALTA 8-K | 2026-09-29
-  8-K — Evento positivo potencial: Aprobación acelerada [Items: 7.01, 8.01, 9.01]
-  → https://www.sec.gov/Archives/edgar/data/1818794/000181879426000009/dyn-20260929.htm
+  🟢 ALTA 4 | 2026-10-06
+  Insider BUY: Posner Brian S → Compra 2,500 acciones @ $16.00 | Post: 27,000
+  Insider: Posner Brian S → Compra 2,500 acciones @ $16.00 | Post: 27,000
+  → https://www.sec.gov/Archives/edgar/data/1818794/000119312526415584/xslF345X06/ownership.xml
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -22,18 +23,30 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [ARGX] Sin novedades
 
   🟢 [DYN] Dyne Therapeutics, Inc. — 1 filing(s)
-     🟢 ALTA 8-K | 2026-09-29 | 8-K — Evento positivo potencial: Aprobación acelerada [Items: 7.01, 8.01, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1818794/000181879426000009/dyn-20260929.htm
+     🟢 ALTA 4 | 2026-10-06 | Insider BUY: Posner Brian S → Compra 2,500 acciones @ $16.00 | Post: 27,000
+     Insider: Posner Brian S → Compra 2,500 acciones @ $16.00 | Post: 27,000
+     → https://www.sec.gov/Archives/edgar/data/1818794/000119312526415584/xslF345X06/ownership.xml
   ✅ [DNLI] Sin novedades
   ✅ [VKTX] Sin novedades
   ✅ [VRTX] Sin novedades
-  ✅ [ALNY] Sin novedades
+
+  🟡 [ALNY] ALNYLAM PHARMACEUTICALS, INC. — 1 filing(s)
+     🟡 MEDIA 4 | 2026-10-06 | SUPRAN BRYAN (EVP, CLO and Secretary) → Venta 1,758 acciones @ $226.88 | Post: 12,807 | Rutinaria/RSU/impuestos
+     Insider: SUPRAN BRYAN (EVP, CLO and Secretary) → Venta 1,758 acciones @ $226.88 | Post: 12,807 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000068/xslF345X06/form4.xml
 
   🟡 [BEAM] Beam Therapeutics Inc. — 1 filing(s)
      🟡 MEDIA 4 | 2026-10-02 | Cavanagh Bethany J (SVP, Finance and Treasurer) → Venta 187 acciones @ $24.41 | Post: 50,984 | Rutinaria/RSU/impuestos
      Insider: Cavanagh Bethany J (SVP, Finance and Treasurer) → Venta 187 acciones @ $24.41 | Post: 50,984 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1745999/000119312526412236/xslF345X06/ownership.xml
-  ✅ [OCUL] Sin novedades
+
+  🟡 [OCUL] OCULAR THERAPEUTIX, INC — 2 filing(s)
+     🟡 MEDIA 4 | 2026-10-06 | Kaiser Peter (Chief Development Officer) → Venta 9,990 acciones @ $7.05 | Post: 254,388 | Rutinaria/RSU/impuestos
+     Insider: Kaiser Peter (Chief Development Officer) → Venta 9,990 acciones @ $7.05 | Post: 254,388 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926114081/xslF345X06/tm2627084-2_4seq1.xml
+     🟡 MEDIA 4 | 2026-10-06 | Heier Jeffrey S. (Chief Scientific Officer) → Venta 10,869 acciones @ $7.05 | Post: 307,457 | Rutinaria/RSU/impuestos
+     Insider: Heier Jeffrey S. (Chief Scientific Officer) → Venta 10,869 acciones @ $7.05 | Post: 307,457 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926114080/xslF345X06/tm2627084-1_4seq1.xml
   ✅ [CAI] Sin novedades
   ✅ [GPCR] Sin novedades
   ✅ [ABVX] Sin novedades

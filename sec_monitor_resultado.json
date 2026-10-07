@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "06/10/2026 13:57",
+  "generado": "07/10/2026 14:14",
   "periodo_dias": 7,
-  "desde": "2026-09-29",
-  "hasta": "2026-10-06",
+  "desde": "2026-09-30",
+  "hasta": "2026-10-07",
   "resumen": {
-    "total_filings": 7,
+    "total_filings": 10,
     "alertas_rojas": 0,
     "alertas_verdes": 1,
-    "alertas_amarillas": 1,
+    "alertas_amarillas": 4,
     "alertas_azules": 5,
-    "sin_novedad": 13
+    "sin_novedad": 11
   },
   "tickers": {
     "SNDX": {
@@ -43,27 +43,28 @@
       "validacion_empresa": "OK",
       "filings": [
         {
-          "form": "8-K",
-          "fecha": "2026-09-29",
+          "form": "4",
+          "fecha": "2026-10-06",
           "nivel": "verde",
           "badge": "🟢 ALTA",
-          "resumen": "8-K — Evento positivo potencial: Aprobación acelerada [Items: 7.01, 8.01, 9.01]",
-          "detalle": "8-K",
+          "resumen": "Insider BUY: Posner Brian S → Compra 2,500 acciones @ $16.00 | Post: 27,000",
+          "detalle": "4",
           "empresa_sec": "Dyne Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181879426000009/dyn-20260929.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "7.01",
-              "8.01",
-              "9.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 7.01 Regulation FD Disclosure. On September 29, 2026, Dyne Therapeutics, Inc. (the Company ) issued a press release and presentation announcing additional one-year clinical data from the multiple ascending dose ( MAD ) portion of its Phase 1/2 ACHIEVE clinical trial (the ACHIEVE trial ) evaluating zeleciment basivarsen (z-basivarsen, also known as DYNE-101) for myotonic dystrophy type 1 ( DM1 ). Additionally, the Company announced the mean baseline value for video hand-opening time ( vHOT ) for the participants enrolled in the registrational expansion cohort ( REC ) of the ACHIEVE trial. A copy of the press release and data presentation are furnished as Exhibit 99.1 and Exhibit 99.2 hereto respectively and are incorporated herein by reference. The information furnished under this Item 7.01, including Exhibit 99.1 and Exhibit 99.2, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing. Item 8.01 Other Events. On September 29, 2026, the Company issued a press release and presentation announcing additional one-year clinical data from the ACHIEVE trial evaluating z-basivarsen in individuals with DM1. The new data come from a pooled dose group of participants (N=25-26) from the 3.4 mg/kg every four weeks, 5.4 mg/kg every 8 weeks and 6.8 mg/kg every 8 we",
-            "nivel_ajustado": "verde",
-            "badge_ajustado": "🟢 ALTA",
-            "resumen_ajustado": "8-K — Evento positivo potencial: Aprobación acelerada"
+          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526415584/xslF345X06/ownership.xml",
+          "form4_detail": {
+            "insider_nombre": "Posner Brian S",
+            "insider_cargo": null,
+            "transaccion_codigo": "P",
+            "transaccion_tipo": "Compra",
+            "transaccion_acciones": "2500",
+            "transaccion_precio": "16.00",
+            "transaccion_fecha": "2026-10-02",
+            "acciones_post": "27000",
+            "footnotes": null,
+            "es_rutinaria": false,
+            "resumen_detail": "Posner Brian S → Compra 2,500 acciones @ $16.00 | Post: 27,000"
           },
+          "8k_detail": null,
           "10q_detail": null,
           "prospecto_detail": null
         }
@@ -111,9 +112,36 @@
       "cik": "0001178670",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-10-06",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "SUPRAN BRYAN (EVP, CLO and Secretary) → Venta 1,758 acciones @ $226.88 | Post: 12,807 | Rutinaria/RSU/impuestos",
+          "detalle": "PRIMARY DOCUMENT",
+          "empresa_sec": "ALNYLAM PHARMACEUTICALS, INC.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000068/xslF345X06/form4.xml",
+          "form4_detail": {
+            "insider_nombre": "SUPRAN BRYAN",
+            "insider_cargo": "EVP, CLO and Secretary",
+            "transaccion_codigo": "S",
+            "transaccion_tipo": "Venta",
+            "transaccion_acciones": "1758",
+            "transaccion_precio": "226.88",
+            "transaccion_fecha": "2026-10-02",
+            "acciones_post": "12807",
+            "footnotes": "Represents shares automatically sold by the Company on behalf of the reporting person pursuant to a mandatory sell-to-cover provision in the award agreement required to cover minimum statutory tax withholding obligations that became due upon the vesting and settlement of restricted stock units.",
+            "es_rutinaria": true,
+            "resumen_detail": "SUPRAN BRYAN (EVP, CLO and Secretary) → Venta 1,758 acciones @ $226.88 | Post: 12,807 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "BEAM": {
@@ -160,9 +188,62 @@
       "cik": "0001393434",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-10-06",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Kaiser Peter (Chief Development Officer) → Venta 9,990 acciones @ $7.05 | Post: 254,388 | Rutinaria/RSU/impuestos",
+          "detalle": "OWNERSHIP DOCUMENT",
+          "empresa_sec": "OCULAR THERAPEUTIX, INC",
+          "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926114081/xslF345X06/tm2627084-2_4seq1.xml",
+          "form4_detail": {
+            "insider_nombre": "Kaiser Peter",
+            "insider_cargo": "Chief Development Officer",
+            "transaccion_codigo": "S",
+            "transaccion_tipo": "Venta",
+            "transaccion_acciones": "9990",
+            "transaccion_precio": "7.05",
+            "transaccion_fecha": "2026-10-02",
+            "acciones_post": "254388",
+            "footnotes": "Represents shares of common stock of Ocular Therapeutix, Inc. (the \"Corporation\") sold, pursuant to a durable automatic sale instruction adopted by the reporting person on April 9, 2024, effecting the sell-to-cover election of the reporting person to satisfy tax withholding obligations in connection with the vesting of restricted stock units on October 1, 2026. The sales do not represent a discretionary trade by the reporting person. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $6.9900 to $7.1954, inclusive. The reporting person undertakes to provide to the Corporation, any security holder of the Corporation, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in footnote (2) to this Form 4.",
+            "es_rutinaria": true,
+            "resumen_detail": "Kaiser Peter (Chief Development Officer) → Venta 9,990 acciones @ $7.05 | Post: 254,388 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
+          "form": "4",
+          "fecha": "2026-10-06",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Heier Jeffrey S. (Chief Scientific Officer) → Venta 10,869 acciones @ $7.05 | Post: 307,457 | Rutinaria/RSU/impuestos",
+          "detalle": "OWNERSHIP DOCUMENT",
+          "empresa_sec": "OCULAR THERAPEUTIX, INC",
+          "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926114080/xslF345X06/tm2627084-1_4seq1.xml",
+          "form4_detail": {
+            "insider_nombre": "Heier Jeffrey S.",
+            "insider_cargo": "Chief Scientific Officer",
+            "transaccion_codigo": "S",
+            "transaccion_tipo": "Venta",
+            "transaccion_acciones": "10869",
+            "transaccion_precio": "7.05",
+            "transaccion_fecha": "2026-10-02",
+            "acciones_post": "307457",
+            "footnotes": "Represents shares of common stock of Ocular Therapeutix, Inc. (the \"Corporation\") sold, pursuant to a durable automatic sale instruction adopted by the reporting person on April 9, 2024, effecting the sell-to-cover election of the reporting person to satisfy tax withholding obligations in connection with the vesting of restricted stock units on October 1, 2026. The sales do not represent a discretionary trade by the reporting person. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $6.9900 to $7.2100, inclusive. The reporting person undertakes to provide to the Corporation, any security holder of the Corporation, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in footnote (2) to this Form 4.",
+            "es_rutinaria": true,
+            "resumen_detail": "Heier Jeffrey S. (Chief Scientific Officer) → Venta 10,869 acciones @ $7.05 | Post: 307,457 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "CAI": {
@@ -396,32 +477,145 @@
     {
       "ticker": "DYN",
       "nombre": "Dyne Therapeutics, Inc.",
-      "form": "8-K",
-      "fecha": "2026-09-29",
+      "form": "4",
+      "fecha": "2026-10-06",
       "nivel": "verde",
       "badge": "🟢 ALTA",
-      "resumen": "8-K — Evento positivo potencial: Aprobación acelerada [Items: 7.01, 8.01, 9.01]",
-      "detalle": "8-K",
+      "resumen": "Insider BUY: Posner Brian S → Compra 2,500 acciones @ $16.00 | Post: 27,000",
+      "detalle": "4",
       "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181879426000009/dyn-20260929.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "7.01",
-          "8.01",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 7.01 Regulation FD Disclosure. On September 29, 2026, Dyne Therapeutics, Inc. (the Company ) issued a press release and presentation announcing additional one-year clinical data from the multiple ascending dose ( MAD ) portion of its Phase 1/2 ACHIEVE clinical trial (the ACHIEVE trial ) evaluating zeleciment basivarsen (z-basivarsen, also known as DYNE-101) for myotonic dystrophy type 1 ( DM1 ). Additionally, the Company announced the mean baseline value for video hand-opening time ( vHOT ) for the participants enrolled in the registrational expansion cohort ( REC ) of the ACHIEVE trial. A copy of the press release and data presentation are furnished as Exhibit 99.1 and Exhibit 99.2 hereto respectively and are incorporated herein by reference. The information furnished under this Item 7.01, including Exhibit 99.1 and Exhibit 99.2, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing. Item 8.01 Other Events. On September 29, 2026, the Company issued a press release and presentation announcing additional one-year clinical data from the ACHIEVE trial evaluating z-basivarsen in individuals with DM1. The new data come from a pooled dose group of participants (N=25-26) from the 3.4 mg/kg every four weeks, 5.4 mg/kg every 8 weeks and 6.8 mg/kg every 8 we",
-        "nivel_ajustado": "verde",
-        "badge_ajustado": "🟢 ALTA",
-        "resumen_ajustado": "8-K — Evento positivo potencial: Aprobación acelerada"
+      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526415584/xslF345X06/ownership.xml",
+      "form4_detail": {
+        "insider_nombre": "Posner Brian S",
+        "insider_cargo": null,
+        "transaccion_codigo": "P",
+        "transaccion_tipo": "Compra",
+        "transaccion_acciones": "2500",
+        "transaccion_precio": "16.00",
+        "transaccion_fecha": "2026-10-02",
+        "acciones_post": "27000",
+        "footnotes": null,
+        "es_rutinaria": false,
+        "resumen_detail": "Posner Brian S → Compra 2,500 acciones @ $16.00 | Post: 27,000"
       },
+      "8k_detail": null,
       "10q_detail": null,
       "prospecto_detail": null
     }
   ],
   "todos_filings": [
+    {
+      "ticker": "DYN",
+      "nombre": "Dyne Therapeutics, Inc.",
+      "form": "4",
+      "fecha": "2026-10-06",
+      "nivel": "verde",
+      "badge": "🟢 ALTA",
+      "resumen": "Insider BUY: Posner Brian S → Compra 2,500 acciones @ $16.00 | Post: 27,000",
+      "detalle": "4",
+      "empresa_sec": "Dyne Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000119312526415584/xslF345X06/ownership.xml",
+      "form4_detail": {
+        "insider_nombre": "Posner Brian S",
+        "insider_cargo": null,
+        "transaccion_codigo": "P",
+        "transaccion_tipo": "Compra",
+        "transaccion_acciones": "2500",
+        "transaccion_precio": "16.00",
+        "transaccion_fecha": "2026-10-02",
+        "acciones_post": "27000",
+        "footnotes": null,
+        "es_rutinaria": false,
+        "resumen_detail": "Posner Brian S → Compra 2,500 acciones @ $16.00 | Post: 27,000"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "ALNY",
+      "nombre": "ALNYLAM PHARMACEUTICALS, INC.",
+      "form": "4",
+      "fecha": "2026-10-06",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "SUPRAN BRYAN (EVP, CLO and Secretary) → Venta 1,758 acciones @ $226.88 | Post: 12,807 | Rutinaria/RSU/impuestos",
+      "detalle": "PRIMARY DOCUMENT",
+      "empresa_sec": "ALNYLAM PHARMACEUTICALS, INC.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000068/xslF345X06/form4.xml",
+      "form4_detail": {
+        "insider_nombre": "SUPRAN BRYAN",
+        "insider_cargo": "EVP, CLO and Secretary",
+        "transaccion_codigo": "S",
+        "transaccion_tipo": "Venta",
+        "transaccion_acciones": "1758",
+        "transaccion_precio": "226.88",
+        "transaccion_fecha": "2026-10-02",
+        "acciones_post": "12807",
+        "footnotes": "Represents shares automatically sold by the Company on behalf of the reporting person pursuant to a mandatory sell-to-cover provision in the award agreement required to cover minimum statutory tax withholding obligations that became due upon the vesting and settlement of restricted stock units.",
+        "es_rutinaria": true,
+        "resumen_detail": "SUPRAN BRYAN (EVP, CLO and Secretary) → Venta 1,758 acciones @ $226.88 | Post: 12,807 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "OCUL",
+      "nombre": "OCULAR THERAPEUTIX, INC",
+      "form": "4",
+      "fecha": "2026-10-06",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Kaiser Peter (Chief Development Officer) → Venta 9,990 acciones @ $7.05 | Post: 254,388 | Rutinaria/RSU/impuestos",
+      "detalle": "OWNERSHIP DOCUMENT",
+      "empresa_sec": "OCULAR THERAPEUTIX, INC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926114081/xslF345X06/tm2627084-2_4seq1.xml",
+      "form4_detail": {
+        "insider_nombre": "Kaiser Peter",
+        "insider_cargo": "Chief Development Officer",
+        "transaccion_codigo": "S",
+        "transaccion_tipo": "Venta",
+        "transaccion_acciones": "9990",
+        "transaccion_precio": "7.05",
+        "transaccion_fecha": "2026-10-02",
+        "acciones_post": "254388",
+        "footnotes": "Represents shares of common stock of Ocular Therapeutix, Inc. (the \"Corporation\") sold, pursuant to a durable automatic sale instruction adopted by the reporting person on April 9, 2024, effecting the sell-to-cover election of the reporting person to satisfy tax withholding obligations in connection with the vesting of restricted stock units on October 1, 2026. The sales do not represent a discretionary trade by the reporting person. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $6.9900 to $7.1954, inclusive. The reporting person undertakes to provide to the Corporation, any security holder of the Corporation, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in footnote (2) to this Form 4.",
+        "es_rutinaria": true,
+        "resumen_detail": "Kaiser Peter (Chief Development Officer) → Venta 9,990 acciones @ $7.05 | Post: 254,388 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "OCUL",
+      "nombre": "OCULAR THERAPEUTIX, INC",
+      "form": "4",
+      "fecha": "2026-10-06",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Heier Jeffrey S. (Chief Scientific Officer) → Venta 10,869 acciones @ $7.05 | Post: 307,457 | Rutinaria/RSU/impuestos",
+      "detalle": "OWNERSHIP DOCUMENT",
+      "empresa_sec": "OCULAR THERAPEUTIX, INC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926114080/xslF345X06/tm2627084-1_4seq1.xml",
+      "form4_detail": {
+        "insider_nombre": "Heier Jeffrey S.",
+        "insider_cargo": "Chief Scientific Officer",
+        "transaccion_codigo": "S",
+        "transaccion_tipo": "Venta",
+        "transaccion_acciones": "10869",
+        "transaccion_precio": "7.05",
+        "transaccion_fecha": "2026-10-02",
+        "acciones_post": "307457",
+        "footnotes": "Represents shares of common stock of Ocular Therapeutix, Inc. (the \"Corporation\") sold, pursuant to a durable automatic sale instruction adopted by the reporting person on April 9, 2024, effecting the sell-to-cover election of the reporting person to satisfy tax withholding obligations in connection with the vesting of restricted stock units on October 1, 2026. The sales do not represent a discretionary trade by the reporting person. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $6.9900 to $7.2100, inclusive. The reporting person undertakes to provide to the Corporation, any security holder of the Corporation, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in footnote (2) to this Form 4.",
+        "es_rutinaria": true,
+        "resumen_detail": "Heier Jeffrey S. (Chief Scientific Officer) → Venta 10,869 acciones @ $7.05 | Post: 307,457 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "SENS",
       "nombre": "Senseonics Holdings, Inc.",
@@ -586,33 +780,6 @@
         "resumen_detail": "Cavanagh Bethany J (SVP, Finance and Treasurer) → Venta 187 acciones @ $24.41 | Post: 50,984 | Rutinaria/RSU/impuestos"
       },
       "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "DYN",
-      "nombre": "Dyne Therapeutics, Inc.",
-      "form": "8-K",
-      "fecha": "2026-09-29",
-      "nivel": "verde",
-      "badge": "🟢 ALTA",
-      "resumen": "8-K — Evento positivo potencial: Aprobación acelerada [Items: 7.01, 8.01, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181879426000009/dyn-20260929.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "7.01",
-          "8.01",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 7.01 Regulation FD Disclosure. On September 29, 2026, Dyne Therapeutics, Inc. (the Company ) issued a press release and presentation announcing additional one-year clinical data from the multiple ascending dose ( MAD ) portion of its Phase 1/2 ACHIEVE clinical trial (the ACHIEVE trial ) evaluating zeleciment basivarsen (z-basivarsen, also known as DYNE-101) for myotonic dystrophy type 1 ( DM1 ). Additionally, the Company announced the mean baseline value for video hand-opening time ( vHOT ) for the participants enrolled in the registrational expansion cohort ( REC ) of the ACHIEVE trial. A copy of the press release and data presentation are furnished as Exhibit 99.1 and Exhibit 99.2 hereto respectively and are incorporated herein by reference. The information furnished under this Item 7.01, including Exhibit 99.1 and Exhibit 99.2, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing. Item 8.01 Other Events. On September 29, 2026, the Company issued a press release and presentation announcing additional one-year clinical data from the ACHIEVE trial evaluating z-basivarsen in individuals with DM1. The new data come from a pooled dose group of participants (N=25-26) from the 3.4 mg/kg every four weeks, 5.4 mg/kg every 8 weeks and 6.8 mg/kg every 8 we",
-        "nivel_ajustado": "verde",
-        "badge_ajustado": "🟢 ALTA",
-        "resumen_ajustado": "8-K — Evento positivo potencial: Aprobación acelerada"
-      },
       "10q_detail": null,
       "prospecto_detail": null
     }

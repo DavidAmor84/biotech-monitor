@@ -1,8 +1,8 @@
 {
-  "generado": "06/10/2026 14:08 UTC",
+  "generado": "07/10/2026 14:27 UTC",
   "plazo_horas": 72,
-  "desde": "2026-10-03",
-  "hasta": "2026-10-06",
+  "desde": "2026-10-04",
+  "hasta": "2026-10-07",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -46,6 +46,54 @@
       "noticias": [
         {
           "ticker": "VKTX",
+          "titulo": "INSM Stock Slides on CFO Exit, Reiterates '26 Sales View",
+          "resumen": "Insmed shares slide after CFO Sara Bonstein's surprise exit, though the company reaffirms 2026 revenue guidance for Brinsupri and Arikayce.",
+          "fuente": "Yahoo",
+          "fecha": "06 Oct 2026 14:29 UTC",
+          "url": "https://finnhub.io/api/news?id=9d89036aa73c7e6e5e8e095290b955387a0a9fcb06c5a3fab704199ae633b5ec",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "VKTX Down 16% in a Month: Time to Invest or Exit the Stock?",
+          "resumen": "Viking Therapeutics faces dilution and rising obesity competition, but VK2735's pipeline progress could offer catalysts and support a rebound.",
+          "fuente": "Yahoo",
+          "fecha": "06 Oct 2026 12:13 UTC",
+          "url": "https://finnhub.io/api/news?id=2ba4dbdedf49331366cb3b99fb15dfa6bd20d2e77a1530f1415d42aa0db6e5fb",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "Viking Therapeutics Announces Initiation of VK2735 Oral Maintenance Dosing Clinical Trial in Patients with Obesity",
+          "resumen": "Viking Therapeutics, Inc. (Viking) (NASDAQ: VKTX), a clinical-stage biopharmaceutical company focused on the development of novel therapies for metabolic and endocrine disorders, today announced the initiation of an exploratory oral maintenance dosing study of VK2735, the company's dual agonist of t",
+          "fuente": "Yahoo",
+          "fecha": "06 Oct 2026 11:05 UTC",
+          "url": "https://finnhub.io/api/news?id=58917f3c1472a34bf1b7914e510cb1ec76153f6490e38ef1a6feeaabfc1a90c9",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "Viking Therapeutics Begins Exploratory Oral Maintenance Dosing Study Of VK2735, Its Dual Agonist Of Glucagon-Like Peptide 1 And Glucose-Dependent Insulinotropic Polypeptide Receptors",
+          "resumen": "VK2375 is being developed in both oral and subcutaneous formulations for the potential treatment of various metabolic disorders such as obesity. The trial announced today is the second in a two-part maintenance study",
+          "fuente": "Benzinga",
+          "fecha": "06 Oct 2026 07:09 UTC",
+          "url": "https://finnhub.io/api/news?id=cc57c61cbf6c4667d7bd74f0f963cf6f771eccde7396d069b7f325c09632b82b",
+          "imagen": "",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VKTX",
           "titulo": "Here Are My Top 4 Stocks to Buy in October",
           "resumen": "Get 'em while they're still on sale. Catalysts are on the horizon.",
           "fuente": "Yahoo",
@@ -57,12 +105,24 @@
           "badge": "🔵"
         }
       ],
-      "nivel": "azul",
-      "total": 1
+      "nivel": "rojo",
+      "total": 5
     },
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
+        {
+          "ticker": "VRTX",
+          "titulo": "NVIDIA And 2 Elite Undervalued Stocks To Own",
+          "resumen": "Global public debt now sits near 100% of GDP, and the IMF is signaling a return to spending cuts and tighter money. That kind of backdrop often pushes investors toward companies that generate solid cash, carry sensible debt levels, and still trade as if they are largely overlooked. This article brea",
+          "fuente": "Yahoo",
+          "fecha": "07 Oct 2026 09:24 UTC",
+          "url": "https://finnhub.io/api/news?id=850cee1d2d2199d33e784edd409b737c35f19becfe776b1cac3049376df916ca",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "VRTX",
           "titulo": "Novavax (NVAX) Surges 20.1%: Is This an Indication of Further Gains?",
@@ -71,6 +131,18 @@
           "fecha": "06 Oct 2026 06:13 UTC",
           "url": "https://finnhub.io/api/news?id=64e8feaa5bebd866362af05857dd3615e6f456997b2380633ef07012abc6d3a2",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Nasdaq 100 Records Have Rarely Been This Narrow, 55 Stocks Are Still Below 50-Day Average",
+          "resumen": "The Nasdaq 100 trades at records Monday, yet 55 of its 101 stocks sit below their 50-day average. QQQ has beaten equal-weight QQQE by 8% since late July.",
+          "fuente": "Benzinga",
+          "fecha": "05 Oct 2026 15:00 UTC",
+          "url": "https://finnhub.io/api/news?id=d78ffd39021735e4739cfbbd4e7ce2c89bcdbad94ff4f003fc44637d8d221831",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/05/Nasdaq-Inscription-Next-To-Us-Dollars--T.jpg?width=2048&height=1536",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
@@ -98,30 +170,6 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "2 Safe-and-Steady Stocks with Promising Prospects and 1 We Turn Down",
-          "resumen": "A stock with low volatility can be reassuring, but it doesn’t always mean strong long-term performance. Investors who prioritize stability may miss out on higher-reward opportunities elsewhere.",
-          "fuente": "Yahoo",
-          "fecha": "05 Oct 2026 09:55 UTC",
-          "url": "https://finnhub.io/api/news?id=e577f7a9f57d44c3b91d86f0a9d89c225339a9fd4ab39a07dabc04048da37e08",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Amgen vs. Vertex Pharmaceuticals: Which Biotech Stock Is a Better Buy in 2026?",
-          "resumen": "One offers a more affordable entry point while the other boasts some of the highest profit margins in the sector. The choice comes down to whether you prioritize income stability or growth potential.",
-          "fuente": "Yahoo",
-          "fecha": "04 Oct 2026 14:34 UTC",
-          "url": "https://finnhub.io/api/news?id=773d3787e684fba498bba3b49094c209329c0e46fcca5973e7c495eb6d0c1b89",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -130,6 +178,18 @@
     "ALNY": {
       "nombre": "ALNY",
       "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "PCRX Expands Exparel Commercial Reach in Europe Through Molteni Deal",
+          "resumen": "Pacira expands Exparel's European reach through Molteni, adding new markets and revenue streams, with the first commercial sale in Europe expected in 2027.",
+          "fuente": "Yahoo",
+          "fecha": "06 Oct 2026 13:30 UTC",
+          "url": "https://finnhub.io/api/news?id=dfb5bef6bc348bf34c15e0109bbfbe538de03047c72d6225460522077868dc80",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "ALNY",
           "titulo": "Nasdaq 100 Records Have Rarely Been This Narrow, 55 Stocks Are Still Below 50-Day Average",
@@ -144,7 +204,7 @@
         }
       ],
       "nivel": "rojo",
-      "total": 1
+      "total": 2
     },
     "BEAM": {
       "nombre": "BEAM",
@@ -155,6 +215,18 @@
     "OCUL": {
       "nombre": "OCUL",
       "noticias": [
+        {
+          "ticker": "OCUL",
+          "titulo": "Ocular Therapeutix, Inc. (OCUL) Presents at Euretina 2026 - Slideshow",
+          "resumen": "2026-10-06. The following slide deck was published by Ocular Therapeutix, Inc.",
+          "fuente": "SeekingAlpha",
+          "fecha": "06 Oct 2026 19:03 UTC",
+          "url": "https://finnhub.io/api/news?id=8160314e243112dde56e0f771ccee4d0d1a291883c022be9de3e4fde9b0666de",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "OCUL",
           "titulo": "Top 3 Health Care Stocks Which Could Rescue Your Portfolio This Quarter",
@@ -193,13 +265,26 @@
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 4
     },
     "CAI": {
       "nombre": "CAI",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "CAI",
+          "titulo": "S&P 500, Nasdaq Hit Records, Power Stocks Rally on Google's Nuclear Deal: Stock Market Today",
+          "resumen": "S&amp;P 500 and Nasdaq 100 hit records as the 10-year yield retreats from a 24-year high; Constellation Energy jumps on a Google nuclear deal.",
+          "fuente": "Benzinga",
+          "fecha": "06 Oct 2026 13:11 UTC",
+          "url": "https://finnhub.io/api/news?id=d854387ea2b54afa3aae5bc2f3ae53045ac16ed0dc767504142c274ece5c100a",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/06/SP500.jpg?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "GPCR": {
       "nombre": "GPCR",
@@ -242,6 +327,30 @@
       "noticias": [
         {
           "ticker": "INSM",
+          "titulo": "INSM Stock Slides on CFO Exit, Reiterates '26 Sales View",
+          "resumen": "Insmed shares slide after CFO Sara Bonstein's surprise exit, though the company reaffirms 2026 revenue guidance for Brinsupri and Arikayce.",
+          "fuente": "Yahoo",
+          "fecha": "06 Oct 2026 14:29 UTC",
+          "url": "https://finnhub.io/api/news?id=9d89036aa73c7e6e5e8e095290b955387a0a9fcb06c5a3fab704199ae633b5ec",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "$100 Invested In Insmed 5 Years Ago Would Be Worth This Much Today",
+          "resumen": "Insmed (NASDAQ:INSM) has outperformed the market over the past 5 years by 17.45% on an annualized basis producing an average annual return of 29.54%. Currently, Insmed has a market capitalization of $22.80 billion.",
+          "fuente": "Benzinga",
+          "fecha": "05 Oct 2026 17:00 UTC",
+          "url": "https://finnhub.io/api/news?id=b7faae5e95e859fa2f91224a7858f2f05c5303b99669e7210fa88389a8d4c4bc",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_3.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "INSM",
           "titulo": "Insmed stock falls as CFO Sara Bonstein to step down",
           "resumen": "Investing.com -- Insmed Inc (NASDAQ:INSM) shares fell 8% Monday after the company announced Chief Financial Officer Sara Bonstein will step down on October 30.",
           "fuente": "Yahoo",
@@ -266,36 +375,12 @@
         },
         {
           "ticker": "INSM",
-          "titulo": "Insmed Announces CFO Transition",
-          "resumen": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced that Sara Bonstein will step down as Chief Financial Officer (CFO). Ms. Bonstein will",
-          "fuente": "Yahoo",
-          "fecha": "05 Oct 2026 11:00 UTC",
-          "url": "https://finnhub.io/api/news?id=36925e6371d3b107d9aaeeabb1825049cf0b05b350b6bbcf7609cff26d38aa1b",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "Insmed Q2 2026 Earnings Call Transcript",
-          "resumen": "Insmed (NASDAQ:INSM) reported second-quarter financial results on Thursday. The transcript from the company&#39;s second-quarter earnings call has been provided below.\nBenzinga APIs provide real-time access to earnings",
+          "titulo": "Insmed Stock Slides — CFO Exit Date Set, 2026 Guidance Reaffirmed",
+          "resumen": "Insmed shares slip after CFO Sara Bonstein steps down, reaffirms 2026 financial targets.",
           "fuente": "Benzinga",
-          "fecha": "05 Oct 2026 07:46 UTC",
-          "url": "https://finnhub.io/api/news?id=0da9504d820a183e49f801e6a47b515c072925817a45dc9e0adfc62135db8aa9",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_1.jpg?width=2048&height=1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "Insmed Reaffirms FY26 Revenue Guidance Of $1.25B-$1.40B For BRINSUPRI And $450M- $470M For ARIKAYCE",
-          "resumen": "Reaffirms Full-Year 2026 GuidanceAs Insmed continues to build on its operational excellence and momentum, the Company reaffirms its full-year 2026 financial guidance of revenue in the range of $1.25 billion to $1.40",
-          "fuente": "Benzinga",
-          "fecha": "05 Oct 2026 07:07 UTC",
-          "url": "https://finnhub.io/api/news?id=5e702ce5d105130fc7cd08566e9ab73b9bd6b6cf199683bfce9581846b1e19f0",
-          "imagen": "",
+          "fecha": "05 Oct 2026 11:59 UTC",
+          "url": "https://finnhub.io/api/news?id=303e7a3d6efc8e4fbf1351d80aa1f87f9e2fb6433f94bb2bc647ca84149d6425",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/05/Insmed-Headquarters.jpg?width=2048&height=1536",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
@@ -306,10 +391,10 @@
     }
   },
   "resumen": {
-    "total_noticias": 16,
-    "tickers_con_noticias": 6,
-    "alertas_urgentes": 4,
-    "sin_noticias": 11
+    "total_noticias": 23,
+    "tickers_con_noticias": 7,
+    "alertas_urgentes": 6,
+    "sin_noticias": 10
   },
   "todas_noticias": [
     {
@@ -319,42 +404,6 @@
       "fuente": "Yahoo",
       "fecha": "05 Oct 2026 03:09 UTC",
       "url": "https://finnhub.io/api/news?id=4cb88bc1b0cbb87ce43302eeb489ca2bc7c204edd68f72b2327890e7324f3496",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "Insmed Reaffirms FY26 Revenue Guidance Of $1.25B-$1.40B For BRINSUPRI And $450M- $470M For ARIKAYCE",
-      "resumen": "Reaffirms Full-Year 2026 GuidanceAs Insmed continues to build on its operational excellence and momentum, the Company reaffirms its full-year 2026 financial guidance of revenue in the range of $1.25 billion to $1.40",
-      "fuente": "Benzinga",
-      "fecha": "05 Oct 2026 07:07 UTC",
-      "url": "https://finnhub.io/api/news?id=5e702ce5d105130fc7cd08566e9ab73b9bd6b6cf199683bfce9581846b1e19f0",
-      "imagen": "",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "Insmed Q2 2026 Earnings Call Transcript",
-      "resumen": "Insmed (NASDAQ:INSM) reported second-quarter financial results on Thursday. The transcript from the company&#39;s second-quarter earnings call has been provided below.\nBenzinga APIs provide real-time access to earnings",
-      "fuente": "Benzinga",
-      "fecha": "05 Oct 2026 07:46 UTC",
-      "url": "https://finnhub.io/api/news?id=0da9504d820a183e49f801e6a47b515c072925817a45dc9e0adfc62135db8aa9",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_1.jpg?width=2048&height=1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "Insmed Announces CFO Transition",
-      "resumen": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced that Sara Bonstein will step down as Chief Financial Officer (CFO). Ms. Bonstein will",
-      "fuente": "Yahoo",
-      "fecha": "05 Oct 2026 11:00 UTC",
-      "url": "https://finnhub.io/api/news?id=36925e6371d3b107d9aaeeabb1825049cf0b05b350b6bbcf7609cff26d38aa1b",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
@@ -373,6 +422,18 @@
       "badge": "🔴"
     },
     {
+      "ticker": "INSM",
+      "titulo": "Insmed Stock Slides — CFO Exit Date Set, 2026 Guidance Reaffirmed",
+      "resumen": "Insmed shares slip after CFO Sara Bonstein steps down, reaffirms 2026 financial targets.",
+      "fuente": "Benzinga",
+      "fecha": "05 Oct 2026 11:59 UTC",
+      "url": "https://finnhub.io/api/news?id=303e7a3d6efc8e4fbf1351d80aa1f87f9e2fb6433f94bb2bc647ca84149d6425",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/05/Insmed-Headquarters.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
       "ticker": "VRTX",
       "titulo": "Vortex Energy Commissions Hydrogen and Helium Study at Robinsons River Salt Project",
       "resumen": "Desktop study will use existing geological, geophysical and well data to assess natural hydrogen and helium potentialVANCOUVER, British Columbia, Oct. 05, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) is pleased to announce that it has c",
@@ -380,6 +441,18 @@
       "fecha": "05 Oct 2026 12:00 UTC",
       "url": "https://finnhub.io/api/news?id=943cb8c1f83470d9cc644feb430e61cb7adee87a478c61044c0106a7f544aae2",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Nasdaq 100 Records Have Rarely Been This Narrow, 55 Stocks Are Still Below 50-Day Average",
+      "resumen": "The Nasdaq 100 trades at records Monday, yet 55 of its 101 stocks sit below their 50-day average. QQQ has beaten equal-weight QQQE by 8% since late July.",
+      "fuente": "Benzinga",
+      "fecha": "05 Oct 2026 15:00 UTC",
+      "url": "https://finnhub.io/api/news?id=d78ffd39021735e4739cfbbd4e7ce2c89bcdbad94ff4f003fc44637d8d221831",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/05/Nasdaq-Inscription-Next-To-Us-Dollars--T.jpg?width=2048&height=1536",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
@@ -421,16 +494,76 @@
       "badge": "🔴"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "Amgen vs. Vertex Pharmaceuticals: Which Biotech Stock Is a Better Buy in 2026?",
-      "resumen": "One offers a more affordable entry point while the other boasts some of the highest profit margins in the sector. The choice comes down to whether you prioritize income stability or growth potential.",
+      "ticker": "VKTX",
+      "titulo": "Viking Therapeutics Begins Exploratory Oral Maintenance Dosing Study Of VK2735, Its Dual Agonist Of Glucagon-Like Peptide 1 And Glucose-Dependent Insulinotropic Polypeptide Receptors",
+      "resumen": "VK2375 is being developed in both oral and subcutaneous formulations for the potential treatment of various metabolic disorders such as obesity. The trial announced today is the second in a two-part maintenance study",
+      "fuente": "Benzinga",
+      "fecha": "06 Oct 2026 07:09 UTC",
+      "url": "https://finnhub.io/api/news?id=cc57c61cbf6c4667d7bd74f0f963cf6f771eccde7396d069b7f325c09632b82b",
+      "imagen": "",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Viking Therapeutics Announces Initiation of VK2735 Oral Maintenance Dosing Clinical Trial in Patients with Obesity",
+      "resumen": "Viking Therapeutics, Inc. (Viking) (NASDAQ: VKTX), a clinical-stage biopharmaceutical company focused on the development of novel therapies for metabolic and endocrine disorders, today announced the initiation of an exploratory oral maintenance dosing study of VK2735, the company's dual agonist of t",
       "fuente": "Yahoo",
-      "fecha": "04 Oct 2026 14:34 UTC",
-      "url": "https://finnhub.io/api/news?id=773d3787e684fba498bba3b49094c209329c0e46fcca5973e7c495eb6d0c1b89",
+      "fecha": "06 Oct 2026 11:05 UTC",
+      "url": "https://finnhub.io/api/news?id=58917f3c1472a34bf1b7914e510cb1ec76153f6490e38ef1a6feeaabfc1a90c9",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "CAI",
+      "titulo": "S&P 500, Nasdaq Hit Records, Power Stocks Rally on Google's Nuclear Deal: Stock Market Today",
+      "resumen": "S&amp;P 500 and Nasdaq 100 hit records as the 10-year yield retreats from a 24-year high; Constellation Energy jumps on a Google nuclear deal.",
+      "fuente": "Benzinga",
+      "fecha": "06 Oct 2026 13:11 UTC",
+      "url": "https://finnhub.io/api/news?id=d854387ea2b54afa3aae5bc2f3ae53045ac16ed0dc767504142c274ece5c100a",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/06/SP500.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "PCRX Expands Exparel Commercial Reach in Europe Through Molteni Deal",
+      "resumen": "Pacira expands Exparel's European reach through Molteni, adding new markets and revenue streams, with the first commercial sale in Europe expected in 2027.",
+      "fuente": "Yahoo",
+      "fecha": "06 Oct 2026 13:30 UTC",
+      "url": "https://finnhub.io/api/news?id=dfb5bef6bc348bf34c15e0109bbfbe538de03047c72d6225460522077868dc80",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "INSM Stock Slides on CFO Exit, Reiterates '26 Sales View",
+      "resumen": "Insmed shares slide after CFO Sara Bonstein's surprise exit, though the company reaffirms 2026 revenue guidance for Brinsupri and Arikayce.",
+      "fuente": "Yahoo",
+      "fecha": "06 Oct 2026 14:29 UTC",
+      "url": "https://finnhub.io/api/news?id=9d89036aa73c7e6e5e8e095290b955387a0a9fcb06c5a3fab704199ae633b5ec",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "INSM Stock Slides on CFO Exit, Reiterates '26 Sales View",
+      "resumen": "Insmed shares slide after CFO Sara Bonstein's surprise exit, though the company reaffirms 2026 revenue guidance for Brinsupri and Arikayce.",
+      "fuente": "Yahoo",
+      "fecha": "06 Oct 2026 14:29 UTC",
+      "url": "https://finnhub.io/api/news?id=9d89036aa73c7e6e5e8e095290b955387a0a9fcb06c5a3fab704199ae633b5ec",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "ARGX",
@@ -439,18 +572,6 @@
       "fuente": "Yahoo",
       "fecha": "05 Oct 2026 08:46 UTC",
       "url": "https://finnhub.io/api/news?id=c628411b3ccc574b4e45df220559a2ba8d4ac1f734fbc33223e72b953e72f696",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "2 Safe-and-Steady Stocks with Promising Prospects and 1 We Turn Down",
-      "resumen": "A stock with low volatility can be reassuring, but it doesn’t always mean strong long-term performance. Investors who prioritize stability may miss out on higher-reward opportunities elsewhere.",
-      "fuente": "Yahoo",
-      "fecha": "05 Oct 2026 09:55 UTC",
-      "url": "https://finnhub.io/api/news?id=e577f7a9f57d44c3b91d86f0a9d89c225339a9fd4ab39a07dabc04048da37e08",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
@@ -493,6 +614,18 @@
       "badge": "🔵"
     },
     {
+      "ticker": "INSM",
+      "titulo": "$100 Invested In Insmed 5 Years Ago Would Be Worth This Much Today",
+      "resumen": "Insmed (NASDAQ:INSM) has outperformed the market over the past 5 years by 17.45% on an annualized basis producing an average annual return of 29.54%. Currently, Insmed has a market capitalization of $22.80 billion.",
+      "fuente": "Benzinga",
+      "fecha": "05 Oct 2026 17:00 UTC",
+      "url": "https://finnhub.io/api/news?id=b7faae5e95e859fa2f91224a7858f2f05c5303b99669e7210fa88389a8d4c4bc",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_3.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
       "ticker": "OCUL",
       "titulo": "Top 3 Health Care Stocks Which Could Rescue Your Portfolio This Quarter",
       "resumen": "Oversold health care stocks Align Technology, Dianthus Therapeutics and Ocular Therapeutix show RSI readings near or below 30, signaling potential value.",
@@ -500,6 +633,42 @@
       "fecha": "06 Oct 2026 06:23 UTC",
       "url": "https://finnhub.io/api/news?id=01fdf54c7e15316d6433b4164052c40c9973390ed6d4eb26c67ace7c79612048",
       "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/06/Healthcare-stocks.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "VKTX Down 16% in a Month: Time to Invest or Exit the Stock?",
+      "resumen": "Viking Therapeutics faces dilution and rising obesity competition, but VK2735's pipeline progress could offer catalysts and support a rebound.",
+      "fuente": "Yahoo",
+      "fecha": "06 Oct 2026 12:13 UTC",
+      "url": "https://finnhub.io/api/news?id=2ba4dbdedf49331366cb3b99fb15dfa6bd20d2e77a1530f1415d42aa0db6e5fb",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "OCUL",
+      "titulo": "Ocular Therapeutix, Inc. (OCUL) Presents at Euretina 2026 - Slideshow",
+      "resumen": "2026-10-06. The following slide deck was published by Ocular Therapeutix, Inc.",
+      "fuente": "SeekingAlpha",
+      "fecha": "06 Oct 2026 19:03 UTC",
+      "url": "https://finnhub.io/api/news?id=8160314e243112dde56e0f771ccee4d0d1a291883c022be9de3e4fde9b0666de",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "NVIDIA And 2 Elite Undervalued Stocks To Own",
+      "resumen": "Global public debt now sits near 100% of GDP, and the IMF is signaling a return to spending cuts and tighter money. That kind of backdrop often pushes investors toward companies that generate solid cash, carry sensible debt levels, and still trade as if they are largely overlooked. This article brea",
+      "fuente": "Yahoo",
+      "fecha": "07 Oct 2026 09:24 UTC",
+      "url": "https://finnhub.io/api/news?id=850cee1d2d2199d33e784edd409b737c35f19becfe776b1cac3049376df916ca",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

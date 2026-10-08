@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 07/10/2026 14:14 | Período: últimos 7 días
-Desde: 2026-09-30 → Hasta: 2026-10-07
+Generado: 08/10/2026 14:23 | Período: últimos 7 días
+Desde: 2026-10-01 → Hasta: 2026-10-08
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 10 filings | 🔴 0 | 🟢 1 | 🟡 4 | 🔵 5 | ✅ 11 sin novedad
+RESUMEN: 11 filings | 🔴 0 | 🟢 1 | 🟡 5 | 🔵 5 | ✅ 10 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (1)
@@ -51,7 +51,11 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [GPCR] Sin novedades
   ✅ [ABVX] Sin novedades
   ✅ [VERA] Sin novedades
-  ✅ [ACRV] Sin novedades
+
+  🟡 [ACRV] Acrivon Therapeutics, Inc. — 1 filing(s)
+     🟡 MEDIA 4 | 2026-10-07 | Miller Mary (Chief Legal Officer) → Venta 294 acciones @ $1.99 | Post: 81,715 | Rutinaria/RSU/impuestos
+     Insider: Miller Mary (Chief Legal Officer) → Venta 294 acciones @ $1.99 | Post: 81,715 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826004399/xslF345X06/form4.xml
   ✅ [TARA] Sin novedades
 
   🔵 [SENS] Senseonics Holdings, Inc. — 4 filing(s)

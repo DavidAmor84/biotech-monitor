@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "07/10/2026 14:14",
+  "generado": "08/10/2026 14:23",
   "periodo_dias": 7,
-  "desde": "2026-09-30",
-  "hasta": "2026-10-07",
+  "desde": "2026-10-01",
+  "hasta": "2026-10-08",
   "resumen": {
-    "total_filings": 10,
+    "total_filings": 11,
     "alertas_rojas": 0,
     "alertas_verdes": 1,
-    "alertas_amarillas": 4,
+    "alertas_amarillas": 5,
     "alertas_azules": 5,
-    "sin_novedad": 11
+    "sin_novedad": 10
   },
   "tickers": {
     "SNDX": {
@@ -296,9 +296,36 @@
       "cik": "0001781174",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-10-07",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Miller Mary (Chief Legal Officer) → Venta 294 acciones @ $1.99 | Post: 81,715 | Rutinaria/RSU/impuestos",
+          "detalle": "FORM 4",
+          "empresa_sec": "Acrivon Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1781174/000090514826004399/xslF345X06/form4.xml",
+          "form4_detail": {
+            "insider_nombre": "Miller Mary",
+            "insider_cargo": "Chief Legal Officer",
+            "transaccion_codigo": "S",
+            "transaccion_tipo": "Venta",
+            "transaccion_acciones": "294",
+            "transaccion_precio": "1.99",
+            "transaccion_fecha": "2026-10-05",
+            "acciones_post": "81715",
+            "footnotes": "Shares sold automatically to satisfy the mandatory tax withholding requirement upon vesting of restricted stock units. The price reported in Column 4 above reflects the weighted average price of 337 shares sold by a broker on October 5, 2026, to satisfy the payment of withholding tax liability of a group of employees of the Issuer, including the reporting person. The proceeds of all such sales were allocated to the employees, including the reporting person, on a pro rata basis.",
+            "es_rutinaria": true,
+            "resumen_detail": "Miller Mary (Chief Legal Officer) → Venta 294 acciones @ $1.99 | Post: 81,715 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "TARA": {
@@ -504,6 +531,34 @@
     }
   ],
   "todos_filings": [
+    {
+      "ticker": "ACRV",
+      "nombre": "Acrivon Therapeutics, Inc.",
+      "form": "4",
+      "fecha": "2026-10-07",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Miller Mary (Chief Legal Officer) → Venta 294 acciones @ $1.99 | Post: 81,715 | Rutinaria/RSU/impuestos",
+      "detalle": "FORM 4",
+      "empresa_sec": "Acrivon Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781174/000090514826004399/xslF345X06/form4.xml",
+      "form4_detail": {
+        "insider_nombre": "Miller Mary",
+        "insider_cargo": "Chief Legal Officer",
+        "transaccion_codigo": "S",
+        "transaccion_tipo": "Venta",
+        "transaccion_acciones": "294",
+        "transaccion_precio": "1.99",
+        "transaccion_fecha": "2026-10-05",
+        "acciones_post": "81715",
+        "footnotes": "Shares sold automatically to satisfy the mandatory tax withholding requirement upon vesting of restricted stock units. The price reported in Column 4 above reflects the weighted average price of 337 shares sold by a broker on October 5, 2026, to satisfy the payment of withholding tax liability of a group of employees of the Issuer, including the reporting person. The proceeds of all such sales were allocated to the employees, including the reporting person, on a pro rata basis.",
+        "es_rutinaria": true,
+        "resumen_detail": "Miller Mary (Chief Legal Officer) → Venta 294 acciones @ $1.99 | Post: 81,715 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "DYN",
       "nombre": "Dyne Therapeutics, Inc.",

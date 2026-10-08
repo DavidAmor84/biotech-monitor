@@ -1,8 +1,8 @@
 {
-  "generado": "07/10/2026 14:27 UTC",
+  "generado": "08/10/2026 14:32 UTC",
   "plazo_horas": 72,
-  "desde": "2026-10-04",
-  "hasta": "2026-10-07",
+  "desde": "2026-10-05",
+  "hasta": "2026-10-08",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -15,25 +15,86 @@
       "noticias": [
         {
           "ticker": "ARGX",
-          "titulo": "10 Wall Street Analysts Think Argenx Stock Is Headed to At Least $1,200 -- Is the Stock a Buy Now?",
-          "resumen": "This biotech stock could soar 30% or more over the next 12 months if some analysts are right.",
-          "fuente": "Yahoo",
-          "fecha": "05 Oct 2026 08:46 UTC",
-          "url": "https://finnhub.io/api/news?id=c628411b3ccc574b4e45df220559a2ba8d4ac1f734fbc33223e72b953e72f696",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "titulo": "Thursday's pre-market session: top gainers and losers",
+          "resumen": "The US market is yet to commence its session on Thursday, but let's get a preview of the pre-market session and explore the top gainers and losers driving the early market movements.",
+          "fuente": "ChartMill",
+          "fecha": "08 Oct 2026 12:30 UTC",
+          "url": "https://finnhub.io/api/news?id=ae1d5398ae1b3291fbae5c46af29a4210112c3f82817a728fcc143aca7553f9c",
+          "imagen": "https://www.chartmill.com/images/uploads/CM_Premarket_Movers_Small_free_90289f6b81.webp",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
+        },
+        {
+          "ticker": "ARGX",
+          "titulo": "Argenx, Caribou Biosciences And Other Big Stocks Moving Lower In Thursday’s Pre-Market Session",
+          "resumen": "U.S. stock futures fell, with Dow futures down 450 points. Argenx sank 8.7% after a Sjögren’s trial was halted for futility; others also slid.",
+          "fuente": "Benzinga",
+          "fecha": "08 Oct 2026 08:07 UTC",
+          "url": "https://finnhub.io/api/news?id=df879d940045a82c119eaaebfde17082b8e5178ef4fa71853266672f35eb8051",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/08/Section-Of-A-Financial-Newspaper-Titled-.jpg?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ARGX",
+          "titulo": "12 Health Care Stocks Moving In Thursday's Pre-Market Session",
+          "resumen": "Gainers\n\nProfound Medical (NASDAQ:PROF) shares moved upwards by 21.5% to $6.9 during Thursday&#39;s pre-market session. The company&#39;s market cap stands at $207.5 million. \nHaemonetics (NYSE:HAE) stock moved upwards",
+          "fuente": "Benzinga",
+          "fecha": "08 Oct 2026 08:05 UTC",
+          "url": "https://finnhub.io/api/news?id=239f355c7f176766da94b5321e12e702de7527c5ab15919e0975b42fd128d36c",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_1.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ARGX",
+          "titulo": "argenx Provides Update on Phase 3 UNITY Study of Efgartigimod SC in Sjögren's Disease",
+          "resumen": "October 8, 2026, 7:00 AM CET Amsterdam, the Netherlands – argenx SE (Euronext & Nasdaq: ARGX), a global immunology innovation company, today announced that it will discontinue the Phase 3 UNITY study of efgartigimod subcutaneous (SC) (efgartigimod alfa and hyaluronidase-qvfc) in adults with moderate",
+          "fuente": "Yahoo",
+          "fecha": "08 Oct 2026 05:00 UTC",
+          "url": "https://finnhub.io/api/news?id=fc9a3c4ca11d4ea7ed8f8e60a9d722a85877e896d174350cab8f8407d8abfede",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ARGX",
+          "titulo": "argenx Announces Positive Topline Results from Phase 2 Study of FB102 in Celiac Disease",
+          "resumen": "Study met primary endpoint of change from baseline in the ratio of Vh:Cd (p=0.0176)First Phase 2 evidence that blocking CD122 can prevent gluten-induced intestinal damage in people living with celiac diseaseargenx plans to advance FB102 into Phase 3 development October 8, 2026, 7:00 AM CET Amsterdam",
+          "fuente": "Yahoo",
+          "fecha": "08 Oct 2026 05:00 UTC",
+          "url": "https://finnhub.io/api/news?id=96581c7ffc9ddc33b5d00f91496b39c72fbba579787e2ea34523341141914a0b",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
         }
       ],
-      "nivel": "azul",
-      "total": 1
+      "nivel": "rojo",
+      "total": 5
     },
     "DYN": {
       "nombre": "DYN",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "DYN",
+          "titulo": "Why Dyne Therapeutics (DYN) Is Back In The Spotlight",
+          "resumen": "Dyne Therapeutics (DYN) has drawn fresh attention after releasing one year efficacy and safety data from the Phase 1/2 ACHIEVE trial of DYNE-101 in myotonic dystrophy type 1, highlighting functional gains compared with baseline and natural history cohorts. Recent enthusiasm around Dyne Therapeutics ",
+          "fuente": "Yahoo",
+          "fecha": "07 Oct 2026 14:12 UTC",
+          "url": "https://finnhub.io/api/news?id=f932a6aa36351a2bc0ca4c1eeb5005f2dc16bf641fb9c3cebfaff0b12676d133",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "DNLI": {
       "nombre": "DNLI",
@@ -44,6 +105,30 @@
     "VKTX": {
       "nombre": "VKTX",
       "noticias": [
+        {
+          "ticker": "VKTX",
+          "titulo": "VKTX Advances Obesity Program With New Oral Maintenance Study",
+          "resumen": "VK2735's oral maintenance study could expand Viking Therapeutics' obesity strategy by helping sustain weight loss with less frequent dosing.",
+          "fuente": "Yahoo",
+          "fecha": "07 Oct 2026 15:17 UTC",
+          "url": "https://finnhub.io/api/news?id=aa133e61f99d01eb31fb3f910dec5883af8e05c0e216cd3141cf968942829a9c",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "Truist Securities Maintains Buy on Viking Therapeutics, Lowers Price Target to $85",
+          "resumen": "Truist Securities  analyst Joon Lee   maintains Viking Therapeutics (NASDAQ:VKTX) with a Buy and lowers the price target from $87 to $85.",
+          "fuente": "Benzinga",
+          "fecha": "07 Oct 2026 13:14 UTC",
+          "url": "https://finnhub.io/api/news?id=5e964f854bd7dce58322a743c1de235d05e95fb4440d2baaf58b87c1ef16ce44",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "VKTX",
           "titulo": "INSM Stock Slides on CFO Exit, Reiterates '26 Sales View",
@@ -79,30 +164,6 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "Viking Therapeutics Begins Exploratory Oral Maintenance Dosing Study Of VK2735, Its Dual Agonist Of Glucagon-Like Peptide 1 And Glucose-Dependent Insulinotropic Polypeptide Receptors",
-          "resumen": "VK2375 is being developed in both oral and subcutaneous formulations for the potential treatment of various metabolic disorders such as obesity. The trial announced today is the second in a two-part maintenance study",
-          "fuente": "Benzinga",
-          "fecha": "06 Oct 2026 07:09 UTC",
-          "url": "https://finnhub.io/api/news?id=cc57c61cbf6c4667d7bd74f0f963cf6f771eccde7396d069b7f325c09632b82b",
-          "imagen": "",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "Here Are My Top 4 Stocks to Buy in October",
-          "resumen": "Get 'em while they're still on sale. Catalysts are on the horizon.",
-          "fuente": "Yahoo",
-          "fecha": "05 Oct 2026 12:44 UTC",
-          "url": "https://finnhub.io/api/news?id=c4e3dc7dcd715b8a8121b50abdd4b358eaf96565f4dd531057bcc7bfff41fa56",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -111,6 +172,18 @@
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex to Announce Third Quarter 2026 Financial Results November 2nd",
+          "resumen": "BOSTON, October 07, 2026--Vertex Pharmaceuticals Incorporated (Nasdaq: VRTX) will report its third quarter 2026 financial results on Monday, November 2, 2026, after the financial markets close. The company will host a conference call and webcast at 4:30 p.m. ET. To access the call, please dial (833)",
+          "fuente": "Yahoo",
+          "fecha": "07 Oct 2026 20:00 UTC",
+          "url": "https://finnhub.io/api/news?id=171419e8f3d4371fa9aeba7aff9191a02d227a86a40539d8b98c67c7d01a1ee7",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "VRTX",
           "titulo": "NVIDIA And 2 Elite Undervalued Stocks To Own",
@@ -146,38 +219,38 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 4
+    },
+    "ALNY": {
+      "nombre": "ALNY",
+      "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam Pharmaceuticals (NASDAQ:ALNY): A Decent Value Stock Balancing Undervaluation and Growth",
+          "resumen": "ALNY screens as decent value: peer-relative discount, strong growth and profitability, but leverage, dilution, and earnings volatility pose risks.",
+          "fuente": "ChartMill",
+          "fecha": "08 Oct 2026 10:50 UTC",
+          "url": "https://finnhub.io/api/news?id=a61385a231db9f728e7408ed93959026ebd49cd9db62c758c7702d77ef70d03a",
+          "imagen": "https://www.chartmill.com/images/uploads/Undervalued_500_264px_webp_74997b3ff2.webp",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
         },
         {
-          "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals Incorporated (VRTX) is Attracting Investor Attention: Here is What You Should Know",
-          "resumen": "Vertex (VRTX) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+          "ticker": "ALNY",
+          "titulo": "ETON Stock Surges 108% in Six Months: Here's What You Need to Know",
+          "resumen": "Eton's sales surge, raised 2026 outlook and expanding rare-disease portfolio are boosting confidence in its growth.",
           "fuente": "Yahoo",
-          "fecha": "05 Oct 2026 12:00 UTC",
-          "url": "https://finnhub.io/api/news?id=1796d84c2e8a9f60a1a7b9d29266b5788128dd7ef6544af57255d46a92509159",
+          "fecha": "07 Oct 2026 15:08 UTC",
+          "url": "https://finnhub.io/api/news?id=3aad35ca174fbb5cc37b30324d7245105c71732d4b082d56875c784ca0d40aad",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vortex Energy Commissions Hydrogen and Helium Study at Robinsons River Salt Project",
-          "resumen": "Desktop study will use existing geological, geophysical and well data to assess natural hydrogen and helium potentialVANCOUVER, British Columbia, Oct. 05, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) is pleased to announce that it has c",
-          "fuente": "Yahoo",
-          "fecha": "05 Oct 2026 12:00 UTC",
-          "url": "https://finnhub.io/api/news?id=943cb8c1f83470d9cc644feb430e61cb7adee87a478c61044c0106a7f544aae2",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 5
-    },
-    "ALNY": {
-      "nombre": "ALNY",
-      "noticias": [
         {
           "ticker": "ALNY",
           "titulo": "PCRX Expands Exparel Commercial Reach in Europe Through Molteni Deal",
@@ -204,7 +277,7 @@
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 4
     },
     "BEAM": {
       "nombre": "BEAM",
@@ -238,34 +311,10 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "OCUL",
-          "titulo": "3 Stocks Under $10 That Fall Short",
-          "resumen": "Stocks trading in the $1-10 range are generally smaller players with less risk than their penny stock counterparts. But that doesn’t mean the underlying businesses are cheap, and we advise caution as many have questionable fundamentals.",
-          "fuente": "Yahoo",
-          "fecha": "05 Oct 2026 11:39 UTC",
-          "url": "https://finnhub.io/api/news?id=ef996930bf812eba9fe806793f41753c2fd48b9566bf744b8807be2f9098c040",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "OCUL",
-          "titulo": "Stocktwits Pharma Pulse: Roche Faces FDA Decision, Gene-Therapy Stocks Step Into Focus — The Week’s Biotech Watchlist",
-          "resumen": "Rocket, RegenXBio, Precision BioSciences, Kyverna and uniQure will present on Monday at a cell and gene-therapy conference.",
-          "fuente": "Yahoo",
-          "fecha": "05 Oct 2026 03:09 UTC",
-          "url": "https://finnhub.io/api/news?id=4cb88bc1b0cbb87ce43302eeb489ca2bc7c204edd68f72b2327890e7324f3496",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
-      "nivel": "rojo",
-      "total": 4
+      "nivel": "azul",
+      "total": 2
     },
     "CAI": {
       "nombre": "CAI",
@@ -294,9 +343,34 @@
     },
     "ABVX": {
       "nombre": "ABVX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ABVX",
+          "titulo": "Cedar Grove Capital Q3 2026 Portfolio Update",
+          "resumen": "During the quarter, we closed our long positions in MTY Food Group, uniQure, ClearPoint Neuro, and Suja Life Inc. Read more here.",
+          "fuente": "SeekingAlpha",
+          "fecha": "07 Oct 2026 15:48 UTC",
+          "url": "https://finnhub.io/api/news?id=8199d09c1f9f7471d9cef46b9b5a0f5819c04e5dd45efce183f4205620b9542b",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2231926077/image_2231926077.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ABVX",
+          "titulo": "Abivax (ABVX): Cleared Safety Overhang and Phase 3 Data De-Risk Path to Commercialization",
+          "resumen": "Michigan-based investment advisor Cedar Grove Capital Management recently released its third-quarter 2026 investor letter. The letter can be downloaded here. In Q3 2026, Cedar Grove Capital Management’s Multi-Strategy Composite returned -12.7%, trailing the Russell 2000 (-7.2%), Russell Microcap (-7",
+          "fuente": "Yahoo",
+          "fecha": "07 Oct 2026 15:02 UTC",
+          "url": "https://finnhub.io/api/news?id=cb3331124bcbdc85a201fc4a48ef5aa8f776f3142173939c0eaba262b0ea6e8c",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 2
     },
     "VERA": {
       "nombre": "VERA",
@@ -318,13 +392,50 @@
     },
     "SENS": {
       "nombre": "SENS",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "SENS",
+          "titulo": "Intel downgraded, Marvell upgraded: Wall Street's top analyst calls",
+          "resumen": "Intel downgraded, Marvell upgraded: Wall Street's top analyst calls",
+          "fuente": "Yahoo",
+          "fecha": "07 Oct 2026 14:00 UTC",
+          "url": "https://finnhub.io/api/news?id=c9045c53ac19ad80d94a07c2e8320fa134ac76c18ad5824d79898864952688d5",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "SENS",
+          "titulo": "Barclays Initiates Coverage On Senseonics Holdings with Equal-Weight Rating, Announces Price Target of $10",
+          "resumen": "Barclays  analyst Christopher Pasquale   initiates coverage on Senseonics Holdings (NASDAQ:SENS) with a Equal-Weight rating and announces Price Target of $10.",
+          "fuente": "Benzinga",
+          "fecha": "07 Oct 2026 09:11 UTC",
+          "url": "https://finnhub.io/api/news?id=760e1e757c15dcee27ab0a176069e54cc27c3b55cb837ed939cd15f2caab3262",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 2
     },
     "INSM": {
       "nombre": "INSM",
       "noticias": [
+        {
+          "ticker": "INSM",
+          "titulo": "Halozyme prevails in patent fight with Merck; Enliven readies anticipated leukemia trial",
+          "resumen": "A Dutch court barred Merck from selling subcutaneous Keytruda in several European countries. Elsewhere, an Insmed executive ended a seven-year run and two startups secured venture cash.",
+          "fuente": "Yahoo",
+          "fecha": "07 Oct 2026 15:21 UTC",
+          "url": "https://finnhub.io/api/news?id=ae1226bd9094f32438cd7331bcb6012f816a512141a53bdc5f6cebc33fd261be",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "INSM",
           "titulo": "INSM Stock Slides on CFO Exit, Reiterates '26 Sales View",
@@ -360,91 +471,19 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "Nasdaq 100 Hits Record, Brazil's EWZ Soars 13%: Stock Market Today",
-          "resumen": "Nasdaq 100 hits a record as Brazil&#39;s EWZ jumps 13% on Bolsonaro&#39;s election upset; ISM services prices hit a four-year high and the 10-year yield tops 5.3%.",
-          "fuente": "Benzinga",
-          "fecha": "05 Oct 2026 12:53 UTC",
-          "url": "https://finnhub.io/api/news?id=420d81619353dc41008d8bede89d6434cf407b32ffd2375f4580f15bc4ac695a",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/05/New-York--Ny--Usa---11-05-2024-Wall-Stre.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "Insmed Stock Slides — CFO Exit Date Set, 2026 Guidance Reaffirmed",
-          "resumen": "Insmed shares slip after CFO Sara Bonstein steps down, reaffirms 2026 financial targets.",
-          "fuente": "Benzinga",
-          "fecha": "05 Oct 2026 11:59 UTC",
-          "url": "https://finnhub.io/api/news?id=303e7a3d6efc8e4fbf1351d80aa1f87f9e2fb6433f94bb2bc647ca84149d6425",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/05/Insmed-Headquarters.jpg?width=2048&height=1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 5
+      "total": 4
     }
   },
   "resumen": {
-    "total_noticias": 23,
-    "tickers_con_noticias": 7,
-    "alertas_urgentes": 6,
-    "sin_noticias": 10
+    "total_noticias": 30,
+    "tickers_con_noticias": 10,
+    "alertas_urgentes": 8,
+    "sin_noticias": 7
   },
   "todas_noticias": [
-    {
-      "ticker": "OCUL",
-      "titulo": "Stocktwits Pharma Pulse: Roche Faces FDA Decision, Gene-Therapy Stocks Step Into Focus — The Week’s Biotech Watchlist",
-      "resumen": "Rocket, RegenXBio, Precision BioSciences, Kyverna and uniQure will present on Monday at a cell and gene-therapy conference.",
-      "fuente": "Yahoo",
-      "fecha": "05 Oct 2026 03:09 UTC",
-      "url": "https://finnhub.io/api/news?id=4cb88bc1b0cbb87ce43302eeb489ca2bc7c204edd68f72b2327890e7324f3496",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "OCUL",
-      "titulo": "3 Stocks Under $10 That Fall Short",
-      "resumen": "Stocks trading in the $1-10 range are generally smaller players with less risk than their penny stock counterparts. But that doesn’t mean the underlying businesses are cheap, and we advise caution as many have questionable fundamentals.",
-      "fuente": "Yahoo",
-      "fecha": "05 Oct 2026 11:39 UTC",
-      "url": "https://finnhub.io/api/news?id=ef996930bf812eba9fe806793f41753c2fd48b9566bf744b8807be2f9098c040",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "Insmed Stock Slides — CFO Exit Date Set, 2026 Guidance Reaffirmed",
-      "resumen": "Insmed shares slip after CFO Sara Bonstein steps down, reaffirms 2026 financial targets.",
-      "fuente": "Benzinga",
-      "fecha": "05 Oct 2026 11:59 UTC",
-      "url": "https://finnhub.io/api/news?id=303e7a3d6efc8e4fbf1351d80aa1f87f9e2fb6433f94bb2bc647ca84149d6425",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/05/Insmed-Headquarters.jpg?width=2048&height=1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vortex Energy Commissions Hydrogen and Helium Study at Robinsons River Salt Project",
-      "resumen": "Desktop study will use existing geological, geophysical and well data to assess natural hydrogen and helium potentialVANCOUVER, British Columbia, Oct. 05, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) is pleased to announce that it has c",
-      "fuente": "Yahoo",
-      "fecha": "05 Oct 2026 12:00 UTC",
-      "url": "https://finnhub.io/api/news?id=943cb8c1f83470d9cc644feb430e61cb7adee87a478c61044c0106a7f544aae2",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "VRTX",
       "titulo": "Nasdaq 100 Records Have Rarely Been This Narrow, 55 Stocks Are Still Below 50-Day Average",
@@ -489,18 +528,6 @@
       "fecha": "06 Oct 2026 06:13 UTC",
       "url": "https://finnhub.io/api/news?id=64e8feaa5bebd866362af05857dd3615e6f456997b2380633ef07012abc6d3a2",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "Viking Therapeutics Begins Exploratory Oral Maintenance Dosing Study Of VK2735, Its Dual Agonist Of Glucagon-Like Peptide 1 And Glucose-Dependent Insulinotropic Polypeptide Receptors",
-      "resumen": "VK2375 is being developed in both oral and subcutaneous formulations for the potential treatment of various metabolic disorders such as obesity. The trial announced today is the second in a two-part maintenance study",
-      "fuente": "Benzinga",
-      "fecha": "06 Oct 2026 07:09 UTC",
-      "url": "https://finnhub.io/api/news?id=cc57c61cbf6c4667d7bd74f0f963cf6f771eccde7396d069b7f325c09632b82b",
-      "imagen": "",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
@@ -566,52 +593,100 @@
       "badge": "🔴"
     },
     {
-      "ticker": "ARGX",
-      "titulo": "10 Wall Street Analysts Think Argenx Stock Is Headed to At Least $1,200 -- Is the Stock a Buy Now?",
-      "resumen": "This biotech stock could soar 30% or more over the next 12 months if some analysts are right.",
+      "ticker": "DYN",
+      "titulo": "Why Dyne Therapeutics (DYN) Is Back In The Spotlight",
+      "resumen": "Dyne Therapeutics (DYN) has drawn fresh attention after releasing one year efficacy and safety data from the Phase 1/2 ACHIEVE trial of DYNE-101 in myotonic dystrophy type 1, highlighting functional gains compared with baseline and natural history cohorts. Recent enthusiasm around Dyne Therapeutics ",
       "fuente": "Yahoo",
-      "fecha": "05 Oct 2026 08:46 UTC",
-      "url": "https://finnhub.io/api/news?id=c628411b3ccc574b4e45df220559a2ba8d4ac1f734fbc33223e72b953e72f696",
+      "fecha": "07 Oct 2026 14:12 UTC",
+      "url": "https://finnhub.io/api/news?id=f932a6aa36351a2bc0ca4c1eeb5005f2dc16bf641fb9c3cebfaff0b12676d133",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals Incorporated (VRTX) is Attracting Investor Attention: Here is What You Should Know",
-      "resumen": "Vertex (VRTX) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+      "ticker": "ABVX",
+      "titulo": "Abivax (ABVX): Cleared Safety Overhang and Phase 3 Data De-Risk Path to Commercialization",
+      "resumen": "Michigan-based investment advisor Cedar Grove Capital Management recently released its third-quarter 2026 investor letter. The letter can be downloaded here. In Q3 2026, Cedar Grove Capital Management’s Multi-Strategy Composite returned -12.7%, trailing the Russell 2000 (-7.2%), Russell Microcap (-7",
       "fuente": "Yahoo",
-      "fecha": "05 Oct 2026 12:00 UTC",
-      "url": "https://finnhub.io/api/news?id=1796d84c2e8a9f60a1a7b9d29266b5788128dd7ef6544af57255d46a92509159",
+      "fecha": "07 Oct 2026 15:02 UTC",
+      "url": "https://finnhub.io/api/news?id=cb3331124bcbdc85a201fc4a48ef5aa8f776f3142173939c0eaba262b0ea6e8c",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "Here Are My Top 4 Stocks to Buy in October",
-      "resumen": "Get 'em while they're still on sale. Catalysts are on the horizon.",
-      "fuente": "Yahoo",
-      "fecha": "05 Oct 2026 12:44 UTC",
-      "url": "https://finnhub.io/api/news?id=c4e3dc7dcd715b8a8121b50abdd4b358eaf96565f4dd531057bcc7bfff41fa56",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "INSM",
-      "titulo": "Nasdaq 100 Hits Record, Brazil's EWZ Soars 13%: Stock Market Today",
-      "resumen": "Nasdaq 100 hits a record as Brazil&#39;s EWZ jumps 13% on Bolsonaro&#39;s election upset; ISM services prices hit a four-year high and the 10-year yield tops 5.3%.",
+      "titulo": "Halozyme prevails in patent fight with Merck; Enliven readies anticipated leukemia trial",
+      "resumen": "A Dutch court barred Merck from selling subcutaneous Keytruda in several European countries. Elsewhere, an Insmed executive ended a seven-year run and two startups secured venture cash.",
+      "fuente": "Yahoo",
+      "fecha": "07 Oct 2026 15:21 UTC",
+      "url": "https://finnhub.io/api/news?id=ae1226bd9094f32438cd7331bcb6012f816a512141a53bdc5f6cebc33fd261be",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex to Announce Third Quarter 2026 Financial Results November 2nd",
+      "resumen": "BOSTON, October 07, 2026--Vertex Pharmaceuticals Incorporated (Nasdaq: VRTX) will report its third quarter 2026 financial results on Monday, November 2, 2026, after the financial markets close. The company will host a conference call and webcast at 4:30 p.m. ET. To access the call, please dial (833)",
+      "fuente": "Yahoo",
+      "fecha": "07 Oct 2026 20:00 UTC",
+      "url": "https://finnhub.io/api/news?id=171419e8f3d4371fa9aeba7aff9191a02d227a86a40539d8b98c67c7d01a1ee7",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "argenx Provides Update on Phase 3 UNITY Study of Efgartigimod SC in Sjögren's Disease",
+      "resumen": "October 8, 2026, 7:00 AM CET Amsterdam, the Netherlands – argenx SE (Euronext & Nasdaq: ARGX), a global immunology innovation company, today announced that it will discontinue the Phase 3 UNITY study of efgartigimod subcutaneous (SC) (efgartigimod alfa and hyaluronidase-qvfc) in adults with moderate",
+      "fuente": "Yahoo",
+      "fecha": "08 Oct 2026 05:00 UTC",
+      "url": "https://finnhub.io/api/news?id=fc9a3c4ca11d4ea7ed8f8e60a9d722a85877e896d174350cab8f8407d8abfede",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "argenx Announces Positive Topline Results from Phase 2 Study of FB102 in Celiac Disease",
+      "resumen": "Study met primary endpoint of change from baseline in the ratio of Vh:Cd (p=0.0176)First Phase 2 evidence that blocking CD122 can prevent gluten-induced intestinal damage in people living with celiac diseaseargenx plans to advance FB102 into Phase 3 development October 8, 2026, 7:00 AM CET Amsterdam",
+      "fuente": "Yahoo",
+      "fecha": "08 Oct 2026 05:00 UTC",
+      "url": "https://finnhub.io/api/news?id=96581c7ffc9ddc33b5d00f91496b39c72fbba579787e2ea34523341141914a0b",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "Argenx, Caribou Biosciences And Other Big Stocks Moving Lower In Thursday’s Pre-Market Session",
+      "resumen": "U.S. stock futures fell, with Dow futures down 450 points. Argenx sank 8.7% after a Sjögren’s trial was halted for futility; others also slid.",
       "fuente": "Benzinga",
-      "fecha": "05 Oct 2026 12:53 UTC",
-      "url": "https://finnhub.io/api/news?id=420d81619353dc41008d8bede89d6434cf407b32ffd2375f4580f15bc4ac695a",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/05/New-York--Ny--Usa---11-05-2024-Wall-Stre.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "fecha": "08 Oct 2026 08:07 UTC",
+      "url": "https://finnhub.io/api/news?id=df879d940045a82c119eaaebfde17082b8e5178ef4fa71853266672f35eb8051",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/08/Section-Of-A-Financial-Newspaper-Titled-.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam Pharmaceuticals (NASDAQ:ALNY): A Decent Value Stock Balancing Undervaluation and Growth",
+      "resumen": "ALNY screens as decent value: peer-relative discount, strong growth and profitability, but leverage, dilution, and earnings volatility pose risks.",
+      "fuente": "ChartMill",
+      "fecha": "08 Oct 2026 10:50 UTC",
+      "url": "https://finnhub.io/api/news?id=a61385a231db9f728e7408ed93959026ebd49cd9db62c758c7702d77ef70d03a",
+      "imagen": "https://www.chartmill.com/images/uploads/Undervalued_500_264px_webp_74997b3ff2.webp",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "INSM",
@@ -662,6 +737,18 @@
       "badge": "🔵"
     },
     {
+      "ticker": "SENS",
+      "titulo": "Barclays Initiates Coverage On Senseonics Holdings with Equal-Weight Rating, Announces Price Target of $10",
+      "resumen": "Barclays  analyst Christopher Pasquale   initiates coverage on Senseonics Holdings (NASDAQ:SENS) with a Equal-Weight rating and announces Price Target of $10.",
+      "fuente": "Benzinga",
+      "fecha": "07 Oct 2026 09:11 UTC",
+      "url": "https://finnhub.io/api/news?id=760e1e757c15dcee27ab0a176069e54cc27c3b55cb837ed939cd15f2caab3262",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
       "ticker": "VRTX",
       "titulo": "NVIDIA And 2 Elite Undervalued Stocks To Own",
       "resumen": "Global public debt now sits near 100% of GDP, and the IMF is signaling a return to spending cuts and tighter money. That kind of backdrop often pushes investors toward companies that generate solid cash, carry sensible debt levels, and still trade as if they are largely overlooked. This article brea",
@@ -669,6 +756,90 @@
       "fecha": "07 Oct 2026 09:24 UTC",
       "url": "https://finnhub.io/api/news?id=850cee1d2d2199d33e784edd409b737c35f19becfe776b1cac3049376df916ca",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Truist Securities Maintains Buy on Viking Therapeutics, Lowers Price Target to $85",
+      "resumen": "Truist Securities  analyst Joon Lee   maintains Viking Therapeutics (NASDAQ:VKTX) with a Buy and lowers the price target from $87 to $85.",
+      "fuente": "Benzinga",
+      "fecha": "07 Oct 2026 13:14 UTC",
+      "url": "https://finnhub.io/api/news?id=5e964f854bd7dce58322a743c1de235d05e95fb4440d2baaf58b87c1ef16ce44",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "SENS",
+      "titulo": "Intel downgraded, Marvell upgraded: Wall Street's top analyst calls",
+      "resumen": "Intel downgraded, Marvell upgraded: Wall Street's top analyst calls",
+      "fuente": "Yahoo",
+      "fecha": "07 Oct 2026 14:00 UTC",
+      "url": "https://finnhub.io/api/news?id=c9045c53ac19ad80d94a07c2e8320fa134ac76c18ad5824d79898864952688d5",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "ETON Stock Surges 108% in Six Months: Here's What You Need to Know",
+      "resumen": "Eton's sales surge, raised 2026 outlook and expanding rare-disease portfolio are boosting confidence in its growth.",
+      "fuente": "Yahoo",
+      "fecha": "07 Oct 2026 15:08 UTC",
+      "url": "https://finnhub.io/api/news?id=3aad35ca174fbb5cc37b30324d7245105c71732d4b082d56875c784ca0d40aad",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "VKTX Advances Obesity Program With New Oral Maintenance Study",
+      "resumen": "VK2735's oral maintenance study could expand Viking Therapeutics' obesity strategy by helping sustain weight loss with less frequent dosing.",
+      "fuente": "Yahoo",
+      "fecha": "07 Oct 2026 15:17 UTC",
+      "url": "https://finnhub.io/api/news?id=aa133e61f99d01eb31fb3f910dec5883af8e05c0e216cd3141cf968942829a9c",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ABVX",
+      "titulo": "Cedar Grove Capital Q3 2026 Portfolio Update",
+      "resumen": "During the quarter, we closed our long positions in MTY Food Group, uniQure, ClearPoint Neuro, and Suja Life Inc. Read more here.",
+      "fuente": "SeekingAlpha",
+      "fecha": "07 Oct 2026 15:48 UTC",
+      "url": "https://finnhub.io/api/news?id=8199d09c1f9f7471d9cef46b9b5a0f5819c04e5dd45efce183f4205620b9542b",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2231926077/image_2231926077.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "12 Health Care Stocks Moving In Thursday's Pre-Market Session",
+      "resumen": "Gainers\n\nProfound Medical (NASDAQ:PROF) shares moved upwards by 21.5% to $6.9 during Thursday&#39;s pre-market session. The company&#39;s market cap stands at $207.5 million. \nHaemonetics (NYSE:HAE) stock moved upwards",
+      "fuente": "Benzinga",
+      "fecha": "08 Oct 2026 08:05 UTC",
+      "url": "https://finnhub.io/api/news?id=239f355c7f176766da94b5321e12e702de7527c5ab15919e0975b42fd128d36c",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_1.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "Thursday's pre-market session: top gainers and losers",
+      "resumen": "The US market is yet to commence its session on Thursday, but let's get a preview of the pre-market session and explore the top gainers and losers driving the early market movements.",
+      "fuente": "ChartMill",
+      "fecha": "08 Oct 2026 12:30 UTC",
+      "url": "https://finnhub.io/api/news?id=ae1d5398ae1b3291fbae5c46af29a4210112c3f82817a728fcc143aca7553f9c",
+      "imagen": "https://www.chartmill.com/images/uploads/CM_Premarket_Movers_Small_free_90289f6b81.webp",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

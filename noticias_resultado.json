@@ -1,8 +1,8 @@
 {
-  "generado": "08/10/2026 14:32 UTC",
+  "generado": "09/10/2026 14:19 UTC",
   "plazo_horas": 72,
-  "desde": "2026-10-05",
-  "hasta": "2026-10-08",
+  "desde": "2026-10-06",
+  "hasta": "2026-10-09",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -15,47 +15,23 @@
       "noticias": [
         {
           "ticker": "ARGX",
-          "titulo": "Thursday's pre-market session: top gainers and losers",
-          "resumen": "The US market is yet to commence its session on Thursday, but let's get a preview of the pre-market session and explore the top gainers and losers driving the early market movements.",
-          "fuente": "ChartMill",
-          "fecha": "08 Oct 2026 12:30 UTC",
-          "url": "https://finnhub.io/api/news?id=ae1d5398ae1b3291fbae5c46af29a4210112c3f82817a728fcc143aca7553f9c",
-          "imagen": "https://www.chartmill.com/images/uploads/CM_Premarket_Movers_Small_free_90289f6b81.webp",
+          "titulo": "Baird Maintains Neutral on argenx, Lowers Price Target to $823",
+          "resumen": "Baird  analyst Colleen Kusy   maintains argenx (NASDAQ:ARGX) with a Neutral and lowers the price target from $932 to $823.",
+          "fuente": "Benzinga",
+          "fecha": "09 Oct 2026 09:29 UTC",
+          "url": "https://finnhub.io/api/news?id=64cc3a704a27d0277a5d46ceac63542e74cc60a0b899f63c2ffd1d419ccfd59a",
+          "imagen": "",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         },
         {
           "ticker": "ARGX",
-          "titulo": "Argenx, Caribou Biosciences And Other Big Stocks Moving Lower In Thursday’s Pre-Market Session",
-          "resumen": "U.S. stock futures fell, with Dow futures down 450 points. Argenx sank 8.7% after a Sjögren’s trial was halted for futility; others also slid.",
-          "fuente": "Benzinga",
-          "fecha": "08 Oct 2026 08:07 UTC",
-          "url": "https://finnhub.io/api/news?id=df879d940045a82c119eaaebfde17082b8e5178ef4fa71853266672f35eb8051",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/08/Section-Of-A-Financial-Newspaper-Titled-.jpg?width=2048&height=1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "12 Health Care Stocks Moving In Thursday's Pre-Market Session",
-          "resumen": "Gainers\n\nProfound Medical (NASDAQ:PROF) shares moved upwards by 21.5% to $6.9 during Thursday&#39;s pre-market session. The company&#39;s market cap stands at $207.5 million. \nHaemonetics (NYSE:HAE) stock moved upwards",
-          "fuente": "Benzinga",
-          "fecha": "08 Oct 2026 08:05 UTC",
-          "url": "https://finnhub.io/api/news?id=239f355c7f176766da94b5321e12e702de7527c5ab15919e0975b42fd128d36c",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_1.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "argenx Provides Update on Phase 3 UNITY Study of Efgartigimod SC in Sjögren's Disease",
-          "resumen": "October 8, 2026, 7:00 AM CET Amsterdam, the Netherlands – argenx SE (Euronext & Nasdaq: ARGX), a global immunology innovation company, today announced that it will discontinue the Phase 3 UNITY study of efgartigimod subcutaneous (SC) (efgartigimod alfa and hyaluronidase-qvfc) in adults with moderate",
+          "titulo": "ARGX Stock Sinks as Argenx Scraps Late-Stage Trial",
+          "resumen": "Argenx shares sink as the company discontinues a Phase 3 trial of Vyvgart in Sjögren’s disease. Is the selloff an opportunity for long-term investors?",
           "fuente": "Yahoo",
-          "fecha": "08 Oct 2026 05:00 UTC",
-          "url": "https://finnhub.io/api/news?id=fc9a3c4ca11d4ea7ed8f8e60a9d722a85877e896d174350cab8f8407d8abfede",
+          "fecha": "08 Oct 2026 21:03 UTC",
+          "url": "https://finnhub.io/api/news?id=5c146ca49f8eaf54e20888e67d92188082b8d64a116f31067c2baf0e587c3575",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -63,15 +39,39 @@
         },
         {
           "ticker": "ARGX",
-          "titulo": "argenx Announces Positive Topline Results from Phase 2 Study of FB102 in Celiac Disease",
-          "resumen": "Study met primary endpoint of change from baseline in the ratio of Vh:Cd (p=0.0176)First Phase 2 evidence that blocking CD122 can prevent gluten-induced intestinal damage in people living with celiac diseaseargenx plans to advance FB102 into Phase 3 development October 8, 2026, 7:00 AM CET Amsterdam",
+          "titulo": "Former Highflier Argenx Plummets On A Surprise Setback In Sjogren's",
+          "resumen": "Argenx unexpectedly scrapped a study of its drug, Vyvgart, in patients with Sjogren's disease on Thursday. The stock plummeted in response.",
           "fuente": "Yahoo",
-          "fecha": "08 Oct 2026 05:00 UTC",
-          "url": "https://finnhub.io/api/news?id=96581c7ffc9ddc33b5d00f91496b39c72fbba579787e2ea34523341141914a0b",
+          "fecha": "08 Oct 2026 20:21 UTC",
+          "url": "https://finnhub.io/api/news?id=dc6533dc2e9ff30caaea56877baf2b8fd69c924ce2059dce573a54e72a4be388",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ARGX",
+          "titulo": "Sector Update: Healthcare Stocks Softer Late Afternoon",
+          "resumen": "Healthcare stocks were lower late Thursday afternoon, with the NYSE Healthcare Index shedding 0.6% a",
+          "fuente": "Yahoo",
+          "fecha": "08 Oct 2026 19:53 UTC",
+          "url": "https://finnhub.io/api/news?id=4983ec76756a35e64873863728a2435deff312c722d2a4d1822b3c1d3bdab976",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ARGX",
+          "titulo": "$100 Invested In argenx 5 Years Ago Would Be Worth This Much Today",
+          "resumen": "argenx (NASDAQ:ARGX) has outperformed the market over the past 5 years by 10.42% on an annualized basis producing an average annual return of 22.71%. Currently, argenx has a market capitalization of $58.39 billion.",
+          "fuente": "Benzinga",
+          "fecha": "08 Oct 2026 18:45 UTC",
+          "url": "https://finnhub.io/api/news?id=228c696e7f0686ebcdc041fbfef0665d07da71741f7f8157d50f332b9923a0cb",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_2.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -80,6 +80,30 @@
     "DYN": {
       "nombre": "DYN",
       "noticias": [
+        {
+          "ticker": "DYN",
+          "titulo": "12 Health Care Stocks Moving In Friday's Pre-Market Session",
+          "resumen": "Gainers\n\nHumana (NYSE:HUM) stock moved upwards by 16.2% to $450.0 during Friday&#39;s pre-market session. The market value of their outstanding shares is at $46.4 billion. \nXORTX Therapeutics (NASDAQ:XRTX) shares",
+          "fuente": "Benzinga",
+          "fecha": "09 Oct 2026 08:05 UTC",
+          "url": "https://finnhub.io/api/news?id=cdf863a062aea1491c801100873531d2846bb86cc5045687a32fe1a61b587f14",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_4.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "DYN",
+          "titulo": "Top 4 Healthcare Stocks Backed by Raymond James Analysts",
+          "resumen": "Investing.com -- Raymond James has identified its top stock picks in the healthcare sector, highlighting companies with upcoming clinical trial results and promising drug development programs. The firm’s Analyst Current Favorites list features biotechnology companies positioned for potential catalys",
+          "fuente": "Yahoo",
+          "fecha": "08 Oct 2026 14:09 UTC",
+          "url": "https://finnhub.io/api/news?id=99faefb6215a07ea853ed153db4ab2951ab26063628177e46b46ee51a8cfd798",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "DYN",
           "titulo": "Why Dyne Therapeutics (DYN) Is Back In The Spotlight",
@@ -94,17 +118,66 @@
         }
       ],
       "nivel": "rojo",
-      "total": 1
+      "total": 3
     },
     "DNLI": {
       "nombre": "DNLI",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "DNLI",
+          "titulo": "Is Denali Therapeutics (DNLI) Undervalued As Its Share Price Pullback Tests Fair Value?",
+          "resumen": "Denali Therapeutics (DNLI) has pulled back sharply, with the share price down about 15% over the past month and 27% in the past 3 months. This decline has drawn fresh attention to its valuation. Short term momentum for Denali Therapeutics has clearly cooled, with the 7 day share price return down 9.",
+          "fuente": "Yahoo",
+          "fecha": "09 Oct 2026 07:15 UTC",
+          "url": "https://finnhub.io/api/news?id=9dda2aa8ba27ca3bc7a3449cfcab4439b521eff6c941c2eda9a84bce057cf067",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "VKTX": {
       "nombre": "VKTX",
       "noticias": [
+        {
+          "ticker": "VKTX",
+          "titulo": "Viking Therapeutics, Inc. (VKTX) Dips More Than Broader Market: What You Should Know",
+          "resumen": "In the closing of the recent trading day, Viking Therapeutics, Inc. (VKTX) stood at $27.73, denoting a -2.84% move from the preceding trading day.",
+          "fuente": "Yahoo",
+          "fecha": "08 Oct 2026 20:50 UTC",
+          "url": "https://finnhub.io/api/news?id=a33df3a9799af31a71618eb35728788fb1fdb2b02619f401d225d322df073e24",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "Analyst Predicts 316% Upside for Viking Therapeutics Stock Despite 30%+ Loss in Last 3 Months",
+          "resumen": "Key TakeawaysCannacord has set a $114 price target for Viking Therapeutics, which implies 316% from today’s price. The rest of Wall Street is bullish too: the consensus target is $95, and even the lowest of 19 targets, $38, sits above the stock.",
+          "fuente": "Yahoo",
+          "fecha": "08 Oct 2026 17:09 UTC",
+          "url": "https://finnhub.io/api/news?id=175c64e2ef9e65322ea9ad91e80e4ab9526eb01817cc1fd87c8184af0ddf6a25",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "LLY Stock Down 2% in 3 Months: Is the Dip a Buying Opportunity?",
+          "resumen": "LLY's recent dip reflects valuation and competition concerns, but strong GLP-1 demand, pipeline growth and diversification support its long-term outlook.",
+          "fuente": "Yahoo",
+          "fecha": "08 Oct 2026 11:31 UTC",
+          "url": "https://finnhub.io/api/news?id=ed80fe6940b9d917059c575f41ecda082bf976316cd138c68794ec08016718db",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "VKTX",
           "titulo": "VKTX Advances Obesity Program With New Oral Maintenance Study",
@@ -128,50 +201,38 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "INSM Stock Slides on CFO Exit, Reiterates '26 Sales View",
-          "resumen": "Insmed shares slide after CFO Sara Bonstein's surprise exit, though the company reaffirms 2026 revenue guidance for Brinsupri and Arikayce.",
-          "fuente": "Yahoo",
-          "fecha": "06 Oct 2026 14:29 UTC",
-          "url": "https://finnhub.io/api/news?id=9d89036aa73c7e6e5e8e095290b955387a0a9fcb06c5a3fab704199ae633b5ec",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "VKTX Down 16% in a Month: Time to Invest or Exit the Stock?",
-          "resumen": "Viking Therapeutics faces dilution and rising obesity competition, but VK2735's pipeline progress could offer catalysts and support a rebound.",
-          "fuente": "Yahoo",
-          "fecha": "06 Oct 2026 12:13 UTC",
-          "url": "https://finnhub.io/api/news?id=2ba4dbdedf49331366cb3b99fb15dfa6bd20d2e77a1530f1415d42aa0db6e5fb",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "Viking Therapeutics Announces Initiation of VK2735 Oral Maintenance Dosing Clinical Trial in Patients with Obesity",
-          "resumen": "Viking Therapeutics, Inc. (Viking) (NASDAQ: VKTX), a clinical-stage biopharmaceutical company focused on the development of novel therapies for metabolic and endocrine disorders, today announced the initiation of an exploratory oral maintenance dosing study of VK2735, the company's dual agonist of t",
-          "fuente": "Yahoo",
-          "fecha": "06 Oct 2026 11:05 UTC",
-          "url": "https://finnhub.io/api/news?id=58917f3c1472a34bf1b7914e510cb1ec76153f6490e38ef1a6feeaabfc1a90c9",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
-      "nivel": "rojo",
+      "nivel": "azul",
       "total": 5
     },
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
+        {
+          "ticker": "VRTX",
+          "titulo": "Why Pacira BioSciences Stock Is Having Its Best Day Ever After $1.7 Billion Viatris Acquisition",
+          "resumen": "Viatris has agreed to acquire Pacira BioXciences, acquiring its portfolio of non-opioid pain medications.",
+          "fuente": "Yahoo",
+          "fecha": "08 Oct 2026 17:29 UTC",
+          "url": "https://finnhub.io/api/news?id=432e0925ebab3aeb2ff78568017b127382217a73fb75460d7f75b5111e5a2c09",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Andrew Hill Investment Fund Sees More Growth Ahead for Vertex (VRTX): Here’s Why",
+          "resumen": "Andrew Hill Investment Advisors recently released its third-quarter 2026 investor letter. A copy of the letter can be downloaded here. The fund navigated a mixed third-quarter investment environment in which rising oil prices, higher interest rates, and persistent inflation created headwinds for equ",
+          "fuente": "Yahoo",
+          "fecha": "08 Oct 2026 13:59 UTC",
+          "url": "https://finnhub.io/api/news?id=e6f46e10b531fadf9511813c96e130f8dcb6ef08c2be2d1a0d6dc481a193f9a5",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "VRTX",
           "titulo": "Vertex to Announce Third Quarter 2026 Financial Results November 2nd",
@@ -195,30 +256,6 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Novavax (NVAX) Surges 20.1%: Is This an Indication of Further Gains?",
-          "resumen": "Novavax (NVAX) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions could translate into further price increase in the near term.",
-          "fuente": "Yahoo",
-          "fecha": "06 Oct 2026 06:13 UTC",
-          "url": "https://finnhub.io/api/news?id=64e8feaa5bebd866362af05857dd3615e6f456997b2380633ef07012abc6d3a2",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Nasdaq 100 Records Have Rarely Been This Narrow, 55 Stocks Are Still Below 50-Day Average",
-          "resumen": "The Nasdaq 100 trades at records Monday, yet 55 of its 101 stocks sit below their 50-day average. QQQ has beaten equal-weight QQQE by 8% since late July.",
-          "fuente": "Benzinga",
-          "fecha": "05 Oct 2026 15:00 UTC",
-          "url": "https://finnhub.io/api/news?id=d78ffd39021735e4739cfbbd4e7ce2c89bcdbad94ff4f003fc44637d8d221831",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/05/Nasdaq-Inscription-Next-To-Us-Dollars--T.jpg?width=2048&height=1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
@@ -227,6 +264,42 @@
     "ALNY": {
       "nombre": "ALNY",
       "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam Pharmaceuticals (ALNY) Looks Undervalued On Paper, Can Its RNAi Pipeline Support Fair Value?",
+          "resumen": "Alnylam Pharmaceuticals (ALNY) has drawn fresh attention after a stretch of weak share performance, with the stock down 16% over the past month and 28% across the past 3 months. Short term momentum for Alnylam Pharmaceuticals has clearly cooled, with the 7 day share price return down 9.05% and the y",
+          "fuente": "Yahoo",
+          "fecha": "08 Oct 2026 18:08 UTC",
+          "url": "https://finnhub.io/api/news?id=80cff632dcda0a1176c063b860a7f8f2fa008faee6a885fe3000330815a0bf88",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Here's Why You Should Add LPCN Stock to Your Portfolio Now",
+          "resumen": "Lipocine's Tlando royalties, Brlizio's phase III trial and broader pipeline offer multiple potential growth drivers and catalysts.",
+          "fuente": "Yahoo",
+          "fecha": "08 Oct 2026 13:57 UTC",
+          "url": "https://finnhub.io/api/news?id=0de5b1f86fd7718fcdc4f109df6769c303aece2c3b38ae875c917dc410abb622",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Ultragenyx to Sell Rare Pediatric Disease PRV for $210M to Boost Cash",
+          "resumen": "RARE enters into an agreement to sell a Rare Pediatric Disease PRV for $210M, adding non-dilutive cash as it advances rare-disease therapies.",
+          "fuente": "Yahoo",
+          "fecha": "08 Oct 2026 13:49 UTC",
+          "url": "https://finnhub.io/api/news?id=2a13e6900f30bf9bdcf9908b96b660656f62912eda4087b6089622844b604310",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "ALNY",
           "titulo": "Alnylam Pharmaceuticals (NASDAQ:ALNY): A Decent Value Stock Balancing Undervaluation and Growth",
@@ -250,34 +323,10 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "PCRX Expands Exparel Commercial Reach in Europe Through Molteni Deal",
-          "resumen": "Pacira expands Exparel's European reach through Molteni, adding new markets and revenue streams, with the first commercial sale in Europe expected in 2027.",
-          "fuente": "Yahoo",
-          "fecha": "06 Oct 2026 13:30 UTC",
-          "url": "https://finnhub.io/api/news?id=dfb5bef6bc348bf34c15e0109bbfbe538de03047c72d6225460522077868dc80",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Nasdaq 100 Records Have Rarely Been This Narrow, 55 Stocks Are Still Below 50-Day Average",
-          "resumen": "The Nasdaq 100 trades at records Monday, yet 55 of its 101 stocks sit below their 50-day average. QQQ has beaten equal-weight QQQE by 8% since late July.",
-          "fuente": "Benzinga",
-          "fecha": "05 Oct 2026 15:00 UTC",
-          "url": "https://finnhub.io/api/news?id=d78ffd39021735e4739cfbbd4e7ce2c89bcdbad94ff4f003fc44637d8d221831",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/05/Nasdaq-Inscription-Next-To-Us-Dollars--T.jpg?width=2048&height=1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 4
+      "total": 5
     },
     "BEAM": {
       "nombre": "BEAM",
@@ -290,6 +339,18 @@
       "noticias": [
         {
           "ticker": "OCUL",
+          "titulo": "Top 4 Healthcare Stocks Backed by Raymond James Analysts",
+          "resumen": "Investing.com -- Raymond James has identified its top stock picks in the healthcare sector, highlighting companies with upcoming clinical trial results and promising drug development programs. The firm’s Analyst Current Favorites list features biotechnology companies positioned for potential catalys",
+          "fuente": "Yahoo",
+          "fecha": "08 Oct 2026 14:09 UTC",
+          "url": "https://finnhub.io/api/news?id=99faefb6215a07ea853ed153db4ab2951ab26063628177e46b46ee51a8cfd798",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "OCUL",
           "titulo": "Ocular Therapeutix, Inc. (OCUL) Presents at Euretina 2026 - Slideshow",
           "resumen": "2026-10-06. The following slide deck was published by Ocular Therapeutix, Inc.",
           "fuente": "SeekingAlpha",
@@ -299,47 +360,35 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
+        }
+      ],
+      "nivel": "rojo",
+      "total": 2
+    },
+    "CAI": {
+      "nombre": "CAI",
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
+    },
+    "GPCR": {
+      "nombre": "GPCR",
+      "noticias": [
         {
-          "ticker": "OCUL",
-          "titulo": "Top 3 Health Care Stocks Which Could Rescue Your Portfolio This Quarter",
-          "resumen": "Oversold health care stocks Align Technology, Dianthus Therapeutics and Ocular Therapeutix show RSI readings near or below 30, signaling potential value.",
-          "fuente": "Benzinga",
-          "fecha": "06 Oct 2026 06:23 UTC",
-          "url": "https://finnhub.io/api/news?id=01fdf54c7e15316d6433b4164052c40c9973390ed6d4eb26c67ace7c79612048",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/06/Healthcare-stocks.jpg?width=2048&height=1536",
+          "ticker": "GPCR",
+          "titulo": "LLY Stock Down 2% in 3 Months: Is the Dip a Buying Opportunity?",
+          "resumen": "LLY's recent dip reflects valuation and competition concerns, but strong GLP-1 demand, pipeline growth and diversification support its long-term outlook.",
+          "fuente": "Yahoo",
+          "fecha": "08 Oct 2026 11:31 UTC",
+          "url": "https://finnhub.io/api/news?id=ed80fe6940b9d917059c575f41ecda082bf976316cd138c68794ec08016718db",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         }
       ],
       "nivel": "azul",
-      "total": 2
-    },
-    "CAI": {
-      "nombre": "CAI",
-      "noticias": [
-        {
-          "ticker": "CAI",
-          "titulo": "S&P 500, Nasdaq Hit Records, Power Stocks Rally on Google's Nuclear Deal: Stock Market Today",
-          "resumen": "S&amp;P 500 and Nasdaq 100 hit records as the 10-year yield retreats from a 24-year high; Constellation Energy jumps on a Google nuclear deal.",
-          "fuente": "Benzinga",
-          "fecha": "06 Oct 2026 13:11 UTC",
-          "url": "https://finnhub.io/api/news?id=d854387ea2b54afa3aae5bc2f3ae53045ac16ed0dc767504142c274ece5c100a",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/06/SP500.jpg?width=2048&height=1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
       "total": 1
-    },
-    "GPCR": {
-      "nombre": "GPCR",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
     },
     "ABVX": {
       "nombre": "ABVX",
@@ -374,9 +423,34 @@
     },
     "VERA": {
       "nombre": "VERA",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "VERA",
+          "titulo": "Alignment Healthcare, RenX Enterprises And Other Big Stocks Moving Lower In Friday’s Pre-Market Session",
+          "resumen": "U.S. futures rose, but Alignment Healthcare plunged 24% after a Medicare contract downgrade; telecom and other stocks also fell premarket.",
+          "fuente": "Benzinga",
+          "fecha": "09 Oct 2026 08:01 UTC",
+          "url": "https://finnhub.io/api/news?id=f4ce9984f500bca2fec7b0bab81048fd720efc49db5381aebbf2e86c2cf26b2b",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/09/Section-Of-A-Financial-Newspaper-Titled-.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VERA",
+          "titulo": "Do Vera Therapeutics' (VERA) High-Profile IgAN Data Show Durable Moat or Crowded Mechanism Risk?",
+          "resumen": "Vera Therapeutics recently announced that multiple company-sponsored abstracts, including final ORIGIN 3 efficacy data for TRUTAKNA in IgA nephropathy and interim PIONEER Phase 2 results, were presented as late-breaking sessions at ASN Kidney Week 2026 in Denver. The prominence of TRUTAKNA data in t",
+          "fuente": "Yahoo",
+          "fecha": "08 Oct 2026 15:15 UTC",
+          "url": "https://finnhub.io/api/news?id=78d1ab05700f476ca8094c9a32f90cd7e475cf5bac318bbae0498356d728a901",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 2
     },
     "ACRV": {
       "nombre": "ACRV",
@@ -393,6 +467,18 @@
     "SENS": {
       "nombre": "SENS",
       "noticias": [
+        {
+          "ticker": "SENS",
+          "titulo": "Senseonics: Eversense 365 Adoption Has To Earn The Valuation",
+          "resumen": "Senseonics's Eversense 365 CGM drives sales and margin gains, but adoption, funding, dilution, and valuation risks remain. Click here for more on SENS stock.",
+          "fuente": "SeekingAlpha",
+          "fecha": "08 Oct 2026 11:00 UTC",
+          "url": "https://finnhub.io/api/news?id=9440243e0030fc04bd6e204e986fb54135146e4f4ae446b21880be786f46d371",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2266925511/image_2266925511.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "SENS",
           "titulo": "Intel downgraded, Marvell upgraded: Wall Street's top analyst calls",
@@ -419,11 +505,23 @@
         }
       ],
       "nivel": "azul",
-      "total": 2
+      "total": 3
     },
     "INSM": {
       "nombre": "INSM",
       "noticias": [
+        {
+          "ticker": "INSM",
+          "titulo": "Does Insmed (INSM) CFO Exit With Reaffirmed Guidance Clarify Or Complicate Its Growth Narrative?",
+          "resumen": "Insmed Incorporated announced that Chief Financial Officer Sara Bonstein will step down after the company reported its third-quarter 2026 results and reaffirmed its full-year 2026 revenue guidance for BRINSUPRI® (brensocatib) of US$1.25 billion to US$1.40 billion and for ARIKAYCE® of US$450 million ",
+          "fuente": "Yahoo",
+          "fecha": "08 Oct 2026 08:10 UTC",
+          "url": "https://finnhub.io/api/news?id=5666cccb2a1730cde8aaab50ee4e9e1c734a8e2be0a2557b1460a221d6095d3b",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "INSM",
           "titulo": "Halozyme prevails in patent fight with Merck; Enliven readies anticipated leukemia trial",
@@ -447,139 +545,19 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "$100 Invested In Insmed 5 Years Ago Would Be Worth This Much Today",
-          "resumen": "Insmed (NASDAQ:INSM) has outperformed the market over the past 5 years by 17.45% on an annualized basis producing an average annual return of 29.54%. Currently, Insmed has a market capitalization of $22.80 billion.",
-          "fuente": "Benzinga",
-          "fecha": "05 Oct 2026 17:00 UTC",
-          "url": "https://finnhub.io/api/news?id=b7faae5e95e859fa2f91224a7858f2f05c5303b99669e7210fa88389a8d4c4bc",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_3.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "Insmed stock falls as CFO Sara Bonstein to step down",
-          "resumen": "Investing.com -- Insmed Inc (NASDAQ:INSM) shares fell 8% Monday after the company announced Chief Financial Officer Sara Bonstein will step down on October 30.",
-          "fuente": "Yahoo",
-          "fecha": "05 Oct 2026 15:14 UTC",
-          "url": "https://finnhub.io/api/news?id=7349904e86a22cc5e2b044a65aab517663db5f31383aa837514f99446034e720",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 4
+      "total": 3
     }
   },
   "resumen": {
-    "total_noticias": 30,
-    "tickers_con_noticias": 10,
+    "total_noticias": 36,
+    "tickers_con_noticias": 12,
     "alertas_urgentes": 8,
-    "sin_noticias": 7
+    "sin_noticias": 5
   },
   "todas_noticias": [
-    {
-      "ticker": "VRTX",
-      "titulo": "Nasdaq 100 Records Have Rarely Been This Narrow, 55 Stocks Are Still Below 50-Day Average",
-      "resumen": "The Nasdaq 100 trades at records Monday, yet 55 of its 101 stocks sit below their 50-day average. QQQ has beaten equal-weight QQQE by 8% since late July.",
-      "fuente": "Benzinga",
-      "fecha": "05 Oct 2026 15:00 UTC",
-      "url": "https://finnhub.io/api/news?id=d78ffd39021735e4739cfbbd4e7ce2c89bcdbad94ff4f003fc44637d8d221831",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/05/Nasdaq-Inscription-Next-To-Us-Dollars--T.jpg?width=2048&height=1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Nasdaq 100 Records Have Rarely Been This Narrow, 55 Stocks Are Still Below 50-Day Average",
-      "resumen": "The Nasdaq 100 trades at records Monday, yet 55 of its 101 stocks sit below their 50-day average. QQQ has beaten equal-weight QQQE by 8% since late July.",
-      "fuente": "Benzinga",
-      "fecha": "05 Oct 2026 15:00 UTC",
-      "url": "https://finnhub.io/api/news?id=d78ffd39021735e4739cfbbd4e7ce2c89bcdbad94ff4f003fc44637d8d221831",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/05/Nasdaq-Inscription-Next-To-Us-Dollars--T.jpg?width=2048&height=1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "Insmed stock falls as CFO Sara Bonstein to step down",
-      "resumen": "Investing.com -- Insmed Inc (NASDAQ:INSM) shares fell 8% Monday after the company announced Chief Financial Officer Sara Bonstein will step down on October 30.",
-      "fuente": "Yahoo",
-      "fecha": "05 Oct 2026 15:14 UTC",
-      "url": "https://finnhub.io/api/news?id=7349904e86a22cc5e2b044a65aab517663db5f31383aa837514f99446034e720",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Novavax (NVAX) Surges 20.1%: Is This an Indication of Further Gains?",
-      "resumen": "Novavax (NVAX) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions could translate into further price increase in the near term.",
-      "fuente": "Yahoo",
-      "fecha": "06 Oct 2026 06:13 UTC",
-      "url": "https://finnhub.io/api/news?id=64e8feaa5bebd866362af05857dd3615e6f456997b2380633ef07012abc6d3a2",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "Viking Therapeutics Announces Initiation of VK2735 Oral Maintenance Dosing Clinical Trial in Patients with Obesity",
-      "resumen": "Viking Therapeutics, Inc. (Viking) (NASDAQ: VKTX), a clinical-stage biopharmaceutical company focused on the development of novel therapies for metabolic and endocrine disorders, today announced the initiation of an exploratory oral maintenance dosing study of VK2735, the company's dual agonist of t",
-      "fuente": "Yahoo",
-      "fecha": "06 Oct 2026 11:05 UTC",
-      "url": "https://finnhub.io/api/news?id=58917f3c1472a34bf1b7914e510cb1ec76153f6490e38ef1a6feeaabfc1a90c9",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "CAI",
-      "titulo": "S&P 500, Nasdaq Hit Records, Power Stocks Rally on Google's Nuclear Deal: Stock Market Today",
-      "resumen": "S&amp;P 500 and Nasdaq 100 hit records as the 10-year yield retreats from a 24-year high; Constellation Energy jumps on a Google nuclear deal.",
-      "fuente": "Benzinga",
-      "fecha": "06 Oct 2026 13:11 UTC",
-      "url": "https://finnhub.io/api/news?id=d854387ea2b54afa3aae5bc2f3ae53045ac16ed0dc767504142c274ece5c100a",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/06/SP500.jpg?width=2048&height=1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "PCRX Expands Exparel Commercial Reach in Europe Through Molteni Deal",
-      "resumen": "Pacira expands Exparel's European reach through Molteni, adding new markets and revenue streams, with the first commercial sale in Europe expected in 2027.",
-      "fuente": "Yahoo",
-      "fecha": "06 Oct 2026 13:30 UTC",
-      "url": "https://finnhub.io/api/news?id=dfb5bef6bc348bf34c15e0109bbfbe538de03047c72d6225460522077868dc80",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "INSM Stock Slides on CFO Exit, Reiterates '26 Sales View",
-      "resumen": "Insmed shares slide after CFO Sara Bonstein's surprise exit, though the company reaffirms 2026 revenue guidance for Brinsupri and Arikayce.",
-      "fuente": "Yahoo",
-      "fecha": "06 Oct 2026 14:29 UTC",
-      "url": "https://finnhub.io/api/news?id=9d89036aa73c7e6e5e8e095290b955387a0a9fcb06c5a3fab704199ae633b5ec",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "INSM",
       "titulo": "INSM Stock Slides on CFO Exit, Reiterates '26 Sales View",
@@ -641,37 +619,13 @@
       "badge": "🔴"
     },
     {
-      "ticker": "ARGX",
-      "titulo": "argenx Provides Update on Phase 3 UNITY Study of Efgartigimod SC in Sjögren's Disease",
-      "resumen": "October 8, 2026, 7:00 AM CET Amsterdam, the Netherlands – argenx SE (Euronext & Nasdaq: ARGX), a global immunology innovation company, today announced that it will discontinue the Phase 3 UNITY study of efgartigimod subcutaneous (SC) (efgartigimod alfa and hyaluronidase-qvfc) in adults with moderate",
+      "ticker": "INSM",
+      "titulo": "Does Insmed (INSM) CFO Exit With Reaffirmed Guidance Clarify Or Complicate Its Growth Narrative?",
+      "resumen": "Insmed Incorporated announced that Chief Financial Officer Sara Bonstein will step down after the company reported its third-quarter 2026 results and reaffirmed its full-year 2026 revenue guidance for BRINSUPRI® (brensocatib) of US$1.25 billion to US$1.40 billion and for ARIKAYCE® of US$450 million ",
       "fuente": "Yahoo",
-      "fecha": "08 Oct 2026 05:00 UTC",
-      "url": "https://finnhub.io/api/news?id=fc9a3c4ca11d4ea7ed8f8e60a9d722a85877e896d174350cab8f8407d8abfede",
+      "fecha": "08 Oct 2026 08:10 UTC",
+      "url": "https://finnhub.io/api/news?id=5666cccb2a1730cde8aaab50ee4e9e1c734a8e2be0a2557b1460a221d6095d3b",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "argenx Announces Positive Topline Results from Phase 2 Study of FB102 in Celiac Disease",
-      "resumen": "Study met primary endpoint of change from baseline in the ratio of Vh:Cd (p=0.0176)First Phase 2 evidence that blocking CD122 can prevent gluten-induced intestinal damage in people living with celiac diseaseargenx plans to advance FB102 into Phase 3 development October 8, 2026, 7:00 AM CET Amsterdam",
-      "fuente": "Yahoo",
-      "fecha": "08 Oct 2026 05:00 UTC",
-      "url": "https://finnhub.io/api/news?id=96581c7ffc9ddc33b5d00f91496b39c72fbba579787e2ea34523341141914a0b",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "Argenx, Caribou Biosciences And Other Big Stocks Moving Lower In Thursday’s Pre-Market Session",
-      "resumen": "U.S. stock futures fell, with Dow futures down 450 points. Argenx sank 8.7% after a Sjögren’s trial was halted for futility; others also slid.",
-      "fuente": "Benzinga",
-      "fecha": "08 Oct 2026 08:07 UTC",
-      "url": "https://finnhub.io/api/news?id=df879d940045a82c119eaaebfde17082b8e5178ef4fa71853266672f35eb8051",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/08/Section-Of-A-Financial-Newspaper-Titled-.jpg?width=2048&height=1536",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
@@ -689,40 +643,88 @@
       "badge": "🔴"
     },
     {
-      "ticker": "INSM",
-      "titulo": "$100 Invested In Insmed 5 Years Ago Would Be Worth This Much Today",
-      "resumen": "Insmed (NASDAQ:INSM) has outperformed the market over the past 5 years by 17.45% on an annualized basis producing an average annual return of 29.54%. Currently, Insmed has a market capitalization of $22.80 billion.",
-      "fuente": "Benzinga",
-      "fecha": "05 Oct 2026 17:00 UTC",
-      "url": "https://finnhub.io/api/news?id=b7faae5e95e859fa2f91224a7858f2f05c5303b99669e7210fa88389a8d4c4bc",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_3.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "ticker": "ALNY",
+      "titulo": "Here's Why You Should Add LPCN Stock to Your Portfolio Now",
+      "resumen": "Lipocine's Tlando royalties, Brlizio's phase III trial and broader pipeline offer multiple potential growth drivers and catalysts.",
+      "fuente": "Yahoo",
+      "fecha": "08 Oct 2026 13:57 UTC",
+      "url": "https://finnhub.io/api/news?id=0de5b1f86fd7718fcdc4f109df6769c303aece2c3b38ae875c917dc410abb622",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Andrew Hill Investment Fund Sees More Growth Ahead for Vertex (VRTX): Here’s Why",
+      "resumen": "Andrew Hill Investment Advisors recently released its third-quarter 2026 investor letter. A copy of the letter can be downloaded here. The fund navigated a mixed third-quarter investment environment in which rising oil prices, higher interest rates, and persistent inflation created headwinds for equ",
+      "fuente": "Yahoo",
+      "fecha": "08 Oct 2026 13:59 UTC",
+      "url": "https://finnhub.io/api/news?id=e6f46e10b531fadf9511813c96e130f8dcb6ef08c2be2d1a0d6dc481a193f9a5",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "DYN",
+      "titulo": "Top 4 Healthcare Stocks Backed by Raymond James Analysts",
+      "resumen": "Investing.com -- Raymond James has identified its top stock picks in the healthcare sector, highlighting companies with upcoming clinical trial results and promising drug development programs. The firm’s Analyst Current Favorites list features biotechnology companies positioned for potential catalys",
+      "fuente": "Yahoo",
+      "fecha": "08 Oct 2026 14:09 UTC",
+      "url": "https://finnhub.io/api/news?id=99faefb6215a07ea853ed153db4ab2951ab26063628177e46b46ee51a8cfd798",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "OCUL",
-      "titulo": "Top 3 Health Care Stocks Which Could Rescue Your Portfolio This Quarter",
-      "resumen": "Oversold health care stocks Align Technology, Dianthus Therapeutics and Ocular Therapeutix show RSI readings near or below 30, signaling potential value.",
-      "fuente": "Benzinga",
-      "fecha": "06 Oct 2026 06:23 UTC",
-      "url": "https://finnhub.io/api/news?id=01fdf54c7e15316d6433b4164052c40c9973390ed6d4eb26c67ace7c79612048",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/06/Healthcare-stocks.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "titulo": "Top 4 Healthcare Stocks Backed by Raymond James Analysts",
+      "resumen": "Investing.com -- Raymond James has identified its top stock picks in the healthcare sector, highlighting companies with upcoming clinical trial results and promising drug development programs. The firm’s Analyst Current Favorites list features biotechnology companies positioned for potential catalys",
+      "fuente": "Yahoo",
+      "fecha": "08 Oct 2026 14:09 UTC",
+      "url": "https://finnhub.io/api/news?id=99faefb6215a07ea853ed153db4ab2951ab26063628177e46b46ee51a8cfd798",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "VKTX",
-      "titulo": "VKTX Down 16% in a Month: Time to Invest or Exit the Stock?",
-      "resumen": "Viking Therapeutics faces dilution and rising obesity competition, but VK2735's pipeline progress could offer catalysts and support a rebound.",
+      "ticker": "VERA",
+      "titulo": "Do Vera Therapeutics' (VERA) High-Profile IgAN Data Show Durable Moat or Crowded Mechanism Risk?",
+      "resumen": "Vera Therapeutics recently announced that multiple company-sponsored abstracts, including final ORIGIN 3 efficacy data for TRUTAKNA in IgA nephropathy and interim PIONEER Phase 2 results, were presented as late-breaking sessions at ASN Kidney Week 2026 in Denver. The prominence of TRUTAKNA data in t",
       "fuente": "Yahoo",
-      "fecha": "06 Oct 2026 12:13 UTC",
-      "url": "https://finnhub.io/api/news?id=2ba4dbdedf49331366cb3b99fb15dfa6bd20d2e77a1530f1415d42aa0db6e5fb",
+      "fecha": "08 Oct 2026 15:15 UTC",
+      "url": "https://finnhub.io/api/news?id=78d1ab05700f476ca8094c9a32f90cd7e475cf5bac318bbae0498356d728a901",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Why Pacira BioSciences Stock Is Having Its Best Day Ever After $1.7 Billion Viatris Acquisition",
+      "resumen": "Viatris has agreed to acquire Pacira BioXciences, acquiring its portfolio of non-opioid pain medications.",
+      "fuente": "Yahoo",
+      "fecha": "08 Oct 2026 17:29 UTC",
+      "url": "https://finnhub.io/api/news?id=432e0925ebab3aeb2ff78568017b127382217a73fb75460d7f75b5111e5a2c09",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "ARGX Stock Sinks as Argenx Scraps Late-Stage Trial",
+      "resumen": "Argenx shares sink as the company discontinues a Phase 3 trial of Vyvgart in Sjögren’s disease. Is the selloff an opportunity for long-term investors?",
+      "fuente": "Yahoo",
+      "fecha": "08 Oct 2026 21:03 UTC",
+      "url": "https://finnhub.io/api/news?id=5c146ca49f8eaf54e20888e67d92188082b8d64a116f31067c2baf0e587c3575",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "OCUL",
@@ -821,25 +823,169 @@
       "badge": "🔵"
     },
     {
-      "ticker": "ARGX",
-      "titulo": "12 Health Care Stocks Moving In Thursday's Pre-Market Session",
-      "resumen": "Gainers\n\nProfound Medical (NASDAQ:PROF) shares moved upwards by 21.5% to $6.9 during Thursday&#39;s pre-market session. The company&#39;s market cap stands at $207.5 million. \nHaemonetics (NYSE:HAE) stock moved upwards",
-      "fuente": "Benzinga",
-      "fecha": "08 Oct 2026 08:05 UTC",
-      "url": "https://finnhub.io/api/news?id=239f355c7f176766da94b5321e12e702de7527c5ab15919e0975b42fd128d36c",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_1.jpg?width=2048&height=1536",
+      "ticker": "SENS",
+      "titulo": "Senseonics: Eversense 365 Adoption Has To Earn The Valuation",
+      "resumen": "Senseonics's Eversense 365 CGM drives sales and margin gains, but adoption, funding, dilution, and valuation risks remain. Click here for more on SENS stock.",
+      "fuente": "SeekingAlpha",
+      "fecha": "08 Oct 2026 11:00 UTC",
+      "url": "https://finnhub.io/api/news?id=9440243e0030fc04bd6e204e986fb54135146e4f4ae446b21880be786f46d371",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2266925511/image_2266925511.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "LLY Stock Down 2% in 3 Months: Is the Dip a Buying Opportunity?",
+      "resumen": "LLY's recent dip reflects valuation and competition concerns, but strong GLP-1 demand, pipeline growth and diversification support its long-term outlook.",
+      "fuente": "Yahoo",
+      "fecha": "08 Oct 2026 11:31 UTC",
+      "url": "https://finnhub.io/api/news?id=ed80fe6940b9d917059c575f41ecda082bf976316cd138c68794ec08016718db",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "GPCR",
+      "titulo": "LLY Stock Down 2% in 3 Months: Is the Dip a Buying Opportunity?",
+      "resumen": "LLY's recent dip reflects valuation and competition concerns, but strong GLP-1 demand, pipeline growth and diversification support its long-term outlook.",
+      "fuente": "Yahoo",
+      "fecha": "08 Oct 2026 11:31 UTC",
+      "url": "https://finnhub.io/api/news?id=ed80fe6940b9d917059c575f41ecda082bf976316cd138c68794ec08016718db",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Ultragenyx to Sell Rare Pediatric Disease PRV for $210M to Boost Cash",
+      "resumen": "RARE enters into an agreement to sell a Rare Pediatric Disease PRV for $210M, adding non-dilutive cash as it advances rare-disease therapies.",
+      "fuente": "Yahoo",
+      "fecha": "08 Oct 2026 13:49 UTC",
+      "url": "https://finnhub.io/api/news?id=2a13e6900f30bf9bdcf9908b96b660656f62912eda4087b6089622844b604310",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Analyst Predicts 316% Upside for Viking Therapeutics Stock Despite 30%+ Loss in Last 3 Months",
+      "resumen": "Key TakeawaysCannacord has set a $114 price target for Viking Therapeutics, which implies 316% from today’s price. The rest of Wall Street is bullish too: the consensus target is $95, and even the lowest of 19 targets, $38, sits above the stock.",
+      "fuente": "Yahoo",
+      "fecha": "08 Oct 2026 17:09 UTC",
+      "url": "https://finnhub.io/api/news?id=175c64e2ef9e65322ea9ad91e80e4ab9526eb01817cc1fd87c8184af0ddf6a25",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam Pharmaceuticals (ALNY) Looks Undervalued On Paper, Can Its RNAi Pipeline Support Fair Value?",
+      "resumen": "Alnylam Pharmaceuticals (ALNY) has drawn fresh attention after a stretch of weak share performance, with the stock down 16% over the past month and 28% across the past 3 months. Short term momentum for Alnylam Pharmaceuticals has clearly cooled, with the 7 day share price return down 9.05% and the y",
+      "fuente": "Yahoo",
+      "fecha": "08 Oct 2026 18:08 UTC",
+      "url": "https://finnhub.io/api/news?id=80cff632dcda0a1176c063b860a7f8f2fa008faee6a885fe3000330815a0bf88",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
     },
     {
       "ticker": "ARGX",
-      "titulo": "Thursday's pre-market session: top gainers and losers",
-      "resumen": "The US market is yet to commence its session on Thursday, but let's get a preview of the pre-market session and explore the top gainers and losers driving the early market movements.",
-      "fuente": "ChartMill",
-      "fecha": "08 Oct 2026 12:30 UTC",
-      "url": "https://finnhub.io/api/news?id=ae1d5398ae1b3291fbae5c46af29a4210112c3f82817a728fcc143aca7553f9c",
-      "imagen": "https://www.chartmill.com/images/uploads/CM_Premarket_Movers_Small_free_90289f6b81.webp",
+      "titulo": "$100 Invested In argenx 5 Years Ago Would Be Worth This Much Today",
+      "resumen": "argenx (NASDAQ:ARGX) has outperformed the market over the past 5 years by 10.42% on an annualized basis producing an average annual return of 22.71%. Currently, argenx has a market capitalization of $58.39 billion.",
+      "fuente": "Benzinga",
+      "fecha": "08 Oct 2026 18:45 UTC",
+      "url": "https://finnhub.io/api/news?id=228c696e7f0686ebcdc041fbfef0665d07da71741f7f8157d50f332b9923a0cb",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2025/07/10/valuestock_2.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "Sector Update: Healthcare Stocks Softer Late Afternoon",
+      "resumen": "Healthcare stocks were lower late Thursday afternoon, with the NYSE Healthcare Index shedding 0.6% a",
+      "fuente": "Yahoo",
+      "fecha": "08 Oct 2026 19:53 UTC",
+      "url": "https://finnhub.io/api/news?id=4983ec76756a35e64873863728a2435deff312c722d2a4d1822b3c1d3bdab976",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "Former Highflier Argenx Plummets On A Surprise Setback In Sjogren's",
+      "resumen": "Argenx unexpectedly scrapped a study of its drug, Vyvgart, in patients with Sjogren's disease on Thursday. The stock plummeted in response.",
+      "fuente": "Yahoo",
+      "fecha": "08 Oct 2026 20:21 UTC",
+      "url": "https://finnhub.io/api/news?id=dc6533dc2e9ff30caaea56877baf2b8fd69c924ce2059dce573a54e72a4be388",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Viking Therapeutics, Inc. (VKTX) Dips More Than Broader Market: What You Should Know",
+      "resumen": "In the closing of the recent trading day, Viking Therapeutics, Inc. (VKTX) stood at $27.73, denoting a -2.84% move from the preceding trading day.",
+      "fuente": "Yahoo",
+      "fecha": "08 Oct 2026 20:50 UTC",
+      "url": "https://finnhub.io/api/news?id=a33df3a9799af31a71618eb35728788fb1fdb2b02619f401d225d322df073e24",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "DNLI",
+      "titulo": "Is Denali Therapeutics (DNLI) Undervalued As Its Share Price Pullback Tests Fair Value?",
+      "resumen": "Denali Therapeutics (DNLI) has pulled back sharply, with the share price down about 15% over the past month and 27% in the past 3 months. This decline has drawn fresh attention to its valuation. Short term momentum for Denali Therapeutics has clearly cooled, with the 7 day share price return down 9.",
+      "fuente": "Yahoo",
+      "fecha": "09 Oct 2026 07:15 UTC",
+      "url": "https://finnhub.io/api/news?id=9dda2aa8ba27ca3bc7a3449cfcab4439b521eff6c941c2eda9a84bce057cf067",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VERA",
+      "titulo": "Alignment Healthcare, RenX Enterprises And Other Big Stocks Moving Lower In Friday’s Pre-Market Session",
+      "resumen": "U.S. futures rose, but Alignment Healthcare plunged 24% after a Medicare contract downgrade; telecom and other stocks also fell premarket.",
+      "fuente": "Benzinga",
+      "fecha": "09 Oct 2026 08:01 UTC",
+      "url": "https://finnhub.io/api/news?id=f4ce9984f500bca2fec7b0bab81048fd720efc49db5381aebbf2e86c2cf26b2b",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/09/Section-Of-A-Financial-Newspaper-Titled-.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "DYN",
+      "titulo": "12 Health Care Stocks Moving In Friday's Pre-Market Session",
+      "resumen": "Gainers\n\nHumana (NYSE:HUM) stock moved upwards by 16.2% to $450.0 during Friday&#39;s pre-market session. The market value of their outstanding shares is at $46.4 billion. \nXORTX Therapeutics (NASDAQ:XRTX) shares",
+      "fuente": "Benzinga",
+      "fecha": "09 Oct 2026 08:05 UTC",
+      "url": "https://finnhub.io/api/news?id=cdf863a062aea1491c801100873531d2846bb86cc5045687a32fe1a61b587f14",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_4.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "Baird Maintains Neutral on argenx, Lowers Price Target to $823",
+      "resumen": "Baird  analyst Colleen Kusy   maintains argenx (NASDAQ:ARGX) with a Neutral and lowers the price target from $932 to $823.",
+      "fuente": "Benzinga",
+      "fecha": "09 Oct 2026 09:29 UTC",
+      "url": "https://finnhub.io/api/news?id=64cc3a704a27d0277a5d46ceac63542e74cc60a0b899f63c2ffd1d419ccfd59a",
+      "imagen": "",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

@@ -1,7 +1,7 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 08/10/2026 14:23 | Período: últimos 7 días
-Desde: 2026-10-01 → Hasta: 2026-10-08
+Generado: 09/10/2026 14:09 | Período: últimos 7 días
+Desde: 2026-10-02 → Hasta: 2026-10-09
 ══════════════════════════════════════════════════════════════
 
 RESUMEN: 11 filings | 🔴 0 | 🟢 1 | 🟡 5 | 🔵 5 | ✅ 10 sin novedad
@@ -86,7 +86,7 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Reclutando activamente
        Enrollment: 447 pacientes
        Primary completion: 2027-12-15
-       Última actualización: 2026-09-16
+       Última actualización: 2026-10-09
        → https://clinicaltrials.gov/study/NCT04065399
     🟢 REVEAL Ph3 (revumenib NPM1m AML frontline) ⚡CAMBIO
        Status: Reclutando activamente

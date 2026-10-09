@@ -1,9 +1,9 @@
 {
   "version": "v3",
-  "generado": "08/10/2026 14:23",
+  "generado": "09/10/2026 14:09",
   "periodo_dias": 7,
-  "desde": "2026-10-01",
-  "hasta": "2026-10-08",
+  "desde": "2026-10-02",
+  "hasta": "2026-10-09",
   "resumen": {
     "total_filings": 11,
     "alertas_rojas": 0,
@@ -850,7 +850,7 @@
         "nivel": "verde",
         "badge": "🟢",
         "enrollment": 447,
-        "ultima_actualizacion": "2026-09-16",
+        "ultima_actualizacion": "2026-10-09",
         "fecha_completion_primaria": "2027-12-15",
         "changed": true,
         "url": "https://clinicaltrials.gov/study/NCT04065399"

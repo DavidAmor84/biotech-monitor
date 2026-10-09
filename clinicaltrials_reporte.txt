@@ -1,6 +1,6 @@
 ====================================================================================
 CLINICALTRIALS MONITOR v9.3 · Modelo Biotech
-Generado: 08/10/2026 15:46
+Generado: 09/10/2026 15:28
 ====================================================================================
 RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 0 | 🔵 29 | Errores API: 0
 
@@ -261,7 +261,7 @@ DETALLE POR EMPRESA
      Enrollment: 447
      Primary completion: 2027-12-15 ESTIMATED
      Study completion: 2027-12-15 ESTIMATED
-     Last update posted: 2026-09-16
+     Last update posted: 2026-10-09
      → https://clinicaltrials.gov/study/NCT04065399
   🔵 ⭐⭐⭐ REVEAL Ph3 — revumenib — NPM1m AML frontline | Prioridad: alta | Validación: OK
      NCT: NCT07211958 | Status: Reclutando | Tipo: pivotal

@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 09/10/2026 14:09 | Período: últimos 7 días
-Desde: 2026-10-02 → Hasta: 2026-10-09
+Generado: 12/10/2026 16:31 | Período: últimos 7 días
+Desde: 2026-10-05 → Hasta: 2026-10-12
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 11 filings | 🔴 0 | 🟢 1 | 🟡 5 | 🔵 5 | ✅ 10 sin novedad
+RESUMEN: 10 filings | 🔴 0 | 🟢 1 | 🟡 4 | 🔵 5 | ✅ 11 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (1)
@@ -34,11 +34,7 @@ DETALLE POR TICKER — SEC EDGAR
      🟡 MEDIA 4 | 2026-10-06 | SUPRAN BRYAN (EVP, CLO and Secretary) → Venta 1,758 acciones @ $226.88 | Post: 12,807 | Rutinaria/RSU/impuestos
      Insider: SUPRAN BRYAN (EVP, CLO and Secretary) → Venta 1,758 acciones @ $226.88 | Post: 12,807 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000068/xslF345X06/form4.xml
-
-  🟡 [BEAM] Beam Therapeutics Inc. — 1 filing(s)
-     🟡 MEDIA 4 | 2026-10-02 | Cavanagh Bethany J (SVP, Finance and Treasurer) → Venta 187 acciones @ $24.41 | Post: 50,984 | Rutinaria/RSU/impuestos
-     Insider: Cavanagh Bethany J (SVP, Finance and Treasurer) → Venta 187 acciones @ $24.41 | Post: 50,984 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1745999/000119312526412236/xslF345X06/ownership.xml
+  ✅ [BEAM] Sin novedades
 
   🟡 [OCUL] OCULAR THERAPEUTIX, INC — 2 filing(s)
      🟡 MEDIA 4 | 2026-10-06 | Kaiser Peter (Chief Development Officer) → Venta 9,990 acciones @ $7.05 | Post: 254,388 | Rutinaria/RSU/impuestos

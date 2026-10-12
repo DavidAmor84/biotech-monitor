@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "09/10/2026 14:09",
+  "generado": "12/10/2026 16:31",
   "periodo_dias": 7,
-  "desde": "2026-10-02",
-  "hasta": "2026-10-09",
+  "desde": "2026-10-05",
+  "hasta": "2026-10-12",
   "resumen": {
-    "total_filings": 11,
+    "total_filings": 10,
     "alertas_rojas": 0,
     "alertas_verdes": 1,
-    "alertas_amarillas": 5,
+    "alertas_amarillas": 4,
     "alertas_azules": 5,
-    "sin_novedad": 10
+    "sin_novedad": 11
   },
   "tickers": {
     "SNDX": {
@@ -150,36 +150,9 @@
       "cik": "0001745999",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-10-02",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Cavanagh Bethany J (SVP, Finance and Treasurer) → Venta 187 acciones @ $24.41 | Post: 50,984 | Rutinaria/RSU/impuestos",
-          "detalle": "4",
-          "empresa_sec": "Beam Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526412236/xslF345X06/ownership.xml",
-          "form4_detail": {
-            "insider_nombre": "Cavanagh Bethany J",
-            "insider_cargo": "SVP, Finance and Treasurer",
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "187",
-            "transaccion_precio": "24.41",
-            "transaccion_fecha": "2026-10-01",
-            "acciones_post": "50984",
-            "footnotes": "These shares of common stock were automatically sold in a non-discretionary transaction by the Reporting Person in order to cover tax withholding obligations upon the vesting of certain restricted stock units granted to the Reporting Person under the Beam Therapeutics Inc. 2019 Equity Incentive Plan on September 30, 2024. The sales were effected pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on August 9, 2024.",
-            "es_rutinaria": true,
-            "resumen_detail": "Cavanagh Bethany J (SVP, Finance and Treasurer) → Venta 187 acciones @ $24.41 | Post: 50,984 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "OCUL": {
@@ -807,34 +780,6 @@
         "badge_ajustado": "🔵 INFO",
         "resumen_ajustado": "Item 5.02: Plan de incentivos / compensación aprobado — informativo"
       },
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "BEAM",
-      "nombre": "Beam Therapeutics Inc.",
-      "form": "4",
-      "fecha": "2026-10-02",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Cavanagh Bethany J (SVP, Finance and Treasurer) → Venta 187 acciones @ $24.41 | Post: 50,984 | Rutinaria/RSU/impuestos",
-      "detalle": "4",
-      "empresa_sec": "Beam Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526412236/xslF345X06/ownership.xml",
-      "form4_detail": {
-        "insider_nombre": "Cavanagh Bethany J",
-        "insider_cargo": "SVP, Finance and Treasurer",
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "187",
-        "transaccion_precio": "24.41",
-        "transaccion_fecha": "2026-10-01",
-        "acciones_post": "50984",
-        "footnotes": "These shares of common stock were automatically sold in a non-discretionary transaction by the Reporting Person in order to cover tax withholding obligations upon the vesting of certain restricted stock units granted to the Reporting Person under the Beam Therapeutics Inc. 2019 Equity Incentive Plan on September 30, 2024. The sales were effected pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on August 9, 2024.",
-        "es_rutinaria": true,
-        "resumen_detail": "Cavanagh Bethany J (SVP, Finance and Treasurer) → Venta 187 acciones @ $24.41 | Post: 50,984 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
       "10q_detail": null,
       "prospecto_detail": null
     }

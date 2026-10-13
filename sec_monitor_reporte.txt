@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 12/10/2026 16:31 | Período: últimos 7 días
-Desde: 2026-10-05 → Hasta: 2026-10-12
+Generado: 13/10/2026 14:49 | Período: últimos 7 días
+Desde: 2026-10-06 → Hasta: 2026-10-13
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 10 filings | 🔴 0 | 🟢 1 | 🟡 4 | 🔵 5 | ✅ 11 sin novedad
+RESUMEN: 5 filings | 🔴 0 | 🟢 1 | 🟡 4 | 🔵 0 | ✅ 13 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (1)
@@ -53,24 +53,8 @@ DETALLE POR TICKER — SEC EDGAR
      Insider: Miller Mary (Chief Legal Officer) → Venta 294 acciones @ $1.99 | Post: 81,715 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1781174/000090514826004399/xslF345X06/form4.xml
   ✅ [TARA] Sin novedades
-
-  🔵 [SENS] Senseonics Holdings, Inc. — 4 filing(s)
-     🔵 INFO 4 | 2026-10-05 | Prince Douglas S → Concesión 815 acciones @ $9.96 | Post: 70,146 | Rutinaria/RSU/impuestos
-     Insider: Prince Douglas S → Concesión 815 acciones @ $9.96 | Post: 70,146 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1616543/000166699526000010/xslF345X06/form4-10052026_041010.xml
-     🔵 INFO 4 | 2026-10-05 | ROEDER DOUGLAS A → Concesión 1,480 acciones @ $9.96 | Post: 172,671 | Rutinaria/RSU/impuestos
-     Insider: ROEDER DOUGLAS A → Concesión 1,480 acciones @ $9.96 | Post: 172,671 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1616543/000127073526000016/xslF345X06/form4-10052026_041008.xml
-     🔵 INFO 4 | 2026-10-05 | Fiorentino Edward → Concesión 1,418 acciones @ $9.96 | Post: 87,392 | Rutinaria/RSU/impuestos
-     Insider: Fiorentino Edward → Concesión 1,418 acciones @ $9.96 | Post: 87,392 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1616543/000166697226000010/xslF345X06/form4-10052026_041006.xml
-     🔵 INFO 4 | 2026-10-05 | Steven Edelman → Concesión 1,292 acciones @ $9.96 | Post: 92,375 | Rutinaria/RSU/impuestos
-     Insider: Steven Edelman → Concesión 1,292 acciones @ $9.96 | Post: 92,375 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1616543/000168335426000010/xslF345X06/form4-10052026_041003.xml
-
-  🔵 [INSM] INSMED Inc — 1 filing(s)
-     🔵 INFO 8-K | 2026-10-05 | Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02, 7.01, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1104506/000114036126038529/ef20083216_8k.htm
+  ✅ [SENS] Sin novedades
+  ✅ [INSM] Sin novedades
   ⚪ [NWL] Sin CIK SEC
 
 ──────────────────────────────────────────────────
@@ -108,7 +92,7 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Reclutando activamente
        Enrollment: 150 pacientes
        Primary completion: 2028-07
-       Última actualización: 2026-10-05
+       Última actualización: 2026-10-13
        → https://clinicaltrials.gov/study/NCT07486934
 
   [VKTX]

@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "12/10/2026 16:31",
+  "generado": "13/10/2026 14:49",
   "periodo_dias": 7,
-  "desde": "2026-10-05",
-  "hasta": "2026-10-12",
+  "desde": "2026-10-06",
+  "hasta": "2026-10-13",
   "resumen": {
-    "total_filings": 10,
+    "total_filings": 5,
     "alertas_rojas": 0,
     "alertas_verdes": 1,
     "alertas_amarillas": 4,
-    "alertas_azules": 5,
-    "sin_novedad": 11
+    "alertas_azules": 0,
+    "sin_novedad": 13
   },
   "tickers": {
     "SNDX": {
@@ -318,114 +318,9 @@
       "cik": "0001616543",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-10-05",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Prince Douglas S → Concesión 815 acciones @ $9.96 | Post: 70,146 | Rutinaria/RSU/impuestos",
-          "detalle": "xslF345X06/form4-10052026_041010.xml",
-          "empresa_sec": "Senseonics Holdings, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000166699526000010/xslF345X06/form4-10052026_041010.xml",
-          "form4_detail": {
-            "insider_nombre": "Prince Douglas S",
-            "insider_cargo": null,
-            "transaccion_codigo": "A",
-            "transaccion_tipo": "Concesión",
-            "transaccion_acciones": "815",
-            "transaccion_precio": "9.96",
-            "transaccion_fecha": "2026-10-01",
-            "acciones_post": "70146",
-            "footnotes": "This common stock was issued to the Reporting Person pursuant to the Issuer's non-employee director compensation policy in lieu of quarterly retainer fees. The number of shares of common stock is equal to $8,117.40 divided by $9.96, the closing price of Issuer's common stock on the Nasdaq Global Select Market on October 1, 2026.",
-            "es_rutinaria": true,
-            "resumen_detail": "Prince Douglas S → Concesión 815 acciones @ $9.96 | Post: 70,146 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-10-05",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "ROEDER DOUGLAS A → Concesión 1,480 acciones @ $9.96 | Post: 172,671 | Rutinaria/RSU/impuestos",
-          "detalle": "xslF345X06/form4-10052026_041008.xml",
-          "empresa_sec": "Senseonics Holdings, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000127073526000016/xslF345X06/form4-10052026_041008.xml",
-          "form4_detail": {
-            "insider_nombre": "ROEDER DOUGLAS A",
-            "insider_cargo": null,
-            "transaccion_codigo": "A",
-            "transaccion_tipo": "Concesión",
-            "transaccion_acciones": "1480",
-            "transaccion_precio": "9.96",
-            "transaccion_fecha": "2026-10-01",
-            "acciones_post": "172671.2843",
-            "footnotes": "This common stock was issued to the Reporting Person pursuant to the Issuer's non-employee director compensation policy in lieu of quarterly retainer fees. The number of shares of common stock is equal to  $14,740.80 divided by $9.96, the closing price of Issuer's common stock on the Nasdaq Global Select Market on October 1, 2026.",
-            "es_rutinaria": true,
-            "resumen_detail": "ROEDER DOUGLAS A → Concesión 1,480 acciones @ $9.96 | Post: 172,671 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-10-05",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Fiorentino Edward → Concesión 1,418 acciones @ $9.96 | Post: 87,392 | Rutinaria/RSU/impuestos",
-          "detalle": "xslF345X06/form4-10052026_041006.xml",
-          "empresa_sec": "Senseonics Holdings, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000166697226000010/xslF345X06/form4-10052026_041006.xml",
-          "form4_detail": {
-            "insider_nombre": "Fiorentino Edward",
-            "insider_cargo": null,
-            "transaccion_codigo": "A",
-            "transaccion_tipo": "Concesión",
-            "transaccion_acciones": "1418",
-            "transaccion_precio": "9.96",
-            "transaccion_fecha": "2026-10-01",
-            "acciones_post": "87392",
-            "footnotes": "This common stock was issued to the Reporting Person pursuant to the Issuer's non-employee director compensation policy in lieu of quarterly retainer fees. The number of shares of common stock is equal to $14,123.28 divided by $9.96, the closing price of Issuer's common stock on the Nasdaq Global Select Market on October 1, 2026.",
-            "es_rutinaria": true,
-            "resumen_detail": "Fiorentino Edward → Concesión 1,418 acciones @ $9.96 | Post: 87,392 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-10-05",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Steven Edelman → Concesión 1,292 acciones @ $9.96 | Post: 92,375 | Rutinaria/RSU/impuestos",
-          "detalle": "xslF345X06/form4-10052026_041003.xml",
-          "empresa_sec": "Senseonics Holdings, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000168335426000010/xslF345X06/form4-10052026_041003.xml",
-          "form4_detail": {
-            "insider_nombre": "Steven Edelman",
-            "insider_cargo": null,
-            "transaccion_codigo": "A",
-            "transaccion_tipo": "Concesión",
-            "transaccion_acciones": "1292",
-            "transaccion_precio": "9.96",
-            "transaccion_fecha": "2026-10-01",
-            "acciones_post": "92375",
-            "footnotes": "This common stock was issued to the Reporting Person pursuant to the Issuer's non-employee director compensation policy in lieu of quarterly retainer fees. The number of shares of common stock is equal to $12,868.32 divided by $9.96, the closing price of Issuer's common stock on the Nasdaq Global Select Market on October 1, 2026.",
-            "es_rutinaria": true,
-            "resumen_detail": "Steven Edelman → Concesión 1,292 acciones @ $9.96 | Post: 92,375 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "INSM": {
@@ -434,35 +329,9 @@
       "cik": "0001104506",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "8-K",
-          "fecha": "2026-10-05",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02, 7.01, 9.01]",
-          "detalle": "8-K",
-          "empresa_sec": "INSMED Inc",
-          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126038529/ef20083216_8k.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "5.02",
-              "7.01",
-              "9.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "ITEM 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. On October 5, 2026, Insmed Incorporated (the Company ) announced that Sara Bonstein, the Company s Chief Financial Officer, would be separating from the Company, effective October 30, 2026, and the Company has a search underway to identify a successor. The separation is not related to any disagreement between Ms. Bonstein and the Company on any matter relating to the Company s accounting practices, financial statements, internal controls or operations. Ms. Bonstein will receive the benefits set forth in Section 6.e of the Amended and Restated Employment Agreement between the Company and Ms. Bonstein dated April 1, 2022. ITEM 7.01 Regulation FD Disclosure. On October 5, 2026, the Company issued a press release announcing the separation of Ms. Bonstein and providing certain guidance information for the third quarter of 2026. A copy of the press release is attached hereto as Exhibit 99.1 and incorporated herein by reference. The information contained in this Item 7.01, including Exhibit 99.1, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing. ITEM 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press release issued by Insmed Incorp",
-            "nivel_ajustado": "azul",
-            "badge_ajustado": "🔵 INFO",
-            "resumen_ajustado": "Item 5.02: Plan de incentivos / compensación aprobado — informativo"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "NWL": {
@@ -643,145 +512,6 @@
       "8k_detail": null,
       "10q_detail": null,
       "prospecto_detail": null
-    },
-    {
-      "ticker": "SENS",
-      "nombre": "Senseonics Holdings, Inc.",
-      "form": "4",
-      "fecha": "2026-10-05",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Prince Douglas S → Concesión 815 acciones @ $9.96 | Post: 70,146 | Rutinaria/RSU/impuestos",
-      "detalle": "xslF345X06/form4-10052026_041010.xml",
-      "empresa_sec": "Senseonics Holdings, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000166699526000010/xslF345X06/form4-10052026_041010.xml",
-      "form4_detail": {
-        "insider_nombre": "Prince Douglas S",
-        "insider_cargo": null,
-        "transaccion_codigo": "A",
-        "transaccion_tipo": "Concesión",
-        "transaccion_acciones": "815",
-        "transaccion_precio": "9.96",
-        "transaccion_fecha": "2026-10-01",
-        "acciones_post": "70146",
-        "footnotes": "This common stock was issued to the Reporting Person pursuant to the Issuer's non-employee director compensation policy in lieu of quarterly retainer fees. The number of shares of common stock is equal to $8,117.40 divided by $9.96, the closing price of Issuer's common stock on the Nasdaq Global Select Market on October 1, 2026.",
-        "es_rutinaria": true,
-        "resumen_detail": "Prince Douglas S → Concesión 815 acciones @ $9.96 | Post: 70,146 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "SENS",
-      "nombre": "Senseonics Holdings, Inc.",
-      "form": "4",
-      "fecha": "2026-10-05",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "ROEDER DOUGLAS A → Concesión 1,480 acciones @ $9.96 | Post: 172,671 | Rutinaria/RSU/impuestos",
-      "detalle": "xslF345X06/form4-10052026_041008.xml",
-      "empresa_sec": "Senseonics Holdings, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000127073526000016/xslF345X06/form4-10052026_041008.xml",
-      "form4_detail": {
-        "insider_nombre": "ROEDER DOUGLAS A",
-        "insider_cargo": null,
-        "transaccion_codigo": "A",
-        "transaccion_tipo": "Concesión",
-        "transaccion_acciones": "1480",
-        "transaccion_precio": "9.96",
-        "transaccion_fecha": "2026-10-01",
-        "acciones_post": "172671.2843",
-        "footnotes": "This common stock was issued to the Reporting Person pursuant to the Issuer's non-employee director compensation policy in lieu of quarterly retainer fees. The number of shares of common stock is equal to  $14,740.80 divided by $9.96, the closing price of Issuer's common stock on the Nasdaq Global Select Market on October 1, 2026.",
-        "es_rutinaria": true,
-        "resumen_detail": "ROEDER DOUGLAS A → Concesión 1,480 acciones @ $9.96 | Post: 172,671 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "SENS",
-      "nombre": "Senseonics Holdings, Inc.",
-      "form": "4",
-      "fecha": "2026-10-05",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Fiorentino Edward → Concesión 1,418 acciones @ $9.96 | Post: 87,392 | Rutinaria/RSU/impuestos",
-      "detalle": "xslF345X06/form4-10052026_041006.xml",
-      "empresa_sec": "Senseonics Holdings, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000166697226000010/xslF345X06/form4-10052026_041006.xml",
-      "form4_detail": {
-        "insider_nombre": "Fiorentino Edward",
-        "insider_cargo": null,
-        "transaccion_codigo": "A",
-        "transaccion_tipo": "Concesión",
-        "transaccion_acciones": "1418",
-        "transaccion_precio": "9.96",
-        "transaccion_fecha": "2026-10-01",
-        "acciones_post": "87392",
-        "footnotes": "This common stock was issued to the Reporting Person pursuant to the Issuer's non-employee director compensation policy in lieu of quarterly retainer fees. The number of shares of common stock is equal to $14,123.28 divided by $9.96, the closing price of Issuer's common stock on the Nasdaq Global Select Market on October 1, 2026.",
-        "es_rutinaria": true,
-        "resumen_detail": "Fiorentino Edward → Concesión 1,418 acciones @ $9.96 | Post: 87,392 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "SENS",
-      "nombre": "Senseonics Holdings, Inc.",
-      "form": "4",
-      "fecha": "2026-10-05",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Steven Edelman → Concesión 1,292 acciones @ $9.96 | Post: 92,375 | Rutinaria/RSU/impuestos",
-      "detalle": "xslF345X06/form4-10052026_041003.xml",
-      "empresa_sec": "Senseonics Holdings, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000168335426000010/xslF345X06/form4-10052026_041003.xml",
-      "form4_detail": {
-        "insider_nombre": "Steven Edelman",
-        "insider_cargo": null,
-        "transaccion_codigo": "A",
-        "transaccion_tipo": "Concesión",
-        "transaccion_acciones": "1292",
-        "transaccion_precio": "9.96",
-        "transaccion_fecha": "2026-10-01",
-        "acciones_post": "92375",
-        "footnotes": "This common stock was issued to the Reporting Person pursuant to the Issuer's non-employee director compensation policy in lieu of quarterly retainer fees. The number of shares of common stock is equal to $12,868.32 divided by $9.96, the closing price of Issuer's common stock on the Nasdaq Global Select Market on October 1, 2026.",
-        "es_rutinaria": true,
-        "resumen_detail": "Steven Edelman → Concesión 1,292 acciones @ $9.96 | Post: 92,375 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "INSM",
-      "nombre": "INSMED Inc",
-      "form": "8-K",
-      "fecha": "2026-10-05",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02, 7.01, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "INSMED Inc",
-      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126038529/ef20083216_8k.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "5.02",
-          "7.01",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "ITEM 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. On October 5, 2026, Insmed Incorporated (the Company ) announced that Sara Bonstein, the Company s Chief Financial Officer, would be separating from the Company, effective October 30, 2026, and the Company has a search underway to identify a successor. The separation is not related to any disagreement between Ms. Bonstein and the Company on any matter relating to the Company s accounting practices, financial statements, internal controls or operations. Ms. Bonstein will receive the benefits set forth in Section 6.e of the Amended and Restated Employment Agreement between the Company and Ms. Bonstein dated April 1, 2022. ITEM 7.01 Regulation FD Disclosure. On October 5, 2026, the Company issued a press release announcing the separation of Ms. Bonstein and providing certain guidance information for the third quarter of 2026. A copy of the press release is attached hereto as Exhibit 99.1 and incorporated herein by reference. The information contained in this Item 7.01, including Exhibit 99.1, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing. ITEM 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press release issued by Insmed Incorp",
-        "nivel_ajustado": "azul",
-        "badge_ajustado": "🔵 INFO",
-        "resumen_ajustado": "Item 5.02: Plan de incentivos / compensación aprobado — informativo"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
     }
   ],
   "clinicaltrials": {
@@ -853,7 +583,7 @@
         "nivel": "verde",
         "badge": "🟢",
         "enrollment": 150,
-        "ultima_actualizacion": "2026-10-05",
+        "ultima_actualizacion": "2026-10-13",
         "fecha_completion_primaria": "2028-07",
         "changed": true,
         "url": "https://clinicaltrials.gov/study/NCT07486934"

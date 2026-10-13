@@ -1,6 +1,6 @@
 ====================================================================================
 CLINICALTRIALS MONITOR v9.3 · Modelo Biotech
-Generado: 12/10/2026 18:06
+Generado: 13/10/2026 16:14
 ====================================================================================
 RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 0 | 🔵 29 | Errores API: 0
 
@@ -89,7 +89,7 @@ DETALLE POR EMPRESA
      Enrollment: 150
      Primary completion: 2028-07 ESTIMATED
      Study completion: 2029-01 ESTIMATED
-     Last update posted: 2026-10-05
+     Last update posted: 2026-10-13
      → https://clinicaltrials.gov/study/NCT07486934
 
 🟢 [VKTX] · Score relevancia: 29
@@ -175,7 +175,7 @@ DETALLE POR EMPRESA
      Enrollment: 11000
      Primary completion: 2030-09-23 ESTIMATED
      Study completion: 2030-09-23 ESTIMATED
-     Last update posted: 2026-09-18
+     Last update posted: 2026-10-13
      → https://clinicaltrials.gov/study/NCT07181109
   🔵 ⭐⭐ TRITON-PN Ph3 — nucresiran — hATTR-PN | Prioridad: media | Validación: OK
      NCT: NCT07223203 | Status: Reclutando | Tipo: pivotal

@@ -1,45 +1,94 @@
 {
-  "generado": "12/10/2026 16:41 UTC",
+  "generado": "13/10/2026 14:58 UTC",
   "plazo_horas": 72,
-  "desde": "2026-10-09",
-  "hasta": "2026-10-12",
+  "desde": "2026-10-10",
+  "hasta": "2026-10-13",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
-    },
-    "ARGX": {
-      "nombre": "ARGX",
       "noticias": [
         {
-          "ticker": "ARGX",
-          "titulo": "argenx (ENXTBR:ARGX) Stock May Be Fully Priced After Its 185% Run",
-          "resumen": "argenx has been through a volatile spell after a long run, and the recent swings now put a simple question in front of you as an investor: Is the current share price still in line with what the company's earnings can reasonably support? Over the past 5 years, argenx has delivered a share price gain ",
+          "ticker": "SNDX",
+          "titulo": "Syndax Pharmaceuticals, BioNTech, Seagate And Other Big Stocks Moving Lower In Tuesday’s Pre-Market Session",
+          "resumen": "U.S. futures mixed; Syndax plunged 17% after its lung fibrosis trial missed its endpoint. Zhibao, Chaince, Six Flags and tech stocks also fell premarket.",
+          "fuente": "Benzinga",
+          "fecha": "13 Oct 2026 08:02 UTC",
+          "url": "https://finnhub.io/api/news?id=3d98502c2ac09777ddaba1c8bc095285ca07cc5f4ac948f2a2b3a6b31bc3496d",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/13/Section-Of-A-Financial-Newspaper-Titled-.jpg?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "SNDX",
+          "titulo": "Why UnitedHealth Group Shares Are Trading Higher; Here Are 20 Stocks Moving Premarket",
+          "resumen": "UnitedHealth rose after Q3 earnings and sales beat estimates; BIO-Key led gainers, while HUB Cyber Security topped premarket losers.",
+          "fuente": "Benzinga",
+          "fecha": "13 Oct 2026 06:28 UTC",
+          "url": "https://finnhub.io/api/news?id=dd19c7a0f40a3c6f6b1cd92ce159850ea92451607d4777d773ebe62e0f63e838",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/13/Top-Trades-Yield-Big-Gains.jpg?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "SNDX",
+          "titulo": "Syndax Pharmaceuticals (SNDX) Is Down 7.2% After Axatilimab IPF Trial Misses Endpoint Has The Bull Case Changed?",
+          "resumen": "Earlier this week, Syndax Pharmaceuticals reported that its MAXPIRe Phase 2 trial of axatilimab in idiopathic pulmonary fibrosis failed to meet the primary endpoint of slowing lung function decline, leading the company to halt further IPF development for the drug while maintaining other trials. An i",
           "fuente": "Yahoo",
-          "fecha": "10 Oct 2026 12:18 UTC",
-          "url": "https://finnhub.io/api/news?id=2a098d224028a70363f6e597a50b773fdf32229f5cf9b3999820d319882af723",
+          "fecha": "13 Oct 2026 04:34 UTC",
+          "url": "https://finnhub.io/api/news?id=deb352a4e57605ef119420a8a65fd4463c03dfed9562777a745f8150ca2107c1",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
         },
         {
-          "ticker": "ARGX",
-          "titulo": "argenx Meets Primary Endpoint in Phase II Celiac Disease Study",
-          "resumen": "ARGX's FB102 achieves its primary endpoint in a phase II celiac disease study, paving the way for late-stage development despite a nearly 12% stock drop.",
+          "ticker": "SNDX",
+          "titulo": "SNDX Stock Slumps 16% After-Hours — What’s Driving The Selloff?",
+          "resumen": "Syndax said on Monday that its experimental drug axatilimab missed the main goal of a mid-stage study in idiopathic pulmonary fibrosis.",
           "fuente": "Yahoo",
-          "fecha": "09 Oct 2026 16:55 UTC",
-          "url": "https://finnhub.io/api/news?id=776b14446d4eb8093753d7f39a3520e7e05899abe38e16916ce433b14d74fce5",
+          "fecha": "12 Oct 2026 22:11 UTC",
+          "url": "https://finnhub.io/api/news?id=6b5b65cd2a253c5177674c406aa9d2937b519b8696b162ef5d93b7f629037153",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "SNDX",
+          "titulo": "What's going on in today's after hours session",
+          "resumen": "As the regular session of the US market concludes on Monday, let's get an insight into the after-hours session and identify the stocks leading the pack in terms of gains and losses.",
+          "fuente": "ChartMill",
+          "fecha": "12 Oct 2026 21:00 UTC",
+          "url": "https://finnhub.io/api/news?id=56ce2cf9fdfee1084b9593a48d125a25245794e012e6e4ec7fb239413c7140b0",
+          "imagen": "https://www.chartmill.com/images/uploads/CM_Aftermarket_Movers_Small_free_e077945a19.webp",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 5
+    },
+    "ARGX": {
+      "nombre": "ARGX",
+      "noticias": [
+        {
+          "ticker": "ARGX",
+          "titulo": "Oppenheimer Maintains Outperform on argenx, Lowers Price Target to $1038",
+          "resumen": "Oppenheimer  analyst Leland Gershell   maintains argenx (NASDAQ:ARGX) with a Outperform and lowers the price target from $1100 to $1038.",
+          "fuente": "Benzinga",
+          "fecha": "12 Oct 2026 13:43 UTC",
+          "url": "https://finnhub.io/api/news?id=6e87f62d7d7382c70b0d9ffb3ecffab1e01dcc76fb856bf0c70b967b4f78685b",
+          "imagen": "",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         }
       ],
-      "nivel": "rojo",
-      "total": 2
+      "nivel": "azul",
+      "total": 1
     },
     "DYN": {
       "nombre": "DYN",
@@ -61,26 +110,50 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "DNLI",
-          "titulo": "Is Denali Therapeutics (DNLI) Reasonably Valued On Future Cash Flow?",
-          "resumen": "Denali Therapeutics has delivered a mixed share price journey, with sharp gains over the past year sitting against a much weaker longer track record. That kind of profile puts the spotlight firmly on whether the current stock price is aligned with the cash flows that the business can realistically p",
-          "fuente": "Yahoo",
-          "fecha": "10 Oct 2026 03:22 UTC",
-          "url": "https://finnhub.io/api/news?id=aad91380d98d90342ce4ba7df6223018b080b79595b63df69fe3c6e1e0aeaa21",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 1
     },
     "VKTX": {
       "nombre": "VKTX",
       "noticias": [
+        {
+          "ticker": "VKTX",
+          "titulo": "Novo Down 11% in a Month: How Should Investors Approach the Stock Now?",
+          "resumen": "NVO's 11% slide in a month reflects intensifying LLY competition, pricing pressure and a lack of near-term growth visibility despite its long-term pipeline potential.",
+          "fuente": "Yahoo",
+          "fecha": "12 Oct 2026 15:24 UTC",
+          "url": "https://finnhub.io/api/news?id=52b179860418821eea1130cb59b60518198ee0e511f9ff88a48e3c8d5f21f51a",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "Oppenheimer Thinks Viking Therapeutics Stock Can Soar to $120. Here's the Math Behind the Ultra-Bullish Call.",
+          "resumen": "Oppenheimer raised Viking Therapeutics' price target to $120, citing strong trial data, and an improving probability of success for its key drug.",
+          "fuente": "Yahoo",
+          "fecha": "12 Oct 2026 11:42 UTC",
+          "url": "https://finnhub.io/api/news?id=e3720a2ff5a85aec8b8cacc55256db6736ca08f3e3105488c664973fcef72697",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "2 Stocks That Could Soar in Q4",
+          "resumen": "These growth companies offer investors the potential for near-term upside from fourth-quarter catalysts and long-term growth from realizing value in their pipelines.",
+          "fuente": "Yahoo",
+          "fecha": "12 Oct 2026 11:05 UTC",
+          "url": "https://finnhub.io/api/news?id=ff427485957873123d61db2c09f08ffd08cb81798ccfff26bd243df6c41b0493",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "VKTX",
           "titulo": "Viking Therapeutics' Oral Obesity Drug Advances to Phase 3 Testing. Is Now the Time to Buy This Biotech Stock?",
@@ -92,26 +165,26 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "Viking Therapeutics, Inc. (VKTX) Exceeds Market Returns: Some Facts to Consider",
-          "resumen": "The latest trading day saw Viking Therapeutics, Inc. (VKTX) settling at $28.53, representing a +2.88% change from its previous close.",
-          "fuente": "Yahoo",
-          "fecha": "09 Oct 2026 20:45 UTC",
-          "url": "https://finnhub.io/api/news?id=bdea0a4a8faaa4d5ec31e50f925c5da25c046579ba6964df60889d409242480e",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 4
     },
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
+        {
+          "ticker": "VRTX",
+          "titulo": "Moderna vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy in 2026?",
+          "resumen": "Vertex raised its full-year outlook in Q2 with a growing pipeline across multiple disease areas. Moderna’s mRNA flu vaccine just cleared a key FDA hurdle with an expanding oncology pipeline behind it.",
+          "fuente": "Yahoo",
+          "fecha": "13 Oct 2026 12:37 UTC",
+          "url": "https://finnhub.io/api/news?id=4ff718c0d17dfa447f9637b4c4aecc5e4e89c933ebad91449ca247f2ad041a9e",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "VRTX",
           "titulo": "2 High-Flying Stocks on Our Watchlist and 1 We Question",
@@ -123,26 +196,21 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
+        }
+      ],
+      "nivel": "rojo",
+      "total": 2
+    },
+    "ALNY": {
+      "nombre": "ALNY",
+      "noticias": [
         {
-          "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals (VRTX) Beats Stock Market Upswing: What Investors Need to Know",
-          "resumen": "In the latest trading session, Vertex Pharmaceuticals (VRTX) closed at $510.08, marking a +1.36% move from the previous day.",
+          "ticker": "ALNY",
+          "titulo": "Where Could Moderna's Next Growth Come From?",
+          "resumen": "Moderna (MRNA) stock has returned 621% over the past twelve months, easily outpacing the S&P 500's 17.0% return. Yet the company's sales have fallen for three consecutive years, and nearly all of that revenue still comes from COVID vaccines. This divergence suggests investors are placing heavy bets ",
           "fuente": "Yahoo",
-          "fecha": "09 Oct 2026 20:50 UTC",
-          "url": "https://finnhub.io/api/news?id=c23fb25d8e354123601b2e2720c3044259dca98eec6080b2d7c03a9f5980203d",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex to Present New Data on ALYFTREK® at the North American Cystic Fibrosis Conference",
-          "resumen": "BOSTON, October 09, 2026--Vertex Pharmaceuticals Incorporated (Nasdaq: VRTX) today announced new interim data from the ALYFTREK® (vanzacaftor/tezacaftor/deutivacaftor) 2 to 5 years old open-label extension study, highlighting recovery of exocrine pancreatic function in some children in that age grou",
-          "fuente": "Yahoo",
-          "fecha": "09 Oct 2026 17:15 UTC",
-          "url": "https://finnhub.io/api/news?id=992912428f38dc107073c12c6a342e476503b1ef0a2f1fdff7eb3e860085c08d",
+          "fecha": "12 Oct 2026 21:01 UTC",
+          "url": "https://finnhub.io/api/news?id=44630c809357e2f07010f9d4cdb465c71d19dd1f54e2d65b83653012ff28c8ed",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -150,48 +218,54 @@
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 1
     },
-    "ALNY": {
-      "nombre": "ALNY",
+    "BEAM": {
+      "nombre": "BEAM",
       "noticias": [
         {
-          "ticker": "ALNY",
-          "titulo": "Alnylam vs. Ionis: Here's the Better Bad-News Buy",
-          "resumen": "The sell-offs for both of these beaten-down biotech stocks appear to be overdone.",
+          "ticker": "BEAM",
+          "titulo": "Top 10 Powder Keg Stocks Where Short Sellers Are Sitting on a Fuse",
+          "resumen": "Dutch Bros, SoundHoundAI, Kohl&#39;s and Ondas are among the top ten most-heavily shorted stocks in the market right now.",
+          "fuente": "Benzinga",
+          "fecha": "13 Oct 2026 08:45 UTC",
+          "url": "https://finnhub.io/api/news?id=b18677b3cb3a6476a14af3b64521b8be4201728fa6e937d1ee7d3e4ff6b6b924",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/13/Old-Black-Cannonball-On-Red-Background-b.jpg?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "BEAM",
+          "titulo": "Beam Therapeutics To Present Initial Data From Ongoing Phase 1/2 Clinical Trial Evaluating BEAM-301 For Treatment Of Glycogen Storage Disease Type Ia At 33rd Annual Congress Of ESGCT",
+          "resumen": "BEAM-301 Achieves Clinical Proof of Concept for Genetic Correction of R83C Mutation in GSDIaInitial Phase 1/2 Data Show Restoration of Endogenous Glucose Production Following a Single Treatment, with Dose-Dependent",
+          "fuente": "Benzinga",
+          "fecha": "13 Oct 2026 07:14 UTC",
+          "url": "https://finnhub.io/api/news?id=f52b9ddeeb042ff9ca7d362afbdf4506a973a6584611e20cc3d1eca755181320",
+          "imagen": "",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 2
+    },
+    "OCUL": {
+      "nombre": "OCUL",
+      "noticias": [
+        {
+          "ticker": "OCUL",
+          "titulo": "3 Unprofitable Stocks Walking a Fine Line",
+          "resumen": "Unprofitable companies face headwinds as they struggle to keep operating expenses under control. Some may be investing heavily, but the majority fail to convert spending into sustainable growth.",
           "fuente": "Yahoo",
-          "fecha": "10 Oct 2026 09:04 UTC",
-          "url": "https://finnhub.io/api/news?id=c9211bd0f24213d8b7d4d4e38cee85792f129e300d1b97b91c6421426eb29816",
+          "fecha": "12 Oct 2026 16:15 UTC",
+          "url": "https://finnhub.io/api/news?id=721bbdec417337b1c69a13f3025128baee80b09a016264adf98a545136660e4c",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         },
-        {
-          "ticker": "ALNY",
-          "titulo": "argenx Meets Primary Endpoint in Phase II Celiac Disease Study",
-          "resumen": "ARGX's FB102 achieves its primary endpoint in a phase II celiac disease study, paving the way for late-stage development despite a nearly 12% stock drop.",
-          "fuente": "Yahoo",
-          "fecha": "09 Oct 2026 16:55 UTC",
-          "url": "https://finnhub.io/api/news?id=776b14446d4eb8093753d7f39a3520e7e05899abe38e16916ce433b14d74fce5",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 2
-    },
-    "BEAM": {
-      "nombre": "BEAM",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
-    },
-    "OCUL": {
-      "nombre": "OCUL",
-      "noticias": [
         {
           "ticker": "OCUL",
           "titulo": "UBS Initiates Coverage On Ocular Therapeutix with Buy Rating, Announces Price Target of $14",
@@ -206,19 +280,45 @@
         }
       ],
       "nivel": "azul",
-      "total": 1
+      "total": 2
     },
     "CAI": {
       "nombre": "CAI",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "CAI",
+          "titulo": "BillionToOne: A Molecular Diagnostics Stock With Strong Quality And GARP Credentials",
+          "resumen": "BillionToOne (BLLN) stock analysis: QCT-driven diagnostics, 70% GMS and 38% growth vs peers. Read here for a detailed investment analysis.",
+          "fuente": "SeekingAlpha",
+          "fecha": "12 Oct 2026 22:41 UTC",
+          "url": "https://finnhub.io/api/news?id=47774d43bd0797063678f904ad6e1707efdc7cd7b74dda1b032944c1bbb0d193",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2221210845/image_2221210845.jpg?io=getty-c-w1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "GPCR": {
       "nombre": "GPCR",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "GPCR",
+          "titulo": "Novo Down 11% in a Month: How Should Investors Approach the Stock Now?",
+          "resumen": "NVO's 11% slide in a month reflects intensifying LLY competition, pricing pressure and a lack of near-term growth visibility despite its long-term pipeline potential.",
+          "fuente": "Yahoo",
+          "fecha": "12 Oct 2026 15:24 UTC",
+          "url": "https://finnhub.io/api/news?id=52b179860418821eea1130cb59b60518198ee0e511f9ff88a48e3c8d5f21f51a",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "ABVX": {
       "nombre": "ABVX",
@@ -281,6 +381,18 @@
       "noticias": [
         {
           "ticker": "INSM",
+          "titulo": "This Adobe Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Tuesday",
+          "resumen": "Analysts downgraded ACGL, ASTS, PS, LNTH and ADBE, cutting ratings and price targets; ASTS target fell to $54 and Adobe’s to $267.",
+          "fuente": "Benzinga",
+          "fecha": "13 Oct 2026 09:24 UTC",
+          "url": "https://finnhub.io/api/news?id=882a928030f54fbc1d98c1e815bbca4d6c4fffb13441f31a2cd7bc20914509e6",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/13/Adobe-Inc.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "INSM",
           "titulo": "This Insmed Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Monday",
           "resumen": "Analysts downgraded UWMC, ACT, ROIV, INSM; ACT’s target fell to $44.",
           "fuente": "Benzinga",
@@ -317,40 +429,16 @@
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 4
     }
   },
   "resumen": {
-    "total_noticias": 17,
-    "tickers_con_noticias": 9,
-    "alertas_urgentes": 6,
-    "sin_noticias": 8
+    "total_noticias": 26,
+    "tickers_con_noticias": 13,
+    "alertas_urgentes": 8,
+    "sin_noticias": 4
   },
   "todas_noticias": [
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex to Present New Data on ALYFTREK® at the North American Cystic Fibrosis Conference",
-      "resumen": "BOSTON, October 09, 2026--Vertex Pharmaceuticals Incorporated (Nasdaq: VRTX) today announced new interim data from the ALYFTREK® (vanzacaftor/tezacaftor/deutivacaftor) 2 to 5 years old open-label extension study, highlighting recovery of exocrine pancreatic function in some children in that age grou",
-      "fuente": "Yahoo",
-      "fecha": "09 Oct 2026 17:15 UTC",
-      "url": "https://finnhub.io/api/news?id=992912428f38dc107073c12c6a342e476503b1ef0a2f1fdff7eb3e860085c08d",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "argenx (ENXTBR:ARGX) Stock May Be Fully Priced After Its 185% Run",
-      "resumen": "argenx has been through a volatile spell after a long run, and the recent swings now put a simple question in front of you as an investor: Is the current share price still in line with what the company's earnings can reasonably support? Over the past 5 years, argenx has delivered a share price gain ",
-      "fuente": "Yahoo",
-      "fecha": "10 Oct 2026 12:18 UTC",
-      "url": "https://finnhub.io/api/news?id=2a098d224028a70363f6e597a50b773fdf32229f5cf9b3999820d319882af723",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "VKTX",
       "titulo": "Viking Therapeutics' Oral Obesity Drug Advances to Phase 3 Testing. Is Now the Time to Buy This Biotech Stock?",
@@ -400,76 +488,124 @@
       "badge": "🔴"
     },
     {
-      "ticker": "ARGX",
-      "titulo": "argenx Meets Primary Endpoint in Phase II Celiac Disease Study",
-      "resumen": "ARGX's FB102 achieves its primary endpoint in a phase II celiac disease study, paving the way for late-stage development despite a nearly 12% stock drop.",
+      "ticker": "VKTX",
+      "titulo": "Oppenheimer Thinks Viking Therapeutics Stock Can Soar to $120. Here's the Math Behind the Ultra-Bullish Call.",
+      "resumen": "Oppenheimer raised Viking Therapeutics' price target to $120, citing strong trial data, and an improving probability of success for its key drug.",
       "fuente": "Yahoo",
-      "fecha": "09 Oct 2026 16:55 UTC",
-      "url": "https://finnhub.io/api/news?id=776b14446d4eb8093753d7f39a3520e7e05899abe38e16916ce433b14d74fce5",
+      "fecha": "12 Oct 2026 11:42 UTC",
+      "url": "https://finnhub.io/api/news?id=e3720a2ff5a85aec8b8cacc55256db6736ca08f3e3105488c664973fcef72697",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "SNDX",
+      "titulo": "What's going on in today's after hours session",
+      "resumen": "As the regular session of the US market concludes on Monday, let's get an insight into the after-hours session and identify the stocks leading the pack in terms of gains and losses.",
+      "fuente": "ChartMill",
+      "fecha": "12 Oct 2026 21:00 UTC",
+      "url": "https://finnhub.io/api/news?id=56ce2cf9fdfee1084b9593a48d125a25245794e012e6e4ec7fb239413c7140b0",
+      "imagen": "https://www.chartmill.com/images/uploads/CM_Aftermarket_Movers_Small_free_e077945a19.webp",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "ALNY",
-      "titulo": "argenx Meets Primary Endpoint in Phase II Celiac Disease Study",
-      "resumen": "ARGX's FB102 achieves its primary endpoint in a phase II celiac disease study, paving the way for late-stage development despite a nearly 12% stock drop.",
+      "titulo": "Where Could Moderna's Next Growth Come From?",
+      "resumen": "Moderna (MRNA) stock has returned 621% over the past twelve months, easily outpacing the S&P 500's 17.0% return. Yet the company's sales have fallen for three consecutive years, and nearly all of that revenue still comes from COVID vaccines. This divergence suggests investors are placing heavy bets ",
       "fuente": "Yahoo",
-      "fecha": "09 Oct 2026 16:55 UTC",
-      "url": "https://finnhub.io/api/news?id=776b14446d4eb8093753d7f39a3520e7e05899abe38e16916ce433b14d74fce5",
+      "fecha": "12 Oct 2026 21:01 UTC",
+      "url": "https://finnhub.io/api/news?id=44630c809357e2f07010f9d4cdb465c71d19dd1f54e2d65b83653012ff28c8ed",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "VKTX",
-      "titulo": "Viking Therapeutics, Inc. (VKTX) Exceeds Market Returns: Some Facts to Consider",
-      "resumen": "The latest trading day saw Viking Therapeutics, Inc. (VKTX) settling at $28.53, representing a +2.88% change from its previous close.",
+      "ticker": "SNDX",
+      "titulo": "SNDX Stock Slumps 16% After-Hours — What’s Driving The Selloff?",
+      "resumen": "Syndax said on Monday that its experimental drug axatilimab missed the main goal of a mid-stage study in idiopathic pulmonary fibrosis.",
       "fuente": "Yahoo",
-      "fecha": "09 Oct 2026 20:45 UTC",
-      "url": "https://finnhub.io/api/news?id=bdea0a4a8faaa4d5ec31e50f925c5da25c046579ba6964df60889d409242480e",
+      "fecha": "12 Oct 2026 22:11 UTC",
+      "url": "https://finnhub.io/api/news?id=6b5b65cd2a253c5177674c406aa9d2937b519b8696b162ef5d93b7f629037153",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "SNDX",
+      "titulo": "Syndax Pharmaceuticals (SNDX) Is Down 7.2% After Axatilimab IPF Trial Misses Endpoint Has The Bull Case Changed?",
+      "resumen": "Earlier this week, Syndax Pharmaceuticals reported that its MAXPIRe Phase 2 trial of axatilimab in idiopathic pulmonary fibrosis failed to meet the primary endpoint of slowing lung function decline, leading the company to halt further IPF development for the drug while maintaining other trials. An i",
+      "fuente": "Yahoo",
+      "fecha": "13 Oct 2026 04:34 UTC",
+      "url": "https://finnhub.io/api/news?id=deb352a4e57605ef119420a8a65fd4463c03dfed9562777a745f8150ca2107c1",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "SNDX",
+      "titulo": "Why UnitedHealth Group Shares Are Trading Higher; Here Are 20 Stocks Moving Premarket",
+      "resumen": "UnitedHealth rose after Q3 earnings and sales beat estimates; BIO-Key led gainers, while HUB Cyber Security topped premarket losers.",
+      "fuente": "Benzinga",
+      "fecha": "13 Oct 2026 06:28 UTC",
+      "url": "https://finnhub.io/api/news?id=dd19c7a0f40a3c6f6b1cd92ce159850ea92451607d4777d773ebe62e0f63e838",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/13/Top-Trades-Yield-Big-Gains.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "Beam Therapeutics To Present Initial Data From Ongoing Phase 1/2 Clinical Trial Evaluating BEAM-301 For Treatment Of Glycogen Storage Disease Type Ia At 33rd Annual Congress Of ESGCT",
+      "resumen": "BEAM-301 Achieves Clinical Proof of Concept for Genetic Correction of R83C Mutation in GSDIaInitial Phase 1/2 Data Show Restoration of Endogenous Glucose Production Following a Single Treatment, with Dose-Dependent",
+      "fuente": "Benzinga",
+      "fecha": "13 Oct 2026 07:14 UTC",
+      "url": "https://finnhub.io/api/news?id=f52b9ddeeb042ff9ca7d362afbdf4506a973a6584611e20cc3d1eca755181320",
+      "imagen": "",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "SNDX",
+      "titulo": "Syndax Pharmaceuticals, BioNTech, Seagate And Other Big Stocks Moving Lower In Tuesday’s Pre-Market Session",
+      "resumen": "U.S. futures mixed; Syndax plunged 17% after its lung fibrosis trial missed its endpoint. Zhibao, Chaince, Six Flags and tech stocks also fell premarket.",
+      "fuente": "Benzinga",
+      "fecha": "13 Oct 2026 08:02 UTC",
+      "url": "https://finnhub.io/api/news?id=3d98502c2ac09777ddaba1c8bc095285ca07cc5f4ac948f2a2b3a6b31bc3496d",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/13/Section-Of-A-Financial-Newspaper-Titled-.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "Top 10 Powder Keg Stocks Where Short Sellers Are Sitting on a Fuse",
+      "resumen": "Dutch Bros, SoundHoundAI, Kohl&#39;s and Ondas are among the top ten most-heavily shorted stocks in the market right now.",
+      "fuente": "Benzinga",
+      "fecha": "13 Oct 2026 08:45 UTC",
+      "url": "https://finnhub.io/api/news?id=b18677b3cb3a6476a14af3b64521b8be4201728fa6e937d1ee7d3e4ff6b6b924",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/13/Old-Black-Cannonball-On-Red-Background-b.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals (VRTX) Beats Stock Market Upswing: What Investors Need to Know",
-      "resumen": "In the latest trading session, Vertex Pharmaceuticals (VRTX) closed at $510.08, marking a +1.36% move from the previous day.",
+      "titulo": "Moderna vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy in 2026?",
+      "resumen": "Vertex raised its full-year outlook in Q2 with a growing pipeline across multiple disease areas. Moderna’s mRNA flu vaccine just cleared a key FDA hurdle with an expanding oncology pipeline behind it.",
       "fuente": "Yahoo",
-      "fecha": "09 Oct 2026 20:50 UTC",
-      "url": "https://finnhub.io/api/news?id=c23fb25d8e354123601b2e2720c3044259dca98eec6080b2d7c03a9f5980203d",
+      "fecha": "13 Oct 2026 12:37 UTC",
+      "url": "https://finnhub.io/api/news?id=4ff718c0d17dfa447f9637b4c4aecc5e4e89c933ebad91449ca247f2ad041a9e",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "DNLI",
-      "titulo": "Is Denali Therapeutics (DNLI) Reasonably Valued On Future Cash Flow?",
-      "resumen": "Denali Therapeutics has delivered a mixed share price journey, with sharp gains over the past year sitting against a much weaker longer track record. That kind of profile puts the spotlight firmly on whether the current stock price is aligned with the cash flows that the business can realistically p",
-      "fuente": "Yahoo",
-      "fecha": "10 Oct 2026 03:22 UTC",
-      "url": "https://finnhub.io/api/news?id=aad91380d98d90342ce4ba7df6223018b080b79595b63df69fe3c6e1e0aeaa21",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Alnylam vs. Ionis: Here's the Better Bad-News Buy",
-      "resumen": "The sell-offs for both of these beaten-down biotech stocks appear to be overdone.",
-      "fuente": "Yahoo",
-      "fecha": "10 Oct 2026 09:04 UTC",
-      "url": "https://finnhub.io/api/news?id=c9211bd0f24213d8b7d4d4e38cee85792f129e300d1b97b91c6421426eb29816",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "INSM",
@@ -527,6 +663,90 @@
       "fecha": "12 Oct 2026 10:31 UTC",
       "url": "https://finnhub.io/api/news?id=9202fe518a488cc7029f2456af0fc3ba7be6c9d583a9d1306d3305f451800fcb",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "2 Stocks That Could Soar in Q4",
+      "resumen": "These growth companies offer investors the potential for near-term upside from fourth-quarter catalysts and long-term growth from realizing value in their pipelines.",
+      "fuente": "Yahoo",
+      "fecha": "12 Oct 2026 11:05 UTC",
+      "url": "https://finnhub.io/api/news?id=ff427485957873123d61db2c09f08ffd08cb81798ccfff26bd243df6c41b0493",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "Oppenheimer Maintains Outperform on argenx, Lowers Price Target to $1038",
+      "resumen": "Oppenheimer  analyst Leland Gershell   maintains argenx (NASDAQ:ARGX) with a Outperform and lowers the price target from $1100 to $1038.",
+      "fuente": "Benzinga",
+      "fecha": "12 Oct 2026 13:43 UTC",
+      "url": "https://finnhub.io/api/news?id=6e87f62d7d7382c70b0d9ffb3ecffab1e01dcc76fb856bf0c70b967b4f78685b",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Novo Down 11% in a Month: How Should Investors Approach the Stock Now?",
+      "resumen": "NVO's 11% slide in a month reflects intensifying LLY competition, pricing pressure and a lack of near-term growth visibility despite its long-term pipeline potential.",
+      "fuente": "Yahoo",
+      "fecha": "12 Oct 2026 15:24 UTC",
+      "url": "https://finnhub.io/api/news?id=52b179860418821eea1130cb59b60518198ee0e511f9ff88a48e3c8d5f21f51a",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "GPCR",
+      "titulo": "Novo Down 11% in a Month: How Should Investors Approach the Stock Now?",
+      "resumen": "NVO's 11% slide in a month reflects intensifying LLY competition, pricing pressure and a lack of near-term growth visibility despite its long-term pipeline potential.",
+      "fuente": "Yahoo",
+      "fecha": "12 Oct 2026 15:24 UTC",
+      "url": "https://finnhub.io/api/news?id=52b179860418821eea1130cb59b60518198ee0e511f9ff88a48e3c8d5f21f51a",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "OCUL",
+      "titulo": "3 Unprofitable Stocks Walking a Fine Line",
+      "resumen": "Unprofitable companies face headwinds as they struggle to keep operating expenses under control. Some may be investing heavily, but the majority fail to convert spending into sustainable growth.",
+      "fuente": "Yahoo",
+      "fecha": "12 Oct 2026 16:15 UTC",
+      "url": "https://finnhub.io/api/news?id=721bbdec417337b1c69a13f3025128baee80b09a016264adf98a545136660e4c",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "CAI",
+      "titulo": "BillionToOne: A Molecular Diagnostics Stock With Strong Quality And GARP Credentials",
+      "resumen": "BillionToOne (BLLN) stock analysis: QCT-driven diagnostics, 70% GMS and 38% growth vs peers. Read here for a detailed investment analysis.",
+      "fuente": "SeekingAlpha",
+      "fecha": "12 Oct 2026 22:41 UTC",
+      "url": "https://finnhub.io/api/news?id=47774d43bd0797063678f904ad6e1707efdc7cd7b74dda1b032944c1bbb0d193",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2221210845/image_2221210845.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "This Adobe Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Tuesday",
+      "resumen": "Analysts downgraded ACGL, ASTS, PS, LNTH and ADBE, cutting ratings and price targets; ASTS target fell to $54 and Adobe’s to $267.",
+      "fuente": "Benzinga",
+      "fecha": "13 Oct 2026 09:24 UTC",
+      "url": "https://finnhub.io/api/news?id=882a928030f54fbc1d98c1e815bbca4d6c4fffb13441f31a2cd7bc20914509e6",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/13/Adobe-Inc.jpg?width=2048&height=1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

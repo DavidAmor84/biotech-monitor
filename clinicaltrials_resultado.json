@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "13/10/2026 16:14",
-  "fecha": "2026-10-13",
+  "generado": "14/10/2026 13:55",
+  "fecha": "2026-10-14",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -198,14 +198,7 @@
           "ventana": "2028",
           "monitorizar": true,
           "peso_importancia": 9,
-          "cambios": [
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2026-10-05 → 2026-10-13"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1786,14 +1779,7 @@
           "ventana": "2030",
           "monitorizar": true,
           "peso_importancia": 7,
-          "cambios": [
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2026-09-18 → 2026-10-13"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2301,14 +2287,7 @@
       "peso_importancia": 9,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2026-10-05 → 2026-10-13"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT07486934"
     },
     {
@@ -2690,33 +2669,6 @@
       "errores_validacion": [],
       "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT05371613"
-    },
-    {
-      "ticker": "ALNY",
-      "nct": "NCT07181109",
-      "nombre": "ZENITH Ph3 CVOT — zilebesiran — hipertensión",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2030-09-23",
-      "mensaje": "Reclutando",
-      "prioridad": "media",
-      "estrellas": "⭐⭐",
-      "tipo": "cvot",
-      "catalizador": "CVOT / MACE endpoint",
-      "ventana": "2030",
-      "peso_importancia": 7,
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2026-09-18 → 2026-10-13"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07181109"
     },
     {
       "ticker": "ALNY",

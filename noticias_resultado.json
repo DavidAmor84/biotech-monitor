@@ -1,12 +1,36 @@
 {
-  "generado": "13/10/2026 14:58 UTC",
+  "generado": "14/10/2026 12:50 UTC",
   "plazo_horas": 72,
-  "desde": "2026-10-10",
-  "hasta": "2026-10-13",
+  "desde": "2026-10-11",
+  "hasta": "2026-10-14",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
       "noticias": [
+        {
+          "ticker": "SNDX",
+          "titulo": "Top Midday Decliners",
+          "resumen": "UBS downgraded Acadia Pharmaceuticals' (ACAD) shares one notch to neutral and set a $23 price target",
+          "fuente": "Yahoo",
+          "fecha": "13 Oct 2026 18:01 UTC",
+          "url": "https://finnhub.io/api/news?id=57f01988ed2a20ad639786c5a938328d21dfd0bbe471c5b80d47c42d552aa832",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "SNDX",
+          "titulo": "Syndax Pharmaceuticals Stock Plunges. A Failed Trial Deals Blow to Growth Plans.",
+          "resumen": "Treatment for a serious lung disease failed to meet the company’s primary goal.",
+          "fuente": "Yahoo",
+          "fecha": "13 Oct 2026 15:24 UTC",
+          "url": "https://finnhub.io/api/news?id=3af08ef327b1a3960efcd04456822a3362fc7e4c6f832a1ff86a9034641a7642",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "SNDX",
           "titulo": "Syndax Pharmaceuticals, BioNTech, Seagate And Other Big Stocks Moving Lower In Tuesday’s Pre-Market Session",
@@ -21,48 +45,24 @@
         },
         {
           "ticker": "SNDX",
+          "titulo": "HC Wainwright & Co. Reiterates Buy on Syndax Pharmaceuticals, Maintains $38 Price Target",
+          "resumen": "HC Wainwright &amp; Co.  analyst Andres Y. Maldonado   reiterates Syndax Pharmaceuticals (NASDAQ:SNDX) with a Buy and maintains $38 price target.",
+          "fuente": "Benzinga",
+          "fecha": "13 Oct 2026 06:59 UTC",
+          "url": "https://finnhub.io/api/news?id=dfc7ce09d536f60865595b404696979d3e0812c308caac17cc097a0efd62fba4",
+          "imagen": "",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "SNDX",
           "titulo": "Why UnitedHealth Group Shares Are Trading Higher; Here Are 20 Stocks Moving Premarket",
           "resumen": "UnitedHealth rose after Q3 earnings and sales beat estimates; BIO-Key led gainers, while HUB Cyber Security topped premarket losers.",
           "fuente": "Benzinga",
           "fecha": "13 Oct 2026 06:28 UTC",
           "url": "https://finnhub.io/api/news?id=dd19c7a0f40a3c6f6b1cd92ce159850ea92451607d4777d773ebe62e0f63e838",
           "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/13/Top-Trades-Yield-Big-Gains.jpg?width=2048&height=1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "SNDX",
-          "titulo": "Syndax Pharmaceuticals (SNDX) Is Down 7.2% After Axatilimab IPF Trial Misses Endpoint Has The Bull Case Changed?",
-          "resumen": "Earlier this week, Syndax Pharmaceuticals reported that its MAXPIRe Phase 2 trial of axatilimab in idiopathic pulmonary fibrosis failed to meet the primary endpoint of slowing lung function decline, leading the company to halt further IPF development for the drug while maintaining other trials. An i",
-          "fuente": "Yahoo",
-          "fecha": "13 Oct 2026 04:34 UTC",
-          "url": "https://finnhub.io/api/news?id=deb352a4e57605ef119420a8a65fd4463c03dfed9562777a745f8150ca2107c1",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "SNDX",
-          "titulo": "SNDX Stock Slumps 16% After-Hours — What’s Driving The Selloff?",
-          "resumen": "Syndax said on Monday that its experimental drug axatilimab missed the main goal of a mid-stage study in idiopathic pulmonary fibrosis.",
-          "fuente": "Yahoo",
-          "fecha": "12 Oct 2026 22:11 UTC",
-          "url": "https://finnhub.io/api/news?id=6b5b65cd2a253c5177674c406aa9d2937b519b8696b162ef5d93b7f629037153",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "SNDX",
-          "titulo": "What's going on in today's after hours session",
-          "resumen": "As the regular session of the US market concludes on Monday, let's get an insight into the after-hours session and identify the stocks leading the pack in terms of gains and losses.",
-          "fuente": "ChartMill",
-          "fecha": "12 Oct 2026 21:00 UTC",
-          "url": "https://finnhub.io/api/news?id=56ce2cf9fdfee1084b9593a48d125a25245794e012e6e4ec7fb239413c7140b0",
-          "imagen": "https://www.chartmill.com/images/uploads/CM_Aftermarket_Movers_Small_free_e077945a19.webp",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
@@ -101,6 +101,18 @@
       "noticias": [
         {
           "ticker": "DNLI",
+          "titulo": "Pompe Disease Market Set for Expansion During the Forecast Period (2026-2036) as Growth is Fueled by Next-Generation ERTs, Newborn Screening, and Pipeline Innovation | DelveInsight",
+          "resumen": "Recently published Pompe Disease Market Insights report includes a comprehensive understanding of current treatment practices, Pompe disease emerging drugs, market share of individual therapies, and current and forecasted market size from 2022 to 2036, segmented into leading markets [the United Stat",
+          "fuente": "Yahoo",
+          "fecha": "13 Oct 2026 14:31 UTC",
+          "url": "https://finnhub.io/api/news?id=d6338e88ad9ab9c55191c58288ca6a84f4a83061ae943787d48799221d5fd2cd",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "DNLI",
           "titulo": "Denali Therapeutics Q2 2026 Earnings Call Transcript",
           "resumen": "On Thursday, Denali Therapeutics (NASDAQ:DNLI) discussed second-quarter financial results during its earnings call. The full transcript is provided below.\nBenzinga APIs provide real-time access to earnings call",
           "fuente": "Benzinga",
@@ -113,11 +125,59 @@
         }
       ],
       "nivel": "rojo",
-      "total": 1
+      "total": 2
     },
     "VKTX": {
       "nombre": "VKTX",
       "noticias": [
+        {
+          "ticker": "VKTX",
+          "titulo": "Viking Therapeutics Announces Initiation of VK2735 Oral Phase 3 Clinical Program in Patients with Obesity",
+          "resumen": "Viking Therapeutics, Inc. (Viking) (NASDAQ: VKTX), a clinical-stage biopharmaceutical company focused on the development of novel therapies for metabolic and endocrine disorders, today announced the initiation of the SUNRISE Phase 3 clinical program for oral VK2735, the company's dual agonist of the",
+          "fuente": "Yahoo",
+          "fecha": "14 Oct 2026 11:05 UTC",
+          "url": "https://finnhub.io/api/news?id=2825a9ab16e8265cd1dff85e881c300127794ef9796066af219184ac9f2b5a21",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "4 High-Risk Stocks Built for Big Returns",
+          "resumen": "These speculative investments could turbocharge a portfolio to market-beating returns.",
+          "fuente": "Yahoo",
+          "fecha": "14 Oct 2026 10:28 UTC",
+          "url": "https://finnhub.io/api/news?id=639be6a0f3174334bb9ffe394872e0c881fed35ed38bfe334c29264dcdc64e55",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "Viking Therapeutics (VKTX) Stock Dropped, So What Is Driving Attention Now?",
+          "resumen": "Viking Therapeutics (VKTX) is back in focus after the company kicked off an exploratory oral maintenance dosing study for VK2735 and highlighted progress in two large Phase 3 obesity trials. Recent price action has cooled enthusiasm around Viking Therapeutics. The share price is down about 6% over t",
+          "fuente": "Yahoo",
+          "fecha": "14 Oct 2026 05:20 UTC",
+          "url": "https://finnhub.io/api/news?id=039705c488deee8217761357b1b539f281f4fcedb8a5a0c84700f3eab0b714c3",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "3 Absurdly Cheap Stocks to Buy Before the End of 2026",
+          "resumen": "These stocks are priced incredibly low and possess significant upside.",
+          "fuente": "Yahoo",
+          "fecha": "13 Oct 2026 21:35 UTC",
+          "url": "https://finnhub.io/api/news?id=0225fafa16770b8f902cb98304082528787d231134534da56943ba525d6461e1",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "VKTX",
           "titulo": "Novo Down 11% in a Month: How Should Investors Approach the Stock Now?",
@@ -129,50 +189,26 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
+        }
+      ],
+      "nivel": "rojo",
+      "total": 5
+    },
+    "VRTX": {
+      "nombre": "VRTX",
+      "noticias": [
         {
-          "ticker": "VKTX",
-          "titulo": "Oppenheimer Thinks Viking Therapeutics Stock Can Soar to $120. Here's the Math Behind the Ultra-Bullish Call.",
-          "resumen": "Oppenheimer raised Viking Therapeutics' price target to $120, citing strong trial data, and an improving probability of success for its key drug.",
+          "ticker": "VRTX",
+          "titulo": "3 Top Quality Value Stocks To Watch In October 2026",
+          "resumen": "Rising gasoline and diesel costs are pushing US inflation higher, and that puts steady cash generation and conservative balance sheets back in the spotlight. When borrowing stays expensive and prices keep climbing, investors often pay closer attention to companies that already throw off cash and car",
           "fuente": "Yahoo",
-          "fecha": "12 Oct 2026 11:42 UTC",
-          "url": "https://finnhub.io/api/news?id=e3720a2ff5a85aec8b8cacc55256db6736ca08f3e3105488c664973fcef72697",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "2 Stocks That Could Soar in Q4",
-          "resumen": "These growth companies offer investors the potential for near-term upside from fourth-quarter catalysts and long-term growth from realizing value in their pipelines.",
-          "fuente": "Yahoo",
-          "fecha": "12 Oct 2026 11:05 UTC",
-          "url": "https://finnhub.io/api/news?id=ff427485957873123d61db2c09f08ffd08cb81798ccfff26bd243df6c41b0493",
+          "fecha": "14 Oct 2026 11:11 UTC",
+          "url": "https://finnhub.io/api/news?id=72e7c9e44734b50cdef94c88faa680defd3c10cc3071502c03fa5b38fac7847a",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         },
-        {
-          "ticker": "VKTX",
-          "titulo": "Viking Therapeutics' Oral Obesity Drug Advances to Phase 3 Testing. Is Now the Time to Buy This Biotech Stock?",
-          "resumen": "Viking's weight loss pill program has a couple of issues, including the fierce competitors who have a big head start.",
-          "fuente": "Yahoo",
-          "fecha": "10 Oct 2026 16:35 UTC",
-          "url": "https://finnhub.io/api/news?id=e3030dafa636a2ee24d1b3ed46b188c91ccded8056d5dec5db567988258fe964",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 4
-    },
-    "VRTX": {
-      "nombre": "VRTX",
-      "noticias": [
         {
           "ticker": "VRTX",
           "titulo": "Moderna vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy in 2026?",
@@ -199,7 +235,7 @@
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 3
     },
     "ALNY": {
       "nombre": "ALNY",
@@ -223,6 +259,18 @@
     "BEAM": {
       "nombre": "BEAM",
       "noticias": [
+        {
+          "ticker": "BEAM",
+          "titulo": "Beam Therapeutics to Present Initial Data from Phase 1/2 Trial of BEAM-301 in Glycogen Storage Disease Type Ia (GSDIa) at the ESGCT 33rd Annual Congress",
+          "resumen": "BEAM-301 Achieves Clinical Proof of Concept for Genetic Correction of R83C Mutation in GSDIa Initial Phase 1/2 Data Show Restoration of Endogenous Glucose Production Following a Single Treatment, with Dose-Dependent Improvements in Key GSDIa Endpoints Safety Profile of BEAM-301 Consistent with LNP-b",
+          "fuente": "Yahoo",
+          "fecha": "13 Oct 2026 11:00 UTC",
+          "url": "https://finnhub.io/api/news?id=1196c2b13f18c001dfcad28d60499ec9be29434d5e6993e3905322ae75ada6e7",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "BEAM",
           "titulo": "Top 10 Powder Keg Stocks Where Short Sellers Are Sitting on a Fuse",
@@ -249,11 +297,23 @@
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 3
     },
     "OCUL": {
       "nombre": "OCUL",
       "noticias": [
+        {
+          "ticker": "OCUL",
+          "titulo": "3 Healthcare Stocks We Find Risky",
+          "resumen": "From novel pharmaceuticals to telemedicine, most healthcare companies are on a mission to drive better patient outcomes. Those leading the charge have not only realized strong financial performance but also propelled the broader industry’s returns as healthcare stocks have gained 33.4% over the past",
+          "fuente": "Yahoo",
+          "fecha": "13 Oct 2026 10:11 UTC",
+          "url": "https://finnhub.io/api/news?id=4a64fe5258e849fe10fc8a4194768fc579a9172ae697cef6d8441f9a51df4e68",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "OCUL",
           "titulo": "3 Unprofitable Stocks Walking a Fine Line",
@@ -280,7 +340,7 @@
         }
       ],
       "nivel": "azul",
-      "total": 2
+      "total": 3
     },
     "CAI": {
       "nombre": "CAI",
@@ -433,24 +493,12 @@
     }
   },
   "resumen": {
-    "total_noticias": 26,
+    "total_noticias": 31,
     "tickers_con_noticias": 13,
     "alertas_urgentes": 8,
     "sin_noticias": 4
   },
   "todas_noticias": [
-    {
-      "ticker": "VKTX",
-      "titulo": "Viking Therapeutics' Oral Obesity Drug Advances to Phase 3 Testing. Is Now the Time to Buy This Biotech Stock?",
-      "resumen": "Viking's weight loss pill program has a couple of issues, including the fierce competitors who have a big head start.",
-      "fuente": "Yahoo",
-      "fecha": "10 Oct 2026 16:35 UTC",
-      "url": "https://finnhub.io/api/news?id=e3030dafa636a2ee24d1b3ed46b188c91ccded8056d5dec5db567988258fe964",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "SENS",
       "titulo": "Senseonics Holdings Q2 2026 Earnings Call: Complete Transcript",
@@ -488,30 +536,6 @@
       "badge": "🔴"
     },
     {
-      "ticker": "VKTX",
-      "titulo": "Oppenheimer Thinks Viking Therapeutics Stock Can Soar to $120. Here's the Math Behind the Ultra-Bullish Call.",
-      "resumen": "Oppenheimer raised Viking Therapeutics' price target to $120, citing strong trial data, and an improving probability of success for its key drug.",
-      "fuente": "Yahoo",
-      "fecha": "12 Oct 2026 11:42 UTC",
-      "url": "https://finnhub.io/api/news?id=e3720a2ff5a85aec8b8cacc55256db6736ca08f3e3105488c664973fcef72697",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "SNDX",
-      "titulo": "What's going on in today's after hours session",
-      "resumen": "As the regular session of the US market concludes on Monday, let's get an insight into the after-hours session and identify the stocks leading the pack in terms of gains and losses.",
-      "fuente": "ChartMill",
-      "fecha": "12 Oct 2026 21:00 UTC",
-      "url": "https://finnhub.io/api/news?id=56ce2cf9fdfee1084b9593a48d125a25245794e012e6e4ec7fb239413c7140b0",
-      "imagen": "https://www.chartmill.com/images/uploads/CM_Aftermarket_Movers_Small_free_e077945a19.webp",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
       "ticker": "ALNY",
       "titulo": "Where Could Moderna's Next Growth Come From?",
       "resumen": "Moderna (MRNA) stock has returned 621% over the past twelve months, easily outpacing the S&P 500's 17.0% return. Yet the company's sales have fallen for three consecutive years, and nearly all of that revenue still comes from COVID vaccines. This divergence suggests investors are placing heavy bets ",
@@ -525,36 +549,24 @@
     },
     {
       "ticker": "SNDX",
-      "titulo": "SNDX Stock Slumps 16% After-Hours — What’s Driving The Selloff?",
-      "resumen": "Syndax said on Monday that its experimental drug axatilimab missed the main goal of a mid-stage study in idiopathic pulmonary fibrosis.",
-      "fuente": "Yahoo",
-      "fecha": "12 Oct 2026 22:11 UTC",
-      "url": "https://finnhub.io/api/news?id=6b5b65cd2a253c5177674c406aa9d2937b519b8696b162ef5d93b7f629037153",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "SNDX",
-      "titulo": "Syndax Pharmaceuticals (SNDX) Is Down 7.2% After Axatilimab IPF Trial Misses Endpoint Has The Bull Case Changed?",
-      "resumen": "Earlier this week, Syndax Pharmaceuticals reported that its MAXPIRe Phase 2 trial of axatilimab in idiopathic pulmonary fibrosis failed to meet the primary endpoint of slowing lung function decline, leading the company to halt further IPF development for the drug while maintaining other trials. An i",
-      "fuente": "Yahoo",
-      "fecha": "13 Oct 2026 04:34 UTC",
-      "url": "https://finnhub.io/api/news?id=deb352a4e57605ef119420a8a65fd4463c03dfed9562777a745f8150ca2107c1",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "SNDX",
       "titulo": "Why UnitedHealth Group Shares Are Trading Higher; Here Are 20 Stocks Moving Premarket",
       "resumen": "UnitedHealth rose after Q3 earnings and sales beat estimates; BIO-Key led gainers, while HUB Cyber Security topped premarket losers.",
       "fuente": "Benzinga",
       "fecha": "13 Oct 2026 06:28 UTC",
       "url": "https://finnhub.io/api/news?id=dd19c7a0f40a3c6f6b1cd92ce159850ea92451607d4777d773ebe62e0f63e838",
       "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/13/Top-Trades-Yield-Big-Gains.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "SNDX",
+      "titulo": "HC Wainwright & Co. Reiterates Buy on Syndax Pharmaceuticals, Maintains $38 Price Target",
+      "resumen": "HC Wainwright &amp; Co.  analyst Andres Y. Maldonado   reiterates Syndax Pharmaceuticals (NASDAQ:SNDX) with a Buy and maintains $38 price target.",
+      "fuente": "Benzinga",
+      "fecha": "13 Oct 2026 06:59 UTC",
+      "url": "https://finnhub.io/api/news?id=dfc7ce09d536f60865595b404696979d3e0812c308caac17cc097a0efd62fba4",
+      "imagen": "",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
@@ -596,12 +608,60 @@
       "badge": "🔴"
     },
     {
+      "ticker": "BEAM",
+      "titulo": "Beam Therapeutics to Present Initial Data from Phase 1/2 Trial of BEAM-301 in Glycogen Storage Disease Type Ia (GSDIa) at the ESGCT 33rd Annual Congress",
+      "resumen": "BEAM-301 Achieves Clinical Proof of Concept for Genetic Correction of R83C Mutation in GSDIa Initial Phase 1/2 Data Show Restoration of Endogenous Glucose Production Following a Single Treatment, with Dose-Dependent Improvements in Key GSDIa Endpoints Safety Profile of BEAM-301 Consistent with LNP-b",
+      "fuente": "Yahoo",
+      "fecha": "13 Oct 2026 11:00 UTC",
+      "url": "https://finnhub.io/api/news?id=1196c2b13f18c001dfcad28d60499ec9be29434d5e6993e3905322ae75ada6e7",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
       "ticker": "VRTX",
       "titulo": "Moderna vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy in 2026?",
       "resumen": "Vertex raised its full-year outlook in Q2 with a growing pipeline across multiple disease areas. Moderna’s mRNA flu vaccine just cleared a key FDA hurdle with an expanding oncology pipeline behind it.",
       "fuente": "Yahoo",
       "fecha": "13 Oct 2026 12:37 UTC",
       "url": "https://finnhub.io/api/news?id=4ff718c0d17dfa447f9637b4c4aecc5e4e89c933ebad91449ca247f2ad041a9e",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "SNDX",
+      "titulo": "Syndax Pharmaceuticals Stock Plunges. A Failed Trial Deals Blow to Growth Plans.",
+      "resumen": "Treatment for a serious lung disease failed to meet the company’s primary goal.",
+      "fuente": "Yahoo",
+      "fecha": "13 Oct 2026 15:24 UTC",
+      "url": "https://finnhub.io/api/news?id=3af08ef327b1a3960efcd04456822a3362fc7e4c6f832a1ff86a9034641a7642",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Viking Therapeutics (VKTX) Stock Dropped, So What Is Driving Attention Now?",
+      "resumen": "Viking Therapeutics (VKTX) is back in focus after the company kicked off an exploratory oral maintenance dosing study for VK2735 and highlighted progress in two large Phase 3 obesity trials. Recent price action has cooled enthusiasm around Viking Therapeutics. The share price is down about 6% over t",
+      "fuente": "Yahoo",
+      "fecha": "14 Oct 2026 05:20 UTC",
+      "url": "https://finnhub.io/api/news?id=039705c488deee8217761357b1b539f281f4fcedb8a5a0c84700f3eab0b714c3",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Viking Therapeutics Announces Initiation of VK2735 Oral Phase 3 Clinical Program in Patients with Obesity",
+      "resumen": "Viking Therapeutics, Inc. (Viking) (NASDAQ: VKTX), a clinical-stage biopharmaceutical company focused on the development of novel therapies for metabolic and endocrine disorders, today announced the initiation of the SUNRISE Phase 3 clinical program for oral VK2735, the company's dual agonist of the",
+      "fuente": "Yahoo",
+      "fecha": "14 Oct 2026 11:05 UTC",
+      "url": "https://finnhub.io/api/news?id=2825a9ab16e8265cd1dff85e881c300127794ef9796066af219184ac9f2b5a21",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
@@ -662,18 +722,6 @@
       "fuente": "Yahoo",
       "fecha": "12 Oct 2026 10:31 UTC",
       "url": "https://finnhub.io/api/news?id=9202fe518a488cc7029f2456af0fc3ba7be6c9d583a9d1306d3305f451800fcb",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "2 Stocks That Could Soar in Q4",
-      "resumen": "These growth companies offer investors the potential for near-term upside from fourth-quarter catalysts and long-term growth from realizing value in their pipelines.",
-      "fuente": "Yahoo",
-      "fecha": "12 Oct 2026 11:05 UTC",
-      "url": "https://finnhub.io/api/news?id=ff427485957873123d61db2c09f08ffd08cb81798ccfff26bd243df6c41b0493",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
@@ -747,6 +795,78 @@
       "fecha": "13 Oct 2026 09:24 UTC",
       "url": "https://finnhub.io/api/news?id=882a928030f54fbc1d98c1e815bbca4d6c4fffb13441f31a2cd7bc20914509e6",
       "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/13/Adobe-Inc.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "OCUL",
+      "titulo": "3 Healthcare Stocks We Find Risky",
+      "resumen": "From novel pharmaceuticals to telemedicine, most healthcare companies are on a mission to drive better patient outcomes. Those leading the charge have not only realized strong financial performance but also propelled the broader industry’s returns as healthcare stocks have gained 33.4% over the past",
+      "fuente": "Yahoo",
+      "fecha": "13 Oct 2026 10:11 UTC",
+      "url": "https://finnhub.io/api/news?id=4a64fe5258e849fe10fc8a4194768fc579a9172ae697cef6d8441f9a51df4e68",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "DNLI",
+      "titulo": "Pompe Disease Market Set for Expansion During the Forecast Period (2026-2036) as Growth is Fueled by Next-Generation ERTs, Newborn Screening, and Pipeline Innovation | DelveInsight",
+      "resumen": "Recently published Pompe Disease Market Insights report includes a comprehensive understanding of current treatment practices, Pompe disease emerging drugs, market share of individual therapies, and current and forecasted market size from 2022 to 2036, segmented into leading markets [the United Stat",
+      "fuente": "Yahoo",
+      "fecha": "13 Oct 2026 14:31 UTC",
+      "url": "https://finnhub.io/api/news?id=d6338e88ad9ab9c55191c58288ca6a84f4a83061ae943787d48799221d5fd2cd",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "SNDX",
+      "titulo": "Top Midday Decliners",
+      "resumen": "UBS downgraded Acadia Pharmaceuticals' (ACAD) shares one notch to neutral and set a $23 price target",
+      "fuente": "Yahoo",
+      "fecha": "13 Oct 2026 18:01 UTC",
+      "url": "https://finnhub.io/api/news?id=57f01988ed2a20ad639786c5a938328d21dfd0bbe471c5b80d47c42d552aa832",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "3 Absurdly Cheap Stocks to Buy Before the End of 2026",
+      "resumen": "These stocks are priced incredibly low and possess significant upside.",
+      "fuente": "Yahoo",
+      "fecha": "13 Oct 2026 21:35 UTC",
+      "url": "https://finnhub.io/api/news?id=0225fafa16770b8f902cb98304082528787d231134534da56943ba525d6461e1",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "4 High-Risk Stocks Built for Big Returns",
+      "resumen": "These speculative investments could turbocharge a portfolio to market-beating returns.",
+      "fuente": "Yahoo",
+      "fecha": "14 Oct 2026 10:28 UTC",
+      "url": "https://finnhub.io/api/news?id=639be6a0f3174334bb9ffe394872e0c881fed35ed38bfe334c29264dcdc64e55",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "3 Top Quality Value Stocks To Watch In October 2026",
+      "resumen": "Rising gasoline and diesel costs are pushing US inflation higher, and that puts steady cash generation and conservative balance sheets back in the spotlight. When borrowing stays expensive and prices keep climbing, investors often pay closer attention to companies that already throw off cash and car",
+      "fuente": "Yahoo",
+      "fecha": "14 Oct 2026 11:11 UTC",
+      "url": "https://finnhub.io/api/news?id=72e7c9e44734b50cdef94c88faa680defd3c10cc3071502c03fa5b38fac7847a",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

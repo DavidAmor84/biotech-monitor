@@ -1,48 +1,27 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 13/10/2026 14:49 | Período: últimos 7 días
-Desde: 2026-10-06 → Hasta: 2026-10-13
+Generado: 14/10/2026 12:40 | Período: últimos 7 días
+Desde: 2026-10-07 → Hasta: 2026-10-14
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 5 filings | 🔴 0 | 🟢 1 | 🟡 4 | 🔵 0 | ✅ 13 sin novedad
-
-──────────────────────────────────────────────────
-🚨 ALERTAS CRÍTICAS (1)
-──────────────────────────────────────────────────
-
-  [DYN] Dyne Therapeutics, Inc.
-  🟢 ALTA 4 | 2026-10-06
-  Insider BUY: Posner Brian S → Compra 2,500 acciones @ $16.00 | Post: 27,000
-  Insider: Posner Brian S → Compra 2,500 acciones @ $16.00 | Post: 27,000
-  → https://www.sec.gov/Archives/edgar/data/1818794/000119312526415584/xslF345X06/ownership.xml
+RESUMEN: 2 filings | 🔴 0 | 🟢 0 | 🟡 2 | 🔵 0 | ✅ 15 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
 ──────────────────────────────────────────────────
   ✅ [SNDX] Sin novedades
   ✅ [ARGX] Sin novedades
-
-  🟢 [DYN] Dyne Therapeutics, Inc. — 1 filing(s)
-     🟢 ALTA 4 | 2026-10-06 | Insider BUY: Posner Brian S → Compra 2,500 acciones @ $16.00 | Post: 27,000
-     Insider: Posner Brian S → Compra 2,500 acciones @ $16.00 | Post: 27,000
-     → https://www.sec.gov/Archives/edgar/data/1818794/000119312526415584/xslF345X06/ownership.xml
+  ✅ [DYN] Sin novedades
   ✅ [DNLI] Sin novedades
   ✅ [VKTX] Sin novedades
   ✅ [VRTX] Sin novedades
-
-  🟡 [ALNY] ALNYLAM PHARMACEUTICALS, INC. — 1 filing(s)
-     🟡 MEDIA 4 | 2026-10-06 | SUPRAN BRYAN (EVP, CLO and Secretary) → Venta 1,758 acciones @ $226.88 | Post: 12,807 | Rutinaria/RSU/impuestos
-     Insider: SUPRAN BRYAN (EVP, CLO and Secretary) → Venta 1,758 acciones @ $226.88 | Post: 12,807 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000068/xslF345X06/form4.xml
+  ✅ [ALNY] Sin novedades
   ✅ [BEAM] Sin novedades
 
-  🟡 [OCUL] OCULAR THERAPEUTIX, INC — 2 filing(s)
-     🟡 MEDIA 4 | 2026-10-06 | Kaiser Peter (Chief Development Officer) → Venta 9,990 acciones @ $7.05 | Post: 254,388 | Rutinaria/RSU/impuestos
-     Insider: Kaiser Peter (Chief Development Officer) → Venta 9,990 acciones @ $7.05 | Post: 254,388 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926114081/xslF345X06/tm2627084-2_4seq1.xml
-     🟡 MEDIA 4 | 2026-10-06 | Heier Jeffrey S. (Chief Scientific Officer) → Venta 10,869 acciones @ $7.05 | Post: 307,457 | Rutinaria/RSU/impuestos
-     Insider: Heier Jeffrey S. (Chief Scientific Officer) → Venta 10,869 acciones @ $7.05 | Post: 307,457 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926114080/xslF345X06/tm2627084-1_4seq1.xml
+  🟡 [OCUL] OCULAR THERAPEUTIX, INC — 1 filing(s)
+     🟡 MEDIA 4 | 2026-10-13 | Anderman Todd (Chief Legal Officer) → Venta 11,984 acciones @ $7.29 | Post: 140,484 | Rutinaria/RSU/impuestos
+     Insider: Anderman Todd (Chief Legal Officer) → Venta 11,984 acciones @ $7.29 | Post: 140,484 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926115551/xslF345X06/tm2627418-1_4seq1.xml
   ✅ [CAI] Sin novedades
   ✅ [GPCR] Sin novedades
   ✅ [ABVX] Sin novedades

@@ -1,8 +1,8 @@
 ====================================================================================
 CLINICALTRIALS MONITOR v9.3 · Modelo Biotech
-Generado: 14/10/2026 13:55
+Generado: 15/10/2026 13:35
 ====================================================================================
-RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 0 | 🔵 29 | Errores API: 0
+RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 1 | 🔵 28 | Errores API: 0
 
 ------------------------------------------------------------------------------------
 DETALLE POR EMPRESA
@@ -175,7 +175,7 @@ DETALLE POR EMPRESA
      Enrollment: 11000
      Primary completion: 2030-09-23 ESTIMATED
      Study completion: 2030-09-23 ESTIMATED
-     Last update posted: 2026-10-13
+     Last update posted: 2026-10-15
      → https://clinicaltrials.gov/study/NCT07181109
   🔵 ⭐⭐ TRITON-PN Ph3 — nucresiran — hATTR-PN | Prioridad: media | Validación: OK
      NCT: NCT07223203 | Status: Reclutando | Tipo: pivotal
@@ -198,7 +198,7 @@ DETALLE POR EMPRESA
      Last update posted: 2026-09-18
      → https://clinicaltrials.gov/study/NCT06393712
 
-🔵 [VRTX] · Score relevancia: 24
+🟡 [VRTX] · Score relevancia: 24
   🔵 ⭐⭐⭐ RAINIER Ph3 — povetacicept — IgAN | Prioridad: alta | Validación: OK
      NCT: NCT06564142 | Status: Activo, sin reclutamiento | Tipo: pivotal
      Catalizador: BLA / datos Phase 3 | Ventana: 2028
@@ -209,15 +209,15 @@ DETALLE POR EMPRESA
      Study completion: 2028-01-30 ESTIMATED
      Last update posted: 2026-05-15
      → https://clinicaltrials.gov/study/NCT06564142
-  🔵 ⭐⭐⭐ AMPLITUDE Ph2/3 — inaxaplin (VX-147) — AMKD | Prioridad: alta | Validación: OK
-     NCT: NCT05312879 | Status: Reclutando | Tipo: pivotal
+  🟡 ⭐⭐⭐ AMPLITUDE Ph2/3 — inaxaplin (VX-147) — AMKD | Prioridad: alta | Validación: OK
+     NCT: NCT05312879 | Status: Activo, sin reclutamiento | Tipo: pivotal
      Catalizador: interim analysis / breakthrough | Ventana: 2026-2028
      Sponsor: Vertex Pharmaceuticals Incorporated
      Phase: PHASE2, PHASE3
-     Enrollment: 466
+     Enrollment: 522
      Primary completion: 2028-06-02 ESTIMATED
      Study completion: 2030-05-07 ESTIMATED
-     Last update posted: 2026-09-21
+     Last update posted: 2026-10-15
      → https://clinicaltrials.gov/study/NCT05312879
   🔵 ⭐⭐⭐ FORWARD-101 Ph1/2/3 — zimislecel (VX-880) — T1D | Prioridad: alta | Validación: OK
      NCT: NCT04786262 | Status: Reclutando | Tipo: cell_therapy

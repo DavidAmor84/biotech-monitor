@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "14/10/2026 13:55",
-  "fecha": "2026-10-14",
+  "generado": "15/10/2026 13:35",
+  "fecha": "2026-10-15",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -11,8 +11,8 @@
     "validacion_error": 0,
     "alertas_rojas": 0,
     "alertas_verdes": 5,
-    "alertas_amarillas": 0,
-    "alertas_azules": 29,
+    "alertas_amarillas": 1,
+    "alertas_azules": 28,
     "errores": 0
   },
   "empresas": {
@@ -1740,8 +1740,8 @@
           "primary_completion_type": "ESTIMATED",
           "study_completion_date": "2030-09-23",
           "study_completion_type": "ESTIMATED",
-          "start_date": "2025-09-22",
-          "last_update_posted": "2026-10-13",
+          "start_date": "2025-09-06",
+          "last_update_posted": "2026-10-15",
           "conditions": [
             "High Risk Cardiovascular Disease",
             "Hypertension",
@@ -1779,7 +1779,14 @@
           "ventana": "2030",
           "monitorizar": true,
           "peso_importancia": 7,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-10-13 → 2026-10-15"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2042,18 +2049,18 @@
           "titulo_oficial": "A Phase 2/3 Adaptive, Double-blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of VX-147 in Adult and Pediatric Subjects With APOL1-mediated Proteinuric Kidney Disease",
           "sponsor": "Vertex Pharmaceuticals Incorporated",
           "collaborators": [],
-          "status": "RECRUITING",
-          "status_desc": "Reclutando",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "status_desc": "Activo, sin reclutamiento",
           "nivel_base": "azul",
           "badge_base": "🔵",
           "phase": "PHASE2, PHASE3",
-          "enrollment": 466,
+          "enrollment": 522,
           "primary_completion_date": "2028-06-02",
           "primary_completion_type": "ESTIMATED",
           "study_completion_date": "2030-05-07",
           "study_completion_type": "ESTIMATED",
           "start_date": "2022-03-30",
-          "last_update_posted": "2026-09-21",
+          "last_update_posted": "2026-10-15",
           "conditions": [
             "Proteinuric Kidney Disease"
           ],
@@ -2090,9 +2097,28 @@
           "ventana": "2026-2028",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [],
-          "nivel": "azul",
-          "badge": "🔵",
+          "cambios": [
+            {
+              "tipo": "status",
+              "nivel": "amarillo",
+              "badge": "🟡",
+              "mensaje": "Estado: RECRUITING → ACTIVE_NOT_RECRUITING"
+            },
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-09-21 → 2026-10-15"
+            },
+            {
+              "tipo": "enrollment",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Enrollment: 466 → 522"
+            }
+          ],
+          "nivel": "amarillo",
+          "badge": "🟡",
           "error": null
         },
         {
@@ -2157,8 +2183,8 @@
           "error": null
         }
       ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "nivel": "amarillo",
+      "badge": "🟡",
       "score_relevancia": 24
     },
     "SENS": {
@@ -2672,6 +2698,33 @@
     },
     {
       "ticker": "ALNY",
+      "nct": "NCT07181109",
+      "nombre": "ZENITH Ph3 CVOT — zilebesiran — hipertensión",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "RECRUITING",
+      "primary_completion_date": "2030-09-23",
+      "mensaje": "Reclutando",
+      "prioridad": "media",
+      "estrellas": "⭐⭐",
+      "tipo": "cvot",
+      "catalizador": "CVOT / MACE endpoint",
+      "ventana": "2030",
+      "peso_importancia": 7,
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-10-13 → 2026-10-15"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT07181109"
+    },
+    {
+      "ticker": "ALNY",
       "nct": "NCT07052903",
       "nombre": "TRITON-CM Ph3 — nucresiran — ATTR-CM",
       "nivel": "azul",
@@ -2714,11 +2767,11 @@
       "ticker": "VRTX",
       "nct": "NCT05312879",
       "nombre": "AMPLITUDE Ph2/3 — inaxaplin (VX-147) — AMKD",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
+      "nivel": "amarillo",
+      "badge": "🟡",
+      "status": "ACTIVE_NOT_RECRUITING",
       "primary_completion_date": "2028-06-02",
-      "mensaje": "Reclutando",
+      "mensaje": "Activo, sin reclutamiento",
       "prioridad": "alta",
       "estrellas": "⭐⭐⭐",
       "tipo": "pivotal",
@@ -2727,7 +2780,26 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "status",
+          "nivel": "amarillo",
+          "badge": "🟡",
+          "mensaje": "Estado: RECRUITING → ACTIVE_NOT_RECRUITING"
+        },
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-09-21 → 2026-10-15"
+        },
+        {
+          "tipo": "enrollment",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Enrollment: 466 → 522"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT05312879"
     },
     {

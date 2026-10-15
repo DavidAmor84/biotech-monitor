@@ -445,7 +445,7 @@
     "status": "RECRUITING",
     "primary_completion_date": "2030-09-23",
     "study_completion_date": "2030-09-23",
-    "last_update_posted": "2026-10-13",
+    "last_update_posted": "2026-10-15",
     "enrollment": 11000,
     "titulo": "Zilebesiran in Patients With Hypertension Not Adequately Controlled and With Either Established Cardiovascular Disease or High Risk for Cardiovascular Disease",
     "ticker": "ALNY",
@@ -527,11 +527,11 @@
     "peso_importancia": 8
   },
   "NCT05312879": {
-    "status": "RECRUITING",
+    "status": "ACTIVE_NOT_RECRUITING",
     "primary_completion_date": "2028-06-02",
     "study_completion_date": "2030-05-07",
-    "last_update_posted": "2026-09-21",
-    "enrollment": 466,
+    "last_update_posted": "2026-10-15",
+    "enrollment": 522,
     "titulo": "Phase 2/3 Adaptive Study of VX-147 in Adult and Pediatric Participants With APOL1-Mediated Proteinuric Kidney Disease",
     "ticker": "VRTX",
     "nombre_usuario": "AMPLITUDE Ph2/3 — inaxaplin (VX-147) — AMKD",

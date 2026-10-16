@@ -1,8 +1,8 @@
 ====================================================================================
 CLINICALTRIALS MONITOR v9.3 · Modelo Biotech
-Generado: 15/10/2026 13:35
+Generado: 16/10/2026 13:24
 ====================================================================================
-RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 1 | 🔵 28 | Errores API: 0
+RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 0 | 🔵 29 | Errores API: 0
 
 ------------------------------------------------------------------------------------
 DETALLE POR EMPRESA
@@ -57,7 +57,7 @@ DETALLE POR EMPRESA
      Enrollment: 218
      Primary completion: 2027-09 ESTIMATED
      Study completion: 2030-09 ESTIMATED
-     Last update posted: 2026-09-24
+     Last update posted: 2026-10-16
      → https://clinicaltrials.gov/study/NCT06920004
 
 🔵 [DYN] · Score relevancia: 29
@@ -198,7 +198,7 @@ DETALLE POR EMPRESA
      Last update posted: 2026-09-18
      → https://clinicaltrials.gov/study/NCT06393712
 
-🟡 [VRTX] · Score relevancia: 24
+🔵 [VRTX] · Score relevancia: 24
   🔵 ⭐⭐⭐ RAINIER Ph3 — povetacicept — IgAN | Prioridad: alta | Validación: OK
      NCT: NCT06564142 | Status: Activo, sin reclutamiento | Tipo: pivotal
      Catalizador: BLA / datos Phase 3 | Ventana: 2028
@@ -209,7 +209,7 @@ DETALLE POR EMPRESA
      Study completion: 2028-01-30 ESTIMATED
      Last update posted: 2026-05-15
      → https://clinicaltrials.gov/study/NCT06564142
-  🟡 ⭐⭐⭐ AMPLITUDE Ph2/3 — inaxaplin (VX-147) — AMKD | Prioridad: alta | Validación: OK
+  🔵 ⭐⭐⭐ AMPLITUDE Ph2/3 — inaxaplin (VX-147) — AMKD | Prioridad: alta | Validación: OK
      NCT: NCT05312879 | Status: Activo, sin reclutamiento | Tipo: pivotal
      Catalizador: interim analysis / breakthrough | Ventana: 2026-2028
      Sponsor: Vertex Pharmaceuticals Incorporated

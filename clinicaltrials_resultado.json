@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "15/10/2026 13:35",
-  "fecha": "2026-10-15",
+  "generado": "16/10/2026 13:24",
+  "fecha": "2026-10-16",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -11,8 +11,8 @@
     "validacion_error": 0,
     "alertas_rojas": 0,
     "alertas_verdes": 5,
-    "alertas_amarillas": 1,
-    "alertas_azules": 28,
+    "alertas_amarillas": 0,
+    "alertas_azules": 29,
     "errores": 0
   },
   "empresas": {
@@ -1600,7 +1600,7 @@
           "study_completion_date": "2030-09",
           "study_completion_type": "ESTIMATED",
           "start_date": "2025-08-22",
-          "last_update_posted": "2026-09-24",
+          "last_update_posted": "2026-10-16",
           "conditions": [
             "Chronic Inflammatory Demyelinating Polyneuropathy",
             "CIDP",
@@ -1640,7 +1640,14 @@
           "ventana": "2027-2030",
           "monitorizar": true,
           "peso_importancia": 7,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-09-24 → 2026-10-16"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1779,14 +1786,7 @@
           "ventana": "2030",
           "monitorizar": true,
           "peso_importancia": 7,
-          "cambios": [
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2026-10-13 → 2026-10-15"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2097,28 +2097,9 @@
           "ventana": "2026-2028",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [
-            {
-              "tipo": "status",
-              "nivel": "amarillo",
-              "badge": "🟡",
-              "mensaje": "Estado: RECRUITING → ACTIVE_NOT_RECRUITING"
-            },
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2026-09-21 → 2026-10-15"
-            },
-            {
-              "tipo": "enrollment",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Enrollment: 466 → 522"
-            }
-          ],
-          "nivel": "amarillo",
-          "badge": "🟡",
+          "cambios": [],
+          "nivel": "azul",
+          "badge": "🔵",
           "error": null
         },
         {
@@ -2183,8 +2164,8 @@
           "error": null
         }
       ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "score_relevancia": 24
     },
     "SENS": {
@@ -2677,6 +2658,33 @@
       "url": "https://clinicaltrials.gov/study/NCT06298552"
     },
     {
+      "ticker": "ARGX",
+      "nct": "NCT06920004",
+      "nombre": "emvigorate Ph3 — empasiprubart vs IVIg — CIDP head-to-head",
+      "nivel": "azul",
+      "badge": "🔵",
+      "status": "RECRUITING",
+      "primary_completion_date": "2027-09",
+      "mensaje": "Reclutando",
+      "prioridad": "media",
+      "estrellas": "⭐⭐",
+      "tipo": "pivotal",
+      "catalizador": "datos Phase 3",
+      "ventana": "2027-2030",
+      "peso_importancia": 7,
+      "validacion_ok": true,
+      "errores_validacion": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-09-24 → 2026-10-16"
+        }
+      ],
+      "url": "https://clinicaltrials.gov/study/NCT06920004"
+    },
+    {
       "ticker": "DNLI",
       "nct": "NCT05371613",
       "nombre": "COMPASS Ph2/3 — tividenofusp alfa (DNL310) — Hunter MPS II",
@@ -2695,33 +2703,6 @@
       "errores_validacion": [],
       "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT05371613"
-    },
-    {
-      "ticker": "ALNY",
-      "nct": "NCT07181109",
-      "nombre": "ZENITH Ph3 CVOT — zilebesiran — hipertensión",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2030-09-23",
-      "mensaje": "Reclutando",
-      "prioridad": "media",
-      "estrellas": "⭐⭐",
-      "tipo": "cvot",
-      "catalizador": "CVOT / MACE endpoint",
-      "ventana": "2030",
-      "peso_importancia": 7,
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2026-10-13 → 2026-10-15"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT07181109"
     },
     {
       "ticker": "ALNY",
@@ -2767,8 +2748,8 @@
       "ticker": "VRTX",
       "nct": "NCT05312879",
       "nombre": "AMPLITUDE Ph2/3 — inaxaplin (VX-147) — AMKD",
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "nivel": "azul",
+      "badge": "🔵",
       "status": "ACTIVE_NOT_RECRUITING",
       "primary_completion_date": "2028-06-02",
       "mensaje": "Activo, sin reclutamiento",
@@ -2780,26 +2761,7 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "status",
-          "nivel": "amarillo",
-          "badge": "🟡",
-          "mensaje": "Estado: RECRUITING → ACTIVE_NOT_RECRUITING"
-        },
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2026-09-21 → 2026-10-15"
-        },
-        {
-          "tipo": "enrollment",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Enrollment: 466 → 522"
-        }
-      ],
+      "cambios": [],
       "url": "https://clinicaltrials.gov/study/NCT05312879"
     },
     {

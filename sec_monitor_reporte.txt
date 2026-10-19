@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 16/10/2026 12:07 | Período: últimos 7 días
-Desde: 2026-10-09 → Hasta: 2026-10-16
+Generado: 19/10/2026 14:23 | Período: últimos 7 días
+Desde: 2026-10-12 → Hasta: 2026-10-19
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 1 filings | 🔴 0 | 🟢 0 | 🟡 1 | 🔵 0 | ✅ 16 sin novedad
+RESUMEN: 3 filings | 🔴 0 | 🟢 0 | 🟡 2 | 🔵 1 | ✅ 15 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -16,9 +16,15 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [VKTX] Sin novedades
   ✅ [VRTX] Sin novedades
   ✅ [ALNY] Sin novedades
-  ✅ [BEAM] Sin novedades
 
-  🟡 [OCUL] OCULAR THERAPEUTIX, INC — 1 filing(s)
+  🔵 [BEAM] Beam Therapeutics Inc. — 1 filing(s)
+     🔵 INFO 4 | 2026-10-16 | Evans John M. (CEO) → Ejercicio opción 25,000 acciones @ $1.03 | Post: 1,072,205 | Rutinaria/RSU/impuestos
+     Insider: Evans John M. (CEO) → Ejercicio opción 25,000 acciones @ $1.03 | Post: 1,072,205 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1745999/000119312526424421/xslF345X06/ownership.xml
+
+  🟡 [OCUL] OCULAR THERAPEUTIX, INC — 2 filing(s)
+     🟡 MEDIA 8-K | 2026-10-16 | Item 5.02: Cambio directivo relevante [Items: 5.02]
+     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926116617/tm2627709d1_8k.htm
      🟡 MEDIA 4 | 2026-10-13 | Anderman Todd (Chief Legal Officer) → Venta 11,984 acciones @ $7.29 | Post: 140,484 | Rutinaria/RSU/impuestos
      Insider: Anderman Todd (Chief Legal Officer) → Venta 11,984 acciones @ $7.29 | Post: 140,484 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1393434/000110465926115551/xslF345X06/tm2627418-1_4seq1.xml

@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "19/10/2026 14:23",
+  "generado": "20/10/2026 12:33",
   "periodo_dias": 7,
-  "desde": "2026-10-12",
-  "hasta": "2026-10-19",
+  "desde": "2026-10-13",
+  "hasta": "2026-10-20",
   "resumen": {
-    "total_filings": 3,
+    "total_filings": 6,
     "alertas_rojas": 0,
     "alertas_verdes": 0,
     "alertas_amarillas": 2,
-    "alertas_azules": 1,
-    "sin_novedad": 15
+    "alertas_azules": 4,
+    "sin_novedad": 13
   },
   "tickers": {
     "SNDX": {
@@ -74,9 +74,62 @@
       "cik": "0000875320",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-10-19",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "SACHS BRUCE I (Director) → Concesión 93 acciones @ $512.44 | Post: 15,865",
+          "detalle": "FORM 4",
+          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000276/xslF345X06/wk-form4_1792441385.xml",
+          "form4_detail": {
+            "insider_nombre": "SACHS BRUCE I",
+            "insider_cargo": "Director",
+            "transaccion_codigo": "A",
+            "transaccion_tipo": "Concesión",
+            "transaccion_acciones": "92.694",
+            "transaccion_precio": "512.44",
+            "transaccion_fecha": "2026-10-15",
+            "acciones_post": "15864.501",
+            "footnotes": "Each deferred stock unit represents one share of common stock and is paid out in common stock upon the earliest to occur of (i) termination of Mr. Sachs' service on our board of directors, (ii) a change of control of our company and (iii) Mr. Sachs' disability or death.",
+            "es_rutinaria": false,
+            "resumen_detail": "SACHS BRUCE I (Director) → Concesión 93 acciones @ $512.44 | Post: 15,865"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
+          "form": "4",
+          "fecha": "2026-10-19",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Garber Alan M (Director) → Concesión 29 acciones @ $512.44 | Post: 95",
+          "detalle": "FORM 4",
+          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000274/xslF345X06/wk-form4_1792441279.xml",
+          "form4_detail": {
+            "insider_nombre": "Garber Alan M",
+            "insider_cargo": "Director",
+            "transaccion_codigo": "A",
+            "transaccion_tipo": "Concesión",
+            "transaccion_acciones": "29.272",
+            "transaccion_precio": "512.44",
+            "transaccion_fecha": "2026-10-15",
+            "acciones_post": "94.73",
+            "footnotes": "Each deferred stock unit represents one share of common stock and is paid out in common stock upon the earliest to occur of (i) termination of Dr. Garber's service on our board of directors, (ii) a change of control of our company and (iii) Dr. Garber's disability or death.",
+            "es_rutinaria": false,
+            "resumen_detail": "Garber Alan M (Director) → Concesión 29 acciones @ $512.44 | Post: 95"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "ALNY": {
@@ -272,9 +325,35 @@
       "cik": "0001104506",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "8-K",
+          "fecha": "2026-10-20",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02, 7.01, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "INSMED Inc",
+          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126040177/ef20084030_8k.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "5.02",
+              "7.01",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "ITEM 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. On October 16, 2026, the Board of Directors (the Board ) of Insmed Incorporated (the Company ) appointed Paul Hudson and Utpal Koppikar as members of the Board, effective October 19, 2026. Mr. Hudson serves as a Class II director, and Mr. Koppikar serves as a Class I director, with each subject to election at the Company s 2027 Annual Meeting of Shareholders. Mr. Hudson has been appointed to serve on the Board s Compensation Committee, and Mr. Koppikar has been appointed to serve on the Board s Audit Committee. Mr. Hudson brings more than three decades of senior executive leadership across some of the world s most prominent biopharmaceutical companies. He most recently served as Chief Executive Officer ( CEO ) of Sanofi S.A. from September 2019 through February 2026, where he led a sweeping transformation of the organization. Prior to Sanofi, Mr. Hudson served as CEO of Novartis Pharmaceuticals from 2016 to 2019 and as a member of the Novartis Executive Committee. His career in healthcare has spanned the globe, with roles in the U.S., Japan, and Europe. Prior to Novartis, he held a series of senior operational and commercial leadership positions at AstraZeneca, including President of AstraZeneca United States and Executive Vice President, North America. Mr. Hudson began his career in sales and marketing roles at Schering-Plough, GlaxoSmithKline UK, and Sanofi-Synth labo UK. Mr. Koppikar is a seasoned biopharma finance e",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "Item 5.02: Plan de incentivos / compensación aprobado — informativo"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "NWL": {
@@ -287,6 +366,89 @@
   },
   "alertas_criticas": [],
   "todos_filings": [
+    {
+      "ticker": "INSM",
+      "nombre": "INSMED Inc",
+      "form": "8-K",
+      "fecha": "2026-10-20",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02, 7.01, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "INSMED Inc",
+      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126040177/ef20084030_8k.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "5.02",
+          "7.01",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "ITEM 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. On October 16, 2026, the Board of Directors (the Board ) of Insmed Incorporated (the Company ) appointed Paul Hudson and Utpal Koppikar as members of the Board, effective October 19, 2026. Mr. Hudson serves as a Class II director, and Mr. Koppikar serves as a Class I director, with each subject to election at the Company s 2027 Annual Meeting of Shareholders. Mr. Hudson has been appointed to serve on the Board s Compensation Committee, and Mr. Koppikar has been appointed to serve on the Board s Audit Committee. Mr. Hudson brings more than three decades of senior executive leadership across some of the world s most prominent biopharmaceutical companies. He most recently served as Chief Executive Officer ( CEO ) of Sanofi S.A. from September 2019 through February 2026, where he led a sweeping transformation of the organization. Prior to Sanofi, Mr. Hudson served as CEO of Novartis Pharmaceuticals from 2016 to 2019 and as a member of the Novartis Executive Committee. His career in healthcare has spanned the globe, with roles in the U.S., Japan, and Europe. Prior to Novartis, he held a series of senior operational and commercial leadership positions at AstraZeneca, including President of AstraZeneca United States and Executive Vice President, North America. Mr. Hudson began his career in sales and marketing roles at Schering-Plough, GlaxoSmithKline UK, and Sanofi-Synth labo UK. Mr. Koppikar is a seasoned biopharma finance e",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "Item 5.02: Plan de incentivos / compensación aprobado — informativo"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "VRTX",
+      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
+      "form": "4",
+      "fecha": "2026-10-19",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "SACHS BRUCE I (Director) → Concesión 93 acciones @ $512.44 | Post: 15,865",
+      "detalle": "FORM 4",
+      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000276/xslF345X06/wk-form4_1792441385.xml",
+      "form4_detail": {
+        "insider_nombre": "SACHS BRUCE I",
+        "insider_cargo": "Director",
+        "transaccion_codigo": "A",
+        "transaccion_tipo": "Concesión",
+        "transaccion_acciones": "92.694",
+        "transaccion_precio": "512.44",
+        "transaccion_fecha": "2026-10-15",
+        "acciones_post": "15864.501",
+        "footnotes": "Each deferred stock unit represents one share of common stock and is paid out in common stock upon the earliest to occur of (i) termination of Mr. Sachs' service on our board of directors, (ii) a change of control of our company and (iii) Mr. Sachs' disability or death.",
+        "es_rutinaria": false,
+        "resumen_detail": "SACHS BRUCE I (Director) → Concesión 93 acciones @ $512.44 | Post: 15,865"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "VRTX",
+      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
+      "form": "4",
+      "fecha": "2026-10-19",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Garber Alan M (Director) → Concesión 29 acciones @ $512.44 | Post: 95",
+      "detalle": "FORM 4",
+      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000274/xslF345X06/wk-form4_1792441279.xml",
+      "form4_detail": {
+        "insider_nombre": "Garber Alan M",
+        "insider_cargo": "Director",
+        "transaccion_codigo": "A",
+        "transaccion_tipo": "Concesión",
+        "transaccion_acciones": "29.272",
+        "transaccion_precio": "512.44",
+        "transaccion_fecha": "2026-10-15",
+        "acciones_post": "94.73",
+        "footnotes": "Each deferred stock unit represents one share of common stock and is paid out in common stock upon the earliest to occur of (i) termination of Dr. Garber's service on our board of directors, (ii) a change of control of our company and (iii) Dr. Garber's disability or death.",
+        "es_rutinaria": false,
+        "resumen_detail": "Garber Alan M (Director) → Concesión 29 acciones @ $512.44 | Post: 95"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "BEAM",
       "nombre": "Beam Therapeutics Inc.",

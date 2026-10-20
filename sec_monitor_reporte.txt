@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 19/10/2026 14:23 | Período: últimos 7 días
-Desde: 2026-10-12 → Hasta: 2026-10-19
+Generado: 20/10/2026 12:33 | Período: últimos 7 días
+Desde: 2026-10-13 → Hasta: 2026-10-20
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 3 filings | 🔴 0 | 🟢 0 | 🟡 2 | 🔵 1 | ✅ 15 sin novedad
+RESUMEN: 6 filings | 🔴 0 | 🟢 0 | 🟡 2 | 🔵 4 | ✅ 13 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -14,7 +14,14 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [DYN] Sin novedades
   ✅ [DNLI] Sin novedades
   ✅ [VKTX] Sin novedades
-  ✅ [VRTX] Sin novedades
+
+  🔵 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 2 filing(s)
+     🔵 INFO 4 | 2026-10-19 | SACHS BRUCE I (Director) → Concesión 93 acciones @ $512.44 | Post: 15,865
+     Insider: SACHS BRUCE I (Director) → Concesión 93 acciones @ $512.44 | Post: 15,865
+     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000276/xslF345X06/wk-form4_1792441385.xml
+     🔵 INFO 4 | 2026-10-19 | Garber Alan M (Director) → Concesión 29 acciones @ $512.44 | Post: 95
+     Insider: Garber Alan M (Director) → Concesión 29 acciones @ $512.44 | Post: 95
+     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000274/xslF345X06/wk-form4_1792441279.xml
   ✅ [ALNY] Sin novedades
 
   🔵 [BEAM] Beam Therapeutics Inc. — 1 filing(s)
@@ -35,7 +42,10 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [ACRV] Sin novedades
   ✅ [TARA] Sin novedades
   ✅ [SENS] Sin novedades
-  ✅ [INSM] Sin novedades
+
+  🔵 [INSM] INSMED Inc — 1 filing(s)
+     🔵 INFO 8-K | 2026-10-20 | Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02, 7.01, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1104506/000114036126040177/ef20084030_8k.htm
   ⚪ [NWL] Sin CIK SEC
 
 ──────────────────────────────────────────────────

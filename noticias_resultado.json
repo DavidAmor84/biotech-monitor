@@ -1,8 +1,8 @@
 {
-  "generado": "19/10/2026 14:37 UTC",
+  "generado": "20/10/2026 12:40 UTC",
   "plazo_horas": 72,
-  "desde": "2026-10-16",
-  "hasta": "2026-10-19",
+  "desde": "2026-10-17",
+  "hasta": "2026-10-20",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -15,6 +15,18 @@
       "noticias": [
         {
           "ticker": "ARGX",
+          "titulo": "argenx to Present Phase 3 ALKIVIA Results in Autoimmune Myositis as a Late-Breaking Oral Presentation at ACR Convergence 2026",
+          "resumen": "Results from the global Phase 3 ALKIVIA study, the first registrational study investigating an FcRn blocker in autoimmune myositis, show efgartigimod provides clinically meaningful improvements in IMNM and DMPatient improvements observed as early as Week 4 and sustained through 52 weeksLate-breaking",
+          "fuente": "Yahoo",
+          "fecha": "19 Oct 2026 12:00 UTC",
+          "url": "https://finnhub.io/api/news?id=43be27be6355c260d75f548ddbaf1ae2cb6e3f4605ded2822a583042470130ef",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ARGX",
           "titulo": "argenx SE To Present New Data From Phase 3 Study Evaluating VYVGART Hytrulo In Patients With Autoimmune Myositis, Focused On IMNM And DM, At ACR Convergence 2026",
           "resumen": "Results from the global Phase 3 ALKIVIA study, the first registrational study investigating an FcRn blocker in autoimmune myositis, show efgartigimod provides clinically meaningful improvements in IMNM and DM Patient",
           "fuente": "Benzinga",
@@ -24,18 +36,6 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "European Equities Traded in the US as American Depositary Receipts Track Higher in Friday Trading",
-          "resumen": "European equities traded in the US as American depositary receipts were tracking higher late Friday",
-          "fuente": "Yahoo",
-          "fecha": "16 Oct 2026 15:06 UTC",
-          "url": "https://finnhub.io/api/news?id=b60949dc896e172fe134a568b8396c4e38dd8bc9b4d1566b3ea208d2298bd70e",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -58,6 +58,18 @@
       "noticias": [
         {
           "ticker": "VKTX",
+          "titulo": "How Will Eli Lilly's GLP-1 Portfolio Sales Aid Upcoming Q3 Results?",
+          "resumen": "LLY's surging Mounjaro and Zepbound sales, alongside Foundayo's expanding market access, strengthen its GLP-1 growth momentum ahead of Q3 results.",
+          "fuente": "Yahoo",
+          "fecha": "19 Oct 2026 13:15 UTC",
+          "url": "https://finnhub.io/api/news?id=7688e7615e2be0e63ebd24484495ec690d44d087316025b66280fc3384eddd8a",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VKTX",
           "titulo": "Viking Therapeutics Just Raised $575 Million. Here's What It Means for the Obesity Stock's Next Chapter.",
           "resumen": "Viking Therapeutics raised $575 million to fund major obesity drug trials, develop its pipeline, and support commercial development of any approvals for VK2735.",
           "fuente": "Yahoo",
@@ -67,18 +79,6 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "Viking Therapeutics, Inc. (VKTX) Falls More Steeply Than Broader Market: What Investors Need to Know",
-          "resumen": "Viking Therapeutics, Inc. (VKTX) reached $25.11 at the closing of the latest trading day, reflecting a -8.26% change compared to its last close.",
-          "fuente": "Yahoo",
-          "fecha": "16 Oct 2026 20:45 UTC",
-          "url": "https://finnhub.io/api/news?id=756dacff2b5dbf5fbdaff9559df3e3adb4fe3fb30a4aee4016fd6b777c471843",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -144,6 +144,30 @@
       "noticias": [
         {
           "ticker": "ALNY",
+          "titulo": "Merck KgaA Is Paying More Than Double for This Gene-Silencing Biotech, Which Is Soaring 125%",
+          "resumen": "Silence Therapeutics stock surges as Merck KGaA agrees to acquire the RNA drugmaker for over $1 billion.",
+          "fuente": "Yahoo",
+          "fecha": "19 Oct 2026 16:08 UTC",
+          "url": "https://finnhub.io/api/news?id=722d98fa792b9f7cf2a2c78acc947ee21313416d9864d496f6bcfd0d81c5add8",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Why Merck KGaA Is Paying a 130% Premium For This Gene-Silencing Tech",
+          "resumen": "Silence Therapeutics stock surges as Merck KGaA agrees to acquire the RNA drugmaker for over $1 billion.",
+          "fuente": "Yahoo",
+          "fecha": "19 Oct 2026 14:19 UTC",
+          "url": "https://finnhub.io/api/news?id=d15e6f42b7840db47f631be3c21f676d0d0893b8b743f4149574d8e701e051dc",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ALNY",
           "titulo": "Stocktwits Pharma Pulse: Moderna-Merck Cancer Vaccine Grabs Spotlight As Kidney-Cancer And MS Data Pour In",
           "resumen": "Humacyte, Vera, Maze and Climb Bio will present dialysis-access and kidney-disease findings at ASN Kidney Week.",
           "fuente": "Yahoo",
@@ -153,22 +177,10 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "What Is The Case For Waiting On Moderna Stock?",
-          "resumen": "Moderna (MRNA) stock has gained 282.6% over the past three months, outpacing a 4.1% return for the S&P 500. The shares reached their highest close in a year on October 15, 2026, ending the session at $236.50. Investors paying that premium are betting the drugmaker is ready to grow again. To meet tho",
-          "fuente": "Yahoo",
-          "fecha": "16 Oct 2026 14:44 UTC",
-          "url": "https://finnhub.io/api/news?id=3baf1ee24e890652fecbebc36de430f14066942b4fdd1616633ea9c823267896",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 3
     },
     "BEAM": {
       "nombre": "BEAM",
@@ -191,22 +203,9 @@
     },
     "OCUL": {
       "nombre": "OCUL",
-      "noticias": [
-        {
-          "ticker": "OCUL",
-          "titulo": "Novavax, Ocular Therapeutix, and QuidelOrtho Shares Plummet, What You Need To Know",
-          "resumen": "A number of stocks fell in the afternoon session after capital-intensive growth equities experienced sharp sell-offs as elevated bond yields restricted market appetite for risk.",
-          "fuente": "Yahoo",
-          "fecha": "16 Oct 2026 20:51 UTC",
-          "url": "https://finnhub.io/api/news?id=254a6832e27457e8f51128e568da1051515543761ebe3faa2bf35a6e12ac8c84",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "CAI": {
       "nombre": "CAI",
@@ -222,29 +221,53 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
-    },
-    "GPCR": {
-      "nombre": "GPCR",
-      "noticias": [
+        },
         {
-          "ticker": "GPCR",
-          "titulo": "Structure Therapeutics (GPCR) Stock May Be A Bargain Given Its Asset Base",
-          "resumen": "Structure Therapeutics has seen a sharp reset in market sentiment this year, which puts fresh focus on whether the current share price lines up with what its balance sheet can support. With the stock under pressure, the central question is how that drop squares with its book value. Year to date, the",
-          "fuente": "Yahoo",
-          "fecha": "17 Oct 2026 03:23 UTC",
-          "url": "https://finnhub.io/api/news?id=1254b1967b56deb08bc5d5dfd806de7bd0c3f2cdbd905130e83de3922512d6f8",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "ticker": "CAI",
+          "titulo": "Canaccord Genuity Maintains Hold on Caris Life Sciences, Raises Price Target to $30",
+          "resumen": "Canaccord Genuity  analyst Kyle Mikson   maintains Caris Life Sciences (NASDAQ:CAI) with a Hold and raises the price target from $22 to $30.",
+          "fuente": "Benzinga",
+          "fecha": "19 Oct 2026 09:01 UTC",
+          "url": "https://finnhub.io/api/news?id=dcd5a2a84ff1e03704ac2e8bbfcf36d4061f8faf070e99d7a6a23f50f52eab6a",
+          "imagen": "",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         }
       ],
       "nivel": "azul",
-      "total": 1
+      "total": 2
+    },
+    "GPCR": {
+      "nombre": "GPCR",
+      "noticias": [
+        {
+          "ticker": "GPCR",
+          "titulo": "Structure Therapeutics Announces Multiple Upcoming Presentations at ObesityWeek® 2026",
+          "resumen": "SAN FRANCISCO, Oct. 19, 2026 (GLOBE NEWSWIRE) -- Structure Therapeutics Inc. (NASDAQ: GPCR), a clinical-stage global biopharmaceutical company developing novel oral small molecule therapeutics for metabolic diseases, with a focus on chronic weight management, today announced multiple upcoming poster",
+          "fuente": "Yahoo",
+          "fecha": "19 Oct 2026 20:13 UTC",
+          "url": "https://finnhub.io/api/news?id=a20f79cc53f2164106c3c0b5c7fdfbe91e4425c0ad39c83eb624878a727bd639",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "GPCR",
+          "titulo": "How Will Eli Lilly's GLP-1 Portfolio Sales Aid Upcoming Q3 Results?",
+          "resumen": "LLY's surging Mounjaro and Zepbound sales, alongside Foundayo's expanding market access, strengthen its GLP-1 growth momentum ahead of Q3 results.",
+          "fuente": "Yahoo",
+          "fecha": "19 Oct 2026 13:15 UTC",
+          "url": "https://finnhub.io/api/news?id=7688e7615e2be0e63ebd24484495ec690d44d087316025b66280fc3384eddd8a",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 2
     },
     "ABVX": {
       "nombre": "ABVX",
@@ -278,15 +301,28 @@
     },
     "INSM": {
       "nombre": "INSM",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "INSM",
+          "titulo": "Insmed Launches BRINSUPRI® Tablets 25 mg (brensocatib hydrate) for the Treatment of Non-Cystic Fibrosis Bronchiectasis in Japan",
+          "resumen": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced the commercial launch in Japan of BRINSUPRI® Tablets 25 mg (brensocatib hydrate), an ",
+          "fuente": "Yahoo",
+          "fecha": "19 Oct 2026 11:00 UTC",
+          "url": "https://finnhub.io/api/news?id=871db023bec67bd54e43cf6345221075347c4db864950b3716951f2365c238a9",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     }
   },
   "resumen": {
-    "total_noticias": 14,
+    "total_noticias": 17,
     "tickers_con_noticias": 8,
-    "alertas_urgentes": 4,
+    "alertas_urgentes": 5,
     "sin_noticias": 9
   },
   "todas_noticias": [
@@ -375,64 +411,52 @@
       "badge": "🔴"
     },
     {
-      "ticker": "ALNY",
-      "titulo": "What Is The Case For Waiting On Moderna Stock?",
-      "resumen": "Moderna (MRNA) stock has gained 282.6% over the past three months, outpacing a 4.1% return for the S&P 500. The shares reached their highest close in a year on October 15, 2026, ending the session at $236.50. Investors paying that premium are betting the drugmaker is ready to grow again. To meet tho",
-      "fuente": "Yahoo",
-      "fecha": "16 Oct 2026 14:44 UTC",
-      "url": "https://finnhub.io/api/news?id=3baf1ee24e890652fecbebc36de430f14066942b4fdd1616633ea9c823267896",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
       "ticker": "ARGX",
-      "titulo": "European Equities Traded in the US as American Depositary Receipts Track Higher in Friday Trading",
-      "resumen": "European equities traded in the US as American depositary receipts were tracking higher late Friday",
+      "titulo": "argenx to Present Phase 3 ALKIVIA Results in Autoimmune Myositis as a Late-Breaking Oral Presentation at ACR Convergence 2026",
+      "resumen": "Results from the global Phase 3 ALKIVIA study, the first registrational study investigating an FcRn blocker in autoimmune myositis, show efgartigimod provides clinically meaningful improvements in IMNM and DMPatient improvements observed as early as Week 4 and sustained through 52 weeksLate-breaking",
       "fuente": "Yahoo",
-      "fecha": "16 Oct 2026 15:06 UTC",
-      "url": "https://finnhub.io/api/news?id=b60949dc896e172fe134a568b8396c4e38dd8bc9b4d1566b3ea208d2298bd70e",
+      "fecha": "19 Oct 2026 12:00 UTC",
+      "url": "https://finnhub.io/api/news?id=43be27be6355c260d75f548ddbaf1ae2cb6e3f4605ded2822a583042470130ef",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "VKTX",
-      "titulo": "Viking Therapeutics, Inc. (VKTX) Falls More Steeply Than Broader Market: What Investors Need to Know",
-      "resumen": "Viking Therapeutics, Inc. (VKTX) reached $25.11 at the closing of the latest trading day, reflecting a -8.26% change compared to its last close.",
+      "titulo": "How Will Eli Lilly's GLP-1 Portfolio Sales Aid Upcoming Q3 Results?",
+      "resumen": "LLY's surging Mounjaro and Zepbound sales, alongside Foundayo's expanding market access, strengthen its GLP-1 growth momentum ahead of Q3 results.",
       "fuente": "Yahoo",
-      "fecha": "16 Oct 2026 20:45 UTC",
-      "url": "https://finnhub.io/api/news?id=756dacff2b5dbf5fbdaff9559df3e3adb4fe3fb30a4aee4016fd6b777c471843",
+      "fecha": "19 Oct 2026 13:15 UTC",
+      "url": "https://finnhub.io/api/news?id=7688e7615e2be0e63ebd24484495ec690d44d087316025b66280fc3384eddd8a",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "OCUL",
-      "titulo": "Novavax, Ocular Therapeutix, and QuidelOrtho Shares Plummet, What You Need To Know",
-      "resumen": "A number of stocks fell in the afternoon session after capital-intensive growth equities experienced sharp sell-offs as elevated bond yields restricted market appetite for risk.",
-      "fuente": "Yahoo",
-      "fecha": "16 Oct 2026 20:51 UTC",
-      "url": "https://finnhub.io/api/news?id=254a6832e27457e8f51128e568da1051515543761ebe3faa2bf35a6e12ac8c84",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "GPCR",
-      "titulo": "Structure Therapeutics (GPCR) Stock May Be A Bargain Given Its Asset Base",
-      "resumen": "Structure Therapeutics has seen a sharp reset in market sentiment this year, which puts fresh focus on whether the current share price lines up with what its balance sheet can support. With the stock under pressure, the central question is how that drop squares with its book value. Year to date, the",
+      "titulo": "How Will Eli Lilly's GLP-1 Portfolio Sales Aid Upcoming Q3 Results?",
+      "resumen": "LLY's surging Mounjaro and Zepbound sales, alongside Foundayo's expanding market access, strengthen its GLP-1 growth momentum ahead of Q3 results.",
       "fuente": "Yahoo",
-      "fecha": "17 Oct 2026 03:23 UTC",
-      "url": "https://finnhub.io/api/news?id=1254b1967b56deb08bc5d5dfd806de7bd0c3f2cdbd905130e83de3922512d6f8",
+      "fecha": "19 Oct 2026 13:15 UTC",
+      "url": "https://finnhub.io/api/news?id=7688e7615e2be0e63ebd24484495ec690d44d087316025b66280fc3384eddd8a",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "GPCR",
+      "titulo": "Structure Therapeutics Announces Multiple Upcoming Presentations at ObesityWeek® 2026",
+      "resumen": "SAN FRANCISCO, Oct. 19, 2026 (GLOBE NEWSWIRE) -- Structure Therapeutics Inc. (NASDAQ: GPCR), a clinical-stage global biopharmaceutical company developing novel oral small molecule therapeutics for metabolic diseases, with a focus on chronic weight management, today announced multiple upcoming poster",
+      "fuente": "Yahoo",
+      "fecha": "19 Oct 2026 20:13 UTC",
+      "url": "https://finnhub.io/api/news?id=a20f79cc53f2164106c3c0b5c7fdfbe91e4425c0ad39c83eb624878a727bd639",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "BEAM",
@@ -448,11 +472,59 @@
     },
     {
       "ticker": "CAI",
+      "titulo": "Canaccord Genuity Maintains Hold on Caris Life Sciences, Raises Price Target to $30",
+      "resumen": "Canaccord Genuity  analyst Kyle Mikson   maintains Caris Life Sciences (NASDAQ:CAI) with a Hold and raises the price target from $22 to $30.",
+      "fuente": "Benzinga",
+      "fecha": "19 Oct 2026 09:01 UTC",
+      "url": "https://finnhub.io/api/news?id=dcd5a2a84ff1e03704ac2e8bbfcf36d4061f8faf070e99d7a6a23f50f52eab6a",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "CAI",
       "titulo": "Caris Life Sciences Launches New National Commercial Featuring Jordan Spieth Highlighting the Power of Artificial Intelligence in Early Stage Cancer Detection",
       "resumen": "Caris Life Sciences® (NASDAQ: CAI), a leading TechBio company, today announced the launch of the second commercial in a series promoting Caris Detect™, Caris' multi-cancer early detection (MCED) test, featuring three-time major champion professional golfer, Jordan Spieth.",
       "fuente": "Yahoo",
       "fecha": "19 Oct 2026 10:30 UTC",
       "url": "https://finnhub.io/api/news?id=0e100c629c0e381035d6c526a4d87bc2a1ef3bd1063d6419f0da2aa45247a577",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Insmed Launches BRINSUPRI® Tablets 25 mg (brensocatib hydrate) for the Treatment of Non-Cystic Fibrosis Bronchiectasis in Japan",
+      "resumen": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced the commercial launch in Japan of BRINSUPRI® Tablets 25 mg (brensocatib hydrate), an ",
+      "fuente": "Yahoo",
+      "fecha": "19 Oct 2026 11:00 UTC",
+      "url": "https://finnhub.io/api/news?id=871db023bec67bd54e43cf6345221075347c4db864950b3716951f2365c238a9",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Why Merck KGaA Is Paying a 130% Premium For This Gene-Silencing Tech",
+      "resumen": "Silence Therapeutics stock surges as Merck KGaA agrees to acquire the RNA drugmaker for over $1 billion.",
+      "fuente": "Yahoo",
+      "fecha": "19 Oct 2026 14:19 UTC",
+      "url": "https://finnhub.io/api/news?id=d15e6f42b7840db47f631be3c21f676d0d0893b8b743f4149574d8e701e051dc",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Merck KgaA Is Paying More Than Double for This Gene-Silencing Biotech, Which Is Soaring 125%",
+      "resumen": "Silence Therapeutics stock surges as Merck KGaA agrees to acquire the RNA drugmaker for over $1 billion.",
+      "fuente": "Yahoo",
+      "fecha": "19 Oct 2026 16:08 UTC",
+      "url": "https://finnhub.io/api/news?id=722d98fa792b9f7cf2a2c78acc947ee21313416d9864d496f6bcfd0d81c5add8",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",

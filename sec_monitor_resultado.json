@@ -1,15 +1,15 @@
 {
   "version": "v3",
-  "generado": "20/10/2026 12:33",
+  "generado": "21/10/2026 12:44",
   "periodo_dias": 7,
-  "desde": "2026-10-13",
-  "hasta": "2026-10-20",
+  "desde": "2026-10-14",
+  "hasta": "2026-10-21",
   "resumen": {
-    "total_filings": 6,
+    "total_filings": 8,
     "alertas_rojas": 0,
     "alertas_verdes": 0,
-    "alertas_amarillas": 2,
-    "alertas_azules": 4,
+    "alertas_amarillas": 1,
+    "alertas_azules": 7,
     "sin_novedad": 13
   },
   "tickers": {
@@ -75,6 +75,29 @@
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
       "filings": [
+        {
+          "form": "8-K",
+          "fecha": "2026-10-20",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02]",
+          "detalle": "8-K",
+          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000278/vrtx-20261020.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "5.02"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 5.02 Departure of Directors of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. (d) On October 20, 2026, Daniel Brennan was appointed as a new member of the board of directors (the Board ) of Vertex Pharmaceuticals Incorporated (the Company ). In connection with the appointment of Mr. Brennan, the size of the Board was increased from ten to eleven members. Mr. Brennan also has joined our Audit and Finance Committee. Mr. Brennan served as the Executive Vice President, Chief Financial Officer of Boston Scientific Corporation, a medical device and healthcare technology company, from January 2014 until his retirement in June 2025. He was the Senior Vice President, Corporate Controller from 2010 through 2013 and, prior to that role, he held various roles of increasing responsibility within the finance function from 1996 through 2009. Mr. Brennan has served on the board of directors of Waters Corporation, a publicly listed company focused on the development of analytical instruments and software, since November 2022, and he has served on the board of directors of Madrigal Pharmaceuticals, a publicly traded biopharmaceutical company, since August 2025. Mr. Brennan previously served on the board of directors of Nuance Corporation, a publicly traded communication company, until it was acquired by Microsoft Corporation in March 2022. He holds a B.S. in Finance and Investments and an M.B.A. from Babson College and is also a certified public accountant. Upon joining the Board on October 20, 2026,",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "Item 5.02: Plan de incentivos / compensación aprobado — informativo"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
         {
           "form": "4",
           "fecha": "2026-10-19",
@@ -210,32 +233,6 @@
           },
           "10q_detail": null,
           "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-10-13",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Anderman Todd (Chief Legal Officer) → Venta 11,984 acciones @ $7.29 | Post: 140,484 | Rutinaria/RSU/impuestos",
-          "detalle": "OWNERSHIP DOCUMENT",
-          "empresa_sec": "OCULAR THERAPEUTIX, INC",
-          "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926115551/xslF345X06/tm2627418-1_4seq1.xml",
-          "form4_detail": {
-            "insider_nombre": "Anderman Todd",
-            "insider_cargo": "Chief Legal Officer",
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "11984",
-            "transaccion_precio": "7.29",
-            "transaccion_fecha": "2026-10-08",
-            "acciones_post": "140484",
-            "footnotes": "Represents shares of common stock of Ocular Therapeutix, Inc. (the \"Corporation\") sold, pursuant to a durable automatic sale instruction adopted by the reporting person on October 7, 2024, effecting the sell-to-cover election of the reporting person to satisfy tax withholding obligations in connection with the vesting of restricted stock units on October 7, 2026. The sales do not represent a discretionary trade by the reporting person. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $7.1000 to $7.4500, inclusive. The reporting person undertakes to provide to the Corporation, any security holder of the Corporation, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in footnote (2) to this Form 4.",
-            "es_rutinaria": true,
-            "resumen_detail": "Anderman Todd (Chief Legal Officer) → Venta 11,984 acciones @ $7.29 | Post: 140,484 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
         }
       ],
       "nivel": "amarillo",
@@ -327,6 +324,58 @@
       "validacion_empresa": "OK",
       "filings": [
         {
+          "form": "4",
+          "fecha": "2026-10-20",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Koppikar Utpal (Director) → Concesión 6,139 acciones | Post: 6,139 | Rutinaria/RSU/impuestos",
+          "detalle": "FORM 4",
+          "empresa_sec": "INSMED Inc",
+          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000162828026066528/xslF345X06/wk-form4_1792530513.xml",
+          "form4_detail": {
+            "insider_nombre": "Koppikar Utpal",
+            "insider_cargo": "Director",
+            "transaccion_codigo": "A",
+            "transaccion_tipo": "Concesión",
+            "transaccion_acciones": "6139",
+            "transaccion_precio": null,
+            "transaccion_fecha": "2026-10-19",
+            "acciones_post": "6139",
+            "footnotes": "Represents Restricted Stock Units (RSUs), each representing a contingent right to receive one share of Common Stock, granted pursuant to the Company's Amended and Restated 2019 Incentive Plan, as amended. The RSUs vest in equal parts on each of the first three one-year anniversaries of the date of the grant, provided that the Reporting Person remains a director on each such vesting date. Each RSU was granted on October 19, 2026, for no consideration.",
+            "es_rutinaria": true,
+            "resumen_detail": "Koppikar Utpal (Director) → Concesión 6,139 acciones | Post: 6,139 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
+          "form": "4",
+          "fecha": "2026-10-20",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Hudson Paul (Director) → Concesión 6,139 acciones | Post: 6,139 | Rutinaria/RSU/impuestos",
+          "detalle": "FORM 4",
+          "empresa_sec": "INSMED Inc",
+          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000215840826000007/xslF345X06/wk-form4_1792530457.xml",
+          "form4_detail": {
+            "insider_nombre": "Hudson Paul",
+            "insider_cargo": "Director",
+            "transaccion_codigo": "A",
+            "transaccion_tipo": "Concesión",
+            "transaccion_acciones": "6139",
+            "transaccion_precio": null,
+            "transaccion_fecha": "2026-10-19",
+            "acciones_post": "6139",
+            "footnotes": "Represents Restricted Stock Units (RSUs), each representing a contingent right to receive one share of Common Stock, granted pursuant to the Company's Amended and Restated 2019 Incentive Plan, as amended. The RSUs vest in equal parts on each of the first three one-year anniversaries of the date of the grant, provided that the Reporting Person remains a director on each such vesting date. Each RSU was granted on October 19, 2026, for no consideration.",
+            "es_rutinaria": true,
+            "resumen_detail": "Hudson Paul (Director) → Concesión 6,139 acciones | Post: 6,139 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
           "form": "8-K",
           "fecha": "2026-10-20",
           "nivel": "azul",
@@ -366,6 +415,87 @@
   },
   "alertas_criticas": [],
   "todos_filings": [
+    {
+      "ticker": "VRTX",
+      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
+      "form": "8-K",
+      "fecha": "2026-10-20",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02]",
+      "detalle": "8-K",
+      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000278/vrtx-20261020.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "5.02"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 5.02 Departure of Directors of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. (d) On October 20, 2026, Daniel Brennan was appointed as a new member of the board of directors (the Board ) of Vertex Pharmaceuticals Incorporated (the Company ). In connection with the appointment of Mr. Brennan, the size of the Board was increased from ten to eleven members. Mr. Brennan also has joined our Audit and Finance Committee. Mr. Brennan served as the Executive Vice President, Chief Financial Officer of Boston Scientific Corporation, a medical device and healthcare technology company, from January 2014 until his retirement in June 2025. He was the Senior Vice President, Corporate Controller from 2010 through 2013 and, prior to that role, he held various roles of increasing responsibility within the finance function from 1996 through 2009. Mr. Brennan has served on the board of directors of Waters Corporation, a publicly listed company focused on the development of analytical instruments and software, since November 2022, and he has served on the board of directors of Madrigal Pharmaceuticals, a publicly traded biopharmaceutical company, since August 2025. Mr. Brennan previously served on the board of directors of Nuance Corporation, a publicly traded communication company, until it was acquired by Microsoft Corporation in March 2022. He holds a B.S. in Finance and Investments and an M.B.A. from Babson College and is also a certified public accountant. Upon joining the Board on October 20, 2026,",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "Item 5.02: Plan de incentivos / compensación aprobado — informativo"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "INSM",
+      "nombre": "INSMED Inc",
+      "form": "4",
+      "fecha": "2026-10-20",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Koppikar Utpal (Director) → Concesión 6,139 acciones | Post: 6,139 | Rutinaria/RSU/impuestos",
+      "detalle": "FORM 4",
+      "empresa_sec": "INSMED Inc",
+      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000162828026066528/xslF345X06/wk-form4_1792530513.xml",
+      "form4_detail": {
+        "insider_nombre": "Koppikar Utpal",
+        "insider_cargo": "Director",
+        "transaccion_codigo": "A",
+        "transaccion_tipo": "Concesión",
+        "transaccion_acciones": "6139",
+        "transaccion_precio": null,
+        "transaccion_fecha": "2026-10-19",
+        "acciones_post": "6139",
+        "footnotes": "Represents Restricted Stock Units (RSUs), each representing a contingent right to receive one share of Common Stock, granted pursuant to the Company's Amended and Restated 2019 Incentive Plan, as amended. The RSUs vest in equal parts on each of the first three one-year anniversaries of the date of the grant, provided that the Reporting Person remains a director on each such vesting date. Each RSU was granted on October 19, 2026, for no consideration.",
+        "es_rutinaria": true,
+        "resumen_detail": "Koppikar Utpal (Director) → Concesión 6,139 acciones | Post: 6,139 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "INSM",
+      "nombre": "INSMED Inc",
+      "form": "4",
+      "fecha": "2026-10-20",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Hudson Paul (Director) → Concesión 6,139 acciones | Post: 6,139 | Rutinaria/RSU/impuestos",
+      "detalle": "FORM 4",
+      "empresa_sec": "INSMED Inc",
+      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000215840826000007/xslF345X06/wk-form4_1792530457.xml",
+      "form4_detail": {
+        "insider_nombre": "Hudson Paul",
+        "insider_cargo": "Director",
+        "transaccion_codigo": "A",
+        "transaccion_tipo": "Concesión",
+        "transaccion_acciones": "6139",
+        "transaccion_precio": null,
+        "transaccion_fecha": "2026-10-19",
+        "acciones_post": "6139",
+        "footnotes": "Represents Restricted Stock Units (RSUs), each representing a contingent right to receive one share of Common Stock, granted pursuant to the Company's Amended and Restated 2019 Incentive Plan, as amended. The RSUs vest in equal parts on each of the first three one-year anniversaries of the date of the grant, provided that the Reporting Person remains a director on each such vesting date. Each RSU was granted on October 19, 2026, for no consideration.",
+        "es_rutinaria": true,
+        "resumen_detail": "Hudson Paul (Director) → Concesión 6,139 acciones | Post: 6,139 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "INSM",
       "nombre": "INSMED Inc",
@@ -501,34 +631,6 @@
       },
       "10q_detail": null,
       "prospecto_detail": null
-    },
-    {
-      "ticker": "OCUL",
-      "nombre": "OCULAR THERAPEUTIX, INC",
-      "form": "4",
-      "fecha": "2026-10-13",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Anderman Todd (Chief Legal Officer) → Venta 11,984 acciones @ $7.29 | Post: 140,484 | Rutinaria/RSU/impuestos",
-      "detalle": "OWNERSHIP DOCUMENT",
-      "empresa_sec": "OCULAR THERAPEUTIX, INC",
-      "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926115551/xslF345X06/tm2627418-1_4seq1.xml",
-      "form4_detail": {
-        "insider_nombre": "Anderman Todd",
-        "insider_cargo": "Chief Legal Officer",
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "11984",
-        "transaccion_precio": "7.29",
-        "transaccion_fecha": "2026-10-08",
-        "acciones_post": "140484",
-        "footnotes": "Represents shares of common stock of Ocular Therapeutix, Inc. (the \"Corporation\") sold, pursuant to a durable automatic sale instruction adopted by the reporting person on October 7, 2024, effecting the sell-to-cover election of the reporting person to satisfy tax withholding obligations in connection with the vesting of restricted stock units on October 7, 2026. The sales do not represent a discretionary trade by the reporting person. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $7.1000 to $7.4500, inclusive. The reporting person undertakes to provide to the Corporation, any security holder of the Corporation, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in footnote (2) to this Form 4.",
-        "es_rutinaria": true,
-        "resumen_detail": "Anderman Todd (Chief Legal Officer) → Venta 11,984 acciones @ $7.29 | Post: 140,484 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
     }
   ],
   "clinicaltrials": {
@@ -556,7 +658,7 @@
         "nivel": "verde",
         "badge": "🟢",
         "enrollment": 468,
-        "ultima_actualizacion": "2026-09-25",
+        "ultima_actualizacion": "2026-10-21",
         "fecha_completion_primaria": "2029-06",
         "changed": true,
         "url": "https://clinicaltrials.gov/study/NCT07211958"

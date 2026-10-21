@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 20/10/2026 12:33 | Período: últimos 7 días
-Desde: 2026-10-13 → Hasta: 2026-10-20
+Generado: 21/10/2026 12:44 | Período: últimos 7 días
+Desde: 2026-10-14 → Hasta: 2026-10-21
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 6 filings | 🔴 0 | 🟢 0 | 🟡 2 | 🔵 4 | ✅ 13 sin novedad
+RESUMEN: 8 filings | 🔴 0 | 🟢 0 | 🟡 1 | 🔵 7 | ✅ 13 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -15,7 +15,9 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [DNLI] Sin novedades
   ✅ [VKTX] Sin novedades
 
-  🔵 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 2 filing(s)
+  🔵 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 3 filing(s)
+     🔵 INFO 8-K | 2026-10-20 | Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02]
+     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000278/vrtx-20261020.htm
      🔵 INFO 4 | 2026-10-19 | SACHS BRUCE I (Director) → Concesión 93 acciones @ $512.44 | Post: 15,865
      Insider: SACHS BRUCE I (Director) → Concesión 93 acciones @ $512.44 | Post: 15,865
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000276/xslF345X06/wk-form4_1792441385.xml
@@ -29,12 +31,9 @@ DETALLE POR TICKER — SEC EDGAR
      Insider: Evans John M. (CEO) → Ejercicio opción 25,000 acciones @ $1.03 | Post: 1,072,205 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1745999/000119312526424421/xslF345X06/ownership.xml
 
-  🟡 [OCUL] OCULAR THERAPEUTIX, INC — 2 filing(s)
+  🟡 [OCUL] OCULAR THERAPEUTIX, INC — 1 filing(s)
      🟡 MEDIA 8-K | 2026-10-16 | Item 5.02: Cambio directivo relevante [Items: 5.02]
      → https://www.sec.gov/Archives/edgar/data/1393434/000110465926116617/tm2627709d1_8k.htm
-     🟡 MEDIA 4 | 2026-10-13 | Anderman Todd (Chief Legal Officer) → Venta 11,984 acciones @ $7.29 | Post: 140,484 | Rutinaria/RSU/impuestos
-     Insider: Anderman Todd (Chief Legal Officer) → Venta 11,984 acciones @ $7.29 | Post: 140,484 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926115551/xslF345X06/tm2627418-1_4seq1.xml
   ✅ [CAI] Sin novedades
   ✅ [GPCR] Sin novedades
   ✅ [ABVX] Sin novedades
@@ -43,7 +42,13 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [TARA] Sin novedades
   ✅ [SENS] Sin novedades
 
-  🔵 [INSM] INSMED Inc — 1 filing(s)
+  🔵 [INSM] INSMED Inc — 3 filing(s)
+     🔵 INFO 4 | 2026-10-20 | Koppikar Utpal (Director) → Concesión 6,139 acciones | Post: 6,139 | Rutinaria/RSU/impuestos
+     Insider: Koppikar Utpal (Director) → Concesión 6,139 acciones | Post: 6,139 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1104506/000162828026066528/xslF345X06/wk-form4_1792530513.xml
+     🔵 INFO 4 | 2026-10-20 | Hudson Paul (Director) → Concesión 6,139 acciones | Post: 6,139 | Rutinaria/RSU/impuestos
+     Insider: Hudson Paul (Director) → Concesión 6,139 acciones | Post: 6,139 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1104506/000215840826000007/xslF345X06/wk-form4_1792530457.xml
      🔵 INFO 8-K | 2026-10-20 | Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02, 7.01, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1104506/000114036126040177/ef20084030_8k.htm
   ⚪ [NWL] Sin CIK SEC
@@ -63,7 +68,7 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Reclutando activamente
        Enrollment: 468 pacientes
        Primary completion: 2029-06
-       Última actualización: 2026-09-25
+       Última actualización: 2026-10-21
        → https://clinicaltrials.gov/study/NCT07211958
 
   [DYN]

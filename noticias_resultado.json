@@ -1,8 +1,8 @@
 {
-  "generado": "21/10/2026 12:53 UTC",
+  "generado": "22/10/2026 12:55 UTC",
   "plazo_horas": 72,
-  "desde": "2026-10-18",
-  "hasta": "2026-10-21",
+  "desde": "2026-10-19",
+  "hasta": "2026-10-22",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -13,6 +13,18 @@
     "ARGX": {
       "nombre": "ARGX",
       "noticias": [
+        {
+          "ticker": "ARGX",
+          "titulo": "argenx Reports Third Quarter 2026 Financial Results and Provides Business Update",
+          "resumen": "Continued strong VYVGART performance drives $1.7 billion in global product net sales, representing 54% year-over-year growth and 13% quarter-over-quarter growth sBLA for VYVGART Hytrulo in IMNM on track for submission by year-end; pursuing additional registrational study in DM Phase 3 MMN data for e",
+          "fuente": "Yahoo",
+          "fecha": "22 Oct 2026 05:00 UTC",
+          "url": "https://finnhub.io/api/news?id=dd730b4a94e4891c86130649ed05e69661b1b3924aff759793b5f85359d107ab",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "ARGX",
           "titulo": "European Equities Traded in the US as American Depositary Receipts Advance in Tuesday Trading",
@@ -36,34 +48,10 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "argenx to Present Phase 3 ALKIVIA Results in Autoimmune Myositis as a Late-Breaking Oral Presentation at ACR Convergence 2026",
-          "resumen": "Results from the global Phase 3 ALKIVIA study, the first registrational study investigating an FcRn blocker in autoimmune myositis, show efgartigimod provides clinically meaningful improvements in IMNM and DMPatient improvements observed as early as Week 4 and sustained through 52 weeksLate-breaking",
-          "fuente": "Yahoo",
-          "fecha": "19 Oct 2026 12:00 UTC",
-          "url": "https://finnhub.io/api/news?id=43be27be6355c260d75f548ddbaf1ae2cb6e3f4605ded2822a583042470130ef",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "argenx SE To Present New Data From Phase 3 Study Evaluating VYVGART Hytrulo In Patients With Autoimmune Myositis, Focused On IMNM And DM, At ACR Convergence 2026",
-          "resumen": "Results from the global Phase 3 ALKIVIA study, the first registrational study investigating an FcRn blocker in autoimmune myositis, show efgartigimod provides clinically meaningful improvements in IMNM and DM Patient",
-          "fuente": "Benzinga",
-          "fecha": "19 Oct 2026 08:07 UTC",
-          "url": "https://finnhub.io/api/news?id=93a237ee22175ac6de3a1118a5b9983e0e2d30d68514a649b97ea85e1370d53d",
-          "imagen": "",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 4
+      "total": 3
     },
     "DYN": {
       "nombre": "DYN",
@@ -80,6 +68,42 @@
     "VKTX": {
       "nombre": "VKTX",
       "noticias": [
+        {
+          "ticker": "VKTX",
+          "titulo": "Viking Therapeutics to Report Financial Results for Third Quarter 2026 on October 28, 2026",
+          "resumen": "Viking Therapeutics, Inc. (\"Viking\") (NASDAQ: VKTX), a clinical-stage biopharmaceutical company focused on the development of novel therapies for metabolic and endocrine disorders, today announced that the company will release financial results for the third quarter of 2026 after the market close on",
+          "fuente": "Yahoo",
+          "fecha": "21 Oct 2026 20:05 UTC",
+          "url": "https://finnhub.io/api/news?id=3359ed7e04f04a48e9e72a4c5b8ed1ee87486c45c9bbb85fe9d3a32f9115ab58",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "How Will Novo's GLP-1 Portfolio Sales Aid Upcoming Q3 Results?",
+          "resumen": "NVO's Ozempic and Wegovy sales will be in focus for Q3 results as oral GLP-1 launches expand, while pricing pressure and competition challenge growth.",
+          "fuente": "Yahoo",
+          "fecha": "21 Oct 2026 13:20 UTC",
+          "url": "https://finnhub.io/api/news?id=509de8595399004f186a11b0d70f3da9b51e48341586df8701c95d689ad4174f",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "The Zacks Analyst Blog Highlights BridgeBio Pharma, Intellia Therapeutics, Biogen and Viking Therapeutics",
+          "resumen": "BridgeBio Pharma, Intellia Therapeutics, Biogen and Viking Therapeutics advance late-stage drug pipelines, with key regulatory decisions and clinical trial results ahead.",
+          "fuente": "Yahoo",
+          "fecha": "21 Oct 2026 12:06 UTC",
+          "url": "https://finnhub.io/api/news?id=84a790847668ebb238e90facc3949ebb837ce3c4520939792a11d2dcc6cf93b9",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "VKTX",
           "titulo": "How Investors May Respond To Novo Nordisk (CPSE:NOVO B) Obesity Drug Competition",
@@ -103,42 +127,6 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "Viking Therapeutics Stock What SUNRISE Phase 3 Start Means For VK2735",
-          "resumen": "Viking Therapeutics recently started the SUNRISE Phase 3 program for oral VK2735 in obesity and type 2 diabetes, building on earlier Phase 2 data that linked once daily dosing to weight loss and a gastrointestinal safety profile consistent with dual GLP 1 and GIP agents. The move to two large, 68 we",
-          "fuente": "Yahoo",
-          "fecha": "20 Oct 2026 18:10 UTC",
-          "url": "https://finnhub.io/api/news?id=9653739dea15419755f03490e89aa366296b9a9c332893e5357a37ec9a197cd0",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "Prediction: $1,000 Invested in Viking Therapeutics Today Will Be Worth This Much in 5 Years",
-          "resumen": "Viking Therapeutics has a lot riding on its leading pipeline candidate.",
-          "fuente": "Yahoo",
-          "fecha": "20 Oct 2026 14:20 UTC",
-          "url": "https://finnhub.io/api/news?id=bba4aac5f8846c09eeff44550bbfbd035d988f5272a5584e9e6734a0ab3575db",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "4 Biotech Stocks With Promising Late-Stage Drug Pipelines to Watch Now",
-          "resumen": "BBIO, NTLA, BIIB and VKTX offer investors potential upside from promising drug pipelines and upcoming FDA decisions and pivotal study results.",
-          "fuente": "Yahoo",
-          "fecha": "20 Oct 2026 13:30 UTC",
-          "url": "https://finnhub.io/api/news?id=f479ad2df5936d859f53f8c84a798333a56d9d576d6101676e3408d578046dc5",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
@@ -147,6 +135,42 @@
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
+        {
+          "ticker": "VRTX",
+          "titulo": "Vortex Energy Receives Government Approval for Ground Gravity Survey at Robinsons River Salt Project",
+          "resumen": "Approximately 22-day field program to be managed by Lonquist, with results to feed 3D gravity inversion and 2D modelling along key seismic profilesVANCOUVER, British Columbia, Oct. 22, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) is ple",
+          "fuente": "Yahoo",
+          "fecha": "22 Oct 2026 12:00 UTC",
+          "url": "https://finnhub.io/api/news?id=2ebfb5c5ececa35f9094799bf56c6c968630fe538d74ccf06c335b846e64f665",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex Pharmaceuticals’ New Drugs Are Gaining Ground. Is That Enough for Investors?",
+          "resumen": "Vertex Pharmaceuticals Incorporated (NASDAQ:VRTX) has spent years building a highly profitable cystic fibrosis franchise. Now, with newer treatments entering the market and its acquisition of Crinetics Pharmaceuticals completed, the company is working to establish additional sources of growth. The s",
+          "fuente": "Yahoo",
+          "fecha": "21 Oct 2026 15:19 UTC",
+          "url": "https://finnhub.io/api/news?id=fd0f9110765fd8e5d5482f6bab2529f4661cb2a3525b1f8acb4178d99bca0210",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "S&P 500 Premarket Movers on Oct. 21: Tech Hardware and AI Suppliers Gain, Health Care Declines",
+          "resumen": "S&P 500 premarket movers on Oct. 21: SMCI, DELL, VRT, LITE, BE and HPE led gainers, while ISRG, NFLX, T, ABT and DHR led declines.",
+          "fuente": "ChartMill",
+          "fecha": "21 Oct 2026 12:36 UTC",
+          "url": "https://finnhub.io/api/news?id=eba9a293516889b9db11cf3881c5665bd9e741fb9e36f87cf455c1d1c54b430a",
+          "imagen": "https://www.chartmill.com/images/uploads/CM_Premarket_Movers_Small_free_90289f6b81.webp",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "VRTX",
           "titulo": "Why Should You Think About Vertex Differently Now?",
@@ -170,42 +194,6 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals (VRTX) Outpaces Stock Market Gains: What You Should Know",
-          "resumen": "Vertex Pharmaceuticals (VRTX) closed at $514.7 in the latest trading session, marking a +2.54% move from the prior day.",
-          "fuente": "Yahoo",
-          "fecha": "20 Oct 2026 20:50 UTC",
-          "url": "https://finnhub.io/api/news?id=59314c7ab71cb22d75b313016495700c4c5d175bb0a4e388ad53dbc7407cf9d2",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex Appoints Daniel Brennan to its Board of Directors",
-          "resumen": "BOSTON, October 20, 2026--Vertex Pharmaceuticals Incorporated (Nasdaq: VRTX) today announced that Daniel Brennan has been appointed to its Board of Directors as an independent director. Mr. Brennan has more than 35 years of experience in finance roles at leading healthcare companies, including more ",
-          "fuente": "Yahoo",
-          "fecha": "20 Oct 2026 20:05 UTC",
-          "url": "https://finnhub.io/api/news?id=06f6faed4bd65e9c0e32c1aeac93309d2b2c65babcc52e7ea6d47576de38a794",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "What Vertex Pharmaceuticals (VRTX)'s Pancreas Recovery Data Means For Shareholders",
-          "resumen": "Vertex Pharmaceuticals recently presented interim data from its ALYFTREK regimen in children aged 2 to 5 with cystic fibrosis, showing restored exocrine pancreatic function in some patients and enabling a portion to stop lifelong pancreatic enzyme replacement therapy. The reported recovery of pancre",
-          "fuente": "Yahoo",
-          "fecha": "18 Oct 2026 15:12 UTC",
-          "url": "https://finnhub.io/api/news?id=31fdc9f85d46544de5546224dd35c3aade7953f6ed84d54221601ad790c35dab",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
@@ -317,38 +305,25 @@
     },
     "CAI": {
       "nombre": "CAI",
-      "noticias": [
-        {
-          "ticker": "CAI",
-          "titulo": "Caris Life Sciences Launches New National Commercial Featuring Jordan Spieth Highlighting the Power of Artificial Intelligence in Early Stage Cancer Detection",
-          "resumen": "Caris Life Sciences® (NASDAQ: CAI), a leading TechBio company, today announced the launch of the second commercial in a series promoting Caris Detect™, Caris' multi-cancer early detection (MCED) test, featuring three-time major champion professional golfer, Jordan Spieth.",
-          "fuente": "Yahoo",
-          "fecha": "19 Oct 2026 10:30 UTC",
-          "url": "https://finnhub.io/api/news?id=0e100c629c0e381035d6c526a4d87bc2a1ef3bd1063d6419f0da2aa45247a577",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "CAI",
-          "titulo": "Canaccord Genuity Maintains Hold on Caris Life Sciences, Raises Price Target to $30",
-          "resumen": "Canaccord Genuity  analyst Kyle Mikson   maintains Caris Life Sciences (NASDAQ:CAI) with a Hold and raises the price target from $22 to $30.",
-          "fuente": "Benzinga",
-          "fecha": "19 Oct 2026 09:01 UTC",
-          "url": "https://finnhub.io/api/news?id=dcd5a2a84ff1e03704ac2e8bbfcf36d4061f8faf070e99d7a6a23f50f52eab6a",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 2
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "GPCR": {
       "nombre": "GPCR",
       "noticias": [
+        {
+          "ticker": "GPCR",
+          "titulo": "How Will Novo's GLP-1 Portfolio Sales Aid Upcoming Q3 Results?",
+          "resumen": "NVO's Ozempic and Wegovy sales will be in focus for Q3 results as oral GLP-1 launches expand, while pricing pressure and competition challenge growth.",
+          "fuente": "Yahoo",
+          "fecha": "21 Oct 2026 13:20 UTC",
+          "url": "https://finnhub.io/api/news?id=509de8595399004f186a11b0d70f3da9b51e48341586df8701c95d689ad4174f",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "GPCR",
           "titulo": "Structure Therapeutics Announces Multiple Upcoming Presentations at ObesityWeek® 2026",
@@ -375,11 +350,23 @@
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 3
     },
     "ABVX": {
       "nombre": "ABVX",
       "noticias": [
+        {
+          "ticker": "ABVX",
+          "titulo": "Wedbush Maintains Neutral on Abivax, Lowers Price Target to $96",
+          "resumen": "Wedbush  analyst David Nierengarten   maintains Abivax (NASDAQ:ABVX) with a Neutral and lowers the price target from $118 to $96.",
+          "fuente": "Benzinga",
+          "fecha": "21 Oct 2026 08:56 UTC",
+          "url": "https://finnhub.io/api/news?id=7d1c69f32c6c7cd23b3a7c3ae7361eb81062f90cd50b06779789d7055bc7bcbd",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "ABVX",
           "titulo": "Guggenheim Reiterates Buy on Abivax, Maintains $175 Price Target",
@@ -394,7 +381,7 @@
         }
       ],
       "nivel": "azul",
-      "total": 1
+      "total": 2
     },
     "VERA": {
       "nombre": "VERA",
@@ -457,6 +444,30 @@
       "noticias": [
         {
           "ticker": "SENS",
+          "titulo": "Senseonics Holdings, Inc. to Participate in Upcoming Investor Conferences",
+          "resumen": "GERMANTOWN, Md., Oct. 22, 2026 (GLOBE NEWSWIRE) -- Senseonics Holdings, Inc. (NASDAQ: SENS), a medical technology company focused on the development and manufacturing of long-term, implantable continuous glucose monitoring (CGM) systems for people with diabetes, today announced that management will ",
+          "fuente": "Yahoo",
+          "fecha": "22 Oct 2026 12:00 UTC",
+          "url": "https://finnhub.io/api/news?id=aad297fc27008cace6700bb276f82220c0060740b67873cb05d78b9d557395fa",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "SENS",
+          "titulo": "Sensirion (SWX:SENS) Stock May Trade At A Premium To Cash Flow",
+          "resumen": "Sensirion Holding has delivered a 44.4% return over the past year, which naturally raises a tougher question for you as an investor. Is the current share price at CHF 86.20 still in line with the cash flows the business is expected to generate, or has enthusiasm pushed it ahead of what its own numbe",
+          "fuente": "Yahoo",
+          "fecha": "22 Oct 2026 10:15 UTC",
+          "url": "https://finnhub.io/api/news?id=65a2faf7868df5ab87c32ef8a73f2caa12318dcea17d0fc1e5734bcb878f4f48",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "SENS",
           "titulo": "Senseonics Holdings, Inc. Schedules Third Quarter 2026 Earnings Release and Conference Call for November 9, 2026 at 4:30 P.M. Eastern Time",
           "resumen": "GERMANTOWN, Md., Oct. 21, 2026 (GLOBE NEWSWIRE) -- Senseonics Holdings, Inc. (NASDAQ: SENS) a medical technology company focused on the development and manufacturing of long-term, implantable continuous glucose monitoring (CGM) systems for people with diabetes, today announced that it plans to relea",
           "fuente": "Yahoo",
@@ -469,11 +480,23 @@
         }
       ],
       "nivel": "rojo",
-      "total": 1
+      "total": 3
     },
     "INSM": {
       "nombre": "INSM",
       "noticias": [
+        {
+          "ticker": "INSM",
+          "titulo": "Top 3 Health Care Stocks That Could Blast Off In October",
+          "resumen": "Insmed, Axsome Therapeutics and Arrowhead Pharmaceuticals are oversold by RSI, potentially offering undervalued buying opportunities.",
+          "fuente": "Benzinga",
+          "fecha": "21 Oct 2026 06:01 UTC",
+          "url": "https://finnhub.io/api/news?id=c6508c2b4cd99cde223fdc3adc7405eb1fd6ce328b00896b161c40b307145361",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/21/Healthcare-stocks.jpg?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "INSM",
           "titulo": "Insmed Appoints Two New Directors to Its Board",
@@ -485,67 +508,19 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "Insmed Launches BRINSUPRI® Tablets 25 mg (brensocatib hydrate) for the Treatment of Non-Cystic Fibrosis Bronchiectasis in Japan",
-          "resumen": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced the commercial launch in Japan of BRINSUPRI® Tablets 25 mg (brensocatib hydrate), an ",
-          "fuente": "Yahoo",
-          "fecha": "19 Oct 2026 11:00 UTC",
-          "url": "https://finnhub.io/api/news?id=871db023bec67bd54e43cf6345221075347c4db864950b3716951f2365c238a9",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
-      "nivel": "azul",
+      "nivel": "rojo",
       "total": 2
     }
   },
   "resumen": {
-    "total_noticias": 32,
-    "tickers_con_noticias": 12,
-    "alertas_urgentes": 9,
-    "sin_noticias": 5
+    "total_noticias": 33,
+    "tickers_con_noticias": 11,
+    "alertas_urgentes": 10,
+    "sin_noticias": 6
   },
   "todas_noticias": [
-    {
-      "ticker": "VRTX",
-      "titulo": "What Vertex Pharmaceuticals (VRTX)'s Pancreas Recovery Data Means For Shareholders",
-      "resumen": "Vertex Pharmaceuticals recently presented interim data from its ALYFTREK regimen in children aged 2 to 5 with cystic fibrosis, showing restored exocrine pancreatic function in some patients and enabling a portion to stop lifelong pancreatic enzyme replacement therapy. The reported recovery of pancre",
-      "fuente": "Yahoo",
-      "fecha": "18 Oct 2026 15:12 UTC",
-      "url": "https://finnhub.io/api/news?id=31fdc9f85d46544de5546224dd35c3aade7953f6ed84d54221601ad790c35dab",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "argenx SE To Present New Data From Phase 3 Study Evaluating VYVGART Hytrulo In Patients With Autoimmune Myositis, Focused On IMNM And DM, At ACR Convergence 2026",
-      "resumen": "Results from the global Phase 3 ALKIVIA study, the first registrational study investigating an FcRn blocker in autoimmune myositis, show efgartigimod provides clinically meaningful improvements in IMNM and DM Patient",
-      "fuente": "Benzinga",
-      "fecha": "19 Oct 2026 08:07 UTC",
-      "url": "https://finnhub.io/api/news?id=93a237ee22175ac6de3a1118a5b9983e0e2d30d68514a649b97ea85e1370d53d",
-      "imagen": "",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "argenx to Present Phase 3 ALKIVIA Results in Autoimmune Myositis as a Late-Breaking Oral Presentation at ACR Convergence 2026",
-      "resumen": "Results from the global Phase 3 ALKIVIA study, the first registrational study investigating an FcRn blocker in autoimmune myositis, show efgartigimod provides clinically meaningful improvements in IMNM and DMPatient improvements observed as early as Week 4 and sustained through 52 weeksLate-breaking",
-      "fuente": "Yahoo",
-      "fecha": "19 Oct 2026 12:00 UTC",
-      "url": "https://finnhub.io/api/news?id=43be27be6355c260d75f548ddbaf1ae2cb6e3f4605ded2822a583042470130ef",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "GPCR",
       "titulo": "How Will Eli Lilly's GLP-1 Portfolio Sales Aid Upcoming Q3 Results?",
@@ -595,18 +570,6 @@
       "badge": "🔴"
     },
     {
-      "ticker": "VKTX",
-      "titulo": "4 Biotech Stocks With Promising Late-Stage Drug Pipelines to Watch Now",
-      "resumen": "BBIO, NTLA, BIIB and VKTX offer investors potential upside from promising drug pipelines and upcoming FDA decisions and pivotal study results.",
-      "fuente": "Yahoo",
-      "fecha": "20 Oct 2026 13:30 UTC",
-      "url": "https://finnhub.io/api/news?id=f479ad2df5936d859f53f8c84a798333a56d9d576d6101676e3408d578046dc5",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
       "ticker": "OCUL",
       "titulo": "Ocular Therapeutix Eyes Q4 FDA Filing for AXPAXLI After SOL-1 Win",
       "resumen": "Ocular Therapeutix (NASDAQ:OCUL) is preparing a fourth-quarter new drug application submission for AXPAXLI, its investigational maintenance treatment for wet age-related macular degeneration, following discussions with the U.S. Food and Drug Administration, President and Chief Executive Officer Prav",
@@ -625,18 +588,6 @@
       "fuente": "Yahoo",
       "fecha": "20 Oct 2026 17:33 UTC",
       "url": "https://finnhub.io/api/news?id=6194b794de475cb9c527032194f2463c613a66fb25265b22b9c2547b130c2db3",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "Viking Therapeutics Stock What SUNRISE Phase 3 Start Means For VK2735",
-      "resumen": "Viking Therapeutics recently started the SUNRISE Phase 3 program for oral VK2735 in obesity and type 2 diabetes, building on earlier Phase 2 data that linked once daily dosing to weight loss and a gastrointestinal safety profile consistent with dual GLP 1 and GIP agents. The move to two large, 68 we",
-      "fuente": "Yahoo",
-      "fecha": "20 Oct 2026 18:10 UTC",
-      "url": "https://finnhub.io/api/news?id=9653739dea15419755f03490e89aa366296b9a9c332893e5357a37ec9a197cd0",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
@@ -679,6 +630,18 @@
       "badge": "🔴"
     },
     {
+      "ticker": "INSM",
+      "titulo": "Top 3 Health Care Stocks That Could Blast Off In October",
+      "resumen": "Insmed, Axsome Therapeutics and Arrowhead Pharmaceuticals are oversold by RSI, potentially offering undervalued buying opportunities.",
+      "fuente": "Benzinga",
+      "fecha": "21 Oct 2026 06:01 UTC",
+      "url": "https://finnhub.io/api/news?id=c6508c2b4cd99cde223fdc3adc7405eb1fd6ce328b00896b161c40b307145361",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/21/Healthcare-stocks.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
       "ticker": "SENS",
       "titulo": "Senseonics Holdings, Inc. Schedules Third Quarter 2026 Earnings Release and Conference Call for November 9, 2026 at 4:30 P.M. Eastern Time",
       "resumen": "GERMANTOWN, Md., Oct. 21, 2026 (GLOBE NEWSWIRE) -- Senseonics Holdings, Inc. (NASDAQ: SENS) a medical technology company focused on the development and manufacturing of long-term, implantable continuous glucose monitoring (CGM) systems for people with diabetes, today announced that it plans to relea",
@@ -691,40 +654,88 @@
       "badge": "🔴"
     },
     {
-      "ticker": "CAI",
-      "titulo": "Canaccord Genuity Maintains Hold on Caris Life Sciences, Raises Price Target to $30",
-      "resumen": "Canaccord Genuity  analyst Kyle Mikson   maintains Caris Life Sciences (NASDAQ:CAI) with a Hold and raises the price target from $22 to $30.",
-      "fuente": "Benzinga",
-      "fecha": "19 Oct 2026 09:01 UTC",
-      "url": "https://finnhub.io/api/news?id=dcd5a2a84ff1e03704ac2e8bbfcf36d4061f8faf070e99d7a6a23f50f52eab6a",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "ticker": "VKTX",
+      "titulo": "The Zacks Analyst Blog Highlights BridgeBio Pharma, Intellia Therapeutics, Biogen and Viking Therapeutics",
+      "resumen": "BridgeBio Pharma, Intellia Therapeutics, Biogen and Viking Therapeutics advance late-stage drug pipelines, with key regulatory decisions and clinical trial results ahead.",
+      "fuente": "Yahoo",
+      "fecha": "21 Oct 2026 12:06 UTC",
+      "url": "https://finnhub.io/api/news?id=84a790847668ebb238e90facc3949ebb837ce3c4520939792a11d2dcc6cf93b9",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "CAI",
-      "titulo": "Caris Life Sciences Launches New National Commercial Featuring Jordan Spieth Highlighting the Power of Artificial Intelligence in Early Stage Cancer Detection",
-      "resumen": "Caris Life Sciences® (NASDAQ: CAI), a leading TechBio company, today announced the launch of the second commercial in a series promoting Caris Detect™, Caris' multi-cancer early detection (MCED) test, featuring three-time major champion professional golfer, Jordan Spieth.",
+      "ticker": "VKTX",
+      "titulo": "How Will Novo's GLP-1 Portfolio Sales Aid Upcoming Q3 Results?",
+      "resumen": "NVO's Ozempic and Wegovy sales will be in focus for Q3 results as oral GLP-1 launches expand, while pricing pressure and competition challenge growth.",
       "fuente": "Yahoo",
-      "fecha": "19 Oct 2026 10:30 UTC",
-      "url": "https://finnhub.io/api/news?id=0e100c629c0e381035d6c526a4d87bc2a1ef3bd1063d6419f0da2aa45247a577",
+      "fecha": "21 Oct 2026 13:20 UTC",
+      "url": "https://finnhub.io/api/news?id=509de8595399004f186a11b0d70f3da9b51e48341586df8701c95d689ad4174f",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "INSM",
-      "titulo": "Insmed Launches BRINSUPRI® Tablets 25 mg (brensocatib hydrate) for the Treatment of Non-Cystic Fibrosis Bronchiectasis in Japan",
-      "resumen": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced the commercial launch in Japan of BRINSUPRI® Tablets 25 mg (brensocatib hydrate), an ",
+      "ticker": "GPCR",
+      "titulo": "How Will Novo's GLP-1 Portfolio Sales Aid Upcoming Q3 Results?",
+      "resumen": "NVO's Ozempic and Wegovy sales will be in focus for Q3 results as oral GLP-1 launches expand, while pricing pressure and competition challenge growth.",
       "fuente": "Yahoo",
-      "fecha": "19 Oct 2026 11:00 UTC",
-      "url": "https://finnhub.io/api/news?id=871db023bec67bd54e43cf6345221075347c4db864950b3716951f2365c238a9",
+      "fecha": "21 Oct 2026 13:20 UTC",
+      "url": "https://finnhub.io/api/news?id=509de8595399004f186a11b0d70f3da9b51e48341586df8701c95d689ad4174f",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals’ New Drugs Are Gaining Ground. Is That Enough for Investors?",
+      "resumen": "Vertex Pharmaceuticals Incorporated (NASDAQ:VRTX) has spent years building a highly profitable cystic fibrosis franchise. Now, with newer treatments entering the market and its acquisition of Crinetics Pharmaceuticals completed, the company is working to establish additional sources of growth. The s",
+      "fuente": "Yahoo",
+      "fecha": "21 Oct 2026 15:19 UTC",
+      "url": "https://finnhub.io/api/news?id=fd0f9110765fd8e5d5482f6bab2529f4661cb2a3525b1f8acb4178d99bca0210",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Viking Therapeutics to Report Financial Results for Third Quarter 2026 on October 28, 2026",
+      "resumen": "Viking Therapeutics, Inc. (\"Viking\") (NASDAQ: VKTX), a clinical-stage biopharmaceutical company focused on the development of novel therapies for metabolic and endocrine disorders, today announced that the company will release financial results for the third quarter of 2026 after the market close on",
+      "fuente": "Yahoo",
+      "fecha": "21 Oct 2026 20:05 UTC",
+      "url": "https://finnhub.io/api/news?id=3359ed7e04f04a48e9e72a4c5b8ed1ee87486c45c9bbb85fe9d3a32f9115ab58",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "argenx Reports Third Quarter 2026 Financial Results and Provides Business Update",
+      "resumen": "Continued strong VYVGART performance drives $1.7 billion in global product net sales, representing 54% year-over-year growth and 13% quarter-over-quarter growth sBLA for VYVGART Hytrulo in IMNM on track for submission by year-end; pursuing additional registrational study in DM Phase 3 MMN data for e",
+      "fuente": "Yahoo",
+      "fecha": "22 Oct 2026 05:00 UTC",
+      "url": "https://finnhub.io/api/news?id=dd730b4a94e4891c86130649ed05e69661b1b3924aff759793b5f85359d107ab",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vortex Energy Receives Government Approval for Ground Gravity Survey at Robinsons River Salt Project",
+      "resumen": "Approximately 22-day field program to be managed by Lonquist, with results to feed 3D gravity inversion and 2D modelling along key seismic profilesVANCOUVER, British Columbia, Oct. 22, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (“Vortex” or the “Company”) is ple",
+      "fuente": "Yahoo",
+      "fecha": "22 Oct 2026 12:00 UTC",
+      "url": "https://finnhub.io/api/news?id=2ebfb5c5ececa35f9094799bf56c6c968630fe538d74ccf06c335b846e64f665",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "OCUL",
@@ -811,36 +822,12 @@
       "badge": "🔵"
     },
     {
-      "ticker": "VKTX",
-      "titulo": "Prediction: $1,000 Invested in Viking Therapeutics Today Will Be Worth This Much in 5 Years",
-      "resumen": "Viking Therapeutics has a lot riding on its leading pipeline candidate.",
-      "fuente": "Yahoo",
-      "fecha": "20 Oct 2026 14:20 UTC",
-      "url": "https://finnhub.io/api/news?id=bba4aac5f8846c09eeff44550bbfbd035d988f5272a5584e9e6734a0ab3575db",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
       "ticker": "ARGX",
       "titulo": "European Equities Traded in the US as American Depositary Receipts Advance in Tuesday Trading",
       "resumen": "European equities traded in the US as American depositary receipts were tracking higher late Tuesday",
       "fuente": "Yahoo",
       "fecha": "20 Oct 2026 15:10 UTC",
       "url": "https://finnhub.io/api/news?id=17624dd680104ef72e0588ddac6685820bd3fe1a8fc6d6bf3979d1589c10be92",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex Appoints Daniel Brennan to its Board of Directors",
-      "resumen": "BOSTON, October 20, 2026--Vertex Pharmaceuticals Incorporated (Nasdaq: VRTX) today announced that Daniel Brennan has been appointed to its Board of Directors as an independent director. Mr. Brennan has more than 35 years of experience in finance roles at leading healthcare companies, including more ",
-      "fuente": "Yahoo",
-      "fecha": "20 Oct 2026 20:05 UTC",
-      "url": "https://finnhub.io/api/news?id=06f6faed4bd65e9c0e32c1aeac93309d2b2c65babcc52e7ea6d47576de38a794",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
@@ -860,18 +847,6 @@
     },
     {
       "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals (VRTX) Outpaces Stock Market Gains: What You Should Know",
-      "resumen": "Vertex Pharmaceuticals (VRTX) closed at $514.7 in the latest trading session, marking a +2.54% move from the prior day.",
-      "fuente": "Yahoo",
-      "fecha": "20 Oct 2026 20:50 UTC",
-      "url": "https://finnhub.io/api/news?id=59314c7ab71cb22d75b313016495700c4c5d175bb0a4e388ad53dbc7407cf9d2",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
       "titulo": "AbbVie vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy in 2026?",
       "resumen": "AbbVie generates $17.8 billion in annual free cash flow but faces patent cliffs, while Vertex boasts a 33% net margin with concentrated cystic fibrosis exposure.",
       "fuente": "Yahoo",
@@ -883,12 +858,60 @@
       "badge": "🔵"
     },
     {
+      "ticker": "ABVX",
+      "titulo": "Wedbush Maintains Neutral on Abivax, Lowers Price Target to $96",
+      "resumen": "Wedbush  analyst David Nierengarten   maintains Abivax (NASDAQ:ABVX) with a Neutral and lowers the price target from $118 to $96.",
+      "fuente": "Benzinga",
+      "fecha": "21 Oct 2026 08:56 UTC",
+      "url": "https://finnhub.io/api/news?id=7d1c69f32c6c7cd23b3a7c3ae7361eb81062f90cd50b06779789d7055bc7bcbd",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
       "ticker": "ALNY",
       "titulo": "Alnylam Is Now Solidly Profitable. Why Are Investors Treating It Like a Broken Biotech?",
       "resumen": "This beaten-down biotech has a better story than its stock chart suggests.",
       "fuente": "Yahoo",
       "fecha": "21 Oct 2026 09:04 UTC",
       "url": "https://finnhub.io/api/news?id=2ad3397771e99d98a2b4e42769c76bc407e8262d3207fed9d0932ba533dbbae6",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "S&P 500 Premarket Movers on Oct. 21: Tech Hardware and AI Suppliers Gain, Health Care Declines",
+      "resumen": "S&P 500 premarket movers on Oct. 21: SMCI, DELL, VRT, LITE, BE and HPE led gainers, while ISRG, NFLX, T, ABT and DHR led declines.",
+      "fuente": "ChartMill",
+      "fecha": "21 Oct 2026 12:36 UTC",
+      "url": "https://finnhub.io/api/news?id=eba9a293516889b9db11cf3881c5665bd9e741fb9e36f87cf455c1d1c54b430a",
+      "imagen": "https://www.chartmill.com/images/uploads/CM_Premarket_Movers_Small_free_90289f6b81.webp",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "SENS",
+      "titulo": "Sensirion (SWX:SENS) Stock May Trade At A Premium To Cash Flow",
+      "resumen": "Sensirion Holding has delivered a 44.4% return over the past year, which naturally raises a tougher question for you as an investor. Is the current share price at CHF 86.20 still in line with the cash flows the business is expected to generate, or has enthusiasm pushed it ahead of what its own numbe",
+      "fuente": "Yahoo",
+      "fecha": "22 Oct 2026 10:15 UTC",
+      "url": "https://finnhub.io/api/news?id=65a2faf7868df5ab87c32ef8a73f2caa12318dcea17d0fc1e5734bcb878f4f48",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "SENS",
+      "titulo": "Senseonics Holdings, Inc. to Participate in Upcoming Investor Conferences",
+      "resumen": "GERMANTOWN, Md., Oct. 22, 2026 (GLOBE NEWSWIRE) -- Senseonics Holdings, Inc. (NASDAQ: SENS), a medical technology company focused on the development and manufacturing of long-term, implantable continuous glucose monitoring (CGM) systems for people with diabetes, today announced that management will ",
+      "fuente": "Yahoo",
+      "fecha": "22 Oct 2026 12:00 UTC",
+      "url": "https://finnhub.io/api/news?id=aad297fc27008cace6700bb276f82220c0060740b67873cb05d78b9d557395fa",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",

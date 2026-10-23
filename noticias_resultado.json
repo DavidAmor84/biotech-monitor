@@ -1,8 +1,8 @@
 {
-  "generado": "22/10/2026 12:55 UTC",
+  "generado": "23/10/2026 12:35 UTC",
   "plazo_horas": 72,
-  "desde": "2026-10-19",
-  "hasta": "2026-10-22",
+  "desde": "2026-10-20",
+  "hasta": "2026-10-23",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -15,11 +15,11 @@
       "noticias": [
         {
           "ticker": "ARGX",
-          "titulo": "argenx Reports Third Quarter 2026 Financial Results and Provides Business Update",
-          "resumen": "Continued strong VYVGART performance drives $1.7 billion in global product net sales, representing 54% year-over-year growth and 13% quarter-over-quarter growth sBLA for VYVGART Hytrulo in IMNM on track for submission by year-end; pursuing additional registrational study in DM Phase 3 MMN data for e",
+          "titulo": "argenx (ARGX) Q3 2026 Earnings Call Transcript",
+          "resumen": "VYVGART revenue surged 54% year-over-year amid strategic Forte Biosciences acquisition.",
           "fuente": "Yahoo",
-          "fecha": "22 Oct 2026 05:00 UTC",
-          "url": "https://finnhub.io/api/news?id=dd730b4a94e4891c86130649ed05e69661b1b3924aff759793b5f85359d107ab",
+          "fecha": "23 Oct 2026 08:42 UTC",
+          "url": "https://finnhub.io/api/news?id=832d071f05a9fee34e5922e89120728dd9abe48f6d69b36d6e9c775431943bc5",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -27,11 +27,11 @@
         },
         {
           "ticker": "ARGX",
-          "titulo": "European Equities Traded in the US as American Depositary Receipts Advance in Tuesday Trading",
-          "resumen": "European equities traded in the US as American depositary receipts were tracking higher late Tuesday",
+          "titulo": "Argenx Wavers After A Surprise Testing Setback For Its Bread-And-Butter Drug",
+          "resumen": "Argenx stock wavered Thursday despite beating sales expectations on a surprise testing requirement for its drug, Vyvgart.",
           "fuente": "Yahoo",
-          "fecha": "20 Oct 2026 15:10 UTC",
-          "url": "https://finnhub.io/api/news?id=17624dd680104ef72e0588ddac6685820bd3fe1a8fc6d6bf3979d1589c10be92",
+          "fecha": "22 Oct 2026 20:25 UTC",
+          "url": "https://finnhub.io/api/news?id=ceb237170a53fe2dedfdf9b766fd2f85438ee76efea2b8db515afd76bf3784c2",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
@@ -39,35 +39,109 @@
         },
         {
           "ticker": "ARGX",
-          "titulo": "RBC Capital Maintains Outperform on argenx, Lowers Price Target to $1025",
-          "resumen": "RBC Capital  analyst Luca Issi   maintains argenx (NASDAQ:ARGX) with a Outperform and lowers the price target from $1100 to $1025.",
-          "fuente": "Benzinga",
-          "fecha": "20 Oct 2026 09:37 UTC",
-          "url": "https://finnhub.io/api/news?id=37930db4b8aa7bb894fc8fec9010e4d653e132270a1aa47ad4f0260fda84cca6",
-          "imagen": "",
+          "titulo": "What argenex (ARGX) Said on Its Q3 Earnings Call",
+          "resumen": "argenex (NASDAQ:ARGX) reported third-quarter 2026 product net sales of $1.7 billion, up 54% from a year earlier and 13% sequentially, as patient growth in generalized myasthenia gravis, or MG, and chronic inflammatory demyelinating polyneuropathy, or CIDP, continued to support demand for VYVGART. C",
+          "fuente": "Yahoo",
+          "fecha": "22 Oct 2026 16:04 UTC",
+          "url": "https://finnhub.io/api/news?id=5d7b863b4f46931766c60794575fcde6dd4d7315793d7dace3c3199832a652bf",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ARGX",
+          "titulo": "HRMY or ARGX: Which Is the Better Value Stock Right Now?",
+          "resumen": "HRMY vs. ARGX: Which Stock Is the Better Value Option?",
+          "fuente": "Yahoo",
+          "fecha": "22 Oct 2026 14:40 UTC",
+          "url": "https://finnhub.io/api/news?id=7e809c176425e5195148f44839aebd7e3c4a313add000281daa797ab66082ce7",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
+        },
+        {
+          "ticker": "ARGX",
+          "titulo": "TD Cowen Names Top Biotech Stocks for Q4 Amid Market Volatility",
+          "resumen": "Investing.com -- TD Cowen has identified seven biotech stocks as top picks for the fourth quarter, following a turbulent period that saw the sector retreat from August highs despite what the firm characterizes as solid underlying fundamentals.",
+          "fuente": "Yahoo",
+          "fecha": "22 Oct 2026 13:34 UTC",
+          "url": "https://finnhub.io/api/news?id=6ab780a131163289447ef0b1c9c349df35ff6aa647d1384ff08d7f769d8449af",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 5
     },
     "DYN": {
       "nombre": "DYN",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "DYN",
+          "titulo": "Dyne Therapeutics Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+          "resumen": "WALTHAM, Mass., Oct. 22, 2026 (GLOBE NEWSWIRE) -- Dyne Therapeutics, Inc. (Nasdaq: DYN), a clinical-stage company focused on delivering functional improvement for people living with genetically driven neuromuscular diseases, today announced that it has granted inducement equity awards to 16 newly hi",
+          "fuente": "Yahoo",
+          "fecha": "22 Oct 2026 20:05 UTC",
+          "url": "https://finnhub.io/api/news?id=30860ce63d5c988b4c70cf2d65556a75e19647b81826d3798b39785c72c76c16",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "DNLI": {
       "nombre": "DNLI",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "DNLI",
+          "titulo": "Denali Therapeutics to Report Third Quarter 2026 Financial Results and Business Highlights on November 3, 2026",
+          "resumen": "SOUTH SAN FRANCISCO, Calif., Oct. 22, 2026 (GLOBE NEWSWIRE) -- Denali Therapeutics Inc. (Nasdaq: DNLI) today announced that it will report financial results and business highlights for the third quarter ended September 30, 2026, on Tuesday, November 3, 2026. Denali’s management will host a conferenc",
+          "fuente": "Yahoo",
+          "fecha": "22 Oct 2026 20:01 UTC",
+          "url": "https://finnhub.io/api/news?id=c1a11324ac66336975d981edaf6682bf05731e3d24b15c20657601c9d37567de",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "VKTX": {
       "nombre": "VKTX",
       "noticias": [
+        {
+          "ticker": "VKTX",
+          "titulo": "Viking Therapeutics, Inc. (VKTX) Falls More Steeply Than Broader Market: What Investors Need to Know",
+          "resumen": "In the closing of the recent trading day, Viking Therapeutics, Inc. (VKTX) stood at $25.76, denoting a -2.35% move from the preceding trading day.",
+          "fuente": "Yahoo",
+          "fecha": "22 Oct 2026 20:50 UTC",
+          "url": "https://finnhub.io/api/news?id=4cc368638a82d89f0a3c0b69af9a2b55d5cd60c3b6e51f7b1f2bb41f6c636a60",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "NVO vs. VKTX: Which Obesity Stock Could Deliver Bigger Gains?",
+          "resumen": "Viking Therapeutics' late-stage obesity drug and promising weight-maintenance data could offer greater upside than Novo Nordisk, despite higher clinical and commercial risks.",
+          "fuente": "Yahoo",
+          "fecha": "22 Oct 2026 15:31 UTC",
+          "url": "https://finnhub.io/api/news?id=b51696f5246dfde23443fea3ab70158a0e0da20eec4ef4b3a94ab385fce274ca",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "VKTX",
           "titulo": "Viking Therapeutics to Report Financial Results for Third Quarter 2026 on October 28, 2026",
@@ -103,30 +177,6 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "How Investors May Respond To Novo Nordisk (CPSE:NOVO B) Obesity Drug Competition",
-          "resumen": "Novo Nordisk is pressing ahead with obesity and cardiometabolic drug development, including CagriSema regulatory submissions and a partnership with Prothena on Coramitug, while also running a DKK 15b share buyback that has added to its treasury share position since February 2026. Growing competition",
-          "fuente": "Yahoo",
-          "fecha": "21 Oct 2026 01:11 UTC",
-          "url": "https://finnhub.io/api/news?id=d9af9314bc8f4747fa8f0c7657a135bb6eb3ceee823a926114ea043faffb5601",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "Viking Therapeutics (VKTX) Stock Looks Overvalued Next To Its Book Value",
-          "resumen": "Viking Therapeutics has seen its share price move sharply over recent years, and the recent pullback puts fresh focus on whether that journey still lines up with what its balance sheet can support. With the company pushing ahead in obesity treatment, the open question is how the current market price",
-          "fuente": "Yahoo",
-          "fecha": "20 Oct 2026 20:06 UTC",
-          "url": "https://finnhub.io/api/news?id=5c09b4717a799b8b7a0f26c7591e3290cf81d5111f9048c44e33637b3b0ed5cc",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -135,6 +185,18 @@
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
+        {
+          "ticker": "VRTX",
+          "titulo": "Gilead Sciences (GILD) vs. AMGN and VRTX: Can Oncology Growth and HIV Strength Drive a New Growth Era Beyond Acquisitions?",
+          "resumen": "Is GILD a good stock to buy? We came across a bullish thesis on Gilead Sciences, Inc. on Astute Optics – US’s Substack. In this article, we will summarize the bulls’ thesis on GILD. Gilead Sciences, Inc.’s share was trading at $156.51 as of October 20th 2026. GILD’s trailing and forward P/E were 17.",
+          "fuente": "Yahoo",
+          "fecha": "22 Oct 2026 20:33 UTC",
+          "url": "https://finnhub.io/api/news?id=8be9cda696951d7b2fa53e3f1851c49e66e1ca650ebc8694dae5425b54a4573d",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "VRTX",
           "titulo": "Vortex Energy Receives Government Approval for Ground Gravity Survey at Robinsons River Salt Project",
@@ -182,18 +244,6 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "AbbVie vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy in 2026?",
-          "resumen": "AbbVie generates $17.8 billion in annual free cash flow but faces patent cliffs, while Vertex boasts a 33% net margin with concentrated cystic fibrosis exposure.",
-          "fuente": "Yahoo",
-          "fecha": "20 Oct 2026 21:35 UTC",
-          "url": "https://finnhub.io/api/news?id=e49558c555026b92434592fdc119c2a0057ebb415679b659eb4a3f1b8bd61926",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -202,6 +252,42 @@
     "ALNY": {
       "nombre": "ALNY",
       "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "How Much Downside Is Left In Moderna Stock?",
+          "resumen": "For questions about this article or underlying research, email help@trefis.com.",
+          "fuente": "Yahoo",
+          "fecha": "23 Oct 2026 08:00 UTC",
+          "url": "https://finnhub.io/api/news?id=35a567ab400cc509afa96f335189f8350dc665d14e7053e42fbeb4de7d7c049c",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam Announces Positive Initial Phase 1b Data for Brezosiran (ALN-HTT02) Demonstrating Deep and Durable Huntingtin Lowering in Huntington’s Disease",
+          "resumen": "CAMBRIDGE, Mass., October 23, 2026--Alnylam Pharmaceuticals, Inc. (Nasdaq: ALNY), the leading RNAi therapeutics company, today reported positive initial Phase 1b clinical trial results for ALN-HTT02, an investigational RNAi therapeutic in development for the treatment of Huntington’s disease, which ",
+          "fuente": "Yahoo",
+          "fecha": "23 Oct 2026 07:45 UTC",
+          "url": "https://finnhub.io/api/news?id=386bbad466214b89ccbffd0c8cdbac01c9f96d0ea250d066db9bd38b81a389e7",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam Pharmaceuticals (ALNY) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
+          "resumen": "Alnylam (ALNY) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+          "fuente": "Yahoo",
+          "fecha": "22 Oct 2026 13:00 UTC",
+          "url": "https://finnhub.io/api/news?id=a68b843f8bb2b418eb2badf7941e0b6fe42c17f65a0ce43fb8722847627b66ba",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "ALNY",
           "titulo": "Alnylam Is Now Solidly Profitable. Why Are Investors Treating It Like a Broken Biotech?",
@@ -225,42 +311,6 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Alnylam (ALNY): Can the RNAi Franchise Get it an Entry into the S&P 500 Index?",
-          "resumen": "Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) is a biotechnology company built on RNA interference, a technique that switches off the genes behind certain diseases. At about $31 billion, the stock features on our list of 9 New Contenders for the S&P 500 Index. It stands out as a rare large biotech tha",
-          "fuente": "Yahoo",
-          "fecha": "20 Oct 2026 17:33 UTC",
-          "url": "https://finnhub.io/api/news?id=6194b794de475cb9c527032194f2463c613a66fb25265b22b9c2547b130c2db3",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Merck KgaA Is Paying More Than Double for This Gene-Silencing Biotech, Which Is Soaring 125%",
-          "resumen": "Silence Therapeutics stock surges as Merck KGaA agrees to acquire the RNA drugmaker for over $1 billion.",
-          "fuente": "Yahoo",
-          "fecha": "19 Oct 2026 16:08 UTC",
-          "url": "https://finnhub.io/api/news?id=722d98fa792b9f7cf2a2c78acc947ee21313416d9864d496f6bcfd0d81c5add8",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Why Merck KGaA Is Paying a 130% Premium For This Gene-Silencing Tech",
-          "resumen": "Silence Therapeutics stock surges as Merck KGaA agrees to acquire the RNA drugmaker for over $1 billion.",
-          "fuente": "Yahoo",
-          "fecha": "19 Oct 2026 14:19 UTC",
-          "url": "https://finnhub.io/api/news?id=d15e6f42b7840db47f631be3c21f676d0d0893b8b743f4149574d8e701e051dc",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -286,28 +336,29 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "OCUL",
-          "titulo": "Needham Reiterates Buy on Ocular Therapeutix, Maintains $18 Price Target",
-          "resumen": "Needham  analyst Serge Belanger   reiterates Ocular Therapeutix (NASDAQ:OCUL) with a Buy and maintains $18 price target.",
-          "fuente": "Benzinga",
-          "fecha": "19 Oct 2026 13:12 UTC",
-          "url": "https://finnhub.io/api/news?id=9c8fe6f40ffc0169d3b3e88041c104724813334b84142eb038bda567868a505f",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 1
     },
     "CAI": {
       "nombre": "CAI",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "CAI",
+          "titulo": "Foundation Medicine Appoints Chadi Nabhan, M.D., MBA, as Chief Medical Officer",
+          "resumen": "BOSTON, October 22, 2026--Foundation Medicine appoints Chadi Nabhan, M.D., MBA, as chief medical officer.",
+          "fuente": "Yahoo",
+          "fecha": "22 Oct 2026 11:00 UTC",
+          "url": "https://finnhub.io/api/news?id=314e5f688f87e966c0114f06b18690b2630a8591b7f29b99632c60d6fe72d345",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "GPCR": {
       "nombre": "GPCR",
@@ -323,34 +374,10 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "GPCR",
-          "titulo": "Structure Therapeutics Announces Multiple Upcoming Presentations at ObesityWeek® 2026",
-          "resumen": "SAN FRANCISCO, Oct. 19, 2026 (GLOBE NEWSWIRE) -- Structure Therapeutics Inc. (NASDAQ: GPCR), a clinical-stage global biopharmaceutical company developing novel oral small molecule therapeutics for metabolic diseases, with a focus on chronic weight management, today announced multiple upcoming poster",
-          "fuente": "Yahoo",
-          "fecha": "19 Oct 2026 20:13 UTC",
-          "url": "https://finnhub.io/api/news?id=a20f79cc53f2164106c3c0b5c7fdfbe91e4425c0ad39c83eb624878a727bd639",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "GPCR",
-          "titulo": "How Will Eli Lilly's GLP-1 Portfolio Sales Aid Upcoming Q3 Results?",
-          "resumen": "LLY's surging Mounjaro and Zepbound sales, alongside Foundayo's expanding market access, strengthen its GLP-1 growth momentum ahead of Q3 results.",
-          "fuente": "Yahoo",
-          "fecha": "19 Oct 2026 13:15 UTC",
-          "url": "https://finnhub.io/api/news?id=7688e7615e2be0e63ebd24484495ec690d44d087316025b66280fc3384eddd8a",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 1
     },
     "ABVX": {
       "nombre": "ABVX",
@@ -366,72 +393,59 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "ABVX",
-          "titulo": "Guggenheim Reiterates Buy on Abivax, Maintains $175 Price Target",
-          "resumen": "Guggenheim  analyst Yatin Suneja   reiterates Abivax (NASDAQ:ABVX) with a Buy and maintains $175 price target.",
-          "fuente": "Benzinga",
-          "fecha": "20 Oct 2026 08:52 UTC",
-          "url": "https://finnhub.io/api/news?id=2c8c0d80574d94cb7f5f86874398fd3edf984723fe2629133e03bdae419ab2b4",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "azul",
-      "total": 2
+      "total": 1
     },
     "VERA": {
       "nombre": "VERA",
       "noticias": [
         {
           "ticker": "VERA",
-          "titulo": "Vera Therapeutics to Host ASN Kidney Week Investor Webcast and Third Quarter 2026 Financial Results Conference Webcast",
-          "resumen": "Investor webcast at 4:30 p.m. ET on October 22 to discuss ORIGIN 3 final efficacy results for TRUTAKNA™ (atacicept-vymj) featured in a late-breaking oral presentation during the opening plenary session of ASN Kidney Week 2026Q3 2026 financial results investor webcast scheduled at 4:30 p.m. ET on Nov",
+          "titulo": "Vera Therapeutics' TRUTAKNA Delivers Strong Phase III IgA Nephropathy Results",
+          "resumen": "Vera Therapeutics (NASDAQ:VERA) reported final efficacy results from its Phase III ORIGIN trial evaluating atacicept, marketed as TRUTAKNA, in adults with IgA nephropathy. The company presented the data at the American Society of Nephrology’s Kidney Week meeting in Denver, alongside publication in T",
           "fuente": "Yahoo",
-          "fecha": "20 Oct 2026 12:00 UTC",
-          "url": "https://finnhub.io/api/news?id=7efafbcb187fbc3eb92a39a79b0c00e95a11b488811affd2b26bc71175e62748",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 1
-    },
-    "ACRV": {
-      "nombre": "ACRV",
-      "noticias": [
-        {
-          "ticker": "ACRV",
-          "titulo": "Acrivon Advances ACR-7280, an Optimized, AP3-Enabled, Potential First-in-Class, Oral CDK11 Inhibitor Toward IND Filing in First Half of 2027",
-          "resumen": "ACR-7280 demonstrated complete tumor regression in aggressive AML xenograft models Prioritized among multiple AP3-discovered, highly selective CDK11 inhibitor candidates based on potent single agent activity and strong synergy with BCL-2 and menin inhibitors IND-enabling studies ongoing with IND sub",
-          "fuente": "Yahoo",
-          "fecha": "20 Oct 2026 12:30 UTC",
-          "url": "https://finnhub.io/api/news?id=b04034bdd202d079cf7fe8cff1f9f53d54c0484537d5982107b8291e37fa7e65",
+          "fecha": "23 Oct 2026 01:04 UTC",
+          "url": "https://finnhub.io/api/news?id=bf7fef6c4feff28fcd678629b4effe013ba1c81d80aa6dddf6cc64ade69d4e12",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
         },
         {
-          "ticker": "ACRV",
-          "titulo": "Acrivon Therapeutics Advances ACR-7280, Showing Complete Tumor Regression In AML Models, With IND Filing Targeted For H1 2027",
-          "resumen": "ACR-7280 demonstrated complete tumor regression in aggressive AML xenograft modelsPrioritized among multiple AP3-discovered, highly selective CDK11 inhibitor candidates based on potent single agent activity and strong",
+          "ticker": "VERA",
+          "titulo": "Vera Therapeutics Announces Positive ORIGIN 3 Final Efficacy Analysis of TRUTAKNA™ (atacicept-vymj) in IgA Nephropathy Presented at ASN Kidney Week 2026 and Published in the New England Journal of Med",
+          "resumen": "TRUTAKNA, the first and only FDA-approved BAFF and APRIL inhibitor, achieved statistical significance in all prespecified endpoints, including eGFR change from baseline and annualized slope, and risk reduction in composite kidney disease progression events.Favorable safety profile, and generally com",
+          "fuente": "Yahoo",
+          "fecha": "22 Oct 2026 14:05 UTC",
+          "url": "https://finnhub.io/api/news?id=60e575b46ad8f59eec485fe980d17e8ae87abb14c3c934715730e197a71dca4c",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VERA",
+          "titulo": "Vera Therapeutics Announces Its ORIGIN 3 Study Of TRUTAKNA In Adults With Primary IgA Nephropathy Achieves Primary Endpoint Of Proteinuria Reduction At 36 Weeks",
+          "resumen": "Vera Therapeutics, Inc. (NASDAQ:VERA), a commercial-stage biotechnology company, today announced that the final efficacy analysis for the ORIGIN 3 trial of TRUTAKNA in adults with primary IgA nephropathy (IgAN) at risk",
           "fuente": "Benzinga",
-          "fecha": "20 Oct 2026 08:36 UTC",
-          "url": "https://finnhub.io/api/news?id=8ec83ef491fe7c0ce1a2b11f051a227407158d7632d2ab317919b97b5e7f0d30",
+          "fecha": "22 Oct 2026 10:06 UTC",
+          "url": "https://finnhub.io/api/news?id=bac2a7c7d8db2c31bcdf8a9e23df1aa856419434a181edded5925ce6ecb11225",
           "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 3
+    },
+    "ACRV": {
+      "nombre": "ACRV",
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "TARA": {
       "nombre": "TARA",
@@ -487,6 +501,30 @@
       "noticias": [
         {
           "ticker": "INSM",
+          "titulo": "Insmed (INSM) May Report Negative Earnings: Know the Trend Ahead of Next Week's Release",
+          "resumen": "Insmed (INSM) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+          "fuente": "Yahoo",
+          "fecha": "22 Oct 2026 13:00 UTC",
+          "url": "https://finnhub.io/api/news?id=611b026cf070dc0aacbfd8d9f949dc48f9b5df5af3cfe109066bb16c4cfee838",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "Morgan Stanley Maintains Overweight on Insmed, Lowers Price Target to $213",
+          "resumen": "Morgan Stanley  analyst Matthew Harrison   maintains Insmed (NASDAQ:INSM) with a Overweight and lowers the price target from $218 to $213.",
+          "fuente": "Benzinga",
+          "fecha": "21 Oct 2026 12:29 UTC",
+          "url": "https://finnhub.io/api/news?id=8619a1a5c410fa5cc51f6c8b44d53574054cbd5c0697a0e875a94ed5f344f10a",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "INSM",
           "titulo": "Top 3 Health Care Stocks That Could Blast Off In October",
           "resumen": "Insmed, Axsome Therapeutics and Arrowhead Pharmaceuticals are oversold by RSI, potentially offering undervalued buying opportunities.",
           "fuente": "Benzinga",
@@ -496,79 +534,19 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "Insmed Appoints Two New Directors to Its Board",
-          "resumen": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced the appointment of Paul Hudson and Utpal Koppikar as independent members of its Board",
-          "fuente": "Yahoo",
-          "fecha": "20 Oct 2026 11:00 UTC",
-          "url": "https://finnhub.io/api/news?id=3bd13243c996d7aea25238f00eebae9fe860be33af7bb7434e9422362e2f2fba",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 3
     }
   },
   "resumen": {
-    "total_noticias": 33,
-    "tickers_con_noticias": 11,
-    "alertas_urgentes": 10,
-    "sin_noticias": 6
+    "total_noticias": 35,
+    "tickers_con_noticias": 13,
+    "alertas_urgentes": 12,
+    "sin_noticias": 4
   },
   "todas_noticias": [
-    {
-      "ticker": "GPCR",
-      "titulo": "How Will Eli Lilly's GLP-1 Portfolio Sales Aid Upcoming Q3 Results?",
-      "resumen": "LLY's surging Mounjaro and Zepbound sales, alongside Foundayo's expanding market access, strengthen its GLP-1 growth momentum ahead of Q3 results.",
-      "fuente": "Yahoo",
-      "fecha": "19 Oct 2026 13:15 UTC",
-      "url": "https://finnhub.io/api/news?id=7688e7615e2be0e63ebd24484495ec690d44d087316025b66280fc3384eddd8a",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "GPCR",
-      "titulo": "Structure Therapeutics Announces Multiple Upcoming Presentations at ObesityWeek® 2026",
-      "resumen": "SAN FRANCISCO, Oct. 19, 2026 (GLOBE NEWSWIRE) -- Structure Therapeutics Inc. (NASDAQ: GPCR), a clinical-stage global biopharmaceutical company developing novel oral small molecule therapeutics for metabolic diseases, with a focus on chronic weight management, today announced multiple upcoming poster",
-      "fuente": "Yahoo",
-      "fecha": "19 Oct 2026 20:13 UTC",
-      "url": "https://finnhub.io/api/news?id=a20f79cc53f2164106c3c0b5c7fdfbe91e4425c0ad39c83eb624878a727bd639",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VERA",
-      "titulo": "Vera Therapeutics to Host ASN Kidney Week Investor Webcast and Third Quarter 2026 Financial Results Conference Webcast",
-      "resumen": "Investor webcast at 4:30 p.m. ET on October 22 to discuss ORIGIN 3 final efficacy results for TRUTAKNA™ (atacicept-vymj) featured in a late-breaking oral presentation during the opening plenary session of ASN Kidney Week 2026Q3 2026 financial results investor webcast scheduled at 4:30 p.m. ET on Nov",
-      "fuente": "Yahoo",
-      "fecha": "20 Oct 2026 12:00 UTC",
-      "url": "https://finnhub.io/api/news?id=7efafbcb187fbc3eb92a39a79b0c00e95a11b488811affd2b26bc71175e62748",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ACRV",
-      "titulo": "Acrivon Advances ACR-7280, an Optimized, AP3-Enabled, Potential First-in-Class, Oral CDK11 Inhibitor Toward IND Filing in First Half of 2027",
-      "resumen": "ACR-7280 demonstrated complete tumor regression in aggressive AML xenograft models Prioritized among multiple AP3-discovered, highly selective CDK11 inhibitor candidates based on potent single agent activity and strong synergy with BCL-2 and menin inhibitors IND-enabling studies ongoing with IND sub",
-      "fuente": "Yahoo",
-      "fecha": "20 Oct 2026 12:30 UTC",
-      "url": "https://finnhub.io/api/news?id=b04034bdd202d079cf7fe8cff1f9f53d54c0484537d5982107b8291e37fa7e65",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "OCUL",
       "titulo": "Ocular Therapeutix Eyes Q4 FDA Filing for AXPAXLI After SOL-1 Win",
@@ -576,18 +554,6 @@
       "fuente": "Yahoo",
       "fecha": "20 Oct 2026 16:04 UTC",
       "url": "https://finnhub.io/api/news?id=7c7903c30aa01ded839875efdbc4363910c9ab40e00b49845d59154000fb795d",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Alnylam (ALNY): Can the RNAi Franchise Get it an Entry into the S&P 500 Index?",
-      "resumen": "Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) is a biotechnology company built on RNA interference, a technique that switches off the genes behind certain diseases. At about $31 billion, the stock features on our list of 9 New Contenders for the S&P 500 Index. It stands out as a rare large biotech tha",
-      "fuente": "Yahoo",
-      "fecha": "20 Oct 2026 17:33 UTC",
-      "url": "https://finnhub.io/api/news?id=6194b794de475cb9c527032194f2463c613a66fb25265b22b9c2547b130c2db3",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
@@ -612,18 +578,6 @@
       "fuente": "Yahoo",
       "fecha": "21 Oct 2026 00:56 UTC",
       "url": "https://finnhub.io/api/news?id=30f63c6b342f081d573a977ff03988b6c8ab2d7237b1dd6dd44ca651ef06d703",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "How Investors May Respond To Novo Nordisk (CPSE:NOVO B) Obesity Drug Competition",
-      "resumen": "Novo Nordisk is pressing ahead with obesity and cardiometabolic drug development, including CagriSema regulatory submissions and a partnership with Prothena on Coramitug, while also running a DKK 15b share buyback that has added to its treasury share position since February 2026. Growing competition",
-      "fuente": "Yahoo",
-      "fecha": "21 Oct 2026 01:11 UTC",
-      "url": "https://finnhub.io/api/news?id=d9af9314bc8f4747fa8f0c7657a135bb6eb3ceee823a926114ea043faffb5601",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
@@ -714,12 +668,24 @@
       "badge": "🔴"
     },
     {
-      "ticker": "ARGX",
-      "titulo": "argenx Reports Third Quarter 2026 Financial Results and Provides Business Update",
-      "resumen": "Continued strong VYVGART performance drives $1.7 billion in global product net sales, representing 54% year-over-year growth and 13% quarter-over-quarter growth sBLA for VYVGART Hytrulo in IMNM on track for submission by year-end; pursuing additional registrational study in DM Phase 3 MMN data for e",
+      "ticker": "VERA",
+      "titulo": "Vera Therapeutics Announces Its ORIGIN 3 Study Of TRUTAKNA In Adults With Primary IgA Nephropathy Achieves Primary Endpoint Of Proteinuria Reduction At 36 Weeks",
+      "resumen": "Vera Therapeutics, Inc. (NASDAQ:VERA), a commercial-stage biotechnology company, today announced that the final efficacy analysis for the ORIGIN 3 trial of TRUTAKNA in adults with primary IgA nephropathy (IgAN) at risk",
+      "fuente": "Benzinga",
+      "fecha": "22 Oct 2026 10:06 UTC",
+      "url": "https://finnhub.io/api/news?id=bac2a7c7d8db2c31bcdf8a9e23df1aa856419434a181edded5925ce6ecb11225",
+      "imagen": "",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "CAI",
+      "titulo": "Foundation Medicine Appoints Chadi Nabhan, M.D., MBA, as Chief Medical Officer",
+      "resumen": "BOSTON, October 22, 2026--Foundation Medicine appoints Chadi Nabhan, M.D., MBA, as chief medical officer.",
       "fuente": "Yahoo",
-      "fecha": "22 Oct 2026 05:00 UTC",
-      "url": "https://finnhub.io/api/news?id=dd730b4a94e4891c86130649ed05e69661b1b3924aff759793b5f85359d107ab",
+      "fecha": "22 Oct 2026 11:00 UTC",
+      "url": "https://finnhub.io/api/news?id=314e5f688f87e966c0114f06b18690b2630a8591b7f29b99632c60d6fe72d345",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
@@ -738,124 +704,148 @@
       "badge": "🔴"
     },
     {
-      "ticker": "OCUL",
-      "titulo": "Needham Reiterates Buy on Ocular Therapeutix, Maintains $18 Price Target",
-      "resumen": "Needham  analyst Serge Belanger   reiterates Ocular Therapeutix (NASDAQ:OCUL) with a Buy and maintains $18 price target.",
-      "fuente": "Benzinga",
-      "fecha": "19 Oct 2026 13:12 UTC",
-      "url": "https://finnhub.io/api/news?id=9c8fe6f40ffc0169d3b3e88041c104724813334b84142eb038bda567868a505f",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
       "ticker": "ALNY",
-      "titulo": "Why Merck KGaA Is Paying a 130% Premium For This Gene-Silencing Tech",
-      "resumen": "Silence Therapeutics stock surges as Merck KGaA agrees to acquire the RNA drugmaker for over $1 billion.",
+      "titulo": "Alnylam Pharmaceuticals (ALNY) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
+      "resumen": "Alnylam (ALNY) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
       "fuente": "Yahoo",
-      "fecha": "19 Oct 2026 14:19 UTC",
-      "url": "https://finnhub.io/api/news?id=d15e6f42b7840db47f631be3c21f676d0d0893b8b743f4149574d8e701e051dc",
+      "fecha": "22 Oct 2026 13:00 UTC",
+      "url": "https://finnhub.io/api/news?id=a68b843f8bb2b418eb2badf7941e0b6fe42c17f65a0ce43fb8722847627b66ba",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Merck KgaA Is Paying More Than Double for This Gene-Silencing Biotech, Which Is Soaring 125%",
-      "resumen": "Silence Therapeutics stock surges as Merck KGaA agrees to acquire the RNA drugmaker for over $1 billion.",
-      "fuente": "Yahoo",
-      "fecha": "19 Oct 2026 16:08 UTC",
-      "url": "https://finnhub.io/api/news?id=722d98fa792b9f7cf2a2c78acc947ee21313416d9864d496f6bcfd0d81c5add8",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ACRV",
-      "titulo": "Acrivon Therapeutics Advances ACR-7280, Showing Complete Tumor Regression In AML Models, With IND Filing Targeted For H1 2027",
-      "resumen": "ACR-7280 demonstrated complete tumor regression in aggressive AML xenograft modelsPrioritized among multiple AP3-discovered, highly selective CDK11 inhibitor candidates based on potent single agent activity and strong",
-      "fuente": "Benzinga",
-      "fecha": "20 Oct 2026 08:36 UTC",
-      "url": "https://finnhub.io/api/news?id=8ec83ef491fe7c0ce1a2b11f051a227407158d7632d2ab317919b97b5e7f0d30",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ABVX",
-      "titulo": "Guggenheim Reiterates Buy on Abivax, Maintains $175 Price Target",
-      "resumen": "Guggenheim  analyst Yatin Suneja   reiterates Abivax (NASDAQ:ABVX) with a Buy and maintains $175 price target.",
-      "fuente": "Benzinga",
-      "fecha": "20 Oct 2026 08:52 UTC",
-      "url": "https://finnhub.io/api/news?id=2c8c0d80574d94cb7f5f86874398fd3edf984723fe2629133e03bdae419ab2b4",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "RBC Capital Maintains Outperform on argenx, Lowers Price Target to $1025",
-      "resumen": "RBC Capital  analyst Luca Issi   maintains argenx (NASDAQ:ARGX) with a Outperform and lowers the price target from $1100 to $1025.",
-      "fuente": "Benzinga",
-      "fecha": "20 Oct 2026 09:37 UTC",
-      "url": "https://finnhub.io/api/news?id=37930db4b8aa7bb894fc8fec9010e4d653e132270a1aa47ad4f0260fda84cca6",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "INSM",
-      "titulo": "Insmed Appoints Two New Directors to Its Board",
-      "resumen": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced the appointment of Paul Hudson and Utpal Koppikar as independent members of its Board",
+      "titulo": "Insmed (INSM) May Report Negative Earnings: Know the Trend Ahead of Next Week's Release",
+      "resumen": "Insmed (INSM) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
       "fuente": "Yahoo",
-      "fecha": "20 Oct 2026 11:00 UTC",
-      "url": "https://finnhub.io/api/news?id=3bd13243c996d7aea25238f00eebae9fe860be33af7bb7434e9422362e2f2fba",
+      "fecha": "22 Oct 2026 13:00 UTC",
+      "url": "https://finnhub.io/api/news?id=611b026cf070dc0aacbfd8d9f949dc48f9b5df5af3cfe109066bb16c4cfee838",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "ARGX",
-      "titulo": "European Equities Traded in the US as American Depositary Receipts Advance in Tuesday Trading",
-      "resumen": "European equities traded in the US as American depositary receipts were tracking higher late Tuesday",
+      "titulo": "TD Cowen Names Top Biotech Stocks for Q4 Amid Market Volatility",
+      "resumen": "Investing.com -- TD Cowen has identified seven biotech stocks as top picks for the fourth quarter, following a turbulent period that saw the sector retreat from August highs despite what the firm characterizes as solid underlying fundamentals.",
       "fuente": "Yahoo",
-      "fecha": "20 Oct 2026 15:10 UTC",
-      "url": "https://finnhub.io/api/news?id=17624dd680104ef72e0588ddac6685820bd3fe1a8fc6d6bf3979d1589c10be92",
+      "fecha": "22 Oct 2026 13:34 UTC",
+      "url": "https://finnhub.io/api/news?id=6ab780a131163289447ef0b1c9c349df35ff6aa647d1384ff08d7f769d8449af",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VERA",
+      "titulo": "Vera Therapeutics Announces Positive ORIGIN 3 Final Efficacy Analysis of TRUTAKNA™ (atacicept-vymj) in IgA Nephropathy Presented at ASN Kidney Week 2026 and Published in the New England Journal of Med",
+      "resumen": "TRUTAKNA, the first and only FDA-approved BAFF and APRIL inhibitor, achieved statistical significance in all prespecified endpoints, including eGFR change from baseline and annualized slope, and risk reduction in composite kidney disease progression events.Favorable safety profile, and generally com",
+      "fuente": "Yahoo",
+      "fecha": "22 Oct 2026 14:05 UTC",
+      "url": "https://finnhub.io/api/news?id=60e575b46ad8f59eec485fe980d17e8ae87abb14c3c934715730e197a71dca4c",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "VKTX",
-      "titulo": "Viking Therapeutics (VKTX) Stock Looks Overvalued Next To Its Book Value",
-      "resumen": "Viking Therapeutics has seen its share price move sharply over recent years, and the recent pullback puts fresh focus on whether that journey still lines up with what its balance sheet can support. With the company pushing ahead in obesity treatment, the open question is how the current market price",
+      "titulo": "NVO vs. VKTX: Which Obesity Stock Could Deliver Bigger Gains?",
+      "resumen": "Viking Therapeutics' late-stage obesity drug and promising weight-maintenance data could offer greater upside than Novo Nordisk, despite higher clinical and commercial risks.",
       "fuente": "Yahoo",
-      "fecha": "20 Oct 2026 20:06 UTC",
-      "url": "https://finnhub.io/api/news?id=5c09b4717a799b8b7a0f26c7591e3290cf81d5111f9048c44e33637b3b0ed5cc",
+      "fecha": "22 Oct 2026 15:31 UTC",
+      "url": "https://finnhub.io/api/news?id=b51696f5246dfde23443fea3ab70158a0e0da20eec4ef4b3a94ab385fce274ca",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "What argenex (ARGX) Said on Its Q3 Earnings Call",
+      "resumen": "argenex (NASDAQ:ARGX) reported third-quarter 2026 product net sales of $1.7 billion, up 54% from a year earlier and 13% sequentially, as patient growth in generalized myasthenia gravis, or MG, and chronic inflammatory demyelinating polyneuropathy, or CIDP, continued to support demand for VYVGART. C",
+      "fuente": "Yahoo",
+      "fecha": "22 Oct 2026 16:04 UTC",
+      "url": "https://finnhub.io/api/news?id=5d7b863b4f46931766c60794575fcde6dd4d7315793d7dace3c3199832a652bf",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "DNLI",
+      "titulo": "Denali Therapeutics to Report Third Quarter 2026 Financial Results and Business Highlights on November 3, 2026",
+      "resumen": "SOUTH SAN FRANCISCO, Calif., Oct. 22, 2026 (GLOBE NEWSWIRE) -- Denali Therapeutics Inc. (Nasdaq: DNLI) today announced that it will report financial results and business highlights for the third quarter ended September 30, 2026, on Tuesday, November 3, 2026. Denali’s management will host a conferenc",
+      "fuente": "Yahoo",
+      "fecha": "22 Oct 2026 20:01 UTC",
+      "url": "https://finnhub.io/api/news?id=c1a11324ac66336975d981edaf6682bf05731e3d24b15c20657601c9d37567de",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "DYN",
+      "titulo": "Dyne Therapeutics Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+      "resumen": "WALTHAM, Mass., Oct. 22, 2026 (GLOBE NEWSWIRE) -- Dyne Therapeutics, Inc. (Nasdaq: DYN), a clinical-stage company focused on delivering functional improvement for people living with genetically driven neuromuscular diseases, today announced that it has granted inducement equity awards to 16 newly hi",
+      "fuente": "Yahoo",
+      "fecha": "22 Oct 2026 20:05 UTC",
+      "url": "https://finnhub.io/api/news?id=30860ce63d5c988b4c70cf2d65556a75e19647b81826d3798b39785c72c76c16",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "VRTX",
-      "titulo": "AbbVie vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy in 2026?",
-      "resumen": "AbbVie generates $17.8 billion in annual free cash flow but faces patent cliffs, while Vertex boasts a 33% net margin with concentrated cystic fibrosis exposure.",
+      "titulo": "Gilead Sciences (GILD) vs. AMGN and VRTX: Can Oncology Growth and HIV Strength Drive a New Growth Era Beyond Acquisitions?",
+      "resumen": "Is GILD a good stock to buy? We came across a bullish thesis on Gilead Sciences, Inc. on Astute Optics – US’s Substack. In this article, we will summarize the bulls’ thesis on GILD. Gilead Sciences, Inc.’s share was trading at $156.51 as of October 20th 2026. GILD’s trailing and forward P/E were 17.",
       "fuente": "Yahoo",
-      "fecha": "20 Oct 2026 21:35 UTC",
-      "url": "https://finnhub.io/api/news?id=e49558c555026b92434592fdc119c2a0057ebb415679b659eb4a3f1b8bd61926",
+      "fecha": "22 Oct 2026 20:33 UTC",
+      "url": "https://finnhub.io/api/news?id=8be9cda696951d7b2fa53e3f1851c49e66e1ca650ebc8694dae5425b54a4573d",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VERA",
+      "titulo": "Vera Therapeutics' TRUTAKNA Delivers Strong Phase III IgA Nephropathy Results",
+      "resumen": "Vera Therapeutics (NASDAQ:VERA) reported final efficacy results from its Phase III ORIGIN trial evaluating atacicept, marketed as TRUTAKNA, in adults with IgA nephropathy. The company presented the data at the American Society of Nephrology’s Kidney Week meeting in Denver, alongside publication in T",
+      "fuente": "Yahoo",
+      "fecha": "23 Oct 2026 01:04 UTC",
+      "url": "https://finnhub.io/api/news?id=bf7fef6c4feff28fcd678629b4effe013ba1c81d80aa6dddf6cc64ade69d4e12",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam Announces Positive Initial Phase 1b Data for Brezosiran (ALN-HTT02) Demonstrating Deep and Durable Huntingtin Lowering in Huntington’s Disease",
+      "resumen": "CAMBRIDGE, Mass., October 23, 2026--Alnylam Pharmaceuticals, Inc. (Nasdaq: ALNY), the leading RNAi therapeutics company, today reported positive initial Phase 1b clinical trial results for ALN-HTT02, an investigational RNAi therapeutic in development for the treatment of Huntington’s disease, which ",
+      "fuente": "Yahoo",
+      "fecha": "23 Oct 2026 07:45 UTC",
+      "url": "https://finnhub.io/api/news?id=386bbad466214b89ccbffd0c8cdbac01c9f96d0ea250d066db9bd38b81a389e7",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "argenx (ARGX) Q3 2026 Earnings Call Transcript",
+      "resumen": "VYVGART revenue surged 54% year-over-year amid strategic Forte Biosciences acquisition.",
+      "fuente": "Yahoo",
+      "fecha": "23 Oct 2026 08:42 UTC",
+      "url": "https://finnhub.io/api/news?id=832d071f05a9fee34e5922e89120728dd9abe48f6d69b36d6e9c775431943bc5",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "ABVX",
@@ -877,6 +867,18 @@
       "fecha": "21 Oct 2026 09:04 UTC",
       "url": "https://finnhub.io/api/news?id=2ad3397771e99d98a2b4e42769c76bc407e8262d3207fed9d0932ba533dbbae6",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Morgan Stanley Maintains Overweight on Insmed, Lowers Price Target to $213",
+      "resumen": "Morgan Stanley  analyst Matthew Harrison   maintains Insmed (NASDAQ:INSM) with a Overweight and lowers the price target from $218 to $213.",
+      "fuente": "Benzinga",
+      "fecha": "21 Oct 2026 12:29 UTC",
+      "url": "https://finnhub.io/api/news?id=8619a1a5c410fa5cc51f6c8b44d53574054cbd5c0697a0e875a94ed5f344f10a",
+      "imagen": "",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
@@ -912,6 +914,54 @@
       "fuente": "Yahoo",
       "fecha": "22 Oct 2026 12:00 UTC",
       "url": "https://finnhub.io/api/news?id=aad297fc27008cace6700bb276f82220c0060740b67873cb05d78b9d557395fa",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "HRMY or ARGX: Which Is the Better Value Stock Right Now?",
+      "resumen": "HRMY vs. ARGX: Which Stock Is the Better Value Option?",
+      "fuente": "Yahoo",
+      "fecha": "22 Oct 2026 14:40 UTC",
+      "url": "https://finnhub.io/api/news?id=7e809c176425e5195148f44839aebd7e3c4a313add000281daa797ab66082ce7",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "Argenx Wavers After A Surprise Testing Setback For Its Bread-And-Butter Drug",
+      "resumen": "Argenx stock wavered Thursday despite beating sales expectations on a surprise testing requirement for its drug, Vyvgart.",
+      "fuente": "Yahoo",
+      "fecha": "22 Oct 2026 20:25 UTC",
+      "url": "https://finnhub.io/api/news?id=ceb237170a53fe2dedfdf9b766fd2f85438ee76efea2b8db515afd76bf3784c2",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Viking Therapeutics, Inc. (VKTX) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "resumen": "In the closing of the recent trading day, Viking Therapeutics, Inc. (VKTX) stood at $25.76, denoting a -2.35% move from the preceding trading day.",
+      "fuente": "Yahoo",
+      "fecha": "22 Oct 2026 20:50 UTC",
+      "url": "https://finnhub.io/api/news?id=4cc368638a82d89f0a3c0b69af9a2b55d5cd60c3b6e51f7b1f2bb41f6c636a60",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "How Much Downside Is Left In Moderna Stock?",
+      "resumen": "For questions about this article or underlying research, email help@trefis.com.",
+      "fuente": "Yahoo",
+      "fecha": "23 Oct 2026 08:00 UTC",
+      "url": "https://finnhub.io/api/news?id=35a567ab400cc509afa96f335189f8350dc665d14e7053e42fbeb4de7d7c049c",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",

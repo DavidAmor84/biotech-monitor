@@ -1,21 +1,28 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 22/10/2026 12:48 | Período: últimos 7 días
-Desde: 2026-10-15 → Hasta: 2026-10-22
+Generado: 23/10/2026 12:26 | Período: últimos 7 días
+Desde: 2026-10-16 → Hasta: 2026-10-23
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 8 filings | 🔴 0 | 🟢 0 | 🟡 1 | 🔵 7 | ✅ 13 sin novedad
+RESUMEN: 10 filings | 🔴 0 | 🟢 0 | 🟡 1 | 🔵 9 | ✅ 12 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
 ──────────────────────────────────────────────────
   ✅ [SNDX] Sin novedades
   ✅ [ARGX] Sin novedades
-  ✅ [DYN] Sin novedades
+
+  🔵 [DYN] Dyne Therapeutics, Inc. — 1 filing(s)
+     🔵 INFO 4 | 2026-10-22 | Kerr Douglas (Head of R&D and CMO) → Concesión 8,000 acciones @ $0.00 | Post: 170,564 | Rutinaria/RSU/impuestos
+     Insider: Kerr Douglas (Head of R&D and CMO) → Concesión 8,000 acciones @ $0.00 | Post: 170,564 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1818794/000181418926000007/xslF345X06/ownership.xml
   ✅ [DNLI] Sin novedades
   ✅ [VKTX] Sin novedades
 
-  🔵 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 3 filing(s)
+  🔵 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 4 filing(s)
+     🔵 INFO 4 | 2026-10-22 | Brennan Daniel J. (Director) → Concesión 795 acciones @ $503.47 | Post: 795 | Rutinaria/RSU/impuestos
+     Insider: Brennan Daniel J. (Director) → Concesión 795 acciones @ $503.47 | Post: 795 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000283/xslF345X06/wk-form4_1792699856.xml
      🔵 INFO 8-K | 2026-10-20 | Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02]
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000278/vrtx-20261020.htm
      🔵 INFO 4 | 2026-10-19 | SACHS BRUCE I (Director) → Concesión 93 acciones @ $512.44 | Post: 15,865

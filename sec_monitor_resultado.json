@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "22/10/2026 12:48",
+  "generado": "23/10/2026 12:26",
   "periodo_dias": 7,
-  "desde": "2026-10-15",
-  "hasta": "2026-10-22",
+  "desde": "2026-10-16",
+  "hasta": "2026-10-23",
   "resumen": {
-    "total_filings": 8,
+    "total_filings": 10,
     "alertas_rojas": 0,
     "alertas_verdes": 0,
     "alertas_amarillas": 1,
-    "alertas_azules": 7,
-    "sin_novedad": 13
+    "alertas_azules": 9,
+    "sin_novedad": 12
   },
   "tickers": {
     "SNDX": {
@@ -41,9 +41,36 @@
       "cik": "0001818794",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-10-22",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Kerr Douglas (Head of R&D and CMO) → Concesión 8,000 acciones @ $0.00 | Post: 170,564 | Rutinaria/RSU/impuestos",
+          "detalle": "4",
+          "empresa_sec": "Dyne Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181418926000007/xslF345X06/ownership.xml",
+          "form4_detail": {
+            "insider_nombre": "Kerr Douglas",
+            "insider_cargo": "Head of R&D and CMO",
+            "transaccion_codigo": "A",
+            "transaccion_tipo": "Concesión",
+            "transaccion_acciones": "8000",
+            "transaccion_precio": "0",
+            "transaccion_fecha": "2026-10-20",
+            "acciones_post": "170564",
+            "footnotes": "Consists of shares of Common Stock issuable under 8,000 restricted stock units (\"RSUs\"). Each RSU represents the right to receive one share of Common Stock upon vesting. These RSUs are scheduled to vest in equal quarterly installments over four years with the first installment vesting on January 20, 2027. Includes 133,126 unvested RSUs. This option was granted on October 20, 2026. The shares underlying the option are scheduled to vest over four years in equal monthly installments through October 20, 2030.",
+            "es_rutinaria": true,
+            "resumen_detail": "Kerr Douglas (Head of R&D and CMO) → Concesión 8,000 acciones @ $0.00 | Post: 170,564 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "DNLI": {
@@ -75,6 +102,32 @@
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
       "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-10-22",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Brennan Daniel J. (Director) → Concesión 795 acciones @ $503.47 | Post: 795 | Rutinaria/RSU/impuestos",
+          "detalle": "FORM 4",
+          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000283/xslF345X06/wk-form4_1792699856.xml",
+          "form4_detail": {
+            "insider_nombre": "Brennan Daniel J.",
+            "insider_cargo": "Director",
+            "transaccion_codigo": "A",
+            "transaccion_tipo": "Concesión",
+            "transaccion_acciones": "795",
+            "transaccion_precio": "503.47",
+            "transaccion_fecha": "2026-10-20",
+            "acciones_post": "795",
+            "footnotes": "Restricted stock unit award that vests, subject to certain limited exceptions, on the first anniversary of the grant date.",
+            "es_rutinaria": true,
+            "resumen_detail": "Brennan Daniel J. (Director) → Concesión 795 acciones @ $503.47 | Post: 795 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
         {
           "form": "8-K",
           "fecha": "2026-10-20",
@@ -415,6 +468,62 @@
   },
   "alertas_criticas": [],
   "todos_filings": [
+    {
+      "ticker": "DYN",
+      "nombre": "Dyne Therapeutics, Inc.",
+      "form": "4",
+      "fecha": "2026-10-22",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Kerr Douglas (Head of R&D and CMO) → Concesión 8,000 acciones @ $0.00 | Post: 170,564 | Rutinaria/RSU/impuestos",
+      "detalle": "4",
+      "empresa_sec": "Dyne Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181418926000007/xslF345X06/ownership.xml",
+      "form4_detail": {
+        "insider_nombre": "Kerr Douglas",
+        "insider_cargo": "Head of R&D and CMO",
+        "transaccion_codigo": "A",
+        "transaccion_tipo": "Concesión",
+        "transaccion_acciones": "8000",
+        "transaccion_precio": "0",
+        "transaccion_fecha": "2026-10-20",
+        "acciones_post": "170564",
+        "footnotes": "Consists of shares of Common Stock issuable under 8,000 restricted stock units (\"RSUs\"). Each RSU represents the right to receive one share of Common Stock upon vesting. These RSUs are scheduled to vest in equal quarterly installments over four years with the first installment vesting on January 20, 2027. Includes 133,126 unvested RSUs. This option was granted on October 20, 2026. The shares underlying the option are scheduled to vest over four years in equal monthly installments through October 20, 2030.",
+        "es_rutinaria": true,
+        "resumen_detail": "Kerr Douglas (Head of R&D and CMO) → Concesión 8,000 acciones @ $0.00 | Post: 170,564 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "VRTX",
+      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
+      "form": "4",
+      "fecha": "2026-10-22",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Brennan Daniel J. (Director) → Concesión 795 acciones @ $503.47 | Post: 795 | Rutinaria/RSU/impuestos",
+      "detalle": "FORM 4",
+      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000283/xslF345X06/wk-form4_1792699856.xml",
+      "form4_detail": {
+        "insider_nombre": "Brennan Daniel J.",
+        "insider_cargo": "Director",
+        "transaccion_codigo": "A",
+        "transaccion_tipo": "Concesión",
+        "transaccion_acciones": "795",
+        "transaccion_precio": "503.47",
+        "transaccion_fecha": "2026-10-20",
+        "acciones_post": "795",
+        "footnotes": "Restricted stock unit award that vests, subject to certain limited exceptions, on the first anniversary of the grant date.",
+        "es_rutinaria": true,
+        "resumen_detail": "Brennan Daniel J. (Director) → Concesión 795 acciones @ $503.47 | Post: 795 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "VRTX",
       "nombre": "VERTEX PHARMACEUTICALS INC / MA",

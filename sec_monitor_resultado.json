@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "23/10/2026 12:26",
+  "generado": "26/10/2026 13:55",
   "periodo_dias": 7,
-  "desde": "2026-10-16",
-  "hasta": "2026-10-23",
+  "desde": "2026-10-19",
+  "hasta": "2026-10-26",
   "resumen": {
-    "total_filings": 10,
+    "total_filings": 8,
     "alertas_rojas": 0,
     "alertas_verdes": 0,
-    "alertas_amarillas": 1,
-    "alertas_azules": 9,
-    "sin_novedad": 12
+    "alertas_amarillas": 0,
+    "alertas_azules": 8,
+    "sin_novedad": 14
   },
   "tickers": {
     "SNDX": {
@@ -225,36 +225,9 @@
       "cik": "0001745999",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-10-16",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Evans John M. (CEO) → Ejercicio opción 25,000 acciones @ $1.03 | Post: 1,072,205 | Rutinaria/RSU/impuestos",
-          "detalle": "4",
-          "empresa_sec": "Beam Therapeutics Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526424421/xslF345X06/ownership.xml",
-          "form4_detail": {
-            "insider_nombre": "Evans John M.",
-            "insider_cargo": "CEO",
-            "transaccion_codigo": "M",
-            "transaccion_tipo": "Ejercicio opción",
-            "transaccion_acciones": "25000",
-            "transaccion_precio": "1.03",
-            "transaccion_fecha": "2026-10-15",
-            "acciones_post": "1072205",
-            "footnotes": "The stock options were exercised and the shares of common stock were sold pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on June 16, 2026. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions ranging from $23.23 to $23.84, inclusive. The Reporting Person undertakes to provide to Beam Therapeutics Inc. (\"BEAM\"), any security holder of BEAM or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions ranging from $23.66 to $24.56, inclusive. The Reporting Person undertakes to provide to BEAM, any security holder of BEAM or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range. On July 13, 2018, the Reporting Person was granted an option to purchase 539,645 shares of common stock, which vested as to 25% of the underlying shares on January 8, 2019 and in 36 equal monthly installments thereafter.",
-            "es_rutinaria": true,
-            "resumen_detail": "Evans John M. (CEO) → Ejercicio opción 25,000 acciones @ $1.03 | Post: 1,072,205 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "OCUL": {
@@ -263,33 +236,9 @@
       "cik": "0001393434",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "8-K",
-          "fecha": "2026-10-16",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Item 5.02: Cambio directivo relevante [Items: 5.02]",
-          "detalle": "FORM 8-K",
-          "empresa_sec": "OCULAR THERAPEUTIX, INC",
-          "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926116617/tm2627709d1_8k.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "5.02"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. On October 14, 2026, Sanjay Nayak, M.B.B.S., Ph.D., Chief Strategy Officer of Ocular Therapeutix, Inc. (the Company ), notified the Company of his resignation from the Company, effective October 16, 2026, to become the Chief Executive Officer of a privately-held company. SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. OCULAR THERAPEUTIX, INC. Date: October 16, 2026 By: /s/ Jason S. Robins Jason S. Robins Chief Financial Officer",
-            "nivel_ajustado": "amarillo",
-            "badge_ajustado": "🟡 MEDIA",
-            "resumen_ajustado": "Item 5.02: Cambio directivo relevante"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "CAI": {
@@ -685,59 +634,6 @@
         "resumen_detail": "Garber Alan M (Director) → Concesión 29 acciones @ $512.44 | Post: 95"
       },
       "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "BEAM",
-      "nombre": "Beam Therapeutics Inc.",
-      "form": "4",
-      "fecha": "2026-10-16",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Evans John M. (CEO) → Ejercicio opción 25,000 acciones @ $1.03 | Post: 1,072,205 | Rutinaria/RSU/impuestos",
-      "detalle": "4",
-      "empresa_sec": "Beam Therapeutics Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526424421/xslF345X06/ownership.xml",
-      "form4_detail": {
-        "insider_nombre": "Evans John M.",
-        "insider_cargo": "CEO",
-        "transaccion_codigo": "M",
-        "transaccion_tipo": "Ejercicio opción",
-        "transaccion_acciones": "25000",
-        "transaccion_precio": "1.03",
-        "transaccion_fecha": "2026-10-15",
-        "acciones_post": "1072205",
-        "footnotes": "The stock options were exercised and the shares of common stock were sold pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on June 16, 2026. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions ranging from $23.23 to $23.84, inclusive. The Reporting Person undertakes to provide to Beam Therapeutics Inc. (\"BEAM\"), any security holder of BEAM or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions ranging from $23.66 to $24.56, inclusive. The Reporting Person undertakes to provide to BEAM, any security holder of BEAM or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range. On July 13, 2018, the Reporting Person was granted an option to purchase 539,645 shares of common stock, which vested as to 25% of the underlying shares on January 8, 2019 and in 36 equal monthly installments thereafter.",
-        "es_rutinaria": true,
-        "resumen_detail": "Evans John M. (CEO) → Ejercicio opción 25,000 acciones @ $1.03 | Post: 1,072,205 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "OCUL",
-      "nombre": "OCULAR THERAPEUTIX, INC",
-      "form": "8-K",
-      "fecha": "2026-10-16",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Item 5.02: Cambio directivo relevante [Items: 5.02]",
-      "detalle": "FORM 8-K",
-      "empresa_sec": "OCULAR THERAPEUTIX, INC",
-      "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926116617/tm2627709d1_8k.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "5.02"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. On October 14, 2026, Sanjay Nayak, M.B.B.S., Ph.D., Chief Strategy Officer of Ocular Therapeutix, Inc. (the Company ), notified the Company of his resignation from the Company, effective October 16, 2026, to become the Chief Executive Officer of a privately-held company. SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. OCULAR THERAPEUTIX, INC. Date: October 16, 2026 By: /s/ Jason S. Robins Jason S. Robins Chief Financial Officer",
-        "nivel_ajustado": "amarillo",
-        "badge_ajustado": "🟡 MEDIA",
-        "resumen_ajustado": "Item 5.02: Cambio directivo relevante"
-      },
       "10q_detail": null,
       "prospecto_detail": null
     }

@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 23/10/2026 12:26 | Período: últimos 7 días
-Desde: 2026-10-16 → Hasta: 2026-10-23
+Generado: 26/10/2026 13:55 | Período: últimos 7 días
+Desde: 2026-10-19 → Hasta: 2026-10-26
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 10 filings | 🔴 0 | 🟢 0 | 🟡 1 | 🔵 9 | ✅ 12 sin novedad
+RESUMEN: 8 filings | 🔴 0 | 🟢 0 | 🟡 0 | 🔵 8 | ✅ 14 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -32,15 +32,8 @@ DETALLE POR TICKER — SEC EDGAR
      Insider: Garber Alan M (Director) → Concesión 29 acciones @ $512.44 | Post: 95
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000274/xslF345X06/wk-form4_1792441279.xml
   ✅ [ALNY] Sin novedades
-
-  🔵 [BEAM] Beam Therapeutics Inc. — 1 filing(s)
-     🔵 INFO 4 | 2026-10-16 | Evans John M. (CEO) → Ejercicio opción 25,000 acciones @ $1.03 | Post: 1,072,205 | Rutinaria/RSU/impuestos
-     Insider: Evans John M. (CEO) → Ejercicio opción 25,000 acciones @ $1.03 | Post: 1,072,205 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1745999/000119312526424421/xslF345X06/ownership.xml
-
-  🟡 [OCUL] OCULAR THERAPEUTIX, INC — 1 filing(s)
-     🟡 MEDIA 8-K | 2026-10-16 | Item 5.02: Cambio directivo relevante [Items: 5.02]
-     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926116617/tm2627709d1_8k.htm
+  ✅ [BEAM] Sin novedades
+  ✅ [OCUL] Sin novedades
   ✅ [CAI] Sin novedades
   ✅ [GPCR] Sin novedades
   ✅ [ABVX] Sin novedades

@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "26/10/2026 13:55",
+  "generado": "27/10/2026 12:59",
   "periodo_dias": 7,
-  "desde": "2026-10-19",
-  "hasta": "2026-10-26",
+  "desde": "2026-10-20",
+  "hasta": "2026-10-27",
   "resumen": {
-    "total_filings": 8,
+    "total_filings": 7,
     "alertas_rojas": 0,
     "alertas_verdes": 0,
-    "alertas_amarillas": 0,
-    "alertas_azules": 8,
-    "sin_novedad": 14
+    "alertas_amarillas": 1,
+    "alertas_azules": 6,
+    "sin_novedad": 13
   },
   "tickers": {
     "SNDX": {
@@ -150,58 +150,6 @@
           },
           "10q_detail": null,
           "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-10-19",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "SACHS BRUCE I (Director) → Concesión 93 acciones @ $512.44 | Post: 15,865",
-          "detalle": "FORM 4",
-          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
-          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000276/xslF345X06/wk-form4_1792441385.xml",
-          "form4_detail": {
-            "insider_nombre": "SACHS BRUCE I",
-            "insider_cargo": "Director",
-            "transaccion_codigo": "A",
-            "transaccion_tipo": "Concesión",
-            "transaccion_acciones": "92.694",
-            "transaccion_precio": "512.44",
-            "transaccion_fecha": "2026-10-15",
-            "acciones_post": "15864.501",
-            "footnotes": "Each deferred stock unit represents one share of common stock and is paid out in common stock upon the earliest to occur of (i) termination of Mr. Sachs' service on our board of directors, (ii) a change of control of our company and (iii) Mr. Sachs' disability or death.",
-            "es_rutinaria": false,
-            "resumen_detail": "SACHS BRUCE I (Director) → Concesión 93 acciones @ $512.44 | Post: 15,865"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-10-19",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Garber Alan M (Director) → Concesión 29 acciones @ $512.44 | Post: 95",
-          "detalle": "FORM 4",
-          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
-          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000274/xslF345X06/wk-form4_1792441279.xml",
-          "form4_detail": {
-            "insider_nombre": "Garber Alan M",
-            "insider_cargo": "Director",
-            "transaccion_codigo": "A",
-            "transaccion_tipo": "Concesión",
-            "transaccion_acciones": "29.272",
-            "transaccion_precio": "512.44",
-            "transaccion_fecha": "2026-10-15",
-            "acciones_post": "94.73",
-            "footnotes": "Each deferred stock unit represents one share of common stock and is paid out in common stock upon the earliest to occur of (i) termination of Dr. Garber's service on our board of directors, (ii) a change of control of our company and (iii) Dr. Garber's disability or death.",
-            "es_rutinaria": false,
-            "resumen_detail": "Garber Alan M (Director) → Concesión 29 acciones @ $512.44 | Post: 95"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
         }
       ],
       "nivel": "azul",
@@ -291,9 +239,36 @@
       "cik": "0001781174",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-10-26",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Miller Mary (Chief Legal Officer) → Venta 513 acciones @ $1.84 | Post: 81,202 | Rutinaria/RSU/impuestos",
+          "detalle": "FORM 4",
+          "empresa_sec": "Acrivon Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1781174/000090514826004554/xslF345X06/form4.xml",
+          "form4_detail": {
+            "insider_nombre": "Miller Mary",
+            "insider_cargo": "Chief Legal Officer",
+            "transaccion_codigo": "S",
+            "transaccion_tipo": "Venta",
+            "transaccion_acciones": "513",
+            "transaccion_precio": "1.84",
+            "transaccion_fecha": "2026-10-22",
+            "acciones_post": "81202",
+            "footnotes": "Shares sold automatically to satisfy the mandatory tax withholding requirement upon vesting of restricted stock units. The price reported in Column 4 above reflects the weighted average price of 513 shares sold by a broker on October 22, 2026, to satisfy the payment of withholding tax liability of the reporting person.",
+            "es_rutinaria": true,
+            "resumen_detail": "Miller Mary (Chief Legal Officer) → Venta 513 acciones @ $1.84 | Post: 81,202 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "TARA": {
@@ -417,6 +392,34 @@
   },
   "alertas_criticas": [],
   "todos_filings": [
+    {
+      "ticker": "ACRV",
+      "nombre": "Acrivon Therapeutics, Inc.",
+      "form": "4",
+      "fecha": "2026-10-26",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Miller Mary (Chief Legal Officer) → Venta 513 acciones @ $1.84 | Post: 81,202 | Rutinaria/RSU/impuestos",
+      "detalle": "FORM 4",
+      "empresa_sec": "Acrivon Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781174/000090514826004554/xslF345X06/form4.xml",
+      "form4_detail": {
+        "insider_nombre": "Miller Mary",
+        "insider_cargo": "Chief Legal Officer",
+        "transaccion_codigo": "S",
+        "transaccion_tipo": "Venta",
+        "transaccion_acciones": "513",
+        "transaccion_precio": "1.84",
+        "transaccion_fecha": "2026-10-22",
+        "acciones_post": "81202",
+        "footnotes": "Shares sold automatically to satisfy the mandatory tax withholding requirement upon vesting of restricted stock units. The price reported in Column 4 above reflects the weighted average price of 513 shares sold by a broker on October 22, 2026, to satisfy the payment of withholding tax liability of the reporting person.",
+        "es_rutinaria": true,
+        "resumen_detail": "Miller Mary (Chief Legal Officer) → Venta 513 acciones @ $1.84 | Post: 81,202 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "DYN",
       "nombre": "Dyne Therapeutics, Inc.",
@@ -578,62 +581,6 @@
         "badge_ajustado": "🔵 INFO",
         "resumen_ajustado": "Item 5.02: Plan de incentivos / compensación aprobado — informativo"
       },
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "VRTX",
-      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
-      "form": "4",
-      "fecha": "2026-10-19",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "SACHS BRUCE I (Director) → Concesión 93 acciones @ $512.44 | Post: 15,865",
-      "detalle": "FORM 4",
-      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
-      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000276/xslF345X06/wk-form4_1792441385.xml",
-      "form4_detail": {
-        "insider_nombre": "SACHS BRUCE I",
-        "insider_cargo": "Director",
-        "transaccion_codigo": "A",
-        "transaccion_tipo": "Concesión",
-        "transaccion_acciones": "92.694",
-        "transaccion_precio": "512.44",
-        "transaccion_fecha": "2026-10-15",
-        "acciones_post": "15864.501",
-        "footnotes": "Each deferred stock unit represents one share of common stock and is paid out in common stock upon the earliest to occur of (i) termination of Mr. Sachs' service on our board of directors, (ii) a change of control of our company and (iii) Mr. Sachs' disability or death.",
-        "es_rutinaria": false,
-        "resumen_detail": "SACHS BRUCE I (Director) → Concesión 93 acciones @ $512.44 | Post: 15,865"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "VRTX",
-      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
-      "form": "4",
-      "fecha": "2026-10-19",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Garber Alan M (Director) → Concesión 29 acciones @ $512.44 | Post: 95",
-      "detalle": "FORM 4",
-      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
-      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000274/xslF345X06/wk-form4_1792441279.xml",
-      "form4_detail": {
-        "insider_nombre": "Garber Alan M",
-        "insider_cargo": "Director",
-        "transaccion_codigo": "A",
-        "transaccion_tipo": "Concesión",
-        "transaccion_acciones": "29.272",
-        "transaccion_precio": "512.44",
-        "transaccion_fecha": "2026-10-15",
-        "acciones_post": "94.73",
-        "footnotes": "Each deferred stock unit represents one share of common stock and is paid out in common stock upon the earliest to occur of (i) termination of Dr. Garber's service on our board of directors, (ii) a change of control of our company and (iii) Dr. Garber's disability or death.",
-        "es_rutinaria": false,
-        "resumen_detail": "Garber Alan M (Director) → Concesión 29 acciones @ $512.44 | Post: 95"
-      },
-      "8k_detail": null,
       "10q_detail": null,
       "prospecto_detail": null
     }

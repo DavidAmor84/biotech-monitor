@@ -1,12 +1,24 @@
 {
-  "generado": "26/10/2026 14:11 UTC",
+  "generado": "27/10/2026 13:08 UTC",
   "plazo_horas": 72,
-  "desde": "2026-10-23",
-  "hasta": "2026-10-26",
+  "desde": "2026-10-24",
+  "hasta": "2026-10-27",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
       "noticias": [
+        {
+          "ticker": "SNDX",
+          "titulo": "Syndax Pharmaceuticals (SNDX) May Report Negative Earnings: Know the Trend Ahead of Q3 Release",
+          "resumen": "Syndax (SNDX) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+          "fuente": "Yahoo",
+          "fecha": "26 Oct 2026 13:00 UTC",
+          "url": "https://finnhub.io/api/news?id=8bbddcfb2cd0867edf77c63bb56b135c6e8c6ed8cfc7ee0473d7b5a2d01aba2d",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "SNDX",
           "titulo": "Syndax to Announce Third Quarter 2026 Financial Results and Host Conference Call and Webcast on November 2, 2026",
@@ -21,7 +33,7 @@
         }
       ],
       "nivel": "rojo",
-      "total": 1
+      "total": 2
     },
     "ARGX": {
       "nombre": "ARGX",
@@ -61,34 +73,10 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "Argenx (ENXTBR:ARGX) Stock Faces Margin Questions After Q3 Earnings",
-          "resumen": "Argenx came into this Q3 2026 report with a rich biotech valuation and a reputation as a high conviction growth story. Yet the stock closed at €782.2 on 23 October, roughly flat over the past week and soft over the past month, which signals a market still debating how much is already priced in. The ",
-          "fuente": "Yahoo",
-          "fecha": "24 Oct 2026 12:11 UTC",
-          "url": "https://finnhub.io/api/news?id=ddb98105ba0f5ec8e009121b1ad3f30dc6b00f1c11f9d0a0aa8f567c34730480",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "Argenx's Vyvgart Sales Growth, Pipeline Progress Support Outlook, Oppenheimer Says",
-          "resumen": "Argenx's (ARGX) Q3 results highlighted continued growth in Vyvgart sales, while its acquisition of F",
-          "fuente": "Yahoo",
-          "fecha": "23 Oct 2026 17:00 UTC",
-          "url": "https://finnhub.io/api/news?id=19af01340640bc76635b799e3309497edd883d54d384888a407b54b7c8edccd7",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 5
+      "total": 3
     },
     "DYN": {
       "nombre": "DYN",
@@ -105,6 +93,18 @@
     "VKTX": {
       "nombre": "VKTX",
       "noticias": [
+        {
+          "ticker": "VKTX",
+          "titulo": "Should You Buy Viking Therapeutics Stock Ahead of Q3 Results?",
+          "resumen": "VKTX is likely to report Q3 results Oct. 28 as investors await updates on VK2735's oral and injectable obesity programs and 2027 data readouts.",
+          "fuente": "Yahoo",
+          "fecha": "26 Oct 2026 13:02 UTC",
+          "url": "https://finnhub.io/api/news?id=caaa420a558e970ea8e7330532701c9bb0c6ce83629c64787ef9c8c42b1c49d5",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "VKTX",
           "titulo": "Can Corcept Therapeutics Stock Rally 40% After This Dip?",
@@ -128,18 +128,6 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "Here's Why Viking Therapeutics, Inc. (VKTX) Fell More Than Broader Market",
-          "resumen": "Viking Therapeutics, Inc. (VKTX) concluded the recent trading session at $24.42, signifying a -5.48% move from its prior day's close.",
-          "fuente": "Yahoo",
-          "fecha": "23 Oct 2026 20:45 UTC",
-          "url": "https://finnhub.io/api/news?id=b600e99f6083aec08034affbbc42caa8e5dc61214e20c05842f187aea00d4ef4",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -150,23 +138,23 @@
       "noticias": [
         {
           "ticker": "VRTX",
-          "titulo": "Baron Health Care Fund: Q3 2026 New Positions And Exits",
-          "resumen": "",
-          "fuente": "SeekingAlpha",
-          "fecha": "26 Oct 2026 04:05 UTC",
-          "url": "https://finnhub.io/api/news?id=f488331be4fc0aabb6b91d631958c54c2e6eedde32af3d9e4b889a6a1c65305b",
-          "imagen": "",
+          "titulo": "Vertex Pharmaceuticals (VRTX) Stock Sinks As Market Gains: Here's Why",
+          "resumen": "In the closing of the recent trading day, Vertex Pharmaceuticals (VRTX) stood at $517.49, denoting a -1.23% move from the preceding trading day.",
+          "fuente": "Yahoo",
+          "fecha": "26 Oct 2026 20:50 UTC",
+          "url": "https://finnhub.io/api/news?id=258a4bb0d11945da722a9ae678431bdc0478cda5414a4d4cb72fbd2744f0a9d8",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         },
         {
           "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals (VRTX) Posts Positive Phase 3 Results For Povetacicept",
-          "resumen": "Vertex Pharmaceuticals (NasdaqGS:VRTX) reported positive Phase 3 results for povetacicept in IgA nephropathy, meeting all key endpoints. The late stage data are set to be published in the New England Journal of Medicine, highlighting the kidney disease program. Vertex plans to pursue FDA accelerated",
+          "titulo": "BHC Q3 Earnings Preview: Here's What You Should Know",
+          "resumen": "Bausch Health reports Q3 2026 results on Oct. 28, with $2.75 billion in expected sales. Explore key segment drivers and mixed earnings surprise history.",
           "fuente": "Yahoo",
-          "fecha": "25 Oct 2026 03:19 UTC",
-          "url": "https://finnhub.io/api/news?id=72611d4e3692d189523d697231759b17d5cc53fac517569bd6c4b8364a3727b7",
+          "fecha": "26 Oct 2026 17:33 UTC",
+          "url": "https://finnhub.io/api/news?id=4e46a0e6db0ca66685a362dfc0a8fde4e37b264e110896e42a90a4e16de6c6a2",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -174,11 +162,11 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "What Vertex Pharmaceuticals Holders Bought Into",
-          "resumen": "If Vertex Pharmaceuticals was on your watchlist rather than in your portfolio, the return may sting. Investors who held Vertex Pharmaceuticals over the past year are up 24.3%, including dividends. That period included upbeat cystic fibrosis launches, new gene therapy approvals and a planned US$10b m",
+          "titulo": "The $500 Million Non-CF Factor Vertex Investors Can’t Ignore on Nov. 2",
+          "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) reports third-quarter results on Nov. 2. Cystic fibrosis still pays the bills, but I’ll be watching whether CASGEVY and JOURNAVX stay on pace for management’s $500 million non-CF revenue target. Diversification Picks Up Speed After a Raised Outlook Second-quarter",
           "fuente": "Yahoo",
-          "fecha": "25 Oct 2026 02:09 UTC",
-          "url": "https://finnhub.io/api/news?id=11495983ee2e783219b158fca8e139e869775142665cd044d8f4e01226dea782",
+          "fecha": "26 Oct 2026 13:45 UTC",
+          "url": "https://finnhub.io/api/news?id=d531d68b8d8bcb90235142450233bc793a628c4634ceaf8cac6c4cfb681acb07",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -186,11 +174,11 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "Forget Casgevy: CRISPR Therapeutics' Heart-Disease Data Could Matter More",
-          "resumen": "The company's gene-editing-focused platform looks promising.",
+          "titulo": "Vertex Pharmaceuticals (VRTX) Earnings Expected to Grow: Should You Buy?",
+          "resumen": "Vertex (VRTX) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
           "fuente": "Yahoo",
-          "fecha": "24 Oct 2026 22:20 UTC",
-          "url": "https://finnhub.io/api/news?id=4eaf0acb3316447083c94261a89a31b2ccf18e13aba019c2cc4b936fea495114",
+          "fecha": "26 Oct 2026 13:00 UTC",
+          "url": "https://finnhub.io/api/news?id=bdf18ee067ea52c5f3bd1f611b3a76971489aa2dbbfa8270d566be8aa6a65fc8",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -198,12 +186,12 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals Gets 96% of Product Sales From Treatments for 1 Disease. Here's Why That's About to Change.",
-          "resumen": "Vertex is expanding beyond its cystic fibrosis franchise.",
-          "fuente": "Yahoo",
-          "fecha": "24 Oct 2026 19:29 UTC",
-          "url": "https://finnhub.io/api/news?id=3c135b6892c7278f17f00d80171c8d2c80252353cd0eb810b470ac44c2016740",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "titulo": "Baron Health Care Fund: Q3 2026 New Positions And Exits",
+          "resumen": "",
+          "fuente": "SeekingAlpha",
+          "fecha": "26 Oct 2026 04:05 UTC",
+          "url": "https://finnhub.io/api/news?id=f488331be4fc0aabb6b91d631958c54c2e6eedde32af3d9e4b889a6a1c65305b",
+          "imagen": "",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
@@ -217,6 +205,54 @@
       "noticias": [
         {
           "ticker": "ALNY",
+          "titulo": "Amgen: A Biotech Bargain Heading Into Q3 Earnings",
+          "resumen": "Amgen Inc.âs Q3 is near. Explore EPS growth, pipeline momentum, valuation, and dividend yield to see why it offers good risk/reward. Click for this AMGN update.",
+          "fuente": "SeekingAlpha",
+          "fecha": "27 Oct 2026 08:22 UTC",
+          "url": "https://finnhub.io/api/news?id=7e01de4091c9443925bb7c0d268ebdc5a52591450b888b5fd9ab5a83635cf43b",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1365037409/image_1365037409.jpg?io=getty-c-w1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam Pharmaceuticals, Inc. (ALNY) RNAi Roundtable: Exon 1 Targeting With Brezosiran for Huntington's Disease Transcript",
+          "resumen": "Alnylam Pharmaceuticals, Inc. (ALNY) RNAi Roundtable: Exon 1 Targeting With Brezosiran for Huntington's Disease October 26, 2026 10:00 AM EDTCompany...",
+          "fuente": "SeekingAlpha",
+          "fecha": "26 Oct 2026 23:09 UTC",
+          "url": "https://finnhub.io/api/news?id=23ea8fb07c33ab6c2d50e5714f7a05c691eeaa1269337f96f4f3807fdc81a2ac",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam Reports Up to 83% Huntingtin Reduction, Eyes 2027 Pivotal Trial",
+          "resumen": "Alnylam Pharmaceuticals (NASDAQ:ALNY) outlined early clinical data for brezosiran, an investigational RNA interference therapy for Huntington’s disease, reporting dose-dependent reductions in cerebrospinal fluid mutant huntingtin after a single intrathecal dose and plans to begin a placebo-controlle",
+          "fuente": "Yahoo",
+          "fecha": "26 Oct 2026 17:03 UTC",
+          "url": "https://finnhub.io/api/news?id=7adde1f4b5baadd2ff74300da70dc2ed8e44afd90e91bf8e0b3a2f64325f2916",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Analysts Estimate Krystal Biotech, Inc. (KRYS) to Report a Decline in Earnings: What to Look Out for",
+          "resumen": "Krystal Biotech (KRYS) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+          "fuente": "Yahoo",
+          "fecha": "26 Oct 2026 13:00 UTC",
+          "url": "https://finnhub.io/api/news?id=47ad580f77d7c90052fb0fb58dddf5fc5709832d4110cd826c609cafbc9f86e2",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ALNY",
           "titulo": "Alnylam: Amvuttra Growth And Brezosiran Strengthen The Bull Case",
           "resumen": "",
           "fuente": "SeekingAlpha",
@@ -226,22 +262,10 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Vertex Stock Looks Expensive. Does It Get Cheaper Ahead?",
-          "resumen": "For questions about this article or underlying research, email help@trefis.com.",
-          "fuente": "Yahoo",
-          "fecha": "23 Oct 2026 17:29 UTC",
-          "url": "https://finnhub.io/api/news?id=4096afeeab360911f0fd6be6f61127974edc9434f479a10014bbe6db6d27b373",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
-      "nivel": "azul",
-      "total": 2
+      "nivel": "rojo",
+      "total": 5
     },
     "BEAM": {
       "nombre": "BEAM",
@@ -263,22 +287,10 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "OCUL",
-          "titulo": "Ocular Therapeutix, Inc. (OCUL) Discusses Progress and Regulatory Update on AXPAXLI NDA Filing Transcript",
-          "resumen": "Ocular Therapeutix, Inc. (OCUL) Discusses Progress and Regulatory Update on AXPAXLI NDA Filing October 22, 2026 1:00 PM EDTCompany ParticipantsPravin Dugel...",
-          "fuente": "SeekingAlpha",
-          "fecha": "23 Oct 2026 19:57 UTC",
-          "url": "https://finnhub.io/api/news?id=88d3ae28decbac7615bf32d7bc73566efa848084ad4498d80f0c2263da637b10",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
-      "nivel": "rojo",
-      "total": 2
+      "nivel": "azul",
+      "total": 1
     },
     "CAI": {
       "nombre": "CAI",
@@ -330,10 +342,22 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
+        },
+        {
+          "ticker": "SENS",
+          "titulo": "Senseonics Initiates First-In-Human Study Of Freedom",
+          "resumen": "First clinical evaluation of investigational, transmitter-free one-year CGM marks an important milestone on Senseonics’ innovation roadmap, with potential launch in 2028Built on the proven sensing technology behind",
+          "fuente": "Benzinga",
+          "fecha": "26 Oct 2026 08:04 UTC",
+          "url": "https://finnhub.io/api/news?id=f9b842ff599738c1f73840a44bc4a9d5db955c0a6e6fb4357497e72201fafb27",
+          "imagen": "",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 1
+      "total": 2
     },
     "INSM": {
       "nombre": "INSM",
@@ -343,48 +367,12 @@
     }
   },
   "resumen": {
-    "total_noticias": 19,
+    "total_noticias": 21,
     "tickers_con_noticias": 7,
     "alertas_urgentes": 6,
     "sin_noticias": 10
   },
   "todas_noticias": [
-    {
-      "ticker": "ARGX",
-      "titulo": "Argenx's Vyvgart Sales Growth, Pipeline Progress Support Outlook, Oppenheimer Says",
-      "resumen": "Argenx's (ARGX) Q3 results highlighted continued growth in Vyvgart sales, while its acquisition of F",
-      "fuente": "Yahoo",
-      "fecha": "23 Oct 2026 17:00 UTC",
-      "url": "https://finnhub.io/api/news?id=19af01340640bc76635b799e3309497edd883d54d384888a407b54b7c8edccd7",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "OCUL",
-      "titulo": "Ocular Therapeutix, Inc. (OCUL) Discusses Progress and Regulatory Update on AXPAXLI NDA Filing Transcript",
-      "resumen": "Ocular Therapeutix, Inc. (OCUL) Discusses Progress and Regulatory Update on AXPAXLI NDA Filing October 22, 2026 1:00 PM EDTCompany ParticipantsPravin Dugel...",
-      "fuente": "SeekingAlpha",
-      "fecha": "23 Oct 2026 19:57 UTC",
-      "url": "https://finnhub.io/api/news?id=88d3ae28decbac7615bf32d7bc73566efa848084ad4498d80f0c2263da637b10",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "Argenx (ENXTBR:ARGX) Stock Faces Margin Questions After Q3 Earnings",
-      "resumen": "Argenx came into this Q3 2026 report with a rich biotech valuation and a reputation as a high conviction growth story. Yet the stock closed at €782.2 on 23 October, roughly flat over the past week and soft over the past month, which signals a market still debating how much is already priced in. The ",
-      "fuente": "Yahoo",
-      "fecha": "24 Oct 2026 12:11 UTC",
-      "url": "https://finnhub.io/api/news?id=ddb98105ba0f5ec8e009121b1ad3f30dc6b00f1c11f9d0a0aa8f567c34730480",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "ARGX",
       "titulo": "argenx (ENXTBR:ARGX) Reports Positive Phase 3 Data In Autoimmune Myositis",
@@ -398,48 +386,12 @@
       "badge": "🔴"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "Forget Casgevy: CRISPR Therapeutics' Heart-Disease Data Could Matter More",
-      "resumen": "The company's gene-editing-focused platform looks promising.",
-      "fuente": "Yahoo",
-      "fecha": "24 Oct 2026 22:20 UTC",
-      "url": "https://finnhub.io/api/news?id=4eaf0acb3316447083c94261a89a31b2ccf18e13aba019c2cc4b936fea495114",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "What Vertex Pharmaceuticals Holders Bought Into",
-      "resumen": "If Vertex Pharmaceuticals was on your watchlist rather than in your portfolio, the return may sting. Investors who held Vertex Pharmaceuticals over the past year are up 24.3%, including dividends. That period included upbeat cystic fibrosis launches, new gene therapy approvals and a planned US$10b m",
-      "fuente": "Yahoo",
-      "fecha": "25 Oct 2026 02:09 UTC",
-      "url": "https://finnhub.io/api/news?id=11495983ee2e783219b158fca8e139e869775142665cd044d8f4e01226dea782",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
       "ticker": "ARGX",
       "titulo": "argenx (ENXTBR:ARGX) Posted Q3 2026 Results, Is It Fully Priced?",
       "resumen": "argenx (ENXTBR:ARGX) just released its Q3 2026 results, giving investors a detailed look at how its autoimmune portfolio is translating into revenue, profit and earnings per share. argenx shares trade at €782.2, with a 7.50% 7 day share price return but a 7.45% decline over the past month. That chop",
       "fuente": "Yahoo",
       "fecha": "25 Oct 2026 02:11 UTC",
       "url": "https://finnhub.io/api/news?id=1935943cd9633ea92ca991cb6d8b1eddc148d52465ba680363a4a68f5d76b6f8",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals (VRTX) Posts Positive Phase 3 Results For Povetacicept",
-      "resumen": "Vertex Pharmaceuticals (NasdaqGS:VRTX) reported positive Phase 3 results for povetacicept in IgA nephropathy, meeting all key endpoints. The late stage data are set to be published in the New England Journal of Medicine, highlighting the kidney disease program. Vertex plans to pursue FDA accelerated",
-      "fuente": "Yahoo",
-      "fecha": "25 Oct 2026 03:19 UTC",
-      "url": "https://finnhub.io/api/news?id=72611d4e3692d189523d697231759b17d5cc53fac517569bd6c4b8364a3727b7",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
@@ -470,6 +422,18 @@
       "badge": "🔴"
     },
     {
+      "ticker": "SENS",
+      "titulo": "Senseonics Initiates First-In-Human Study Of Freedom",
+      "resumen": "First clinical evaluation of investigational, transmitter-free one-year CGM marks an important milestone on Senseonics’ innovation roadmap, with potential launch in 2028Built on the proven sensing technology behind",
+      "fuente": "Benzinga",
+      "fecha": "26 Oct 2026 08:04 UTC",
+      "url": "https://finnhub.io/api/news?id=f9b842ff599738c1f73840a44bc4a9d5db955c0a6e6fb4357497e72201fafb27",
+      "imagen": "",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
       "ticker": "SNDX",
       "titulo": "Syndax to Announce Third Quarter 2026 Financial Results and Host Conference Call and Webcast on November 2, 2026",
       "resumen": "NEW YORK, Oct. 26, 2026 (GLOBE NEWSWIRE) -- Syndax Pharmaceuticals (Nasdaq: SNDX), a commercial-stage biopharmaceutical company advancing innovative cancer therapies, today announced that it will report its third quarter 2026 financial results and provide a business update on Monday, November 2, 202",
@@ -494,40 +458,100 @@
       "badge": "🔴"
     },
     {
-      "ticker": "ALNY",
-      "titulo": "Vertex Stock Looks Expensive. Does It Get Cheaper Ahead?",
-      "resumen": "For questions about this article or underlying research, email help@trefis.com.",
+      "ticker": "SNDX",
+      "titulo": "Syndax Pharmaceuticals (SNDX) May Report Negative Earnings: Know the Trend Ahead of Q3 Release",
+      "resumen": "Syndax (SNDX) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
       "fuente": "Yahoo",
-      "fecha": "23 Oct 2026 17:29 UTC",
-      "url": "https://finnhub.io/api/news?id=4096afeeab360911f0fd6be6f61127974edc9434f479a10014bbe6db6d27b373",
+      "fecha": "26 Oct 2026 13:00 UTC",
+      "url": "https://finnhub.io/api/news?id=8bbddcfb2cd0867edf77c63bb56b135c6e8c6ed8cfc7ee0473d7b5a2d01aba2d",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "Here's Why Viking Therapeutics, Inc. (VKTX) Fell More Than Broader Market",
-      "resumen": "Viking Therapeutics, Inc. (VKTX) concluded the recent trading session at $24.42, signifying a -5.48% move from its prior day's close.",
-      "fuente": "Yahoo",
-      "fecha": "23 Oct 2026 20:45 UTC",
-      "url": "https://finnhub.io/api/news?id=b600e99f6083aec08034affbbc42caa8e5dc61214e20c05842f187aea00d4ef4",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals Gets 96% of Product Sales From Treatments for 1 Disease. Here's Why That's About to Change.",
-      "resumen": "Vertex is expanding beyond its cystic fibrosis franchise.",
+      "titulo": "Vertex Pharmaceuticals (VRTX) Earnings Expected to Grow: Should You Buy?",
+      "resumen": "Vertex (VRTX) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
       "fuente": "Yahoo",
-      "fecha": "24 Oct 2026 19:29 UTC",
-      "url": "https://finnhub.io/api/news?id=3c135b6892c7278f17f00d80171c8d2c80252353cd0eb810b470ac44c2016740",
+      "fecha": "26 Oct 2026 13:00 UTC",
+      "url": "https://finnhub.io/api/news?id=bdf18ee067ea52c5f3bd1f611b3a76971489aa2dbbfa8270d566be8aa6a65fc8",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Analysts Estimate Krystal Biotech, Inc. (KRYS) to Report a Decline in Earnings: What to Look Out for",
+      "resumen": "Krystal Biotech (KRYS) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+      "fuente": "Yahoo",
+      "fecha": "26 Oct 2026 13:00 UTC",
+      "url": "https://finnhub.io/api/news?id=47ad580f77d7c90052fb0fb58dddf5fc5709832d4110cd826c609cafbc9f86e2",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Should You Buy Viking Therapeutics Stock Ahead of Q3 Results?",
+      "resumen": "VKTX is likely to report Q3 results Oct. 28 as investors await updates on VK2735's oral and injectable obesity programs and 2027 data readouts.",
+      "fuente": "Yahoo",
+      "fecha": "26 Oct 2026 13:02 UTC",
+      "url": "https://finnhub.io/api/news?id=caaa420a558e970ea8e7330532701c9bb0c6ce83629c64787ef9c8c42b1c49d5",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "The $500 Million Non-CF Factor Vertex Investors Can’t Ignore on Nov. 2",
+      "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) reports third-quarter results on Nov. 2. Cystic fibrosis still pays the bills, but I’ll be watching whether CASGEVY and JOURNAVX stay on pace for management’s $500 million non-CF revenue target. Diversification Picks Up Speed After a Raised Outlook Second-quarter",
+      "fuente": "Yahoo",
+      "fecha": "26 Oct 2026 13:45 UTC",
+      "url": "https://finnhub.io/api/news?id=d531d68b8d8bcb90235142450233bc793a628c4634ceaf8cac6c4cfb681acb07",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam Reports Up to 83% Huntingtin Reduction, Eyes 2027 Pivotal Trial",
+      "resumen": "Alnylam Pharmaceuticals (NASDAQ:ALNY) outlined early clinical data for brezosiran, an investigational RNA interference therapy for Huntington’s disease, reporting dose-dependent reductions in cerebrospinal fluid mutant huntingtin after a single intrathecal dose and plans to begin a placebo-controlle",
+      "fuente": "Yahoo",
+      "fecha": "26 Oct 2026 17:03 UTC",
+      "url": "https://finnhub.io/api/news?id=7adde1f4b5baadd2ff74300da70dc2ed8e44afd90e91bf8e0b3a2f64325f2916",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "BHC Q3 Earnings Preview: Here's What You Should Know",
+      "resumen": "Bausch Health reports Q3 2026 results on Oct. 28, with $2.75 billion in expected sales. Explore key segment drivers and mixed earnings surprise history.",
+      "fuente": "Yahoo",
+      "fecha": "26 Oct 2026 17:33 UTC",
+      "url": "https://finnhub.io/api/news?id=4e46a0e6db0ca66685a362dfc0a8fde4e37b264e110896e42a90a4e16de6c6a2",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Amgen: A Biotech Bargain Heading Into Q3 Earnings",
+      "resumen": "Amgen Inc.âs Q3 is near. Explore EPS growth, pipeline momentum, valuation, and dividend yield to see why it offers good risk/reward. Click for this AMGN update.",
+      "fuente": "SeekingAlpha",
+      "fecha": "27 Oct 2026 08:22 UTC",
+      "url": "https://finnhub.io/api/news?id=7e01de4091c9443925bb7c0d268ebdc5a52591450b888b5fd9ab5a83635cf43b",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1365037409/image_1365037409.jpg?io=getty-c-w1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "OCUL",
@@ -573,6 +597,30 @@
       "fecha": "26 Oct 2026 09:16 UTC",
       "url": "https://finnhub.io/api/news?id=692b4a831910d14aac461a910f182048d7e41c57aaf536b196e23b178cb390d4",
       "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals (VRTX) Stock Sinks As Market Gains: Here's Why",
+      "resumen": "In the closing of the recent trading day, Vertex Pharmaceuticals (VRTX) stood at $517.49, denoting a -1.23% move from the preceding trading day.",
+      "fuente": "Yahoo",
+      "fecha": "26 Oct 2026 20:50 UTC",
+      "url": "https://finnhub.io/api/news?id=258a4bb0d11945da722a9ae678431bdc0478cda5414a4d4cb72fbd2744f0a9d8",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam Pharmaceuticals, Inc. (ALNY) RNAi Roundtable: Exon 1 Targeting With Brezosiran for Huntington's Disease Transcript",
+      "resumen": "Alnylam Pharmaceuticals, Inc. (ALNY) RNAi Roundtable: Exon 1 Targeting With Brezosiran for Huntington's Disease October 26, 2026 10:00 AM EDTCompany...",
+      "fuente": "SeekingAlpha",
+      "fecha": "26 Oct 2026 23:09 UTC",
+      "url": "https://finnhub.io/api/news?id=23ea8fb07c33ab6c2d50e5714f7a05c691eeaa1269337f96f4f3807fdc81a2ac",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

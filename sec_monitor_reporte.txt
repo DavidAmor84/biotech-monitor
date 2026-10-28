@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 27/10/2026 12:59 | Período: últimos 7 días
-Desde: 2026-10-20 → Hasta: 2026-10-27
+Generado: 28/10/2026 13:50 | Período: últimos 7 días
+Desde: 2026-10-21 → Hasta: 2026-10-28
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 7 filings | 🔴 0 | 🟢 0 | 🟡 1 | 🔵 6 | ✅ 13 sin novedad
+RESUMEN: 3 filings | 🔴 0 | 🟢 0 | 🟡 1 | 🔵 2 | ✅ 14 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -19,12 +19,10 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [DNLI] Sin novedades
   ✅ [VKTX] Sin novedades
 
-  🔵 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 2 filing(s)
+  🔵 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 1 filing(s)
      🔵 INFO 4 | 2026-10-22 | Brennan Daniel J. (Director) → Concesión 795 acciones @ $503.47 | Post: 795 | Rutinaria/RSU/impuestos
      Insider: Brennan Daniel J. (Director) → Concesión 795 acciones @ $503.47 | Post: 795 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000283/xslF345X06/wk-form4_1792699856.xml
-     🔵 INFO 8-K | 2026-10-20 | Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02]
-     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000278/vrtx-20261020.htm
   ✅ [ALNY] Sin novedades
   ✅ [BEAM] Sin novedades
   ✅ [OCUL] Sin novedades
@@ -39,16 +37,7 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1781174/000090514826004554/xslF345X06/form4.xml
   ✅ [TARA] Sin novedades
   ✅ [SENS] Sin novedades
-
-  🔵 [INSM] INSMED Inc — 3 filing(s)
-     🔵 INFO 4 | 2026-10-20 | Koppikar Utpal (Director) → Concesión 6,139 acciones | Post: 6,139 | Rutinaria/RSU/impuestos
-     Insider: Koppikar Utpal (Director) → Concesión 6,139 acciones | Post: 6,139 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1104506/000162828026066528/xslF345X06/wk-form4_1792530513.xml
-     🔵 INFO 4 | 2026-10-20 | Hudson Paul (Director) → Concesión 6,139 acciones | Post: 6,139 | Rutinaria/RSU/impuestos
-     Insider: Hudson Paul (Director) → Concesión 6,139 acciones | Post: 6,139 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1104506/000215840826000007/xslF345X06/wk-form4_1792530457.xml
-     🔵 INFO 8-K | 2026-10-20 | Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02, 7.01, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1104506/000114036126040177/ef20084030_8k.htm
+  ✅ [INSM] Sin novedades
   ⚪ [NWL] Sin CIK SEC
 
 ──────────────────────────────────────────────────

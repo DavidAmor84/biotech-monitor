@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "27/10/2026 12:59",
+  "generado": "28/10/2026 13:50",
   "periodo_dias": 7,
-  "desde": "2026-10-20",
-  "hasta": "2026-10-27",
+  "desde": "2026-10-21",
+  "hasta": "2026-10-28",
   "resumen": {
-    "total_filings": 7,
+    "total_filings": 3,
     "alertas_rojas": 0,
     "alertas_verdes": 0,
     "alertas_amarillas": 1,
-    "alertas_azules": 6,
-    "sin_novedad": 13
+    "alertas_azules": 2,
+    "sin_novedad": 14
   },
   "tickers": {
     "SNDX": {
@@ -125,29 +125,6 @@
             "resumen_detail": "Brennan Daniel J. (Director) → Concesión 795 acciones @ $503.47 | Post: 795 | Rutinaria/RSU/impuestos"
           },
           "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "8-K",
-          "fecha": "2026-10-20",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02]",
-          "detalle": "8-K",
-          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
-          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000278/vrtx-20261020.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "5.02"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 5.02 Departure of Directors of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. (d) On October 20, 2026, Daniel Brennan was appointed as a new member of the board of directors (the Board ) of Vertex Pharmaceuticals Incorporated (the Company ). In connection with the appointment of Mr. Brennan, the size of the Board was increased from ten to eleven members. Mr. Brennan also has joined our Audit and Finance Committee. Mr. Brennan served as the Executive Vice President, Chief Financial Officer of Boston Scientific Corporation, a medical device and healthcare technology company, from January 2014 until his retirement in June 2025. He was the Senior Vice President, Corporate Controller from 2010 through 2013 and, prior to that role, he held various roles of increasing responsibility within the finance function from 1996 through 2009. Mr. Brennan has served on the board of directors of Waters Corporation, a publicly listed company focused on the development of analytical instruments and software, since November 2022, and he has served on the board of directors of Madrigal Pharmaceuticals, a publicly traded biopharmaceutical company, since August 2025. Mr. Brennan previously served on the board of directors of Nuance Corporation, a publicly traded communication company, until it was acquired by Microsoft Corporation in March 2022. He holds a B.S. in Finance and Investments and an M.B.A. from Babson College and is also a certified public accountant. Upon joining the Board on October 20, 2026,",
-            "nivel_ajustado": "azul",
-            "badge_ajustado": "🔵 INFO",
-            "resumen_ajustado": "Item 5.02: Plan de incentivos / compensación aprobado — informativo"
-          },
           "10q_detail": null,
           "prospecto_detail": null
         }
@@ -299,87 +276,9 @@
       "cik": "0001104506",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-10-20",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Koppikar Utpal (Director) → Concesión 6,139 acciones | Post: 6,139 | Rutinaria/RSU/impuestos",
-          "detalle": "FORM 4",
-          "empresa_sec": "INSMED Inc",
-          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000162828026066528/xslF345X06/wk-form4_1792530513.xml",
-          "form4_detail": {
-            "insider_nombre": "Koppikar Utpal",
-            "insider_cargo": "Director",
-            "transaccion_codigo": "A",
-            "transaccion_tipo": "Concesión",
-            "transaccion_acciones": "6139",
-            "transaccion_precio": null,
-            "transaccion_fecha": "2026-10-19",
-            "acciones_post": "6139",
-            "footnotes": "Represents Restricted Stock Units (RSUs), each representing a contingent right to receive one share of Common Stock, granted pursuant to the Company's Amended and Restated 2019 Incentive Plan, as amended. The RSUs vest in equal parts on each of the first three one-year anniversaries of the date of the grant, provided that the Reporting Person remains a director on each such vesting date. Each RSU was granted on October 19, 2026, for no consideration.",
-            "es_rutinaria": true,
-            "resumen_detail": "Koppikar Utpal (Director) → Concesión 6,139 acciones | Post: 6,139 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-10-20",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Hudson Paul (Director) → Concesión 6,139 acciones | Post: 6,139 | Rutinaria/RSU/impuestos",
-          "detalle": "FORM 4",
-          "empresa_sec": "INSMED Inc",
-          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000215840826000007/xslF345X06/wk-form4_1792530457.xml",
-          "form4_detail": {
-            "insider_nombre": "Hudson Paul",
-            "insider_cargo": "Director",
-            "transaccion_codigo": "A",
-            "transaccion_tipo": "Concesión",
-            "transaccion_acciones": "6139",
-            "transaccion_precio": null,
-            "transaccion_fecha": "2026-10-19",
-            "acciones_post": "6139",
-            "footnotes": "Represents Restricted Stock Units (RSUs), each representing a contingent right to receive one share of Common Stock, granted pursuant to the Company's Amended and Restated 2019 Incentive Plan, as amended. The RSUs vest in equal parts on each of the first three one-year anniversaries of the date of the grant, provided that the Reporting Person remains a director on each such vesting date. Each RSU was granted on October 19, 2026, for no consideration.",
-            "es_rutinaria": true,
-            "resumen_detail": "Hudson Paul (Director) → Concesión 6,139 acciones | Post: 6,139 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "8-K",
-          "fecha": "2026-10-20",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02, 7.01, 9.01]",
-          "detalle": "8-K",
-          "empresa_sec": "INSMED Inc",
-          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126040177/ef20084030_8k.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "5.02",
-              "7.01",
-              "9.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "ITEM 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. On October 16, 2026, the Board of Directors (the Board ) of Insmed Incorporated (the Company ) appointed Paul Hudson and Utpal Koppikar as members of the Board, effective October 19, 2026. Mr. Hudson serves as a Class II director, and Mr. Koppikar serves as a Class I director, with each subject to election at the Company s 2027 Annual Meeting of Shareholders. Mr. Hudson has been appointed to serve on the Board s Compensation Committee, and Mr. Koppikar has been appointed to serve on the Board s Audit Committee. Mr. Hudson brings more than three decades of senior executive leadership across some of the world s most prominent biopharmaceutical companies. He most recently served as Chief Executive Officer ( CEO ) of Sanofi S.A. from September 2019 through February 2026, where he led a sweeping transformation of the organization. Prior to Sanofi, Mr. Hudson served as CEO of Novartis Pharmaceuticals from 2016 to 2019 and as a member of the Novartis Executive Committee. His career in healthcare has spanned the globe, with roles in the U.S., Japan, and Europe. Prior to Novartis, he held a series of senior operational and commercial leadership positions at AstraZeneca, including President of AstraZeneca United States and Executive Vice President, North America. Mr. Hudson began his career in sales and marketing roles at Schering-Plough, GlaxoSmithKline UK, and Sanofi-Synth labo UK. Mr. Koppikar is a seasoned biopharma finance e",
-            "nivel_ajustado": "azul",
-            "badge_ajustado": "🔵 INFO",
-            "resumen_ajustado": "Item 5.02: Plan de incentivos / compensación aprobado — informativo"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "NWL": {
@@ -473,114 +372,6 @@
         "resumen_detail": "Brennan Daniel J. (Director) → Concesión 795 acciones @ $503.47 | Post: 795 | Rutinaria/RSU/impuestos"
       },
       "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "VRTX",
-      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
-      "form": "8-K",
-      "fecha": "2026-10-20",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02]",
-      "detalle": "8-K",
-      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
-      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000278/vrtx-20261020.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "5.02"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 5.02 Departure of Directors of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. (d) On October 20, 2026, Daniel Brennan was appointed as a new member of the board of directors (the Board ) of Vertex Pharmaceuticals Incorporated (the Company ). In connection with the appointment of Mr. Brennan, the size of the Board was increased from ten to eleven members. Mr. Brennan also has joined our Audit and Finance Committee. Mr. Brennan served as the Executive Vice President, Chief Financial Officer of Boston Scientific Corporation, a medical device and healthcare technology company, from January 2014 until his retirement in June 2025. He was the Senior Vice President, Corporate Controller from 2010 through 2013 and, prior to that role, he held various roles of increasing responsibility within the finance function from 1996 through 2009. Mr. Brennan has served on the board of directors of Waters Corporation, a publicly listed company focused on the development of analytical instruments and software, since November 2022, and he has served on the board of directors of Madrigal Pharmaceuticals, a publicly traded biopharmaceutical company, since August 2025. Mr. Brennan previously served on the board of directors of Nuance Corporation, a publicly traded communication company, until it was acquired by Microsoft Corporation in March 2022. He holds a B.S. in Finance and Investments and an M.B.A. from Babson College and is also a certified public accountant. Upon joining the Board on October 20, 2026,",
-        "nivel_ajustado": "azul",
-        "badge_ajustado": "🔵 INFO",
-        "resumen_ajustado": "Item 5.02: Plan de incentivos / compensación aprobado — informativo"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "INSM",
-      "nombre": "INSMED Inc",
-      "form": "4",
-      "fecha": "2026-10-20",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Koppikar Utpal (Director) → Concesión 6,139 acciones | Post: 6,139 | Rutinaria/RSU/impuestos",
-      "detalle": "FORM 4",
-      "empresa_sec": "INSMED Inc",
-      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000162828026066528/xslF345X06/wk-form4_1792530513.xml",
-      "form4_detail": {
-        "insider_nombre": "Koppikar Utpal",
-        "insider_cargo": "Director",
-        "transaccion_codigo": "A",
-        "transaccion_tipo": "Concesión",
-        "transaccion_acciones": "6139",
-        "transaccion_precio": null,
-        "transaccion_fecha": "2026-10-19",
-        "acciones_post": "6139",
-        "footnotes": "Represents Restricted Stock Units (RSUs), each representing a contingent right to receive one share of Common Stock, granted pursuant to the Company's Amended and Restated 2019 Incentive Plan, as amended. The RSUs vest in equal parts on each of the first three one-year anniversaries of the date of the grant, provided that the Reporting Person remains a director on each such vesting date. Each RSU was granted on October 19, 2026, for no consideration.",
-        "es_rutinaria": true,
-        "resumen_detail": "Koppikar Utpal (Director) → Concesión 6,139 acciones | Post: 6,139 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "INSM",
-      "nombre": "INSMED Inc",
-      "form": "4",
-      "fecha": "2026-10-20",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Hudson Paul (Director) → Concesión 6,139 acciones | Post: 6,139 | Rutinaria/RSU/impuestos",
-      "detalle": "FORM 4",
-      "empresa_sec": "INSMED Inc",
-      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000215840826000007/xslF345X06/wk-form4_1792530457.xml",
-      "form4_detail": {
-        "insider_nombre": "Hudson Paul",
-        "insider_cargo": "Director",
-        "transaccion_codigo": "A",
-        "transaccion_tipo": "Concesión",
-        "transaccion_acciones": "6139",
-        "transaccion_precio": null,
-        "transaccion_fecha": "2026-10-19",
-        "acciones_post": "6139",
-        "footnotes": "Represents Restricted Stock Units (RSUs), each representing a contingent right to receive one share of Common Stock, granted pursuant to the Company's Amended and Restated 2019 Incentive Plan, as amended. The RSUs vest in equal parts on each of the first three one-year anniversaries of the date of the grant, provided that the Reporting Person remains a director on each such vesting date. Each RSU was granted on October 19, 2026, for no consideration.",
-        "es_rutinaria": true,
-        "resumen_detail": "Hudson Paul (Director) → Concesión 6,139 acciones | Post: 6,139 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "INSM",
-      "nombre": "INSMED Inc",
-      "form": "8-K",
-      "fecha": "2026-10-20",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02, 7.01, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "INSMED Inc",
-      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126040177/ef20084030_8k.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "5.02",
-          "7.01",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "ITEM 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. On October 16, 2026, the Board of Directors (the Board ) of Insmed Incorporated (the Company ) appointed Paul Hudson and Utpal Koppikar as members of the Board, effective October 19, 2026. Mr. Hudson serves as a Class II director, and Mr. Koppikar serves as a Class I director, with each subject to election at the Company s 2027 Annual Meeting of Shareholders. Mr. Hudson has been appointed to serve on the Board s Compensation Committee, and Mr. Koppikar has been appointed to serve on the Board s Audit Committee. Mr. Hudson brings more than three decades of senior executive leadership across some of the world s most prominent biopharmaceutical companies. He most recently served as Chief Executive Officer ( CEO ) of Sanofi S.A. from September 2019 through February 2026, where he led a sweeping transformation of the organization. Prior to Sanofi, Mr. Hudson served as CEO of Novartis Pharmaceuticals from 2016 to 2019 and as a member of the Novartis Executive Committee. His career in healthcare has spanned the globe, with roles in the U.S., Japan, and Europe. Prior to Novartis, he held a series of senior operational and commercial leadership positions at AstraZeneca, including President of AstraZeneca United States and Executive Vice President, North America. Mr. Hudson began his career in sales and marketing roles at Schering-Plough, GlaxoSmithKline UK, and Sanofi-Synth labo UK. Mr. Koppikar is a seasoned biopharma finance e",
-        "nivel_ajustado": "azul",
-        "badge_ajustado": "🔵 INFO",
-        "resumen_ajustado": "Item 5.02: Plan de incentivos / compensación aprobado — informativo"
-      },
       "10q_detail": null,
       "prospecto_detail": null
     }

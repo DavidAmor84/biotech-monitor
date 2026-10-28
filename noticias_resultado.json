@@ -1,8 +1,8 @@
 {
-  "generado": "27/10/2026 13:08 UTC",
+  "generado": "28/10/2026 13:58 UTC",
   "plazo_horas": 72,
-  "desde": "2026-10-24",
-  "hasta": "2026-10-27",
+  "desde": "2026-10-25",
+  "hasta": "2026-10-28",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -40,43 +40,19 @@
       "noticias": [
         {
           "ticker": "ARGX",
-          "titulo": "argenx (ENXTBR:ARGX) Stock Looks Overvalued After Its 202% Five Year Run",
-          "resumen": "argenx has delivered powerful long term gains, and the latest jump on fresh clinical data has put an even brighter spotlight on whether the current share price is adequately supported by its earnings. With the stock now back in focus after recent trial updates and sales headlines, the key issue for ",
-          "fuente": "Yahoo",
-          "fecha": "25 Oct 2026 04:16 UTC",
-          "url": "https://finnhub.io/api/news?id=5c4939b153c8cee6f35991fb14f4175ad4c5b7a64d8179805706370828af4ea2",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "argenx (ENXTBR:ARGX) Posted Q3 2026 Results, Is It Fully Priced?",
-          "resumen": "argenx (ENXTBR:ARGX) just released its Q3 2026 results, giving investors a detailed look at how its autoimmune portfolio is translating into revenue, profit and earnings per share. argenx shares trade at €782.2, with a 7.50% 7 day share price return but a 7.45% decline over the past month. That chop",
-          "fuente": "Yahoo",
-          "fecha": "25 Oct 2026 02:11 UTC",
-          "url": "https://finnhub.io/api/news?id=1935943cd9633ea92ca991cb6d8b1eddc148d52465ba680363a4a68f5d76b6f8",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "argenx (ENXTBR:ARGX) Reports Positive Phase 3 Data In Autoimmune Myositis",
-          "resumen": "Argenx (ENXTBR:ARGX) reported positive topline Phase 3 ALKIVIA trial results for VYVGART in autoimmune myositis patients. The study met its primary endpoint, showing clinically meaningful improvement over placebo in both IMNM and dermatomyositis groups. Management plans a late breaking oral presenta",
-          "fuente": "Yahoo",
-          "fecha": "24 Oct 2026 16:15 UTC",
-          "url": "https://finnhub.io/api/news?id=730b79878662b70acc7d4bfb935dd739c7ed58bad81608f06297e6f4c347d42c",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
+          "titulo": "$1000 Invested In argenx 5 Years Ago Would Be Worth This Much Today",
+          "resumen": "argenx (NASDAQ:ARGX) has outperformed the market over the past 5 years by 12.9% on an annualized basis producing an average annual return of 23.66%. Currently, argenx has a market capitalization of $55.07 billion.",
+          "fuente": "Benzinga",
+          "fecha": "26 Oct 2026 12:45 UTC",
+          "url": "https://finnhub.io/api/news?id=59c2e2106c8447b41bef8762b9807c2e362a8d48bdfabb8538bebafef7a6c186",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/valuestock_3.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
         }
       ],
-      "nivel": "rojo",
-      "total": 3
+      "nivel": "azul",
+      "total": 1
     },
     "DYN": {
       "nombre": "DYN",
@@ -93,6 +69,30 @@
     "VKTX": {
       "nombre": "VKTX",
       "noticias": [
+        {
+          "ticker": "VKTX",
+          "titulo": "Buy, Sell or Hold LLY Stock? Key Factors to Watch Ahead of Q3 Earnings",
+          "resumen": "Lilly heads into Q3 earnings with Mounjaro, Zepbound and new drugs fueling growth, but pricing pressure, rising costs and competition pose challenges.",
+          "fuente": "Yahoo",
+          "fecha": "27 Oct 2026 11:53 UTC",
+          "url": "https://finnhub.io/api/news?id=e1e877e8dfac736c5090d96a9e307c110f856c9f2cf2db238cdd3dd590728e5c",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VKTX",
+          "titulo": "'Congo Ebola Cases Top 10,000 as Violence Hits Health Workers' - Bloomberg",
+          "resumen": "https://www.bloomberg.com/news/articles/2026-10-27/congo-ebola-cases-top-10-000-as-violence-hits-health-workers",
+          "fuente": "Benzinga",
+          "fecha": "27 Oct 2026 08:39 UTC",
+          "url": "https://finnhub.io/api/news?id=95726767ea7b66d20b5381df68a22970da167502b6140a3202f42d73c5eca337",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "VKTX",
           "titulo": "Should You Buy Viking Therapeutics Stock Ahead of Q3 Results?",
@@ -131,18 +131,30 @@
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 5
     },
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
         {
           "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals (VRTX) Stock Sinks As Market Gains: Here's Why",
-          "resumen": "In the closing of the recent trading day, Vertex Pharmaceuticals (VRTX) stood at $517.49, denoting a -1.23% move from the preceding trading day.",
+          "titulo": "Enanta Pharmaceuticals Announces Planned Retirement of Longstanding Chief Executive Officer Jay R. Luly, Ph.D. After 23 Years of Company Leadership",
+          "resumen": "WATERTOWN, Mass., October 28, 2026--Enanta Pharmaceuticals, Inc. (NASDAQ:ENTA), a clinical-stage biotechnology company dedicated to creating small molecule drugs for viral infections and immunological diseases, announces today that Jay R. Luly, Ph.D., age 70, will retire as President and Chief Execu",
           "fuente": "Yahoo",
-          "fecha": "26 Oct 2026 20:50 UTC",
-          "url": "https://finnhub.io/api/news?id=258a4bb0d11945da722a9ae678431bdc0478cda5414a4d4cb72fbd2744f0a9d8",
+          "fecha": "28 Oct 2026 11:00 UTC",
+          "url": "https://finnhub.io/api/news?id=400e49e09f2ed8ca72a80ef211d3935c5dbd7c90ba9e6269dc54a47c8bcc59ba",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Has The Story Under Krystal Biotech Stock Run Out?",
+          "resumen": "For questions about this article or underlying research, email help@trefis.com.",
+          "fuente": "Yahoo",
+          "fecha": "28 Oct 2026 08:22 UTC",
+          "url": "https://finnhub.io/api/news?id=50369414139c9570024170afe54765b5d739a2ae5d4894cc11b8ece81e6c18ea",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
@@ -150,11 +162,11 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "BHC Q3 Earnings Preview: Here's What You Should Know",
-          "resumen": "Bausch Health reports Q3 2026 results on Oct. 28, with $2.75 billion in expected sales. Explore key segment drivers and mixed earnings surprise history.",
+          "titulo": "Amgen vs. Vertex Pharmaceuticals: Massive Pharmaceutical Scale vs. Steady Drug Revenue",
+          "resumen": "Amgen's quarterly revenue swings between $8.1B and $10.1B, while Vertex climbs steadily from $2.8B to $3.3B—a tale of scale versus trajectory.",
           "fuente": "Yahoo",
-          "fecha": "26 Oct 2026 17:33 UTC",
-          "url": "https://finnhub.io/api/news?id=4e46a0e6db0ca66685a362dfc0a8fde4e37b264e110896e42a90a4e16de6c6a2",
+          "fecha": "27 Oct 2026 19:45 UTC",
+          "url": "https://finnhub.io/api/news?id=be2e3b21fd9eb83f339c1110580ecb3dd939370f9061276111c233345caa6506",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -162,11 +174,11 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "The $500 Million Non-CF Factor Vertex Investors Can’t Ignore on Nov. 2",
-          "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) reports third-quarter results on Nov. 2. Cystic fibrosis still pays the bills, but I’ll be watching whether CASGEVY and JOURNAVX stay on pace for management’s $500 million non-CF revenue target. Diversification Picks Up Speed After a Raised Outlook Second-quarter",
+          "titulo": "Vertex Gears Up to Report Q3 Earnings: Is a Beat in the Cards?",
+          "resumen": "VRTX is poised for a Q3 earnings beat as strong demand for Trikafta, Alyftrek's growth and rising Casgevy and Journavx sales drive expectations.",
           "fuente": "Yahoo",
-          "fecha": "26 Oct 2026 13:45 UTC",
-          "url": "https://finnhub.io/api/news?id=d531d68b8d8bcb90235142450233bc793a628c4634ceaf8cac6c4cfb681acb07",
+          "fecha": "27 Oct 2026 14:15 UTC",
+          "url": "https://finnhub.io/api/news?id=70e62b90da2305d915aaeaffadc77c94587c3ff55459331078ba1baa93e20e3a",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -174,27 +186,15 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals (VRTX) Earnings Expected to Grow: Should You Buy?",
-          "resumen": "Vertex (VRTX) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+          "titulo": "BofA Names this Drugmaker a Top Pick on Promising Kidney Drug Data",
+          "resumen": "Investing.com -- BofA Securities kept this drugmaker a “top pick” and reiterated its “buy” rating and $667 price objective after the company presented new kidney drug data at the American Society of Nephrology meeting.",
           "fuente": "Yahoo",
-          "fecha": "26 Oct 2026 13:00 UTC",
-          "url": "https://finnhub.io/api/news?id=bdf18ee067ea52c5f3bd1f611b3a76971489aa2dbbfa8270d566be8aa6a65fc8",
+          "fecha": "27 Oct 2026 13:09 UTC",
+          "url": "https://finnhub.io/api/news?id=ec7e39c6c4ea26add9e2e2c26a84f149da9e9de859dd8aad122a504ad06f0c21",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Baron Health Care Fund: Q3 2026 New Positions And Exits",
-          "resumen": "",
-          "fuente": "SeekingAlpha",
-          "fecha": "26 Oct 2026 04:05 UTC",
-          "url": "https://finnhub.io/api/news?id=f488331be4fc0aabb6b91d631958c54c2e6eedde32af3d9e4b889a6a1c65305b",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -203,6 +203,18 @@
     "ALNY": {
       "nombre": "ALNY",
       "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "Was The Run In Moderna Stock Hiding In Plain Sight?",
+          "resumen": "For questions about this article or underlying research, email help@trefis.com.",
+          "fuente": "Yahoo",
+          "fecha": "28 Oct 2026 09:24 UTC",
+          "url": "https://finnhub.io/api/news?id=45976c4a43252120c73689b1af05f881d286f2691dc77c640c4198c8979b8e79",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "ALNY",
           "titulo": "Amgen: A Biotech Bargain Heading Into Q3 Earnings",
@@ -250,18 +262,6 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Alnylam: Amvuttra Growth And Brezosiran Strengthen The Bull Case",
-          "resumen": "",
-          "fuente": "SeekingAlpha",
-          "fecha": "26 Oct 2026 09:16 UTC",
-          "url": "https://finnhub.io/api/news?id=692b4a831910d14aac461a910f182048d7e41c57aaf536b196e23b178cb390d4",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -269,28 +269,76 @@
     },
     "BEAM": {
       "nombre": "BEAM",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
-    },
-    "OCUL": {
-      "nombre": "OCUL",
       "noticias": [
         {
-          "ticker": "OCUL",
-          "titulo": "Ocular Therapeutix: The Drug Won, The Stock Lost, And That's The Opportunity",
-          "resumen": "",
-          "fuente": "SeekingAlpha",
-          "fecha": "25 Oct 2026 04:34 UTC",
-          "url": "https://finnhub.io/api/news?id=4a3ee75dfc22616fcd122b38a4f30256ae7253941d7a002ab95f76e1abb48808",
-          "imagen": "",
+          "ticker": "BEAM",
+          "titulo": "BEAM Stock Climbs On First Look At One-Time GSDIa Gene Fix; H.C. Wainwright Sees Further 200% Upside",
+          "resumen": "BEAM-301 is a one-time liver-targeted treatment designed to correct a common genetic error that causes glycogen storage disease type Ia, or GSDIa.",
+          "fuente": "Yahoo",
+          "fecha": "27 Oct 2026 19:21 UTC",
+          "url": "https://finnhub.io/api/news?id=8838e2f7c9f2fe14a4853306d23d2117ff1a530023315b524172d80b8a117d38",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
+        },
+        {
+          "ticker": "BEAM",
+          "titulo": "Beam Therapeutics Reports Early BEAM-301 Gains in GSD1a Fasting Tolerance",
+          "resumen": "Beam Therapeutics (NASDAQ:BEAM) reported initial clinical data from its Phase I/II trial of BEAM-301, an investigational base-editing therapy for glycogen storage disease type 1A (GSD1a), showing dose-dependent improvements in fasting tolerance and reductions in cornstarch supplementation among the",
+          "fuente": "Yahoo",
+          "fecha": "27 Oct 2026 15:05 UTC",
+          "url": "https://finnhub.io/api/news?id=945410230aae9a19aca3ce8d2deccb7900fc17fe179cc33059f81dbb81eb26df",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "BEAM",
+          "titulo": "Beam Therapeutics Inc. (BEAM) Reviews Initial Phase I II BEAM-301 Data in Glycogen Storage Disease Type 1a Transcript",
+          "resumen": "",
+          "fuente": "SeekingAlpha",
+          "fecha": "27 Oct 2026 13:10 UTC",
+          "url": "https://finnhub.io/api/news?id=9c56f4fbb2c33c9d9a672a04f90a89e4455868f62fa3084f8e07a43cd7f9b011",
+          "imagen": "",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "BEAM",
+          "titulo": "Beam Therapeutics Reports Initial Clinical Data from Phase 1/2 Trial of BEAM-301, Demonstrating Proof of Concept for Genetic Correction in Glycogen Storage Disease Type Ia (GSDIa) at ESGCT 33rd Annual",
+          "resumen": "In the 40 mg Cohort, Two Patients Achieved 15 Hours of Controlled Fasting, Improvements in Glucose Control and No Longer Required Starch Supplementation Following Treatment Safety Profile of BEAM-301 Consistent with LNP-Based Therapies Beam Plans to Engage FDA on Potential Path to Approval; Enrollme",
+          "fuente": "Yahoo",
+          "fecha": "27 Oct 2026 11:00 UTC",
+          "url": "https://finnhub.io/api/news?id=a8e21a5955d69f17125da5d5ef8c3fbe09751ca68354780480ee0da3b270fcef",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "BEAM",
+          "titulo": "Beam Therapeutics Announces Initial Data From Its Ongoing Phase 1/2 Clinical Trial Evaluating BEAM-301 For Treatment Of Glycogen Storage Disease Type Ia; In The 40 Mg Cohort, Two Patients Achieved 15 ",
+          "resumen": "The data will be presented during a poster session at the 33rd Annual Congress of the European Society of Gene and Cell Therapy (ESGCT) in Hamburg, Germany. BEAM-301 is an investigational liver-targeting",
+          "fuente": "Benzinga",
+          "fecha": "27 Oct 2026 07:11 UTC",
+          "url": "https://finnhub.io/api/news?id=d908dd82229b9318e909efa8db173e169f23e902a2727f3563f0e5a4e9d5e6af",
+          "imagen": "",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
         }
       ],
-      "nivel": "azul",
-      "total": 1
+      "nivel": "rojo",
+      "total": 5
+    },
+    "OCUL": {
+      "nombre": "OCUL",
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "CAI": {
       "nombre": "CAI",
@@ -300,9 +348,22 @@
     },
     "GPCR": {
       "nombre": "GPCR",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "GPCR",
+          "titulo": "Buy, Sell or Hold LLY Stock? Key Factors to Watch Ahead of Q3 Earnings",
+          "resumen": "Lilly heads into Q3 earnings with Mounjaro, Zepbound and new drugs fueling growth, but pricing pressure, rising costs and competition pose challenges.",
+          "fuente": "Yahoo",
+          "fecha": "27 Oct 2026 11:53 UTC",
+          "url": "https://finnhub.io/api/news?id=e1e877e8dfac736c5090d96a9e307c110f856c9f2cf2db238cdd3dd590728e5c",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "ABVX": {
       "nombre": "ABVX",
@@ -361,54 +422,31 @@
     },
     "INSM": {
       "nombre": "INSM",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "INSM",
+          "titulo": "Will Kura Oncology (KURA) Report Negative Q3 Earnings? What You Should Know",
+          "resumen": "Kura Oncology (KURA) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+          "fuente": "Yahoo",
+          "fecha": "27 Oct 2026 13:00 UTC",
+          "url": "https://finnhub.io/api/news?id=e7ebb6350689952d47b6c6246f2f8f5a9bbbddc3d4f0750444359f6b9055b0af",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     }
   },
   "resumen": {
-    "total_noticias": 21,
-    "tickers_con_noticias": 7,
-    "alertas_urgentes": 6,
-    "sin_noticias": 10
+    "total_noticias": 27,
+    "tickers_con_noticias": 9,
+    "alertas_urgentes": 8,
+    "sin_noticias": 8
   },
   "todas_noticias": [
-    {
-      "ticker": "ARGX",
-      "titulo": "argenx (ENXTBR:ARGX) Reports Positive Phase 3 Data In Autoimmune Myositis",
-      "resumen": "Argenx (ENXTBR:ARGX) reported positive topline Phase 3 ALKIVIA trial results for VYVGART in autoimmune myositis patients. The study met its primary endpoint, showing clinically meaningful improvement over placebo in both IMNM and dermatomyositis groups. Management plans a late breaking oral presenta",
-      "fuente": "Yahoo",
-      "fecha": "24 Oct 2026 16:15 UTC",
-      "url": "https://finnhub.io/api/news?id=730b79878662b70acc7d4bfb935dd739c7ed58bad81608f06297e6f4c347d42c",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "argenx (ENXTBR:ARGX) Posted Q3 2026 Results, Is It Fully Priced?",
-      "resumen": "argenx (ENXTBR:ARGX) just released its Q3 2026 results, giving investors a detailed look at how its autoimmune portfolio is translating into revenue, profit and earnings per share. argenx shares trade at €782.2, with a 7.50% 7 day share price return but a 7.45% decline over the past month. That chop",
-      "fuente": "Yahoo",
-      "fecha": "25 Oct 2026 02:11 UTC",
-      "url": "https://finnhub.io/api/news?id=1935943cd9633ea92ca991cb6d8b1eddc148d52465ba680363a4a68f5d76b6f8",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "argenx (ENXTBR:ARGX) Stock Looks Overvalued After Its 202% Five Year Run",
-      "resumen": "argenx has delivered powerful long term gains, and the latest jump on fresh clinical data has put an even brighter spotlight on whether the current share price is adequately supported by its earnings. With the stock now back in focus after recent trial updates and sales headlines, the key issue for ",
-      "fuente": "Yahoo",
-      "fecha": "25 Oct 2026 04:16 UTC",
-      "url": "https://finnhub.io/api/news?id=5c4939b153c8cee6f35991fb14f4175ad4c5b7a64d8179805706370828af4ea2",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "VKTX",
       "titulo": "Why Viking Therapeutics’ Oral Obesity Strategy Will Be a Make-or-Break Focus on Oct. 28",
@@ -470,18 +508,6 @@
       "badge": "🔴"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals (VRTX) Earnings Expected to Grow: Should You Buy?",
-      "resumen": "Vertex (VRTX) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-      "fuente": "Yahoo",
-      "fecha": "26 Oct 2026 13:00 UTC",
-      "url": "https://finnhub.io/api/news?id=bdf18ee067ea52c5f3bd1f611b3a76971489aa2dbbfa8270d566be8aa6a65fc8",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
       "ticker": "ALNY",
       "titulo": "Analysts Estimate Krystal Biotech, Inc. (KRYS) to Report a Decline in Earnings: What to Look Out for",
       "resumen": "Krystal Biotech (KRYS) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
@@ -506,18 +532,6 @@
       "badge": "🔴"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "The $500 Million Non-CF Factor Vertex Investors Can’t Ignore on Nov. 2",
-      "resumen": "Vertex Pharmaceuticals (NASDAQ:VRTX) reports third-quarter results on Nov. 2. Cystic fibrosis still pays the bills, but I’ll be watching whether CASGEVY and JOURNAVX stay on pace for management’s $500 million non-CF revenue target. Diversification Picks Up Speed After a Raised Outlook Second-quarter",
-      "fuente": "Yahoo",
-      "fecha": "26 Oct 2026 13:45 UTC",
-      "url": "https://finnhub.io/api/news?id=d531d68b8d8bcb90235142450233bc793a628c4634ceaf8cac6c4cfb681acb07",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
       "ticker": "ALNY",
       "titulo": "Alnylam Reports Up to 83% Huntingtin Reduction, Eyes 2027 Pivotal Trial",
       "resumen": "Alnylam Pharmaceuticals (NASDAQ:ALNY) outlined early clinical data for brezosiran, an investigational RNA interference therapy for Huntington’s disease, reporting dose-dependent reductions in cerebrospinal fluid mutant huntingtin after a single intrathecal dose and plans to begin a placebo-controlle",
@@ -530,13 +544,13 @@
       "badge": "🔴"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "BHC Q3 Earnings Preview: Here's What You Should Know",
-      "resumen": "Bausch Health reports Q3 2026 results on Oct. 28, with $2.75 billion in expected sales. Explore key segment drivers and mixed earnings surprise history.",
-      "fuente": "Yahoo",
-      "fecha": "26 Oct 2026 17:33 UTC",
-      "url": "https://finnhub.io/api/news?id=4e46a0e6db0ca66685a362dfc0a8fde4e37b264e110896e42a90a4e16de6c6a2",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "ticker": "BEAM",
+      "titulo": "Beam Therapeutics Announces Initial Data From Its Ongoing Phase 1/2 Clinical Trial Evaluating BEAM-301 For Treatment Of Glycogen Storage Disease Type Ia; In The 40 Mg Cohort, Two Patients Achieved 15 ",
+      "resumen": "The data will be presented during a poster session at the 33rd Annual Congress of the European Society of Gene and Cell Therapy (ESGCT) in Hamburg, Germany. BEAM-301 is an investigational liver-targeting",
+      "fuente": "Benzinga",
+      "fecha": "27 Oct 2026 07:11 UTC",
+      "url": "https://finnhub.io/api/news?id=d908dd82229b9318e909efa8db173e169f23e902a2727f3563f0e5a4e9d5e6af",
+      "imagen": "",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
@@ -554,28 +568,124 @@
       "badge": "🔴"
     },
     {
-      "ticker": "OCUL",
-      "titulo": "Ocular Therapeutix: The Drug Won, The Stock Lost, And That's The Opportunity",
-      "resumen": "",
-      "fuente": "SeekingAlpha",
-      "fecha": "25 Oct 2026 04:34 UTC",
-      "url": "https://finnhub.io/api/news?id=4a3ee75dfc22616fcd122b38a4f30256ae7253941d7a002ab95f76e1abb48808",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "ticker": "BEAM",
+      "titulo": "Beam Therapeutics Reports Initial Clinical Data from Phase 1/2 Trial of BEAM-301, Demonstrating Proof of Concept for Genetic Correction in Glycogen Storage Disease Type Ia (GSDIa) at ESGCT 33rd Annual",
+      "resumen": "In the 40 mg Cohort, Two Patients Achieved 15 Hours of Controlled Fasting, Improvements in Glucose Control and No Longer Required Starch Supplementation Following Treatment Safety Profile of BEAM-301 Consistent with LNP-Based Therapies Beam Plans to Engage FDA on Potential Path to Approval; Enrollme",
+      "fuente": "Yahoo",
+      "fecha": "27 Oct 2026 11:00 UTC",
+      "url": "https://finnhub.io/api/news?id=a8e21a5955d69f17125da5d5ef8c3fbe09751ca68354780480ee0da3b270fcef",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Buy, Sell or Hold LLY Stock? Key Factors to Watch Ahead of Q3 Earnings",
+      "resumen": "Lilly heads into Q3 earnings with Mounjaro, Zepbound and new drugs fueling growth, but pricing pressure, rising costs and competition pose challenges.",
+      "fuente": "Yahoo",
+      "fecha": "27 Oct 2026 11:53 UTC",
+      "url": "https://finnhub.io/api/news?id=e1e877e8dfac736c5090d96a9e307c110f856c9f2cf2db238cdd3dd590728e5c",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "GPCR",
+      "titulo": "Buy, Sell or Hold LLY Stock? Key Factors to Watch Ahead of Q3 Earnings",
+      "resumen": "Lilly heads into Q3 earnings with Mounjaro, Zepbound and new drugs fueling growth, but pricing pressure, rising costs and competition pose challenges.",
+      "fuente": "Yahoo",
+      "fecha": "27 Oct 2026 11:53 UTC",
+      "url": "https://finnhub.io/api/news?id=e1e877e8dfac736c5090d96a9e307c110f856c9f2cf2db238cdd3dd590728e5c",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Will Kura Oncology (KURA) Report Negative Q3 Earnings? What You Should Know",
+      "resumen": "Kura Oncology (KURA) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+      "fuente": "Yahoo",
+      "fecha": "27 Oct 2026 13:00 UTC",
+      "url": "https://finnhub.io/api/news?id=e7ebb6350689952d47b6c6246f2f8f5a9bbbddc3d4f0750444359f6b9055b0af",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "VRTX",
-      "titulo": "Baron Health Care Fund: Q3 2026 New Positions And Exits",
+      "titulo": "BofA Names this Drugmaker a Top Pick on Promising Kidney Drug Data",
+      "resumen": "Investing.com -- BofA Securities kept this drugmaker a “top pick” and reiterated its “buy” rating and $667 price objective after the company presented new kidney drug data at the American Society of Nephrology meeting.",
+      "fuente": "Yahoo",
+      "fecha": "27 Oct 2026 13:09 UTC",
+      "url": "https://finnhub.io/api/news?id=ec7e39c6c4ea26add9e2e2c26a84f149da9e9de859dd8aad122a504ad06f0c21",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "Beam Therapeutics Inc. (BEAM) Reviews Initial Phase I II BEAM-301 Data in Glycogen Storage Disease Type 1a Transcript",
       "resumen": "",
       "fuente": "SeekingAlpha",
-      "fecha": "26 Oct 2026 04:05 UTC",
-      "url": "https://finnhub.io/api/news?id=f488331be4fc0aabb6b91d631958c54c2e6eedde32af3d9e4b889a6a1c65305b",
+      "fecha": "27 Oct 2026 13:10 UTC",
+      "url": "https://finnhub.io/api/news?id=9c56f4fbb2c33c9d9a672a04f90a89e4455868f62fa3084f8e07a43cd7f9b011",
       "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Gears Up to Report Q3 Earnings: Is a Beat in the Cards?",
+      "resumen": "VRTX is poised for a Q3 earnings beat as strong demand for Trikafta, Alyftrek's growth and rising Casgevy and Journavx sales drive expectations.",
+      "fuente": "Yahoo",
+      "fecha": "27 Oct 2026 14:15 UTC",
+      "url": "https://finnhub.io/api/news?id=70e62b90da2305d915aaeaffadc77c94587c3ff55459331078ba1baa93e20e3a",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "Beam Therapeutics Reports Early BEAM-301 Gains in GSD1a Fasting Tolerance",
+      "resumen": "Beam Therapeutics (NASDAQ:BEAM) reported initial clinical data from its Phase I/II trial of BEAM-301, an investigational base-editing therapy for glycogen storage disease type 1A (GSD1a), showing dose-dependent improvements in fasting tolerance and reductions in cornstarch supplementation among the",
+      "fuente": "Yahoo",
+      "fecha": "27 Oct 2026 15:05 UTC",
+      "url": "https://finnhub.io/api/news?id=945410230aae9a19aca3ce8d2deccb7900fc17fe179cc33059f81dbb81eb26df",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Amgen vs. Vertex Pharmaceuticals: Massive Pharmaceutical Scale vs. Steady Drug Revenue",
+      "resumen": "Amgen's quarterly revenue swings between $8.1B and $10.1B, while Vertex climbs steadily from $2.8B to $3.3B—a tale of scale versus trajectory.",
+      "fuente": "Yahoo",
+      "fecha": "27 Oct 2026 19:45 UTC",
+      "url": "https://finnhub.io/api/news?id=be2e3b21fd9eb83f339c1110580ecb3dd939370f9061276111c233345caa6506",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Enanta Pharmaceuticals Announces Planned Retirement of Longstanding Chief Executive Officer Jay R. Luly, Ph.D. After 23 Years of Company Leadership",
+      "resumen": "WATERTOWN, Mass., October 28, 2026--Enanta Pharmaceuticals, Inc. (NASDAQ:ENTA), a clinical-stage biotechnology company dedicated to creating small molecule drugs for viral infections and immunological diseases, announces today that Jay R. Luly, Ph.D., age 70, will retire as President and Chief Execu",
+      "fuente": "Yahoo",
+      "fecha": "28 Oct 2026 11:00 UTC",
+      "url": "https://finnhub.io/api/news?id=400e49e09f2ed8ca72a80ef211d3935c5dbd7c90ba9e6269dc54a47c8bcc59ba",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "VKTX",
@@ -590,25 +700,13 @@
       "badge": "🔵"
     },
     {
-      "ticker": "ALNY",
-      "titulo": "Alnylam: Amvuttra Growth And Brezosiran Strengthen The Bull Case",
-      "resumen": "",
-      "fuente": "SeekingAlpha",
-      "fecha": "26 Oct 2026 09:16 UTC",
-      "url": "https://finnhub.io/api/news?id=692b4a831910d14aac461a910f182048d7e41c57aaf536b196e23b178cb390d4",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals (VRTX) Stock Sinks As Market Gains: Here's Why",
-      "resumen": "In the closing of the recent trading day, Vertex Pharmaceuticals (VRTX) stood at $517.49, denoting a -1.23% move from the preceding trading day.",
-      "fuente": "Yahoo",
-      "fecha": "26 Oct 2026 20:50 UTC",
-      "url": "https://finnhub.io/api/news?id=258a4bb0d11945da722a9ae678431bdc0478cda5414a4d4cb72fbd2744f0a9d8",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "ticker": "ARGX",
+      "titulo": "$1000 Invested In argenx 5 Years Ago Would Be Worth This Much Today",
+      "resumen": "argenx (NASDAQ:ARGX) has outperformed the market over the past 5 years by 12.9% on an annualized basis producing an average annual return of 23.66%. Currently, argenx has a market capitalization of $55.07 billion.",
+      "fuente": "Benzinga",
+      "fecha": "26 Oct 2026 12:45 UTC",
+      "url": "https://finnhub.io/api/news?id=59c2e2106c8447b41bef8762b9807c2e362a8d48bdfabb8538bebafef7a6c186",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/valuestock_3.jpg?width=2048&height=1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
@@ -621,6 +719,54 @@
       "fecha": "26 Oct 2026 23:09 UTC",
       "url": "https://finnhub.io/api/news?id=23ea8fb07c33ab6c2d50e5714f7a05c691eeaa1269337f96f4f3807fdc81a2ac",
       "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "'Congo Ebola Cases Top 10,000 as Violence Hits Health Workers' - Bloomberg",
+      "resumen": "https://www.bloomberg.com/news/articles/2026-10-27/congo-ebola-cases-top-10-000-as-violence-hits-health-workers",
+      "fuente": "Benzinga",
+      "fecha": "27 Oct 2026 08:39 UTC",
+      "url": "https://finnhub.io/api/news?id=95726767ea7b66d20b5381df68a22970da167502b6140a3202f42d73c5eca337",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "BEAM Stock Climbs On First Look At One-Time GSDIa Gene Fix; H.C. Wainwright Sees Further 200% Upside",
+      "resumen": "BEAM-301 is a one-time liver-targeted treatment designed to correct a common genetic error that causes glycogen storage disease type Ia, or GSDIa.",
+      "fuente": "Yahoo",
+      "fecha": "27 Oct 2026 19:21 UTC",
+      "url": "https://finnhub.io/api/news?id=8838e2f7c9f2fe14a4853306d23d2117ff1a530023315b524172d80b8a117d38",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Has The Story Under Krystal Biotech Stock Run Out?",
+      "resumen": "For questions about this article or underlying research, email help@trefis.com.",
+      "fuente": "Yahoo",
+      "fecha": "28 Oct 2026 08:22 UTC",
+      "url": "https://finnhub.io/api/news?id=50369414139c9570024170afe54765b5d739a2ae5d4894cc11b8ece81e6c18ea",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Was The Run In Moderna Stock Hiding In Plain Sight?",
+      "resumen": "For questions about this article or underlying research, email help@trefis.com.",
+      "fuente": "Yahoo",
+      "fecha": "28 Oct 2026 09:24 UTC",
+      "url": "https://finnhub.io/api/news?id=45976c4a43252120c73689b1af05f881d286f2691dc77c640c4198c8979b8e79",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

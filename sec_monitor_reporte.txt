@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 28/10/2026 13:50 | Período: últimos 7 días
-Desde: 2026-10-21 → Hasta: 2026-10-28
+Generado: 29/10/2026 13:57 | Período: últimos 7 días
+Desde: 2026-10-22 → Hasta: 2026-10-29
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 3 filings | 🔴 0 | 🟢 0 | 🟡 1 | 🔵 2 | ✅ 14 sin novedad
+RESUMEN: 9 filings | 🔴 0 | 🟢 0 | 🟡 4 | 🔵 5 | ✅ 11 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -17,13 +17,25 @@ DETALLE POR TICKER — SEC EDGAR
      Insider: Kerr Douglas (Head of R&D and CMO) → Concesión 8,000 acciones @ $0.00 | Post: 170,564 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1818794/000181418926000007/xslF345X06/ownership.xml
   ✅ [DNLI] Sin novedades
-  ✅ [VKTX] Sin novedades
+
+  🟡 [VKTX] Viking Therapeutics, Inc. — 2 filing(s)
+     🟡 MEDIA 10-Q | 2026-10-29 | ⚖️ Litigios activos · 📋 Shelf mencionado
+     10-Q: ⚖️ Litigios activos · 📋 Shelf mencionado
+     → https://www.sec.gov/Archives/edgar/data/1607678/000119312526436432/vktx-20260930.htm
+     🔵 INFO 8-K | 2026-10-28 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1607678/000119312526436145/vktx-20261028.htm
 
   🔵 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 1 filing(s)
      🔵 INFO 4 | 2026-10-22 | Brennan Daniel J. (Director) → Concesión 795 acciones @ $503.47 | Post: 795 | Rutinaria/RSU/impuestos
      Insider: Brennan Daniel J. (Director) → Concesión 795 acciones @ $503.47 | Post: 795 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000283/xslF345X06/wk-form4_1792699856.xml
-  ✅ [ALNY] Sin novedades
+
+  🟡 [ALNY] ALNYLAM PHARMACEUTICALS, INC. — 2 filing(s)
+     🟡 MEDIA 10-Q | 2026-10-29 | Caja: $1754.3M · Shares: 133875.0M · ⚖️ Litigios activos
+     10-Q: Caja: $1754.3M · Shares: 133875.0M · ⚖️ Litigios activos
+     → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000076/alny-20260930.htm
+     🔵 INFO 8-K | 2026-10-29 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000074/alny-20261029.htm
   ✅ [BEAM] Sin novedades
   ✅ [OCUL] Sin novedades
   ✅ [CAI] Sin novedades
@@ -37,7 +49,13 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1781174/000090514826004554/xslF345X06/form4.xml
   ✅ [TARA] Sin novedades
   ✅ [SENS] Sin novedades
-  ✅ [INSM] Sin novedades
+
+  🟡 [INSM] INSMED Inc — 2 filing(s)
+     🔵 INFO 8-K | 2026-10-29 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1104506/000114036126041097/ef20084500_8k.htm
+     🟡 MEDIA 10-Q | 2026-10-29 | Caja: $396.6M · Burn: $116.0M/mes · Runway: 3 meses · Shares: 219.3M · ⚖️ Litigios activos
+     10-Q: Caja: $396.6M · Burn: $116.0M/mes · Runway: 3 meses · Shares: 219.3M · ⚖️ Litigios activos
+     → https://www.sec.gov/Archives/edgar/data/1104506/000110450626000047/insm-20260930.htm
   ⚪ [NWL] Sin CIK SEC
 
 ──────────────────────────────────────────────────

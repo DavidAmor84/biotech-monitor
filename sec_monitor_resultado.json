@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "28/10/2026 13:50",
+  "generado": "29/10/2026 13:57",
   "periodo_dias": 7,
-  "desde": "2026-10-21",
-  "hasta": "2026-10-28",
+  "desde": "2026-10-22",
+  "hasta": "2026-10-29",
   "resumen": {
-    "total_filings": 3,
+    "total_filings": 9,
     "alertas_rojas": 0,
     "alertas_verdes": 0,
-    "alertas_amarillas": 1,
-    "alertas_azules": 2,
-    "sin_novedad": 14
+    "alertas_amarillas": 4,
+    "alertas_azules": 5,
+    "sin_novedad": 11
   },
   "tickers": {
     "SNDX": {
@@ -90,9 +90,59 @@
       "cik": "0001607678",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "10-Q",
+          "fecha": "2026-10-29",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "⚖️ Litigios activos · 📋 Shelf mencionado",
+          "detalle": "10-Q",
+          "empresa_sec": "Viking Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526436432/vktx-20260930.htm",
+          "form4_detail": null,
+          "8k_detail": null,
+          "10q_detail": {
+            "caja_mm": null,
+            "burn_trimestral_mm": null,
+            "burn_mensual_mm": null,
+            "runway_meses": null,
+            "shares_outstanding_mm": null,
+            "litigios_detectados": true,
+            "shelf_mencionado": true,
+            "going_concern": false,
+            "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 677,609 &#160; &#160; $ 165,810 &#160; Short-term investments &#8211; available-for-sale &#160; &#160; 282,204 &#160; &#160; &#160; 539,929 &#160; Prepaid clinical trial and preclinical study costs &#160; &#160; 10,008 &#160; &#160; &#160; 8,053 &#160; Prepaid expe",
+            "resumen_10q": "⚖️ Litigios activos · 📋 Shelf mencionado"
+          },
+          "prospecto_detail": null
+        },
+        {
+          "form": "8-K",
+          "fecha": "2026-10-28",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "Viking Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526436145/vktx-20261028.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "2.02",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 2.02 Results of Operations and Financial Condition. On October 28, 2026, we issued a press release reporting our financial results for the third quarter ended September 30, 2026 and providing a corporate update. The full text of the press release is furnished as exhibit 99.1 to this Current Report on Form 8-K and incorporated herein by reference. In accordance with General Instructions B.2 of Form 8-K, the information in Item 2.02 of this Current Report on Form 8-K shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liability of that section, and shall not be incorporated by reference into any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No Description 99.1 Press release issued October 28, 2026, reporting financial results for the third quarter ended September 30, 2026 and providing a corporate update. 104 Cover Page Interactive Data File (embedded with the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Viking Therapeutics, Inc. Date: October 28, 2026 By: /s/ Brian Lian, Ph.D. President and Chief Executive Officer (Principal Executive Officer)",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "VRTX": {
@@ -139,9 +189,59 @@
       "cik": "0001178670",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "10-Q",
+          "fecha": "2026-10-29",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Caja: $1754.3M · Shares: 133875.0M · ⚖️ Litigios activos",
+          "detalle": "10-Q",
+          "empresa_sec": "ALNYLAM PHARMACEUTICALS, INC.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000076/alny-20260930.htm",
+          "form4_detail": null,
+          "8k_detail": null,
+          "10q_detail": {
+            "caja_mm": 1754.3,
+            "burn_trimestral_mm": null,
+            "burn_mensual_mm": null,
+            "runway_meses": null,
+            "shares_outstanding_mm": 133875.0,
+            "litigios_detectados": true,
+            "shelf_mencionado": false,
+            "going_concern": false,
+            "extracto_financiero": "30, 2026 December 31, 2025 ASSETS Current assets: Cash and cash equivalents $ 1,754,340 &#160; $ 1,657,250 &#160; Marketable debt securities 1,832,915 &#160; 1,251,234 &#160; Accounts receivable, net 1,084,905 &#160; 777,567 &#160; Inventory 105,907 &#160; 82,719 &#160; Prepaid expenses and other current assets 334,597 &#160; 281,892 &#160; Total c",
+            "resumen_10q": "Caja: $1754.3M · Shares: 133875.0M · ⚖️ Litigios activos"
+          },
+          "prospecto_detail": null
+        },
+        {
+          "form": "8-K",
+          "fecha": "2026-10-29",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "ALNYLAM PHARMACEUTICALS, INC.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000074/alny-20261029.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "2.02",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 2.02. Results of Operations and Financial Condition On October 29, 2026, Alnylam Pharmaceuticals, Inc. (the Company ) announced its financial results for the quarter ended September 30, 2026. The full text of the press release issued in connection with the announcement is furnished as Exhibit 99.1 to this Current Report on Form 8-K. The information in Item 2.02 of this Form 8-K (including Exhibit 99.1) shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing. Item 9.01. Financial Statements and Exhibits (d) Exhibits The following exhibit relating to Item 2.02 shall be deemed to be furnished, and not filed: 99.1 Press Release dated October 29, 2026 . 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Date: October 29, 2026 ALNYLAM PHARMACEUTICALS, INC. By: /s/ Jeffrey V. Poulton Jeffrey V. Poulton Executive Vice President, Chief Financial Officer",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "BEAM": {
@@ -276,9 +376,59 @@
       "cik": "0001104506",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "8-K",
+          "fecha": "2026-10-29",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "INSMED Inc",
+          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126041097/ef20084500_8k.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "2.02",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "ITEM 2.02 Results of Operations and Financial Condition. On October 29, 2026, Insmed Incorporated (the Company ) issued a press release regarding its financial results for the third quarter ended September 30, 2026. A copy of this press release is furnished herewith as Exhibit 99.1 pursuant to this Item 2.02. The slide presentation to be used during the conference call referenced in the press release is attached hereto as Exhibit 99.2 and incorporated herein by reference. The information contained herein, including the exhibits attached hereto, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or incorporated by reference in any filing under the Securities Act or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing. ITEM 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press release issued by Insmed Incorporated on October 29, 2026. 99.2 Insmed Incorporated October 29, 2026 Presentation. 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Dated: October 29, 2026 INSMED INCORPORATED By: /s/ Michael A. Smith Name: Michael A. Smith Title: Chief Legal Officer and Secretary",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
+          "form": "10-Q",
+          "fecha": "2026-10-29",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Caja: $396.6M · Burn: $116.0M/mes · Runway: 3 meses · Shares: 219.3M · ⚖️ Litigios activos",
+          "detalle": "10-Q",
+          "empresa_sec": "INSMED Inc",
+          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000110450626000047/insm-20260930.htm",
+          "form4_detail": null,
+          "8k_detail": null,
+          "10q_detail": {
+            "caja_mm": 396.6,
+            "burn_trimestral_mm": 348.0,
+            "burn_mensual_mm": 116.0,
+            "runway_meses": 3,
+            "shares_outstanding_mm": 219.3,
+            "litigios_detectados": true,
+            "shelf_mencionado": false,
+            "going_concern": false,
+            "extracto_financiero": "ember 31, 2025 (unaudited) Assets Current assets: Cash and cash equivalents $ 396,563 &#160; $ 510,445 &#160; Marketable securities 750,063 &#160; 919,602 &#160; Accounts receivable 259,270 &#160; 140,857 &#160; Inventory 163,946 &#160; 132,068 &#160; Prepaid expenses and other current assets 136,665 &#160; 91,236 &#160; Total current assets 1,706,",
+            "resumen_10q": "Caja: $396.6M · Burn: $116.0M/mes · Runway: 3 meses · Shares: 219.3M · ⚖️ Litigios activos"
+          },
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "NWL": {
@@ -291,6 +441,165 @@
   },
   "alertas_criticas": [],
   "todos_filings": [
+    {
+      "ticker": "VKTX",
+      "nombre": "Viking Therapeutics, Inc.",
+      "form": "10-Q",
+      "fecha": "2026-10-29",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "⚖️ Litigios activos · 📋 Shelf mencionado",
+      "detalle": "10-Q",
+      "empresa_sec": "Viking Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526436432/vktx-20260930.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": {
+        "caja_mm": null,
+        "burn_trimestral_mm": null,
+        "burn_mensual_mm": null,
+        "runway_meses": null,
+        "shares_outstanding_mm": null,
+        "litigios_detectados": true,
+        "shelf_mencionado": true,
+        "going_concern": false,
+        "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 677,609 &#160; &#160; $ 165,810 &#160; Short-term investments &#8211; available-for-sale &#160; &#160; 282,204 &#160; &#160; &#160; 539,929 &#160; Prepaid clinical trial and preclinical study costs &#160; &#160; 10,008 &#160; &#160; &#160; 8,053 &#160; Prepaid expe",
+        "resumen_10q": "⚖️ Litigios activos · 📋 Shelf mencionado"
+      },
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "ALNY",
+      "nombre": "ALNYLAM PHARMACEUTICALS, INC.",
+      "form": "10-Q",
+      "fecha": "2026-10-29",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Caja: $1754.3M · Shares: 133875.0M · ⚖️ Litigios activos",
+      "detalle": "10-Q",
+      "empresa_sec": "ALNYLAM PHARMACEUTICALS, INC.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000076/alny-20260930.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": {
+        "caja_mm": 1754.3,
+        "burn_trimestral_mm": null,
+        "burn_mensual_mm": null,
+        "runway_meses": null,
+        "shares_outstanding_mm": 133875.0,
+        "litigios_detectados": true,
+        "shelf_mencionado": false,
+        "going_concern": false,
+        "extracto_financiero": "30, 2026 December 31, 2025 ASSETS Current assets: Cash and cash equivalents $ 1,754,340 &#160; $ 1,657,250 &#160; Marketable debt securities 1,832,915 &#160; 1,251,234 &#160; Accounts receivable, net 1,084,905 &#160; 777,567 &#160; Inventory 105,907 &#160; 82,719 &#160; Prepaid expenses and other current assets 334,597 &#160; 281,892 &#160; Total c",
+        "resumen_10q": "Caja: $1754.3M · Shares: 133875.0M · ⚖️ Litigios activos"
+      },
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "ALNY",
+      "nombre": "ALNYLAM PHARMACEUTICALS, INC.",
+      "form": "8-K",
+      "fecha": "2026-10-29",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "ALNYLAM PHARMACEUTICALS, INC.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000074/alny-20261029.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "2.02",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 2.02. Results of Operations and Financial Condition On October 29, 2026, Alnylam Pharmaceuticals, Inc. (the Company ) announced its financial results for the quarter ended September 30, 2026. The full text of the press release issued in connection with the announcement is furnished as Exhibit 99.1 to this Current Report on Form 8-K. The information in Item 2.02 of this Form 8-K (including Exhibit 99.1) shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing. Item 9.01. Financial Statements and Exhibits (d) Exhibits The following exhibit relating to Item 2.02 shall be deemed to be furnished, and not filed: 99.1 Press Release dated October 29, 2026 . 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Date: October 29, 2026 ALNYLAM PHARMACEUTICALS, INC. By: /s/ Jeffrey V. Poulton Jeffrey V. Poulton Executive Vice President, Chief Financial Officer",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "INSM",
+      "nombre": "INSMED Inc",
+      "form": "8-K",
+      "fecha": "2026-10-29",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "INSMED Inc",
+      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126041097/ef20084500_8k.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "2.02",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "ITEM 2.02 Results of Operations and Financial Condition. On October 29, 2026, Insmed Incorporated (the Company ) issued a press release regarding its financial results for the third quarter ended September 30, 2026. A copy of this press release is furnished herewith as Exhibit 99.1 pursuant to this Item 2.02. The slide presentation to be used during the conference call referenced in the press release is attached hereto as Exhibit 99.2 and incorporated herein by reference. The information contained herein, including the exhibits attached hereto, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or incorporated by reference in any filing under the Securities Act or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing. ITEM 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press release issued by Insmed Incorporated on October 29, 2026. 99.2 Insmed Incorporated October 29, 2026 Presentation. 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Dated: October 29, 2026 INSMED INCORPORATED By: /s/ Michael A. Smith Name: Michael A. Smith Title: Chief Legal Officer and Secretary",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "INSM",
+      "nombre": "INSMED Inc",
+      "form": "10-Q",
+      "fecha": "2026-10-29",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Caja: $396.6M · Burn: $116.0M/mes · Runway: 3 meses · Shares: 219.3M · ⚖️ Litigios activos",
+      "detalle": "10-Q",
+      "empresa_sec": "INSMED Inc",
+      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000110450626000047/insm-20260930.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": {
+        "caja_mm": 396.6,
+        "burn_trimestral_mm": 348.0,
+        "burn_mensual_mm": 116.0,
+        "runway_meses": 3,
+        "shares_outstanding_mm": 219.3,
+        "litigios_detectados": true,
+        "shelf_mencionado": false,
+        "going_concern": false,
+        "extracto_financiero": "ember 31, 2025 (unaudited) Assets Current assets: Cash and cash equivalents $ 396,563 &#160; $ 510,445 &#160; Marketable securities 750,063 &#160; 919,602 &#160; Accounts receivable 259,270 &#160; 140,857 &#160; Inventory 163,946 &#160; 132,068 &#160; Prepaid expenses and other current assets 136,665 &#160; 91,236 &#160; Total current assets 1,706,",
+        "resumen_10q": "Caja: $396.6M · Burn: $116.0M/mes · Runway: 3 meses · Shares: 219.3M · ⚖️ Litigios activos"
+      },
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "VKTX",
+      "nombre": "Viking Therapeutics, Inc.",
+      "form": "8-K",
+      "fecha": "2026-10-28",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Viking Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1607678/000119312526436145/vktx-20261028.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "2.02",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 2.02 Results of Operations and Financial Condition. On October 28, 2026, we issued a press release reporting our financial results for the third quarter ended September 30, 2026 and providing a corporate update. The full text of the press release is furnished as exhibit 99.1 to this Current Report on Form 8-K and incorporated herein by reference. In accordance with General Instructions B.2 of Form 8-K, the information in Item 2.02 of this Current Report on Form 8-K shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liability of that section, and shall not be incorporated by reference into any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No Description 99.1 Press release issued October 28, 2026, reporting financial results for the third quarter ended September 30, 2026 and providing a corporate update. 104 Cover Page Interactive Data File (embedded with the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Viking Therapeutics, Inc. Date: October 28, 2026 By: /s/ Brian Lian, Ph.D. President and Chief Executive Officer (Principal Executive Officer)",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "ACRV",
       "nombre": "Acrivon Therapeutics, Inc.",

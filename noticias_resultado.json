@@ -1,8 +1,8 @@
 {
-  "generado": "29/10/2026 14:12 UTC",
+  "generado": "30/10/2026 14:03 UTC",
   "plazo_horas": 72,
-  "desde": "2026-10-26",
-  "hasta": "2026-10-29",
+  "desde": "2026-10-27",
+  "hasta": "2026-10-30",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -28,6 +28,18 @@
       "noticias": [
         {
           "ticker": "ARGX",
+          "titulo": "European Equities Traded in the US as American Depositary Receipts Rise in Thursday Trading",
+          "resumen": "European equities traded in the US as American depositary receipts were tracking higher late Thursda",
+          "fuente": "Yahoo",
+          "fecha": "29 Oct 2026 15:36 UTC",
+          "url": "https://finnhub.io/api/news?id=0b12d9cc816556f0c1e0c2490489093c6b02c31286045584fe4287907058ec88",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ARGX",
           "titulo": "Citigroup Maintains Buy on argenx, Lowers Price Target to $1232",
           "resumen": "Citigroup  analyst Samantha Semenkow   maintains argenx (NASDAQ:ARGX) with a Buy and lowers the price target from $1301 to $1232.",
           "fuente": "Benzinga",
@@ -40,7 +52,7 @@
         }
       ],
       "nivel": "azul",
-      "total": 1
+      "total": 2
     },
     "DYN": {
       "nombre": "DYN",
@@ -72,23 +84,23 @@
       "noticias": [
         {
           "ticker": "VKTX",
-          "titulo": "Viking Therapeutics: Why A Successful Maintenance Readout Couldn't Save The Stock",
-          "resumen": "Viking Therapeutics faces dilution risk, rising costs, and tough obesity drug competition. Read here for a detailed analysis of VKTX stock.",
+          "titulo": "Viking Therapeutics: Q3 Update - Why You Can't Discount This GLP-1 Player (Yet)",
+          "resumen": "Viking Therapeutics, Inc. is advancing VK2735, a dual GLP-1/GIP agonist, targeting the obesity and diabetes market. I rate VKTX stock as Hold. Read my full update now.",
           "fuente": "SeekingAlpha",
-          "fecha": "29 Oct 2026 07:30 UTC",
-          "url": "https://finnhub.io/api/news?id=eecc10fab763a2c8a2f538ee00a9ccd67ed6171425889dceb201f8b9c27d9c86",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2267949295/image_2267949295.jpg?io=getty-c-w1536",
+          "fecha": "29 Oct 2026 16:13 UTC",
+          "url": "https://finnhub.io/api/news?id=7bd614fe8371da40056630e2a9671b07a58c834c25804e5f2a60a014af42bbc4",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2214954845/image_2214954845.jpg?io=getty-c-w1536",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         },
         {
           "ticker": "VKTX",
-          "titulo": "Viking Therapeutics Q3 Earnings Call Highlights",
-          "resumen": "Viking Therapeutics (NASDAQ:VKTX) reported a wider third-quarter loss as it increased spending on late-stage obesity programs, while advancing phase III studies of both injectable and oral versions of its lead candidate, VK2735. The company reported a net loss of $183.2 million, or $1.55 per share,",
+          "titulo": "VKTX Q3 Earnings Miss Estimates Amid Rising Clinical Expenses",
+          "resumen": "Viking Therapeutics' Q3 loss widens as rising costs weigh on results, while its obesity drug candidate advances through phase III studies.",
           "fuente": "Yahoo",
-          "fecha": "29 Oct 2026 06:04 UTC",
-          "url": "https://finnhub.io/api/news?id=11a34bc4be01f0a0d864a91c805dd51ffc7380a211f6434f9fa769f71bca1292",
+          "fecha": "29 Oct 2026 15:52 UTC",
+          "url": "https://finnhub.io/api/news?id=98aa79fe17897d152ce7b38788a2c14c9e4cfd76d77b62cc3b4bf33dc06e8beb",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -96,11 +108,11 @@
         },
         {
           "ticker": "VKTX",
-          "titulo": "Viking (VKTX) Q3 2026 Earnings Call Transcript",
-          "resumen": "VK2735 obesity drug shows up to 22% weight loss with less frequent dosing schedules.",
+          "titulo": "LLY Stock Jumps as Q3 Earnings Beat Estimates, 2026 Sales View Raised",
+          "resumen": "Lilly's Q3 earnings and sales beat estimates, driven by Mounjaro and Zepbound, as the company raises its 2026 revenue outlook to $91-$92 billion.",
           "fuente": "Yahoo",
-          "fecha": "29 Oct 2026 04:13 UTC",
-          "url": "https://finnhub.io/api/news?id=157474ee1ab058635ed4b1cfab005af7fe2ea0c2c485f5adcafb95bbfd501ca4",
+          "fecha": "29 Oct 2026 14:21 UTC",
+          "url": "https://finnhub.io/api/news?id=042ad2ddaa4e705b1eeae802ae922826aa2b54f6791e7ec37f50668d5da85680",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -108,24 +120,24 @@
         },
         {
           "ticker": "VKTX",
-          "titulo": "VKTX Stock Slides Overnight After Q3 Loss: CEO’s Obesity Drug Launch Timeline Frustrates Retail",
-          "resumen": "CEO Brian Lian said a potential launch of obesity drug VK2735 remained about 2 and a half years away.",
+          "titulo": "Eli Lilly Jumps 8% as Strong Quarter Lifts Revenue Outlook; Novo Nordisk Ticks Up, Viking Therapeutics Eases",
+          "resumen": "Eli Lilly (NYSE:LLY) just extended its lead in obesity drugs, and its newer cancer, immunology and neuroscience products are starting to matter, while the rest of the glucagon-like peptide-1 (GLP-1) group is barely moving. Eli Lilly stock is trading at $1,393, up 8%. Taking a look at the peers, Novo",
           "fuente": "Yahoo",
-          "fecha": "29 Oct 2026 01:40 UTC",
-          "url": "https://finnhub.io/api/news?id=3053388317beff67e9b08646b3b0e03e9efe6ac718490ebe0c2d99ca7790d167",
+          "fecha": "29 Oct 2026 14:03 UTC",
+          "url": "https://finnhub.io/api/news?id=260ae81946fd64e806850fb6a8f5d4ab6ae2931c10c21f902abb692c8019abb7",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
         },
         {
           "ticker": "VKTX",
-          "titulo": "Viking Therapeutics (NASDAQ:VKTX) Q3 2026 Earnings: Wider Loss as Obesity Pipeline Advances",
-          "resumen": "Viking Therapeutics reports no Q3 revenue and a wider EPS loss, while advancing VK2735 obesity trials; shares slip after hours.",
-          "fuente": "ChartMill",
-          "fecha": "28 Oct 2026 21:54 UTC",
-          "url": "https://finnhub.io/api/news?id=88e45e6618f426a1b252ff1bec45289bd7c63273e95eedffe384d23212e6c999",
-          "imagen": "https://www.chartmill.com/images/uploads/earnings_article_1_defce97180.webp",
+          "titulo": "VKTX Q3 Earnings Call Highlights Obesity Pipeline Progress",
+          "resumen": "Viking Therapeutics advances its Phase III obesity trials, reports promising VK2735 maintenance data and strengthens its cash position despite widening losses.",
+          "fuente": "Yahoo",
+          "fecha": "29 Oct 2026 13:00 UTC",
+          "url": "https://finnhub.io/api/news?id=54ec1ef68a258016333deaab9e476876772691e28a4db77f951817ae8607b613",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
@@ -137,6 +149,30 @@
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
+        {
+          "ticker": "VRTX",
+          "titulo": "Why Did Insmed Stock Jump?",
+          "resumen": "For questions about this article or underlying research, email help@trefis.com.",
+          "fuente": "Yahoo",
+          "fecha": "30 Oct 2026 11:15 UTC",
+          "url": "https://finnhub.io/api/news?id=0c12fe4d164f588c8d578a8f8ba4f5d91be11af4c8e6761868f747179df8eb66",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "After-Hours S&P 500 Movers: Mondelez and FedEx Freight Gain, Intel and Reddit Fall",
+          "resumen": "S&P 500 after-hours movers: Mondelez International and FedEx Freight were among gainers, while Intel and Reddit were among decliners after today's U.S. session.",
+          "fuente": "ChartMill",
+          "fecha": "29 Oct 2026 22:06 UTC",
+          "url": "https://finnhub.io/api/news?id=d18d7bab7797845f13b99c24f319750b03a8c72d11cbced0745eeeaf580067bc",
+          "imagen": "https://www.chartmill.com/images/uploads/CM_Aftermarket_Movers_Small_free_e077945a19.webp",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "VRTX",
           "titulo": "Can Iovance Stock Fall 50%?",
@@ -172,30 +208,6 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Ahead of Vertex (VRTX) Q3 Earnings: Get Ready With Wall Street Estimates for Key Metrics",
-          "resumen": "Evaluate the expected performance of Vertex (VRTX) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
-          "fuente": "Yahoo",
-          "fecha": "28 Oct 2026 12:15 UTC",
-          "url": "https://finnhub.io/api/news?id=30fcf96a1dba883e8fdada66504c27cb9ed6f7172330bd4b02d36ea375f40191",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "What Would Slower New Drug Sales Do To Vertex Stock?",
-          "resumen": "For questions about this article or underlying research, email help@trefis.com.",
-          "fuente": "Yahoo",
-          "fecha": "28 Oct 2026 12:01 UTC",
-          "url": "https://finnhub.io/api/news?id=c10e8d8b8dc6064c86848c03fc02a1f9204b3b28e4bf018d6f26368bc391a9a5",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -206,23 +218,35 @@
       "noticias": [
         {
           "ticker": "ALNY",
-          "titulo": "Premarket Gainers and Losers on Oct. 29, 2026",
-          "resumen": "Premarket movers on Oct. 29, 2026 include NCPL, PCLA, INLF, NUWE, BURU, INSM, CROX, GKOS, MAX, PRCH, IOVA, XRX, FTNT, SFM, TWI, ALNY and NOW.",
-          "fuente": "ChartMill",
-          "fecha": "29 Oct 2026 13:30 UTC",
-          "url": "https://finnhub.io/api/news?id=b095590ce92693bac7642b3c2743ed64b05fd72d0f89f477b9049a880f33c0f2",
-          "imagen": "https://www.chartmill.com/images/uploads/CM_Premarket_Movers_Small_free_90289f6b81.webp",
+          "titulo": "This Honeywell Aerospace Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Friday",
+          "resumen": "Analysts downgraded Honeywell Aerospace, Intel, Bright Horizons, Alnylam and Maplebear, cutting ratings and several price targets.",
+          "fuente": "Benzinga",
+          "fecha": "30 Oct 2026 07:56 UTC",
+          "url": "https://finnhub.io/api/news?id=e813ce65bd22eb2610823524bac34cdd051f878039a6ec90991a55188fc53210",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/30/Operations-Research-Analysts.jpg?width=2048&height=1536",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         },
         {
           "ticker": "ALNY",
-          "titulo": "What Alnylam Pharmaceuticals (ALNY)'s Huntingtons Drug Trial Results Mean For Shareholders",
-          "resumen": "Alnylam Pharmaceuticals reported initial Phase 1b data for brezosiran in Huntington’s disease, with single intrathecal doses linked to dose-dependent reductions in mutant huntingtin protein and an encouraging safety profile over follow up periods of up to 12 months. The program is now positioned as ",
+          "titulo": "Alnylam Pharmaceuticals, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+          "resumen": "2026-10-30. The following slide deck was published by Alnylam Pharmaceuticals, Inc.",
+          "fuente": "SeekingAlpha",
+          "fecha": "30 Oct 2026 05:53 UTC",
+          "url": "https://finnhub.io/api/news?id=74e75e3f8f7d4de6db7335a496c01bec4f892082fe2ec99c78cf2bddb3080bb3",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "What Investors Got Wrong About Alnylam Pharmaceuticals Before A 61% Slide",
+          "resumen": "Alnylam Pharmaceuticals has spent the past year in the headlines, from positive HELIOS-B data to a new AI drug discovery deal with Inceptive Nucleics worth up to US$2b. Investors who held Alnylam Pharmaceuticals over the past year are down 61.3%, including dividends. If you had bought on 29 October ",
           "fuente": "Yahoo",
-          "fecha": "28 Oct 2026 22:06 UTC",
-          "url": "https://finnhub.io/api/news?id=32a817a9b63979a7ef62f4eabddb64fc0b465bbc0fd14fe90e43041ee2e44cc6",
+          "fecha": "30 Oct 2026 04:31 UTC",
+          "url": "https://finnhub.io/api/news?id=d3e6ba5d4da9099fe265d348d9da71e0c3e57944e92107c571ed2ff19e11cab9",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -230,11 +254,11 @@
         },
         {
           "ticker": "ALNY",
-          "titulo": "Alnylam Pharmaceuticals (ALNY) Stock Looks Fully Priced Following Its 52% Fall",
-          "resumen": "Alnylam Pharmaceuticals has seen its share price fall sharply over the past year, even as fresh clinical data on its Huntington's disease program has attracted attention. That mix of price pressure and new trial results raises a clear question for investors who follow Alnylam: whether the current va",
+          "titulo": "Alnylam Pharmaceuticals, Inc. Q3 2026 Earnings Call Summary",
+          "resumen": "Moby summary of Alnylam Pharmaceuticals, Inc.'s Q3 2026 earnings call",
           "fuente": "Yahoo",
-          "fecha": "28 Oct 2026 19:06 UTC",
-          "url": "https://finnhub.io/api/news?id=d70e6aa07332a026a2a3546591fb710e9fd116f14b37e24d527e9a2c778b8d78",
+          "fecha": "29 Oct 2026 21:09 UTC",
+          "url": "https://finnhub.io/api/news?id=cd5e81bc477daaf08b633621174d851e49f9937eb2cf827474203f0203b93407",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -242,27 +266,15 @@
         },
         {
           "ticker": "ALNY",
-          "titulo": "Alnylam Pharmaceuticals (ALNY) Could Be 39% Undervalued Following Brezosiran Data",
-          "resumen": "How the brezosiran data frames Alnylam Pharmaceuticals today Alnylam Pharmaceuticals (ALNY) just put fresh Phase 1b data for its Huntington’s disease candidate brezosiran in front of investors, with early signs of target engagement and an upcoming pivotal trial plan shaping sentiment around the stoc",
+          "titulo": "ALNY Stock Hits Fresh 52-Week Low On Medicare Access Worries And Pipeline Delays",
+          "resumen": "Alnylam management said it now expects full-year TTR product sales to land at the low end of its $4.2 billion to $4.5 billion range.",
           "fuente": "Yahoo",
-          "fecha": "28 Oct 2026 17:09 UTC",
-          "url": "https://finnhub.io/api/news?id=7080545614cc0bf80076389f6422b0d7679fc40b53771716042437c7240c3a31",
+          "fecha": "29 Oct 2026 18:26 UTC",
+          "url": "https://finnhub.io/api/news?id=fd9f704309c0f6dcd6548f0913c01f681dc84bc1c0871ebea1e34ad274bf7f2a",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Alnylam (ALNY) Q3 Earnings on the Horizon: Analysts' Insights on Key Performance Measures",
-          "resumen": "Get a deeper insight into the potential performance of Alnylam (ALNY) for the quarter ended September 2026 by going beyond Wall Street's top-and-bottom-line estimates and examining the estimates for some of its key metrics.",
-          "fuente": "Yahoo",
-          "fecha": "28 Oct 2026 12:15 UTC",
-          "url": "https://finnhub.io/api/news?id=b099c663fb8590af53f2585259a0f1fdd57c2588bdab51fd3dd041e63f837dc1",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -273,11 +285,23 @@
       "noticias": [
         {
           "ticker": "BEAM",
-          "titulo": "BEAM Stock Climbs On First Look At One-Time GSDIa Gene Fix; H.C. Wainwright Sees Further 200% Upside",
-          "resumen": "BEAM-301 is a one-time liver-targeted treatment designed to correct a common genetic error that causes glycogen storage disease type Ia, or GSDIa.",
+          "titulo": "Beam Therapeutics Inc. (BEAM) Reviews Initial Phase I II BEAM-301 Data in Glycogen Storage Disease Type 1a - Slideshow",
+          "resumen": "2026-10-29. The following slide deck was published by Beam Therapeutics Inc.",
+          "fuente": "SeekingAlpha",
+          "fecha": "29 Oct 2026 19:14 UTC",
+          "url": "https://finnhub.io/api/news?id=62df6ba09f2421dc5ca006bcf56bb74a27095900715e9ce8da310ce6c7564864",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "BEAM",
+          "titulo": "Global Gene Writing Technology Market Report 2026: Size, Trends, and Forecast to 2030 | Capitalize on 24.8% CAGR with Beam, Twist Bioscience, Tessera, and Intellia",
+          "resumen": "Key players include Beam Therapeutics, Twist Bioscience, Sangamo, Editas Medicine and Tessera Therapeutics. Profiles cover gene-writing technologies, products, applications, trends and competition.Dublin, Oct. 29, 2026 (GLOBE NEWSWIRE) -- \"Gene Writing Technology Global Market Report 2026\" has been ",
           "fuente": "Yahoo",
-          "fecha": "27 Oct 2026 19:21 UTC",
-          "url": "https://finnhub.io/api/news?id=8838e2f7c9f2fe14a4853306d23d2117ff1a530023315b524172d80b8a117d38",
+          "fecha": "29 Oct 2026 15:30 UTC",
+          "url": "https://finnhub.io/api/news?id=f6653b9d453188f51e026d3f23191179d08563f66907430feb3e34d32829025b",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
@@ -285,11 +309,11 @@
         },
         {
           "ticker": "BEAM",
-          "titulo": "Beam Therapeutics Reports Early BEAM-301 Gains in GSD1a Fasting Tolerance",
-          "resumen": "Beam Therapeutics (NASDAQ:BEAM) reported initial clinical data from its Phase I/II trial of BEAM-301, an investigational base-editing therapy for glycogen storage disease type 1A (GSD1a), showing dose-dependent improvements in fasting tolerance and reductions in cornstarch supplementation among the",
+          "titulo": "Monte Rosa Therapeutics (GLUE) May Report Negative Earnings: Know the Trend Ahead of Q3 Release",
+          "resumen": "Monte Rosa Therapeutics (GLUE) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
           "fuente": "Yahoo",
-          "fecha": "27 Oct 2026 15:05 UTC",
-          "url": "https://finnhub.io/api/news?id=945410230aae9a19aca3ce8d2deccb7900fc17fe179cc33059f81dbb81eb26df",
+          "fecha": "29 Oct 2026 13:00 UTC",
+          "url": "https://finnhub.io/api/news?id=d001299415c48b4f1fc9204ad363234f0d53244d846254c9cfb69d3af4e48cc0",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -297,23 +321,11 @@
         },
         {
           "ticker": "BEAM",
-          "titulo": "Beam Therapeutics Inc. (BEAM) Reviews Initial Phase I II BEAM-301 Data in Glycogen Storage Disease Type 1a Transcript",
-          "resumen": "",
-          "fuente": "SeekingAlpha",
-          "fecha": "27 Oct 2026 13:10 UTC",
-          "url": "https://finnhub.io/api/news?id=9c56f4fbb2c33c9d9a672a04f90a89e4455868f62fa3084f8e07a43cd7f9b011",
-          "imagen": "",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "BEAM",
-          "titulo": "Beam Therapeutics Reports Initial Clinical Data from Phase 1/2 Trial of BEAM-301, Demonstrating Proof of Concept for Genetic Correction in Glycogen Storage Disease Type Ia (GSDIa) at ESGCT 33rd Annual",
-          "resumen": "In the 40 mg Cohort, Two Patients Achieved 15 Hours of Controlled Fasting, Improvements in Glucose Control and No Longer Required Starch Supplementation Following Treatment Safety Profile of BEAM-301 Consistent with LNP-Based Therapies Beam Plans to Engage FDA on Potential Path to Approval; Enrollme",
+          "titulo": "Why Beam Therapeutics Stock Is Up 15.6% And What's Next",
+          "resumen": "Beam Therapeutics released early Phase 1/2 data for BEAM-301 in glycogen storage disease type Ia, reporting acceptable safety and dose-dependent gains in fasting tolerance, plus reduced reliance on starch supplementation in treated patients. Two patients on the 40 mg dose reached the trial’s 15 hour",
           "fuente": "Yahoo",
-          "fecha": "27 Oct 2026 11:00 UTC",
-          "url": "https://finnhub.io/api/news?id=a8e21a5955d69f17125da5d5ef8c3fbe09751ca68354780480ee0da3b270fcef",
+          "fecha": "29 Oct 2026 10:14 UTC",
+          "url": "https://finnhub.io/api/news?id=db750b971e09680278a12dabb59024bf470e035f384d443296def3c74987c0a4",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -321,12 +333,12 @@
         },
         {
           "ticker": "BEAM",
-          "titulo": "Beam Therapeutics Announces Initial Data From Its Ongoing Phase 1/2 Clinical Trial Evaluating BEAM-301 For Treatment Of Glycogen Storage Disease Type Ia; In The 40 Mg Cohort, Two Patients Achieved 15 ",
-          "resumen": "The data will be presented during a poster session at the 33rd Annual Congress of the European Society of Gene and Cell Therapy (ESGCT) in Hamburg, Germany. BEAM-301 is an investigational liver-targeting",
-          "fuente": "Benzinga",
-          "fecha": "27 Oct 2026 07:11 UTC",
-          "url": "https://finnhub.io/api/news?id=d908dd82229b9318e909efa8db173e169f23e902a2727f3563f0e5a4e9d5e6af",
-          "imagen": "",
+          "titulo": "Beam Therapeutics (BEAM) Moves 15.6% Higher: Will This Strength Last?",
+          "resumen": "Beam Therapeutics (BEAM) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions may not translate into further price increase in the near term.",
+          "fuente": "Yahoo",
+          "fecha": "29 Oct 2026 07:50 UTC",
+          "url": "https://finnhub.io/api/news?id=3ea40d38633dedea30c7f0aab952f459a2988b64318881e502485e1db3563304",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
@@ -337,13 +349,38 @@
     },
     "OCUL": {
       "nombre": "OCUL",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "OCUL",
+          "titulo": "Ocular Therapeutix™ to Participate in November Investor and Scientific Conferences",
+          "resumen": "BEDFORD, Mass., Oct. 29, 2026 (GLOBE NEWSWIRE) -- Ocular Therapeutix, Inc. (NASDAQ: OCUL, “Ocular”), an integrated biopharmaceutical company committed to redefining the retina experience, today announced participation in several upcoming investor and scientific conferences in November 2026. Upcoming",
+          "fuente": "Yahoo",
+          "fecha": "29 Oct 2026 11:00 UTC",
+          "url": "https://finnhub.io/api/news?id=c59da6e5af4b91e3fdaf01f04a3e1a5342cce70182f53d928f82d66d196ffb7d",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "CAI": {
       "nombre": "CAI",
       "noticias": [
+        {
+          "ticker": "CAI",
+          "titulo": "Viatris (VTRS) Expected to Beat Earnings Estimates: Should You Buy?",
+          "resumen": "Viatris (VTRS) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+          "fuente": "Yahoo",
+          "fecha": "29 Oct 2026 13:00 UTC",
+          "url": "https://finnhub.io/api/news?id=add89296457e9e35bda869e1ee1f5142aabb929f6fee508a1aa87b3f921178ae",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "CAI",
           "titulo": "Analysts Estimate Caris Life Sciences,?Inc. (CAI) to Report a Decline in Earnings: What to Look Out for",
@@ -355,18 +392,6 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "CAI",
-          "titulo": "BTIG Maintains Buy on Caris Life Sciences, Raises Price Target to $38",
-          "resumen": "BTIG  analyst Mark Massaro   maintains Caris Life Sciences (NASDAQ:CAI) with a Buy and raises the price target from $33 to $38.",
-          "fuente": "Benzinga",
-          "fecha": "27 Oct 2026 12:50 UTC",
-          "url": "https://finnhub.io/api/news?id=2c3034e597a9f4ae45cb3a93517ac7cb1d967baa51131a647cd00e59912be35b",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -374,22 +399,9 @@
     },
     "GPCR": {
       "nombre": "GPCR",
-      "noticias": [
-        {
-          "ticker": "GPCR",
-          "titulo": "Buy, Sell or Hold LLY Stock? Key Factors to Watch Ahead of Q3 Earnings",
-          "resumen": "Lilly heads into Q3 earnings with Mounjaro, Zepbound and new drugs fueling growth, but pricing pressure, rising costs and competition pose challenges.",
-          "fuente": "Yahoo",
-          "fecha": "27 Oct 2026 11:53 UTC",
-          "url": "https://finnhub.io/api/news?id=e1e877e8dfac736c5090d96a9e307c110f856c9f2cf2db238cdd3dd590728e5c",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "ABVX": {
       "nombre": "ABVX",
@@ -408,6 +420,18 @@
       "noticias": [
         {
           "ticker": "ACRV",
+          "titulo": "Acrivon Announces Late-Breaking Oral Plenary Presentation of Early Phase 1/2 Clinical Results in AP3-Predicted Tumors for its First-in-Class WEE1/PKMYT1 Inhibitor ACR-2316 at the 38th EORTC-NCI-AACR S",
+          "resumen": "Timothy A. Yap, MBBS, Ph.D., FRCP, of The University of Texas MD Anderson Cancer Center to present results from the dose escalation phase of the ACR-2316 Phase 1/2 trial on November 20, 2026 Durable clinical activity, including confirmed complete and partial responses (RECIST 1.1) with ACR-2316 mono",
+          "fuente": "Yahoo",
+          "fecha": "29 Oct 2026 12:00 UTC",
+          "url": "https://finnhub.io/api/news?id=d19a4a34ab3ed7ad400679c5419f38edaebef6c31b829582caf0ed8ff0c4ef02",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ACRV",
           "titulo": "Acrivon Therapeutics To Present Dose Escalation Data From Its Current Phase 1/2 Trial Of ACR-2316 At 38th EORTC-NCI-AACR Symposium On Molecular Targets And Cancer Therapeutics",
           "resumen": "Acrivon Therapeutics, Inc. (&#34;Acrivon&#34; or &#34;Acrivon Therapeutics&#34;) (Nasdaq: ACRV), a clinical-stage biotechnology company discovering and developing precision medicines utilizing its proprietary Generative",
           "fuente": "Benzinga",
@@ -420,7 +444,7 @@
         }
       ],
       "nivel": "rojo",
-      "total": 1
+      "total": 2
     },
     "TARA": {
       "nombre": "TARA",
@@ -442,26 +466,50 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "SENS",
-          "titulo": "TD Cowen Reiterates Buy on Senseonics Holdings, Maintains $15 Price Target",
-          "resumen": "TD Cowen  analyst Joshua Jennings   reiterates Senseonics Holdings (NASDAQ:SENS) with a Buy and maintains $15 price target.",
-          "fuente": "Benzinga",
-          "fecha": "27 Oct 2026 11:26 UTC",
-          "url": "https://finnhub.io/api/news?id=7247b1d3ddb544e89e3d156c5d97488d9ed161b2167860890f022c91b6f2c9fc",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 1
     },
     "INSM": {
       "nombre": "INSM",
       "noticias": [
+        {
+          "ticker": "INSM",
+          "titulo": "Insmed Soars 12% on $400 Million Brinsupri Quarter as U.S. Launch “Continues to Exceed Expectations”",
+          "resumen": "Key TakeawaysInsmed shares jumped 12% after third-quarter revenue of $524. 4 million beat expectations, led by $400.",
+          "fuente": "Yahoo",
+          "fecha": "29 Oct 2026 18:40 UTC",
+          "url": "https://finnhub.io/api/news?id=1b569865c29463510bc55f653d07a02a5307c147bdac2db7b66e0cb6c6499980",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "What Insmed (INSM) Said on Its Q3 Earnings Call",
+          "resumen": "Insmed (NASDAQ:INSM) reported third-quarter 2026 revenue growth from both of its commercial respiratory products and raised the low end of its full-year revenue guidance for BRINSUPRI and ARIKAYCE. Chair and Chief Executive Officer Will Lewis said BRINSUPRI generated $400.1 million in third-quarter",
+          "fuente": "Yahoo",
+          "fecha": "29 Oct 2026 18:14 UTC",
+          "url": "https://finnhub.io/api/news?id=017d100df0493d298181e61a139cfab6edc079169fd87c26ea240a47d19a8a82",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "Insmed (INSM) Q3 2026 Earnings Call Transcript",
+          "resumen": "BRINSUPRI revenue surged to $400.1 million, driving 268% total revenue growth year-over-year.",
+          "fuente": "Yahoo",
+          "fecha": "29 Oct 2026 18:13 UTC",
+          "url": "https://finnhub.io/api/news?id=094d11544058690331876ee387fa446c4be62d28760d27435616ddf16d9fa558",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "INSM",
           "titulo": "Premarket Gainers and Losers on Oct. 29, 2026",
@@ -476,23 +524,11 @@
         },
         {
           "ticker": "INSM",
-          "titulo": "Insmed Incorporated 2026 Q3 - Results - Earnings Call Presentation",
-          "resumen": "2026-10-29. The following slide deck was published by Insmed Incorporated in conjunction with their 2026 Q3 earnings call.",
-          "fuente": "SeekingAlpha",
-          "fecha": "29 Oct 2026 09:35 UTC",
-          "url": "https://finnhub.io/api/news?id=78148a8096b1da63703dd2f5fc45316b8b6f2b241ee990eec12a81bb844e30ec",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "Will Kura Oncology (KURA) Report Negative Q3 Earnings? What You Should Know",
-          "resumen": "Kura Oncology (KURA) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+          "titulo": "Insmed (INSM) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+          "resumen": "While the top- and bottom-line numbers for Insmed (INSM) give a sense of how the business performed in the quarter ended September 2026, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",
           "fuente": "Yahoo",
-          "fecha": "27 Oct 2026 13:00 UTC",
-          "url": "https://finnhub.io/api/news?id=e7ebb6350689952d47b6c6246f2f8f5a9bbbddc3d4f0750444359f6b9055b0af",
+          "fecha": "29 Oct 2026 12:30 UTC",
+          "url": "https://finnhub.io/api/news?id=fad6013647055d0dbb7c405f6747781d1465c649796e0511f9aa8578cc25211c",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -500,112 +536,16 @@
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 5
     }
   },
   "resumen": {
-    "total_noticias": 32,
+    "total_noticias": 35,
     "tickers_con_noticias": 12,
-    "alertas_urgentes": 10,
+    "alertas_urgentes": 9,
     "sin_noticias": 5
   },
   "todas_noticias": [
-    {
-      "ticker": "BEAM",
-      "titulo": "Beam Therapeutics Announces Initial Data From Its Ongoing Phase 1/2 Clinical Trial Evaluating BEAM-301 For Treatment Of Glycogen Storage Disease Type Ia; In The 40 Mg Cohort, Two Patients Achieved 15 ",
-      "resumen": "The data will be presented during a poster session at the 33rd Annual Congress of the European Society of Gene and Cell Therapy (ESGCT) in Hamburg, Germany. BEAM-301 is an investigational liver-targeting",
-      "fuente": "Benzinga",
-      "fecha": "27 Oct 2026 07:11 UTC",
-      "url": "https://finnhub.io/api/news?id=d908dd82229b9318e909efa8db173e169f23e902a2727f3563f0e5a4e9d5e6af",
-      "imagen": "",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "BEAM",
-      "titulo": "Beam Therapeutics Reports Initial Clinical Data from Phase 1/2 Trial of BEAM-301, Demonstrating Proof of Concept for Genetic Correction in Glycogen Storage Disease Type Ia (GSDIa) at ESGCT 33rd Annual",
-      "resumen": "In the 40 mg Cohort, Two Patients Achieved 15 Hours of Controlled Fasting, Improvements in Glucose Control and No Longer Required Starch Supplementation Following Treatment Safety Profile of BEAM-301 Consistent with LNP-Based Therapies Beam Plans to Engage FDA on Potential Path to Approval; Enrollme",
-      "fuente": "Yahoo",
-      "fecha": "27 Oct 2026 11:00 UTC",
-      "url": "https://finnhub.io/api/news?id=a8e21a5955d69f17125da5d5ef8c3fbe09751ca68354780480ee0da3b270fcef",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "GPCR",
-      "titulo": "Buy, Sell or Hold LLY Stock? Key Factors to Watch Ahead of Q3 Earnings",
-      "resumen": "Lilly heads into Q3 earnings with Mounjaro, Zepbound and new drugs fueling growth, but pricing pressure, rising costs and competition pose challenges.",
-      "fuente": "Yahoo",
-      "fecha": "27 Oct 2026 11:53 UTC",
-      "url": "https://finnhub.io/api/news?id=e1e877e8dfac736c5090d96a9e307c110f856c9f2cf2db238cdd3dd590728e5c",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "Will Kura Oncology (KURA) Report Negative Q3 Earnings? What You Should Know",
-      "resumen": "Kura Oncology (KURA) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-      "fuente": "Yahoo",
-      "fecha": "27 Oct 2026 13:00 UTC",
-      "url": "https://finnhub.io/api/news?id=e7ebb6350689952d47b6c6246f2f8f5a9bbbddc3d4f0750444359f6b9055b0af",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "BEAM",
-      "titulo": "Beam Therapeutics Inc. (BEAM) Reviews Initial Phase I II BEAM-301 Data in Glycogen Storage Disease Type 1a Transcript",
-      "resumen": "",
-      "fuente": "SeekingAlpha",
-      "fecha": "27 Oct 2026 13:10 UTC",
-      "url": "https://finnhub.io/api/news?id=9c56f4fbb2c33c9d9a672a04f90a89e4455868f62fa3084f8e07a43cd7f9b011",
-      "imagen": "",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "BEAM",
-      "titulo": "Beam Therapeutics Reports Early BEAM-301 Gains in GSD1a Fasting Tolerance",
-      "resumen": "Beam Therapeutics (NASDAQ:BEAM) reported initial clinical data from its Phase I/II trial of BEAM-301, an investigational base-editing therapy for glycogen storage disease type 1A (GSD1a), showing dose-dependent improvements in fasting tolerance and reductions in cornstarch supplementation among the",
-      "fuente": "Yahoo",
-      "fecha": "27 Oct 2026 15:05 UTC",
-      "url": "https://finnhub.io/api/news?id=945410230aae9a19aca3ce8d2deccb7900fc17fe179cc33059f81dbb81eb26df",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Ahead of Vertex (VRTX) Q3 Earnings: Get Ready With Wall Street Estimates for Key Metrics",
-      "resumen": "Evaluate the expected performance of Vertex (VRTX) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
-      "fuente": "Yahoo",
-      "fecha": "28 Oct 2026 12:15 UTC",
-      "url": "https://finnhub.io/api/news?id=30fcf96a1dba883e8fdada66504c27cb9ed6f7172330bd4b02d36ea375f40191",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Alnylam (ALNY) Q3 Earnings on the Horizon: Analysts' Insights on Key Performance Measures",
-      "resumen": "Get a deeper insight into the potential performance of Alnylam (ALNY) for the quarter ended September 2026 by going beyond Wall Street's top-and-bottom-line estimates and examining the estimates for some of its key metrics.",
-      "fuente": "Yahoo",
-      "fecha": "28 Oct 2026 12:15 UTC",
-      "url": "https://finnhub.io/api/news?id=b099c663fb8590af53f2585259a0f1fdd57c2588bdab51fd3dd041e63f837dc1",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "SENS",
       "titulo": "Claritev Corporation (CTEV) Surges 5.2%: Is This an Indication of Further Gains?",
@@ -667,72 +607,12 @@
       "badge": "🔴"
     },
     {
-      "ticker": "ALNY",
-      "titulo": "Alnylam Pharmaceuticals (ALNY) Could Be 39% Undervalued Following Brezosiran Data",
-      "resumen": "How the brezosiran data frames Alnylam Pharmaceuticals today Alnylam Pharmaceuticals (ALNY) just put fresh Phase 1b data for its Huntington’s disease candidate brezosiran in front of investors, with early signs of target engagement and an upcoming pivotal trial plan shaping sentiment around the stoc",
+      "ticker": "BEAM",
+      "titulo": "Beam Therapeutics (BEAM) Moves 15.6% Higher: Will This Strength Last?",
+      "resumen": "Beam Therapeutics (BEAM) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions may not translate into further price increase in the near term.",
       "fuente": "Yahoo",
-      "fecha": "28 Oct 2026 17:09 UTC",
-      "url": "https://finnhub.io/api/news?id=7080545614cc0bf80076389f6422b0d7679fc40b53771716042437c7240c3a31",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Alnylam Pharmaceuticals (ALNY) Stock Looks Fully Priced Following Its 52% Fall",
-      "resumen": "Alnylam Pharmaceuticals has seen its share price fall sharply over the past year, even as fresh clinical data on its Huntington's disease program has attracted attention. That mix of price pressure and new trial results raises a clear question for investors who follow Alnylam: whether the current va",
-      "fuente": "Yahoo",
-      "fecha": "28 Oct 2026 19:06 UTC",
-      "url": "https://finnhub.io/api/news?id=d70e6aa07332a026a2a3546591fb710e9fd116f14b37e24d527e9a2c778b8d78",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "Viking Therapeutics (NASDAQ:VKTX) Q3 2026 Earnings: Wider Loss as Obesity Pipeline Advances",
-      "resumen": "Viking Therapeutics reports no Q3 revenue and a wider EPS loss, while advancing VK2735 obesity trials; shares slip after hours.",
-      "fuente": "ChartMill",
-      "fecha": "28 Oct 2026 21:54 UTC",
-      "url": "https://finnhub.io/api/news?id=88e45e6618f426a1b252ff1bec45289bd7c63273e95eedffe384d23212e6c999",
-      "imagen": "https://www.chartmill.com/images/uploads/earnings_article_1_defce97180.webp",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "What Alnylam Pharmaceuticals (ALNY)'s Huntingtons Drug Trial Results Mean For Shareholders",
-      "resumen": "Alnylam Pharmaceuticals reported initial Phase 1b data for brezosiran in Huntington’s disease, with single intrathecal doses linked to dose-dependent reductions in mutant huntingtin protein and an encouraging safety profile over follow up periods of up to 12 months. The program is now positioned as ",
-      "fuente": "Yahoo",
-      "fecha": "28 Oct 2026 22:06 UTC",
-      "url": "https://finnhub.io/api/news?id=32a817a9b63979a7ef62f4eabddb64fc0b465bbc0fd14fe90e43041ee2e44cc6",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "Viking (VKTX) Q3 2026 Earnings Call Transcript",
-      "resumen": "VK2735 obesity drug shows up to 22% weight loss with less frequent dosing schedules.",
-      "fuente": "Yahoo",
-      "fecha": "29 Oct 2026 04:13 UTC",
-      "url": "https://finnhub.io/api/news?id=157474ee1ab058635ed4b1cfab005af7fe2ea0c2c485f5adcafb95bbfd501ca4",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "Viking Therapeutics Q3 Earnings Call Highlights",
-      "resumen": "Viking Therapeutics (NASDAQ:VKTX) reported a wider third-quarter loss as it increased spending on late-stage obesity programs, while advancing phase III studies of both injectable and oral versions of its lead candidate, VK2735. The company reported a net loss of $183.2 million, or $1.55 per share,",
-      "fuente": "Yahoo",
-      "fecha": "29 Oct 2026 06:04 UTC",
-      "url": "https://finnhub.io/api/news?id=11a34bc4be01f0a0d864a91c805dd51ffc7380a211f6434f9fa769f71bca1292",
+      "fecha": "29 Oct 2026 07:50 UTC",
+      "url": "https://finnhub.io/api/news?id=3ea40d38633dedea30c7f0aab952f459a2988b64318881e502485e1db3563304",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
@@ -751,40 +631,196 @@
       "badge": "🔴"
     },
     {
+      "ticker": "BEAM",
+      "titulo": "Why Beam Therapeutics Stock Is Up 15.6% And What's Next",
+      "resumen": "Beam Therapeutics released early Phase 1/2 data for BEAM-301 in glycogen storage disease type Ia, reporting acceptable safety and dose-dependent gains in fasting tolerance, plus reduced reliance on starch supplementation in treated patients. Two patients on the 40 mg dose reached the trial’s 15 hour",
+      "fuente": "Yahoo",
+      "fecha": "29 Oct 2026 10:14 UTC",
+      "url": "https://finnhub.io/api/news?id=db750b971e09680278a12dabb59024bf470e035f384d443296def3c74987c0a4",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ACRV",
+      "titulo": "Acrivon Announces Late-Breaking Oral Plenary Presentation of Early Phase 1/2 Clinical Results in AP3-Predicted Tumors for its First-in-Class WEE1/PKMYT1 Inhibitor ACR-2316 at the 38th EORTC-NCI-AACR S",
+      "resumen": "Timothy A. Yap, MBBS, Ph.D., FRCP, of The University of Texas MD Anderson Cancer Center to present results from the dose escalation phase of the ACR-2316 Phase 1/2 trial on November 20, 2026 Durable clinical activity, including confirmed complete and partial responses (RECIST 1.1) with ACR-2316 mono",
+      "fuente": "Yahoo",
+      "fecha": "29 Oct 2026 12:00 UTC",
+      "url": "https://finnhub.io/api/news?id=d19a4a34ab3ed7ad400679c5419f38edaebef6c31b829582caf0ed8ff0c4ef02",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
       "ticker": "INSM",
-      "titulo": "Insmed Incorporated 2026 Q3 - Results - Earnings Call Presentation",
-      "resumen": "2026-10-29. The following slide deck was published by Insmed Incorporated in conjunction with their 2026 Q3 earnings call.",
+      "titulo": "Insmed (INSM) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+      "resumen": "While the top- and bottom-line numbers for Insmed (INSM) give a sense of how the business performed in the quarter ended September 2026, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",
+      "fuente": "Yahoo",
+      "fecha": "29 Oct 2026 12:30 UTC",
+      "url": "https://finnhub.io/api/news?id=fad6013647055d0dbb7c405f6747781d1465c649796e0511f9aa8578cc25211c",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "VKTX Q3 Earnings Call Highlights Obesity Pipeline Progress",
+      "resumen": "Viking Therapeutics advances its Phase III obesity trials, reports promising VK2735 maintenance data and strengthens its cash position despite widening losses.",
+      "fuente": "Yahoo",
+      "fecha": "29 Oct 2026 13:00 UTC",
+      "url": "https://finnhub.io/api/news?id=54ec1ef68a258016333deaab9e476876772691e28a4db77f951817ae8607b613",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "Monte Rosa Therapeutics (GLUE) May Report Negative Earnings: Know the Trend Ahead of Q3 Release",
+      "resumen": "Monte Rosa Therapeutics (GLUE) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+      "fuente": "Yahoo",
+      "fecha": "29 Oct 2026 13:00 UTC",
+      "url": "https://finnhub.io/api/news?id=d001299415c48b4f1fc9204ad363234f0d53244d846254c9cfb69d3af4e48cc0",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "CAI",
+      "titulo": "Viatris (VTRS) Expected to Beat Earnings Estimates: Should You Buy?",
+      "resumen": "Viatris (VTRS) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+      "fuente": "Yahoo",
+      "fecha": "29 Oct 2026 13:00 UTC",
+      "url": "https://finnhub.io/api/news?id=add89296457e9e35bda869e1ee1f5142aabb929f6fee508a1aa87b3f921178ae",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Eli Lilly Jumps 8% as Strong Quarter Lifts Revenue Outlook; Novo Nordisk Ticks Up, Viking Therapeutics Eases",
+      "resumen": "Eli Lilly (NYSE:LLY) just extended its lead in obesity drugs, and its newer cancer, immunology and neuroscience products are starting to matter, while the rest of the glucagon-like peptide-1 (GLP-1) group is barely moving. Eli Lilly stock is trading at $1,393, up 8%. Taking a look at the peers, Novo",
+      "fuente": "Yahoo",
+      "fecha": "29 Oct 2026 14:03 UTC",
+      "url": "https://finnhub.io/api/news?id=260ae81946fd64e806850fb6a8f5d4ab6ae2931c10c21f902abb692c8019abb7",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "LLY Stock Jumps as Q3 Earnings Beat Estimates, 2026 Sales View Raised",
+      "resumen": "Lilly's Q3 earnings and sales beat estimates, driven by Mounjaro and Zepbound, as the company raises its 2026 revenue outlook to $91-$92 billion.",
+      "fuente": "Yahoo",
+      "fecha": "29 Oct 2026 14:21 UTC",
+      "url": "https://finnhub.io/api/news?id=042ad2ddaa4e705b1eeae802ae922826aa2b54f6791e7ec37f50668d5da85680",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "VKTX Q3 Earnings Miss Estimates Amid Rising Clinical Expenses",
+      "resumen": "Viking Therapeutics' Q3 loss widens as rising costs weigh on results, while its obesity drug candidate advances through phase III studies.",
+      "fuente": "Yahoo",
+      "fecha": "29 Oct 2026 15:52 UTC",
+      "url": "https://finnhub.io/api/news?id=98aa79fe17897d152ce7b38788a2c14c9e4cfd76d77b62cc3b4bf33dc06e8beb",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Insmed (INSM) Q3 2026 Earnings Call Transcript",
+      "resumen": "BRINSUPRI revenue surged to $400.1 million, driving 268% total revenue growth year-over-year.",
+      "fuente": "Yahoo",
+      "fecha": "29 Oct 2026 18:13 UTC",
+      "url": "https://finnhub.io/api/news?id=094d11544058690331876ee387fa446c4be62d28760d27435616ddf16d9fa558",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "What Insmed (INSM) Said on Its Q3 Earnings Call",
+      "resumen": "Insmed (NASDAQ:INSM) reported third-quarter 2026 revenue growth from both of its commercial respiratory products and raised the low end of its full-year revenue guidance for BRINSUPRI and ARIKAYCE. Chair and Chief Executive Officer Will Lewis said BRINSUPRI generated $400.1 million in third-quarter",
+      "fuente": "Yahoo",
+      "fecha": "29 Oct 2026 18:14 UTC",
+      "url": "https://finnhub.io/api/news?id=017d100df0493d298181e61a139cfab6edc079169fd87c26ea240a47d19a8a82",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Insmed Soars 12% on $400 Million Brinsupri Quarter as U.S. Launch “Continues to Exceed Expectations”",
+      "resumen": "Key TakeawaysInsmed shares jumped 12% after third-quarter revenue of $524. 4 million beat expectations, led by $400.",
+      "fuente": "Yahoo",
+      "fecha": "29 Oct 2026 18:40 UTC",
+      "url": "https://finnhub.io/api/news?id=1b569865c29463510bc55f653d07a02a5307c147bdac2db7b66e0cb6c6499980",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "Beam Therapeutics Inc. (BEAM) Reviews Initial Phase I II BEAM-301 Data in Glycogen Storage Disease Type 1a - Slideshow",
+      "resumen": "2026-10-29. The following slide deck was published by Beam Therapeutics Inc.",
       "fuente": "SeekingAlpha",
-      "fecha": "29 Oct 2026 09:35 UTC",
-      "url": "https://finnhub.io/api/news?id=78148a8096b1da63703dd2f5fc45316b8b6f2b241ee990eec12a81bb844e30ec",
+      "fecha": "29 Oct 2026 19:14 UTC",
+      "url": "https://finnhub.io/api/news?id=62df6ba09f2421dc5ca006bcf56bb74a27095900715e9ce8da310ce6c7564864",
       "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
     },
     {
-      "ticker": "SENS",
-      "titulo": "TD Cowen Reiterates Buy on Senseonics Holdings, Maintains $15 Price Target",
-      "resumen": "TD Cowen  analyst Joshua Jennings   reiterates Senseonics Holdings (NASDAQ:SENS) with a Buy and maintains $15 price target.",
-      "fuente": "Benzinga",
-      "fecha": "27 Oct 2026 11:26 UTC",
-      "url": "https://finnhub.io/api/news?id=7247b1d3ddb544e89e3d156c5d97488d9ed161b2167860890f022c91b6f2c9fc",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "ticker": "ALNY",
+      "titulo": "Alnylam Pharmaceuticals, Inc. Q3 2026 Earnings Call Summary",
+      "resumen": "Moby summary of Alnylam Pharmaceuticals, Inc.'s Q3 2026 earnings call",
+      "fuente": "Yahoo",
+      "fecha": "29 Oct 2026 21:09 UTC",
+      "url": "https://finnhub.io/api/news?id=cd5e81bc477daaf08b633621174d851e49f9937eb2cf827474203f0203b93407",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "CAI",
-      "titulo": "BTIG Maintains Buy on Caris Life Sciences, Raises Price Target to $38",
-      "resumen": "BTIG  analyst Mark Massaro   maintains Caris Life Sciences (NASDAQ:CAI) with a Buy and raises the price target from $33 to $38.",
-      "fuente": "Benzinga",
-      "fecha": "27 Oct 2026 12:50 UTC",
-      "url": "https://finnhub.io/api/news?id=2c3034e597a9f4ae45cb3a93517ac7cb1d967baa51131a647cd00e59912be35b",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "ticker": "ALNY",
+      "titulo": "What Investors Got Wrong About Alnylam Pharmaceuticals Before A 61% Slide",
+      "resumen": "Alnylam Pharmaceuticals has spent the past year in the headlines, from positive HELIOS-B data to a new AI drug discovery deal with Inceptive Nucleics worth up to US$2b. Investors who held Alnylam Pharmaceuticals over the past year are down 61.3%, including dividends. If you had bought on 29 October ",
+      "fuente": "Yahoo",
+      "fecha": "30 Oct 2026 04:31 UTC",
+      "url": "https://finnhub.io/api/news?id=d3e6ba5d4da9099fe265d348d9da71e0c3e57944e92107c571ed2ff19e11cab9",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam Pharmaceuticals, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+      "resumen": "2026-10-30. The following slide deck was published by Alnylam Pharmaceuticals, Inc.",
+      "fuente": "SeekingAlpha",
+      "fecha": "30 Oct 2026 05:53 UTC",
+      "url": "https://finnhub.io/api/news?id=74e75e3f8f7d4de6db7335a496c01bec4f892082fe2ec99c78cf2bddb3080bb3",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "ARGX",
@@ -794,18 +830,6 @@
       "fecha": "27 Oct 2026 16:19 UTC",
       "url": "https://finnhub.io/api/news?id=804f0155c12ecc1c287cf22af33e85b79eeeedcf8fe5725dec5b6e55d85fad5a",
       "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "BEAM",
-      "titulo": "BEAM Stock Climbs On First Look At One-Time GSDIa Gene Fix; H.C. Wainwright Sees Further 200% Upside",
-      "resumen": "BEAM-301 is a one-time liver-targeted treatment designed to correct a common genetic error that causes glycogen storage disease type Ia, or GSDIa.",
-      "fuente": "Yahoo",
-      "fecha": "27 Oct 2026 19:21 UTC",
-      "url": "https://finnhub.io/api/news?id=8838e2f7c9f2fe14a4853306d23d2117ff1a530023315b524172d80b8a117d38",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
@@ -823,37 +847,13 @@
       "badge": "🔵"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "What Would Slower New Drug Sales Do To Vertex Stock?",
-      "resumen": "For questions about this article or underlying research, email help@trefis.com.",
+      "ticker": "OCUL",
+      "titulo": "Ocular Therapeutix™ to Participate in November Investor and Scientific Conferences",
+      "resumen": "BEDFORD, Mass., Oct. 29, 2026 (GLOBE NEWSWIRE) -- Ocular Therapeutix, Inc. (NASDAQ: OCUL, “Ocular”), an integrated biopharmaceutical company committed to redefining the retina experience, today announced participation in several upcoming investor and scientific conferences in November 2026. Upcoming",
       "fuente": "Yahoo",
-      "fecha": "28 Oct 2026 12:01 UTC",
-      "url": "https://finnhub.io/api/news?id=c10e8d8b8dc6064c86848c03fc02a1f9204b3b28e4bf018d6f26368bc391a9a5",
+      "fecha": "29 Oct 2026 11:00 UTC",
+      "url": "https://finnhub.io/api/news?id=c59da6e5af4b91e3fdaf01f04a3e1a5342cce70182f53d928f82d66d196ffb7d",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "VKTX Stock Slides Overnight After Q3 Loss: CEO’s Obesity Drug Launch Timeline Frustrates Retail",
-      "resumen": "CEO Brian Lian said a potential launch of obesity drug VK2735 remained about 2 and a half years away.",
-      "fuente": "Yahoo",
-      "fecha": "29 Oct 2026 01:40 UTC",
-      "url": "https://finnhub.io/api/news?id=3053388317beff67e9b08646b3b0e03e9efe6ac718490ebe0c2d99ca7790d167",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "Viking Therapeutics: Why A Successful Maintenance Readout Couldn't Save The Stock",
-      "resumen": "Viking Therapeutics faces dilution risk, rising costs, and tough obesity drug competition. Read here for a detailed analysis of VKTX stock.",
-      "fuente": "SeekingAlpha",
-      "fecha": "29 Oct 2026 07:30 UTC",
-      "url": "https://finnhub.io/api/news?id=eecc10fab763a2c8a2f538ee00a9ccd67ed6171425889dceb201f8b9c27d9c86",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2267949295/image_2267949295.jpg?io=getty-c-w1536",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
@@ -871,7 +871,7 @@
       "badge": "🔵"
     },
     {
-      "ticker": "ALNY",
+      "ticker": "INSM",
       "titulo": "Premarket Gainers and Losers on Oct. 29, 2026",
       "resumen": "Premarket movers on Oct. 29, 2026 include NCPL, PCLA, INLF, NUWE, BURU, INSM, CROX, GKOS, MAX, PRCH, IOVA, XRX, FTNT, SFM, TWI, ALNY and NOW.",
       "fuente": "ChartMill",
@@ -883,13 +883,85 @@
       "badge": "🔵"
     },
     {
-      "ticker": "INSM",
-      "titulo": "Premarket Gainers and Losers on Oct. 29, 2026",
-      "resumen": "Premarket movers on Oct. 29, 2026 include NCPL, PCLA, INLF, NUWE, BURU, INSM, CROX, GKOS, MAX, PRCH, IOVA, XRX, FTNT, SFM, TWI, ALNY and NOW.",
+      "ticker": "BEAM",
+      "titulo": "Global Gene Writing Technology Market Report 2026: Size, Trends, and Forecast to 2030 | Capitalize on 24.8% CAGR with Beam, Twist Bioscience, Tessera, and Intellia",
+      "resumen": "Key players include Beam Therapeutics, Twist Bioscience, Sangamo, Editas Medicine and Tessera Therapeutics. Profiles cover gene-writing technologies, products, applications, trends and competition.Dublin, Oct. 29, 2026 (GLOBE NEWSWIRE) -- \"Gene Writing Technology Global Market Report 2026\" has been ",
+      "fuente": "Yahoo",
+      "fecha": "29 Oct 2026 15:30 UTC",
+      "url": "https://finnhub.io/api/news?id=f6653b9d453188f51e026d3f23191179d08563f66907430feb3e34d32829025b",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ARGX",
+      "titulo": "European Equities Traded in the US as American Depositary Receipts Rise in Thursday Trading",
+      "resumen": "European equities traded in the US as American depositary receipts were tracking higher late Thursda",
+      "fuente": "Yahoo",
+      "fecha": "29 Oct 2026 15:36 UTC",
+      "url": "https://finnhub.io/api/news?id=0b12d9cc816556f0c1e0c2490489093c6b02c31286045584fe4287907058ec88",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Viking Therapeutics: Q3 Update - Why You Can't Discount This GLP-1 Player (Yet)",
+      "resumen": "Viking Therapeutics, Inc. is advancing VK2735, a dual GLP-1/GIP agonist, targeting the obesity and diabetes market. I rate VKTX stock as Hold. Read my full update now.",
+      "fuente": "SeekingAlpha",
+      "fecha": "29 Oct 2026 16:13 UTC",
+      "url": "https://finnhub.io/api/news?id=7bd614fe8371da40056630e2a9671b07a58c834c25804e5f2a60a014af42bbc4",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2214954845/image_2214954845.jpg?io=getty-c-w1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "ALNY Stock Hits Fresh 52-Week Low On Medicare Access Worries And Pipeline Delays",
+      "resumen": "Alnylam management said it now expects full-year TTR product sales to land at the low end of its $4.2 billion to $4.5 billion range.",
+      "fuente": "Yahoo",
+      "fecha": "29 Oct 2026 18:26 UTC",
+      "url": "https://finnhub.io/api/news?id=fd9f704309c0f6dcd6548f0913c01f681dc84bc1c0871ebea1e34ad274bf7f2a",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "After-Hours S&P 500 Movers: Mondelez and FedEx Freight Gain, Intel and Reddit Fall",
+      "resumen": "S&P 500 after-hours movers: Mondelez International and FedEx Freight were among gainers, while Intel and Reddit were among decliners after today's U.S. session.",
       "fuente": "ChartMill",
-      "fecha": "29 Oct 2026 13:30 UTC",
-      "url": "https://finnhub.io/api/news?id=b095590ce92693bac7642b3c2743ed64b05fd72d0f89f477b9049a880f33c0f2",
-      "imagen": "https://www.chartmill.com/images/uploads/CM_Premarket_Movers_Small_free_90289f6b81.webp",
+      "fecha": "29 Oct 2026 22:06 UTC",
+      "url": "https://finnhub.io/api/news?id=d18d7bab7797845f13b99c24f319750b03a8c72d11cbced0745eeeaf580067bc",
+      "imagen": "https://www.chartmill.com/images/uploads/CM_Aftermarket_Movers_Small_free_e077945a19.webp",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "This Honeywell Aerospace Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Friday",
+      "resumen": "Analysts downgraded Honeywell Aerospace, Intel, Bright Horizons, Alnylam and Maplebear, cutting ratings and several price targets.",
+      "fuente": "Benzinga",
+      "fecha": "30 Oct 2026 07:56 UTC",
+      "url": "https://finnhub.io/api/news?id=e813ce65bd22eb2610823524bac34cdd051f878039a6ec90991a55188fc53210",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/10/30/Operations-Research-Analysts.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Why Did Insmed Stock Jump?",
+      "resumen": "For questions about this article or underlying research, email help@trefis.com.",
+      "fuente": "Yahoo",
+      "fecha": "30 Oct 2026 11:15 UTC",
+      "url": "https://finnhub.io/api/news?id=0c12fe4d164f588c8d578a8f8ba4f5d91be11af4c8e6761868f747179df8eb66",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

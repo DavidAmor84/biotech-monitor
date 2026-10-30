@@ -1,21 +1,17 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 29/10/2026 13:57 | Período: últimos 7 días
-Desde: 2026-10-22 → Hasta: 2026-10-29
+Generado: 30/10/2026 13:52 | Período: últimos 7 días
+Desde: 2026-10-23 → Hasta: 2026-10-30
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 9 filings | 🔴 0 | 🟢 0 | 🟡 4 | 🔵 5 | ✅ 11 sin novedad
+RESUMEN: 7 filings | 🔴 0 | 🟢 0 | 🟡 4 | 🔵 3 | ✅ 13 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
 ──────────────────────────────────────────────────
   ✅ [SNDX] Sin novedades
   ✅ [ARGX] Sin novedades
-
-  🔵 [DYN] Dyne Therapeutics, Inc. — 1 filing(s)
-     🔵 INFO 4 | 2026-10-22 | Kerr Douglas (Head of R&D and CMO) → Concesión 8,000 acciones @ $0.00 | Post: 170,564 | Rutinaria/RSU/impuestos
-     Insider: Kerr Douglas (Head of R&D and CMO) → Concesión 8,000 acciones @ $0.00 | Post: 170,564 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1818794/000181418926000007/xslF345X06/ownership.xml
+  ✅ [DYN] Sin novedades
   ✅ [DNLI] Sin novedades
 
   🟡 [VKTX] Viking Therapeutics, Inc. — 2 filing(s)
@@ -24,11 +20,7 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1607678/000119312526436432/vktx-20260930.htm
      🔵 INFO 8-K | 2026-10-28 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1607678/000119312526436145/vktx-20261028.htm
-
-  🔵 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 1 filing(s)
-     🔵 INFO 4 | 2026-10-22 | Brennan Daniel J. (Director) → Concesión 795 acciones @ $503.47 | Post: 795 | Rutinaria/RSU/impuestos
-     Insider: Brennan Daniel J. (Director) → Concesión 795 acciones @ $503.47 | Post: 795 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000283/xslF345X06/wk-form4_1792699856.xml
+  ✅ [VRTX] Sin novedades
 
   🟡 [ALNY] ALNYLAM PHARMACEUTICALS, INC. — 2 filing(s)
      🟡 MEDIA 10-Q | 2026-10-29 | Caja: $1754.3M · Shares: 133875.0M · ⚖️ Litigios activos

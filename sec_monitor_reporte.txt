@@ -1,15 +1,19 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 30/10/2026 13:52 | Período: últimos 7 días
-Desde: 2026-10-23 → Hasta: 2026-10-30
+Generado: 02/11/2026 16:51 | Período: últimos 7 días
+Desde: 2026-10-26 → Hasta: 2026-11-02
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 7 filings | 🔴 0 | 🟢 0 | 🟡 4 | 🔵 3 | ✅ 13 sin novedad
+RESUMEN: 8 filings | 🔴 0 | 🟢 0 | 🟡 4 | 🔵 4 | ✅ 12 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
 ──────────────────────────────────────────────────
-  ✅ [SNDX] Sin novedades
+
+  🔵 [SNDX] Syndax Pharmaceuticals Inc — 1 filing(s)
+     🔵 INFO 4 | 2026-10-30 | Podlesak Dennis → Ejercicio opción 8,000 acciones @ $11.81 | Post: 247,763 | Rutinaria/RSU/impuestos
+     Insider: Podlesak Dennis → Ejercicio opción 8,000 acciones @ $11.81 | Post: 247,763 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1395937/000119312526442119/xslF345X06/ownership.xml
   ✅ [ARGX] Sin novedades
   ✅ [DYN] Sin novedades
   ✅ [DNLI] Sin novedades

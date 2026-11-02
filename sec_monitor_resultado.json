@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "30/10/2026 13:52",
+  "generado": "02/11/2026 16:51",
   "periodo_dias": 7,
-  "desde": "2026-10-23",
-  "hasta": "2026-10-30",
+  "desde": "2026-10-26",
+  "hasta": "2026-11-02",
   "resumen": {
-    "total_filings": 7,
+    "total_filings": 8,
     "alertas_rojas": 0,
     "alertas_verdes": 0,
     "alertas_amarillas": 4,
-    "alertas_azules": 3,
-    "sin_novedad": 13
+    "alertas_azules": 4,
+    "sin_novedad": 12
   },
   "tickers": {
     "SNDX": {
@@ -19,9 +19,36 @@
       "cik": "0001395937",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-10-30",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Podlesak Dennis → Ejercicio opción 8,000 acciones @ $11.81 | Post: 247,763 | Rutinaria/RSU/impuestos",
+          "detalle": "4",
+          "empresa_sec": "Syndax Pharmaceuticals Inc",
+          "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526442119/xslF345X06/ownership.xml",
+          "form4_detail": {
+            "insider_nombre": "Podlesak Dennis",
+            "insider_cargo": null,
+            "transaccion_codigo": "M",
+            "transaccion_tipo": "Ejercicio opción",
+            "transaccion_acciones": "8000",
+            "transaccion_precio": "11.81",
+            "transaccion_fecha": "2026-10-29",
+            "acciones_post": "247763",
+            "footnotes": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 plan adopted by the Reporting Person solely covering equity grants with expiration dates prior to Octobre 31, 2026. Following the sales reported in this Form 4, the Reporting Person has a total of 127,000 options to purchase shares of common stock that are vested and immediately exercisable and no unvested options to purchase shares of common stock. The sale prices ranged from $14.00 to $14.59. This option is fully vested.",
+            "es_rutinaria": true,
+            "resumen_detail": "Podlesak Dennis → Ejercicio opción 8,000 acciones @ $11.81 | Post: 247,763 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "ARGX": {
@@ -387,6 +414,34 @@
   },
   "alertas_criticas": [],
   "todos_filings": [
+    {
+      "ticker": "SNDX",
+      "nombre": "Syndax Pharmaceuticals Inc",
+      "form": "4",
+      "fecha": "2026-10-30",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Podlesak Dennis → Ejercicio opción 8,000 acciones @ $11.81 | Post: 247,763 | Rutinaria/RSU/impuestos",
+      "detalle": "4",
+      "empresa_sec": "Syndax Pharmaceuticals Inc",
+      "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526442119/xslF345X06/ownership.xml",
+      "form4_detail": {
+        "insider_nombre": "Podlesak Dennis",
+        "insider_cargo": null,
+        "transaccion_codigo": "M",
+        "transaccion_tipo": "Ejercicio opción",
+        "transaccion_acciones": "8000",
+        "transaccion_precio": "11.81",
+        "transaccion_fecha": "2026-10-29",
+        "acciones_post": "247763",
+        "footnotes": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 plan adopted by the Reporting Person solely covering equity grants with expiration dates prior to Octobre 31, 2026. Following the sales reported in this Form 4, the Reporting Person has a total of 127,000 options to purchase shares of common stock that are vested and immediately exercisable and no unvested options to purchase shares of common stock. The sale prices ranged from $14.00 to $14.59. This option is fully vested.",
+        "es_rutinaria": true,
+        "resumen_detail": "Podlesak Dennis → Ejercicio opción 8,000 acciones @ $11.81 | Post: 247,763 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "VKTX",
       "nombre": "Viking Therapeutics, Inc.",

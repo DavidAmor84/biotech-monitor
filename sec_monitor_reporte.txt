@@ -1,16 +1,21 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 02/11/2026 16:51 | Período: últimos 7 días
-Desde: 2026-10-26 → Hasta: 2026-11-02
+Generado: 03/11/2026 14:51 | Período: últimos 7 días
+Desde: 2026-10-27 → Hasta: 2026-11-03
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 8 filings | 🔴 0 | 🟢 0 | 🟡 4 | 🔵 4 | ✅ 12 sin novedad
+RESUMEN: 12 filings | 🔴 0 | 🟢 0 | 🟡 6 | 🔵 6 | ✅ 11 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
 ──────────────────────────────────────────────────
 
-  🔵 [SNDX] Syndax Pharmaceuticals Inc — 1 filing(s)
+  🟡 [SNDX] Syndax Pharmaceuticals Inc — 3 filing(s)
+     🟡 MEDIA 10-Q | 2026-11-02 | ⚖️ Litigios activos · 📋 Shelf mencionado
+     10-Q: ⚖️ Litigios activos · 📋 Shelf mencionado
+     → https://www.sec.gov/Archives/edgar/data/1395937/000119312526443625/sndx-20260930.htm
+     🟡 MEDIA 8-K | 2026-11-02 | Item 5.02: Cambio directivo relevante [Items: 2.02, 5.02, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1395937/000119312526443613/sndx-20261102.htm
      🔵 INFO 4 | 2026-10-30 | Podlesak Dennis → Ejercicio opción 8,000 acciones @ $11.81 | Post: 247,763 | Rutinaria/RSU/impuestos
      Insider: Podlesak Dennis → Ejercicio opción 8,000 acciones @ $11.81 | Post: 247,763 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1395937/000119312526442119/xslF345X06/ownership.xml
@@ -24,7 +29,10 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1607678/000119312526436432/vktx-20260930.htm
      🔵 INFO 8-K | 2026-10-28 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1607678/000119312526436145/vktx-20261028.htm
-  ✅ [VRTX] Sin novedades
+
+  🔵 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 1 filing(s)
+     🔵 INFO 8-K | 2026-11-02 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000287/vrtx-20261102.htm
 
   🟡 [ALNY] ALNYLAM PHARMACEUTICALS, INC. — 2 filing(s)
      🟡 MEDIA 10-Q | 2026-10-29 | Caja: $1754.3M · Shares: 133875.0M · ⚖️ Litigios activos
@@ -32,17 +40,19 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000076/alny-20260930.htm
      🔵 INFO 8-K | 2026-10-29 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000074/alny-20261029.htm
-  ✅ [BEAM] Sin novedades
+
+  🟡 [BEAM] Beam Therapeutics Inc. — 2 filing(s)
+     🟡 MEDIA 10-Q | 2026-11-03 | ⚖️ Litigios activos · 📋 Shelf mencionado
+     10-Q: ⚖️ Litigios activos · 📋 Shelf mencionado
+     → https://www.sec.gov/Archives/edgar/data/1745999/000119312526444455/beam-20260930.htm
+     🔵 INFO 8-K | 2026-11-03 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1745999/000119312526444454/beam-20261103.htm
   ✅ [OCUL] Sin novedades
   ✅ [CAI] Sin novedades
   ✅ [GPCR] Sin novedades
   ✅ [ABVX] Sin novedades
   ✅ [VERA] Sin novedades
-
-  🟡 [ACRV] Acrivon Therapeutics, Inc. — 1 filing(s)
-     🟡 MEDIA 4 | 2026-10-26 | Miller Mary (Chief Legal Officer) → Venta 513 acciones @ $1.84 | Post: 81,202 | Rutinaria/RSU/impuestos
-     Insider: Miller Mary (Chief Legal Officer) → Venta 513 acciones @ $1.84 | Post: 81,202 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826004554/xslF345X06/form4.xml
+  ✅ [ACRV] Sin novedades
   ✅ [TARA] Sin novedades
   ✅ [SENS] Sin novedades
 

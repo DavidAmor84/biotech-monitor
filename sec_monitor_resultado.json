@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "02/11/2026 16:51",
+  "generado": "03/11/2026 14:51",
   "periodo_dias": 7,
-  "desde": "2026-10-26",
-  "hasta": "2026-11-02",
+  "desde": "2026-10-27",
+  "hasta": "2026-11-03",
   "resumen": {
-    "total_filings": 8,
+    "total_filings": 12,
     "alertas_rojas": 0,
     "alertas_verdes": 0,
-    "alertas_amarillas": 4,
-    "alertas_azules": 4,
-    "sin_novedad": 12
+    "alertas_amarillas": 6,
+    "alertas_azules": 6,
+    "sin_novedad": 11
   },
   "tickers": {
     "SNDX": {
@@ -20,6 +20,56 @@
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
       "filings": [
+        {
+          "form": "10-Q",
+          "fecha": "2026-11-02",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "⚖️ Litigios activos · 📋 Shelf mencionado",
+          "detalle": "10-Q",
+          "empresa_sec": "Syndax Pharmaceuticals Inc",
+          "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526443625/sndx-20260930.htm",
+          "form4_detail": null,
+          "8k_detail": null,
+          "10q_detail": {
+            "caja_mm": null,
+            "burn_trimestral_mm": null,
+            "burn_mensual_mm": null,
+            "runway_meses": null,
+            "shares_outstanding_mm": null,
+            "litigios_detectados": true,
+            "shelf_mencionado": true,
+            "going_concern": false,
+            "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 135,941 &#160; &#160; $ 134,930 &#160; Short-term investments &#160; &#160; 291,163 &#160; &#160; &#160; 259,140 &#160; Accounts receivable, net &#160; &#160; 46,866 &#160; &#160; &#160; 37,996 &#160; Inventory, net &#160; &#160; 39,376 &#160; &#160; &#160; 32,754",
+            "resumen_10q": "⚖️ Litigios activos · 📋 Shelf mencionado"
+          },
+          "prospecto_detail": null
+        },
+        {
+          "form": "8-K",
+          "fecha": "2026-11-02",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Item 5.02: Cambio directivo relevante [Items: 2.02, 5.02, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "Syndax Pharmaceuticals Inc",
+          "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526443613/sndx-20261102.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "2.02",
+              "5.02",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 2.02. Results of Operations and Financial Condition. On November 2, 2026, Syndax Pharmaceuticals, Inc. (the Company ) issued a press release and presentation announcing its financial results for the quarter ended September 30, 2026. A copy of the press release and presentation are furnished as Exhibits 99.1 and 99.2 to this Current Report on Form 8-K and are incorporated herein by reference. The information contained in this Item 2.02 and in Exhibits 99.1 and 99.2 attached hereto is intended to be furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any of the Company s filings under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensation Arrangements of Certain Officers. On November 2, 2026, the Company issued a press release announcing that Keith A. Goldan will retire as the Company s Chief Financial Officer, principal accounting and financial officer and treasurer effective November 9, 2026, after which he will continue as an advisor for an interim period until his retirement. Prior to his retirement date, Mr. Goldan will assist with the transition of his responsibilities. Mr. Goldan s compensation as an advisor will be materially consistent with his current compensation. The Com",
+            "nivel_ajustado": "amarillo",
+            "badge_ajustado": "🟡 MEDIA",
+            "resumen_ajustado": "Item 5.02: Cambio directivo relevante"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
         {
           "form": "4",
           "fecha": "2026-10-30",
@@ -47,8 +97,8 @@
           "prospecto_detail": null
         }
       ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "ARGX": {
@@ -151,9 +201,34 @@
       "cik": "0000875320",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "8-K",
+          "fecha": "2026-11-02",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000287/vrtx-20261102.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "2.02",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 2.02. Results of Operations and Financial Condition. On November 2, 2026, Vertex Pharmaceuticals Incorporated (the \"Company\") issued a press release in which it reported its consolidated financial results for the three and nine months ended September 30, 2026. A copy of that press release is attached to this Current Report on Form 8-K as Exhibit 99.1 and is incorporated herein by reference. The information set forth in Exhibit 99.1 shall not be deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liability of that section, and shall not be incorporated by reference into any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing. Item 9.01. Financial Statements and Exhibits. (d) Exhibits Exhibit Description of Document 99.1 Press Release Dated November 2, 2026. 104 Cover Page Interactive Data File the cover page XBRL tags are embedded within the Inline XBRL document. SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. VERTEX PHARMACEUTICALS INCORPORATED (Registrant) Date: November 2, 2026 /s/ Joy Liu Joy Liu Executive Vice President, Chief Legal Officer",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "ALNY": {
@@ -223,9 +298,59 @@
       "cik": "0001745999",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "10-Q",
+          "fecha": "2026-11-03",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "⚖️ Litigios activos · 📋 Shelf mencionado",
+          "detalle": "10-Q",
+          "empresa_sec": "Beam Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526444455/beam-20260930.htm",
+          "form4_detail": null,
+          "8k_detail": null,
+          "10q_detail": {
+            "caja_mm": null,
+            "burn_trimestral_mm": null,
+            "burn_mensual_mm": null,
+            "runway_meses": null,
+            "shares_outstanding_mm": null,
+            "litigios_detectados": true,
+            "shelf_mencionado": true,
+            "going_concern": false,
+            "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 213,267 &#160; &#160; $ 294,944 &#160; Marketable securities &#160; &#160; 830,606 &#160; &#160; &#160; 950,266 &#160; Prepaid expenses and other current assets &#160; &#160; 23,504 &#160; &#160; &#160; 23,478 &#160; Total current assets &#160; &#160; 1,067,377 &#1",
+            "resumen_10q": "⚖️ Litigios activos · 📋 Shelf mencionado"
+          },
+          "prospecto_detail": null
+        },
+        {
+          "form": "8-K",
+          "fecha": "2026-11-03",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "Beam Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526444454/beam-20261103.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "2.02",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 2.02 Results of Operations and Financial Condition. On November 3, 2026, the Company issued a press release announcing its financial results for the quarter ended September 30, 2026. A copy of this press release is furnished as Exhibit 99.1 and is incorporated herein by reference. The information in this Item 2.02 as well as in the accompanying Exhibit 99.1 attached hereto is being furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any filing by the Company, under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press Release Issued by Beam Therapeutics Inc. on November 3, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. BEAM THERAPEUTICS INC. Date: November 3, 2026 By: /s/ John Evans Name: John Evans Title: Chief Executive Officer",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "OCUL": {
@@ -289,36 +414,9 @@
       "cik": "0001781174",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-10-26",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Miller Mary (Chief Legal Officer) → Venta 513 acciones @ $1.84 | Post: 81,202 | Rutinaria/RSU/impuestos",
-          "detalle": "FORM 4",
-          "empresa_sec": "Acrivon Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1781174/000090514826004554/xslF345X06/form4.xml",
-          "form4_detail": {
-            "insider_nombre": "Miller Mary",
-            "insider_cargo": "Chief Legal Officer",
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "513",
-            "transaccion_precio": "1.84",
-            "transaccion_fecha": "2026-10-22",
-            "acciones_post": "81202",
-            "footnotes": "Shares sold automatically to satisfy the mandatory tax withholding requirement upon vesting of restricted stock units. The price reported in Column 4 above reflects the weighted average price of 513 shares sold by a broker on October 22, 2026, to satisfy the payment of withholding tax liability of the reporting person.",
-            "es_rutinaria": true,
-            "resumen_detail": "Miller Mary (Chief Legal Officer) → Venta 513 acciones @ $1.84 | Post: 81,202 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "TARA": {
@@ -414,6 +512,139 @@
   },
   "alertas_criticas": [],
   "todos_filings": [
+    {
+      "ticker": "BEAM",
+      "nombre": "Beam Therapeutics Inc.",
+      "form": "10-Q",
+      "fecha": "2026-11-03",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "⚖️ Litigios activos · 📋 Shelf mencionado",
+      "detalle": "10-Q",
+      "empresa_sec": "Beam Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526444455/beam-20260930.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": {
+        "caja_mm": null,
+        "burn_trimestral_mm": null,
+        "burn_mensual_mm": null,
+        "runway_meses": null,
+        "shares_outstanding_mm": null,
+        "litigios_detectados": true,
+        "shelf_mencionado": true,
+        "going_concern": false,
+        "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 213,267 &#160; &#160; $ 294,944 &#160; Marketable securities &#160; &#160; 830,606 &#160; &#160; &#160; 950,266 &#160; Prepaid expenses and other current assets &#160; &#160; 23,504 &#160; &#160; &#160; 23,478 &#160; Total current assets &#160; &#160; 1,067,377 &#1",
+        "resumen_10q": "⚖️ Litigios activos · 📋 Shelf mencionado"
+      },
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "BEAM",
+      "nombre": "Beam Therapeutics Inc.",
+      "form": "8-K",
+      "fecha": "2026-11-03",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Beam Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1745999/000119312526444454/beam-20261103.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "2.02",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 2.02 Results of Operations and Financial Condition. On November 3, 2026, the Company issued a press release announcing its financial results for the quarter ended September 30, 2026. A copy of this press release is furnished as Exhibit 99.1 and is incorporated herein by reference. The information in this Item 2.02 as well as in the accompanying Exhibit 99.1 attached hereto is being furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any filing by the Company, under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press Release Issued by Beam Therapeutics Inc. on November 3, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. BEAM THERAPEUTICS INC. Date: November 3, 2026 By: /s/ John Evans Name: John Evans Title: Chief Executive Officer",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "SNDX",
+      "nombre": "Syndax Pharmaceuticals Inc",
+      "form": "10-Q",
+      "fecha": "2026-11-02",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "⚖️ Litigios activos · 📋 Shelf mencionado",
+      "detalle": "10-Q",
+      "empresa_sec": "Syndax Pharmaceuticals Inc",
+      "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526443625/sndx-20260930.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": {
+        "caja_mm": null,
+        "burn_trimestral_mm": null,
+        "burn_mensual_mm": null,
+        "runway_meses": null,
+        "shares_outstanding_mm": null,
+        "litigios_detectados": true,
+        "shelf_mencionado": true,
+        "going_concern": false,
+        "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 135,941 &#160; &#160; $ 134,930 &#160; Short-term investments &#160; &#160; 291,163 &#160; &#160; &#160; 259,140 &#160; Accounts receivable, net &#160; &#160; 46,866 &#160; &#160; &#160; 37,996 &#160; Inventory, net &#160; &#160; 39,376 &#160; &#160; &#160; 32,754",
+        "resumen_10q": "⚖️ Litigios activos · 📋 Shelf mencionado"
+      },
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "SNDX",
+      "nombre": "Syndax Pharmaceuticals Inc",
+      "form": "8-K",
+      "fecha": "2026-11-02",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Item 5.02: Cambio directivo relevante [Items: 2.02, 5.02, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Syndax Pharmaceuticals Inc",
+      "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526443613/sndx-20261102.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "2.02",
+          "5.02",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 2.02. Results of Operations and Financial Condition. On November 2, 2026, Syndax Pharmaceuticals, Inc. (the Company ) issued a press release and presentation announcing its financial results for the quarter ended September 30, 2026. A copy of the press release and presentation are furnished as Exhibits 99.1 and 99.2 to this Current Report on Form 8-K and are incorporated herein by reference. The information contained in this Item 2.02 and in Exhibits 99.1 and 99.2 attached hereto is intended to be furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any of the Company s filings under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensation Arrangements of Certain Officers. On November 2, 2026, the Company issued a press release announcing that Keith A. Goldan will retire as the Company s Chief Financial Officer, principal accounting and financial officer and treasurer effective November 9, 2026, after which he will continue as an advisor for an interim period until his retirement. Prior to his retirement date, Mr. Goldan will assist with the transition of his responsibilities. Mr. Goldan s compensation as an advisor will be materially consistent with his current compensation. The Com",
+        "nivel_ajustado": "amarillo",
+        "badge_ajustado": "🟡 MEDIA",
+        "resumen_ajustado": "Item 5.02: Cambio directivo relevante"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "VRTX",
+      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
+      "form": "8-K",
+      "fecha": "2026-11-02",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000287/vrtx-20261102.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "2.02",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 2.02. Results of Operations and Financial Condition. On November 2, 2026, Vertex Pharmaceuticals Incorporated (the \"Company\") issued a press release in which it reported its consolidated financial results for the three and nine months ended September 30, 2026. A copy of that press release is attached to this Current Report on Form 8-K as Exhibit 99.1 and is incorporated herein by reference. The information set forth in Exhibit 99.1 shall not be deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liability of that section, and shall not be incorporated by reference into any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing. Item 9.01. Financial Statements and Exhibits. (d) Exhibits Exhibit Description of Document 99.1 Press Release Dated November 2, 2026. 104 Cover Page Interactive Data File the cover page XBRL tags are embedded within the Inline XBRL document. SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. VERTEX PHARMACEUTICALS INCORPORATED (Registrant) Date: November 2, 2026 /s/ Joy Liu Joy Liu Executive Vice President, Chief Legal Officer",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "SNDX",
       "nombre": "Syndax Pharmaceuticals Inc",
@@ -598,34 +829,6 @@
         "badge_ajustado": "🔵 INFO",
         "resumen_ajustado": "8-K — Sin clasificación específica por Item"
       },
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "ACRV",
-      "nombre": "Acrivon Therapeutics, Inc.",
-      "form": "4",
-      "fecha": "2026-10-26",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Miller Mary (Chief Legal Officer) → Venta 513 acciones @ $1.84 | Post: 81,202 | Rutinaria/RSU/impuestos",
-      "detalle": "FORM 4",
-      "empresa_sec": "Acrivon Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1781174/000090514826004554/xslF345X06/form4.xml",
-      "form4_detail": {
-        "insider_nombre": "Miller Mary",
-        "insider_cargo": "Chief Legal Officer",
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "513",
-        "transaccion_precio": "1.84",
-        "transaccion_fecha": "2026-10-22",
-        "acciones_post": "81202",
-        "footnotes": "Shares sold automatically to satisfy the mandatory tax withholding requirement upon vesting of restricted stock units. The price reported in Column 4 above reflects the weighted average price of 513 shares sold by a broker on October 22, 2026, to satisfy the payment of withholding tax liability of the reporting person.",
-        "es_rutinaria": true,
-        "resumen_detail": "Miller Mary (Chief Legal Officer) → Venta 513 acciones @ $1.84 | Post: 81,202 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
       "10q_detail": null,
       "prospecto_detail": null
     }

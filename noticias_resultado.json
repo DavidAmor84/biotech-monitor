@@ -1,20 +1,87 @@
 {
-  "generado": "02/11/2026 16:59 UTC",
+  "generado": "03/11/2026 15:02 UTC",
   "plazo_horas": 72,
-  "desde": "2026-10-30",
-  "hasta": "2026-11-02",
+  "desde": "2026-10-31",
+  "hasta": "2026-11-03",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
       "noticias": [
         {
           "ticker": "SNDX",
-          "titulo": "The AI Bubble Ran Into Reality Last Week",
-          "resumen": "",
-          "fuente": "SeekingAlpha",
-          "fecha": "02 Nov 2026 09:28 UTC",
-          "url": "https://finnhub.io/api/news?id=a533e401b713152919527d7aa10a08d59d3cf1b4559834b039ae842a3ed27819",
+          "titulo": "Apple To $350? Here Are 10 Top Analyst Forecasts For Tuesday",
+          "resumen": "Analysts raised targets for TEM, TWLO, UPWK, MRSH and PLTR; cut MRVL and AAPL targets, with upgrades for TWLO and MRSH.",
+          "fuente": "Benzinga",
+          "fecha": "03 Nov 2026 09:43 UTC",
+          "url": "https://finnhub.io/api/news?id=6e1882f9b5577670c37977c492e740d4f7f1be3a9eae643b6e3a1f201012592f",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/03/Cupertino--California--September-25--202.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "SNDX",
+          "titulo": "HC Wainwright & Co. Maintains Buy on Syndax Pharmaceuticals, Lowers Price Target to $36",
+          "resumen": "HC Wainwright &amp; Co.  analyst Andres Y. Maldonado   maintains Syndax Pharmaceuticals (NASDAQ:SNDX) with a Buy and lowers the price target from $38 to $36.",
+          "fuente": "Benzinga",
+          "fecha": "03 Nov 2026 07:33 UTC",
+          "url": "https://finnhub.io/api/news?id=e1c89d6274a3bffff1911f7753655e9039a11a6d6d2eb0027f71e949b326e048",
           "imagen": "",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "SNDX",
+          "titulo": "Syndax Pharmaceuticals (SNDX) Missed On Q3 Results, Is The 65% Undervaluation Case Still Intact?",
+          "resumen": "Why Syndax Pharmaceuticals Stock Is Back in Focus After Q3 Results Syndax Pharmaceuticals (SNDX) moved into the spotlight after reporting third quarter 2026 results, with revenue of US$83.3 million and a net loss of US$49.43 million from continuing operations. The earnings miss and CFO transition ha",
+          "fuente": "Yahoo",
+          "fecha": "03 Nov 2026 06:16 UTC",
+          "url": "https://finnhub.io/api/news?id=869d9f1aa6cdf8f56dba85bdb6892234c7d7d52c89ddb4d868cee819958d89a3",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "SNDX",
+          "titulo": "Syndax (SNDX) Q3 2026 Earnings Call Transcript",
+          "resumen": "Revenue surged 82% year-over-year as Revuforj and Niktimvo drive commercial momentum.",
+          "fuente": "Yahoo",
+          "fecha": "03 Nov 2026 04:43 UTC",
+          "url": "https://finnhub.io/api/news?id=2c27eaf28963aff62cfc8b124c4c67eeb6ab546c9840e59359f780efb99bb48f",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "SNDX",
+          "titulo": "Syndax: Q3 Earnings Snapshot",
+          "resumen": "NEW YORK (AP) — NEW YORK (AP) — Syndax Pharmaceuticals Inc. (SNDX) on Monday reported a loss of $49.",
+          "fuente": "Yahoo",
+          "fecha": "03 Nov 2026 04:30 UTC",
+          "url": "https://finnhub.io/api/news?id=83cb642d2f3002b55d21163c49759d14aaabb809a0387ce8da3e851dff17c67a",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 5
+    },
+    "ARGX": {
+      "nombre": "ARGX",
+      "noticias": [
+        {
+          "ticker": "ARGX",
+          "titulo": "argenx to Present at Upcoming Investor Conferences",
+          "resumen": "November 3, 2026 Amsterdam, the Netherlands – argenx (Euronext & Nasdaq: ARGX), the immunology innovation company, today announced that members of the management team will participate in the following investor conferences in November: Guggenheim 3rd Annual Healthcare Innovation Conference. Fireside ",
+          "fuente": "Yahoo",
+          "fecha": "03 Nov 2026 06:00 UTC",
+          "url": "https://finnhub.io/api/news?id=b041092bbe7e121751519378f78017de7c75518d058896dc914f499c1cf5dc2e",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
@@ -22,12 +89,6 @@
       ],
       "nivel": "azul",
       "total": 1
-    },
-    "ARGX": {
-      "nombre": "ARGX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
     },
     "DYN": {
       "nombre": "DYN",
@@ -46,6 +107,18 @@
       "noticias": [
         {
           "ticker": "VKTX",
+          "titulo": "Novo Before Q3 Earnings: How Should Investors Play the Stock?",
+          "resumen": "NVO faces intensifying GLP-1 competition, earnings cuts and pricing pressure, challenging its growth outlook ahead of Q3 results.",
+          "fuente": "Yahoo",
+          "fecha": "02 Nov 2026 12:49 UTC",
+          "url": "https://finnhub.io/api/news?id=32c285cab33036cd1dde20264ea37ba8a5cdaa462acb5753c231835265fe2097",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VKTX",
           "titulo": "UBS Just Initiated Coverage of Viking Therapeutics With a Buy Rating and a $94 Target. Here's the Bull Case.",
           "resumen": "Trial results for its weight loss drugs could justify a higher valuation for the clinical-stage biotech.",
           "fuente": "Yahoo",
@@ -55,45 +128,21 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "Viking Therapeutics: A Strong Injection, A Scaled-Back Pill",
-          "resumen": "Viking Therapeutics is advancing VK2735, a dual GLP-1/GIP agonist for obesity, with Phase 3 injection results expected in 2027. Read why VKTX stock is a hold.",
-          "fuente": "SeekingAlpha",
-          "fecha": "31 Oct 2026 04:39 UTC",
-          "url": "https://finnhub.io/api/news?id=9eefc42bce8050968f63fb61e31697926f679234ce6569ad8f3abc416a656f71",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2206912995/image_2206912995.jpg?io=getty-c-w1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VKTX",
-          "titulo": "Canaccord Genuity Maintains Buy on Viking Therapeutics, Raises Price Target to $118",
-          "resumen": "Canaccord Genuity  analyst Edward Nash   maintains Viking Therapeutics (NASDAQ:VKTX) with a Buy and raises the price target from $106 to $118.",
-          "fuente": "Benzinga",
-          "fecha": "30 Oct 2026 20:39 UTC",
-          "url": "https://finnhub.io/api/news?id=4e67b951710d49362b4b0476d9c656ad0d7450d9878b4b3665aceb6060da3012",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 2
     },
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
         {
           "ticker": "VRTX",
-          "titulo": "Should You Buy The Dip In Alnylam Stock?",
-          "resumen": "For questions about this article or underlying research, email help@trefis.com.",
+          "titulo": "Vertex: 3 Key Takeaways for Long-Term Investors",
+          "resumen": "Vertex is betting on nephrology and rare endocrinology to build a fifth and fourth commercial pillar beyond cystic fibrosis.",
           "fuente": "Yahoo",
-          "fecha": "02 Nov 2026 14:39 UTC",
-          "url": "https://finnhub.io/api/news?id=c69d15d51fb37d6e54c69010edf0159aff808931a6e614f40798f8b308b01a48",
+          "fecha": "03 Nov 2026 12:19 UTC",
+          "url": "https://finnhub.io/api/news?id=60e96d7c9204d5ac05c7cdc7d78bfc5c3f1fc208614d84413e2cd117f5670a74",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
@@ -101,11 +150,11 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "Vicapsys Life Sciences Provides Shareholder Update on VICAPSYN(TM) Program Advancing Toward Phase 1 Human Clinical Trial, Vertically Integrated With the Company's Indian Health Service Strategy",
-          "resumen": "program * Vertex Pharmaceuticals' $950 million acquisition of Semma Therapeutics, and clinical results that still require chronic immunosuppression, underscore both the value of islet cell therapy and the problem VICAPSYN™ is designed to solveMIAMI, FL / ACCESS Newswire / November 2, 2026 / Vicapsys",
+          "titulo": "Should Strong Q3 Revenue Require Action From Vertex Pharmaceuticals (VRTX) Investors?",
+          "resumen": "Vertex Pharmaceuticals reported Q3 2026 revenue of US$3.44b compared with US$3.08b a year earlier, while quarterly net income and earnings per share were lower even as nine month profit and per share earnings were slightly higher than the prior period. The earnings release arrived alongside continue",
           "fuente": "Yahoo",
-          "fecha": "02 Nov 2026 13:30 UTC",
-          "url": "https://finnhub.io/api/news?id=76bedfbbe2e9e72bec5d8956ee297ea4cde972da64b42d3f31c8c02455875337",
+          "fecha": "03 Nov 2026 11:07 UTC",
+          "url": "https://finnhub.io/api/news?id=2d1f4819fe31b1b85862e522b22b03c7f87d6496564da01e4dc08777da0d94b1",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -113,36 +162,36 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "Stocktwits Pharma Pulse: Biotech Beats The Broader Market — Novo, Pfizer And Moderna Earnings Up Next",
-          "resumen": "Moderna will report on Friday, while the SITC meeting will bring fresh cancer-treatment findings from Immunocore and Candel.",
-          "fuente": "Yahoo",
-          "fecha": "02 Nov 2026 03:52 UTC",
-          "url": "https://finnhub.io/api/news?id=cce29e12077f18afb24435ee6521a1e4b26eb7ed69a664baa8a6b33fe0e0315a",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals earnings: what to look for from VRTX",
-          "resumen": "Biotech company Vertex Pharmaceuticals (NASDAQ:VRTX) will be announcing earnings results this Monday after market close. Here’s what to expect.",
-          "fuente": "Yahoo",
-          "fecha": "01 Nov 2026 22:16 UTC",
-          "url": "https://finnhub.io/api/news?id=70bcbcab063435df67a5c8fedc399b9f3cc76a4e4255e780b605aebd22a27a21",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Apple, Palantir On Deck Monday As AI Demand, iPhone Growth Face Test",
-          "resumen": "Apple headlines Monday’s reports, with investors looking for continued iPhone momentum and evidence that its artificial-intelligence push can support the company’s next leg of growth. Marriott International, Entergy,",
+          "titulo": "Apple To $350? Here Are 10 Top Analyst Forecasts For Tuesday",
+          "resumen": "Analysts raised targets for TEM, TWLO, UPWK, MRSH and PLTR; cut MRVL and AAPL targets, with upgrades for TWLO and MRSH.",
           "fuente": "Benzinga",
-          "fecha": "01 Nov 2026 16:30 UTC",
-          "url": "https://finnhub.io/api/news?id=1fad6a5f428e160e3bbf2b323bcf32a0d0535718de2c451971324b27e8c61e11",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/01/earnings-scheduled-1.jpg?width=2048&height=1536",
+          "fecha": "03 Nov 2026 09:43 UTC",
+          "url": "https://finnhub.io/api/news?id=6e1882f9b5577670c37977c492e740d4f7f1be3a9eae643b6e3a1f201012592f",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/03/Cupertino--California--September-25--202.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Mixed as Trump Touts Iran Settlement Hopes — AAPL, PLTR, AMD in Focus (UPDATED)",
+          "resumen": "U.S. stocks were mixed on Tuesday, as the Dow Jones, S&amp;P 500, and Nasdaq 100 index futures moved in different directions.",
+          "fuente": "Benzinga",
+          "fecha": "03 Nov 2026 09:23 UTC",
+          "url": "https://finnhub.io/api/news?id=cc8f054268287e79b13eb4d0cbbb4c390acc51649dc2d805b4d30b9f02480e68",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/03/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex Pharmaceuticals Analysts Raise Their Forecasts Following Q3 Results",
+          "resumen": "Vertex missed Q3 EPS estimates but beat sales, raised FY2026 guidance, and shares rose 2.7% as analysts lifted price targets.",
+          "fuente": "Benzinga",
+          "fecha": "03 Nov 2026 09:15 UTC",
+          "url": "https://finnhub.io/api/news?id=8794d7d002ac29341f20cb03c9ee4630ab4e70cfc19d8a5f3eba9798b9913503",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/03/Vertex-Pharmaceuticals-Inc.jpg?width=2048&height=1536",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
@@ -154,6 +203,42 @@
     "ALNY": {
       "nombre": "ALNY",
       "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam to Present Five-Year HELIOS-B Data and Expanding Evidence on the Benefits of RNAi-Powered TTR Silencing with AMVUTTRA® (vutrisiran) at AHA and ISA 2026",
+          "resumen": "CAMBRIDGE, Mass., November 03, 2026--Alnylam Pharmaceuticals, Inc. (Nasdaq: ALNY), the leading RNAi therapeutics company, today announced that it will present new clinical and real-world data at the American Heart Association (AHA) Scientific Sessions 2026, taking place November 6-9 in Chicago, Illi",
+          "fuente": "Yahoo",
+          "fecha": "03 Nov 2026 13:30 UTC",
+          "url": "https://finnhub.io/api/news?id=f9ed9c53b052d3e24ba812da28a25f21564ec47c3c53df866379042ef1c95c8f",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam Pharmaceuticals To Present New Helios-B Clinical Data At American Heart Association Scientific Sessions 2026",
+          "resumen": "Alnylam Pharmaceuticals, Inc. (Nasdaq: ALNY), the leading RNAi therapeutics company, today announced that it will present new clinical and real-world data at the American Heart Association (AHA) Scientific Sessions",
+          "fuente": "Benzinga",
+          "fecha": "03 Nov 2026 09:33 UTC",
+          "url": "https://finnhub.io/api/news?id=ea3d4ed19c78abfdf3346a761bde1f75c77a57704c1271965a1e57a63b4def79",
+          "imagen": "",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Barclays Maintains Overweight on Alnylam Pharmaceuticals, Lowers Price Target to $380",
+          "resumen": "Barclays  analyst Eliana Merle   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Overweight and lowers the price target from $450 to $380.",
+          "fuente": "Benzinga",
+          "fecha": "02 Nov 2026 16:06 UTC",
+          "url": "https://finnhub.io/api/news?id=46aa24c8ac8c6f8c4240136eeb3c1810639d7a88b98c97f46ebccc30b1fe87d4",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "ALNY",
           "titulo": "Oracle, Nike upgraded: Wall Street's top analyst calls",
@@ -177,42 +262,6 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Earnings roundup: AstraZeneca’s cost cuts, Alnylam’s slump and Regeneron’s resilience",
-          "resumen": "AstraZeneca will “redeploy resources” through a new restructuring program. Meanwhile, Alnylam shares sold off on fears surrounding a top drug and investors rewarded Regeneron for a record quarter.",
-          "fuente": "Yahoo",
-          "fecha": "02 Nov 2026 14:00 UTC",
-          "url": "https://finnhub.io/api/news?id=7ed93174720e73de9f808178ff1b52308e8bc4b5109e8da3d333058954bb8830",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Buy, Sell, or Hold? Today’s Top Upgrades and Downgrades: Amazon.com, Coinbase Global, CrowdStrike, FormFactor, GameStop, L3Harris Technologies, Oracle, Reddit, Rivian Automotive, and More",
-          "resumen": "Pre-Market Stock Futures: Futures are trading higher after a rough week in which sellers moved hard against the big tech companies, which reported mostly solid results. Still, massive spending on AI, free cash flow that has reversed to negative in some cases, and a broader shift in investor sentimen",
-          "fuente": "Yahoo",
-          "fecha": "02 Nov 2026 13:13 UTC",
-          "url": "https://finnhub.io/api/news?id=12b06189569be718fed36bd007a843db8913a6e997fc512a40ccb09c21487f5e",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "FDA Decision Watch: Regeneron And Roche’s Autoimmune Drugs, Capricor’s DMD Therapy In Spotlight",
-          "resumen": "November brings several closely watched FDA decisions, with Regeneron and its partner Alnylam’s therapy for generalized myasthenia gravis and Roche’s Gazyva for primary membranous nephropathy in the spotlight this week.",
-          "fuente": "Yahoo",
-          "fecha": "02 Nov 2026 10:36 UTC",
-          "url": "https://finnhub.io/api/news?id=c83acf4c326c742d0add2149ac1bd352a6db4f9cdb0e443f64d832aa41bfde14",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
@@ -223,12 +272,12 @@
       "noticias": [
         {
           "ticker": "BEAM",
-          "titulo": "Cathie Wood Loads Up On TEM, ILMN And Biotech Stocks — But Pares Stake In This Pharma Giant That Had A Blowout Q3",
-          "resumen": "Ark Invest increased its exposure to several widely followed biotechnology stocks during the session.",
-          "fuente": "Yahoo",
-          "fecha": "31 Oct 2026 05:05 UTC",
-          "url": "https://finnhub.io/api/news?id=a85bad6e134bec7017add78c31f12898b079d0c12d4668756ff2a43905352392",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "titulo": "Beam Therapeutics Q3 EPS $(1.28) Misses $(1.15) Estimate, Sales $307.000K Miss $8.752M Estimate",
+          "resumen": "Beam Therapeutics (NASDAQ:BEAM) reported quarterly losses of $(1.28) per share which missed the analyst consensus estimate of $(1.15) by 11.3 percent. This is a 16.36 percent decrease over losses of $(1.10) per share",
+          "fuente": "Benzinga",
+          "fecha": "03 Nov 2026 08:08 UTC",
+          "url": "https://finnhub.io/api/news?id=3efda73457d1e93d64044937e587b6cc30b0a12cb40a6cc124b31ad1a782506b",
+          "imagen": "",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
@@ -264,15 +313,41 @@
     },
     "GPCR": {
       "nombre": "GPCR",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "GPCR",
+          "titulo": "Novo Before Q3 Earnings: How Should Investors Play the Stock?",
+          "resumen": "NVO faces intensifying GLP-1 competition, earnings cuts and pricing pressure, challenging its growth outlook ahead of Q3 results.",
+          "fuente": "Yahoo",
+          "fecha": "02 Nov 2026 12:49 UTC",
+          "url": "https://finnhub.io/api/news?id=32c285cab33036cd1dde20264ea37ba8a5cdaa462acb5753c231835265fe2097",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "ABVX": {
       "nombre": "ABVX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ABVX",
+          "titulo": "Abivax to Participate in Upcoming Fall Investor Conferences",
+          "resumen": "Abivax to Participate in Upcoming Fall Investor Conferences PARIS, France – November 2, 2026 – 10:05 PM CET – Abivax SA (Euronext Paris: FR0012333284 – ABVX / Nasdaq: ABVX) (“Abivax” or the “Company”), a clinical-stage biotechnology company focused on developing therapeutics that harness the body’s ",
+          "fuente": "Yahoo",
+          "fecha": "02 Nov 2026 21:05 UTC",
+          "url": "https://finnhub.io/api/news?id=b822d2d6acfafdf330e92d8c91a24eef3477748d8ead05c7f0525040ed2f358c",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "VERA": {
       "nombre": "VERA",
@@ -337,91 +412,19 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "Insmed (INSM) Begins BRINSUPRI Sales In Japan",
-          "resumen": "Insmed (NasdaqGS: INSM) reported the commercial launch of BRINSUPRI tablets in Japan for non cystic fibrosis bronchiectasis. BRINSUPRI is described as the first approved therapy in Japan for patients with non cystic fibrosis bronchiectasis. The company also secured regulatory progress for ARIKAYCE s",
-          "fuente": "Yahoo",
-          "fecha": "31 Oct 2026 01:17 UTC",
-          "url": "https://finnhub.io/api/news?id=cd315e9faf10ec174beecd3b708b826ca77ec0f5da79d120c42007bd269f4cc2",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "Insmed Incorporated (INSM) Q3 2026 Earnings Call Transcript",
-          "resumen": "Insmed Incorporated (INSM) Q3 2026 Earnings Call October 29, 2026 8:00 AM EDTCompany ParticipantsWilliam Lewis - President, CEO & ChairmanSara...",
-          "fuente": "SeekingAlpha",
-          "fecha": "30 Oct 2026 21:48 UTC",
-          "url": "https://finnhub.io/api/news?id=d7a8b24d3b8b4afb1ba8e88aa8007d7889ee855d2a639580e05b38e87b3b1743",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 4
+      "total": 2
     }
   },
   "resumen": {
-    "total_noticias": 21,
-    "tickers_con_noticias": 8,
-    "alertas_urgentes": 5,
-    "sin_noticias": 9
+    "total_noticias": 25,
+    "tickers_con_noticias": 11,
+    "alertas_urgentes": 8,
+    "sin_noticias": 6
   },
   "todas_noticias": [
-    {
-      "ticker": "VRTX",
-      "titulo": "Apple, Palantir On Deck Monday As AI Demand, iPhone Growth Face Test",
-      "resumen": "Apple headlines Monday’s reports, with investors looking for continued iPhone momentum and evidence that its artificial-intelligence push can support the company’s next leg of growth. Marriott International, Entergy,",
-      "fuente": "Benzinga",
-      "fecha": "01 Nov 2026 16:30 UTC",
-      "url": "https://finnhub.io/api/news?id=1fad6a5f428e160e3bbf2b323bcf32a0d0535718de2c451971324b27e8c61e11",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/01/earnings-scheduled-1.jpg?width=2048&height=1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals earnings: what to look for from VRTX",
-      "resumen": "Biotech company Vertex Pharmaceuticals (NASDAQ:VRTX) will be announcing earnings results this Monday after market close. Here’s what to expect.",
-      "fuente": "Yahoo",
-      "fecha": "01 Nov 2026 22:16 UTC",
-      "url": "https://finnhub.io/api/news?id=70bcbcab063435df67a5c8fedc399b9f3cc76a4e4255e780b605aebd22a27a21",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Stocktwits Pharma Pulse: Biotech Beats The Broader Market — Novo, Pfizer And Moderna Earnings Up Next",
-      "resumen": "Moderna will report on Friday, while the SITC meeting will bring fresh cancer-treatment findings from Immunocore and Candel.",
-      "fuente": "Yahoo",
-      "fecha": "02 Nov 2026 03:52 UTC",
-      "url": "https://finnhub.io/api/news?id=cce29e12077f18afb24435ee6521a1e4b26eb7ed69a664baa8a6b33fe0e0315a",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "FDA Decision Watch: Regeneron And Roche’s Autoimmune Drugs, Capricor’s DMD Therapy In Spotlight",
-      "resumen": "November brings several closely watched FDA decisions, with Regeneron and its partner Alnylam’s therapy for generalized myasthenia gravis and Roche’s Gazyva for primary membranous nephropathy in the spotlight this week.",
-      "fuente": "Yahoo",
-      "fecha": "02 Nov 2026 10:36 UTC",
-      "url": "https://finnhub.io/api/news?id=c83acf4c326c742d0add2149ac1bd352a6db4f9cdb0e443f64d832aa41bfde14",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "OCUL",
       "titulo": "Ocular Therapeutix™ to Report Third Quarter 2026 Financial Results on November 9, 2026",
@@ -447,24 +450,120 @@
       "badge": "🔴"
     },
     {
-      "ticker": "ALNY",
-      "titulo": "Buy, Sell, or Hold? Today’s Top Upgrades and Downgrades: Amazon.com, Coinbase Global, CrowdStrike, FormFactor, GameStop, L3Harris Technologies, Oracle, Reddit, Rivian Automotive, and More",
-      "resumen": "Pre-Market Stock Futures: Futures are trading higher after a rough week in which sellers moved hard against the big tech companies, which reported mostly solid results. Still, massive spending on AI, free cash flow that has reversed to negative in some cases, and a broader shift in investor sentimen",
+      "ticker": "VKTX",
+      "titulo": "Novo Before Q3 Earnings: How Should Investors Play the Stock?",
+      "resumen": "NVO faces intensifying GLP-1 competition, earnings cuts and pricing pressure, challenging its growth outlook ahead of Q3 results.",
       "fuente": "Yahoo",
-      "fecha": "02 Nov 2026 13:13 UTC",
-      "url": "https://finnhub.io/api/news?id=12b06189569be718fed36bd007a843db8913a6e997fc512a40ccb09c21487f5e",
+      "fecha": "02 Nov 2026 12:49 UTC",
+      "url": "https://finnhub.io/api/news?id=32c285cab33036cd1dde20264ea37ba8a5cdaa462acb5753c231835265fe2097",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "GPCR",
+      "titulo": "Novo Before Q3 Earnings: How Should Investors Play the Stock?",
+      "resumen": "NVO faces intensifying GLP-1 competition, earnings cuts and pricing pressure, challenging its growth outlook ahead of Q3 results.",
+      "fuente": "Yahoo",
+      "fecha": "02 Nov 2026 12:49 UTC",
+      "url": "https://finnhub.io/api/news?id=32c285cab33036cd1dde20264ea37ba8a5cdaa462acb5753c231835265fe2097",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ABVX",
+      "titulo": "Abivax to Participate in Upcoming Fall Investor Conferences",
+      "resumen": "Abivax to Participate in Upcoming Fall Investor Conferences PARIS, France – November 2, 2026 – 10:05 PM CET – Abivax SA (Euronext Paris: FR0012333284 – ABVX / Nasdaq: ABVX) (“Abivax” or the “Company”), a clinical-stage biotechnology company focused on developing therapeutics that harness the body’s ",
+      "fuente": "Yahoo",
+      "fecha": "02 Nov 2026 21:05 UTC",
+      "url": "https://finnhub.io/api/news?id=b822d2d6acfafdf330e92d8c91a24eef3477748d8ead05c7f0525040ed2f358c",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "SNDX",
+      "titulo": "Syndax: Q3 Earnings Snapshot",
+      "resumen": "NEW YORK (AP) — NEW YORK (AP) — Syndax Pharmaceuticals Inc. (SNDX) on Monday reported a loss of $49.",
+      "fuente": "Yahoo",
+      "fecha": "03 Nov 2026 04:30 UTC",
+      "url": "https://finnhub.io/api/news?id=83cb642d2f3002b55d21163c49759d14aaabb809a0387ce8da3e851dff17c67a",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "SNDX",
+      "titulo": "Syndax (SNDX) Q3 2026 Earnings Call Transcript",
+      "resumen": "Revenue surged 82% year-over-year as Revuforj and Niktimvo drive commercial momentum.",
+      "fuente": "Yahoo",
+      "fecha": "03 Nov 2026 04:43 UTC",
+      "url": "https://finnhub.io/api/news?id=2c27eaf28963aff62cfc8b124c4c67eeb6ab546c9840e59359f780efb99bb48f",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "SNDX",
+      "titulo": "Syndax Pharmaceuticals (SNDX) Missed On Q3 Results, Is The 65% Undervaluation Case Still Intact?",
+      "resumen": "Why Syndax Pharmaceuticals Stock Is Back in Focus After Q3 Results Syndax Pharmaceuticals (SNDX) moved into the spotlight after reporting third quarter 2026 results, with revenue of US$83.3 million and a net loss of US$49.43 million from continuing operations. The earnings miss and CFO transition ha",
+      "fuente": "Yahoo",
+      "fecha": "03 Nov 2026 06:16 UTC",
+      "url": "https://finnhub.io/api/news?id=869d9f1aa6cdf8f56dba85bdb6892234c7d7d52c89ddb4d868cee819958d89a3",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "SNDX",
+      "titulo": "HC Wainwright & Co. Maintains Buy on Syndax Pharmaceuticals, Lowers Price Target to $36",
+      "resumen": "HC Wainwright &amp; Co.  analyst Andres Y. Maldonado   maintains Syndax Pharmaceuticals (NASDAQ:SNDX) with a Buy and lowers the price target from $38 to $36.",
+      "fuente": "Benzinga",
+      "fecha": "03 Nov 2026 07:33 UTC",
+      "url": "https://finnhub.io/api/news?id=e1c89d6274a3bffff1911f7753655e9039a11a6d6d2eb0027f71e949b326e048",
+      "imagen": "",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
     },
     {
       "ticker": "VRTX",
-      "titulo": "Vicapsys Life Sciences Provides Shareholder Update on VICAPSYN(TM) Program Advancing Toward Phase 1 Human Clinical Trial, Vertically Integrated With the Company's Indian Health Service Strategy",
-      "resumen": "program * Vertex Pharmaceuticals' $950 million acquisition of Semma Therapeutics, and clinical results that still require chronic immunosuppression, underscore both the value of islet cell therapy and the problem VICAPSYN™ is designed to solveMIAMI, FL / ACCESS Newswire / November 2, 2026 / Vicapsys",
+      "titulo": "Vertex Pharmaceuticals Analysts Raise Their Forecasts Following Q3 Results",
+      "resumen": "Vertex missed Q3 EPS estimates but beat sales, raised FY2026 guidance, and shares rose 2.7% as analysts lifted price targets.",
+      "fuente": "Benzinga",
+      "fecha": "03 Nov 2026 09:15 UTC",
+      "url": "https://finnhub.io/api/news?id=8794d7d002ac29341f20cb03c9ee4630ab4e70cfc19d8a5f3eba9798b9913503",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/03/Vertex-Pharmaceuticals-Inc.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam Pharmaceuticals To Present New Helios-B Clinical Data At American Heart Association Scientific Sessions 2026",
+      "resumen": "Alnylam Pharmaceuticals, Inc. (Nasdaq: ALNY), the leading RNAi therapeutics company, today announced that it will present new clinical and real-world data at the American Heart Association (AHA) Scientific Sessions",
+      "fuente": "Benzinga",
+      "fecha": "03 Nov 2026 09:33 UTC",
+      "url": "https://finnhub.io/api/news?id=ea3d4ed19c78abfdf3346a761bde1f75c77a57704c1271965a1e57a63b4def79",
+      "imagen": "",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Should Strong Q3 Revenue Require Action From Vertex Pharmaceuticals (VRTX) Investors?",
+      "resumen": "Vertex Pharmaceuticals reported Q3 2026 revenue of US$3.44b compared with US$3.08b a year earlier, while quarterly net income and earnings per share were lower even as nine month profit and per share earnings were slightly higher than the prior period. The earnings release arrived alongside continue",
       "fuente": "Yahoo",
-      "fecha": "02 Nov 2026 13:30 UTC",
-      "url": "https://finnhub.io/api/news?id=76bedfbbe2e9e72bec5d8956ee297ea4cde972da64b42d3f31c8c02455875337",
+      "fecha": "03 Nov 2026 11:07 UTC",
+      "url": "https://finnhub.io/api/news?id=2d1f4819fe31b1b85862e522b22b03c7f87d6496564da01e4dc08777da0d94b1",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
@@ -472,48 +571,12 @@
     },
     {
       "ticker": "ALNY",
-      "titulo": "Earnings roundup: AstraZeneca’s cost cuts, Alnylam’s slump and Regeneron’s resilience",
-      "resumen": "AstraZeneca will “redeploy resources” through a new restructuring program. Meanwhile, Alnylam shares sold off on fears surrounding a top drug and investors rewarded Regeneron for a record quarter.",
+      "titulo": "Alnylam to Present Five-Year HELIOS-B Data and Expanding Evidence on the Benefits of RNAi-Powered TTR Silencing with AMVUTTRA® (vutrisiran) at AHA and ISA 2026",
+      "resumen": "CAMBRIDGE, Mass., November 03, 2026--Alnylam Pharmaceuticals, Inc. (Nasdaq: ALNY), the leading RNAi therapeutics company, today announced that it will present new clinical and real-world data at the American Heart Association (AHA) Scientific Sessions 2026, taking place November 6-9 in Chicago, Illi",
       "fuente": "Yahoo",
-      "fecha": "02 Nov 2026 14:00 UTC",
-      "url": "https://finnhub.io/api/news?id=7ed93174720e73de9f808178ff1b52308e8bc4b5109e8da3d333058954bb8830",
+      "fecha": "03 Nov 2026 13:30 UTC",
+      "url": "https://finnhub.io/api/news?id=f9ed9c53b052d3e24ba812da28a25f21564ec47c3c53df866379042ef1c95c8f",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "Insmed Incorporated (INSM) Q3 2026 Earnings Call Transcript",
-      "resumen": "Insmed Incorporated (INSM) Q3 2026 Earnings Call October 29, 2026 8:00 AM EDTCompany ParticipantsWilliam Lewis - President, CEO & ChairmanSara...",
-      "fuente": "SeekingAlpha",
-      "fecha": "30 Oct 2026 21:48 UTC",
-      "url": "https://finnhub.io/api/news?id=d7a8b24d3b8b4afb1ba8e88aa8007d7889ee855d2a639580e05b38e87b3b1743",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "Insmed (INSM) Begins BRINSUPRI Sales In Japan",
-      "resumen": "Insmed (NasdaqGS: INSM) reported the commercial launch of BRINSUPRI tablets in Japan for non cystic fibrosis bronchiectasis. BRINSUPRI is described as the first approved therapy in Japan for patients with non cystic fibrosis bronchiectasis. The company also secured regulatory progress for ARIKAYCE s",
-      "fuente": "Yahoo",
-      "fecha": "31 Oct 2026 01:17 UTC",
-      "url": "https://finnhub.io/api/news?id=cd315e9faf10ec174beecd3b708b826ca77ec0f5da79d120c42007bd269f4cc2",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VKTX",
-      "titulo": "Viking Therapeutics: A Strong Injection, A Scaled-Back Pill",
-      "resumen": "Viking Therapeutics is advancing VK2735, a dual GLP-1/GIP agonist for obesity, with Phase 3 injection results expected in 2027. Read why VKTX stock is a hold.",
-      "fuente": "SeekingAlpha",
-      "fecha": "31 Oct 2026 04:39 UTC",
-      "url": "https://finnhub.io/api/news?id=9eefc42bce8050968f63fb61e31697926f679234ce6569ad8f3abc416a656f71",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2206912995/image_2206912995.jpg?io=getty-c-w1536",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
@@ -529,18 +592,6 @@
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
-    },
-    {
-      "ticker": "SNDX",
-      "titulo": "The AI Bubble Ran Into Reality Last Week",
-      "resumen": "",
-      "fuente": "SeekingAlpha",
-      "fecha": "02 Nov 2026 09:28 UTC",
-      "url": "https://finnhub.io/api/news?id=a533e401b713152919527d7aa10a08d59d3cf1b4559834b039ae842a3ed27819",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
     },
     {
       "ticker": "INSM",
@@ -561,18 +612,6 @@
       "fuente": "Yahoo",
       "fecha": "02 Nov 2026 13:00 UTC",
       "url": "https://finnhub.io/api/news?id=7472991e2bdfb5e641e86d762c71013926997a8e940ee6c635797724ef5caf93",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Should You Buy The Dip In Alnylam Stock?",
-      "resumen": "For questions about this article or underlying research, email help@trefis.com.",
-      "fuente": "Yahoo",
-      "fecha": "02 Nov 2026 14:39 UTC",
-      "url": "https://finnhub.io/api/news?id=c69d15d51fb37d6e54c69010edf0159aff808931a6e614f40798f8b308b01a48",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
@@ -603,24 +642,84 @@
       "badge": "🔵"
     },
     {
-      "ticker": "VKTX",
-      "titulo": "Canaccord Genuity Maintains Buy on Viking Therapeutics, Raises Price Target to $118",
-      "resumen": "Canaccord Genuity  analyst Edward Nash   maintains Viking Therapeutics (NASDAQ:VKTX) with a Buy and raises the price target from $106 to $118.",
+      "ticker": "ALNY",
+      "titulo": "Barclays Maintains Overweight on Alnylam Pharmaceuticals, Lowers Price Target to $380",
+      "resumen": "Barclays  analyst Eliana Merle   maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Overweight and lowers the price target from $450 to $380.",
       "fuente": "Benzinga",
-      "fecha": "30 Oct 2026 20:39 UTC",
-      "url": "https://finnhub.io/api/news?id=4e67b951710d49362b4b0476d9c656ad0d7450d9878b4b3665aceb6060da3012",
+      "fecha": "02 Nov 2026 16:06 UTC",
+      "url": "https://finnhub.io/api/news?id=46aa24c8ac8c6f8c4240136eeb3c1810639d7a88b98c97f46ebccc30b1fe87d4",
       "imagen": "",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
     },
     {
-      "ticker": "BEAM",
-      "titulo": "Cathie Wood Loads Up On TEM, ILMN And Biotech Stocks — But Pares Stake In This Pharma Giant That Had A Blowout Q3",
-      "resumen": "Ark Invest increased its exposure to several widely followed biotechnology stocks during the session.",
+      "ticker": "ARGX",
+      "titulo": "argenx to Present at Upcoming Investor Conferences",
+      "resumen": "November 3, 2026 Amsterdam, the Netherlands – argenx (Euronext & Nasdaq: ARGX), the immunology innovation company, today announced that members of the management team will participate in the following investor conferences in November: Guggenheim 3rd Annual Healthcare Innovation Conference. Fireside ",
       "fuente": "Yahoo",
-      "fecha": "31 Oct 2026 05:05 UTC",
-      "url": "https://finnhub.io/api/news?id=a85bad6e134bec7017add78c31f12898b079d0c12d4668756ff2a43905352392",
+      "fecha": "03 Nov 2026 06:00 UTC",
+      "url": "https://finnhub.io/api/news?id=b041092bbe7e121751519378f78017de7c75518d058896dc914f499c1cf5dc2e",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "Beam Therapeutics Q3 EPS $(1.28) Misses $(1.15) Estimate, Sales $307.000K Miss $8.752M Estimate",
+      "resumen": "Beam Therapeutics (NASDAQ:BEAM) reported quarterly losses of $(1.28) per share which missed the analyst consensus estimate of $(1.15) by 11.3 percent. This is a 16.36 percent decrease over losses of $(1.10) per share",
+      "fuente": "Benzinga",
+      "fecha": "03 Nov 2026 08:08 UTC",
+      "url": "https://finnhub.io/api/news?id=3efda73457d1e93d64044937e587b6cc30b0a12cb40a6cc124b31ad1a782506b",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Mixed as Trump Touts Iran Settlement Hopes — AAPL, PLTR, AMD in Focus (UPDATED)",
+      "resumen": "U.S. stocks were mixed on Tuesday, as the Dow Jones, S&amp;P 500, and Nasdaq 100 index futures moved in different directions.",
+      "fuente": "Benzinga",
+      "fecha": "03 Nov 2026 09:23 UTC",
+      "url": "https://finnhub.io/api/news?id=cc8f054268287e79b13eb4d0cbbb4c390acc51649dc2d805b4d30b9f02480e68",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/03/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "SNDX",
+      "titulo": "Apple To $350? Here Are 10 Top Analyst Forecasts For Tuesday",
+      "resumen": "Analysts raised targets for TEM, TWLO, UPWK, MRSH and PLTR; cut MRVL and AAPL targets, with upgrades for TWLO and MRSH.",
+      "fuente": "Benzinga",
+      "fecha": "03 Nov 2026 09:43 UTC",
+      "url": "https://finnhub.io/api/news?id=6e1882f9b5577670c37977c492e740d4f7f1be3a9eae643b6e3a1f201012592f",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/03/Cupertino--California--September-25--202.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Apple To $350? Here Are 10 Top Analyst Forecasts For Tuesday",
+      "resumen": "Analysts raised targets for TEM, TWLO, UPWK, MRSH and PLTR; cut MRVL and AAPL targets, with upgrades for TWLO and MRSH.",
+      "fuente": "Benzinga",
+      "fecha": "03 Nov 2026 09:43 UTC",
+      "url": "https://finnhub.io/api/news?id=6e1882f9b5577670c37977c492e740d4f7f1be3a9eae643b6e3a1f201012592f",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/03/Cupertino--California--September-25--202.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex: 3 Key Takeaways for Long-Term Investors",
+      "resumen": "Vertex is betting on nephrology and rare endocrinology to build a fifth and fourth commercial pillar beyond cystic fibrosis.",
+      "fuente": "Yahoo",
+      "fecha": "03 Nov 2026 12:19 UTC",
+      "url": "https://finnhub.io/api/news?id=60e96d7c9204d5ac05c7cdc7d78bfc5c3f1fc208614d84413e2cd117f5670a74",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",

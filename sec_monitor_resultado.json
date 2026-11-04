@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "03/11/2026 14:51",
+  "generado": "04/11/2026 15:09",
   "periodo_dias": 7,
-  "desde": "2026-10-27",
-  "hasta": "2026-11-03",
+  "desde": "2026-10-28",
+  "hasta": "2026-11-04",
   "resumen": {
-    "total_filings": 12,
-    "alertas_rojas": 0,
+    "total_filings": 15,
+    "alertas_rojas": 1,
     "alertas_verdes": 0,
-    "alertas_amarillas": 6,
-    "alertas_azules": 6,
-    "sin_novedad": 11
+    "alertas_amarillas": 7,
+    "alertas_azules": 7,
+    "sin_novedad": 10
   },
   "tickers": {
     "SNDX": {
@@ -129,9 +129,59 @@
       "cik": "0001714899",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "10-Q",
+          "fecha": "2026-11-03",
+          "nivel": "rojo",
+          "badge": "🔴 ALTA",
+          "resumen": "Caja: $102.9M · Burn: $115.2M/mes · Shares: 156.2M · ⚠️ GOING CONCERN · ⚖️ Litigios activos",
+          "detalle": "10-Q",
+          "empresa_sec": "Denali Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000109/dnli-20260930.htm",
+          "form4_detail": null,
+          "8k_detail": null,
+          "10q_detail": {
+            "caja_mm": 102.9,
+            "burn_trimestral_mm": 345.6,
+            "burn_mensual_mm": 115.2,
+            "runway_meses": 0,
+            "shares_outstanding_mm": 156.2,
+            "litigios_detectados": true,
+            "shelf_mencionado": false,
+            "going_concern": true,
+            "extracto_financiero": "30, 2026 December 31, 2025 Assets Current assets: Cash and cash equivalents $ 102,870 &#160; $ 205,326 &#160; Short-term marketable securities 413,326 &#160; 662,553 &#160; Accounts receivable, net 18,882 &#160; &#8212; &#160; Inventory 26,275 &#160; &#8212; &#160; Prepaid expenses and other current assets 30,355 &#160; 32,779 &#160; Total current",
+            "resumen_10q": "Caja: $102.9M · Burn: $115.2M/mes · Shares: 156.2M · ⚠️ GOING CONCERN · ⚖️ Litigios activos"
+          },
+          "prospecto_detail": null
+        },
+        {
+          "form": "8-K",
+          "fecha": "2026-11-03",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "Denali Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000107/dnli-20261103.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "2.02",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 2.02 Results of Operations and Financial Condition. On November 3, 2026, Denali Therapeutics Inc. (the \"Company\") issued a press release announcing its financial results for the third quarter ended September 30, 2026. The full text of the press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference. All of the information furnished in this Item 2.02 and Item 9.01 (including Exhibit 99.1) shall not be deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, and shall not be incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, except as shall be expressly set forth by specific reference in such a filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press Release dated November 3, 2026. 104 Cover Page Interactive Data File (formatted as Inline XBRL) SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. DENALI THERAPEUTICS INC. Date: November 3, 2026 By: /s/ Alexander O. Schuth Alexander O. Schuth, M.D. Chief Operating and Financial Officer",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "rojo",
+      "badge": "🔴",
       "error": null
     },
     "VKTX": {
@@ -203,6 +253,31 @@
       "validacion_empresa": "OK",
       "filings": [
         {
+          "form": "10-Q",
+          "fecha": "2026-11-03",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Caja: $4979.3M · Shares: 254.0M · ⚖️ Litigios activos",
+          "detalle": "10-Q",
+          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000291/vrtx-20260930.htm",
+          "form4_detail": null,
+          "8k_detail": null,
+          "10q_detail": {
+            "caja_mm": 4979.3,
+            "burn_trimestral_mm": null,
+            "burn_mensual_mm": null,
+            "runway_meses": null,
+            "shares_outstanding_mm": 254.0,
+            "litigios_detectados": true,
+            "shelf_mencionado": false,
+            "going_concern": false,
+            "extracto_financiero": "30, 2026 December 31, 2025 Assets Current assets: Cash and cash equivalents $ 4,979.3 $ 5,084.8 Marketable securities 1,324.0 1,523.3 Accounts receivable, net 2,311.0 2,052.8 Inventories 2,245.3 1,686.8 Prepaid expenses and other current assets 826.7 853.3 Total current assets 11,686.3 11,201.0 Property and equipment, net 1,711.5 1,520.3 Goodwill 2",
+            "resumen_10q": "Caja: $4979.3M · Shares: 254.0M · ⚖️ Litigios activos"
+          },
+          "prospecto_detail": null
+        },
+        {
           "form": "8-K",
           "fecha": "2026-11-02",
           "nivel": "azul",
@@ -227,8 +302,8 @@
           "prospecto_detail": null
         }
       ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "ALNY": {
@@ -510,8 +585,116 @@
       "error": "Sin CIK SEC"
     }
   },
-  "alertas_criticas": [],
+  "alertas_criticas": [
+    {
+      "ticker": "DNLI",
+      "nombre": "Denali Therapeutics Inc.",
+      "form": "10-Q",
+      "fecha": "2026-11-03",
+      "nivel": "rojo",
+      "badge": "🔴 ALTA",
+      "resumen": "Caja: $102.9M · Burn: $115.2M/mes · Shares: 156.2M · ⚠️ GOING CONCERN · ⚖️ Litigios activos",
+      "detalle": "10-Q",
+      "empresa_sec": "Denali Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000109/dnli-20260930.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": {
+        "caja_mm": 102.9,
+        "burn_trimestral_mm": 345.6,
+        "burn_mensual_mm": 115.2,
+        "runway_meses": 0,
+        "shares_outstanding_mm": 156.2,
+        "litigios_detectados": true,
+        "shelf_mencionado": false,
+        "going_concern": true,
+        "extracto_financiero": "30, 2026 December 31, 2025 Assets Current assets: Cash and cash equivalents $ 102,870 &#160; $ 205,326 &#160; Short-term marketable securities 413,326 &#160; 662,553 &#160; Accounts receivable, net 18,882 &#160; &#8212; &#160; Inventory 26,275 &#160; &#8212; &#160; Prepaid expenses and other current assets 30,355 &#160; 32,779 &#160; Total current",
+        "resumen_10q": "Caja: $102.9M · Burn: $115.2M/mes · Shares: 156.2M · ⚠️ GOING CONCERN · ⚖️ Litigios activos"
+      },
+      "prospecto_detail": null
+    }
+  ],
   "todos_filings": [
+    {
+      "ticker": "DNLI",
+      "nombre": "Denali Therapeutics Inc.",
+      "form": "10-Q",
+      "fecha": "2026-11-03",
+      "nivel": "rojo",
+      "badge": "🔴 ALTA",
+      "resumen": "Caja: $102.9M · Burn: $115.2M/mes · Shares: 156.2M · ⚠️ GOING CONCERN · ⚖️ Litigios activos",
+      "detalle": "10-Q",
+      "empresa_sec": "Denali Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000109/dnli-20260930.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": {
+        "caja_mm": 102.9,
+        "burn_trimestral_mm": 345.6,
+        "burn_mensual_mm": 115.2,
+        "runway_meses": 0,
+        "shares_outstanding_mm": 156.2,
+        "litigios_detectados": true,
+        "shelf_mencionado": false,
+        "going_concern": true,
+        "extracto_financiero": "30, 2026 December 31, 2025 Assets Current assets: Cash and cash equivalents $ 102,870 &#160; $ 205,326 &#160; Short-term marketable securities 413,326 &#160; 662,553 &#160; Accounts receivable, net 18,882 &#160; &#8212; &#160; Inventory 26,275 &#160; &#8212; &#160; Prepaid expenses and other current assets 30,355 &#160; 32,779 &#160; Total current",
+        "resumen_10q": "Caja: $102.9M · Burn: $115.2M/mes · Shares: 156.2M · ⚠️ GOING CONCERN · ⚖️ Litigios activos"
+      },
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "DNLI",
+      "nombre": "Denali Therapeutics Inc.",
+      "form": "8-K",
+      "fecha": "2026-11-03",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Denali Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1714899/000171489926000107/dnli-20261103.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "2.02",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 2.02 Results of Operations and Financial Condition. On November 3, 2026, Denali Therapeutics Inc. (the \"Company\") issued a press release announcing its financial results for the third quarter ended September 30, 2026. The full text of the press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference. All of the information furnished in this Item 2.02 and Item 9.01 (including Exhibit 99.1) shall not be deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, and shall not be incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, except as shall be expressly set forth by specific reference in such a filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press Release dated November 3, 2026. 104 Cover Page Interactive Data File (formatted as Inline XBRL) SIGNATURE Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. DENALI THERAPEUTICS INC. Date: November 3, 2026 By: /s/ Alexander O. Schuth Alexander O. Schuth, M.D. Chief Operating and Financial Officer",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "VRTX",
+      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
+      "form": "10-Q",
+      "fecha": "2026-11-03",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Caja: $4979.3M · Shares: 254.0M · ⚖️ Litigios activos",
+      "detalle": "10-Q",
+      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
+      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000291/vrtx-20260930.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": {
+        "caja_mm": 4979.3,
+        "burn_trimestral_mm": null,
+        "burn_mensual_mm": null,
+        "runway_meses": null,
+        "shares_outstanding_mm": 254.0,
+        "litigios_detectados": true,
+        "shelf_mencionado": false,
+        "going_concern": false,
+        "extracto_financiero": "30, 2026 December 31, 2025 Assets Current assets: Cash and cash equivalents $ 4,979.3 $ 5,084.8 Marketable securities 1,324.0 1,523.3 Accounts receivable, net 2,311.0 2,052.8 Inventories 2,245.3 1,686.8 Prepaid expenses and other current assets 826.7 853.3 Total current assets 11,686.3 11,201.0 Property and equipment, net 1,711.5 1,520.3 Goodwill 2",
+        "resumen_10q": "Caja: $4979.3M · Shares: 254.0M · ⚖️ Litigios activos"
+      },
+      "prospecto_detail": null
+    },
     {
       "ticker": "BEAM",
       "nombre": "Beam Therapeutics Inc.",

@@ -1,10 +1,20 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 03/11/2026 14:51 | Período: últimos 7 días
-Desde: 2026-10-27 → Hasta: 2026-11-03
+Generado: 04/11/2026 15:09 | Período: últimos 7 días
+Desde: 2026-10-28 → Hasta: 2026-11-04
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 12 filings | 🔴 0 | 🟢 0 | 🟡 6 | 🔵 6 | ✅ 11 sin novedad
+RESUMEN: 15 filings | 🔴 1 | 🟢 0 | 🟡 7 | 🔵 7 | ✅ 10 sin novedad
+
+──────────────────────────────────────────────────
+🚨 ALERTAS CRÍTICAS (1)
+──────────────────────────────────────────────────
+
+  [DNLI] Denali Therapeutics Inc.
+  🔴 ALTA 10-Q | 2026-11-03
+  Caja: $102.9M · Burn: $115.2M/mes · Shares: 156.2M · ⚠️ GOING CONCERN · ⚖️ Litigios activos
+  Financiero: Caja: $102.9M · Burn: $115.2M/mes · Shares: 156.2M · ⚠️ GOING CONCERN · ⚖️ Litigios activos
+  → https://www.sec.gov/Archives/edgar/data/1714899/000171489926000109/dnli-20260930.htm
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -21,7 +31,13 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1395937/000119312526442119/xslF345X06/ownership.xml
   ✅ [ARGX] Sin novedades
   ✅ [DYN] Sin novedades
-  ✅ [DNLI] Sin novedades
+
+  🔴 [DNLI] Denali Therapeutics Inc. — 2 filing(s)
+     🔴 ALTA 10-Q | 2026-11-03 | Caja: $102.9M · Burn: $115.2M/mes · Shares: 156.2M · ⚠️ GOING CONCERN · ⚖️ Litigios activos
+     10-Q: Caja: $102.9M · Burn: $115.2M/mes · Shares: 156.2M · ⚠️ GOING CONCERN · ⚖️ Litigios activos
+     → https://www.sec.gov/Archives/edgar/data/1714899/000171489926000109/dnli-20260930.htm
+     🔵 INFO 8-K | 2026-11-03 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1714899/000171489926000107/dnli-20261103.htm
 
   🟡 [VKTX] Viking Therapeutics, Inc. — 2 filing(s)
      🟡 MEDIA 10-Q | 2026-10-29 | ⚖️ Litigios activos · 📋 Shelf mencionado
@@ -30,7 +46,10 @@ DETALLE POR TICKER — SEC EDGAR
      🔵 INFO 8-K | 2026-10-28 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1607678/000119312526436145/vktx-20261028.htm
 
-  🔵 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 1 filing(s)
+  🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 2 filing(s)
+     🟡 MEDIA 10-Q | 2026-11-03 | Caja: $4979.3M · Shares: 254.0M · ⚖️ Litigios activos
+     10-Q: Caja: $4979.3M · Shares: 254.0M · ⚖️ Litigios activos
+     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000291/vrtx-20260930.htm
      🔵 INFO 8-K | 2026-11-02 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000287/vrtx-20261102.htm
 

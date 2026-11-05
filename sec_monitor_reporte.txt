@@ -1,14 +1,20 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 04/11/2026 15:09 | Período: últimos 7 días
-Desde: 2026-10-28 → Hasta: 2026-11-04
+Generado: 05/11/2026 15:12 | Período: últimos 7 días
+Desde: 2026-10-29 → Hasta: 2026-11-05
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 15 filings | 🔴 1 | 🟢 0 | 🟡 7 | 🔵 7 | ✅ 10 sin novedad
+RESUMEN: 19 filings | 🔴 2 | 🟢 0 | 🟡 8 | 🔵 9 | ✅ 8 sin novedad
 
 ──────────────────────────────────────────────────
-🚨 ALERTAS CRÍTICAS (1)
+🚨 ALERTAS CRÍTICAS (2)
 ──────────────────────────────────────────────────
+
+  [DYN] Dyne Therapeutics, Inc.
+  🔴 ALTA 10-Q | 2026-11-05
+  Shares: 187.4M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado
+  Financiero: Shares: 187.4M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado
+  → https://www.sec.gov/Archives/edgar/data/1818794/000181879426000012/dyn-20260930.htm
 
   [DNLI] Denali Therapeutics Inc.
   🔴 ALTA 10-Q | 2026-11-03
@@ -30,7 +36,13 @@ DETALLE POR TICKER — SEC EDGAR
      Insider: Podlesak Dennis → Ejercicio opción 8,000 acciones @ $11.81 | Post: 247,763 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1395937/000119312526442119/xslF345X06/ownership.xml
   ✅ [ARGX] Sin novedades
-  ✅ [DYN] Sin novedades
+
+  🔴 [DYN] Dyne Therapeutics, Inc. — 2 filing(s)
+     🔵 INFO 8-K | 2026-11-05 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1818794/000181879426000013/dyn-20261105.htm
+     🔴 ALTA 10-Q | 2026-11-05 | Shares: 187.4M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado
+     10-Q: Shares: 187.4M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado
+     → https://www.sec.gov/Archives/edgar/data/1818794/000181879426000012/dyn-20260930.htm
 
   🔴 [DNLI] Denali Therapeutics Inc. — 2 filing(s)
      🔴 ALTA 10-Q | 2026-11-03 | Caja: $102.9M · Burn: $115.2M/mes · Shares: 156.2M · ⚠️ GOING CONCERN · ⚖️ Litigios activos
@@ -39,12 +51,10 @@ DETALLE POR TICKER — SEC EDGAR
      🔵 INFO 8-K | 2026-11-03 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1714899/000171489926000107/dnli-20261103.htm
 
-  🟡 [VKTX] Viking Therapeutics, Inc. — 2 filing(s)
+  🟡 [VKTX] Viking Therapeutics, Inc. — 1 filing(s)
      🟡 MEDIA 10-Q | 2026-10-29 | ⚖️ Litigios activos · 📋 Shelf mencionado
      10-Q: ⚖️ Litigios activos · 📋 Shelf mencionado
      → https://www.sec.gov/Archives/edgar/data/1607678/000119312526436432/vktx-20260930.htm
-     🔵 INFO 8-K | 2026-10-28 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1607678/000119312526436145/vktx-20261028.htm
 
   🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 2 filing(s)
      🟡 MEDIA 10-Q | 2026-11-03 | Caja: $4979.3M · Shares: 254.0M · ⚖️ Litigios activos
@@ -53,7 +63,9 @@ DETALLE POR TICKER — SEC EDGAR
      🔵 INFO 8-K | 2026-11-02 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000287/vrtx-20261102.htm
 
-  🟡 [ALNY] ALNYLAM PHARMACEUTICALS, INC. — 2 filing(s)
+  🟡 [ALNY] ALNYLAM PHARMACEUTICALS, INC. — 3 filing(s)
+     🔵 INFO 8-K | 2026-11-05 | Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02, 8.01, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000080/alny-20261102.htm
      🟡 MEDIA 10-Q | 2026-10-29 | Caja: $1754.3M · Shares: 133875.0M · ⚖️ Litigios activos
      10-Q: Caja: $1754.3M · Shares: 133875.0M · ⚖️ Litigios activos
      → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000076/alny-20260930.htm
@@ -67,7 +79,13 @@ DETALLE POR TICKER — SEC EDGAR
      🔵 INFO 8-K | 2026-11-03 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1745999/000119312526444454/beam-20261103.htm
   ✅ [OCUL] Sin novedades
-  ✅ [CAI] Sin novedades
+
+  🟡 [CAI] Caris Life Sciences, Inc. — 2 filing(s)
+     🟡 MEDIA 10-Q | 2026-11-04 | Shares: 282.5M · ⚖️ Litigios activos
+     10-Q: Shares: 282.5M · ⚖️ Litigios activos
+     → https://www.sec.gov/Archives/edgar/data/2019410/000201941026000069/cai-20260930.htm
+     🔵 INFO 8-K | 2026-11-04 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/2019410/000201941026000067/cai-20261104.htm
   ✅ [GPCR] Sin novedades
   ✅ [ABVX] Sin novedades
   ✅ [VERA] Sin novedades

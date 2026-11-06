@@ -1,14 +1,19 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 05/11/2026 15:12 | Período: últimos 7 días
-Desde: 2026-10-29 → Hasta: 2026-11-05
+Generado: 06/11/2026 14:48 | Período: últimos 7 días
+Desde: 2026-10-30 → Hasta: 2026-11-06
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 19 filings | 🔴 2 | 🟢 0 | 🟡 8 | 🔵 9 | ✅ 8 sin novedad
+RESUMEN: 19 filings | 🔴 2 | 🟢 1 | 🟡 7 | 🔵 9 | ✅ 7 sin novedad
 
 ──────────────────────────────────────────────────
-🚨 ALERTAS CRÍTICAS (2)
+🚨 ALERTAS CRÍTICAS (3)
 ──────────────────────────────────────────────────
+
+  [ACRV] Acrivon Therapeutics, Inc.
+  🟢 ALTA 8-K | 2026-11-06
+  8-K — Evento positivo potencial: Asset purchase / venta de activo [Items: 8.01, 9.01]
+  → https://www.sec.gov/Archives/edgar/data/1781174/000119312526450779/acrv-20261106.htm
 
   [DYN] Dyne Therapeutics, Inc.
   🔴 ALTA 10-Q | 2026-11-05
@@ -50,11 +55,7 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1714899/000171489926000109/dnli-20260930.htm
      🔵 INFO 8-K | 2026-11-03 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1714899/000171489926000107/dnli-20261103.htm
-
-  🟡 [VKTX] Viking Therapeutics, Inc. — 1 filing(s)
-     🟡 MEDIA 10-Q | 2026-10-29 | ⚖️ Litigios activos · 📋 Shelf mencionado
-     10-Q: ⚖️ Litigios activos · 📋 Shelf mencionado
-     → https://www.sec.gov/Archives/edgar/data/1607678/000119312526436432/vktx-20260930.htm
+  ✅ [VKTX] Sin novedades
 
   🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 2 filing(s)
      🟡 MEDIA 10-Q | 2026-11-03 | Caja: $4979.3M · Shares: 254.0M · ⚖️ Litigios activos
@@ -63,14 +64,9 @@ DETALLE POR TICKER — SEC EDGAR
      🔵 INFO 8-K | 2026-11-02 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000287/vrtx-20261102.htm
 
-  🟡 [ALNY] ALNYLAM PHARMACEUTICALS, INC. — 3 filing(s)
+  🔵 [ALNY] ALNYLAM PHARMACEUTICALS, INC. — 1 filing(s)
      🔵 INFO 8-K | 2026-11-05 | Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02, 8.01, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000080/alny-20261102.htm
-     🟡 MEDIA 10-Q | 2026-10-29 | Caja: $1754.3M · Shares: 133875.0M · ⚖️ Litigios activos
-     10-Q: Caja: $1754.3M · Shares: 133875.0M · ⚖️ Litigios activos
-     → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000076/alny-20260930.htm
-     🔵 INFO 8-K | 2026-10-29 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000074/alny-20261029.htm
 
   🟡 [BEAM] Beam Therapeutics Inc. — 2 filing(s)
      🟡 MEDIA 10-Q | 2026-11-03 | ⚖️ Litigios activos · 📋 Shelf mencionado
@@ -88,17 +84,26 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/2019410/000201941026000067/cai-20261104.htm
   ✅ [GPCR] Sin novedades
   ✅ [ABVX] Sin novedades
-  ✅ [VERA] Sin novedades
-  ✅ [ACRV] Sin novedades
-  ✅ [TARA] Sin novedades
-  ✅ [SENS] Sin novedades
 
-  🟡 [INSM] INSMED Inc — 2 filing(s)
-     🔵 INFO 8-K | 2026-10-29 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1104506/000114036126041097/ef20084500_8k.htm
-     🟡 MEDIA 10-Q | 2026-10-29 | Caja: $396.6M · Burn: $116.0M/mes · Runway: 3 meses · Shares: 219.3M · ⚖️ Litigios activos
-     10-Q: Caja: $396.6M · Burn: $116.0M/mes · Runway: 3 meses · Shares: 219.3M · ⚖️ Litigios activos
-     → https://www.sec.gov/Archives/edgar/data/1104506/000110450626000047/insm-20260930.htm
+  🟡 [VERA] Vera Therapeutics, Inc. — 2 filing(s)
+     🟡 MEDIA 10-Q | 2026-11-05 | Shares: 72.3M · ⚖️ Litigios activos
+     10-Q: Shares: 72.3M · ⚖️ Litigios activos
+     → https://www.sec.gov/Archives/edgar/data/1831828/000119312526449826/vera-20260930.htm
+     🔵 INFO 8-K | 2026-11-05 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1831828/000119312526449780/vera-20261105.htm
+
+  🟢 [ACRV] Acrivon Therapeutics, Inc. — 1 filing(s)
+     🟢 ALTA 8-K | 2026-11-06 | 8-K — Evento positivo potencial: Asset purchase / venta de activo [Items: 8.01, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1781174/000119312526450779/acrv-20261106.htm
+
+  🟡 [TARA] Protara Therapeutics, Inc. — 2 filing(s)
+     🟡 MEDIA 10-Q | 2026-11-06 | Shares: 5615.0M · ⚖️ Litigios activos · 📋 Shelf mencionado
+     10-Q: Shares: 5615.0M · ⚖️ Litigios activos · 📋 Shelf mencionado
+     → https://www.sec.gov/Archives/edgar/data/1359931/000121390026116612/ea0309353-10q_protara.htm
+     🔵 INFO 8-K | 2026-11-06 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1359931/000121390026116607/ea0309567-8k_protara.htm
+  ✅ [SENS] Sin novedades
+  ✅ [INSM] Sin novedades
   ⚪ [NWL] Sin CIK SEC
 
 ──────────────────────────────────────────────────
@@ -136,7 +141,7 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Reclutando activamente
        Enrollment: 150 pacientes
        Primary completion: 2028-07
-       Última actualización: 2026-10-13
+       Última actualización: 2026-11-06
        → https://clinicaltrials.gov/study/NCT07486934
 
   [VKTX]

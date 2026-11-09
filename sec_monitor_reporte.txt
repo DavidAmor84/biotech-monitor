@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 06/11/2026 14:48 | Período: últimos 7 días
-Desde: 2026-10-30 → Hasta: 2026-11-06
+Generado: 09/11/2026 17:12 | Período: últimos 7 días
+Desde: 2026-11-02 → Hasta: 2026-11-09
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 19 filings | 🔴 2 | 🟢 1 | 🟡 7 | 🔵 9 | ✅ 7 sin novedad
+RESUMEN: 21 filings | 🔴 2 | 🟢 1 | 🟡 9 | 🔵 9 | ✅ 6 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (3)
@@ -31,15 +31,12 @@ RESUMEN: 19 filings | 🔴 2 | 🟢 1 | 🟡 7 | 🔵 9 | ✅ 7 sin novedad
 DETALLE POR TICKER — SEC EDGAR
 ──────────────────────────────────────────────────
 
-  🟡 [SNDX] Syndax Pharmaceuticals Inc — 3 filing(s)
+  🟡 [SNDX] Syndax Pharmaceuticals Inc — 2 filing(s)
      🟡 MEDIA 10-Q | 2026-11-02 | ⚖️ Litigios activos · 📋 Shelf mencionado
      10-Q: ⚖️ Litigios activos · 📋 Shelf mencionado
      → https://www.sec.gov/Archives/edgar/data/1395937/000119312526443625/sndx-20260930.htm
      🟡 MEDIA 8-K | 2026-11-02 | Item 5.02: Cambio directivo relevante [Items: 2.02, 5.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1395937/000119312526443613/sndx-20261102.htm
-     🔵 INFO 4 | 2026-10-30 | Podlesak Dennis → Ejercicio opción 8,000 acciones @ $11.81 | Post: 247,763 | Rutinaria/RSU/impuestos
-     Insider: Podlesak Dennis → Ejercicio opción 8,000 acciones @ $11.81 | Post: 247,763 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1395937/000119312526442119/xslF345X06/ownership.xml
   ✅ [ARGX] Sin novedades
 
   🔴 [DYN] Dyne Therapeutics, Inc. — 2 filing(s)
@@ -74,7 +71,15 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1745999/000119312526444455/beam-20260930.htm
      🔵 INFO 8-K | 2026-11-03 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1745999/000119312526444454/beam-20261103.htm
-  ✅ [OCUL] Sin novedades
+
+  🟡 [OCUL] OCULAR THERAPEUTIX, INC — 3 filing(s)
+     🟡 MEDIA 8-K | 2026-11-09 | Item 5.02: Cambio directivo relevante [Items: 5.02]
+     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926124159/tm2629303d1_8k.htm
+     🟡 MEDIA 10-Q | 2026-11-09 | Shares: 215.9M · ⚖️ Litigios activos · 📋 Shelf mencionado
+     10-Q: Shares: 215.9M · ⚖️ Litigios activos · 📋 Shelf mencionado
+     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926124155/ocul-20260930x10q.htm
+     🔵 INFO 8-K | 2026-11-09 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926124151/tm2629079d2_8k.htm
 
   🟡 [CAI] Caris Life Sciences, Inc. — 2 filing(s)
      🟡 MEDIA 10-Q | 2026-11-04 | Shares: 282.5M · ⚖️ Litigios activos

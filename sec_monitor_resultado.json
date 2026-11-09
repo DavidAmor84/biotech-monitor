@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "06/11/2026 14:48",
+  "generado": "09/11/2026 17:12",
   "periodo_dias": 7,
-  "desde": "2026-10-30",
-  "hasta": "2026-11-06",
+  "desde": "2026-11-02",
+  "hasta": "2026-11-09",
   "resumen": {
-    "total_filings": 19,
+    "total_filings": 21,
     "alertas_rojas": 2,
     "alertas_verdes": 1,
-    "alertas_amarillas": 7,
+    "alertas_amarillas": 9,
     "alertas_azules": 9,
-    "sin_novedad": 7
+    "sin_novedad": 6
   },
   "tickers": {
     "SNDX": {
@@ -67,32 +67,6 @@
             "badge_ajustado": "🟡 MEDIA",
             "resumen_ajustado": "Item 5.02: Cambio directivo relevante"
           },
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-10-30",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "Podlesak Dennis → Ejercicio opción 8,000 acciones @ $11.81 | Post: 247,763 | Rutinaria/RSU/impuestos",
-          "detalle": "4",
-          "empresa_sec": "Syndax Pharmaceuticals Inc",
-          "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526442119/xslF345X06/ownership.xml",
-          "form4_detail": {
-            "insider_nombre": "Podlesak Dennis",
-            "insider_cargo": null,
-            "transaccion_codigo": "M",
-            "transaccion_tipo": "Ejercicio opción",
-            "transaccion_acciones": "8000",
-            "transaccion_precio": "11.81",
-            "transaccion_fecha": "2026-10-29",
-            "acciones_post": "247763",
-            "footnotes": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 plan adopted by the Reporting Person solely covering equity grants with expiration dates prior to Octobre 31, 2026. Following the sales reported in this Form 4, the Reporting Person has a total of 127,000 options to purchase shares of common stock that are vested and immediately exercisable and no unvested options to purchase shares of common stock. The sale prices ranged from $14.00 to $14.59. This option is fully vested.",
-            "es_rutinaria": true,
-            "resumen_detail": "Podlesak Dennis → Ejercicio opción 8,000 acciones @ $11.81 | Post: 247,763 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
           "10q_detail": null,
           "prospecto_detail": null
         }
@@ -410,9 +384,82 @@
       "cik": "0001393434",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "8-K",
+          "fecha": "2026-11-09",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Item 5.02: Cambio directivo relevante [Items: 5.02]",
+          "detalle": "FORM 8-K",
+          "empresa_sec": "OCULAR THERAPEUTIX, INC",
+          "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926124159/tm2629303d1_8k.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "5.02"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. Election of Riad Sherif, M.D. On November 6, 2026, the Board of Directors (the Board ) of Ocular Therapeutix, Inc. (the Company ), following the recommendation of the Nominating and Corporate Governance Committee of the Board, elected Riad Sherif, M.D., to serve as a member of the Board, effective immediately. Dr. Sherif was designated as a Class I member of the Board to serve until the Company s 2027 annual meeting of stockholders and thereafter until his successor is duly elected and qualified, or until his earlier death, resignation or removal. Dr. Sherif, age 58, has served as the Chief Executive Officer and a member of the board of directors of Oculis Holding AG, a clinical-stage biopharmaceutical company, since December 2017. From June 2016 to September 2017, Dr. Sherif served as Entrepreneur in Residence at the Novartis Venture Fund. Previously, Dr. Sherif served as the Region President, Europe, Middle East and Africa, of Alcon, then the eye care division of Novartis AG, from March 2014 to May 2016. From January 2002 to March 2014, Dr. Sherif held roles of increasing responsibility at Novartis AG, including as Head of Global Sales for Transplant and Immunology; as Vice President, Latin America Region for Infectious Diseases, Transplant and Immunology; as Vice President, Latin America Region for Novartis Vaccines and Diagnostics, during which time he co-founded Sinergium Biotech, a private vaccine manufacturing jo",
+            "nivel_ajustado": "amarillo",
+            "badge_ajustado": "🟡 MEDIA",
+            "resumen_ajustado": "Item 5.02: Cambio directivo relevante"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
+          "form": "10-Q",
+          "fecha": "2026-11-09",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Shares: 215.9M · ⚖️ Litigios activos · 📋 Shelf mencionado",
+          "detalle": "10-Q",
+          "empresa_sec": "OCULAR THERAPEUTIX, INC",
+          "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926124155/ocul-20260930x10q.htm",
+          "form4_detail": null,
+          "8k_detail": null,
+          "10q_detail": {
+            "caja_mm": null,
+            "burn_trimestral_mm": null,
+            "burn_mensual_mm": null,
+            "runway_meses": null,
+            "shares_outstanding_mm": 215.9,
+            "litigios_detectados": true,
+            "shelf_mencionado": true,
+            "going_concern": false,
+            "extracto_financiero": ": &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; Cash and cash equivalents &#8203; $ 530,612 &#8203; $ 737,060 Accounts receivable, net &#8203; &#8203; 31,388 &#8203; &#8203; 30,650 Inventory &#8203; &#8203; 4,260 &#8203; &#8203; 3,564 Prepaid expenses and other current assets &#8203; &#8203; 8,340 &#8203; &#8203; 10,855 Total current assets &#820",
+            "resumen_10q": "Shares: 215.9M · ⚖️ Litigios activos · 📋 Shelf mencionado"
+          },
+          "prospecto_detail": null
+        },
+        {
+          "form": "8-K",
+          "fecha": "2026-11-09",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+          "detalle": "FORM 8-K",
+          "empresa_sec": "OCULAR THERAPEUTIX, INC",
+          "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926124151/tm2629079d2_8k.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "2.02",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 2.02 Results of Operations and Financial Condition. On November 9, 2026, Ocular Therapeutix, Inc. announced its financial results for the quarter ended September 30, 2026. The full text of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference. The information in this Current Report on Form 8-K, including Exhibit 99.1 attached hereto, is furnished to comply with Item 2.02 of Form 8-K, and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits: 99.1 Press Release of Ocular Therapeutix, Inc., dated November 9, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. OCULAR THERAPEUTIX, INC. Date: November 9, 2026 By: /s/ Jason S. Robins Jason S. Robins Chief Financial Officer",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "CAI": {
@@ -769,6 +816,84 @@
     }
   ],
   "todos_filings": [
+    {
+      "ticker": "OCUL",
+      "nombre": "OCULAR THERAPEUTIX, INC",
+      "form": "8-K",
+      "fecha": "2026-11-09",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Item 5.02: Cambio directivo relevante [Items: 5.02]",
+      "detalle": "FORM 8-K",
+      "empresa_sec": "OCULAR THERAPEUTIX, INC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926124159/tm2629303d1_8k.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "5.02"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. Election of Riad Sherif, M.D. On November 6, 2026, the Board of Directors (the Board ) of Ocular Therapeutix, Inc. (the Company ), following the recommendation of the Nominating and Corporate Governance Committee of the Board, elected Riad Sherif, M.D., to serve as a member of the Board, effective immediately. Dr. Sherif was designated as a Class I member of the Board to serve until the Company s 2027 annual meeting of stockholders and thereafter until his successor is duly elected and qualified, or until his earlier death, resignation or removal. Dr. Sherif, age 58, has served as the Chief Executive Officer and a member of the board of directors of Oculis Holding AG, a clinical-stage biopharmaceutical company, since December 2017. From June 2016 to September 2017, Dr. Sherif served as Entrepreneur in Residence at the Novartis Venture Fund. Previously, Dr. Sherif served as the Region President, Europe, Middle East and Africa, of Alcon, then the eye care division of Novartis AG, from March 2014 to May 2016. From January 2002 to March 2014, Dr. Sherif held roles of increasing responsibility at Novartis AG, including as Head of Global Sales for Transplant and Immunology; as Vice President, Latin America Region for Infectious Diseases, Transplant and Immunology; as Vice President, Latin America Region for Novartis Vaccines and Diagnostics, during which time he co-founded Sinergium Biotech, a private vaccine manufacturing jo",
+        "nivel_ajustado": "amarillo",
+        "badge_ajustado": "🟡 MEDIA",
+        "resumen_ajustado": "Item 5.02: Cambio directivo relevante"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "OCUL",
+      "nombre": "OCULAR THERAPEUTIX, INC",
+      "form": "10-Q",
+      "fecha": "2026-11-09",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Shares: 215.9M · ⚖️ Litigios activos · 📋 Shelf mencionado",
+      "detalle": "10-Q",
+      "empresa_sec": "OCULAR THERAPEUTIX, INC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926124155/ocul-20260930x10q.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": {
+        "caja_mm": null,
+        "burn_trimestral_mm": null,
+        "burn_mensual_mm": null,
+        "runway_meses": null,
+        "shares_outstanding_mm": 215.9,
+        "litigios_detectados": true,
+        "shelf_mencionado": true,
+        "going_concern": false,
+        "extracto_financiero": ": &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; Cash and cash equivalents &#8203; $ 530,612 &#8203; $ 737,060 Accounts receivable, net &#8203; &#8203; 31,388 &#8203; &#8203; 30,650 Inventory &#8203; &#8203; 4,260 &#8203; &#8203; 3,564 Prepaid expenses and other current assets &#8203; &#8203; 8,340 &#8203; &#8203; 10,855 Total current assets &#820",
+        "resumen_10q": "Shares: 215.9M · ⚖️ Litigios activos · 📋 Shelf mencionado"
+      },
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "OCUL",
+      "nombre": "OCULAR THERAPEUTIX, INC",
+      "form": "8-K",
+      "fecha": "2026-11-09",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+      "detalle": "FORM 8-K",
+      "empresa_sec": "OCULAR THERAPEUTIX, INC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926124151/tm2629079d2_8k.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "2.02",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 2.02 Results of Operations and Financial Condition. On November 9, 2026, Ocular Therapeutix, Inc. announced its financial results for the quarter ended September 30, 2026. The full text of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference. The information in this Current Report on Form 8-K, including Exhibit 99.1 attached hereto, is furnished to comply with Item 2.02 of Form 8-K, and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits: 99.1 Press Release of Ocular Therapeutix, Inc., dated November 9, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. OCULAR THERAPEUTIX, INC. Date: November 9, 2026 By: /s/ Jason S. Robins Jason S. Robins Chief Financial Officer",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "ACRV",
       "nombre": "Acrivon Therapeutics, Inc.",
@@ -1244,34 +1369,6 @@
         "badge_ajustado": "🔵 INFO",
         "resumen_ajustado": "8-K — Sin clasificación específica por Item"
       },
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "SNDX",
-      "nombre": "Syndax Pharmaceuticals Inc",
-      "form": "4",
-      "fecha": "2026-10-30",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Podlesak Dennis → Ejercicio opción 8,000 acciones @ $11.81 | Post: 247,763 | Rutinaria/RSU/impuestos",
-      "detalle": "4",
-      "empresa_sec": "Syndax Pharmaceuticals Inc",
-      "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526442119/xslF345X06/ownership.xml",
-      "form4_detail": {
-        "insider_nombre": "Podlesak Dennis",
-        "insider_cargo": null,
-        "transaccion_codigo": "M",
-        "transaccion_tipo": "Ejercicio opción",
-        "transaccion_acciones": "8000",
-        "transaccion_precio": "11.81",
-        "transaccion_fecha": "2026-10-29",
-        "acciones_post": "247763",
-        "footnotes": "The sales reported in this Form 4 were effected pursuant to a Rule 10b5-1 plan adopted by the Reporting Person solely covering equity grants with expiration dates prior to Octobre 31, 2026. Following the sales reported in this Form 4, the Reporting Person has a total of 127,000 options to purchase shares of common stock that are vested and immediately exercisable and no unvested options to purchase shares of common stock. The sale prices ranged from $14.00 to $14.59. This option is fully vested.",
-        "es_rutinaria": true,
-        "resumen_detail": "Podlesak Dennis → Ejercicio opción 8,000 acciones @ $11.81 | Post: 247,763 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
       "10q_detail": null,
       "prospecto_detail": null
     }

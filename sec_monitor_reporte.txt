@@ -1,14 +1,20 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 09/11/2026 17:12 | Período: últimos 7 días
-Desde: 2026-11-02 → Hasta: 2026-11-09
+Generado: 10/11/2026 15:25 | Período: últimos 7 días
+Desde: 2026-11-03 → Hasta: 2026-11-10
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 21 filings | 🔴 2 | 🟢 1 | 🟡 9 | 🔵 9 | ✅ 6 sin novedad
+RESUMEN: 23 filings | 🔴 3 | 🟢 1 | 🟡 9 | 🔵 10 | ✅ 5 sin novedad
 
 ──────────────────────────────────────────────────
-🚨 ALERTAS CRÍTICAS (3)
+🚨 ALERTAS CRÍTICAS (4)
 ──────────────────────────────────────────────────
+
+  [SENS] Senseonics Holdings, Inc.
+  🔴 ALTA 10-Q | 2026-11-09
+  Shares: 41.3M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado
+  Financiero: Shares: 41.3M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado
+  → https://www.sec.gov/Archives/edgar/data/1616543/000110465926124515/sens-20260930x10q.htm
 
   [ACRV] Acrivon Therapeutics, Inc.
   🟢 ALTA 8-K | 2026-11-06
@@ -30,13 +36,7 @@ RESUMEN: 21 filings | 🔴 2 | 🟢 1 | 🟡 9 | 🔵 9 | ✅ 6 sin novedad
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
 ──────────────────────────────────────────────────
-
-  🟡 [SNDX] Syndax Pharmaceuticals Inc — 2 filing(s)
-     🟡 MEDIA 10-Q | 2026-11-02 | ⚖️ Litigios activos · 📋 Shelf mencionado
-     10-Q: ⚖️ Litigios activos · 📋 Shelf mencionado
-     → https://www.sec.gov/Archives/edgar/data/1395937/000119312526443625/sndx-20260930.htm
-     🟡 MEDIA 8-K | 2026-11-02 | Item 5.02: Cambio directivo relevante [Items: 2.02, 5.02, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1395937/000119312526443613/sndx-20261102.htm
+  ✅ [SNDX] Sin novedades
   ✅ [ARGX] Sin novedades
 
   🔴 [DYN] Dyne Therapeutics, Inc. — 2 filing(s)
@@ -54,12 +54,10 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1714899/000171489926000107/dnli-20261103.htm
   ✅ [VKTX] Sin novedades
 
-  🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 2 filing(s)
+  🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 1 filing(s)
      🟡 MEDIA 10-Q | 2026-11-03 | Caja: $4979.3M · Shares: 254.0M · ⚖️ Litigios activos
      10-Q: Caja: $4979.3M · Shares: 254.0M · ⚖️ Litigios activos
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000291/vrtx-20260930.htm
-     🔵 INFO 8-K | 2026-11-02 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000287/vrtx-20261102.htm
 
   🔵 [ALNY] ALNYLAM PHARMACEUTICALS, INC. — 1 filing(s)
      🔵 INFO 8-K | 2026-11-05 | Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02, 8.01, 9.01]
@@ -72,7 +70,10 @@ DETALLE POR TICKER — SEC EDGAR
      🔵 INFO 8-K | 2026-11-03 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1745999/000119312526444454/beam-20261103.htm
 
-  🟡 [OCUL] OCULAR THERAPEUTIX, INC — 3 filing(s)
+  🟡 [OCUL] OCULAR THERAPEUTIX, INC — 4 filing(s)
+     🟡 MEDIA 4 | 2026-11-09 | Saroj Namrata (Chief Business Officer) → Venta 35,370 acciones @ $6.55 | Post: 220,522 | Rutinaria/RSU/impuestos
+     Insider: Saroj Namrata (Chief Business Officer) → Venta 35,370 acciones @ $6.55 | Post: 220,522 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926124526/xslF345X06/tm2629271-1_4seq1.xml
      🟡 MEDIA 8-K | 2026-11-09 | Item 5.02: Cambio directivo relevante [Items: 5.02]
      → https://www.sec.gov/Archives/edgar/data/1393434/000110465926124159/tm2629303d1_8k.htm
      🟡 MEDIA 10-Q | 2026-11-09 | Shares: 215.9M · ⚖️ Litigios activos · 📋 Shelf mencionado
@@ -87,7 +88,13 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/2019410/000201941026000069/cai-20260930.htm
      🔵 INFO 8-K | 2026-11-04 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/2019410/000201941026000067/cai-20261104.htm
-  ✅ [GPCR] Sin novedades
+
+  🟡 [GPCR] Structure Therapeutics Inc. — 2 filing(s)
+     🟡 MEDIA 10-Q | 2026-11-09 | Shares: 212513.0M · ⚖️ Litigios activos · 📋 Shelf mencionado
+     10-Q: Shares: 212513.0M · ⚖️ Litigios activos · 📋 Shelf mencionado
+     → https://www.sec.gov/Archives/edgar/data/1888886/000110465926124503/gpcr-20260930x10q.htm
+     🔵 INFO 8-K | 2026-11-09 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1888886/000110465926124494/tm2629207d1_8k.htm
   ✅ [ABVX] Sin novedades
 
   🟡 [VERA] Vera Therapeutics, Inc. — 2 filing(s)
@@ -107,7 +114,13 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026116612/ea0309353-10q_protara.htm
      🔵 INFO 8-K | 2026-11-06 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1359931/000121390026116607/ea0309567-8k_protara.htm
-  ✅ [SENS] Sin novedades
+
+  🔴 [SENS] Senseonics Holdings, Inc. — 2 filing(s)
+     🔴 ALTA 10-Q | 2026-11-09 | Shares: 41.3M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado
+     10-Q: Shares: 41.3M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado
+     → https://www.sec.gov/Archives/edgar/data/1616543/000110465926124515/sens-20260930x10q.htm
+     🔵 INFO 8-K | 2026-11-09 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1616543/000110465926124500/sens-20261109x8k.htm
   ✅ [INSM] Sin novedades
   ⚪ [NWL] Sin CIK SEC
 

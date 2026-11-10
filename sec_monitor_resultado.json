@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "09/11/2026 17:12",
+  "generado": "10/11/2026 15:25",
   "periodo_dias": 7,
-  "desde": "2026-11-02",
-  "hasta": "2026-11-09",
+  "desde": "2026-11-03",
+  "hasta": "2026-11-10",
   "resumen": {
-    "total_filings": 21,
-    "alertas_rojas": 2,
+    "total_filings": 23,
+    "alertas_rojas": 3,
     "alertas_verdes": 1,
     "alertas_amarillas": 9,
-    "alertas_azules": 9,
-    "sin_novedad": 6
+    "alertas_azules": 10,
+    "sin_novedad": 5
   },
   "tickers": {
     "SNDX": {
@@ -19,60 +19,9 @@
       "cik": "0001395937",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "10-Q",
-          "fecha": "2026-11-02",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "⚖️ Litigios activos · 📋 Shelf mencionado",
-          "detalle": "10-Q",
-          "empresa_sec": "Syndax Pharmaceuticals Inc",
-          "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526443625/sndx-20260930.htm",
-          "form4_detail": null,
-          "8k_detail": null,
-          "10q_detail": {
-            "caja_mm": null,
-            "burn_trimestral_mm": null,
-            "burn_mensual_mm": null,
-            "runway_meses": null,
-            "shares_outstanding_mm": null,
-            "litigios_detectados": true,
-            "shelf_mencionado": true,
-            "going_concern": false,
-            "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 135,941 &#160; &#160; $ 134,930 &#160; Short-term investments &#160; &#160; 291,163 &#160; &#160; &#160; 259,140 &#160; Accounts receivable, net &#160; &#160; 46,866 &#160; &#160; &#160; 37,996 &#160; Inventory, net &#160; &#160; 39,376 &#160; &#160; &#160; 32,754",
-            "resumen_10q": "⚖️ Litigios activos · 📋 Shelf mencionado"
-          },
-          "prospecto_detail": null
-        },
-        {
-          "form": "8-K",
-          "fecha": "2026-11-02",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Item 5.02: Cambio directivo relevante [Items: 2.02, 5.02, 9.01]",
-          "detalle": "8-K",
-          "empresa_sec": "Syndax Pharmaceuticals Inc",
-          "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526443613/sndx-20261102.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "2.02",
-              "5.02",
-              "9.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 2.02. Results of Operations and Financial Condition. On November 2, 2026, Syndax Pharmaceuticals, Inc. (the Company ) issued a press release and presentation announcing its financial results for the quarter ended September 30, 2026. A copy of the press release and presentation are furnished as Exhibits 99.1 and 99.2 to this Current Report on Form 8-K and are incorporated herein by reference. The information contained in this Item 2.02 and in Exhibits 99.1 and 99.2 attached hereto is intended to be furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any of the Company s filings under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensation Arrangements of Certain Officers. On November 2, 2026, the Company issued a press release announcing that Keith A. Goldan will retire as the Company s Chief Financial Officer, principal accounting and financial officer and treasurer effective November 9, 2026, after which he will continue as an advisor for an interim period until his retirement. Prior to his retirement date, Mr. Goldan will assist with the transition of his responsibilities. Mr. Goldan s compensation as an advisor will be materially consistent with his current compensation. The Com",
-            "nivel_ajustado": "amarillo",
-            "badge_ajustado": "🟡 MEDIA",
-            "resumen_ajustado": "Item 5.02: Cambio directivo relevante"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "ARGX": {
@@ -250,30 +199,6 @@
             "resumen_10q": "Caja: $4979.3M · Shares: 254.0M · ⚖️ Litigios activos"
           },
           "prospecto_detail": null
-        },
-        {
-          "form": "8-K",
-          "fecha": "2026-11-02",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
-          "detalle": "8-K",
-          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
-          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000287/vrtx-20261102.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "2.02",
-              "9.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 2.02. Results of Operations and Financial Condition. On November 2, 2026, Vertex Pharmaceuticals Incorporated (the \"Company\") issued a press release in which it reported its consolidated financial results for the three and nine months ended September 30, 2026. A copy of that press release is attached to this Current Report on Form 8-K as Exhibit 99.1 and is incorporated herein by reference. The information set forth in Exhibit 99.1 shall not be deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liability of that section, and shall not be incorporated by reference into any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing. Item 9.01. Financial Statements and Exhibits. (d) Exhibits Exhibit Description of Document 99.1 Press Release Dated November 2, 2026. 104 Cover Page Interactive Data File the cover page XBRL tags are embedded within the Inline XBRL document. SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. VERTEX PHARMACEUTICALS INCORPORATED (Registrant) Date: November 2, 2026 /s/ Joy Liu Joy Liu Executive Vice President, Chief Legal Officer",
-            "nivel_ajustado": "azul",
-            "badge_ajustado": "🔵 INFO",
-            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
         }
       ],
       "nivel": "amarillo",
@@ -385,6 +310,32 @@
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
       "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-11-09",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Saroj Namrata (Chief Business Officer) → Venta 35,370 acciones @ $6.55 | Post: 220,522 | Rutinaria/RSU/impuestos",
+          "detalle": "OWNERSHIP DOCUMENT",
+          "empresa_sec": "OCULAR THERAPEUTIX, INC",
+          "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926124526/xslF345X06/tm2629271-1_4seq1.xml",
+          "form4_detail": {
+            "insider_nombre": "Saroj Namrata",
+            "insider_cargo": "Chief Business Officer",
+            "transaccion_codigo": "S",
+            "transaccion_tipo": "Venta",
+            "transaccion_acciones": "35370",
+            "transaccion_precio": "6.55",
+            "transaccion_fecha": "2026-11-05",
+            "acciones_post": "220522",
+            "footnotes": "Represents shares of common stock of Ocular Therapeutix, Inc. (the \"Corporation\") sold, pursuant to a durable automatic sale instruction adopted by the reporting person on February 4, 2025, effecting the sell-to-cover election of the reporting person to satisfy tax withholding obligations in connection with the vesting of restricted stock units on November 4, 2026. The sales do not represent a discretionary trade by the reporting person. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $6.4300 to $6.6664, inclusive. The reporting person undertakes to provide to the Corporation, any security holder of the Corporation, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in footnote (2) to this Form 4 Includes 1,272 shares of common stock acquired under the Corporation's Amended and Restated 2014 Employee Stock Purchase Plan on June 30, 2026.",
+            "es_rutinaria": true,
+            "resumen_detail": "Saroj Namrata (Chief Business Officer) → Venta 35,370 acciones @ $6.55 | Post: 220,522 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
         {
           "form": "8-K",
           "fecha": "2026-11-09",
@@ -529,9 +480,59 @@
       "cik": "0001888886",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "10-Q",
+          "fecha": "2026-11-09",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "Shares: 212513.0M · ⚖️ Litigios activos · 📋 Shelf mencionado",
+          "detalle": "10-Q",
+          "empresa_sec": "Structure Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000110465926124503/gpcr-20260930x10q.htm",
+          "form4_detail": null,
+          "8k_detail": null,
+          "10q_detail": {
+            "caja_mm": null,
+            "burn_trimestral_mm": null,
+            "burn_mensual_mm": null,
+            "runway_meses": null,
+            "shares_outstanding_mm": 212513.0,
+            "litigios_detectados": true,
+            "shelf_mencionado": true,
+            "going_concern": false,
+            "extracto_financiero": "&#8203; &#160; &#8203; &#160;&#160;&#8203; &#160; Cash and cash equivalents &#8203; $ 222,033 &#8203; $ 799,623 &#8203; Short-term investments &#8203; &#160; 1,017,942 &#8203; &#160; 646,574 &#8203; Other receivable &#8203; &#8203; &#8212; &#8203; &#8203; 100,000 &#8203; Prepaid expenses and other current assets &#8203; &#160; 35,151 &#8203; &#160;",
+            "resumen_10q": "Shares: 212513.0M · ⚖️ Litigios activos · 📋 Shelf mencionado"
+          },
+          "prospecto_detail": null
+        },
+        {
+          "form": "8-K",
+          "fecha": "2026-11-09",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+          "detalle": "FORM 8-K",
+          "empresa_sec": "Structure Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1888886/000110465926124494/tm2629207d1_8k.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "2.02",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 2.02 Results of Operations and Financial Condition. On November 9, 2026, Structure Therapeutics Inc. (the Company ) issued a press release providing a corporate update and announcing its financial results for the third quarter ended September 30, 2026. The full text of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference. The information in this Current Report on Form 8-K (including Exhibit 99.1) shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that Section, nor shall it be deemed to be incorporated by reference into any filing of the Company under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits. Exhibit No. Description 99.1 Press Release dated November 9, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Structure Therapeutics Inc. Date: November 9, 2026 By: /s/ Raymond Stevens Raymond Stevens, Ph.D. Chief Executive Officer",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "ABVX": {
@@ -709,9 +710,59 @@
       "cik": "0001616543",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "10-Q",
+          "fecha": "2026-11-09",
+          "nivel": "rojo",
+          "badge": "🔴 ALTA",
+          "resumen": "Shares: 41.3M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado",
+          "detalle": "10-Q",
+          "empresa_sec": "Senseonics Holdings, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000110465926124515/sens-20260930x10q.htm",
+          "form4_detail": null,
+          "8k_detail": null,
+          "10q_detail": {
+            "caja_mm": null,
+            "burn_trimestral_mm": null,
+            "burn_mensual_mm": null,
+            "runway_meses": null,
+            "shares_outstanding_mm": 41.3,
+            "litigios_detectados": true,
+            "shelf_mencionado": true,
+            "going_concern": true,
+            "extracto_financiero": ": &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; Cash and cash equivalents &#8203; $ 47,759 &#8203; $ 40,234 Restricted cash &#8203; &#8203; 315 &#8203; &#8203; 315 Short-term investments, net &#8203; &#8203; 78,544 &#8203; &#8203; 53,796 Accounts receivable, net &#8203; &#8203; 13,102 &#8203; &#8203; 6,807 Accounts receivable, net - related parti",
+            "resumen_10q": "Shares: 41.3M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado"
+          },
+          "prospecto_detail": null
+        },
+        {
+          "form": "8-K",
+          "fecha": "2026-11-09",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "Senseonics Holdings, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000110465926124500/sens-20261109x8k.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "2.02",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 2.02. Results of Operations and Financial Condition. On November 9, 2026, Senseonics Holdings, Inc. (the Company ) issued a press release announcing its financial results for the quarter ended September 30, 2026, as well as information regarding a conference call to discuss these financial results and the Company s recent corporate highlights and outlook. This press release has been furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by this reference. The information in this Current Report on Form 8-K, including Exhibit 99.1 attached hereto, is being furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ) or otherwise subject to the liabilities of that section. The information contained herein and in the accompanying exhibit is not incorporated by reference in any filing of the Company under the Securities Act of 1933, as amended, or the Exchange Act, whether made before or after the date hereof and irrespective of any general incorporation language in any filings. Item 9.01. Financial Statements and Exhibits. (d) Exhibits. Exhibit Number Description 99.1 Press Release of Senseonics Holdings, Inc. dated November 9, 2026. 104 Cover Page Interactive Data (embedded within the Inline XBRL document). SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. ay Date: November 9, 2026 SENSEONICS HOLDINGS, INC. By: /s/ Rick S",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "rojo",
+      "badge": "🔴",
       "error": null
     },
     "INSM": {
@@ -734,6 +785,33 @@
     }
   },
   "alertas_criticas": [
+    {
+      "ticker": "SENS",
+      "nombre": "Senseonics Holdings, Inc.",
+      "form": "10-Q",
+      "fecha": "2026-11-09",
+      "nivel": "rojo",
+      "badge": "🔴 ALTA",
+      "resumen": "Shares: 41.3M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado",
+      "detalle": "10-Q",
+      "empresa_sec": "Senseonics Holdings, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000110465926124515/sens-20260930x10q.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": {
+        "caja_mm": null,
+        "burn_trimestral_mm": null,
+        "burn_mensual_mm": null,
+        "runway_meses": null,
+        "shares_outstanding_mm": 41.3,
+        "litigios_detectados": true,
+        "shelf_mencionado": true,
+        "going_concern": true,
+        "extracto_financiero": ": &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; Cash and cash equivalents &#8203; $ 47,759 &#8203; $ 40,234 Restricted cash &#8203; &#8203; 315 &#8203; &#8203; 315 Short-term investments, net &#8203; &#8203; 78,544 &#8203; &#8203; 53,796 Accounts receivable, net &#8203; &#8203; 13,102 &#8203; &#8203; 6,807 Accounts receivable, net - related parti",
+        "resumen_10q": "Shares: 41.3M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado"
+      },
+      "prospecto_detail": null
+    },
     {
       "ticker": "ACRV",
       "nombre": "Acrivon Therapeutics, Inc.",
@@ -819,6 +897,34 @@
     {
       "ticker": "OCUL",
       "nombre": "OCULAR THERAPEUTIX, INC",
+      "form": "4",
+      "fecha": "2026-11-09",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Saroj Namrata (Chief Business Officer) → Venta 35,370 acciones @ $6.55 | Post: 220,522 | Rutinaria/RSU/impuestos",
+      "detalle": "OWNERSHIP DOCUMENT",
+      "empresa_sec": "OCULAR THERAPEUTIX, INC",
+      "url": "https://www.sec.gov/Archives/edgar/data/1393434/000110465926124526/xslF345X06/tm2629271-1_4seq1.xml",
+      "form4_detail": {
+        "insider_nombre": "Saroj Namrata",
+        "insider_cargo": "Chief Business Officer",
+        "transaccion_codigo": "S",
+        "transaccion_tipo": "Venta",
+        "transaccion_acciones": "35370",
+        "transaccion_precio": "6.55",
+        "transaccion_fecha": "2026-11-05",
+        "acciones_post": "220522",
+        "footnotes": "Represents shares of common stock of Ocular Therapeutix, Inc. (the \"Corporation\") sold, pursuant to a durable automatic sale instruction adopted by the reporting person on February 4, 2025, effecting the sell-to-cover election of the reporting person to satisfy tax withholding obligations in connection with the vesting of restricted stock units on November 4, 2026. The sales do not represent a discretionary trade by the reporting person. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices ranging from $6.4300 to $6.6664, inclusive. The reporting person undertakes to provide to the Corporation, any security holder of the Corporation, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the ranges set forth in footnote (2) to this Form 4 Includes 1,272 shares of common stock acquired under the Corporation's Amended and Restated 2014 Employee Stock Purchase Plan on June 30, 2026.",
+        "es_rutinaria": true,
+        "resumen_detail": "Saroj Namrata (Chief Business Officer) → Venta 35,370 acciones @ $6.55 | Post: 220,522 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "OCUL",
+      "nombre": "OCULAR THERAPEUTIX, INC",
       "form": "8-K",
       "fecha": "2026-11-09",
       "nivel": "amarillo",
@@ -887,6 +993,112 @@
         ],
         "clasificacion_item": null,
         "extracto": "Item 2.02 Results of Operations and Financial Condition. On November 9, 2026, Ocular Therapeutix, Inc. announced its financial results for the quarter ended September 30, 2026. The full text of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference. The information in this Current Report on Form 8-K, including Exhibit 99.1 attached hereto, is furnished to comply with Item 2.02 of Form 8-K, and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits: 99.1 Press Release of Ocular Therapeutix, Inc., dated November 9, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. OCULAR THERAPEUTIX, INC. Date: November 9, 2026 By: /s/ Jason S. Robins Jason S. Robins Chief Financial Officer",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "GPCR",
+      "nombre": "Structure Therapeutics Inc.",
+      "form": "10-Q",
+      "fecha": "2026-11-09",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "Shares: 212513.0M · ⚖️ Litigios activos · 📋 Shelf mencionado",
+      "detalle": "10-Q",
+      "empresa_sec": "Structure Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000110465926124503/gpcr-20260930x10q.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": {
+        "caja_mm": null,
+        "burn_trimestral_mm": null,
+        "burn_mensual_mm": null,
+        "runway_meses": null,
+        "shares_outstanding_mm": 212513.0,
+        "litigios_detectados": true,
+        "shelf_mencionado": true,
+        "going_concern": false,
+        "extracto_financiero": "&#8203; &#160; &#8203; &#160;&#160;&#8203; &#160; Cash and cash equivalents &#8203; $ 222,033 &#8203; $ 799,623 &#8203; Short-term investments &#8203; &#160; 1,017,942 &#8203; &#160; 646,574 &#8203; Other receivable &#8203; &#8203; &#8212; &#8203; &#8203; 100,000 &#8203; Prepaid expenses and other current assets &#8203; &#160; 35,151 &#8203; &#160;",
+        "resumen_10q": "Shares: 212513.0M · ⚖️ Litigios activos · 📋 Shelf mencionado"
+      },
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "GPCR",
+      "nombre": "Structure Therapeutics Inc.",
+      "form": "8-K",
+      "fecha": "2026-11-09",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+      "detalle": "FORM 8-K",
+      "empresa_sec": "Structure Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1888886/000110465926124494/tm2629207d1_8k.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "2.02",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 2.02 Results of Operations and Financial Condition. On November 9, 2026, Structure Therapeutics Inc. (the Company ) issued a press release providing a corporate update and announcing its financial results for the third quarter ended September 30, 2026. The full text of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference. The information in this Current Report on Form 8-K (including Exhibit 99.1) shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that Section, nor shall it be deemed to be incorporated by reference into any filing of the Company under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits. Exhibit No. Description 99.1 Press Release dated November 9, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Structure Therapeutics Inc. Date: November 9, 2026 By: /s/ Raymond Stevens Raymond Stevens, Ph.D. Chief Executive Officer",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "SENS",
+      "nombre": "Senseonics Holdings, Inc.",
+      "form": "10-Q",
+      "fecha": "2026-11-09",
+      "nivel": "rojo",
+      "badge": "🔴 ALTA",
+      "resumen": "Shares: 41.3M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado",
+      "detalle": "10-Q",
+      "empresa_sec": "Senseonics Holdings, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000110465926124515/sens-20260930x10q.htm",
+      "form4_detail": null,
+      "8k_detail": null,
+      "10q_detail": {
+        "caja_mm": null,
+        "burn_trimestral_mm": null,
+        "burn_mensual_mm": null,
+        "runway_meses": null,
+        "shares_outstanding_mm": 41.3,
+        "litigios_detectados": true,
+        "shelf_mencionado": true,
+        "going_concern": true,
+        "extracto_financiero": ": &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; Cash and cash equivalents &#8203; $ 47,759 &#8203; $ 40,234 Restricted cash &#8203; &#8203; 315 &#8203; &#8203; 315 Short-term investments, net &#8203; &#8203; 78,544 &#8203; &#8203; 53,796 Accounts receivable, net &#8203; &#8203; 13,102 &#8203; &#8203; 6,807 Accounts receivable, net - related parti",
+        "resumen_10q": "Shares: 41.3M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado"
+      },
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "SENS",
+      "nombre": "Senseonics Holdings, Inc.",
+      "form": "8-K",
+      "fecha": "2026-11-09",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Senseonics Holdings, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000110465926124500/sens-20261109x8k.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "2.02",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 2.02. Results of Operations and Financial Condition. On November 9, 2026, Senseonics Holdings, Inc. (the Company ) issued a press release announcing its financial results for the quarter ended September 30, 2026, as well as information regarding a conference call to discuss these financial results and the Company s recent corporate highlights and outlook. This press release has been furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by this reference. The information in this Current Report on Form 8-K, including Exhibit 99.1 attached hereto, is being furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ) or otherwise subject to the liabilities of that section. The information contained herein and in the accompanying exhibit is not incorporated by reference in any filing of the Company under the Securities Act of 1933, as amended, or the Exchange Act, whether made before or after the date hereof and irrespective of any general incorporation language in any filings. Item 9.01. Financial Statements and Exhibits. (d) Exhibits. Exhibit Number Description 99.1 Press Release of Senseonics Holdings, Inc. dated November 9, 2026. 104 Cover Page Interactive Data (embedded within the Inline XBRL document). SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. ay Date: November 9, 2026 SENSEONICS HOLDINGS, INC. By: /s/ Rick S",
         "nivel_ajustado": "azul",
         "badge_ajustado": "🔵 INFO",
         "resumen_ajustado": "8-K — Sin clasificación específica por Item"
@@ -1285,86 +1497,6 @@
         ],
         "clasificacion_item": null,
         "extracto": "Item 2.02 Results of Operations and Financial Condition. On November 3, 2026, the Company issued a press release announcing its financial results for the quarter ended September 30, 2026. A copy of this press release is furnished as Exhibit 99.1 and is incorporated herein by reference. The information in this Item 2.02 as well as in the accompanying Exhibit 99.1 attached hereto is being furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any filing by the Company, under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press Release Issued by Beam Therapeutics Inc. on November 3, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. BEAM THERAPEUTICS INC. Date: November 3, 2026 By: /s/ John Evans Name: John Evans Title: Chief Executive Officer",
-        "nivel_ajustado": "azul",
-        "badge_ajustado": "🔵 INFO",
-        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "SNDX",
-      "nombre": "Syndax Pharmaceuticals Inc",
-      "form": "10-Q",
-      "fecha": "2026-11-02",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "⚖️ Litigios activos · 📋 Shelf mencionado",
-      "detalle": "10-Q",
-      "empresa_sec": "Syndax Pharmaceuticals Inc",
-      "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526443625/sndx-20260930.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": {
-        "caja_mm": null,
-        "burn_trimestral_mm": null,
-        "burn_mensual_mm": null,
-        "runway_meses": null,
-        "shares_outstanding_mm": null,
-        "litigios_detectados": true,
-        "shelf_mencionado": true,
-        "going_concern": false,
-        "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 135,941 &#160; &#160; $ 134,930 &#160; Short-term investments &#160; &#160; 291,163 &#160; &#160; &#160; 259,140 &#160; Accounts receivable, net &#160; &#160; 46,866 &#160; &#160; &#160; 37,996 &#160; Inventory, net &#160; &#160; 39,376 &#160; &#160; &#160; 32,754",
-        "resumen_10q": "⚖️ Litigios activos · 📋 Shelf mencionado"
-      },
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "SNDX",
-      "nombre": "Syndax Pharmaceuticals Inc",
-      "form": "8-K",
-      "fecha": "2026-11-02",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Item 5.02: Cambio directivo relevante [Items: 2.02, 5.02, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "Syndax Pharmaceuticals Inc",
-      "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526443613/sndx-20261102.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "2.02",
-          "5.02",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 2.02. Results of Operations and Financial Condition. On November 2, 2026, Syndax Pharmaceuticals, Inc. (the Company ) issued a press release and presentation announcing its financial results for the quarter ended September 30, 2026. A copy of the press release and presentation are furnished as Exhibits 99.1 and 99.2 to this Current Report on Form 8-K and are incorporated herein by reference. The information contained in this Item 2.02 and in Exhibits 99.1 and 99.2 attached hereto is intended to be furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any of the Company s filings under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensation Arrangements of Certain Officers. On November 2, 2026, the Company issued a press release announcing that Keith A. Goldan will retire as the Company s Chief Financial Officer, principal accounting and financial officer and treasurer effective November 9, 2026, after which he will continue as an advisor for an interim period until his retirement. Prior to his retirement date, Mr. Goldan will assist with the transition of his responsibilities. Mr. Goldan s compensation as an advisor will be materially consistent with his current compensation. The Com",
-        "nivel_ajustado": "amarillo",
-        "badge_ajustado": "🟡 MEDIA",
-        "resumen_ajustado": "Item 5.02: Cambio directivo relevante"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "VRTX",
-      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
-      "form": "8-K",
-      "fecha": "2026-11-02",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
-      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000287/vrtx-20261102.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "2.02",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 2.02. Results of Operations and Financial Condition. On November 2, 2026, Vertex Pharmaceuticals Incorporated (the \"Company\") issued a press release in which it reported its consolidated financial results for the three and nine months ended September 30, 2026. A copy of that press release is attached to this Current Report on Form 8-K as Exhibit 99.1 and is incorporated herein by reference. The information set forth in Exhibit 99.1 shall not be deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liability of that section, and shall not be incorporated by reference into any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing. Item 9.01. Financial Statements and Exhibits. (d) Exhibits Exhibit Description of Document 99.1 Press Release Dated November 2, 2026. 104 Cover Page Interactive Data File the cover page XBRL tags are embedded within the Inline XBRL document. SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. VERTEX PHARMACEUTICALS INCORPORATED (Registrant) Date: November 2, 2026 /s/ Joy Liu Joy Liu Executive Vice President, Chief Legal Officer",
         "nivel_ajustado": "azul",
         "badge_ajustado": "🔵 INFO",
         "resumen_ajustado": "8-K — Sin clasificación específica por Item"

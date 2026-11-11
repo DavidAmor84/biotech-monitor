@@ -1,8 +1,8 @@
 {
-  "generado": "10/11/2026 15:31 UTC",
+  "generado": "11/11/2026 15:06 UTC",
   "plazo_horas": 72,
-  "desde": "2026-11-07",
-  "hasta": "2026-11-10",
+  "desde": "2026-11-08",
+  "hasta": "2026-11-11",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -26,6 +26,18 @@
     "ARGX": {
       "nombre": "ARGX",
       "noticias": [
+        {
+          "ticker": "ARGX",
+          "titulo": "argenx (ENXTBR:ARGX) Stock May Look Fully Priced Despite Its $1.15B Deal",
+          "resumen": "argenx has delivered strong share price gains in recent years, so the immediate question for investors is whether today’s valuation can be explained by the company’s earnings power. With sentiment also shaped by fresh clinical and deal news, the current price invites a closer look at what the profit",
+          "fuente": "Yahoo",
+          "fecha": "10 Nov 2026 22:15 UTC",
+          "url": "https://finnhub.io/api/news?id=e4b3709865cc0a35f288e7183866b6b98c2d5777b7e934964dd4b0cee5ff0d7a",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "ARGX",
           "titulo": "argenx: Unnatural Products Deal Changes Risk Profile",
@@ -73,18 +85,6 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "3 Reasons Argenx Could Be a Top Biotech Stock for the Next Decade",
-          "resumen": "Here's why Argenx could keep winning.",
-          "fuente": "Yahoo",
-          "fecha": "09 Nov 2026 10:04 UTC",
-          "url": "https://finnhub.io/api/news?id=ba071c25afdc331fd852c9fdd12a8409236ad036640abde60378e9c4766700fd",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -92,9 +92,34 @@
     },
     "DYN": {
       "nombre": "DYN",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "DYN",
+          "titulo": "PepGen Stock Spikes 132% on Rare-Disease Win. These Rivals Are Feeling The Pressure.",
+          "resumen": "PepGen reports solid trial data for its rare-disease candidate, pressuring rivals developing competing therapies for myotonic dystrophy type 1.",
+          "fuente": "Yahoo",
+          "fecha": "10 Nov 2026 18:48 UTC",
+          "url": "https://finnhub.io/api/news?id=49e7d31fcad2da43d80ea2b87dcdf520ff5347da4a84681748baf69b3ebb463b",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "DYN",
+          "titulo": "PepGen Stock Doubles in One Session - Here's Why",
+          "resumen": "PepGen Inc. (NASDAQ:PEPG) stock surged on Tuesday with a strong session Volume of 31.855 million, compared to an average volume of 983.011 thousand, according to Benzinga Pro data. The clinical-stage biotechnology company reported positive topline results from the Phase 2 FREEDOM2-DM1 study, highlig",
+          "fuente": "Yahoo",
+          "fecha": "10 Nov 2026 18:47 UTC",
+          "url": "https://finnhub.io/api/news?id=894a97307332cce59ee746c5f2979a6ca32f2211f3efff171e602a9216b40af1",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 2
     },
     "DNLI": {
       "nombre": "DNLI",
@@ -118,6 +143,18 @@
     "VKTX": {
       "nombre": "VKTX",
       "noticias": [
+        {
+          "ticker": "VKTX",
+          "titulo": "The FDA Ordered GLP-1 Vision-Loss Warnings For Some Products. Shares of Eli Lilly and Novo Nordisk Were Unfazed.",
+          "resumen": "The updated labeling covers Mounjaro, Zepbound, Ozempic and Wegovy.",
+          "fuente": "Yahoo",
+          "fecha": "10 Nov 2026 12:41 UTC",
+          "url": "https://finnhub.io/api/news?id=f42a54cd55a595edb261e44212b431cb5b51d5a17b71026dd21bd4ef51519b00",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "VKTX",
           "titulo": "Novo Up 4% in a Month: How Should Investors Approach the Stock Now?",
@@ -144,11 +181,35 @@
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 3
     },
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
+        {
+          "ticker": "VRTX",
+          "titulo": "iShares Biotechnology ETF (IBB) Adds Gilead and Amgen on Nov. 9",
+          "resumen": "The $11.34 billion fund bought $230.1 million of stock on Monday, Nov. 9, lifting 231 positions and trimming none.",
+          "fuente": "Yahoo",
+          "fecha": "11 Nov 2026 11:04 UTC",
+          "url": "https://finnhub.io/api/news?id=c8f93063dc31c5557e8cbe55e9d2f4ec901c36246ff5e3a926a6ba698fb49f0d",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Crispr Therapeutics: The Recent 40% Drop In Short Interest Indicates Deteriorating Bearish Sentiment",
+          "resumen": "Crispr Therapeutics is rated a Buy, citing a strong balance sheet, derisked pipeline, and favorable risk/reward ratio. Discover more on CRSP in this article.",
+          "fuente": "SeekingAlpha",
+          "fecha": "10 Nov 2026 14:54 UTC",
+          "url": "https://finnhub.io/api/news?id=cb287d20f8f070ada369b4e144c3cc65ff4bbf004963f510213098a510ba3ad5",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2254461523/image_2254461523.jpg?io=getty-c-og",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
         {
           "ticker": "VRTX",
           "titulo": "Vortex Energy Mobilizes Field Crews and Commences Ground Gravity Survey at Robinsons River Salt Project",
@@ -184,30 +245,6 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "The Top 5 Biotech Stocks I'd Buy Right Now Without Any Hesitation",
-          "resumen": "These are among the best the industry has to offer.",
-          "fuente": "Yahoo",
-          "fecha": "08 Nov 2026 21:52 UTC",
-          "url": "https://finnhub.io/api/news?id=7139128692423f9547bfcea9275e9b326d02e30bbb9548b16934adaf8f182e76",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Missed Vertex Pharmaceuticals' Run? What Holders Had To Believe",
-          "resumen": "If you had put fresh money into Vertex Pharmaceuticals a year ago, the result now looks very different from what the more cautious research notes warned about at the time. For Vertex Pharmaceuticals shareholders, the return over the past year was 33.6%, including dividends. The period brought strong",
-          "fuente": "Yahoo",
-          "fecha": "08 Nov 2026 20:07 UTC",
-          "url": "https://finnhub.io/api/news?id=9b91f87c16b5a4178f15346eb3b58adc97d637a8b50bbe3774080b7be31ba614",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
@@ -216,6 +253,30 @@
     "ALNY": {
       "nombre": "ALNY",
       "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam Collaborator Regeneron Advances CIDEBsiRNA with Promising First-in-Human Results in Patients with MASLD",
+          "resumen": "CAMBRIDGE, Mass., November 10, 2026--Alnylam Pharmaceuticals, Inc. (Nasdaq: ALNY), the leading RNAi therapeutics company, today announced that its collaborator, Regeneron Pharmaceuticals, Inc. shared initial results from a first-in-human trial that demonstrated a single subcutaneous dose of CIDEBsiR",
+          "fuente": "Yahoo",
+          "fecha": "10 Nov 2026 15:00 UTC",
+          "url": "https://finnhub.io/api/news?id=2bdf68199e7f85275b77562ced30cb39bcbf04ed625e6e1f5e3dbf05532885e0",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam And Regeneron Says Data Published In The The New England Journal Of Medicine, Reports Up To 80% Reduction In Liver Fat Sustained For 36 Weeks After Single CIDEBsiRNA Dose In MASLD Patients",
+          "resumen": "Single administration of CIDEBsiRNA resulted in rapid, deep and durable reductions in liver fat by up to 80% that were sustained through 36 weeksData shared in oral presentation at AASLD The Liver Meeting® and",
+          "fuente": "Benzinga",
+          "fecha": "10 Nov 2026 11:02 UTC",
+          "url": "https://finnhub.io/api/news?id=a4275a3b2d471e34a3ccaa0db1c9df6f83f0eec99212dd4c43744588ebdbb518",
+          "imagen": "",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "ALNY",
           "titulo": "Alnylam Announces Five-Year HELIOS-B Data Demonstrating Sustained Benefit of AMVUTTRA® (vutrisiran) in ATTR-CM",
@@ -230,17 +291,90 @@
         }
       ],
       "nivel": "rojo",
-      "total": 1
+      "total": 3
     },
     "BEAM": {
       "nombre": "BEAM",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "BEAM",
+          "titulo": "Wedbush Maintains Outperform on Beam Therapeutics, Raises Price Target to $33",
+          "resumen": "Wedbush  analyst David Nierengarten   maintains Beam Therapeutics (NASDAQ:BEAM) with a Outperform and raises the price target from $30 to $33.",
+          "fuente": "Benzinga",
+          "fecha": "11 Nov 2026 10:12 UTC",
+          "url": "https://finnhub.io/api/news?id=c198ca0fdb07ab6f7db4210d92882c2d986a7e8f66b7b97909d73960f2d0338e",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "BEAM",
+          "titulo": "Beam Therapeutics (BEAM) Clears A Key Trial As The Undervalued Case Faces A Test",
+          "resumen": "Beam Therapeutics (BEAM) just crossed a major clinical hurdle. The firm reported that its sickle cell therapy candidate, ristoglogene autogetemcel, met all primary and secondary endpoints in the BEACON Phase 1/2 trial. Beam Therapeutics has not seen that clinical success translate into short term sh",
+          "fuente": "Yahoo",
+          "fecha": "11 Nov 2026 00:16 UTC",
+          "url": "https://finnhub.io/api/news?id=39098cd0cbe2ae0024ccf5b1a35ef6649106793db2dfc5e1e9bf0cbf7eb6804c",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "BEAM",
+          "titulo": "Beam’s base editing therapy for sickle cell hits goal in pivotal trial",
+          "resumen": "The result represents a scientific milestone and positions Beam to submit a first-of-its-kind FDA application as soon as the end of the year.",
+          "fuente": "Yahoo",
+          "fecha": "10 Nov 2026 17:06 UTC",
+          "url": "https://finnhub.io/api/news?id=b2e92cbe05ba3c14c0255fcf4f97de40e5adf2c55fe388b7091ffb6649749b62",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "BEAM",
+          "titulo": "Beam Therapeutics to seek approval of SCD cell therapy after trial success",
+          "resumen": "The cell therapy met its primary and secondary endpoints in the study, with Beam now eyeing regulatory approval.",
+          "fuente": "Yahoo",
+          "fecha": "10 Nov 2026 17:05 UTC",
+          "url": "https://finnhub.io/api/news?id=e4c0abb680538c7836effa87a74efea70892c49468a863128dada15348817187",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "BEAM",
+          "titulo": "Crispr Therapeutics: The Recent 40% Drop In Short Interest Indicates Deteriorating Bearish Sentiment",
+          "resumen": "Crispr Therapeutics is rated a Buy, citing a strong balance sheet, derisked pipeline, and favorable risk/reward ratio. Discover more on CRSP in this article.",
+          "fuente": "SeekingAlpha",
+          "fecha": "10 Nov 2026 14:54 UTC",
+          "url": "https://finnhub.io/api/news?id=cb287d20f8f070ada369b4e144c3cc65ff4bbf004963f510213098a510ba3ad5",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2254461523/image_2254461523.jpg?io=getty-c-og",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 5
     },
     "OCUL": {
       "nombre": "OCUL",
       "noticias": [
+        {
+          "ticker": "OCUL",
+          "titulo": "Ocular Therapeutix (OCUL) reports earnings tomorrow: what to expect",
+          "resumen": "Ophthalmology biopharmaceutical company Ocular Therapeutix (NASDAQ:OCUL) will be reporting results this Monday morning. Here’s what to look for.",
+          "fuente": "Yahoo",
+          "fecha": "10 Nov 2026 16:21 UTC",
+          "url": "https://finnhub.io/api/news?id=65f39597f3135c2c33d5c12f9feac578516805bc130e1d764615906603ea909f",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "OCUL",
           "titulo": "HC Wainwright & Co. Maintains Buy on Ocular Therapeutix, Raises Price Target to $28",
@@ -288,18 +422,6 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "OCUL",
-          "titulo": "What Ocular Therapeutix (OCUL) Said on Its Q3 Earnings Call",
-          "resumen": "Ocular Therapeutix (NASDAQ:OCUL) plans to submit a U.S. application in the fourth quarter of 2026 for AXPAXLI, its investigational treatment for wet age-related macular degeneration, executives said on the company’s third-quarter earnings call. The planned submission follows a September pre-applica",
-          "fuente": "Yahoo",
-          "fecha": "09 Nov 2026 17:15 UTC",
-          "url": "https://finnhub.io/api/news?id=56a0dd63f43b239f1dca7e8c74239b149b26587a472b67599c11d239afea7eaa",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
@@ -308,6 +430,18 @@
     "CAI": {
       "nombre": "CAI",
       "noticias": [
+        {
+          "ticker": "CAI",
+          "titulo": "Caris Life Sciences, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+          "resumen": "2026-11-10. The following slide deck was published by Caris Life Sciences, Inc.",
+          "fuente": "SeekingAlpha",
+          "fecha": "10 Nov 2026 12:53 UTC",
+          "url": "https://finnhub.io/api/news?id=d4f5e9a2c8302daebfea3a3b72ddf27b9c3a268bad3540e0075e8532ca298206",
+          "imagen": "https://static.seekingalpha.com/uploads/sa_presentations/61/139061/slides/1.jpg?ts=1794333184",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "CAI",
           "titulo": "Piper Sandler Maintains Neutral on Caris Life Sciences, Raises Price Target to $25",
@@ -346,7 +480,7 @@
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 4
     },
     "GPCR": {
       "nombre": "GPCR",
@@ -374,22 +508,10 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "GPCR",
-          "titulo": "Raised Guidance Could Change The Case For Schrödinger Stock (SDGR)",
-          "resumen": "Schrödinger reported third quarter 2026 revenue of US$64.49 million and a net loss of US$37.71 million, then raised full year 2026 guidance for annual contract value to a range of US$222 million to US$232 million and updated its drug discovery outlook to a range of US$75 million to US$85 million. Th",
-          "fuente": "Yahoo",
-          "fecha": "07 Nov 2026 20:12 UTC",
-          "url": "https://finnhub.io/api/news?id=d921dda5823e5fdb1f69c4848c81aa477cff39e08e94ec88cd4c9fa6346bfd8a",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 2
     },
     "ABVX": {
       "nombre": "ABVX",
@@ -418,9 +540,22 @@
     },
     "ACRV": {
       "nombre": "ACRV",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "ACRV",
+          "titulo": "Acrivon Therapeutics, Inc. (ACRV) Discusses ACR-525 Acquisition and PKC Inhibitor Preclinical Program Transcript",
+          "resumen": "Acrivon Therapeutics, Inc. (ACRV) Discusses ACR-525 Acquisition and PKC Inhibitor Preclinical Program November 10, 2026 4:00 PM ESTCompany ParticipantsAdam...",
+          "fuente": "SeekingAlpha",
+          "fecha": "10 Nov 2026 20:40 UTC",
+          "url": "https://finnhub.io/api/news?id=1ccc02b73e9a75572a95b404d3f28b23299738b1e16329fb9a0ff3dcc9c859e8",
+          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "TARA": {
       "nombre": "TARA",
@@ -433,63 +568,63 @@
       "noticias": [
         {
           "ticker": "SENS",
-          "titulo": "AAON, Ziprecruiter, Rackspace Technology, Babcock & Wilcox And Other Big Stocks Moving Higher On Tuesday",
-          "resumen": "U.S. stocks fell, but AAON surged 23% on strong earnings and raised guidance. ZipRecruiter, Securitize and Senseonics led other gainers.",
-          "fuente": "Benzinga",
-          "fecha": "10 Nov 2026 11:01 UTC",
-          "url": "https://finnhub.io/api/news?id=8f58a04b9fa74e4807612bd54434f4d7e8076dc907a58b3205e43d07e5f60dc0",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/10/Display-Of-Stock-Market-Quotes.jpg?width=2048&height=1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "SENS",
-          "titulo": "This Riot Platforms Analyst Turns Bullish; Here Are Top 5 Upgrades For Tuesday",
-          "resumen": "Analysts upgraded RIOT, SENS, MSDL, SCCO and SECZ; RIOT’s price target jumped to $28, while MSDL’s target fell to $14.50.",
-          "fuente": "Benzinga",
-          "fecha": "10 Nov 2026 10:34 UTC",
-          "url": "https://finnhub.io/api/news?id=4c282ac124ff25dcfc0222b266d326544cea4d7e216e7a7924f02774bf7c9eeb",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/10/Riot-Platforms.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "SENS",
-          "titulo": "12 Health Care Stocks Moving In Tuesday's Pre-Market Session",
-          "resumen": "Gainers\n\nCo-Diagnostics (NASDAQ:CODX) stock moved upwards by 22.4% to $0.39 during Tuesday&#39;s pre-market session. The company&#39;s market cap stands at $2.8 million. As per the press release, Q3 earnings came out",
-          "fuente": "Benzinga",
-          "fecha": "10 Nov 2026 08:05 UTC",
-          "url": "https://finnhub.io/api/news?id=92ac0b22d31d04bbc64aea975d47dcfa2d1090a5f4251289aedcabed3cbf954d",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_3.jpg?width=2048&height=1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "SENS",
-          "titulo": "HC Wainwright & Co. Reiterates Buy on Senseonics Holdings, Maintains $14 Price Target",
-          "resumen": "HC Wainwright &amp; Co.  analyst Sean Lee   reiterates Senseonics Holdings (NASDAQ:SENS) with a Buy and maintains $14 price target.",
-          "fuente": "Benzinga",
-          "fecha": "10 Nov 2026 08:01 UTC",
-          "url": "https://finnhub.io/api/news?id=803d764a9250719157a5b4d5c825d6d4bf70515eba7b78a08a21d1ea51cdbc36",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "SENS",
-          "titulo": "Senseonics Holdings Inc (SENS) (Q3 2026) Earnings Call Highlights: Record Revenue of $19. ...",
-          "resumen": "Senseonics Holdings Inc (SENS) posted record Q3 2026 revenue of $19.6 million, up ~140% year-over-year, and raised full-year guidance for the third time to $68 million--$70 million.",
+          "titulo": "Senseonics Holdings Sees $100 Million-Plus in 2027 Sales, Eyes New Eversense Launches",
+          "resumen": "Senseonics Holdings, Inc. Common Stock (NASDAQ:SENS) executives said the company’s return of commercial operations in-house has improved efficiency and supported growth in its Eversense diabetes monitoring business, while outlining plans for new products and insulin pump partnerships. Speaking at a",
           "fuente": "Yahoo",
-          "fecha": "10 Nov 2026 07:08 UTC",
-          "url": "https://finnhub.io/api/news?id=78963dbd6413050e772a102e409f6120e292d8b6d4ad4ca254996f6a4dc09363",
+          "fecha": "11 Nov 2026 08:14 UTC",
+          "url": "https://finnhub.io/api/news?id=031ab80923523497a31fac75ecb9de2f042ba6bd6371cab3c4b1def8ca7ba9ad",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
+        },
+        {
+          "ticker": "SENS",
+          "titulo": "Top Midday Gainers",
+          "resumen": "SMX (SMX) is expanding its technology capabilities by developing SMX Scientific Intelligence, an art",
+          "fuente": "Yahoo",
+          "fecha": "10 Nov 2026 19:00 UTC",
+          "url": "https://finnhub.io/api/news?id=f577363e75be277372908f1b887ca347f037b2666bb078ea2a2a8dcdb77f88f1",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "SENS",
+          "titulo": "Earnings Gaps Meet the Moving Averages on a Softer Morning for Stocks",
+          "resumen": "Stock Preachers News Commentary - The Bureau of Labor Statistics reported Tuesday morning that the Consumer Price Index for All Urban Consumers increased 0.4 percent on a seasonally adjusted basis in October. As of 11:45 a.m. ET, the S&P 500 was down 0.71% at 7,496.22. Five companies that released r",
+          "fuente": "Yahoo",
+          "fecha": "10 Nov 2026 18:00 UTC",
+          "url": "https://finnhub.io/api/news?id=d2a77a35287415bfcc2e16fed95ccf43769e78b0dae2a6e70939b19a45bc002c",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "SENS",
+          "titulo": "Senseonics (SENS) Q3 2026 Earnings Call Transcript",
+          "resumen": "Record patient starts lifted revenue, though expenses are running above guidance.",
+          "fuente": "Yahoo",
+          "fecha": "10 Nov 2026 16:15 UTC",
+          "url": "https://finnhub.io/api/news?id=48546989f82f51ed7a91841c951976e49d73841f86ae28a961b6efc2f8e82f7a",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "SENS",
+          "titulo": "US Gap-Up and Gap-Down Stocks: Nov. 10, 2026 Session",
+          "resumen": "Nov. 10, 2026 US gap movers included SMX, AMIX, TTEC, MVST, IHRT and FF, with notable gap-up and gap-down session moves.",
+          "fuente": "ChartMill",
+          "fecha": "10 Nov 2026 15:30 UTC",
+          "url": "https://finnhub.io/api/news?id=2d7c1e01bd35e1a0b4a6af964bd03e861666e64bfa845c83d1d905def1a0d45b",
+          "imagen": "https://www.chartmill.com/images/uploads/CM_Gap_Stocks_Small_free_ad767b11cf.webp",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -500,11 +635,35 @@
       "noticias": [
         {
           "ticker": "INSM",
-          "titulo": "Pfizer And 2 More AI Healthcare Stocks To Watch",
-          "resumen": "The recent $3.2tn sell-off in AI related assets after the US midterm elections showed how quickly sentiment can flip when investors worry about slower AI spending and tighter rules. That kind of reset often leaves strong businesses trading on fear rather than fundamentals. This piece looks at advanc",
+          "titulo": "The Zacks Analyst Blog Highlights TG Therapeutics, BioCryst, Insmed and Madrigal",
+          "resumen": "TGTX, BCRX, INSM and MDGL are expanding commercial reach through rising therapy sales, broader patient access and potential new indications.",
           "fuente": "Yahoo",
-          "fecha": "08 Nov 2026 01:13 UTC",
-          "url": "https://finnhub.io/api/news?id=6e42f7a62b8f1e9c2424cafe2deaaedaec8242b71aebda903a0ea02b0a4aaf61",
+          "fecha": "11 Nov 2026 06:36 UTC",
+          "url": "https://finnhub.io/api/news?id=47d93cb6d62b3770be0df5e95e287b58a032ee4934f598db5842a5017c1aa4f6",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "Here’s How Much You Would Have Made Owning Insmed Stock In The Last 5 Years",
+          "resumen": "Insmed (NASDAQ:INSM) has outperformed the market over the past 5 years by 21.49% on an annualized basis producing an average annual return of 31.4%. Currently, Insmed has a market capitalization of $25.47 billion.",
+          "fuente": "Benzinga",
+          "fecha": "10 Nov 2026 18:45 UTC",
+          "url": "https://finnhub.io/api/news?id=0e4ad29db082e576c5ea822f04e61fbc5aadef48ef1263b5117714834b53adb2",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/valuestock_4.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "4 Commercial-Stage Biotechs Poised for Sustained Revenue Growth",
+          "resumen": "TGTX, BCRX, INSM and MDGL are expanding product sales through rising demand, broader patient access and new market opportunities.",
+          "fuente": "Yahoo",
+          "fecha": "10 Nov 2026 13:13 UTC",
+          "url": "https://finnhub.io/api/news?id=541dbe469dc3a0d7a4ed4ce543bad807371706d13f215dd4dbc49e347f574e47",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -512,52 +671,16 @@
         }
       ],
       "nivel": "rojo",
-      "total": 1
+      "total": 3
     }
   },
   "resumen": {
-    "total_noticias": 33,
-    "tickers_con_noticias": 12,
-    "alertas_urgentes": 11,
-    "sin_noticias": 5
+    "total_noticias": 46,
+    "tickers_con_noticias": 15,
+    "alertas_urgentes": 14,
+    "sin_noticias": 2
   },
   "todas_noticias": [
-    {
-      "ticker": "GPCR",
-      "titulo": "Raised Guidance Could Change The Case For Schrödinger Stock (SDGR)",
-      "resumen": "Schrödinger reported third quarter 2026 revenue of US$64.49 million and a net loss of US$37.71 million, then raised full year 2026 guidance for annual contract value to a range of US$222 million to US$232 million and updated its drug discovery outlook to a range of US$75 million to US$85 million. Th",
-      "fuente": "Yahoo",
-      "fecha": "07 Nov 2026 20:12 UTC",
-      "url": "https://finnhub.io/api/news?id=d921dda5823e5fdb1f69c4848c81aa477cff39e08e94ec88cd4c9fa6346bfd8a",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "Pfizer And 2 More AI Healthcare Stocks To Watch",
-      "resumen": "The recent $3.2tn sell-off in AI related assets after the US midterm elections showed how quickly sentiment can flip when investors worry about slower AI spending and tighter rules. That kind of reset often leaves strong businesses trading on fear rather than fundamentals. This piece looks at advanc",
-      "fuente": "Yahoo",
-      "fecha": "08 Nov 2026 01:13 UTC",
-      "url": "https://finnhub.io/api/news?id=6e42f7a62b8f1e9c2424cafe2deaaedaec8242b71aebda903a0ea02b0a4aaf61",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Missed Vertex Pharmaceuticals' Run? What Holders Had To Believe",
-      "resumen": "If you had put fresh money into Vertex Pharmaceuticals a year ago, the result now looks very different from what the more cautious research notes warned about at the time. For Vertex Pharmaceuticals shareholders, the return over the past year was 33.6%, including dividends. The period brought strong",
-      "fuente": "Yahoo",
-      "fecha": "08 Nov 2026 20:07 UTC",
-      "url": "https://finnhub.io/api/news?id=9b91f87c16b5a4178f15346eb3b58adc97d637a8b50bbe3774080b7be31ba614",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "VKTX",
       "titulo": "Viking Therapeutics Announces Two Poster Presentations at ObesityWeek® 2026",
@@ -656,18 +779,6 @@
     },
     {
       "ticker": "OCUL",
-      "titulo": "What Ocular Therapeutix (OCUL) Said on Its Q3 Earnings Call",
-      "resumen": "Ocular Therapeutix (NASDAQ:OCUL) plans to submit a U.S. application in the fourth quarter of 2026 for AXPAXLI, its investigational treatment for wet age-related macular degeneration, executives said on the company’s third-quarter earnings call. The planned submission follows a September pre-applica",
-      "fuente": "Yahoo",
-      "fecha": "09 Nov 2026 17:15 UTC",
-      "url": "https://finnhub.io/api/news?id=56a0dd63f43b239f1dca7e8c74239b149b26587a472b67599c11d239afea7eaa",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "OCUL",
       "titulo": "Ocular Tx (OCUL) Q3 2026 Earnings Call Transcript",
       "resumen": "Management outlined AXPAXLI's regulatory path and late-stage trial updates.",
       "fuente": "Yahoo",
@@ -751,30 +862,6 @@
       "badge": "🔴"
     },
     {
-      "ticker": "SENS",
-      "titulo": "Senseonics Holdings Inc (SENS) (Q3 2026) Earnings Call Highlights: Record Revenue of $19. ...",
-      "resumen": "Senseonics Holdings Inc (SENS) posted record Q3 2026 revenue of $19.6 million, up ~140% year-over-year, and raised full-year guidance for the third time to $68 million--$70 million.",
-      "fuente": "Yahoo",
-      "fecha": "10 Nov 2026 07:08 UTC",
-      "url": "https://finnhub.io/api/news?id=78963dbd6413050e772a102e409f6120e292d8b6d4ad4ca254996f6a4dc09363",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "SENS",
-      "titulo": "12 Health Care Stocks Moving In Tuesday's Pre-Market Session",
-      "resumen": "Gainers\n\nCo-Diagnostics (NASDAQ:CODX) stock moved upwards by 22.4% to $0.39 during Tuesday&#39;s pre-market session. The company&#39;s market cap stands at $2.8 million. As per the press release, Q3 earnings came out",
-      "fuente": "Benzinga",
-      "fecha": "10 Nov 2026 08:05 UTC",
-      "url": "https://finnhub.io/api/news?id=92ac0b22d31d04bbc64aea975d47dcfa2d1090a5f4251289aedcabed3cbf954d",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_3.jpg?width=2048&height=1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
       "ticker": "ARGX",
       "titulo": "argenx: Unnatural Products Deal Changes Risk Profile",
       "resumen": "argenx is a Hold with its $550M Unnatural Products deal for an unproven pipeline that may pressure commercial products and R&D. Read more on ARGX stock here.",
@@ -787,13 +874,37 @@
       "badge": "🔴"
     },
     {
-      "ticker": "SENS",
-      "titulo": "AAON, Ziprecruiter, Rackspace Technology, Babcock & Wilcox And Other Big Stocks Moving Higher On Tuesday",
-      "resumen": "U.S. stocks fell, but AAON surged 23% on strong earnings and raised guidance. ZipRecruiter, Securitize and Senseonics led other gainers.",
+      "ticker": "ALNY",
+      "titulo": "Alnylam And Regeneron Says Data Published In The The New England Journal Of Medicine, Reports Up To 80% Reduction In Liver Fat Sustained For 36 Weeks After Single CIDEBsiRNA Dose In MASLD Patients",
+      "resumen": "Single administration of CIDEBsiRNA resulted in rapid, deep and durable reductions in liver fat by up to 80% that were sustained through 36 weeksData shared in oral presentation at AASLD The Liver Meeting® and",
       "fuente": "Benzinga",
-      "fecha": "10 Nov 2026 11:01 UTC",
-      "url": "https://finnhub.io/api/news?id=8f58a04b9fa74e4807612bd54434f4d7e8076dc907a58b3205e43d07e5f60dc0",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/10/Display-Of-Stock-Market-Quotes.jpg?width=2048&height=1536",
+      "fecha": "10 Nov 2026 11:02 UTC",
+      "url": "https://finnhub.io/api/news?id=a4275a3b2d471e34a3ccaa0db1c9df6f83f0eec99212dd4c43744588ebdbb518",
+      "imagen": "",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "The FDA Ordered GLP-1 Vision-Loss Warnings For Some Products. Shares of Eli Lilly and Novo Nordisk Were Unfazed.",
+      "resumen": "The updated labeling covers Mounjaro, Zepbound, Ozempic and Wegovy.",
+      "fuente": "Yahoo",
+      "fecha": "10 Nov 2026 12:41 UTC",
+      "url": "https://finnhub.io/api/news?id=f42a54cd55a595edb261e44212b431cb5b51d5a17b71026dd21bd4ef51519b00",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "CAI",
+      "titulo": "Caris Life Sciences, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+      "resumen": "2026-11-10. The following slide deck was published by Caris Life Sciences, Inc.",
+      "fuente": "SeekingAlpha",
+      "fecha": "10 Nov 2026 12:53 UTC",
+      "url": "https://finnhub.io/api/news?id=d4f5e9a2c8302daebfea3a3b72ddf27b9c3a268bad3540e0075e8532ca298206",
+      "imagen": "https://static.seekingalpha.com/uploads/sa_presentations/61/139061/slides/1.jpg?ts=1794333184",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
@@ -811,28 +922,172 @@
       "badge": "🔴"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "The Top 5 Biotech Stocks I'd Buy Right Now Without Any Hesitation",
-      "resumen": "These are among the best the industry has to offer.",
+      "ticker": "INSM",
+      "titulo": "4 Commercial-Stage Biotechs Poised for Sustained Revenue Growth",
+      "resumen": "TGTX, BCRX, INSM and MDGL are expanding product sales through rising demand, broader patient access and new market opportunities.",
       "fuente": "Yahoo",
-      "fecha": "08 Nov 2026 21:52 UTC",
-      "url": "https://finnhub.io/api/news?id=7139128692423f9547bfcea9275e9b326d02e30bbb9548b16934adaf8f182e76",
+      "fecha": "10 Nov 2026 13:13 UTC",
+      "url": "https://finnhub.io/api/news?id=541dbe469dc3a0d7a4ed4ce543bad807371706d13f215dd4dbc49e347f574e47",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam Collaborator Regeneron Advances CIDEBsiRNA with Promising First-in-Human Results in Patients with MASLD",
+      "resumen": "CAMBRIDGE, Mass., November 10, 2026--Alnylam Pharmaceuticals, Inc. (Nasdaq: ALNY), the leading RNAi therapeutics company, today announced that its collaborator, Regeneron Pharmaceuticals, Inc. shared initial results from a first-in-human trial that demonstrated a single subcutaneous dose of CIDEBsiR",
+      "fuente": "Yahoo",
+      "fecha": "10 Nov 2026 15:00 UTC",
+      "url": "https://finnhub.io/api/news?id=2bdf68199e7f85275b77562ced30cb39bcbf04ed625e6e1f5e3dbf05532885e0",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "SENS",
+      "titulo": "Senseonics (SENS) Q3 2026 Earnings Call Transcript",
+      "resumen": "Record patient starts lifted revenue, though expenses are running above guidance.",
+      "fuente": "Yahoo",
+      "fecha": "10 Nov 2026 16:15 UTC",
+      "url": "https://finnhub.io/api/news?id=48546989f82f51ed7a91841c951976e49d73841f86ae28a961b6efc2f8e82f7a",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "OCUL",
+      "titulo": "Ocular Therapeutix (OCUL) reports earnings tomorrow: what to expect",
+      "resumen": "Ophthalmology biopharmaceutical company Ocular Therapeutix (NASDAQ:OCUL) will be reporting results this Monday morning. Here’s what to look for.",
+      "fuente": "Yahoo",
+      "fecha": "10 Nov 2026 16:21 UTC",
+      "url": "https://finnhub.io/api/news?id=65f39597f3135c2c33d5c12f9feac578516805bc130e1d764615906603ea909f",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "Beam Therapeutics to seek approval of SCD cell therapy after trial success",
+      "resumen": "The cell therapy met its primary and secondary endpoints in the study, with Beam now eyeing regulatory approval.",
+      "fuente": "Yahoo",
+      "fecha": "10 Nov 2026 17:05 UTC",
+      "url": "https://finnhub.io/api/news?id=e4c0abb680538c7836effa87a74efea70892c49468a863128dada15348817187",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "Beam’s base editing therapy for sickle cell hits goal in pivotal trial",
+      "resumen": "The result represents a scientific milestone and positions Beam to submit a first-of-its-kind FDA application as soon as the end of the year.",
+      "fuente": "Yahoo",
+      "fecha": "10 Nov 2026 17:06 UTC",
+      "url": "https://finnhub.io/api/news?id=b2e92cbe05ba3c14c0255fcf4f97de40e5adf2c55fe388b7091ffb6649749b62",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "SENS",
+      "titulo": "Earnings Gaps Meet the Moving Averages on a Softer Morning for Stocks",
+      "resumen": "Stock Preachers News Commentary - The Bureau of Labor Statistics reported Tuesday morning that the Consumer Price Index for All Urban Consumers increased 0.4 percent on a seasonally adjusted basis in October. As of 11:45 a.m. ET, the S&P 500 was down 0.71% at 7,496.22. Five companies that released r",
+      "fuente": "Yahoo",
+      "fecha": "10 Nov 2026 18:00 UTC",
+      "url": "https://finnhub.io/api/news?id=d2a77a35287415bfcc2e16fed95ccf43769e78b0dae2a6e70939b19a45bc002c",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "DYN",
+      "titulo": "PepGen Stock Doubles in One Session - Here's Why",
+      "resumen": "PepGen Inc. (NASDAQ:PEPG) stock surged on Tuesday with a strong session Volume of 31.855 million, compared to an average volume of 983.011 thousand, according to Benzinga Pro data. The clinical-stage biotechnology company reported positive topline results from the Phase 2 FREEDOM2-DM1 study, highlig",
+      "fuente": "Yahoo",
+      "fecha": "10 Nov 2026 18:47 UTC",
+      "url": "https://finnhub.io/api/news?id=894a97307332cce59ee746c5f2979a6ca32f2211f3efff171e602a9216b40af1",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "DYN",
+      "titulo": "PepGen Stock Spikes 132% on Rare-Disease Win. These Rivals Are Feeling The Pressure.",
+      "resumen": "PepGen reports solid trial data for its rare-disease candidate, pressuring rivals developing competing therapies for myotonic dystrophy type 1.",
+      "fuente": "Yahoo",
+      "fecha": "10 Nov 2026 18:48 UTC",
+      "url": "https://finnhub.io/api/news?id=49e7d31fcad2da43d80ea2b87dcdf520ff5347da4a84681748baf69b3ebb463b",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ACRV",
+      "titulo": "Acrivon Therapeutics, Inc. (ACRV) Discusses ACR-525 Acquisition and PKC Inhibitor Preclinical Program Transcript",
+      "resumen": "Acrivon Therapeutics, Inc. (ACRV) Discusses ACR-525 Acquisition and PKC Inhibitor Preclinical Program November 10, 2026 4:00 PM ESTCompany ParticipantsAdam...",
+      "fuente": "SeekingAlpha",
+      "fecha": "10 Nov 2026 20:40 UTC",
+      "url": "https://finnhub.io/api/news?id=1ccc02b73e9a75572a95b404d3f28b23299738b1e16329fb9a0ff3dcc9c859e8",
+      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "ARGX",
-      "titulo": "3 Reasons Argenx Could Be a Top Biotech Stock for the Next Decade",
-      "resumen": "Here's why Argenx could keep winning.",
+      "titulo": "argenx (ENXTBR:ARGX) Stock May Look Fully Priced Despite Its $1.15B Deal",
+      "resumen": "argenx has delivered strong share price gains in recent years, so the immediate question for investors is whether today’s valuation can be explained by the company’s earnings power. With sentiment also shaped by fresh clinical and deal news, the current price invites a closer look at what the profit",
       "fuente": "Yahoo",
-      "fecha": "09 Nov 2026 10:04 UTC",
-      "url": "https://finnhub.io/api/news?id=ba071c25afdc331fd852c9fdd12a8409236ad036640abde60378e9c4766700fd",
+      "fecha": "10 Nov 2026 22:15 UTC",
+      "url": "https://finnhub.io/api/news?id=e4b3709865cc0a35f288e7183866b6b98c2d5777b7e934964dd4b0cee5ff0d7a",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "Beam Therapeutics (BEAM) Clears A Key Trial As The Undervalued Case Faces A Test",
+      "resumen": "Beam Therapeutics (BEAM) just crossed a major clinical hurdle. The firm reported that its sickle cell therapy candidate, ristoglogene autogetemcel, met all primary and secondary endpoints in the BEACON Phase 1/2 trial. Beam Therapeutics has not seen that clinical success translate into short term sh",
+      "fuente": "Yahoo",
+      "fecha": "11 Nov 2026 00:16 UTC",
+      "url": "https://finnhub.io/api/news?id=39098cd0cbe2ae0024ccf5b1a35ef6649106793db2dfc5e1e9bf0cbf7eb6804c",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "SENS",
+      "titulo": "Senseonics Holdings Sees $100 Million-Plus in 2027 Sales, Eyes New Eversense Launches",
+      "resumen": "Senseonics Holdings, Inc. Common Stock (NASDAQ:SENS) executives said the company’s return of commercial operations in-house has improved efficiency and supported growth in its Eversense diabetes monitoring business, while outlining plans for new products and insulin pump partnerships. Speaking at a",
+      "fuente": "Yahoo",
+      "fecha": "11 Nov 2026 08:14 UTC",
+      "url": "https://finnhub.io/api/news?id=031ab80923523497a31fac75ecb9de2f042ba6bd6371cab3c4b1def8ca7ba9ad",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "iShares Biotechnology ETF (IBB) Adds Gilead and Amgen on Nov. 9",
+      "resumen": "The $11.34 billion fund bought $230.1 million of stock on Monday, Nov. 9, lifting 231 positions and trimming none.",
+      "fuente": "Yahoo",
+      "fecha": "11 Nov 2026 11:04 UTC",
+      "url": "https://finnhub.io/api/news?id=c8f93063dc31c5557e8cbe55e9d2f4ec901c36246ff5e3a926a6ba698fb49f0d",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "CAI",
@@ -871,18 +1126,6 @@
       "badge": "🔵"
     },
     {
-      "ticker": "SENS",
-      "titulo": "HC Wainwright & Co. Reiterates Buy on Senseonics Holdings, Maintains $14 Price Target",
-      "resumen": "HC Wainwright &amp; Co.  analyst Sean Lee   reiterates Senseonics Holdings (NASDAQ:SENS) with a Buy and maintains $14 price target.",
-      "fuente": "Benzinga",
-      "fecha": "10 Nov 2026 08:01 UTC",
-      "url": "https://finnhub.io/api/news?id=803d764a9250719157a5b4d5c825d6d4bf70515eba7b78a08a21d1ea51cdbc36",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
       "ticker": "OCUL",
       "titulo": "HC Wainwright & Co. Maintains Buy on Ocular Therapeutix, Raises Price Target to $28",
       "resumen": "HC Wainwright &amp; Co.  analyst Yi Chen   maintains Ocular Therapeutix (NASDAQ:OCUL) with a Buy and raises the price target from $25 to $28.",
@@ -907,13 +1150,85 @@
       "badge": "🔵"
     },
     {
+      "ticker": "VRTX",
+      "titulo": "Crispr Therapeutics: The Recent 40% Drop In Short Interest Indicates Deteriorating Bearish Sentiment",
+      "resumen": "Crispr Therapeutics is rated a Buy, citing a strong balance sheet, derisked pipeline, and favorable risk/reward ratio. Discover more on CRSP in this article.",
+      "fuente": "SeekingAlpha",
+      "fecha": "10 Nov 2026 14:54 UTC",
+      "url": "https://finnhub.io/api/news?id=cb287d20f8f070ada369b4e144c3cc65ff4bbf004963f510213098a510ba3ad5",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2254461523/image_2254461523.jpg?io=getty-c-og",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "Crispr Therapeutics: The Recent 40% Drop In Short Interest Indicates Deteriorating Bearish Sentiment",
+      "resumen": "Crispr Therapeutics is rated a Buy, citing a strong balance sheet, derisked pipeline, and favorable risk/reward ratio. Discover more on CRSP in this article.",
+      "fuente": "SeekingAlpha",
+      "fecha": "10 Nov 2026 14:54 UTC",
+      "url": "https://finnhub.io/api/news?id=cb287d20f8f070ada369b4e144c3cc65ff4bbf004963f510213098a510ba3ad5",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2254461523/image_2254461523.jpg?io=getty-c-og",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
       "ticker": "SENS",
-      "titulo": "This Riot Platforms Analyst Turns Bullish; Here Are Top 5 Upgrades For Tuesday",
-      "resumen": "Analysts upgraded RIOT, SENS, MSDL, SCCO and SECZ; RIOT’s price target jumped to $28, while MSDL’s target fell to $14.50.",
+      "titulo": "US Gap-Up and Gap-Down Stocks: Nov. 10, 2026 Session",
+      "resumen": "Nov. 10, 2026 US gap movers included SMX, AMIX, TTEC, MVST, IHRT and FF, with notable gap-up and gap-down session moves.",
+      "fuente": "ChartMill",
+      "fecha": "10 Nov 2026 15:30 UTC",
+      "url": "https://finnhub.io/api/news?id=2d7c1e01bd35e1a0b4a6af964bd03e861666e64bfa845c83d1d905def1a0d45b",
+      "imagen": "https://www.chartmill.com/images/uploads/CM_Gap_Stocks_Small_free_ad767b11cf.webp",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Here’s How Much You Would Have Made Owning Insmed Stock In The Last 5 Years",
+      "resumen": "Insmed (NASDAQ:INSM) has outperformed the market over the past 5 years by 21.49% on an annualized basis producing an average annual return of 31.4%. Currently, Insmed has a market capitalization of $25.47 billion.",
       "fuente": "Benzinga",
-      "fecha": "10 Nov 2026 10:34 UTC",
-      "url": "https://finnhub.io/api/news?id=4c282ac124ff25dcfc0222b266d326544cea4d7e216e7a7924f02774bf7c9eeb",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/10/Riot-Platforms.jpg?width=2048&height=1536",
+      "fecha": "10 Nov 2026 18:45 UTC",
+      "url": "https://finnhub.io/api/news?id=0e4ad29db082e576c5ea822f04e61fbc5aadef48ef1263b5117714834b53adb2",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/valuestock_4.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "SENS",
+      "titulo": "Top Midday Gainers",
+      "resumen": "SMX (SMX) is expanding its technology capabilities by developing SMX Scientific Intelligence, an art",
+      "fuente": "Yahoo",
+      "fecha": "10 Nov 2026 19:00 UTC",
+      "url": "https://finnhub.io/api/news?id=f577363e75be277372908f1b887ca347f037b2666bb078ea2a2a8dcdb77f88f1",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "The Zacks Analyst Blog Highlights TG Therapeutics, BioCryst, Insmed and Madrigal",
+      "resumen": "TGTX, BCRX, INSM and MDGL are expanding commercial reach through rising therapy sales, broader patient access and potential new indications.",
+      "fuente": "Yahoo",
+      "fecha": "11 Nov 2026 06:36 UTC",
+      "url": "https://finnhub.io/api/news?id=47d93cb6d62b3770be0df5e95e287b58a032ee4934f598db5842a5017c1aa4f6",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "Wedbush Maintains Outperform on Beam Therapeutics, Raises Price Target to $33",
+      "resumen": "Wedbush  analyst David Nierengarten   maintains Beam Therapeutics (NASDAQ:BEAM) with a Outperform and raises the price target from $30 to $33.",
+      "fuente": "Benzinga",
+      "fecha": "11 Nov 2026 10:12 UTC",
+      "url": "https://finnhub.io/api/news?id=c198ca0fdb07ab6f7db4210d92882c2d986a7e8f66b7b97909d73960f2d0338e",
+      "imagen": "",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

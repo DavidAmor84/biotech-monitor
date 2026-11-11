@@ -1,13 +1,13 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 10/11/2026 15:25 | Período: últimos 7 días
-Desde: 2026-11-03 → Hasta: 2026-11-10
+Generado: 11/11/2026 14:56 | Período: últimos 7 días
+Desde: 2026-11-04 → Hasta: 2026-11-11
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 23 filings | 🔴 3 | 🟢 1 | 🟡 9 | 🔵 10 | ✅ 5 sin novedad
+RESUMEN: 21 filings | 🔴 2 | 🟢 1 | 🟡 8 | 🔵 10 | ✅ 7 sin novedad
 
 ──────────────────────────────────────────────────
-🚨 ALERTAS CRÍTICAS (4)
+🚨 ALERTAS CRÍTICAS (3)
 ──────────────────────────────────────────────────
 
   [SENS] Senseonics Holdings, Inc.
@@ -27,12 +27,6 @@ RESUMEN: 23 filings | 🔴 3 | 🟢 1 | 🟡 9 | 🔵 10 | ✅ 5 sin novedad
   Financiero: Shares: 187.4M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado
   → https://www.sec.gov/Archives/edgar/data/1818794/000181879426000012/dyn-20260930.htm
 
-  [DNLI] Denali Therapeutics Inc.
-  🔴 ALTA 10-Q | 2026-11-03
-  Caja: $102.9M · Burn: $115.2M/mes · Shares: 156.2M · ⚠️ GOING CONCERN · ⚖️ Litigios activos
-  Financiero: Caja: $102.9M · Burn: $115.2M/mes · Shares: 156.2M · ⚠️ GOING CONCERN · ⚖️ Litigios activos
-  → https://www.sec.gov/Archives/edgar/data/1714899/000171489926000109/dnli-20260930.htm
-
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
 ──────────────────────────────────────────────────
@@ -45,32 +39,23 @@ DETALLE POR TICKER — SEC EDGAR
      🔴 ALTA 10-Q | 2026-11-05 | Shares: 187.4M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado
      10-Q: Shares: 187.4M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado
      → https://www.sec.gov/Archives/edgar/data/1818794/000181879426000012/dyn-20260930.htm
-
-  🔴 [DNLI] Denali Therapeutics Inc. — 2 filing(s)
-     🔴 ALTA 10-Q | 2026-11-03 | Caja: $102.9M · Burn: $115.2M/mes · Shares: 156.2M · ⚠️ GOING CONCERN · ⚖️ Litigios activos
-     10-Q: Caja: $102.9M · Burn: $115.2M/mes · Shares: 156.2M · ⚠️ GOING CONCERN · ⚖️ Litigios activos
-     → https://www.sec.gov/Archives/edgar/data/1714899/000171489926000109/dnli-20260930.htm
-     🔵 INFO 8-K | 2026-11-03 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1714899/000171489926000107/dnli-20261103.htm
+  ✅ [DNLI] Sin novedades
   ✅ [VKTX] Sin novedades
 
   🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 1 filing(s)
-     🟡 MEDIA 10-Q | 2026-11-03 | Caja: $4979.3M · Shares: 254.0M · ⚖️ Litigios activos
-     10-Q: Caja: $4979.3M · Shares: 254.0M · ⚖️ Litigios activos
-     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000291/vrtx-20260930.htm
+     🟡 MEDIA 4 | 2026-11-10 | Kewalramani Reshma (Director / CEO & President) → Venta 11,866 acciones @ $531.53 | Post: 86,471 | Rutinaria/RSU/impuestos
+     Insider: Kewalramani Reshma (Director / CEO & President) → Venta 11,866 acciones @ $531.53 | Post: 86,471 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000293/xslF345X06/wk-form4_1794345641.xml
 
   🔵 [ALNY] ALNYLAM PHARMACEUTICALS, INC. — 1 filing(s)
      🔵 INFO 8-K | 2026-11-05 | Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02, 8.01, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000080/alny-20261102.htm
+  ✅ [BEAM] Sin novedades
 
-  🟡 [BEAM] Beam Therapeutics Inc. — 2 filing(s)
-     🟡 MEDIA 10-Q | 2026-11-03 | ⚖️ Litigios activos · 📋 Shelf mencionado
-     10-Q: ⚖️ Litigios activos · 📋 Shelf mencionado
-     → https://www.sec.gov/Archives/edgar/data/1745999/000119312526444455/beam-20260930.htm
-     🔵 INFO 8-K | 2026-11-03 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1745999/000119312526444454/beam-20261103.htm
-
-  🟡 [OCUL] OCULAR THERAPEUTIX, INC — 4 filing(s)
+  🟡 [OCUL] OCULAR THERAPEUTIX, INC — 5 filing(s)
+     🔵 INFO 4 | 2026-11-10 | Sherif Riad (Director) → Concesión 28,000 acciones @ $0.00 | Post: 28,000 | Rutinaria/RSU/impuestos
+     Insider: Sherif Riad (Director) → Concesión 28,000 acciones @ $0.00 | Post: 28,000 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926125172/xslF345X06/tm2629271-3_4seq1.xml
      🟡 MEDIA 4 | 2026-11-09 | Saroj Namrata (Chief Business Officer) → Venta 35,370 acciones @ $6.55 | Post: 220,522 | Rutinaria/RSU/impuestos
      Insider: Saroj Namrata (Chief Business Officer) → Venta 35,370 acciones @ $6.55 | Post: 220,522 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1393434/000110465926124526/xslF345X06/tm2629271-1_4seq1.xml
@@ -104,7 +89,9 @@ DETALLE POR TICKER — SEC EDGAR
      🔵 INFO 8-K | 2026-11-05 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1831828/000119312526449780/vera-20261105.htm
 
-  🟢 [ACRV] Acrivon Therapeutics, Inc. — 1 filing(s)
+  🟢 [ACRV] Acrivon Therapeutics, Inc. — 2 filing(s)
+     🔵 INFO 8-K | 2026-11-10 | 8-K — Sin clasificación específica por Item [Items: 7.01, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1781174/000119312526455669/acrv-20261110.htm
      🟢 ALTA 8-K | 2026-11-06 | 8-K — Evento positivo potencial: Asset purchase / venta de activo [Items: 8.01, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1781174/000119312526450779/acrv-20261106.htm
 

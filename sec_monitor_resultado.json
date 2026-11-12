@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "11/11/2026 14:56",
+  "generado": "12/11/2026 15:47",
   "periodo_dias": 7,
-  "desde": "2026-11-04",
-  "hasta": "2026-11-11",
+  "desde": "2026-11-05",
+  "hasta": "2026-11-12",
   "resumen": {
-    "total_filings": 21,
+    "total_filings": 19,
     "alertas_rojas": 2,
     "alertas_verdes": 1,
-    "alertas_amarillas": 8,
-    "alertas_azules": 10,
-    "sin_novedad": 7
+    "alertas_amarillas": 7,
+    "alertas_azules": 9,
+    "sin_novedad": 8
   },
   "tickers": {
     "SNDX": {
@@ -346,59 +346,9 @@
       "cik": "0002019410",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "10-Q",
-          "fecha": "2026-11-04",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Shares: 282.5M · ⚖️ Litigios activos",
-          "detalle": "10-Q",
-          "empresa_sec": "Caris Life Sciences, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/2019410/000201941026000069/cai-20260930.htm",
-          "form4_detail": null,
-          "8k_detail": null,
-          "10q_detail": {
-            "caja_mm": null,
-            "burn_trimestral_mm": null,
-            "burn_mensual_mm": null,
-            "runway_meses": null,
-            "shares_outstanding_mm": 282.5,
-            "litigios_detectados": true,
-            "shelf_mencionado": false,
-            "going_concern": false,
-            "extracto_financiero": "come consists primarily of interest earned on our cash and cash equivalents and marketable securities. Interest Expense Interest expense consists primarily of contractual interest expense on our term loan, amortization of the debt discount related to our term loan and convertible notes, and interest expense on our finance leases. Changes in Fair Va",
-            "resumen_10q": "Shares: 282.5M · ⚖️ Litigios activos"
-          },
-          "prospecto_detail": null
-        },
-        {
-          "form": "8-K",
-          "fecha": "2026-11-04",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
-          "detalle": "8-K",
-          "empresa_sec": "Caris Life Sciences, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/2019410/000201941026000067/cai-20261104.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "2.02",
-              "9.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 2.02 Results of Operations and Financial Condition. On November 4, 2026, Caris Life Sciences, Inc. (the Company ) issued a press release announcing its financial results for the quarter ended September 30, 2026. A copy of the Company s press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated by reference herein solely for purposes of this Item 2.02 disclosure. The information in this Current Report on Form 8-K, including Exhibit 99.1 furnished herewith, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth in such filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press Release issued November 4 , 2026. 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Date: November 4, 2026 CARIS LIFE SCIENCES, INC. By: /s/ Luke Power Name: Luke Power Title: Senior Vice President, Chief Financial Officer and Chief Accounting Officer",
-            "nivel_ajustado": "azul",
-            "badge_ajustado": "🔵 INFO",
-            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "GPCR": {
@@ -1317,59 +1267,6 @@
         ],
         "clasificacion_item": null,
         "extracto": "Item 2.02 Results of Operations and Financial Condition On November 5, 2026, Vera Therapeutics, Inc. (the Company ) issued a press release announcing its financial results for the third quarter ended September 30, 2026, and providing recent corporate updates. The full text of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference. The information contained in this Current Report on Form 8-K (including Exhibit 99.1 hereto) shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits. Exhibit No. Description 99.1 Press Release of Vera Therapeutics, Inc., dated November 5, 2026 . 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. Vera Therapeutics, Inc. Date: November 5, 2026 By: /s/ Sean Grant Sean Grant, Chief Financial Officer",
-        "nivel_ajustado": "azul",
-        "badge_ajustado": "🔵 INFO",
-        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "CAI",
-      "nombre": "Caris Life Sciences, Inc.",
-      "form": "10-Q",
-      "fecha": "2026-11-04",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Shares: 282.5M · ⚖️ Litigios activos",
-      "detalle": "10-Q",
-      "empresa_sec": "Caris Life Sciences, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/2019410/000201941026000069/cai-20260930.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": {
-        "caja_mm": null,
-        "burn_trimestral_mm": null,
-        "burn_mensual_mm": null,
-        "runway_meses": null,
-        "shares_outstanding_mm": 282.5,
-        "litigios_detectados": true,
-        "shelf_mencionado": false,
-        "going_concern": false,
-        "extracto_financiero": "come consists primarily of interest earned on our cash and cash equivalents and marketable securities. Interest Expense Interest expense consists primarily of contractual interest expense on our term loan, amortization of the debt discount related to our term loan and convertible notes, and interest expense on our finance leases. Changes in Fair Va",
-        "resumen_10q": "Shares: 282.5M · ⚖️ Litigios activos"
-      },
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "CAI",
-      "nombre": "Caris Life Sciences, Inc.",
-      "form": "8-K",
-      "fecha": "2026-11-04",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "Caris Life Sciences, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/2019410/000201941026000067/cai-20261104.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "2.02",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 2.02 Results of Operations and Financial Condition. On November 4, 2026, Caris Life Sciences, Inc. (the Company ) issued a press release announcing its financial results for the quarter ended September 30, 2026. A copy of the Company s press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated by reference herein solely for purposes of this Item 2.02 disclosure. The information in this Current Report on Form 8-K, including Exhibit 99.1 furnished herewith, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth in such filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press Release issued November 4 , 2026. 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Date: November 4, 2026 CARIS LIFE SCIENCES, INC. By: /s/ Luke Power Name: Luke Power Title: Senior Vice President, Chief Financial Officer and Chief Accounting Officer",
         "nivel_ajustado": "azul",
         "badge_ajustado": "🔵 INFO",
         "resumen_ajustado": "8-K — Sin clasificación específica por Item"

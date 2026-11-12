@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 11/11/2026 14:56 | Período: últimos 7 días
-Desde: 2026-11-04 → Hasta: 2026-11-11
+Generado: 12/11/2026 15:47 | Período: últimos 7 días
+Desde: 2026-11-05 → Hasta: 2026-11-12
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 21 filings | 🔴 2 | 🟢 1 | 🟡 8 | 🔵 10 | ✅ 7 sin novedad
+RESUMEN: 19 filings | 🔴 2 | 🟢 1 | 🟡 7 | 🔵 9 | ✅ 8 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (3)
@@ -66,13 +66,7 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1393434/000110465926124155/ocul-20260930x10q.htm
      🔵 INFO 8-K | 2026-11-09 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1393434/000110465926124151/tm2629079d2_8k.htm
-
-  🟡 [CAI] Caris Life Sciences, Inc. — 2 filing(s)
-     🟡 MEDIA 10-Q | 2026-11-04 | Shares: 282.5M · ⚖️ Litigios activos
-     10-Q: Shares: 282.5M · ⚖️ Litigios activos
-     → https://www.sec.gov/Archives/edgar/data/2019410/000201941026000069/cai-20260930.htm
-     🔵 INFO 8-K | 2026-11-04 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/2019410/000201941026000067/cai-20261104.htm
+  ✅ [CAI] Sin novedades
 
   🟡 [GPCR] Structure Therapeutics Inc. — 2 filing(s)
      🟡 MEDIA 10-Q | 2026-11-09 | Shares: 212513.0M · ⚖️ Litigios activos · 📋 Shelf mencionado

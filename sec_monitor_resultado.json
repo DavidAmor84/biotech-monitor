@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "12/11/2026 15:47",
+  "generado": "13/11/2026 15:07",
   "periodo_dias": 7,
-  "desde": "2026-11-05",
-  "hasta": "2026-11-12",
+  "desde": "2026-11-06",
+  "hasta": "2026-11-13",
   "resumen": {
-    "total_filings": 19,
-    "alertas_rojas": 2,
-    "alertas_verdes": 1,
-    "alertas_amarillas": 7,
-    "alertas_azules": 9,
-    "sin_novedad": 8
+    "total_filings": 18,
+    "alertas_rojas": 1,
+    "alertas_verdes": 3,
+    "alertas_amarillas": 6,
+    "alertas_azules": 8,
+    "sin_novedad": 9
   },
   "tickers": {
     "SNDX": {
@@ -19,9 +19,36 @@
       "cik": "0001395937",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-11-12",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Ondrey Aaron (Chief Financial Officer) → Concesión 270,000 acciones @ $9.55 | Post: 0 | Rutinaria/RSU/impuestos",
+          "detalle": "4",
+          "empresa_sec": "Syndax Pharmaceuticals Inc",
+          "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526458304/xslF345X06/ownership.xml",
+          "form4_detail": {
+            "insider_nombre": "Ondrey Aaron",
+            "insider_cargo": "Chief Financial Officer",
+            "transaccion_codigo": "A",
+            "transaccion_tipo": "Concesión",
+            "transaccion_acciones": "270000",
+            "transaccion_precio": "9.55",
+            "transaccion_fecha": "2026-11-09",
+            "acciones_post": "0",
+            "footnotes": "Twenty-five percent (25%) of the total number of shares will vest on the one (1) year anniversary of the Vesting Commencement Date and one forty-eighth (1/48th) of the shares of Common Stock subject to the Option shall vest monthly thereafter during the recipient's continued service as an employee, consultant, director or officer of the Company over the following thirty-six (36) months, until all of the shares subject to the Option are fully vested.",
+            "es_rutinaria": true,
+            "resumen_detail": "Ondrey Aaron (Chief Financial Officer) → Concesión 270,000 acciones @ $9.55 | Post: 0 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "ARGX": {
@@ -41,59 +68,9 @@
       "cik": "0001818794",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "8-K",
-          "fecha": "2026-11-05",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
-          "detalle": "8-K",
-          "empresa_sec": "Dyne Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181879426000013/dyn-20261105.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "2.02",
-              "9.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 2.02 Results of Operations and Financial Condition. On [November 5], 2026, Dyne Therapeutics, Inc. (the Company ) issued a press release announcing the Company s financial results for the quarter ended September 30, 2026. A copy of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference. The information in this Form 8-K, including Exhibit 99.1 attached hereto, is being furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any filing by the Company under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filling. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 104 Press Release issued by Dyne Therapeutics, Inc. on November 5, 2026 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. DYNE THERAPEUTICS, INC. Date: November 5, 2026 By: /s/ John G. Cox Name: John G. Cox Title: President and Chief Executive Officer",
-            "nivel_ajustado": "azul",
-            "badge_ajustado": "🔵 INFO",
-            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "10-Q",
-          "fecha": "2026-11-05",
-          "nivel": "rojo",
-          "badge": "🔴 ALTA",
-          "resumen": "Shares: 187.4M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado",
-          "detalle": "10-Q",
-          "empresa_sec": "Dyne Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181879426000012/dyn-20260930.htm",
-          "form4_detail": null,
-          "8k_detail": null,
-          "10q_detail": {
-            "caja_mm": null,
-            "burn_trimestral_mm": null,
-            "burn_mensual_mm": null,
-            "runway_meses": null,
-            "shares_outstanding_mm": 187.4,
-            "litigios_detectados": true,
-            "shelf_mencionado": true,
-            "going_concern": true,
-            "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 913,203 &#160; &#160; $ 893,369 &#160; Marketable securities &#160; &#160; 221,183 &#160; &#160; &#160; 217,193 &#160; Prepaid expenses and other current assets &#160; &#160; 41,643 &#160; &#160; &#160; 16,025 &#160; Total current assets &#160; &#160; 1,176,029 &#1",
-            "resumen_10q": "Shares: 187.4M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado"
-          },
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "rojo",
-      "badge": "🔴",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "DNLI": {
@@ -164,33 +141,86 @@
       "validacion_empresa": "OK",
       "filings": [
         {
-          "form": "8-K",
-          "fecha": "2026-11-05",
+          "form": "4",
+          "fecha": "2026-11-12",
           "nivel": "azul",
           "badge": "🔵 INFO",
-          "resumen": "Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02, 8.01, 9.01]",
-          "detalle": "8-K",
+          "resumen": "PYOTT DAVID E I (Director) → Ejercicio opción 3,780 acciones @ $71.99 | Post: 5,362",
+          "detalle": "PRIMARY DOCUMENT",
           "empresa_sec": "ALNYLAM PHARMACEUTICALS, INC.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000080/alny-20261102.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "5.02",
-              "8.01",
-              "9.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers (b) On November 4, 2026, Alnylam Pharmaceuticals, Inc. (the Company ) announced that Tolga Tanguler will depart from his role as the Company s Executive Vice President, Chief Commercialization Officer in December 2026. Mr. Tanguler and the Company intend to enter into a written agreement not later than his separation date, which will contain the terms of his departure from the Company. Item 8.01. Other Events On November 2, 2026, the Board of Directors of the Company authorized a program to repurchase up to $1.0 billion of the Company s common stock (the 2026 Repurchase Program ). Repurchases under the 2026 Repurchase Program may be made from time to time in open market transactions, including pursuant to trading plans intended to qualify under Rule 10b5-1 under the Securities Exchange Act of 1934, as amended (the Exchange Act ), in privately negotiated transactions, or by other means, in each case in accordance with applicable securities laws, including Rule 10b-18 under the Exchange Act. The Company anticipates repurchasing approximately $500 million of its common stock authorized under the 2026 Repurchase Program by the end of 2026 and the balance during 2027, but the timing and amount of any repurchases will depend on a number of factors, including the market price of the Company s common stock, general business and market conditions, the Company s liquidity and capital requirements and other investment opportunitie",
-            "nivel_ajustado": "azul",
-            "badge_ajustado": "🔵 INFO",
-            "resumen_ajustado": "Item 5.02: Plan de incentivos / compensación aprobado — informativo"
+          "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000089/xslF345X06/form4.xml",
+          "form4_detail": {
+            "insider_nombre": "PYOTT DAVID E I",
+            "insider_cargo": "Director",
+            "transaccion_codigo": "M",
+            "transaccion_tipo": "Ejercicio opción",
+            "transaccion_acciones": "3780",
+            "transaccion_precio": "71.99",
+            "transaccion_fecha": "2026-11-10",
+            "acciones_post": "5362",
+            "footnotes": "The options exercised and held by the reporting person were due to expire on June 1, 2027. The shares of ALNY common stock were purchased by the David E I Pyott Trust, of which the reporting person is trustee.",
+            "es_rutinaria": false,
+            "resumen_detail": "PYOTT DAVID E I (Director) → Ejercicio opción 3,780 acciones @ $71.99 | Post: 5,362"
           },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
+          "form": "4",
+          "fecha": "2026-11-12",
+          "nivel": "verde",
+          "badge": "🟢 ALTA",
+          "resumen": "Insider BUY: Sigal Charles Elliott (Director) → Compra 1,600 acciones @ $152.25 | Post: 3,600",
+          "detalle": "PRIMARY DOCUMENT",
+          "empresa_sec": "ALNYLAM PHARMACEUTICALS, INC.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000087/xslF345X06/form4.xml",
+          "form4_detail": {
+            "insider_nombre": "Sigal Charles Elliott",
+            "insider_cargo": "Director",
+            "transaccion_codigo": "P",
+            "transaccion_tipo": "Compra",
+            "transaccion_acciones": "1600",
+            "transaccion_precio": "152.25",
+            "transaccion_fecha": "2026-11-10",
+            "acciones_post": "3600",
+            "footnotes": "Shares held by Sigal Family Investments, LLC, of which the reporting person is Managing Member.",
+            "es_rutinaria": false,
+            "resumen_detail": "Sigal Charles Elliott (Director) → Compra 1,600 acciones @ $152.25 | Post: 3,600"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
+        {
+          "form": "4",
+          "fecha": "2026-11-12",
+          "nivel": "verde",
+          "badge": "🟢 ALTA",
+          "resumen": "Insider BUY: SCHULMAN AMY W (Director) → Compra 1,910 acciones @ $156.82 | Post: 25,959",
+          "detalle": "PRIMARY DOCUMENT",
+          "empresa_sec": "ALNYLAM PHARMACEUTICALS, INC.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000085/xslF345X06/form4.xml",
+          "form4_detail": {
+            "insider_nombre": "SCHULMAN AMY W",
+            "insider_cargo": "Director",
+            "transaccion_codigo": "P",
+            "transaccion_tipo": "Compra",
+            "transaccion_acciones": "1910",
+            "transaccion_precio": "156.82",
+            "transaccion_fecha": "2026-11-09",
+            "acciones_post": "25959",
+            "footnotes": null,
+            "es_rutinaria": false,
+            "resumen_detail": "SCHULMAN AMY W (Director) → Compra 1,910 acciones @ $156.82 | Post: 25,959"
+          },
+          "8k_detail": null,
           "10q_detail": null,
           "prospecto_detail": null
         }
       ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "nivel": "verde",
+      "badge": "🟢",
       "error": null
     },
     "BEAM": {
@@ -429,59 +459,9 @@
       "cik": "0001831828",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "10-Q",
-          "fecha": "2026-11-05",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Shares: 72.3M · ⚖️ Litigios activos",
-          "detalle": "10-Q",
-          "empresa_sec": "Vera Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1831828/000119312526449826/vera-20260930.htm",
-          "form4_detail": null,
-          "8k_detail": null,
-          "10q_detail": {
-            "caja_mm": null,
-            "burn_trimestral_mm": null,
-            "burn_mensual_mm": null,
-            "runway_meses": null,
-            "shares_outstanding_mm": 72.3,
-            "litigios_detectados": true,
-            "shelf_mencionado": false,
-            "going_concern": false,
-            "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 55,322 &#160; &#160; $ 354,725 &#160; Marketable securities &#160; &#160; 328,720 &#160; &#160; &#160; 359,864 &#160; Accounts receivable, net &#160; &#160; 11,981 &#160; &#160; &#160; &#8212; &#160; Inventory &#160; &#160; 7,078 &#160; &#160; &#160; &#8212; &#160;",
-            "resumen_10q": "Shares: 72.3M · ⚖️ Litigios activos"
-          },
-          "prospecto_detail": null
-        },
-        {
-          "form": "8-K",
-          "fecha": "2026-11-05",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
-          "detalle": "8-K",
-          "empresa_sec": "Vera Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1831828/000119312526449780/vera-20261105.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "2.02",
-              "9.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 2.02 Results of Operations and Financial Condition On November 5, 2026, Vera Therapeutics, Inc. (the Company ) issued a press release announcing its financial results for the third quarter ended September 30, 2026, and providing recent corporate updates. The full text of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference. The information contained in this Current Report on Form 8-K (including Exhibit 99.1 hereto) shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits. Exhibit No. Description 99.1 Press Release of Vera Therapeutics, Inc., dated November 5, 2026 . 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. Vera Therapeutics, Inc. Date: November 5, 2026 By: /s/ Sean Grant Sean Grant, Chief Financial Officer",
-            "nivel_ajustado": "azul",
-            "badge_ajustado": "🔵 INFO",
-            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "ACRV": {
@@ -687,6 +667,62 @@
   },
   "alertas_criticas": [
     {
+      "ticker": "ALNY",
+      "nombre": "ALNYLAM PHARMACEUTICALS, INC.",
+      "form": "4",
+      "fecha": "2026-11-12",
+      "nivel": "verde",
+      "badge": "🟢 ALTA",
+      "resumen": "Insider BUY: Sigal Charles Elliott (Director) → Compra 1,600 acciones @ $152.25 | Post: 3,600",
+      "detalle": "PRIMARY DOCUMENT",
+      "empresa_sec": "ALNYLAM PHARMACEUTICALS, INC.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000087/xslF345X06/form4.xml",
+      "form4_detail": {
+        "insider_nombre": "Sigal Charles Elliott",
+        "insider_cargo": "Director",
+        "transaccion_codigo": "P",
+        "transaccion_tipo": "Compra",
+        "transaccion_acciones": "1600",
+        "transaccion_precio": "152.25",
+        "transaccion_fecha": "2026-11-10",
+        "acciones_post": "3600",
+        "footnotes": "Shares held by Sigal Family Investments, LLC, of which the reporting person is Managing Member.",
+        "es_rutinaria": false,
+        "resumen_detail": "Sigal Charles Elliott (Director) → Compra 1,600 acciones @ $152.25 | Post: 3,600"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "ALNY",
+      "nombre": "ALNYLAM PHARMACEUTICALS, INC.",
+      "form": "4",
+      "fecha": "2026-11-12",
+      "nivel": "verde",
+      "badge": "🟢 ALTA",
+      "resumen": "Insider BUY: SCHULMAN AMY W (Director) → Compra 1,910 acciones @ $156.82 | Post: 25,959",
+      "detalle": "PRIMARY DOCUMENT",
+      "empresa_sec": "ALNYLAM PHARMACEUTICALS, INC.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000085/xslF345X06/form4.xml",
+      "form4_detail": {
+        "insider_nombre": "SCHULMAN AMY W",
+        "insider_cargo": "Director",
+        "transaccion_codigo": "P",
+        "transaccion_tipo": "Compra",
+        "transaccion_acciones": "1910",
+        "transaccion_precio": "156.82",
+        "transaccion_fecha": "2026-11-09",
+        "acciones_post": "25959",
+        "footnotes": null,
+        "es_rutinaria": false,
+        "resumen_detail": "SCHULMAN AMY W (Director) → Compra 1,910 acciones @ $156.82 | Post: 25,959"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
       "ticker": "SENS",
       "nombre": "Senseonics Holdings, Inc.",
       "form": "10-Q",
@@ -738,36 +774,121 @@
       },
       "10q_detail": null,
       "prospecto_detail": null
-    },
-    {
-      "ticker": "DYN",
-      "nombre": "Dyne Therapeutics, Inc.",
-      "form": "10-Q",
-      "fecha": "2026-11-05",
-      "nivel": "rojo",
-      "badge": "🔴 ALTA",
-      "resumen": "Shares: 187.4M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado",
-      "detalle": "10-Q",
-      "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181879426000012/dyn-20260930.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": {
-        "caja_mm": null,
-        "burn_trimestral_mm": null,
-        "burn_mensual_mm": null,
-        "runway_meses": null,
-        "shares_outstanding_mm": 187.4,
-        "litigios_detectados": true,
-        "shelf_mencionado": true,
-        "going_concern": true,
-        "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 913,203 &#160; &#160; $ 893,369 &#160; Marketable securities &#160; &#160; 221,183 &#160; &#160; &#160; 217,193 &#160; Prepaid expenses and other current assets &#160; &#160; 41,643 &#160; &#160; &#160; 16,025 &#160; Total current assets &#160; &#160; 1,176,029 &#1",
-        "resumen_10q": "Shares: 187.4M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado"
-      },
-      "prospecto_detail": null
     }
   ],
   "todos_filings": [
+    {
+      "ticker": "SNDX",
+      "nombre": "Syndax Pharmaceuticals Inc",
+      "form": "4",
+      "fecha": "2026-11-12",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Ondrey Aaron (Chief Financial Officer) → Concesión 270,000 acciones @ $9.55 | Post: 0 | Rutinaria/RSU/impuestos",
+      "detalle": "4",
+      "empresa_sec": "Syndax Pharmaceuticals Inc",
+      "url": "https://www.sec.gov/Archives/edgar/data/1395937/000119312526458304/xslF345X06/ownership.xml",
+      "form4_detail": {
+        "insider_nombre": "Ondrey Aaron",
+        "insider_cargo": "Chief Financial Officer",
+        "transaccion_codigo": "A",
+        "transaccion_tipo": "Concesión",
+        "transaccion_acciones": "270000",
+        "transaccion_precio": "9.55",
+        "transaccion_fecha": "2026-11-09",
+        "acciones_post": "0",
+        "footnotes": "Twenty-five percent (25%) of the total number of shares will vest on the one (1) year anniversary of the Vesting Commencement Date and one forty-eighth (1/48th) of the shares of Common Stock subject to the Option shall vest monthly thereafter during the recipient's continued service as an employee, consultant, director or officer of the Company over the following thirty-six (36) months, until all of the shares subject to the Option are fully vested.",
+        "es_rutinaria": true,
+        "resumen_detail": "Ondrey Aaron (Chief Financial Officer) → Concesión 270,000 acciones @ $9.55 | Post: 0 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "ALNY",
+      "nombre": "ALNYLAM PHARMACEUTICALS, INC.",
+      "form": "4",
+      "fecha": "2026-11-12",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "PYOTT DAVID E I (Director) → Ejercicio opción 3,780 acciones @ $71.99 | Post: 5,362",
+      "detalle": "PRIMARY DOCUMENT",
+      "empresa_sec": "ALNYLAM PHARMACEUTICALS, INC.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000089/xslF345X06/form4.xml",
+      "form4_detail": {
+        "insider_nombre": "PYOTT DAVID E I",
+        "insider_cargo": "Director",
+        "transaccion_codigo": "M",
+        "transaccion_tipo": "Ejercicio opción",
+        "transaccion_acciones": "3780",
+        "transaccion_precio": "71.99",
+        "transaccion_fecha": "2026-11-10",
+        "acciones_post": "5362",
+        "footnotes": "The options exercised and held by the reporting person were due to expire on June 1, 2027. The shares of ALNY common stock were purchased by the David E I Pyott Trust, of which the reporting person is trustee.",
+        "es_rutinaria": false,
+        "resumen_detail": "PYOTT DAVID E I (Director) → Ejercicio opción 3,780 acciones @ $71.99 | Post: 5,362"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "ALNY",
+      "nombre": "ALNYLAM PHARMACEUTICALS, INC.",
+      "form": "4",
+      "fecha": "2026-11-12",
+      "nivel": "verde",
+      "badge": "🟢 ALTA",
+      "resumen": "Insider BUY: Sigal Charles Elliott (Director) → Compra 1,600 acciones @ $152.25 | Post: 3,600",
+      "detalle": "PRIMARY DOCUMENT",
+      "empresa_sec": "ALNYLAM PHARMACEUTICALS, INC.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000087/xslF345X06/form4.xml",
+      "form4_detail": {
+        "insider_nombre": "Sigal Charles Elliott",
+        "insider_cargo": "Director",
+        "transaccion_codigo": "P",
+        "transaccion_tipo": "Compra",
+        "transaccion_acciones": "1600",
+        "transaccion_precio": "152.25",
+        "transaccion_fecha": "2026-11-10",
+        "acciones_post": "3600",
+        "footnotes": "Shares held by Sigal Family Investments, LLC, of which the reporting person is Managing Member.",
+        "es_rutinaria": false,
+        "resumen_detail": "Sigal Charles Elliott (Director) → Compra 1,600 acciones @ $152.25 | Post: 3,600"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "ALNY",
+      "nombre": "ALNYLAM PHARMACEUTICALS, INC.",
+      "form": "4",
+      "fecha": "2026-11-12",
+      "nivel": "verde",
+      "badge": "🟢 ALTA",
+      "resumen": "Insider BUY: SCHULMAN AMY W (Director) → Compra 1,910 acciones @ $156.82 | Post: 25,959",
+      "detalle": "PRIMARY DOCUMENT",
+      "empresa_sec": "ALNYLAM PHARMACEUTICALS, INC.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000085/xslF345X06/form4.xml",
+      "form4_detail": {
+        "insider_nombre": "SCHULMAN AMY W",
+        "insider_cargo": "Director",
+        "transaccion_codigo": "P",
+        "transaccion_tipo": "Compra",
+        "transaccion_acciones": "1910",
+        "transaccion_precio": "156.82",
+        "transaccion_fecha": "2026-11-09",
+        "acciones_post": "25959",
+        "footnotes": null,
+        "es_rutinaria": false,
+        "resumen_detail": "SCHULMAN AMY W (Director) → Compra 1,910 acciones @ $156.82 | Post: 25,959"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "VRTX",
       "nombre": "VERTEX PHARMACEUTICALS INC / MA",
@@ -1140,139 +1261,6 @@
       },
       "10q_detail": null,
       "prospecto_detail": null
-    },
-    {
-      "ticker": "DYN",
-      "nombre": "Dyne Therapeutics, Inc.",
-      "form": "8-K",
-      "fecha": "2026-11-05",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181879426000013/dyn-20261105.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "2.02",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 2.02 Results of Operations and Financial Condition. On [November 5], 2026, Dyne Therapeutics, Inc. (the Company ) issued a press release announcing the Company s financial results for the quarter ended September 30, 2026. A copy of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference. The information in this Form 8-K, including Exhibit 99.1 attached hereto, is being furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any filing by the Company under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such filling. Item 9.01 Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 104 Press Release issued by Dyne Therapeutics, Inc. on November 5, 2026 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. DYNE THERAPEUTICS, INC. Date: November 5, 2026 By: /s/ John G. Cox Name: John G. Cox Title: President and Chief Executive Officer",
-        "nivel_ajustado": "azul",
-        "badge_ajustado": "🔵 INFO",
-        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "DYN",
-      "nombre": "Dyne Therapeutics, Inc.",
-      "form": "10-Q",
-      "fecha": "2026-11-05",
-      "nivel": "rojo",
-      "badge": "🔴 ALTA",
-      "resumen": "Shares: 187.4M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado",
-      "detalle": "10-Q",
-      "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181879426000012/dyn-20260930.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": {
-        "caja_mm": null,
-        "burn_trimestral_mm": null,
-        "burn_mensual_mm": null,
-        "runway_meses": null,
-        "shares_outstanding_mm": 187.4,
-        "litigios_detectados": true,
-        "shelf_mencionado": true,
-        "going_concern": true,
-        "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 913,203 &#160; &#160; $ 893,369 &#160; Marketable securities &#160; &#160; 221,183 &#160; &#160; &#160; 217,193 &#160; Prepaid expenses and other current assets &#160; &#160; 41,643 &#160; &#160; &#160; 16,025 &#160; Total current assets &#160; &#160; 1,176,029 &#1",
-        "resumen_10q": "Shares: 187.4M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado"
-      },
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "ALNY",
-      "nombre": "ALNYLAM PHARMACEUTICALS, INC.",
-      "form": "8-K",
-      "fecha": "2026-11-05",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02, 8.01, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "ALNYLAM PHARMACEUTICALS, INC.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1178670/000117867026000080/alny-20261102.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "5.02",
-          "8.01",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers (b) On November 4, 2026, Alnylam Pharmaceuticals, Inc. (the Company ) announced that Tolga Tanguler will depart from his role as the Company s Executive Vice President, Chief Commercialization Officer in December 2026. Mr. Tanguler and the Company intend to enter into a written agreement not later than his separation date, which will contain the terms of his departure from the Company. Item 8.01. Other Events On November 2, 2026, the Board of Directors of the Company authorized a program to repurchase up to $1.0 billion of the Company s common stock (the 2026 Repurchase Program ). Repurchases under the 2026 Repurchase Program may be made from time to time in open market transactions, including pursuant to trading plans intended to qualify under Rule 10b5-1 under the Securities Exchange Act of 1934, as amended (the Exchange Act ), in privately negotiated transactions, or by other means, in each case in accordance with applicable securities laws, including Rule 10b-18 under the Exchange Act. The Company anticipates repurchasing approximately $500 million of its common stock authorized under the 2026 Repurchase Program by the end of 2026 and the balance during 2027, but the timing and amount of any repurchases will depend on a number of factors, including the market price of the Company s common stock, general business and market conditions, the Company s liquidity and capital requirements and other investment opportunitie",
-        "nivel_ajustado": "azul",
-        "badge_ajustado": "🔵 INFO",
-        "resumen_ajustado": "Item 5.02: Plan de incentivos / compensación aprobado — informativo"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "VERA",
-      "nombre": "Vera Therapeutics, Inc.",
-      "form": "10-Q",
-      "fecha": "2026-11-05",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Shares: 72.3M · ⚖️ Litigios activos",
-      "detalle": "10-Q",
-      "empresa_sec": "Vera Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1831828/000119312526449826/vera-20260930.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": {
-        "caja_mm": null,
-        "burn_trimestral_mm": null,
-        "burn_mensual_mm": null,
-        "runway_meses": null,
-        "shares_outstanding_mm": 72.3,
-        "litigios_detectados": true,
-        "shelf_mencionado": false,
-        "going_concern": false,
-        "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 55,322 &#160; &#160; $ 354,725 &#160; Marketable securities &#160; &#160; 328,720 &#160; &#160; &#160; 359,864 &#160; Accounts receivable, net &#160; &#160; 11,981 &#160; &#160; &#160; &#8212; &#160; Inventory &#160; &#160; 7,078 &#160; &#160; &#160; &#8212; &#160;",
-        "resumen_10q": "Shares: 72.3M · ⚖️ Litigios activos"
-      },
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "VERA",
-      "nombre": "Vera Therapeutics, Inc.",
-      "form": "8-K",
-      "fecha": "2026-11-05",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "Vera Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1831828/000119312526449780/vera-20261105.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "2.02",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 2.02 Results of Operations and Financial Condition On November 5, 2026, Vera Therapeutics, Inc. (the Company ) issued a press release announcing its financial results for the third quarter ended September 30, 2026, and providing recent corporate updates. The full text of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference. The information contained in this Current Report on Form 8-K (including Exhibit 99.1 hereto) shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing. Item 9.01 Financial Statements and Exhibits. (d) Exhibits. Exhibit No. Description 99.1 Press Release of Vera Therapeutics, Inc., dated November 5, 2026 . 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. Vera Therapeutics, Inc. Date: November 5, 2026 By: /s/ Sean Grant Sean Grant, Chief Financial Officer",
-        "nivel_ajustado": "azul",
-        "badge_ajustado": "🔵 INFO",
-        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
     }
   ],
   "clinicaltrials": {
@@ -1344,7 +1332,7 @@
         "nivel": "verde",
         "badge": "🟢",
         "enrollment": 150,
-        "ultima_actualizacion": "2026-11-06",
+        "ultima_actualizacion": "2026-11-13",
         "fecha_completion_primaria": "2028-07",
         "changed": true,
         "url": "https://clinicaltrials.gov/study/NCT07486934"

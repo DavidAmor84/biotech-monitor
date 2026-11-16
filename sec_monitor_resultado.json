@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "13/11/2026 15:07",
+  "generado": "16/11/2026 16:46",
   "periodo_dias": 7,
-  "desde": "2026-11-06",
-  "hasta": "2026-11-13",
+  "desde": "2026-11-09",
+  "hasta": "2026-11-16",
   "resumen": {
-    "total_filings": 18,
+    "total_filings": 15,
     "alertas_rojas": 1,
-    "alertas_verdes": 3,
-    "alertas_amarillas": 6,
-    "alertas_azules": 8,
-    "sin_novedad": 9
+    "alertas_verdes": 2,
+    "alertas_amarillas": 5,
+    "alertas_azules": 7,
+    "sin_novedad": 10
   },
   "tickers": {
     "SNDX": {
@@ -494,34 +494,10 @@
           },
           "10q_detail": null,
           "prospecto_detail": null
-        },
-        {
-          "form": "8-K",
-          "fecha": "2026-11-06",
-          "nivel": "verde",
-          "badge": "🟢 ALTA",
-          "resumen": "8-K — Evento positivo potencial: Asset purchase / venta de activo [Items: 8.01, 9.01]",
-          "detalle": "8-K",
-          "empresa_sec": "Acrivon Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526450779/acrv-20261106.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "8.01",
-              "9.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 8.01 Other Events. On November 6, 2026, Acrivon Therapeutics, Inc., a Delaware corporation (the Company ), announced that it has entered into an asset purchase agreement (the Purchase Agreement ) with Aqilion AB, an unlisted Swedish public limited company (AB (publ); Sw. aktiebolag), registration number 556623-2095 ( Aqilion ), pursuant to which the Company has acquired Aqilion s programs for the discovery, research and development of oral JAK1 inhibitors, including ACR-525 (formerly known as AQ280), and PKC inhibitor preclinical program, for the potential treatment of inflammatory or autoimmune diseases (collectively, the Acquired Assets ), together with certain related assets (the Transaction ). As consideration for the transfer of the Acquired Assets, the Company has paid cash, and the Company has no obligation to make additional payments, including milestone or royalty payments, in respect of the Transaction. A copy of the press release announcing the execution of the Purchase Agreement and consummation of the Transaction is attached hereto as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference. Forward Looking Statements This Current Report on Form 8-K includes certain disclosures that contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 about the Company and its industry that involve substantial risks and uncertainties. All statements other than statements of historical facts contained in this Current Report on Form 8-K, including statements regarding the Company s future",
-            "nivel_ajustado": "verde",
-            "badge_ajustado": "🟢 ALTA",
-            "resumen_ajustado": "8-K — Evento positivo potencial: Asset purchase / venta de activo"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
         }
       ],
-      "nivel": "verde",
-      "badge": "🟢",
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "TARA": {
@@ -530,59 +506,9 @@
       "cik": "0001359931",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "10-Q",
-          "fecha": "2026-11-06",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Shares: 5615.0M · ⚖️ Litigios activos · 📋 Shelf mencionado",
-          "detalle": "QUARTERLY REPORT",
-          "empresa_sec": "Protara Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026116612/ea0309353-10q_protara.htm",
-          "form4_detail": null,
-          "8k_detail": null,
-          "10q_detail": {
-            "caja_mm": null,
-            "burn_trimestral_mm": null,
-            "burn_mensual_mm": null,
-            "runway_meses": null,
-            "shares_outstanding_mm": 5615.0,
-            "litigios_detectados": true,
-            "shelf_mencionado": true,
-            "going_concern": false,
-            "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 25,150 &#160; &#160; $ 49,657 &#160; Marketable debt securities &#160; &#160; 101,900 &#160; &#160; &#160; 105,897 &#160; Prepaid expenses and other current assets &#160; &#160; 2,617 &#160; &#160; &#160; 3,950 &#160; Total current assets &#160; &#160; 129,667 &#16",
-            "resumen_10q": "Shares: 5615.0M · ⚖️ Litigios activos · 📋 Shelf mencionado"
-          },
-          "prospecto_detail": null
-        },
-        {
-          "form": "8-K",
-          "fecha": "2026-11-06",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
-          "detalle": "CURRENT REPORT",
-          "empresa_sec": "Protara Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026116607/ea0309567-8k_protara.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "2.02",
-              "9.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 2.02. Results of Operations and Financial Condition. On November 6, 2026, Protara Therapeutics, Inc. (the Company ) announced its financial results for the quarter ended September 30, 2026 in the press release attached hereto as Exhibit 99.1 and incorporated herein by reference. The information in this Item 2.02, including the attached Exhibit 99.1, is being furnished and shall not be deemed filed for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that Section, nor shall it be deemed incorporated by reference in any filing made by the Company under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing regardless of any general incorporation language. Item 9.01. Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press Release dated November 6, 2026, issued by the Registrant. 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). 1 SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. PROTARA THERAPEUTICS, INC. Date: November 6, 2026 By: /s/ Patrick Fabbio Patrick Fabbio Chief Financial Officer 2",
-            "nivel_ajustado": "azul",
-            "badge_ajustado": "🔵 INFO",
-            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "SENS": {
@@ -747,32 +673,6 @@
         "extracto_financiero": ": &#8203; &#8203; &#8203; &#8203; &#8203; &#8203; Cash and cash equivalents &#8203; $ 47,759 &#8203; $ 40,234 Restricted cash &#8203; &#8203; 315 &#8203; &#8203; 315 Short-term investments, net &#8203; &#8203; 78,544 &#8203; &#8203; 53,796 Accounts receivable, net &#8203; &#8203; 13,102 &#8203; &#8203; 6,807 Accounts receivable, net - related parti",
         "resumen_10q": "Shares: 41.3M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado"
       },
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "ACRV",
-      "nombre": "Acrivon Therapeutics, Inc.",
-      "form": "8-K",
-      "fecha": "2026-11-06",
-      "nivel": "verde",
-      "badge": "🟢 ALTA",
-      "resumen": "8-K — Evento positivo potencial: Asset purchase / venta de activo [Items: 8.01, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "Acrivon Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526450779/acrv-20261106.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "8.01",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 8.01 Other Events. On November 6, 2026, Acrivon Therapeutics, Inc., a Delaware corporation (the Company ), announced that it has entered into an asset purchase agreement (the Purchase Agreement ) with Aqilion AB, an unlisted Swedish public limited company (AB (publ); Sw. aktiebolag), registration number 556623-2095 ( Aqilion ), pursuant to which the Company has acquired Aqilion s programs for the discovery, research and development of oral JAK1 inhibitors, including ACR-525 (formerly known as AQ280), and PKC inhibitor preclinical program, for the potential treatment of inflammatory or autoimmune diseases (collectively, the Acquired Assets ), together with certain related assets (the Transaction ). As consideration for the transfer of the Acquired Assets, the Company has paid cash, and the Company has no obligation to make additional payments, including milestone or royalty payments, in respect of the Transaction. A copy of the press release announcing the execution of the Purchase Agreement and consummation of the Transaction is attached hereto as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference. Forward Looking Statements This Current Report on Form 8-K includes certain disclosures that contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 about the Company and its industry that involve substantial risks and uncertainties. All statements other than statements of historical facts contained in this Current Report on Form 8-K, including statements regarding the Company s future",
-        "nivel_ajustado": "verde",
-        "badge_ajustado": "🟢 ALTA",
-        "resumen_ajustado": "8-K — Evento positivo potencial: Asset purchase / venta de activo"
-      },
-      "10q_detail": null,
       "prospecto_detail": null
     }
   ],
@@ -1176,85 +1076,6 @@
         ],
         "clasificacion_item": null,
         "extracto": "Item 2.02. Results of Operations and Financial Condition. On November 9, 2026, Senseonics Holdings, Inc. (the Company ) issued a press release announcing its financial results for the quarter ended September 30, 2026, as well as information regarding a conference call to discuss these financial results and the Company s recent corporate highlights and outlook. This press release has been furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by this reference. The information in this Current Report on Form 8-K, including Exhibit 99.1 attached hereto, is being furnished and shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ) or otherwise subject to the liabilities of that section. The information contained herein and in the accompanying exhibit is not incorporated by reference in any filing of the Company under the Securities Act of 1933, as amended, or the Exchange Act, whether made before or after the date hereof and irrespective of any general incorporation language in any filings. Item 9.01. Financial Statements and Exhibits. (d) Exhibits. Exhibit Number Description 99.1 Press Release of Senseonics Holdings, Inc. dated November 9, 2026. 104 Cover Page Interactive Data (embedded within the Inline XBRL document). SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. ay Date: November 9, 2026 SENSEONICS HOLDINGS, INC. By: /s/ Rick S",
-        "nivel_ajustado": "azul",
-        "badge_ajustado": "🔵 INFO",
-        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "ACRV",
-      "nombre": "Acrivon Therapeutics, Inc.",
-      "form": "8-K",
-      "fecha": "2026-11-06",
-      "nivel": "verde",
-      "badge": "🟢 ALTA",
-      "resumen": "8-K — Evento positivo potencial: Asset purchase / venta de activo [Items: 8.01, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "Acrivon Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526450779/acrv-20261106.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "8.01",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 8.01 Other Events. On November 6, 2026, Acrivon Therapeutics, Inc., a Delaware corporation (the Company ), announced that it has entered into an asset purchase agreement (the Purchase Agreement ) with Aqilion AB, an unlisted Swedish public limited company (AB (publ); Sw. aktiebolag), registration number 556623-2095 ( Aqilion ), pursuant to which the Company has acquired Aqilion s programs for the discovery, research and development of oral JAK1 inhibitors, including ACR-525 (formerly known as AQ280), and PKC inhibitor preclinical program, for the potential treatment of inflammatory or autoimmune diseases (collectively, the Acquired Assets ), together with certain related assets (the Transaction ). As consideration for the transfer of the Acquired Assets, the Company has paid cash, and the Company has no obligation to make additional payments, including milestone or royalty payments, in respect of the Transaction. A copy of the press release announcing the execution of the Purchase Agreement and consummation of the Transaction is attached hereto as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference. Forward Looking Statements This Current Report on Form 8-K includes certain disclosures that contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 about the Company and its industry that involve substantial risks and uncertainties. All statements other than statements of historical facts contained in this Current Report on Form 8-K, including statements regarding the Company s future",
-        "nivel_ajustado": "verde",
-        "badge_ajustado": "🟢 ALTA",
-        "resumen_ajustado": "8-K — Evento positivo potencial: Asset purchase / venta de activo"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "TARA",
-      "nombre": "Protara Therapeutics, Inc.",
-      "form": "10-Q",
-      "fecha": "2026-11-06",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Shares: 5615.0M · ⚖️ Litigios activos · 📋 Shelf mencionado",
-      "detalle": "QUARTERLY REPORT",
-      "empresa_sec": "Protara Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026116612/ea0309353-10q_protara.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": {
-        "caja_mm": null,
-        "burn_trimestral_mm": null,
-        "burn_mensual_mm": null,
-        "runway_meses": null,
-        "shares_outstanding_mm": 5615.0,
-        "litigios_detectados": true,
-        "shelf_mencionado": true,
-        "going_concern": false,
-        "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 25,150 &#160; &#160; $ 49,657 &#160; Marketable debt securities &#160; &#160; 101,900 &#160; &#160; &#160; 105,897 &#160; Prepaid expenses and other current assets &#160; &#160; 2,617 &#160; &#160; &#160; 3,950 &#160; Total current assets &#160; &#160; 129,667 &#16",
-        "resumen_10q": "Shares: 5615.0M · ⚖️ Litigios activos · 📋 Shelf mencionado"
-      },
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "TARA",
-      "nombre": "Protara Therapeutics, Inc.",
-      "form": "8-K",
-      "fecha": "2026-11-06",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
-      "detalle": "CURRENT REPORT",
-      "empresa_sec": "Protara Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1359931/000121390026116607/ea0309567-8k_protara.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "2.02",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 2.02. Results of Operations and Financial Condition. On November 6, 2026, Protara Therapeutics, Inc. (the Company ) announced its financial results for the quarter ended September 30, 2026 in the press release attached hereto as Exhibit 99.1 and incorporated herein by reference. The information in this Item 2.02, including the attached Exhibit 99.1, is being furnished and shall not be deemed filed for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), or otherwise subject to the liabilities of that Section, nor shall it be deemed incorporated by reference in any filing made by the Company under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing regardless of any general incorporation language. Item 9.01. Financial Statements and Exhibits. (d) Exhibits Exhibit No. Description 99.1 Press Release dated November 6, 2026, issued by the Registrant. 104 Cover Page Interactive Data File (embedded within the Inline XBRL document). 1 SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. PROTARA THERAPEUTICS, INC. Date: November 6, 2026 By: /s/ Patrick Fabbio Patrick Fabbio Chief Financial Officer 2",
         "nivel_ajustado": "azul",
         "badge_ajustado": "🔵 INFO",
         "resumen_ajustado": "8-K — Sin clasificación específica por Item"

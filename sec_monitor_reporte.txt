@@ -1,13 +1,13 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 13/11/2026 15:07 | Período: últimos 7 días
-Desde: 2026-11-06 → Hasta: 2026-11-13
+Generado: 16/11/2026 16:46 | Período: últimos 7 días
+Desde: 2026-11-09 → Hasta: 2026-11-16
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 18 filings | 🔴 1 | 🟢 3 | 🟡 6 | 🔵 8 | ✅ 9 sin novedad
+RESUMEN: 15 filings | 🔴 1 | 🟢 2 | 🟡 5 | 🔵 7 | ✅ 10 sin novedad
 
 ──────────────────────────────────────────────────
-🚨 ALERTAS CRÍTICAS (4)
+🚨 ALERTAS CRÍTICAS (3)
 ──────────────────────────────────────────────────
 
   [ALNY] ALNYLAM PHARMACEUTICALS, INC.
@@ -27,11 +27,6 @@ RESUMEN: 18 filings | 🔴 1 | 🟢 3 | 🟡 6 | 🔵 8 | ✅ 9 sin novedad
   Shares: 41.3M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado
   Financiero: Shares: 41.3M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado
   → https://www.sec.gov/Archives/edgar/data/1616543/000110465926124515/sens-20260930x10q.htm
-
-  [ACRV] Acrivon Therapeutics, Inc.
-  🟢 ALTA 8-K | 2026-11-06
-  8-K — Evento positivo potencial: Asset purchase / venta de activo [Items: 8.01, 9.01]
-  → https://www.sec.gov/Archives/edgar/data/1781174/000119312526450779/acrv-20261106.htm
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -88,18 +83,10 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [ABVX] Sin novedades
   ✅ [VERA] Sin novedades
 
-  🟢 [ACRV] Acrivon Therapeutics, Inc. — 2 filing(s)
+  🔵 [ACRV] Acrivon Therapeutics, Inc. — 1 filing(s)
      🔵 INFO 8-K | 2026-11-10 | 8-K — Sin clasificación específica por Item [Items: 7.01, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1781174/000119312526455669/acrv-20261110.htm
-     🟢 ALTA 8-K | 2026-11-06 | 8-K — Evento positivo potencial: Asset purchase / venta de activo [Items: 8.01, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1781174/000119312526450779/acrv-20261106.htm
-
-  🟡 [TARA] Protara Therapeutics, Inc. — 2 filing(s)
-     🟡 MEDIA 10-Q | 2026-11-06 | Shares: 5615.0M · ⚖️ Litigios activos · 📋 Shelf mencionado
-     10-Q: Shares: 5615.0M · ⚖️ Litigios activos · 📋 Shelf mencionado
-     → https://www.sec.gov/Archives/edgar/data/1359931/000121390026116612/ea0309353-10q_protara.htm
-     🔵 INFO 8-K | 2026-11-06 | 8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1359931/000121390026116607/ea0309567-8k_protara.htm
+  ✅ [TARA] Sin novedades
 
   🔴 [SENS] Senseonics Holdings, Inc. — 2 filing(s)
      🔴 ALTA 10-Q | 2026-11-09 | Shares: 41.3M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado

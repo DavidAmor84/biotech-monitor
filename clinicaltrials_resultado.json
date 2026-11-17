@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "16/11/2026 18:46",
-  "fecha": "2026-11-16",
+  "generado": "17/11/2026 17:44",
+  "fecha": "2026-11-17",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -1640,14 +1640,7 @@
           "ventana": "2027-2030",
           "monitorizar": true,
           "peso_importancia": 7,
-          "cambios": [
-            {
-              "tipo": "last_update_posted",
-              "nivel": "azul",
-              "badge": "🔵",
-              "mensaje": "Última actualización: 2026-11-03 → 2026-11-16"
-            }
-          ],
+          "cambios": [],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -1803,13 +1796,13 @@
           "nivel_base": "azul",
           "badge_base": "🔵",
           "phase": "PHASE3",
-          "enrollment": 1750,
+          "enrollment": 2250,
           "primary_completion_date": "2030-05-28",
           "primary_completion_type": "ESTIMATED",
           "study_completion_date": "2032-11-30",
           "study_completion_type": "ESTIMATED",
           "start_date": "2025-07-02",
-          "last_update_posted": "2026-10-20",
+          "last_update_posted": "2026-11-17",
           "conditions": [
             "Transthyretin Amyloidosis With Cardiomyopathy"
           ],
@@ -1847,7 +1840,20 @@
           "ventana": "2030",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-10-20 → 2026-11-17"
+            },
+            {
+              "tipo": "enrollment",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Enrollment: 1750 → 2250"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2658,33 +2664,6 @@
       "url": "https://clinicaltrials.gov/study/NCT06298552"
     },
     {
-      "ticker": "ARGX",
-      "nct": "NCT06920004",
-      "nombre": "emvigorate Ph3 — empasiprubart vs IVIg — CIDP head-to-head",
-      "nivel": "azul",
-      "badge": "🔵",
-      "status": "RECRUITING",
-      "primary_completion_date": "2027-09",
-      "mensaje": "Reclutando",
-      "prioridad": "media",
-      "estrellas": "⭐⭐",
-      "tipo": "pivotal",
-      "catalizador": "datos Phase 3",
-      "ventana": "2027-2030",
-      "peso_importancia": 7,
-      "validacion_ok": true,
-      "errores_validacion": [],
-      "cambios": [
-        {
-          "tipo": "last_update_posted",
-          "nivel": "azul",
-          "badge": "🔵",
-          "mensaje": "Última actualización: 2026-11-03 → 2026-11-16"
-        }
-      ],
-      "url": "https://clinicaltrials.gov/study/NCT06920004"
-    },
-    {
       "ticker": "DNLI",
       "nct": "NCT05371613",
       "nombre": "COMPASS Ph2/3 — tividenofusp alfa (DNL310) — Hunter MPS II",
@@ -2721,7 +2700,20 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-10-20 → 2026-11-17"
+        },
+        {
+          "tipo": "enrollment",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Enrollment: 1750 → 2250"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT07052903"
     },
     {

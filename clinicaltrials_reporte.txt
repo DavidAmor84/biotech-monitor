@@ -1,6 +1,6 @@
 ====================================================================================
 CLINICALTRIALS MONITOR v9.3 · Modelo Biotech
-Generado: 16/11/2026 18:46
+Generado: 17/11/2026 17:44
 ====================================================================================
 RESUMEN: 34 ensayos | Alta: 25 | Media: 9 | Baja: 0 | Validación OK: 34 | Errores validación: 0 | 🔴 0 | 🟢 5 | 🟡 0 | 🔵 29 | Errores API: 0
 
@@ -162,10 +162,10 @@ DETALLE POR EMPRESA
      Catalizador: ATTR-CM Phase 3 | Ventana: 2030
      Sponsor: Alnylam Pharmaceuticals
      Phase: PHASE3
-     Enrollment: 1750
+     Enrollment: 2250
      Primary completion: 2030-05-28 ESTIMATED
      Study completion: 2032-11-30 ESTIMATED
-     Last update posted: 2026-10-20
+     Last update posted: 2026-11-17
      → https://clinicaltrials.gov/study/NCT07052903
   🔵 ⭐⭐ ZENITH Ph3 CVOT — zilebesiran — hipertensión | Prioridad: media | Validación: OK
      NCT: NCT07181109 | Status: Reclutando | Tipo: cvot

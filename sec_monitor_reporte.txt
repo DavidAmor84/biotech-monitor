@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 17/11/2026 16:43 | Período: últimos 7 días
-Desde: 2026-11-10 → Hasta: 2026-11-17
+Generado: 18/11/2026 16:13 | Período: últimos 7 días
+Desde: 2026-11-11 → Hasta: 2026-11-18
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 16 filings | 🔴 2 | 🟢 3 | 🟡 6 | 🔵 5 | ✅ 10 sin novedad
+RESUMEN: 20 filings | 🔴 2 | 🟢 3 | 🟡 5 | 🔵 10 | ✅ 11 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (5)
@@ -66,15 +66,15 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [DNLI] Sin novedades
   ✅ [VKTX] Sin novedades
 
-  🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 2 filing(s)
+  🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 1 filing(s)
      🟡 MEDIA 4 | 2026-11-16 | WAGNER CHARLES F JR (EVP, CO & FO) → Venta 15,286 acciones @ $547.87 | Post: 31,764 | Rutinaria/RSU/impuestos
      Insider: WAGNER CHARLES F JR (EVP, CO & FO) → Venta 15,286 acciones @ $547.87 | Post: 31,764 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000295/xslF345X06/wk-form4_1794864658.xml
-     🟡 MEDIA 4 | 2026-11-10 | Kewalramani Reshma (Director / CEO & President) → Venta 11,866 acciones @ $531.53 | Post: 86,471 | Rutinaria/RSU/impuestos
-     Insider: Kewalramani Reshma (Director / CEO & President) → Venta 11,866 acciones @ $531.53 | Post: 86,471 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000293/xslF345X06/wk-form4_1794345641.xml
 
-  🟢 [ALNY] ALNYLAM PHARMACEUTICALS, INC. — 3 filing(s)
+  🟢 [ALNY] ALNYLAM PHARMACEUTICALS, INC. — 4 filing(s)
+     🔵 INFO 4 | 2026-11-17 | Greenstreet Yvonne (Director / Chief Executive Officer) → Donación 11,000 acciones @ $0.00 | Post: 84,802
+     Insider: Greenstreet Yvonne (Director / Chief Executive Officer) → Donación 11,000 acciones @ $0.00 | Post: 84,802
+     → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000091/xslF345X06/form4.xml
      🔵 INFO 4 | 2026-11-12 | PYOTT DAVID E I (Director) → Ejercicio opción 3,780 acciones @ $71.99 | Post: 5,362
      Insider: PYOTT DAVID E I (Director) → Ejercicio opción 3,780 acciones @ $71.99 | Post: 5,362
      → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000089/xslF345X06/form4.xml
@@ -85,17 +85,13 @@ DETALLE POR TICKER — SEC EDGAR
      Insider: SCHULMAN AMY W (Director) → Compra 1,910 acciones @ $156.82 | Post: 25,959
      → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000085/xslF345X06/form4.xml
   ✅ [BEAM] Sin novedades
-
-  🔵 [OCUL] OCULAR THERAPEUTIX, INC — 1 filing(s)
-     🔵 INFO 4 | 2026-11-10 | Sherif Riad (Director) → Concesión 28,000 acciones @ $0.00 | Post: 28,000 | Rutinaria/RSU/impuestos
-     Insider: Sherif Riad (Director) → Concesión 28,000 acciones @ $0.00 | Post: 28,000 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926125172/xslF345X06/tm2629271-3_4seq1.xml
+  ✅ [OCUL] Sin novedades
   ✅ [CAI] Sin novedades
   ✅ [GPCR] Sin novedades
   ✅ [ABVX] Sin novedades
   ✅ [VERA] Sin novedades
 
-  🔴 [ACRV] Acrivon Therapeutics, Inc. — 4 filing(s)
+  🔴 [ACRV] Acrivon Therapeutics, Inc. — 3 filing(s)
      🔴 ALTA S-3 | 2026-11-16 | Oferta asegurada (underwritten) · $300000000.0M · Dilución 🔴 ALTO
      Oferta: Oferta asegurada (underwritten) · $300000000.0M · Dilución 🔴 ALTO
      → https://www.sec.gov/Archives/edgar/data/1781174/000119312526463828/d185923ds3.htm
@@ -104,11 +100,27 @@ DETALLE POR TICKER — SEC EDGAR
      🔴 ALTA 10-Q | 2026-11-16 | Shares: 42.9M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado
      10-Q: Shares: 42.9M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado
      → https://www.sec.gov/Archives/edgar/data/1781174/000119312526463419/acrv-20260930.htm
-     🔵 INFO 8-K | 2026-11-10 | 8-K — Sin clasificación específica por Item [Items: 7.01, 9.01]
-     → https://www.sec.gov/Archives/edgar/data/1781174/000119312526455669/acrv-20261110.htm
   ✅ [TARA] Sin novedades
 
-  🟢 [SENS] Senseonics Holdings, Inc. — 1 filing(s)
+  🟢 [SENS] Senseonics Holdings, Inc. — 7 filing(s)
+     🔵 INFO 4 | 2026-11-17 | Kaufman Francine (Chief Medical Officer) → Retención impuestos 10,068 acciones @ $10.58 | Post: 166,989 | Rutinaria/RSU/impuestos
+     Insider: Kaufman Francine (Chief Medical Officer) → Retención impuestos 10,068 acciones @ $10.58 | Post: 166,989 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1616543/000176979126000008/xslF345X06/form4-11172026_041111.xml
+     🔵 INFO 4 | 2026-11-17 | JAIN Mukul (Chief Operating Officer) → Retención impuestos 30,687 acciones @ $10.58 | Post: 470,176 | Rutinaria/RSU/impuestos
+     Insider: JAIN Mukul (Chief Operating Officer) → Retención impuestos 30,687 acciones @ $10.58 | Post: 470,176 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1616543/000166759326000008/xslF345X06/form4-11172026_041108.xml
+     🔵 INFO 4 | 2026-11-17 | Horton Kenneth L (GC & Corp. Development Advisor) → Retención impuestos 16,865 acciones @ $10.58 | Post: 268,647 | Rutinaria/RSU/impuestos
+     Insider: Horton Kenneth L (GC & Corp. Development Advisor) → Retención impuestos 16,865 acciones @ $10.58 | Post: 268,647 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1616543/000155204726000008/xslF345X06/form4-11172026_041106.xml
+     🔵 INFO 4 | 2026-11-17 | HANSEN BRIAN B (Chief Commercial Officer) → Retención impuestos 7,850 acciones @ $10.58 | Post: 119,087 | Rutinaria/RSU/impuestos
+     Insider: HANSEN BRIAN B (Chief Commercial Officer) → Retención impuestos 7,850 acciones @ $10.58 | Post: 119,087 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1616543/000154237726000006/xslF345X06/form4-11172026_041104.xml
+     🔵 INFO 4 | 2026-11-17 | Sullivan Frederick T. (Chief Financial Officer) → Retención impuestos 14,605 acciones @ $10.58 | Post: 211,872 | Rutinaria/RSU/impuestos
+     Insider: Sullivan Frederick T. (Chief Financial Officer) → Retención impuestos 14,605 acciones @ $10.58 | Post: 211,872 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1616543/000194453926000008/xslF345X06/form4-11172026_041113.xml
+     🔵 INFO 4 | 2026-11-17 | Goodnow Timothy T (President and CEO) → Retención impuestos 61,198 acciones @ $10.58 | Post: 1,082,550 | Rutinaria/RSU/impuestos
+     Insider: Goodnow Timothy T (President and CEO) → Retención impuestos 61,198 acciones @ $10.58 | Post: 1,082,550 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1616543/000166758826000010/xslF345X06/form4-11172026_041102.xml
      🟢 ALTA 4 | 2026-11-16 | Insider BUY: ROEDER DOUGLAS A → Compra 17,041 acciones @ $10.32 | Post: 189,712
      Insider: ROEDER DOUGLAS A → Compra 17,041 acciones @ $10.32 | Post: 189,712
      → https://www.sec.gov/Archives/edgar/data/1616543/000127073526000018/xslF345X06/form4-11162026_041101.xml

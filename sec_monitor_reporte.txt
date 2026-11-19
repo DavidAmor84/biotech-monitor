@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 18/11/2026 16:13 | Período: últimos 7 días
-Desde: 2026-11-11 → Hasta: 2026-11-18
+Generado: 19/11/2026 16:21 | Período: últimos 7 días
+Desde: 2026-11-12 → Hasta: 2026-11-19
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 20 filings | 🔴 2 | 🟢 3 | 🟡 5 | 🔵 10 | ✅ 11 sin novedad
+RESUMEN: 22 filings | 🔴 2 | 🟢 3 | 🟡 7 | 🔵 10 | ✅ 11 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (5)
@@ -66,7 +66,13 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [DNLI] Sin novedades
   ✅ [VKTX] Sin novedades
 
-  🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 1 filing(s)
+  🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 3 filing(s)
+     🟡 MEDIA 4 | 2026-11-18 | Thornberry Nancy (Director) → Venta 1,000 acciones @ $547.86 | Post: 1,109 | Rutinaria/RSU/impuestos
+     Insider: Thornberry Nancy (Director) → Venta 1,000 acciones @ $547.86 | Post: 1,109 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000299/xslF345X06/wk-form4_1795037218.xml
+     🟡 MEDIA 4 | 2026-11-18 | Bhatia Sangeeta N. (Director) → Venta 271 acciones @ $547.86 | Post: 4,653 | Rutinaria/RSU/impuestos
+     Insider: Bhatia Sangeeta N. (Director) → Venta 271 acciones @ $547.86 | Post: 4,653 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000297/xslF345X06/wk-form4_1795037109.xml
      🟡 MEDIA 4 | 2026-11-16 | WAGNER CHARLES F JR (EVP, CO & FO) → Venta 15,286 acciones @ $547.87 | Post: 31,764 | Rutinaria/RSU/impuestos
      Insider: WAGNER CHARLES F JR (EVP, CO & FO) → Venta 15,286 acciones @ $547.87 | Post: 31,764 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000295/xslF345X06/wk-form4_1794864658.xml
@@ -162,7 +168,7 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Reclutando activamente
        Enrollment: 150 pacientes
        Primary completion: 2028-07
-       Última actualización: 2026-11-13
+       Última actualización: 2026-11-19
        → https://clinicaltrials.gov/study/NCT07486934
 
   [VKTX]

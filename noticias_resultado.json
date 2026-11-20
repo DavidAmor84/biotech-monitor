@@ -1,8 +1,8 @@
 {
-  "generado": "19/11/2026 16:30 UTC",
+  "generado": "20/11/2026 16:04 UTC",
   "plazo_horas": 72,
-  "desde": "2026-11-16",
-  "hasta": "2026-11-19",
+  "desde": "2026-11-17",
+  "hasta": "2026-11-20",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -15,11 +15,11 @@
       "noticias": [
         {
           "ticker": "ARGX",
-          "titulo": "HALO Rallies More Than 40% in 6 Months: How Should You Play the Stock?",
-          "resumen": "Halozyme surges 43.1% in six months on strong ENHANZE-driven royalties and higher revenue guidance.",
+          "titulo": "With FDA nod, Regeneron brings an RNAi drug to autoimmune disease",
+          "resumen": "The product of a collaboration with Alnylam, Livsayis is now Regeneron’s first marketed RNAi drug and will compete against established medicines from AstraZeneca and Argenx.",
           "fuente": "Yahoo",
-          "fecha": "17 Nov 2026 14:27 UTC",
-          "url": "https://finnhub.io/api/news?id=0363c7bf461945573285f4358a6114af5f4c1438647c2583c765bee9c12ee899",
+          "fecha": "19 Nov 2026 15:10 UTC",
+          "url": "https://finnhub.io/api/news?id=04238e882969a53f3539451f5ae4cfc40530405a1dd57f2ba43bb34e4f93db22",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -27,23 +27,30 @@
         },
         {
           "ticker": "ARGX",
-          "titulo": "Cradle's Antibody Discovery Platform for Autoimmune Diseases Supports Scientific Mission of argenx",
-          "resumen": "Cradle, today announced that argenx is expanding use of Cradle's end-to-end AI-driven protein engineering platform to more scientists and antibody discovery programs following successful results from its initial work.",
-          "fuente": "Yahoo",
-          "fecha": "17 Nov 2026 13:00 UTC",
-          "url": "https://finnhub.io/api/news?id=59de639d525fdac6ec5ab4ad1f3117cd8afd1661cdb3b590a18f2dafc863efa9",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "titulo": "Halozyme Therapeutics: 3 Technologies, Multiple Big Pharma Partnerships",
+          "resumen": "Halozyme Therapeutics has an attractive risk/reward, with royalty revenue growing 44.5% to $341 million in Q3 and 2026 EPS guidance rising to $8.75-$9.05.",
+          "fuente": "SeekingAlpha",
+          "fecha": "19 Nov 2026 13:23 UTC",
+          "url": "https://finnhub.io/api/news?id=7ffa2ba5cb0823f8b78e1d998185c5d3fa269bae9a16998bac9aca251a6e75f0",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1312476238/image_1312476238.jpg?io=getty-c-og",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
+        }
+      ],
+      "nivel": "rojo",
+      "total": 2
+    },
+    "DYN": {
+      "nombre": "DYN",
+      "noticias": [
         {
-          "ticker": "ARGX",
-          "titulo": "AbCellera Biologics Targets 2027 Late-Stage Trial for Hot Flash Treatment",
-          "resumen": "AbCellera Biologics (NASDAQ:ABCL) is preparing to advance its experimental hot flash treatment ABCL635 into late-stage studies, with a registrational trial potentially starting around the middle of 2027, Chief Executive Carl Hansen said at the Jefferies 2026 Global Healthcare Conference in London.",
+          "ticker": "DYN",
+          "titulo": "Dyne Therapeutics Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+          "resumen": "WALTHAM, Mass., Nov. 19, 2026 (GLOBE NEWSWIRE) -- Dyne Therapeutics, Inc. (Nasdaq: DYN), a clinical-stage company focused on delivering functional improvement for people living with genetically driven neuromuscular diseases, today announced that it has granted inducement equity awards to 17 newly hi",
           "fuente": "Yahoo",
-          "fecha": "16 Nov 2026 22:12 UTC",
-          "url": "https://finnhub.io/api/news?id=732d95cf9fbaa6973176a4eb85f183bd664de9c1fc219f115f89ef6af2421b50",
+          "fecha": "19 Nov 2026 21:05 UTC",
+          "url": "https://finnhub.io/api/news?id=897877ebc80dbc29a54854ba98871f7642844e784745003c26b0af33ddda1ea5",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -51,32 +58,13 @@
         }
       ],
       "nivel": "rojo",
-      "total": 3
-    },
-    "DYN": {
-      "nombre": "DYN",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "total": 1
     },
     "DNLI": {
       "nombre": "DNLI",
-      "noticias": [
-        {
-          "ticker": "DNLI",
-          "titulo": "Denali Therapeutics Inc. (DNLI) Presents at UBS Global Biopharma Conference 2026 Transcript",
-          "resumen": "Denali Therapeutics Inc. (DNLI) UBS Global Biopharma Conference 2026 November 17, 2026 9:40 AM ESTCompany ParticipantsRyan Watts - Co-Founder, President,...",
-          "fuente": "SeekingAlpha",
-          "fecha": "17 Nov 2026 13:53 UTC",
-          "url": "https://finnhub.io/api/news?id=0f091f21789a12d1570f9ad35bc6ce53a65cb0d1ad85870a76c55247656a4790",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "VKTX": {
       "nombre": "VKTX",
@@ -150,23 +138,11 @@
       "noticias": [
         {
           "ticker": "VRTX",
-          "titulo": "Genomics, Vertex extend drug discovery alliance in $220m deal",
-          "resumen": "The renewed collaboration focuses on applying human genetics to discover and validate new drug targets for precision medicines.",
+          "titulo": "Has Vertex Stock Become A Different Bet?",
+          "resumen": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
           "fuente": "Yahoo",
-          "fecha": "19 Nov 2026 10:53 UTC",
-          "url": "https://finnhub.io/api/news?id=d6dcebcbcdf3663cc79f494adf2a136a45a21750c8e0c16f1f16b8913b70e9f2",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Should You Pick Vertex Stock Over Its Biotech Rivals?",
-          "resumen": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036.",
-          "fuente": "Yahoo",
-          "fecha": "18 Nov 2026 17:13 UTC",
-          "url": "https://finnhub.io/api/news?id=2a9da3efec569b13b6a6ebcb196f334a1b3ad0455f9bd8b96a3f1fec9dd6bb6b",
+          "fecha": "20 Nov 2026 12:28 UTC",
+          "url": "https://finnhub.io/api/news?id=f93951fd0ea504d6ed4769de62c62da022483e21e5ac7cad1aa3b7fde919562b",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
@@ -174,23 +150,35 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "Rhythm Pharma: Is AstraZeneca/Eli Lilly's Bidding War For Real? Don't Rule It Out",
-          "resumen": "Rhythm Pharma's Imcivree generated $92.1 million in Q3; its estimated $8.25 billion market cap exceeds 20 times estimated 2026 revenue. I rate RYTM stock as Hold.",
-          "fuente": "SeekingAlpha",
-          "fecha": "18 Nov 2026 14:16 UTC",
-          "url": "https://finnhub.io/api/news?id=871b24e3da9a95ffef19a19ad39df08746dee82015be22de83957e1926822640",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2276550958/image_2276550958.jpg?io=getty-c-og",
+          "titulo": "Jim Cramer Rejects UiPath Despite Cheap Valuation, Backs Affirm",
+          "resumen": "Cramer called UiPath cheap but lacking catalysts, endorsed Karman and Affirm, warned on Onto and Nio, and favored Regeneron, Vertex and Amgen over Alnylam",
+          "fuente": "Benzinga",
+          "fecha": "20 Nov 2026 08:52 UTC",
+          "url": "https://finnhub.io/api/news?id=3cbd481c54d7bb0b0bc23088771c0844e28151be29d47e77ccd0687a83482d78",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/20/Jim-Cramer.png?width=2048&height=1536",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
         },
         {
           "ticker": "VRTX",
-          "titulo": "The Women’s Edge and The Boston Globe Again Name CCC to Top 100 Women-Led Businesses in Massachusetts List",
-          "resumen": "CCC Included in the Annual Award Celebrating the State’s Leading Companies and Nonprofits Run by WomenDANVERS, Mass., Nov. 18, 2026 (GLOBE NEWSWIRE) -- CCC (Copyright Clearance Center), a pioneer in voluntary collective licensing, has again been named to the Top 100 Women-Led Businesses in Massachus",
+          "titulo": "Vertex Pharmaceuticals: Look For Povetacicept Approval In 2 Weeks As Next Catalyst",
+          "resumen": "Analyst rates Vertex Pharmaceuticals Incorporated a Buy: CF is an estimated 60% of market value, and its pipeline could support long-term market outperformance.",
+          "fuente": "SeekingAlpha",
+          "fecha": "20 Nov 2026 07:21 UTC",
+          "url": "https://finnhub.io/api/news?id=4e14bdd5c328ef8e07a89d1f02bf29b7641e7212018e3e47b4052612a9bd6aa4",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2288019935/image_2288019935.jpg?io=getty-c-og",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "2 Growth Stocks to Buy in November Without Any Hesitation",
+          "resumen": "Vertex and Regeneron started 2026 slowly, but blockbuster results and deep pipelines have both stocks climbing again.",
           "fuente": "Yahoo",
-          "fecha": "18 Nov 2026 13:30 UTC",
-          "url": "https://finnhub.io/api/news?id=5ec7d59e2ef23c916d7e51f8313f02b8bfc1c23e655624e147fe2dad76c31961",
+          "fecha": "19 Nov 2026 18:03 UTC",
+          "url": "https://finnhub.io/api/news?id=bad7b7e6f674680f7a5c861637cdf1cce14e17a214184b40d6e4b66fa27659cc",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -198,11 +186,11 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "iShares Biotechnology ETF (IBB) Buys $16.2 Million More Gilead on Nov. 16",
-          "resumen": "The fund added $176.7 million of stock in Monday's session, increasing 233 positions and trimming none.",
+          "titulo": "Genomics, Vertex extend drug discovery alliance in $220m deal",
+          "resumen": "The renewed collaboration focuses on applying human genetics to discover and validate new drug targets for precision medicines.",
           "fuente": "Yahoo",
-          "fecha": "18 Nov 2026 11:05 UTC",
-          "url": "https://finnhub.io/api/news?id=54513825af945a04a966b729aac9e927b94f45595918677fc6f9008296313587",
+          "fecha": "19 Nov 2026 10:53 UTC",
+          "url": "https://finnhub.io/api/news?id=d6dcebcbcdf3663cc79f494adf2a136a45a21750c8e0c16f1f16b8913b70e9f2",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -217,6 +205,54 @@
       "noticias": [
         {
           "ticker": "ALNY",
+          "titulo": "Alnylam to Webcast Presentations at Upcoming December Investor Conferences",
+          "resumen": "CAMBRIDGE, Mass., November 20, 2026--Alnylam Pharmaceuticals, Inc. (Nasdaq: ALNY), the leading RNAi therapeutics company, announced today that management will present company overviews at the following upcoming investor conferences:",
+          "fuente": "Yahoo",
+          "fecha": "20 Nov 2026 13:00 UTC",
+          "url": "https://finnhub.io/api/news?id=6086627a33f9ae14ea1cafe584914fae2a03742a3f51583041e73c053fca6768",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Jim Cramer Rejects UiPath Despite Cheap Valuation, Backs Affirm",
+          "resumen": "Cramer called UiPath cheap but lacking catalysts, endorsed Karman and Affirm, warned on Onto and Nio, and favored Regeneron, Vertex and Amgen over Alnylam",
+          "fuente": "Benzinga",
+          "fecha": "20 Nov 2026 08:52 UTC",
+          "url": "https://finnhub.io/api/news?id=3cbd481c54d7bb0b0bc23088771c0844e28151be29d47e77ccd0687a83482d78",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/20/Jim-Cramer.png?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam (ALNY) Stock Looks Undervalued As Shares Fell 68%",
+          "resumen": "Alnylam Pharmaceuticals has seen its stock slump hard over the past year, which puts a fresh spotlight on whether the current share price lines up with what its earnings can reasonably support. With sentiment being pulled between pipeline progress and legal headlines, the key issue is how much of th",
+          "fuente": "Yahoo",
+          "fecha": "19 Nov 2026 18:17 UTC",
+          "url": "https://finnhub.io/api/news?id=c7443fa7147ef22440a5cd4014c806d12ffc832895adfcf5e681b9655cda4856",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ALNY",
+          "titulo": "Alnylam Pharmaceuticals (ALNY) Stock Dropped, So What Is Driving Attention Now?",
+          "resumen": "Alnylam Pharmaceuticals (ALNY) just achieved a new regulatory milestone, with the FDA approving Livsayis for generalized myasthenia gravis. This approval triggers a US$25 million payment and future royalties from Regeneron. Even with the Livsayis approval and recent AMVUTTRA data in cardiomyopathy, ",
+          "fuente": "Yahoo",
+          "fecha": "19 Nov 2026 16:08 UTC",
+          "url": "https://finnhub.io/api/news?id=3c47220c466935f0a6575d84030a7e0ccc775966bd1d2e7242d0fad94df5cdba",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ALNY",
           "titulo": "Analysts Turned Bearish on These 5 Stocks on Wednesday",
           "resumen": "Wall Street’s November opened with a sharp break for technology shares. On November 3, the Nasdaq 100 slid into a correction, falling 10.4% below its October 6 peak. Economist David Rosenberg of Rosenberg Research called a correction “probably inevitable.” Two days later, the slide turned into a rou",
           "fuente": "Yahoo",
@@ -226,54 +262,6 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "With FDA nod, Regeneron brings an RNAi drug to autoimmune disease",
-          "resumen": "The product of a collaboration with Alnylam, Livsayis is now Regeneron’s first marketed RNAi drug and will compete against established medicines from AstraZeneca and Argenx.",
-          "fuente": "Yahoo",
-          "fecha": "19 Nov 2026 15:10 UTC",
-          "url": "https://finnhub.io/api/news?id=04238e882969a53f3539451f5ae4cfc40530405a1dd57f2ba43bb34e4f93db22",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "REGN Gets FDA Nod for Livsayis in Generalized Myasthenia Gravis",
-          "resumen": "Regeneron's Livsayis becomes the first and only siRNA therapy approved by the FDA for generalized myasthenia gravis, offering four subcutaneous doses a year.",
-          "fuente": "Yahoo",
-          "fecha": "19 Nov 2026 14:42 UTC",
-          "url": "https://finnhub.io/api/news?id=973d71eb9affa65a81ddc6543aef1b7f1fb734185fe09bd4e242b4899d7390d7",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Alnylam Collaborator Regeneron Secures FDA Approval of Livsayis™ (cemdisiran), the Seventh FDA-Approved Therapeutic from Alnylam's RNAi Platform in Less Than Nine Years",
-          "resumen": "CAMBRIDGE, Mass., November 19, 2026--Alnylam Pharmaceuticals, Inc. (Nasdaq: ALNY), the leading RNAi therapeutics company, announced that the U.S. Food and Drug Administration (FDA) has approved Livsayis™ (cemdisiran), an Alnylam-discovered RNAi therapeutic that was developed and will be commercializ",
-          "fuente": "Yahoo",
-          "fecha": "19 Nov 2026 12:00 UTC",
-          "url": "https://finnhub.io/api/news?id=c964281093d2672097240da1b7450283a3e4c65dd0258ec36dec5989cdc5923b",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Regeneron Wins FDA Nod For Livsayis, 4x-Year GMG Shot",
-          "resumen": "The FDA approves Regeneron&#39;s Livsayis as the first siRNA therapy for adults with generalized myasthenia gravis, requiring four annual doses.",
-          "fuente": "Benzinga",
-          "fecha": "19 Nov 2026 09:10 UTC",
-          "url": "https://finnhub.io/api/news?id=2805418f3c61a03165a260dfc54363e4479aeef964c1a1994c2ad5dbec7d5eb7",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/19/Regeneron.jpg?width=2048&height=1536",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
@@ -293,53 +281,16 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "BEAM",
-          "titulo": "Beam Therapeutics Inc. (BEAM) Presents at UBS Global Biopharma Conference 2026 Prepared Remarks Transcript",
-          "resumen": "Beam Therapeutics Inc. (BEAM) UBS Global Biopharma Conference 2026 November 17, 2026 9:00 AM ESTCompany ParticipantsJohn Evans - CEO &...",
-          "fuente": "SeekingAlpha",
-          "fecha": "17 Nov 2026 14:52 UTC",
-          "url": "https://finnhub.io/api/news?id=39240167cdcc5bb3e92edf5bf19c138a111740fba4b7a7b3c1a27b21c3bf2e6f",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 1
     },
     "OCUL": {
       "nombre": "OCUL",
-      "noticias": [
-        {
-          "ticker": "OCUL",
-          "titulo": "Ocular Therapeutix, Inc. (OCUL) Presents at UBS Global Biopharma Conference 2026 Transcript",
-          "resumen": "Ocular Therapeutix, Inc. (OCUL) UBS Global Biopharma Conference 2026 November 17, 2026 7:00 AM ESTCompany ParticipantsPravin Dugel - Executive Chairman,...",
-          "fuente": "SeekingAlpha",
-          "fecha": "17 Nov 2026 09:22 UTC",
-          "url": "https://finnhub.io/api/news?id=e18833abef42d540d30cddecdbe21f8e5a181ad423afed5d0622246c9541fa39",
-          "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "OCUL",
-          "titulo": "HC Wainwright & Co. Reiterates Buy on Ocular Therapeutix, Maintains $28 Price Target",
-          "resumen": "HC Wainwright &amp; Co.  analyst Yi Chen   reiterates Ocular Therapeutix (NASDAQ:OCUL) with a Buy and maintains $28 price target.",
-          "fuente": "Benzinga",
-          "fecha": "17 Nov 2026 08:17 UTC",
-          "url": "https://finnhub.io/api/news?id=16f13f27dd59f3d7bbd675b90c05d01efe75194b44ae8cc98670fd67b1ffe4b6",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 2
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "CAI": {
       "nombre": "CAI",
@@ -362,22 +313,9 @@
     },
     "GPCR": {
       "nombre": "GPCR",
-      "noticias": [
-        {
-          "ticker": "GPCR",
-          "titulo": "Structure Therapeutics (GPCR) Posts Wider Losses, Is The Discount Too Deep?",
-          "resumen": "Structure Therapeutics (GPCR) put its third quarter in focus for investors after reporting a wider net loss of US$144.76 million and a higher loss per share, with year-to-date figures showing a similar pattern. Structure Therapeutics’ share price has fallen sharply over 2026, with a year to date sha",
-          "fuente": "Yahoo",
-          "fecha": "16 Nov 2026 23:20 UTC",
-          "url": "https://finnhub.io/api/news?id=5f1bb3843a451e51fd975577a3cee5b442268449ff86bfbea363c92c2b561275",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "ABVX": {
       "nombre": "ABVX",
@@ -387,52 +325,28 @@
     },
     "VERA": {
       "nombre": "VERA",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
-    },
-    "ACRV": {
-      "nombre": "ACRV",
       "noticias": [
         {
-          "ticker": "ACRV",
-          "titulo": "Citizens Reiterates Market Outperform on Acrivon Therapeutics, Maintains $13 Price Target",
-          "resumen": "Citizens  analyst Silvan Turkcan   reiterates Acrivon Therapeutics (NASDAQ:ACRV) with a Market Outperform and maintains $13 price target.",
-          "fuente": "Benzinga",
-          "fecha": "17 Nov 2026 10:17 UTC",
-          "url": "https://finnhub.io/api/news?id=eccdc435e95edcad6c8450882bdc38a9a21c4ad48cd79291ef94ab7a5bc6253a",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ACRV",
-          "titulo": "Acrivon Reports Third Quarter 2026 Financial Results and Business Highlights",
-          "resumen": "Immunology and inflammation (I&I) established as a second strategic pillar for company which is particularly well-suited for its AP3 precision medicine approach AI-driven AP3 platform was used for profiling against approved JAK inhibitors to identify recently acquired ACR-525, a Phase 2-ready, poten",
-          "fuente": "Yahoo",
-          "fecha": "16 Nov 2026 21:05 UTC",
-          "url": "https://finnhub.io/api/news?id=80de5e2e5a722d463b2a4d5a4d077352a6e7584c7ec83b3e980e9de3fdee9bc0",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "ticker": "VERA",
+          "titulo": "Vertex Pharmaceuticals: Look For Povetacicept Approval In 2 Weeks As Next Catalyst",
+          "resumen": "Analyst rates Vertex Pharmaceuticals Incorporated a Buy: CF is an estimated 60% of market value, and its pipeline could support long-term market outperformance.",
+          "fuente": "SeekingAlpha",
+          "fecha": "20 Nov 2026 07:21 UTC",
+          "url": "https://finnhub.io/api/news?id=4e14bdd5c328ef8e07a89d1f02bf29b7641e7212018e3e47b4052612a9bd6aa4",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2288019935/image_2288019935.jpg?io=getty-c-og",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "ACRV",
-          "titulo": "Acrivon Therapeutics Q3 EPS $(0.42) Beats $(0.46) Estimate",
-          "resumen": "Acrivon Therapeutics (NASDAQ:ACRV) reported quarterly losses of $(0.42) per share which beat the analyst consensus estimate of $(0.46) by 8.7 percent. This is a 10.64 percent increase over losses of $(0.47) per share",
-          "fuente": "Benzinga",
-          "fecha": "16 Nov 2026 17:21 UTC",
-          "url": "https://finnhub.io/api/news?id=7dc891387d8ce4631421cc5eaadec5c71df9ca74afc6be40b8841f94819d5662",
-          "imagen": "",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 1
+    },
+    "ACRV": {
+      "nombre": "ACRV",
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "TARA": {
       "nombre": "TARA",
@@ -445,23 +359,11 @@
       "noticias": [
         {
           "ticker": "SENS",
-          "titulo": "BBNX & SENS Launch Eversense 365 Integration With iLet Bionic Pancreas",
-          "resumen": "Beta Bionics launches iLet Bionic Pancreas integration with Eversense 365, offering more CGM options and boosting growth prospects in the diabetes care market.",
+          "titulo": "Sensirion Holding (SWX:SENS) Lands DFRobot Sensor Win, Is The Valuation Case Still Compelling?",
+          "resumen": "Sensirion Holding (SWX:SENS) is in focus after DFRobot integrated its SFA40 formaldehyde sensor chip into a new Gravity sensor module, expanding reach into indoor air quality and smart home hardware projects. The SENS share price has pulled back over the past month, with a 30 day share price return ",
           "fuente": "Yahoo",
-          "fecha": "17 Nov 2026 15:01 UTC",
-          "url": "https://finnhub.io/api/news?id=35024273f187a77972474479efc75a2ac3b2b7fe0a9f5fa4d523f8321370c965",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "SENS",
-          "titulo": "Senseonics and Beta Bionics Launch Eversense® 365 and iLet® Bionic Pancreas Integration",
-          "resumen": "Eversense 365 now works with iLet, combining a year of accurate glucose monitoring with fully adaptive, automated insulin delivery to reduce the demands of managing diabetes Launch expands choice for people with diabetes, and delivers on the companies’ previously announced Q4 2026 launch timeline GE",
-          "fuente": "Yahoo",
-          "fecha": "16 Nov 2026 21:13 UTC",
-          "url": "https://finnhub.io/api/news?id=f66958d36adcbc7c3ae520eaa9ca4a2a5e5a648c81797f63f485afe28ae0d3f0",
+          "fecha": "20 Nov 2026 10:08 UTC",
+          "url": "https://finnhub.io/api/news?id=56a2509b01c4912f2826f75001cb2e706c2f3329648d4f7a0b8d735f2e70e802",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
@@ -469,107 +371,83 @@
         }
       ],
       "nivel": "azul",
-      "total": 2
+      "total": 1
     },
     "INSM": {
       "nombre": "INSM",
       "noticias": [
         {
           "ticker": "INSM",
-          "titulo": "Keith Manchester Sells $54M Of Roivant Sciences Stock After Sharp Run-Up",
-          "resumen": "Keith Manchester sold 1,381,762 shares of Roivant Sciences Ltd. (NASDAQ:ROIV) for $53.5 million in transactions dated Nov. 16, 2026. The sale reduced his holdings by 6.68%, leaving him with 19,304,554 shares.Roivant",
+          "titulo": "'Sanofi’s New CEO Eyes Mega-Deal to Jump-Start Pipeline Rebuild' - Bloomberg Interview",
+          "resumen": "https://www.bloomberg.com/news/articles/2026-11-20/sanofi-s-new-ceo-eyes-mega-deal-to-jump-start-pipeline-rebuild",
           "fuente": "Benzinga",
-          "fecha": "19 Nov 2026 10:05 UTC",
-          "url": "https://finnhub.io/api/news?id=923b90dd8663d34df95fddee12d1da2faf122f15efe50fe5e6235d7876308406",
-          "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/19/Charts-Of-Financial-Instruments-With-Var.jpg?width=2048&height=1536",
+          "fecha": "20 Nov 2026 06:46 UTC",
+          "url": "https://finnhub.io/api/news?id=1566ab01cedc281b6dfabd098285ef49f2588756741a2e5a7f2cabda9cd292f5",
+          "imagen": "",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "Insmed (INSM) is Attracting Investor Attention — Here’s Why",
+          "resumen": "Insmed Inc. (NASDAQ:INSM) is one of the 10 Stocks Posting Monster Gains Amid Market Downfall. Shares of Insmed Inc. soared 20.58 percent on Thursday to close at $144.46 apiece following reports that French pharmaceutical firm Sanofi SA is planning to acquire the company in what could be the largest ",
+          "fuente": "Yahoo",
+          "fecha": "20 Nov 2026 05:31 UTC",
+          "url": "https://finnhub.io/api/news?id=d7fea44d5bbc33ce76690ab11a48ef9fd9c8ca5b04f2e8f0608ea805850090c6",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         },
         {
           "ticker": "INSM",
-          "titulo": "Insmed Sees BRINSUPRI Reaching $7 Billion in Peak Sales, Expects Cash-Flow Positive Year Ahead",
-          "resumen": "Insmed (NASDAQ:INSM) expects its bronchiectasis drug BRINSUPRI to generate $1.35 billion to $1.4 billion in its first full year of launch, Chief Executive Officer Will Lewis said, as the company looks to reach more patients and expand its pipeline. Speaking at the Jefferies Global Healthcare Confer",
+          "titulo": "Stock Market Today, Nov. 19: Dow Plunges 1,100 Points as the S&P 500 Suffers Its 6th Straight Day of Losses",
+          "resumen": "Selling pressure is spreading well beyond technology stocks, raising concerns that Wall Street's recent pullback could develop into a more pronounced market correction.",
           "fuente": "Yahoo",
-          "fecha": "17 Nov 2026 07:12 UTC",
-          "url": "https://finnhub.io/api/news?id=5db3d72b46e47ad639eb1198e8b95e08584720faa24ca1608e7e51a61847316b",
+          "fecha": "19 Nov 2026 22:10 UTC",
+          "url": "https://finnhub.io/api/news?id=9b0acf9ba1629abe07ebb299ff3a9b81dd5ca53898d5b57e48e11051769e401c",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "Anthropic, Intuit, AMD, Insmed and GameStop: Why These 5 Stocks Are on Investors' Radars Today",
+          "resumen": "Major U.S. indices closed sharply lower, with the Dow Jones Industrial Average plunging 2.19% to 49,097.06.",
+          "fuente": "Benzinga",
+          "fecha": "19 Nov 2026 21:10 UTC",
+          "url": "https://finnhub.io/api/news?id=cc8c25c99004e605cb7925352f615d69ea4d51cb43739828259072959f12e505",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/20/Stock-Market-Analysis-Shows-Trading-Patt.jpg?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "Sanofi Reportedly Gears Up For The Biggest Biotech Deal In Years",
+          "resumen": "Insmed stock surged Thursday on a rumored bid from French pharma giant Sanofi. The deal would be one of the largest in recent history.",
+          "fuente": "Yahoo",
+          "fecha": "19 Nov 2026 21:07 UTC",
+          "url": "https://finnhub.io/api/news?id=257fa9ad9ed4b20e18e8ba5ab03a12106ffb9adebceae98d774470e7639775fe",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
         }
       ],
-      "nivel": "azul",
-      "total": 2
+      "nivel": "rojo",
+      "total": 5
     }
   },
   "resumen": {
-    "total_noticias": 32,
-    "tickers_con_noticias": 12,
-    "alertas_urgentes": 7,
-    "sin_noticias": 5
+    "total_noticias": 27,
+    "tickers_con_noticias": 10,
+    "alertas_urgentes": 9,
+    "sin_noticias": 7
   },
   "todas_noticias": [
-    {
-      "ticker": "ACRV",
-      "titulo": "Acrivon Reports Third Quarter 2026 Financial Results and Business Highlights",
-      "resumen": "Immunology and inflammation (I&I) established as a second strategic pillar for company which is particularly well-suited for its AP3 precision medicine approach AI-driven AP3 platform was used for profiling against approved JAK inhibitors to identify recently acquired ACR-525, a Phase 2-ready, poten",
-      "fuente": "Yahoo",
-      "fecha": "16 Nov 2026 21:05 UTC",
-      "url": "https://finnhub.io/api/news?id=80de5e2e5a722d463b2a4d5a4d077352a6e7584c7ec83b3e980e9de3fdee9bc0",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "AbCellera Biologics Targets 2027 Late-Stage Trial for Hot Flash Treatment",
-      "resumen": "AbCellera Biologics (NASDAQ:ABCL) is preparing to advance its experimental hot flash treatment ABCL635 into late-stage studies, with a registrational trial potentially starting around the middle of 2027, Chief Executive Carl Hansen said at the Jefferies 2026 Global Healthcare Conference in London.",
-      "fuente": "Yahoo",
-      "fecha": "16 Nov 2026 22:12 UTC",
-      "url": "https://finnhub.io/api/news?id=732d95cf9fbaa6973176a4eb85f183bd664de9c1fc219f115f89ef6af2421b50",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "Cradle's Antibody Discovery Platform for Autoimmune Diseases Supports Scientific Mission of argenx",
-      "resumen": "Cradle, today announced that argenx is expanding use of Cradle's end-to-end AI-driven protein engineering platform to more scientists and antibody discovery programs following successful results from its initial work.",
-      "fuente": "Yahoo",
-      "fecha": "17 Nov 2026 13:00 UTC",
-      "url": "https://finnhub.io/api/news?id=59de639d525fdac6ec5ab4ad1f3117cd8afd1661cdb3b590a18f2dafc863efa9",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ARGX",
-      "titulo": "HALO Rallies More Than 40% in 6 Months: How Should You Play the Stock?",
-      "resumen": "Halozyme surges 43.1% in six months on strong ENHANZE-driven royalties and higher revenue guidance.",
-      "fuente": "Yahoo",
-      "fecha": "17 Nov 2026 14:27 UTC",
-      "url": "https://finnhub.io/api/news?id=0363c7bf461945573285f4358a6114af5f4c1438647c2583c765bee9c12ee899",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "iShares Biotechnology ETF (IBB) Buys $16.2 Million More Gilead on Nov. 16",
-      "resumen": "The fund added $176.7 million of stock in Monday's session, increasing 233 positions and trimming none.",
-      "fuente": "Yahoo",
-      "fecha": "18 Nov 2026 11:05 UTC",
-      "url": "https://finnhub.io/api/news?id=54513825af945a04a966b729aac9e927b94f45595918677fc6f9008296313587",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "VKTX",
       "titulo": "Have $1,000? This Beaten-Down Biotech Has 4 Phase 3 Obesity Trials Underway.",
@@ -583,31 +461,7 @@
       "badge": "🔴"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "The Women’s Edge and The Boston Globe Again Name CCC to Top 100 Women-Led Businesses in Massachusetts List",
-      "resumen": "CCC Included in the Annual Award Celebrating the State’s Leading Companies and Nonprofits Run by WomenDANVERS, Mass., Nov. 18, 2026 (GLOBE NEWSWIRE) -- CCC (Copyright Clearance Center), a pioneer in voluntary collective licensing, has again been named to the Top 100 Women-Led Businesses in Massachus",
-      "fuente": "Yahoo",
-      "fecha": "18 Nov 2026 13:30 UTC",
-      "url": "https://finnhub.io/api/news?id=5ec7d59e2ef23c916d7e51f8313f02b8bfc1c23e655624e147fe2dad76c31961",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
       "ticker": "VKTX",
-      "titulo": "Rhythm Pharma: Is AstraZeneca/Eli Lilly's Bidding War For Real? Don't Rule It Out",
-      "resumen": "Rhythm Pharma's Imcivree generated $92.1 million in Q3; its estimated $8.25 billion market cap exceeds 20 times estimated 2026 revenue. I rate RYTM stock as Hold.",
-      "fuente": "SeekingAlpha",
-      "fecha": "18 Nov 2026 14:16 UTC",
-      "url": "https://finnhub.io/api/news?id=871b24e3da9a95ffef19a19ad39df08746dee82015be22de83957e1926822640",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2276550958/image_2276550958.jpg?io=getty-c-og",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
       "titulo": "Rhythm Pharma: Is AstraZeneca/Eli Lilly's Bidding War For Real? Don't Rule It Out",
       "resumen": "Rhythm Pharma's Imcivree generated $92.1 million in Q3; its estimated $8.25 billion market cap exceeds 20 times estimated 2026 revenue. I rate RYTM stock as Hold.",
       "fuente": "SeekingAlpha",
@@ -655,18 +509,6 @@
       "badge": "🔴"
     },
     {
-      "ticker": "ALNY",
-      "titulo": "Regeneron Wins FDA Nod For Livsayis, 4x-Year GMG Shot",
-      "resumen": "The FDA approves Regeneron&#39;s Livsayis as the first siRNA therapy for adults with generalized myasthenia gravis, requiring four annual doses.",
-      "fuente": "Benzinga",
-      "fecha": "19 Nov 2026 09:10 UTC",
-      "url": "https://finnhub.io/api/news?id=2805418f3c61a03165a260dfc54363e4479aeef964c1a1994c2ad5dbec7d5eb7",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/19/Regeneron.jpg?width=2048&height=1536",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
       "ticker": "VRTX",
       "titulo": "Genomics, Vertex extend drug discovery alliance in $220m deal",
       "resumen": "The renewed collaboration focuses on applying human genetics to discover and validate new drug targets for precision medicines.",
@@ -679,31 +521,19 @@
       "badge": "🔴"
     },
     {
-      "ticker": "ALNY",
-      "titulo": "Alnylam Collaborator Regeneron Secures FDA Approval of Livsayis™ (cemdisiran), the Seventh FDA-Approved Therapeutic from Alnylam's RNAi Platform in Less Than Nine Years",
-      "resumen": "CAMBRIDGE, Mass., November 19, 2026--Alnylam Pharmaceuticals, Inc. (Nasdaq: ALNY), the leading RNAi therapeutics company, announced that the U.S. Food and Drug Administration (FDA) has approved Livsayis™ (cemdisiran), an Alnylam-discovered RNAi therapeutic that was developed and will be commercializ",
-      "fuente": "Yahoo",
-      "fecha": "19 Nov 2026 12:00 UTC",
-      "url": "https://finnhub.io/api/news?id=c964281093d2672097240da1b7450283a3e4c65dd0258ec36dec5989cdc5923b",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "ticker": "ARGX",
+      "titulo": "Halozyme Therapeutics: 3 Technologies, Multiple Big Pharma Partnerships",
+      "resumen": "Halozyme Therapeutics has an attractive risk/reward, with royalty revenue growing 44.5% to $341 million in Q3 and 2026 EPS guidance rising to $8.75-$9.05.",
+      "fuente": "SeekingAlpha",
+      "fecha": "19 Nov 2026 13:23 UTC",
+      "url": "https://finnhub.io/api/news?id=7ffa2ba5cb0823f8b78e1d998185c5d3fa269bae9a16998bac9aca251a6e75f0",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1312476238/image_1312476238.jpg?io=getty-c-og",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
     },
     {
-      "ticker": "ALNY",
-      "titulo": "REGN Gets FDA Nod for Livsayis in Generalized Myasthenia Gravis",
-      "resumen": "Regeneron's Livsayis becomes the first and only siRNA therapy approved by the FDA for generalized myasthenia gravis, offering four subcutaneous doses a year.",
-      "fuente": "Yahoo",
-      "fecha": "19 Nov 2026 14:42 UTC",
-      "url": "https://finnhub.io/api/news?id=973d71eb9affa65a81ddc6543aef1b7f1fb734185fe09bd4e242b4899d7390d7",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
+      "ticker": "ARGX",
       "titulo": "With FDA nod, Regeneron brings an RNAi drug to autoimmune disease",
       "resumen": "The product of a collaboration with Alnylam, Livsayis is now Regeneron’s first marketed RNAi drug and will compete against established medicines from AstraZeneca and Argenx.",
       "fuente": "Yahoo",
@@ -715,124 +545,136 @@
       "badge": "🔴"
     },
     {
-      "ticker": "ACRV",
-      "titulo": "Acrivon Therapeutics Q3 EPS $(0.42) Beats $(0.46) Estimate",
-      "resumen": "Acrivon Therapeutics (NASDAQ:ACRV) reported quarterly losses of $(0.42) per share which beat the analyst consensus estimate of $(0.46) by 8.7 percent. This is a 10.64 percent increase over losses of $(0.47) per share",
-      "fuente": "Benzinga",
-      "fecha": "16 Nov 2026 17:21 UTC",
-      "url": "https://finnhub.io/api/news?id=7dc891387d8ce4631421cc5eaadec5c71df9ca74afc6be40b8841f94819d5662",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "ticker": "ALNY",
+      "titulo": "Alnylam Pharmaceuticals (ALNY) Stock Dropped, So What Is Driving Attention Now?",
+      "resumen": "Alnylam Pharmaceuticals (ALNY) just achieved a new regulatory milestone, with the FDA approving Livsayis for generalized myasthenia gravis. This approval triggers a US$25 million payment and future royalties from Regeneron. Even with the Livsayis approval and recent AMVUTTRA data in cardiomyopathy, ",
+      "fuente": "Yahoo",
+      "fecha": "19 Nov 2026 16:08 UTC",
+      "url": "https://finnhub.io/api/news?id=3c47220c466935f0a6575d84030a7e0ccc775966bd1d2e7242d0fad94df5cdba",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "SENS",
-      "titulo": "Senseonics and Beta Bionics Launch Eversense® 365 and iLet® Bionic Pancreas Integration",
-      "resumen": "Eversense 365 now works with iLet, combining a year of accurate glucose monitoring with fully adaptive, automated insulin delivery to reduce the demands of managing diabetes Launch expands choice for people with diabetes, and delivers on the companies’ previously announced Q4 2026 launch timeline GE",
+      "ticker": "VRTX",
+      "titulo": "2 Growth Stocks to Buy in November Without Any Hesitation",
+      "resumen": "Vertex and Regeneron started 2026 slowly, but blockbuster results and deep pipelines have both stocks climbing again.",
       "fuente": "Yahoo",
-      "fecha": "16 Nov 2026 21:13 UTC",
-      "url": "https://finnhub.io/api/news?id=f66958d36adcbc7c3ae520eaa9ca4a2a5e5a648c81797f63f485afe28ae0d3f0",
+      "fecha": "19 Nov 2026 18:03 UTC",
+      "url": "https://finnhub.io/api/news?id=bad7b7e6f674680f7a5c861637cdf1cce14e17a214184b40d6e4b66fa27659cc",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "GPCR",
-      "titulo": "Structure Therapeutics (GPCR) Posts Wider Losses, Is The Discount Too Deep?",
-      "resumen": "Structure Therapeutics (GPCR) put its third quarter in focus for investors after reporting a wider net loss of US$144.76 million and a higher loss per share, with year-to-date figures showing a similar pattern. Structure Therapeutics’ share price has fallen sharply over 2026, with a year to date sha",
+      "ticker": "ALNY",
+      "titulo": "Alnylam (ALNY) Stock Looks Undervalued As Shares Fell 68%",
+      "resumen": "Alnylam Pharmaceuticals has seen its stock slump hard over the past year, which puts a fresh spotlight on whether the current share price lines up with what its earnings can reasonably support. With sentiment being pulled between pipeline progress and legal headlines, the key issue is how much of th",
       "fuente": "Yahoo",
-      "fecha": "16 Nov 2026 23:20 UTC",
-      "url": "https://finnhub.io/api/news?id=5f1bb3843a451e51fd975577a3cee5b442268449ff86bfbea363c92c2b561275",
+      "fecha": "19 Nov 2026 18:17 UTC",
+      "url": "https://finnhub.io/api/news?id=c7443fa7147ef22440a5cd4014c806d12ffc832895adfcf5e681b9655cda4856",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "DYN",
+      "titulo": "Dyne Therapeutics Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+      "resumen": "WALTHAM, Mass., Nov. 19, 2026 (GLOBE NEWSWIRE) -- Dyne Therapeutics, Inc. (Nasdaq: DYN), a clinical-stage company focused on delivering functional improvement for people living with genetically driven neuromuscular diseases, today announced that it has granted inducement equity awards to 17 newly hi",
+      "fuente": "Yahoo",
+      "fecha": "19 Nov 2026 21:05 UTC",
+      "url": "https://finnhub.io/api/news?id=897877ebc80dbc29a54854ba98871f7642844e784745003c26b0af33ddda1ea5",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "INSM",
-      "titulo": "Insmed Sees BRINSUPRI Reaching $7 Billion in Peak Sales, Expects Cash-Flow Positive Year Ahead",
-      "resumen": "Insmed (NASDAQ:INSM) expects its bronchiectasis drug BRINSUPRI to generate $1.35 billion to $1.4 billion in its first full year of launch, Chief Executive Officer Will Lewis said, as the company looks to reach more patients and expand its pipeline. Speaking at the Jefferies Global Healthcare Confer",
+      "titulo": "Sanofi Reportedly Gears Up For The Biggest Biotech Deal In Years",
+      "resumen": "Insmed stock surged Thursday on a rumored bid from French pharma giant Sanofi. The deal would be one of the largest in recent history.",
       "fuente": "Yahoo",
-      "fecha": "17 Nov 2026 07:12 UTC",
-      "url": "https://finnhub.io/api/news?id=5db3d72b46e47ad639eb1198e8b95e08584720faa24ca1608e7e51a61847316b",
+      "fecha": "19 Nov 2026 21:07 UTC",
+      "url": "https://finnhub.io/api/news?id=257fa9ad9ed4b20e18e8ba5ab03a12106ffb9adebceae98d774470e7639775fe",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "OCUL",
-      "titulo": "HC Wainwright & Co. Reiterates Buy on Ocular Therapeutix, Maintains $28 Price Target",
-      "resumen": "HC Wainwright &amp; Co.  analyst Yi Chen   reiterates Ocular Therapeutix (NASDAQ:OCUL) with a Buy and maintains $28 price target.",
+      "ticker": "INSM",
+      "titulo": "Anthropic, Intuit, AMD, Insmed and GameStop: Why These 5 Stocks Are on Investors' Radars Today",
+      "resumen": "Major U.S. indices closed sharply lower, with the Dow Jones Industrial Average plunging 2.19% to 49,097.06.",
       "fuente": "Benzinga",
-      "fecha": "17 Nov 2026 08:17 UTC",
-      "url": "https://finnhub.io/api/news?id=16f13f27dd59f3d7bbd675b90c05d01efe75194b44ae8cc98670fd67b1ffe4b6",
-      "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "fecha": "19 Nov 2026 21:10 UTC",
+      "url": "https://finnhub.io/api/news?id=cc8c25c99004e605cb7925352f615d69ea4d51cb43739828259072959f12e505",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/20/Stock-Market-Analysis-Shows-Trading-Patt.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "OCUL",
-      "titulo": "Ocular Therapeutix, Inc. (OCUL) Presents at UBS Global Biopharma Conference 2026 Transcript",
-      "resumen": "Ocular Therapeutix, Inc. (OCUL) UBS Global Biopharma Conference 2026 November 17, 2026 7:00 AM ESTCompany ParticipantsPravin Dugel - Executive Chairman,...",
-      "fuente": "SeekingAlpha",
-      "fecha": "17 Nov 2026 09:22 UTC",
-      "url": "https://finnhub.io/api/news?id=e18833abef42d540d30cddecdbe21f8e5a181ad423afed5d0622246c9541fa39",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "ACRV",
-      "titulo": "Citizens Reiterates Market Outperform on Acrivon Therapeutics, Maintains $13 Price Target",
-      "resumen": "Citizens  analyst Silvan Turkcan   reiterates Acrivon Therapeutics (NASDAQ:ACRV) with a Market Outperform and maintains $13 price target.",
+      "ticker": "INSM",
+      "titulo": "'Sanofi’s New CEO Eyes Mega-Deal to Jump-Start Pipeline Rebuild' - Bloomberg Interview",
+      "resumen": "https://www.bloomberg.com/news/articles/2026-11-20/sanofi-s-new-ceo-eyes-mega-deal-to-jump-start-pipeline-rebuild",
       "fuente": "Benzinga",
-      "fecha": "17 Nov 2026 10:17 UTC",
-      "url": "https://finnhub.io/api/news?id=eccdc435e95edcad6c8450882bdc38a9a21c4ad48cd79291ef94ab7a5bc6253a",
+      "fecha": "20 Nov 2026 06:46 UTC",
+      "url": "https://finnhub.io/api/news?id=1566ab01cedc281b6dfabd098285ef49f2588756741a2e5a7f2cabda9cd292f5",
       "imagen": "",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "DNLI",
-      "titulo": "Denali Therapeutics Inc. (DNLI) Presents at UBS Global Biopharma Conference 2026 Transcript",
-      "resumen": "Denali Therapeutics Inc. (DNLI) UBS Global Biopharma Conference 2026 November 17, 2026 9:40 AM ESTCompany ParticipantsRyan Watts - Co-Founder, President,...",
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals: Look For Povetacicept Approval In 2 Weeks As Next Catalyst",
+      "resumen": "Analyst rates Vertex Pharmaceuticals Incorporated a Buy: CF is an estimated 60% of market value, and its pipeline could support long-term market outperformance.",
       "fuente": "SeekingAlpha",
-      "fecha": "17 Nov 2026 13:53 UTC",
-      "url": "https://finnhub.io/api/news?id=0f091f21789a12d1570f9ad35bc6ce53a65cb0d1ad85870a76c55247656a4790",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "fecha": "20 Nov 2026 07:21 UTC",
+      "url": "https://finnhub.io/api/news?id=4e14bdd5c328ef8e07a89d1f02bf29b7641e7212018e3e47b4052612a9bd6aa4",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2288019935/image_2288019935.jpg?io=getty-c-og",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "BEAM",
-      "titulo": "Beam Therapeutics Inc. (BEAM) Presents at UBS Global Biopharma Conference 2026 Prepared Remarks Transcript",
-      "resumen": "Beam Therapeutics Inc. (BEAM) UBS Global Biopharma Conference 2026 November 17, 2026 9:00 AM ESTCompany ParticipantsJohn Evans - CEO &...",
+      "ticker": "VERA",
+      "titulo": "Vertex Pharmaceuticals: Look For Povetacicept Approval In 2 Weeks As Next Catalyst",
+      "resumen": "Analyst rates Vertex Pharmaceuticals Incorporated a Buy: CF is an estimated 60% of market value, and its pipeline could support long-term market outperformance.",
       "fuente": "SeekingAlpha",
-      "fecha": "17 Nov 2026 14:52 UTC",
-      "url": "https://finnhub.io/api/news?id=39240167cdcc5bb3e92edf5bf19c138a111740fba4b7a7b3c1a27b21c3bf2e6f",
-      "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "fecha": "20 Nov 2026 07:21 UTC",
+      "url": "https://finnhub.io/api/news?id=4e14bdd5c328ef8e07a89d1f02bf29b7641e7212018e3e47b4052612a9bd6aa4",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2288019935/image_2288019935.jpg?io=getty-c-og",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "SENS",
-      "titulo": "BBNX & SENS Launch Eversense 365 Integration With iLet Bionic Pancreas",
-      "resumen": "Beta Bionics launches iLet Bionic Pancreas integration with Eversense 365, offering more CGM options and boosting growth prospects in the diabetes care market.",
-      "fuente": "Yahoo",
-      "fecha": "17 Nov 2026 15:01 UTC",
-      "url": "https://finnhub.io/api/news?id=35024273f187a77972474479efc75a2ac3b2b7fe0a9f5fa4d523f8321370c965",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "ticker": "VRTX",
+      "titulo": "Jim Cramer Rejects UiPath Despite Cheap Valuation, Backs Affirm",
+      "resumen": "Cramer called UiPath cheap but lacking catalysts, endorsed Karman and Affirm, warned on Onto and Nio, and favored Regeneron, Vertex and Amgen over Alnylam",
+      "fuente": "Benzinga",
+      "fecha": "20 Nov 2026 08:52 UTC",
+      "url": "https://finnhub.io/api/news?id=3cbd481c54d7bb0b0bc23088771c0844e28151be29d47e77ccd0687a83482d78",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/20/Jim-Cramer.png?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Jim Cramer Rejects UiPath Despite Cheap Valuation, Backs Affirm",
+      "resumen": "Cramer called UiPath cheap but lacking catalysts, endorsed Karman and Affirm, warned on Onto and Nio, and favored Regeneron, Vertex and Amgen over Alnylam",
+      "fuente": "Benzinga",
+      "fecha": "20 Nov 2026 08:52 UTC",
+      "url": "https://finnhub.io/api/news?id=3cbd481c54d7bb0b0bc23088771c0844e28151be29d47e77ccd0687a83482d78",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/20/Jim-Cramer.png?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "VKTX",
@@ -842,18 +684,6 @@
       "fecha": "18 Nov 2026 11:53 UTC",
       "url": "https://finnhub.io/api/news?id=738053689561ad45301843a43b98e48dfd41c9a9e3f881c28a30c37472d2b200",
       "imagen": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Should You Pick Vertex Stock Over Its Biotech Rivals?",
-      "resumen": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036.",
-      "fuente": "Yahoo",
-      "fecha": "18 Nov 2026 17:13 UTC",
-      "url": "https://finnhub.io/api/news?id=2a9da3efec569b13b6a6ebcb196f334a1b3ad0455f9bd8b96a3f1fec9dd6bb6b",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"
@@ -871,24 +701,72 @@
       "badge": "🔵"
     },
     {
-      "ticker": "INSM",
-      "titulo": "Keith Manchester Sells $54M Of Roivant Sciences Stock After Sharp Run-Up",
-      "resumen": "Keith Manchester sold 1,381,762 shares of Roivant Sciences Ltd. (NASDAQ:ROIV) for $53.5 million in transactions dated Nov. 16, 2026. The sale reduced his holdings by 6.68%, leaving him with 19,304,554 shares.Roivant",
-      "fuente": "Benzinga",
-      "fecha": "19 Nov 2026 10:05 UTC",
-      "url": "https://finnhub.io/api/news?id=923b90dd8663d34df95fddee12d1da2faf122f15efe50fe5e6235d7876308406",
-      "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/19/Charts-Of-Financial-Instruments-With-Var.jpg?width=2048&height=1536",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
       "ticker": "ALNY",
       "titulo": "Analysts Turned Bearish on These 5 Stocks on Wednesday",
       "resumen": "Wall Street’s November opened with a sharp break for technology shares. On November 3, the Nasdaq 100 slid into a correction, falling 10.4% below its October 6 peak. Economist David Rosenberg of Rosenberg Research called a correction “probably inevitable.” Two days later, the slide turned into a rou",
       "fuente": "Yahoo",
       "fecha": "19 Nov 2026 15:21 UTC",
       "url": "https://finnhub.io/api/news?id=f2417c444f7490bc328c83d66d3ec27ff2a0dca69e4cab2f6ecce692dd09c021",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Stock Market Today, Nov. 19: Dow Plunges 1,100 Points as the S&P 500 Suffers Its 6th Straight Day of Losses",
+      "resumen": "Selling pressure is spreading well beyond technology stocks, raising concerns that Wall Street's recent pullback could develop into a more pronounced market correction.",
+      "fuente": "Yahoo",
+      "fecha": "19 Nov 2026 22:10 UTC",
+      "url": "https://finnhub.io/api/news?id=9b0acf9ba1629abe07ebb299ff3a9b81dd5ca53898d5b57e48e11051769e401c",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Insmed (INSM) is Attracting Investor Attention — Here’s Why",
+      "resumen": "Insmed Inc. (NASDAQ:INSM) is one of the 10 Stocks Posting Monster Gains Amid Market Downfall. Shares of Insmed Inc. soared 20.58 percent on Thursday to close at $144.46 apiece following reports that French pharmaceutical firm Sanofi SA is planning to acquire the company in what could be the largest ",
+      "fuente": "Yahoo",
+      "fecha": "20 Nov 2026 05:31 UTC",
+      "url": "https://finnhub.io/api/news?id=d7fea44d5bbc33ce76690ab11a48ef9fd9c8ca5b04f2e8f0608ea805850090c6",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "SENS",
+      "titulo": "Sensirion Holding (SWX:SENS) Lands DFRobot Sensor Win, Is The Valuation Case Still Compelling?",
+      "resumen": "Sensirion Holding (SWX:SENS) is in focus after DFRobot integrated its SFA40 formaldehyde sensor chip into a new Gravity sensor module, expanding reach into indoor air quality and smart home hardware projects. The SENS share price has pulled back over the past month, with a 30 day share price return ",
+      "fuente": "Yahoo",
+      "fecha": "20 Nov 2026 10:08 UTC",
+      "url": "https://finnhub.io/api/news?id=56a2509b01c4912f2826f75001cb2e706c2f3329648d4f7a0b8d735f2e70e802",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Has Vertex Stock Become A Different Bet?",
+      "resumen": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+      "fuente": "Yahoo",
+      "fecha": "20 Nov 2026 12:28 UTC",
+      "url": "https://finnhub.io/api/news?id=f93951fd0ea504d6ed4769de62c62da022483e21e5ac7cad1aa3b7fde919562b",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "ALNY",
+      "titulo": "Alnylam to Webcast Presentations at Upcoming December Investor Conferences",
+      "resumen": "CAMBRIDGE, Mass., November 20, 2026--Alnylam Pharmaceuticals, Inc. (Nasdaq: ALNY), the leading RNAi therapeutics company, announced today that management will present company overviews at the following upcoming investor conferences:",
+      "fuente": "Yahoo",
+      "fecha": "20 Nov 2026 13:00 UTC",
+      "url": "https://finnhub.io/api/news?id=6086627a33f9ae14ea1cafe584914fae2a03742a3f51583041e73c053fca6768",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",

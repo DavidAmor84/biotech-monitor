@@ -1,13 +1,13 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 19/11/2026 16:21 | Período: últimos 7 días
-Desde: 2026-11-12 → Hasta: 2026-11-19
+Generado: 20/11/2026 15:55 | Período: últimos 7 días
+Desde: 2026-11-13 → Hasta: 2026-11-20
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 22 filings | 🔴 2 | 🟢 3 | 🟡 7 | 🔵 10 | ✅ 11 sin novedad
+RESUMEN: 24 filings | 🔴 2 | 🟢 1 | 🟡 12 | 🔵 9 | ✅ 11 sin novedad
 
 ──────────────────────────────────────────────────
-🚨 ALERTAS CRÍTICAS (5)
+🚨 ALERTAS CRÍTICAS (3)
 ──────────────────────────────────────────────────
 
   [ACRV] Acrivon Therapeutics, Inc.
@@ -28,26 +28,10 @@ RESUMEN: 22 filings | 🔴 2 | 🟢 3 | 🟡 7 | 🔵 10 | ✅ 11 sin novedad
   Insider: ROEDER DOUGLAS A → Compra 17,041 acciones @ $10.32 | Post: 189,712
   → https://www.sec.gov/Archives/edgar/data/1616543/000127073526000018/xslF345X06/form4-11162026_041101.xml
 
-  [ALNY] ALNYLAM PHARMACEUTICALS, INC.
-  🟢 ALTA 4 | 2026-11-12
-  Insider BUY: Sigal Charles Elliott (Director) → Compra 1,600 acciones @ $152.25 | Post: 3,600
-  Insider: Sigal Charles Elliott (Director) → Compra 1,600 acciones @ $152.25 | Post: 3,600
-  → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000087/xslF345X06/form4.xml
-
-  [ALNY] ALNYLAM PHARMACEUTICALS, INC.
-  🟢 ALTA 4 | 2026-11-12
-  Insider BUY: SCHULMAN AMY W (Director) → Compra 1,910 acciones @ $156.82 | Post: 25,959
-  Insider: SCHULMAN AMY W (Director) → Compra 1,910 acciones @ $156.82 | Post: 25,959
-  → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000085/xslF345X06/form4.xml
-
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
 ──────────────────────────────────────────────────
-
-  🔵 [SNDX] Syndax Pharmaceuticals Inc — 1 filing(s)
-     🔵 INFO 4 | 2026-11-12 | Ondrey Aaron (Chief Financial Officer) → Concesión 270,000 acciones @ $9.55 | Post: 0 | Rutinaria/RSU/impuestos
-     Insider: Ondrey Aaron (Chief Financial Officer) → Concesión 270,000 acciones @ $9.55 | Post: 0 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1395937/000119312526458304/xslF345X06/ownership.xml
+  ✅ [SNDX] Sin novedades
   ✅ [ARGX] Sin novedades
 
   🟡 [DYN] Dyne Therapeutics, Inc. — 4 filing(s)
@@ -63,7 +47,11 @@ DETALLE POR TICKER — SEC EDGAR
      🟡 MEDIA 4 | 2026-11-16 | Lucera Erick (Chief Financial Officer) → Venta 1,991 acciones @ $16.82 | Post: 117,775 | Rutinaria/RSU/impuestos
      Insider: Lucera Erick (Chief Financial Officer) → Venta 1,991 acciones @ $16.82 | Post: 117,775 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1818794/000169761626000004/xslF345X06/ownership.xml
-  ✅ [DNLI] Sin novedades
+
+  🔵 [DNLI] Denali Therapeutics Inc. — 1 filing(s)
+     🔵 INFO 4 | 2026-11-19 | Schuth Alexander O. (COFO and Secretary) → Ejercicio opción 16,566 acciones @ $9.60 | Post: 295,561 | Rutinaria/RSU/impuestos
+     Insider: Schuth Alexander O. (COFO and Secretary) → Ejercicio opción 16,566 acciones @ $9.60 | Post: 295,561 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1714899/000172431126000016/xslF345X06/wk-form4_1795125001.xml
   ✅ [VKTX] Sin novedades
 
   🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 3 filing(s)
@@ -77,19 +65,10 @@ DETALLE POR TICKER — SEC EDGAR
      Insider: WAGNER CHARLES F JR (EVP, CO & FO) → Venta 15,286 acciones @ $547.87 | Post: 31,764 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000295/xslF345X06/wk-form4_1794864658.xml
 
-  🟢 [ALNY] ALNYLAM PHARMACEUTICALS, INC. — 4 filing(s)
+  🔵 [ALNY] ALNYLAM PHARMACEUTICALS, INC. — 1 filing(s)
      🔵 INFO 4 | 2026-11-17 | Greenstreet Yvonne (Director / Chief Executive Officer) → Donación 11,000 acciones @ $0.00 | Post: 84,802
      Insider: Greenstreet Yvonne (Director / Chief Executive Officer) → Donación 11,000 acciones @ $0.00 | Post: 84,802
      → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000091/xslF345X06/form4.xml
-     🔵 INFO 4 | 2026-11-12 | PYOTT DAVID E I (Director) → Ejercicio opción 3,780 acciones @ $71.99 | Post: 5,362
-     Insider: PYOTT DAVID E I (Director) → Ejercicio opción 3,780 acciones @ $71.99 | Post: 5,362
-     → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000089/xslF345X06/form4.xml
-     🟢 ALTA 4 | 2026-11-12 | Insider BUY: Sigal Charles Elliott (Director) → Compra 1,600 acciones @ $152.25 | Post: 3,600
-     Insider: Sigal Charles Elliott (Director) → Compra 1,600 acciones @ $152.25 | Post: 3,600
-     → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000087/xslF345X06/form4.xml
-     🟢 ALTA 4 | 2026-11-12 | Insider BUY: SCHULMAN AMY W (Director) → Compra 1,910 acciones @ $156.82 | Post: 25,959
-     Insider: SCHULMAN AMY W (Director) → Compra 1,910 acciones @ $156.82 | Post: 25,959
-     → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000085/xslF345X06/form4.xml
   ✅ [BEAM] Sin novedades
   ✅ [OCUL] Sin novedades
   ✅ [CAI] Sin novedades
@@ -97,7 +76,22 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [ABVX] Sin novedades
   ✅ [VERA] Sin novedades
 
-  🔴 [ACRV] Acrivon Therapeutics, Inc. — 3 filing(s)
+  🔴 [ACRV] Acrivon Therapeutics, Inc. — 8 filing(s)
+     🟡 MEDIA 4 | 2026-11-19 | Peterson Katharine (Chief Accounting Officer) → Venta 107 acciones @ $1.45 | Post: 17,926 | Rutinaria/RSU/impuestos
+     Insider: Peterson Katharine (Chief Accounting Officer) → Venta 107 acciones @ $1.45 | Post: 17,926 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826005056/xslF345X06/form4.xml
+     🟡 MEDIA 4 | 2026-11-19 | Miller Mary (Chief Legal Officer) → Venta 193 acciones @ $1.45 | Post: 81,009 | Rutinaria/RSU/impuestos
+     Insider: Miller Mary (Chief Legal Officer) → Venta 193 acciones @ $1.45 | Post: 81,009 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826005055/xslF345X06/form4.xml
+     🟡 MEDIA 4 | 2026-11-19 | Gamelin Erick (Chief Development Officer) → Venta 416 acciones @ $1.45 | Post: 52,176 | Rutinaria/RSU/impuestos
+     Insider: Gamelin Erick (Chief Development Officer) → Venta 416 acciones @ $1.45 | Post: 52,176 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826005053/xslF345X06/form4.xml
+     🟡 MEDIA 4 | 2026-11-19 | Devroe Eric (Chief Operating Officer) → Venta 628 acciones @ $1.45 | Post: 145,721 | Rutinaria/RSU/impuestos
+     Insider: Devroe Eric (Chief Operating Officer) → Venta 628 acciones @ $1.45 | Post: 145,721 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826005051/xslF345X06/form4.xml
+     🟡 MEDIA 4 | 2026-11-19 | Blume-Jensen Peter (President and CEO) → Venta 1,276 acciones @ $1.45 | Post: 2,228,776 | Rutinaria/RSU/impuestos
+     Insider: Blume-Jensen Peter (President and CEO) → Venta 1,276 acciones @ $1.45 | Post: 2,228,776 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826005050/xslF345X06/form4.xml
      🔴 ALTA S-3 | 2026-11-16 | Oferta asegurada (underwritten) · $300000000.0M · Dilución 🔴 ALTO
      Oferta: Oferta asegurada (underwritten) · $300000000.0M · Dilución 🔴 ALTO
      → https://www.sec.gov/Archives/edgar/data/1781174/000119312526463828/d185923ds3.htm

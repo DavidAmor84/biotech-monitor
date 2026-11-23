@@ -1,7 +1,7 @@
 {
   "version": "v9.3",
-  "generado": "20/11/2026 17:05",
-  "fecha": "2026-11-20",
+  "generado": "23/11/2026 20:26",
+  "fecha": "2026-11-23",
   "resumen": {
     "total_ensayos": 34,
     "prioridad_alta": 25,
@@ -688,7 +688,7 @@
           "study_completion_date": "2027-12-15",
           "study_completion_type": "ESTIMATED",
           "start_date": "2019-11-05",
-          "last_update_posted": "2026-10-09",
+          "last_update_posted": "2026-11-23",
           "conditions": [
             "Acute Myeloid Leukemia",
             "Acute Lymphoblastic Leukemia",
@@ -733,7 +733,14 @@
           "ventana": "2026-2027",
           "monitorizar": true,
           "peso_importancia": 8,
-          "cambios": [],
+          "cambios": [
+            {
+              "tipo": "last_update_posted",
+              "nivel": "azul",
+              "badge": "🔵",
+              "mensaje": "Última actualización: 2026-10-09 → 2026-11-23"
+            }
+          ],
           "nivel": "azul",
           "badge": "🔵",
           "error": null
@@ -2447,7 +2454,14 @@
       "peso_importancia": 8,
       "validacion_ok": true,
       "errores_validacion": [],
-      "cambios": [],
+      "cambios": [
+        {
+          "tipo": "last_update_posted",
+          "nivel": "azul",
+          "badge": "🔵",
+          "mensaje": "Última actualización: 2026-10-09 → 2026-11-23"
+        }
+      ],
       "url": "https://clinicaltrials.gov/study/NCT04065399"
     },
     {

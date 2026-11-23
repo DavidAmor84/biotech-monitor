@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 20/11/2026 15:55 | Período: últimos 7 días
-Desde: 2026-11-13 → Hasta: 2026-11-20
+Generado: 23/11/2026 18:59 | Período: últimos 7 días
+Desde: 2026-11-16 → Hasta: 2026-11-23
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 24 filings | 🔴 2 | 🟢 1 | 🟡 12 | 🔵 9 | ✅ 11 sin novedad
+RESUMEN: 26 filings | 🔴 2 | 🟢 1 | 🟡 12 | 🔵 11 | ✅ 10 sin novedad
 
 ──────────────────────────────────────────────────
 🚨 ALERTAS CRÍTICAS (3)
@@ -76,7 +76,9 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [ABVX] Sin novedades
   ✅ [VERA] Sin novedades
 
-  🔴 [ACRV] Acrivon Therapeutics, Inc. — 8 filing(s)
+  🔴 [ACRV] Acrivon Therapeutics, Inc. — 9 filing(s)
+     🔵 INFO 8-K | 2026-11-20 | 8-K — Sin clasificación específica por Item [Items: 7.01, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1781174/000119312526470245/acrv-20261120.htm
      🟡 MEDIA 4 | 2026-11-19 | Peterson Katharine (Chief Accounting Officer) → Venta 107 acciones @ $1.45 | Post: 17,926 | Rutinaria/RSU/impuestos
      Insider: Peterson Katharine (Chief Accounting Officer) → Venta 107 acciones @ $1.45 | Post: 17,926 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1781174/000090514826005056/xslF345X06/form4.xml
@@ -124,7 +126,11 @@ DETALLE POR TICKER — SEC EDGAR
      🟢 ALTA 4 | 2026-11-16 | Insider BUY: ROEDER DOUGLAS A → Compra 17,041 acciones @ $10.32 | Post: 189,712
      Insider: ROEDER DOUGLAS A → Compra 17,041 acciones @ $10.32 | Post: 189,712
      → https://www.sec.gov/Archives/edgar/data/1616543/000127073526000018/xslF345X06/form4-11162026_041101.xml
-  ✅ [INSM] Sin novedades
+
+  🔵 [INSM] INSMED Inc — 1 filing(s)
+     🔵 INFO 4 | 2026-11-20 | Schaeffer Orlov S Nicole (Chief People Strategy Officer) → Ejercicio opción 55,400 acciones @ $30.46 | Post: 97,295 | Rutinaria/RSU/impuestos
+     Insider: Schaeffer Orlov S Nicole (Chief People Strategy Officer) → Ejercicio opción 55,400 acciones @ $30.46 | Post: 97,295 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1104506/000140101726000004/xslF345X06/wk-form4_1795210390.xml
   ⚪ [NWL] Sin CIK SEC
 
 ──────────────────────────────────────────────────
@@ -136,7 +142,7 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Reclutando activamente
        Enrollment: 447 pacientes
        Primary completion: 2027-12-15
-       Última actualización: 2026-10-09
+       Última actualización: 2026-11-23
        → https://clinicaltrials.gov/study/NCT04065399
     🟢 REVEAL Ph3 (revumenib NPM1m AML frontline) ⚡CAMBIO
        Status: Reclutando activamente

@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "20/11/2026 15:55",
+  "generado": "23/11/2026 18:59",
   "periodo_dias": 7,
-  "desde": "2026-11-13",
-  "hasta": "2026-11-20",
+  "desde": "2026-11-16",
+  "hasta": "2026-11-23",
   "resumen": {
-    "total_filings": 24,
+    "total_filings": 26,
     "alertas_rojas": 2,
     "alertas_verdes": 1,
     "alertas_amarillas": 12,
-    "alertas_azules": 9,
-    "sin_novedad": 11
+    "alertas_azules": 11,
+    "sin_novedad": 10
   },
   "tickers": {
     "SNDX": {
@@ -401,6 +401,30 @@
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
       "filings": [
+        {
+          "form": "8-K",
+          "fecha": "2026-11-20",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "8-K — Sin clasificación específica por Item [Items: 7.01, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "Acrivon Therapeutics, Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526470245/acrv-20261120.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "7.01",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 7.01 Regulation FD Disclosure. On November 20, 2026, at the 38 th EORTC-NCI-AACR Symposium in Barcelona, Spain, Dr. Timothy A. Yap, MBBS, Ph.D., FRCP, of The University of Texas MD Anderson Cancer Center presented a late-breaker oral plenary presentation that showed results from the dose escalation phase of the Company s ACR-2316 Phase 1/2 trial (the 38 th EORTC-NCI-AACR Symposium Deck ). A Copy of the Deck is attached hereto as Exhibit 99.1, and is incorporated by reference into this Item 7.01 of this Current Report on Form 8-K. The Company also posted a copy of the Deck to the Science &amp; Publications section of the Company s website at www.acrivon.com. The information in this Item 7.01, including Exhibit 99.1 attached hereto, shall not be deemed filed for purposes of Section 18 of the Exchange Act, or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 9.01 Financial Statements and Exhibits. Exhibit Number Description 99.1 38 th EORTC-NCI-AACR Symposium Deck 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Acrivon Therapeutics, Inc. Date: November 20, 2026 By: /s/ Peter Blume-Jensen, M.D., Ph.D. Name: Peter Blume-Jensen, M.D., Ph.D. Title: President and Chief Ex",
+            "nivel_ajustado": "azul",
+            "badge_ajustado": "🔵 INFO",
+            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
         {
           "form": "4",
           "fecha": "2026-11-19",
@@ -815,9 +839,36 @@
       "cik": "0001104506",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [],
-      "nivel": "ok",
-      "badge": "✅",
+      "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-11-20",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Schaeffer Orlov S Nicole (Chief People Strategy Officer) → Ejercicio opción 55,400 acciones @ $30.46 | Post: 97,295 | Rutinaria/RSU/impuestos",
+          "detalle": "FORM 4",
+          "empresa_sec": "INSMED Inc",
+          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000140101726000004/xslF345X06/wk-form4_1795210390.xml",
+          "form4_detail": {
+            "insider_nombre": "Schaeffer Orlov S Nicole",
+            "insider_cargo": "Chief People Strategy Officer",
+            "transaccion_codigo": "M",
+            "transaccion_tipo": "Ejercicio opción",
+            "transaccion_acciones": "55400",
+            "transaccion_precio": "30.46",
+            "transaccion_fecha": "2026-11-19",
+            "acciones_post": "97295",
+            "footnotes": "This transaction was effected pursuant to a 10b5-1 trading plan adopted by the Reporting Person on May 11, 2026, in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934, as amended. Includes 141 shares acquired through the Company's 2018 Employee Stock Purchase Plan. This is the weighted average sales price representing 90,299 shares sold at prices ranging from $145.00 to $145.93 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. This is the weighted average sales price representing 8,539 shares sold at prices ranging from $146.10 to $147.09 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. This is the weighted average sales price representing 2,262 shares sold at prices ranging from $147.38 to $148.01 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. The options became exercisable based on the following vesting schedule: 25% vested on the first anniversary of the grant date and an additional 12.5% vested on each sixth month anniversary date thereafter through the fourth anniversary of the date of grant. All options are currently exe",
+            "es_rutinaria": true,
+            "resumen_detail": "Schaeffer Orlov S Nicole (Chief People Strategy Officer) → Ejercicio opción 55,400 acciones @ $30.46 | Post: 97,295 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        }
+      ],
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "NWL": {
@@ -907,6 +958,60 @@
     }
   ],
   "todos_filings": [
+    {
+      "ticker": "ACRV",
+      "nombre": "Acrivon Therapeutics, Inc.",
+      "form": "8-K",
+      "fecha": "2026-11-20",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "8-K — Sin clasificación específica por Item [Items: 7.01, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "Acrivon Therapeutics, Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526470245/acrv-20261120.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "7.01",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 7.01 Regulation FD Disclosure. On November 20, 2026, at the 38 th EORTC-NCI-AACR Symposium in Barcelona, Spain, Dr. Timothy A. Yap, MBBS, Ph.D., FRCP, of The University of Texas MD Anderson Cancer Center presented a late-breaker oral plenary presentation that showed results from the dose escalation phase of the Company s ACR-2316 Phase 1/2 trial (the 38 th EORTC-NCI-AACR Symposium Deck ). A Copy of the Deck is attached hereto as Exhibit 99.1, and is incorporated by reference into this Item 7.01 of this Current Report on Form 8-K. The Company also posted a copy of the Deck to the Science &amp; Publications section of the Company s website at www.acrivon.com. The information in this Item 7.01, including Exhibit 99.1 attached hereto, shall not be deemed filed for purposes of Section 18 of the Exchange Act, or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act or the Exchange Act, except as expressly set forth by specific reference in such filing. Item 9.01 Financial Statements and Exhibits. Exhibit Number Description 99.1 38 th EORTC-NCI-AACR Symposium Deck 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Acrivon Therapeutics, Inc. Date: November 20, 2026 By: /s/ Peter Blume-Jensen, M.D., Ph.D. Name: Peter Blume-Jensen, M.D., Ph.D. Title: President and Chief Ex",
+        "nivel_ajustado": "azul",
+        "badge_ajustado": "🔵 INFO",
+        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "INSM",
+      "nombre": "INSMED Inc",
+      "form": "4",
+      "fecha": "2026-11-20",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Schaeffer Orlov S Nicole (Chief People Strategy Officer) → Ejercicio opción 55,400 acciones @ $30.46 | Post: 97,295 | Rutinaria/RSU/impuestos",
+      "detalle": "FORM 4",
+      "empresa_sec": "INSMED Inc",
+      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000140101726000004/xslF345X06/wk-form4_1795210390.xml",
+      "form4_detail": {
+        "insider_nombre": "Schaeffer Orlov S Nicole",
+        "insider_cargo": "Chief People Strategy Officer",
+        "transaccion_codigo": "M",
+        "transaccion_tipo": "Ejercicio opción",
+        "transaccion_acciones": "55400",
+        "transaccion_precio": "30.46",
+        "transaccion_fecha": "2026-11-19",
+        "acciones_post": "97295",
+        "footnotes": "This transaction was effected pursuant to a 10b5-1 trading plan adopted by the Reporting Person on May 11, 2026, in accordance with Rule 10b5-1 of the Securities Exchange Act of 1934, as amended. Includes 141 shares acquired through the Company's 2018 Employee Stock Purchase Plan. This is the weighted average sales price representing 90,299 shares sold at prices ranging from $145.00 to $145.93 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. This is the weighted average sales price representing 8,539 shares sold at prices ranging from $146.10 to $147.09 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. This is the weighted average sales price representing 2,262 shares sold at prices ranging from $147.38 to $148.01 per share. The Reporting Person undertakes to provide to the SEC staff, the issuer, or a security holder of the issuer the number of shares sold at each price within the price range upon request. The options became exercisable based on the following vesting schedule: 25% vested on the first anniversary of the grant date and an additional 12.5% vested on each sixth month anniversary date thereafter through the fourth anniversary of the date of grant. All options are currently exe",
+        "es_rutinaria": true,
+        "resumen_detail": "Schaeffer Orlov S Nicole (Chief People Strategy Officer) → Ejercicio opción 55,400 acciones @ $30.46 | Post: 97,295 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "DNLI",
       "nombre": "Denali Therapeutics Inc.",
@@ -1581,7 +1686,7 @@
         "nivel": "verde",
         "badge": "🟢",
         "enrollment": 447,
-        "ultima_actualizacion": "2026-10-09",
+        "ultima_actualizacion": "2026-11-23",
         "fecha_completion_primaria": "2027-12-15",
         "changed": true,
         "url": "https://clinicaltrials.gov/study/NCT04065399"

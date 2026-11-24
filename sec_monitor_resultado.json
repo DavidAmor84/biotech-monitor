@@ -1,16 +1,16 @@
 {
   "version": "v3",
-  "generado": "23/11/2026 18:59",
+  "generado": "24/11/2026 18:40",
   "periodo_dias": 7,
-  "desde": "2026-11-16",
-  "hasta": "2026-11-23",
+  "desde": "2026-11-17",
+  "hasta": "2026-11-24",
   "resumen": {
-    "total_filings": 26,
-    "alertas_rojas": 2,
-    "alertas_verdes": 1,
-    "alertas_amarillas": 12,
+    "total_filings": 19,
+    "alertas_rojas": 0,
+    "alertas_verdes": 0,
+    "alertas_amarillas": 8,
     "alertas_azules": 11,
-    "sin_novedad": 10
+    "sin_novedad": 11
   },
   "tickers": {
     "SNDX": {
@@ -41,114 +41,9 @@
       "cik": "0001818794",
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
-      "filings": [
-        {
-          "form": "4",
-          "fecha": "2026-11-16",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Friedl-Naderer Johanna (Chief Commercial Officer) → Venta 231 acciones @ $16.82 | Post: 152,666 | Rutinaria/RSU/impuestos",
-          "detalle": "4",
-          "empresa_sec": "Dyne Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000191559826000007/xslF345X06/ownership.xml",
-          "form4_detail": {
-            "insider_nombre": "Friedl-Naderer Johanna",
-            "insider_cargo": "Chief Commercial Officer",
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "231",
-            "transaccion_precio": "16.82",
-            "transaccion_fecha": "2026-11-13",
-            "acciones_post": "152666",
-            "footnotes": "Represents shares automatically sold by the Reporting Person to satisfy tax withholding obligations in connection with the vesting of restricted stock units granted to the Reporting Person on February 12, 2026. The automatic sale of the Reporting Person's shares is provided for in a restricted stock unit agreement constituting a \"binding contract\" consistent with the affirmative defense to liability under Rule 10b5-1 and the sale does not represent a discretionary trade by the Reporting Person. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices within the range of $16.50 to $17.02, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote of this Form 4. Includes 99,216 unvested RSUs.",
-            "es_rutinaria": true,
-            "resumen_detail": "Friedl-Naderer Johanna (Chief Commercial Officer) → Venta 231 acciones @ $16.82 | Post: 152,666 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-11-16",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Kerr Douglas (Head of R&D and CMO) → Venta 2,604 acciones @ $16.82 | Post: 167,960 | Rutinaria/RSU/impuestos",
-          "detalle": "4",
-          "empresa_sec": "Dyne Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181418926000009/xslF345X06/ownership.xml",
-          "form4_detail": {
-            "insider_nombre": "Kerr Douglas",
-            "insider_cargo": "Head of R&D and CMO",
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "2604",
-            "transaccion_precio": "16.82",
-            "transaccion_fecha": "2026-11-13",
-            "acciones_post": "167960",
-            "footnotes": "Represents shares automatically sold by the Reporting Person to satisfy tax withholding obligations in connection with the vesting of restricted stock units granted to the Reporting Person on February 12, 2026. The automatic sale of the Reporting Person's shares is provided for in a restricted stock unit agreement constituting a \"binding contract\" consistent with the affirmative defense to liability under Rule 10b5-1 and the sale does not represent a discretionary trade by the Reporting Person. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices within the range of $16.50 to $17.03, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote of this Form 4. Includes 127,814 unvested RSUs.",
-            "es_rutinaria": true,
-            "resumen_detail": "Kerr Douglas (Head of R&D and CMO) → Venta 2,604 acciones @ $16.82 | Post: 167,960 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-11-16",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Cox John (CEO & President) → Venta 5,513 acciones @ $16.82 | Post: 351,994 | Rutinaria/RSU/impuestos",
-          "detalle": "4",
-          "empresa_sec": "Dyne Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000149842826000007/xslF345X06/ownership.xml",
-          "form4_detail": {
-            "insider_nombre": "Cox John",
-            "insider_cargo": "CEO & President",
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "5513",
-            "transaccion_precio": "16.82",
-            "transaccion_fecha": "2026-11-13",
-            "acciones_post": "351994",
-            "footnotes": "Represents shares automatically sold by the Reporting Person to satisfy tax withholding obligations in connection with the vesting of restricted stock units granted to the Reporting Person on February 12, 2026. The automatic sale of the Reporting Person's shares is provided for in a restricted stock unit agreement constituting a \"binding contract\" consistent with the affirmative defense to liability under Rule 10b5-1 and the sale does not represent a discretionary trade by the Reporting Person. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices within the range of $16.50 to $17.02, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote of this Form 4. Includes 227,983 unvested RSUs. These shares are held in a trust for the benefit of a child of the Reporting Person.",
-            "es_rutinaria": true,
-            "resumen_detail": "Cox John (CEO & President) → Venta 5,513 acciones @ $16.82 | Post: 351,994 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-11-16",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "Lucera Erick (Chief Financial Officer) → Venta 1,991 acciones @ $16.82 | Post: 117,775 | Rutinaria/RSU/impuestos",
-          "detalle": "4",
-          "empresa_sec": "Dyne Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1818794/000169761626000004/xslF345X06/ownership.xml",
-          "form4_detail": {
-            "insider_nombre": "Lucera Erick",
-            "insider_cargo": "Chief Financial Officer",
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "1991",
-            "transaccion_precio": "16.82",
-            "transaccion_fecha": "2026-11-13",
-            "acciones_post": "117775",
-            "footnotes": "Represents shares automatically sold by the Reporting Person to satisfy tax withholding obligations in connection with the vesting of restricted stock units granted to the Reporting Person on February 12, 2026. The automatic sale of the Reporting Person's shares is provided for in a restricted stock unit agreement constituting a \"binding contract\" consistent with the affirmative defense to liability under Rule 10b5-1 and the sale does not represent a discretionary trade by the Reporting Person. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices within the range of $16.50 to $17.02, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote of this Form 4. Includes 102,389 unvested RSUs.",
-            "es_rutinaria": true,
-            "resumen_detail": "Lucera Erick (Chief Financial Officer) → Venta 1,991 acciones @ $16.82 | Post: 117,775 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        }
-      ],
-      "nivel": "amarillo",
-      "badge": "🟡",
+      "filings": [],
+      "nivel": "ok",
+      "badge": "✅",
       "error": null
     },
     "DNLI": {
@@ -158,6 +53,32 @@
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
       "filings": [
+        {
+          "form": "4",
+          "fecha": "2026-11-23",
+          "nivel": "azul",
+          "badge": "🔵 INFO",
+          "resumen": "Krognes Steve E. (Director) → Ejercicio opción 125,000 acciones @ $5.28 | Post: 163,202 | Rutinaria/RSU/impuestos",
+          "detalle": "FORM 4",
+          "empresa_sec": "Denali Therapeutics Inc.",
+          "url": "https://www.sec.gov/Archives/edgar/data/1714899/000166623626000026/xslF345X06/wk-form4_1795471810.xml",
+          "form4_detail": {
+            "insider_nombre": "Krognes Steve E.",
+            "insider_cargo": "Director",
+            "transaccion_codigo": "M",
+            "transaccion_tipo": "Ejercicio opción",
+            "transaccion_acciones": "125000",
+            "transaccion_precio": "5.28",
+            "transaccion_fecha": "2026-11-19",
+            "acciones_post": "163202",
+            "footnotes": "Includes 6,408 Unvested RSUs. The shares are held of record by The Steve Edward Krognes Revocable Trust U/A DTD 01/25/2016, for which the Reporting Person serves as trustee. 25% of the shares subject to the option vested on March 8, 2018 and an additional 1/48 of the shares vest monthly thereafter.",
+            "es_rutinaria": true,
+            "resumen_detail": "Krognes Steve E. (Director) → Ejercicio opción 125,000 acciones @ $5.28 | Post: 163,202 | Rutinaria/RSU/impuestos"
+          },
+          "8k_detail": null,
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
         {
           "form": "4",
           "fecha": "2026-11-19",
@@ -254,32 +175,6 @@
             "footnotes": "Transaction made pursuant to Dr. Bhatia's company approved trading plan under Rule 10b5-1, which was entered into on 08/13/2026.",
             "es_rutinaria": true,
             "resumen_detail": "Bhatia Sangeeta N. (Director) → Venta 271 acciones @ $547.86 | Post: 4,653 | Rutinaria/RSU/impuestos"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-11-16",
-          "nivel": "amarillo",
-          "badge": "🟡 MEDIA",
-          "resumen": "WAGNER CHARLES F JR (EVP, CO & FO) → Venta 15,286 acciones @ $547.87 | Post: 31,764 | Rutinaria/RSU/impuestos",
-          "detalle": "FORM 4",
-          "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
-          "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000295/xslF345X06/wk-form4_1794864658.xml",
-          "form4_detail": {
-            "insider_nombre": "WAGNER CHARLES F JR",
-            "insider_cargo": "EVP, CO & FO",
-            "transaccion_codigo": "S",
-            "transaccion_tipo": "Venta",
-            "transaccion_acciones": "15286",
-            "transaccion_precio": "547.87",
-            "transaccion_fecha": "2026-11-12",
-            "acciones_post": "31764",
-            "footnotes": "Transaction made pursuant to Mr. Wagner's company approved trading plan under Rule 10b5-1, which was entered into on 8/10/2026.",
-            "es_rutinaria": true,
-            "resumen_detail": "WAGNER CHARLES F JR (EVP, CO & FO) → Venta 15,286 acciones @ $547.87 | Post: 31,764 | Rutinaria/RSU/impuestos"
           },
           "8k_detail": null,
           "10q_detail": null,
@@ -554,78 +449,10 @@
           "8k_detail": null,
           "10q_detail": null,
           "prospecto_detail": null
-        },
-        {
-          "form": "S-3",
-          "fecha": "2026-11-16",
-          "nivel": "rojo",
-          "badge": "🔴 ALTA",
-          "resumen": "Oferta asegurada (underwritten) · $300000000.0M · Dilución 🔴 ALTO",
-          "detalle": "S-3",
-          "empresa_sec": "Acrivon Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526463828/d185923ds3.htm",
-          "form4_detail": null,
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": {
-            "importe_mm": 300000000.0,
-            "tipo_oferta": "Oferta asegurada (underwritten)",
-            "riesgo_dilucion": "🔴 ALTO",
-            "resumen_oferta": "Oferta asegurada (underwritten) · $300000000.0M · Dilución 🔴 ALTO"
-          }
-        },
-        {
-          "form": "8-K",
-          "fecha": "2026-11-16",
-          "nivel": "azul",
-          "badge": "🔵 INFO",
-          "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
-          "detalle": "8-K",
-          "empresa_sec": "Acrivon Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526463444/acrv-20261116.htm",
-          "form4_detail": null,
-          "8k_detail": {
-            "items_detectados": [
-              "2.02",
-              "9.01"
-            ],
-            "clasificacion_item": null,
-            "extracto": "Item 2.02 Results of Operations and Financial Condition. On November 16, 2026, Acrivon Therapeutics, Inc., or the Company, issued a press release announcing its financial results for the quarter ended September 30, 2026, and providing business updates. A copy of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference. The information contained in this Item 2.02, including Exhibit 99.1, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any other filing with the Securities and Exchange Commission made by the Company, regardless of any general incorporation language in such filings. Item 9.01 Financial Statements and Exhibits. Exhibit Number Description 99.1 Press Release, dated November 16, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Acrivon Therapeutics, Inc. Date: November 16, 2026 By: /s/ Peter Blume-Jensen, M.D., Ph.D. Name: Peter Blume-Jensen, M.D., Ph.D. Title: President and Chief Executive Officer",
-            "nivel_ajustado": "azul",
-            "badge_ajustado": "🔵 INFO",
-            "resumen_ajustado": "8-K — Sin clasificación específica por Item"
-          },
-          "10q_detail": null,
-          "prospecto_detail": null
-        },
-        {
-          "form": "10-Q",
-          "fecha": "2026-11-16",
-          "nivel": "rojo",
-          "badge": "🔴 ALTA",
-          "resumen": "Shares: 42.9M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado",
-          "detalle": "10-Q",
-          "empresa_sec": "Acrivon Therapeutics, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526463419/acrv-20260930.htm",
-          "form4_detail": null,
-          "8k_detail": null,
-          "10q_detail": {
-            "caja_mm": null,
-            "burn_trimestral_mm": null,
-            "burn_mensual_mm": null,
-            "runway_meses": null,
-            "shares_outstanding_mm": 42.9,
-            "litigios_detectados": true,
-            "shelf_mencionado": true,
-            "going_concern": true,
-            "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 47,535 &#160; &#160; $ 41,499 &#160; Short-term investments &#160; &#160; 30,216 &#160; &#160; &#160; 77,083 &#160; Prepaid expenses and other current assets &#160; &#160; 1,329 &#160; &#160; &#160; 1,863 &#160; Total current assets &#160; &#160; 79,080 &#160; &#16",
-            "resumen_10q": "Shares: 42.9M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado"
-          },
-          "prospecto_detail": null
         }
       ],
-      "nivel": "rojo",
-      "badge": "🔴",
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "TARA": {
@@ -801,36 +628,10 @@
           "8k_detail": null,
           "10q_detail": null,
           "prospecto_detail": null
-        },
-        {
-          "form": "4",
-          "fecha": "2026-11-16",
-          "nivel": "verde",
-          "badge": "🟢 ALTA",
-          "resumen": "Insider BUY: ROEDER DOUGLAS A → Compra 17,041 acciones @ $10.32 | Post: 189,712",
-          "detalle": "xslF345X06/form4-11162026_041101.xml",
-          "empresa_sec": "Senseonics Holdings, Inc.",
-          "url": "https://www.sec.gov/Archives/edgar/data/1616543/000127073526000018/xslF345X06/form4-11162026_041101.xml",
-          "form4_detail": {
-            "insider_nombre": "ROEDER DOUGLAS A",
-            "insider_cargo": null,
-            "transaccion_codigo": "P",
-            "transaccion_tipo": "Compra",
-            "transaccion_acciones": "17040.7157",
-            "transaccion_precio": "10.32",
-            "transaccion_fecha": "2026-11-13",
-            "acciones_post": "189712",
-            "footnotes": "The price reported is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $10.23 to $10.3358 inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the range set forth in this footnote.",
-            "es_rutinaria": false,
-            "resumen_detail": "ROEDER DOUGLAS A → Compra 17,041 acciones @ $10.32 | Post: 189,712"
-          },
-          "8k_detail": null,
-          "10q_detail": null,
-          "prospecto_detail": null
         }
       ],
-      "nivel": "verde",
-      "badge": "🟢",
+      "nivel": "azul",
+      "badge": "🔵",
       "error": null
     },
     "INSM": {
@@ -840,6 +641,31 @@
       "origen_cik": "SEC company_tickers.json",
       "validacion_empresa": "OK",
       "filings": [
+        {
+          "form": "8-K",
+          "fecha": "2026-11-24",
+          "nivel": "amarillo",
+          "badge": "🟡 MEDIA",
+          "resumen": "8-K — Posible deuda/obligación financiera; revisar condiciones [Items: 1.01, 7.01, 9.01]",
+          "detalle": "8-K",
+          "empresa_sec": "INSMED Inc",
+          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126045364/ef20086426_8-k.htm",
+          "form4_detail": null,
+          "8k_detail": {
+            "items_detectados": [
+              "1.01",
+              "7.01",
+              "9.01"
+            ],
+            "clasificacion_item": null,
+            "extracto": "Item 1.01 Entry into a Material Definitive Agreement. Agreement and Plan of Merger On November 23, 2026, Insmed Incorporated (the Company or Insmed ) entered into an Agreement and Plan of Merger (the Merger Agreement ) with Sanofi, a French soci t anonyme ( Parent ), and Polaris Merger Sub, Inc., a Delaware corporation and a wholly owned subsidiary of Parent ( Merger Sub ). The Merger Agreement provides that, among other things and on the terms and subject to the conditions of the Merger Agreement, (1) Merger Sub will merge with and into the Company (the Merger ), with the Company surviving the Merger as a wholly owned subsidiary of Parent, and (2) at the effective time of the Merger (the Effective Time ), each issued and outstanding share of common stock of the Company, par value $0.01 per share (the Company Common Stock ) as of immediately prior to the Effective Time (other than any shares of Company Common Stock that are held by Parent or Merger Sub or by any direct or indirect wholly owned subsidiary of the Company, Parent or Merger Sub) will be converted into the right to receive $175.00 in cash, without interest and subject to any withholding of taxes (the Merger Consideration ). The Board of Directors of the Company has approved the Merger Agreement and the transactions contemplated thereby and resolved to recommend that the Company s shareholders approve the Merger Agreement and the related plan of merger. Treatment of Company Equity Awards At the Effective Time, (1) each stock option of the Company that is subject only to time-based vesting ( Company Option ) that",
+            "nivel_ajustado": "amarillo",
+            "badge_ajustado": "🟡 MEDIA",
+            "resumen_ajustado": "8-K — Posible deuda/obligación financiera; revisar condiciones"
+          },
+          "10q_detail": null,
+          "prospecto_detail": null
+        },
         {
           "form": "4",
           "fecha": "2026-11-20",
@@ -867,8 +693,8 @@
           "prospecto_detail": null
         }
       ],
-      "nivel": "azul",
-      "badge": "🔵",
+      "nivel": "amarillo",
+      "badge": "🟡",
       "error": null
     },
     "NWL": {
@@ -879,85 +705,63 @@
       "error": "Sin CIK SEC"
     }
   },
-  "alertas_criticas": [
-    {
-      "ticker": "ACRV",
-      "nombre": "Acrivon Therapeutics, Inc.",
-      "form": "S-3",
-      "fecha": "2026-11-16",
-      "nivel": "rojo",
-      "badge": "🔴 ALTA",
-      "resumen": "Oferta asegurada (underwritten) · $300000000.0M · Dilución 🔴 ALTO",
-      "detalle": "S-3",
-      "empresa_sec": "Acrivon Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526463828/d185923ds3.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": {
-        "importe_mm": 300000000.0,
-        "tipo_oferta": "Oferta asegurada (underwritten)",
-        "riesgo_dilucion": "🔴 ALTO",
-        "resumen_oferta": "Oferta asegurada (underwritten) · $300000000.0M · Dilución 🔴 ALTO"
-      }
-    },
-    {
-      "ticker": "ACRV",
-      "nombre": "Acrivon Therapeutics, Inc.",
-      "form": "10-Q",
-      "fecha": "2026-11-16",
-      "nivel": "rojo",
-      "badge": "🔴 ALTA",
-      "resumen": "Shares: 42.9M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado",
-      "detalle": "10-Q",
-      "empresa_sec": "Acrivon Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526463419/acrv-20260930.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": {
-        "caja_mm": null,
-        "burn_trimestral_mm": null,
-        "burn_mensual_mm": null,
-        "runway_meses": null,
-        "shares_outstanding_mm": 42.9,
-        "litigios_detectados": true,
-        "shelf_mencionado": true,
-        "going_concern": true,
-        "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 47,535 &#160; &#160; $ 41,499 &#160; Short-term investments &#160; &#160; 30,216 &#160; &#160; &#160; 77,083 &#160; Prepaid expenses and other current assets &#160; &#160; 1,329 &#160; &#160; &#160; 1,863 &#160; Total current assets &#160; &#160; 79,080 &#160; &#16",
-        "resumen_10q": "Shares: 42.9M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado"
-      },
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "SENS",
-      "nombre": "Senseonics Holdings, Inc.",
-      "form": "4",
-      "fecha": "2026-11-16",
-      "nivel": "verde",
-      "badge": "🟢 ALTA",
-      "resumen": "Insider BUY: ROEDER DOUGLAS A → Compra 17,041 acciones @ $10.32 | Post: 189,712",
-      "detalle": "xslF345X06/form4-11162026_041101.xml",
-      "empresa_sec": "Senseonics Holdings, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000127073526000018/xslF345X06/form4-11162026_041101.xml",
-      "form4_detail": {
-        "insider_nombre": "ROEDER DOUGLAS A",
-        "insider_cargo": null,
-        "transaccion_codigo": "P",
-        "transaccion_tipo": "Compra",
-        "transaccion_acciones": "17040.7157",
-        "transaccion_precio": "10.32",
-        "transaccion_fecha": "2026-11-13",
-        "acciones_post": "189712",
-        "footnotes": "The price reported is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $10.23 to $10.3358 inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the range set forth in this footnote.",
-        "es_rutinaria": false,
-        "resumen_detail": "ROEDER DOUGLAS A → Compra 17,041 acciones @ $10.32 | Post: 189,712"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    }
-  ],
+  "alertas_criticas": [],
   "todos_filings": [
+    {
+      "ticker": "INSM",
+      "nombre": "INSMED Inc",
+      "form": "8-K",
+      "fecha": "2026-11-24",
+      "nivel": "amarillo",
+      "badge": "🟡 MEDIA",
+      "resumen": "8-K — Posible deuda/obligación financiera; revisar condiciones [Items: 1.01, 7.01, 9.01]",
+      "detalle": "8-K",
+      "empresa_sec": "INSMED Inc",
+      "url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126045364/ef20086426_8-k.htm",
+      "form4_detail": null,
+      "8k_detail": {
+        "items_detectados": [
+          "1.01",
+          "7.01",
+          "9.01"
+        ],
+        "clasificacion_item": null,
+        "extracto": "Item 1.01 Entry into a Material Definitive Agreement. Agreement and Plan of Merger On November 23, 2026, Insmed Incorporated (the Company or Insmed ) entered into an Agreement and Plan of Merger (the Merger Agreement ) with Sanofi, a French soci t anonyme ( Parent ), and Polaris Merger Sub, Inc., a Delaware corporation and a wholly owned subsidiary of Parent ( Merger Sub ). The Merger Agreement provides that, among other things and on the terms and subject to the conditions of the Merger Agreement, (1) Merger Sub will merge with and into the Company (the Merger ), with the Company surviving the Merger as a wholly owned subsidiary of Parent, and (2) at the effective time of the Merger (the Effective Time ), each issued and outstanding share of common stock of the Company, par value $0.01 per share (the Company Common Stock ) as of immediately prior to the Effective Time (other than any shares of Company Common Stock that are held by Parent or Merger Sub or by any direct or indirect wholly owned subsidiary of the Company, Parent or Merger Sub) will be converted into the right to receive $175.00 in cash, without interest and subject to any withholding of taxes (the Merger Consideration ). The Board of Directors of the Company has approved the Merger Agreement and the transactions contemplated thereby and resolved to recommend that the Company s shareholders approve the Merger Agreement and the related plan of merger. Treatment of Company Equity Awards At the Effective Time, (1) each stock option of the Company that is subject only to time-based vesting ( Company Option ) that",
+        "nivel_ajustado": "amarillo",
+        "badge_ajustado": "🟡 MEDIA",
+        "resumen_ajustado": "8-K — Posible deuda/obligación financiera; revisar condiciones"
+      },
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
+    {
+      "ticker": "DNLI",
+      "nombre": "Denali Therapeutics Inc.",
+      "form": "4",
+      "fecha": "2026-11-23",
+      "nivel": "azul",
+      "badge": "🔵 INFO",
+      "resumen": "Krognes Steve E. (Director) → Ejercicio opción 125,000 acciones @ $5.28 | Post: 163,202 | Rutinaria/RSU/impuestos",
+      "detalle": "FORM 4",
+      "empresa_sec": "Denali Therapeutics Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1714899/000166623626000026/xslF345X06/wk-form4_1795471810.xml",
+      "form4_detail": {
+        "insider_nombre": "Krognes Steve E.",
+        "insider_cargo": "Director",
+        "transaccion_codigo": "M",
+        "transaccion_tipo": "Ejercicio opción",
+        "transaccion_acciones": "125000",
+        "transaccion_precio": "5.28",
+        "transaccion_fecha": "2026-11-19",
+        "acciones_post": "163202",
+        "footnotes": "Includes 6,408 Unvested RSUs. The shares are held of record by The Steve Edward Krognes Revocable Trust U/A DTD 01/25/2016, for which the Reporting Person serves as trustee. 25% of the shares subject to the option vested on March 8, 2018 and an additional 1/48 of the shares vest monthly thereafter.",
+        "es_rutinaria": true,
+        "resumen_detail": "Krognes Steve E. (Director) → Ejercicio opción 125,000 acciones @ $5.28 | Post: 163,202 | Rutinaria/RSU/impuestos"
+      },
+      "8k_detail": null,
+      "10q_detail": null,
+      "prospecto_detail": null
+    },
     {
       "ticker": "ACRV",
       "nombre": "Acrivon Therapeutics, Inc.",
@@ -1427,248 +1231,6 @@
         "footnotes": "Represents shares automatically withheld by the Company to satisfy tax withholding obligations arising upon the vesting of restricted stock units. This does not represent a sale of shares by the Reporting Person into the market.",
         "es_rutinaria": true,
         "resumen_detail": "Goodnow Timothy T (President and CEO) → Retención impuestos 61,198 acciones @ $10.58 | Post: 1,082,550 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "DYN",
-      "nombre": "Dyne Therapeutics, Inc.",
-      "form": "4",
-      "fecha": "2026-11-16",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Friedl-Naderer Johanna (Chief Commercial Officer) → Venta 231 acciones @ $16.82 | Post: 152,666 | Rutinaria/RSU/impuestos",
-      "detalle": "4",
-      "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000191559826000007/xslF345X06/ownership.xml",
-      "form4_detail": {
-        "insider_nombre": "Friedl-Naderer Johanna",
-        "insider_cargo": "Chief Commercial Officer",
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "231",
-        "transaccion_precio": "16.82",
-        "transaccion_fecha": "2026-11-13",
-        "acciones_post": "152666",
-        "footnotes": "Represents shares automatically sold by the Reporting Person to satisfy tax withholding obligations in connection with the vesting of restricted stock units granted to the Reporting Person on February 12, 2026. The automatic sale of the Reporting Person's shares is provided for in a restricted stock unit agreement constituting a \"binding contract\" consistent with the affirmative defense to liability under Rule 10b5-1 and the sale does not represent a discretionary trade by the Reporting Person. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices within the range of $16.50 to $17.02, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote of this Form 4. Includes 99,216 unvested RSUs.",
-        "es_rutinaria": true,
-        "resumen_detail": "Friedl-Naderer Johanna (Chief Commercial Officer) → Venta 231 acciones @ $16.82 | Post: 152,666 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "DYN",
-      "nombre": "Dyne Therapeutics, Inc.",
-      "form": "4",
-      "fecha": "2026-11-16",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Kerr Douglas (Head of R&D and CMO) → Venta 2,604 acciones @ $16.82 | Post: 167,960 | Rutinaria/RSU/impuestos",
-      "detalle": "4",
-      "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000181418926000009/xslF345X06/ownership.xml",
-      "form4_detail": {
-        "insider_nombre": "Kerr Douglas",
-        "insider_cargo": "Head of R&D and CMO",
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "2604",
-        "transaccion_precio": "16.82",
-        "transaccion_fecha": "2026-11-13",
-        "acciones_post": "167960",
-        "footnotes": "Represents shares automatically sold by the Reporting Person to satisfy tax withholding obligations in connection with the vesting of restricted stock units granted to the Reporting Person on February 12, 2026. The automatic sale of the Reporting Person's shares is provided for in a restricted stock unit agreement constituting a \"binding contract\" consistent with the affirmative defense to liability under Rule 10b5-1 and the sale does not represent a discretionary trade by the Reporting Person. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices within the range of $16.50 to $17.03, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote of this Form 4. Includes 127,814 unvested RSUs.",
-        "es_rutinaria": true,
-        "resumen_detail": "Kerr Douglas (Head of R&D and CMO) → Venta 2,604 acciones @ $16.82 | Post: 167,960 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "DYN",
-      "nombre": "Dyne Therapeutics, Inc.",
-      "form": "4",
-      "fecha": "2026-11-16",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Cox John (CEO & President) → Venta 5,513 acciones @ $16.82 | Post: 351,994 | Rutinaria/RSU/impuestos",
-      "detalle": "4",
-      "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000149842826000007/xslF345X06/ownership.xml",
-      "form4_detail": {
-        "insider_nombre": "Cox John",
-        "insider_cargo": "CEO & President",
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "5513",
-        "transaccion_precio": "16.82",
-        "transaccion_fecha": "2026-11-13",
-        "acciones_post": "351994",
-        "footnotes": "Represents shares automatically sold by the Reporting Person to satisfy tax withholding obligations in connection with the vesting of restricted stock units granted to the Reporting Person on February 12, 2026. The automatic sale of the Reporting Person's shares is provided for in a restricted stock unit agreement constituting a \"binding contract\" consistent with the affirmative defense to liability under Rule 10b5-1 and the sale does not represent a discretionary trade by the Reporting Person. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices within the range of $16.50 to $17.02, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote of this Form 4. Includes 227,983 unvested RSUs. These shares are held in a trust for the benefit of a child of the Reporting Person.",
-        "es_rutinaria": true,
-        "resumen_detail": "Cox John (CEO & President) → Venta 5,513 acciones @ $16.82 | Post: 351,994 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "DYN",
-      "nombre": "Dyne Therapeutics, Inc.",
-      "form": "4",
-      "fecha": "2026-11-16",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "Lucera Erick (Chief Financial Officer) → Venta 1,991 acciones @ $16.82 | Post: 117,775 | Rutinaria/RSU/impuestos",
-      "detalle": "4",
-      "empresa_sec": "Dyne Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1818794/000169761626000004/xslF345X06/ownership.xml",
-      "form4_detail": {
-        "insider_nombre": "Lucera Erick",
-        "insider_cargo": "Chief Financial Officer",
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "1991",
-        "transaccion_precio": "16.82",
-        "transaccion_fecha": "2026-11-13",
-        "acciones_post": "117775",
-        "footnotes": "Represents shares automatically sold by the Reporting Person to satisfy tax withholding obligations in connection with the vesting of restricted stock units granted to the Reporting Person on February 12, 2026. The automatic sale of the Reporting Person's shares is provided for in a restricted stock unit agreement constituting a \"binding contract\" consistent with the affirmative defense to liability under Rule 10b5-1 and the sale does not represent a discretionary trade by the Reporting Person. The price reported in Column 4 is a weighted average price. These shares were sold in multiple transactions at prices within the range of $16.50 to $17.02, inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares sold at each separate price within the range set forth in this footnote of this Form 4. Includes 102,389 unvested RSUs.",
-        "es_rutinaria": true,
-        "resumen_detail": "Lucera Erick (Chief Financial Officer) → Venta 1,991 acciones @ $16.82 | Post: 117,775 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "VRTX",
-      "nombre": "VERTEX PHARMACEUTICALS INC / MA",
-      "form": "4",
-      "fecha": "2026-11-16",
-      "nivel": "amarillo",
-      "badge": "🟡 MEDIA",
-      "resumen": "WAGNER CHARLES F JR (EVP, CO & FO) → Venta 15,286 acciones @ $547.87 | Post: 31,764 | Rutinaria/RSU/impuestos",
-      "detalle": "FORM 4",
-      "empresa_sec": "VERTEX PHARMACEUTICALS INC / MA",
-      "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000295/xslF345X06/wk-form4_1794864658.xml",
-      "form4_detail": {
-        "insider_nombre": "WAGNER CHARLES F JR",
-        "insider_cargo": "EVP, CO & FO",
-        "transaccion_codigo": "S",
-        "transaccion_tipo": "Venta",
-        "transaccion_acciones": "15286",
-        "transaccion_precio": "547.87",
-        "transaccion_fecha": "2026-11-12",
-        "acciones_post": "31764",
-        "footnotes": "Transaction made pursuant to Mr. Wagner's company approved trading plan under Rule 10b5-1, which was entered into on 8/10/2026.",
-        "es_rutinaria": true,
-        "resumen_detail": "WAGNER CHARLES F JR (EVP, CO & FO) → Venta 15,286 acciones @ $547.87 | Post: 31,764 | Rutinaria/RSU/impuestos"
-      },
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "ACRV",
-      "nombre": "Acrivon Therapeutics, Inc.",
-      "form": "S-3",
-      "fecha": "2026-11-16",
-      "nivel": "rojo",
-      "badge": "🔴 ALTA",
-      "resumen": "Oferta asegurada (underwritten) · $300000000.0M · Dilución 🔴 ALTO",
-      "detalle": "S-3",
-      "empresa_sec": "Acrivon Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526463828/d185923ds3.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": null,
-      "prospecto_detail": {
-        "importe_mm": 300000000.0,
-        "tipo_oferta": "Oferta asegurada (underwritten)",
-        "riesgo_dilucion": "🔴 ALTO",
-        "resumen_oferta": "Oferta asegurada (underwritten) · $300000000.0M · Dilución 🔴 ALTO"
-      }
-    },
-    {
-      "ticker": "ACRV",
-      "nombre": "Acrivon Therapeutics, Inc.",
-      "form": "8-K",
-      "fecha": "2026-11-16",
-      "nivel": "azul",
-      "badge": "🔵 INFO",
-      "resumen": "8-K — Sin clasificación específica por Item [Items: 2.02, 9.01]",
-      "detalle": "8-K",
-      "empresa_sec": "Acrivon Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526463444/acrv-20261116.htm",
-      "form4_detail": null,
-      "8k_detail": {
-        "items_detectados": [
-          "2.02",
-          "9.01"
-        ],
-        "clasificacion_item": null,
-        "extracto": "Item 2.02 Results of Operations and Financial Condition. On November 16, 2026, Acrivon Therapeutics, Inc., or the Company, issued a press release announcing its financial results for the quarter ended September 30, 2026, and providing business updates. A copy of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference. The information contained in this Item 2.02, including Exhibit 99.1, shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any other filing with the Securities and Exchange Commission made by the Company, regardless of any general incorporation language in such filings. Item 9.01 Financial Statements and Exhibits. Exhibit Number Description 99.1 Press Release, dated November 16, 2026 104 Cover Page Interactive Data File (embedded within the Inline XBRL document) SIGNATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. Acrivon Therapeutics, Inc. Date: November 16, 2026 By: /s/ Peter Blume-Jensen, M.D., Ph.D. Name: Peter Blume-Jensen, M.D., Ph.D. Title: President and Chief Executive Officer",
-        "nivel_ajustado": "azul",
-        "badge_ajustado": "🔵 INFO",
-        "resumen_ajustado": "8-K — Sin clasificación específica por Item"
-      },
-      "10q_detail": null,
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "ACRV",
-      "nombre": "Acrivon Therapeutics, Inc.",
-      "form": "10-Q",
-      "fecha": "2026-11-16",
-      "nivel": "rojo",
-      "badge": "🔴 ALTA",
-      "resumen": "Shares: 42.9M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado",
-      "detalle": "10-Q",
-      "empresa_sec": "Acrivon Therapeutics, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1781174/000119312526463419/acrv-20260930.htm",
-      "form4_detail": null,
-      "8k_detail": null,
-      "10q_detail": {
-        "caja_mm": null,
-        "burn_trimestral_mm": null,
-        "burn_mensual_mm": null,
-        "runway_meses": null,
-        "shares_outstanding_mm": 42.9,
-        "litigios_detectados": true,
-        "shelf_mencionado": true,
-        "going_concern": true,
-        "extracto_financiero": "assets: &#160; &#160; &#160; &#160; &#160; &#160; Cash and cash equivalents &#160; $ 47,535 &#160; &#160; $ 41,499 &#160; Short-term investments &#160; &#160; 30,216 &#160; &#160; &#160; 77,083 &#160; Prepaid expenses and other current assets &#160; &#160; 1,329 &#160; &#160; &#160; 1,863 &#160; Total current assets &#160; &#160; 79,080 &#160; &#16",
-        "resumen_10q": "Shares: 42.9M · ⚠️ GOING CONCERN · ⚖️ Litigios activos · 📋 Shelf mencionado"
-      },
-      "prospecto_detail": null
-    },
-    {
-      "ticker": "SENS",
-      "nombre": "Senseonics Holdings, Inc.",
-      "form": "4",
-      "fecha": "2026-11-16",
-      "nivel": "verde",
-      "badge": "🟢 ALTA",
-      "resumen": "Insider BUY: ROEDER DOUGLAS A → Compra 17,041 acciones @ $10.32 | Post: 189,712",
-      "detalle": "xslF345X06/form4-11162026_041101.xml",
-      "empresa_sec": "Senseonics Holdings, Inc.",
-      "url": "https://www.sec.gov/Archives/edgar/data/1616543/000127073526000018/xslF345X06/form4-11162026_041101.xml",
-      "form4_detail": {
-        "insider_nombre": "ROEDER DOUGLAS A",
-        "insider_cargo": null,
-        "transaccion_codigo": "P",
-        "transaccion_tipo": "Compra",
-        "transaccion_acciones": "17040.7157",
-        "transaccion_precio": "10.32",
-        "transaccion_fecha": "2026-11-13",
-        "acciones_post": "189712",
-        "footnotes": "The price reported is a weighted average price. These shares were purchased in multiple transactions at prices ranging from $10.23 to $10.3358 inclusive. The Reporting Person undertakes to provide to the Issuer, any security holder of the Issuer, or the staff of the Securities and Exchange Commission, upon request, full information regarding the number of shares purchased at each separate price within the range set forth in this footnote.",
-        "es_rutinaria": false,
-        "resumen_detail": "ROEDER DOUGLAS A → Compra 17,041 acciones @ $10.32 | Post: 189,712"
       },
       "8k_detail": null,
       "10q_detail": null,

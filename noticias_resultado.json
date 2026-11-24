@@ -1,8 +1,8 @@
 {
-  "generado": "23/11/2026 19:11 UTC",
+  "generado": "24/11/2026 18:50 UTC",
   "plazo_horas": 72,
-  "desde": "2026-11-20",
-  "hasta": "2026-11-23",
+  "desde": "2026-11-21",
+  "hasta": "2026-11-24",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
@@ -30,22 +30,10 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
-        {
-          "ticker": "SNDX",
-          "titulo": "Syndax Pharmaceuticals (SNDX) Stock Sees Fair Value Cut After Axatilimab Trial Miss",
-          "resumen": "The recent update on Syndax Pharmaceuticals centers on a trimmed Fair Value estimate, which has moved from US$37.27 to US$34.00, an adjusted price target that reflects a decline of about 8.8%. Street research links this shift to how analysts are weighing the missed primary endpoint in the Phase 2 ax",
-          "fuente": "Yahoo",
-          "fecha": "21 Nov 2026 03:11 UTC",
-          "url": "https://finnhub.io/api/news?id=61ffa14d14683385aaff9b7c27313f5ecc65bca3512110eda486d3ea393feddd",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 2
     },
     "ARGX": {
       "nombre": "ARGX",
@@ -68,22 +56,9 @@
     },
     "DYN": {
       "nombre": "DYN",
-      "noticias": [
-        {
-          "ticker": "DYN",
-          "titulo": "Is Dyne Therapeutics (DYN) Trading At A Discount To Future Cash Flow?",
-          "resumen": "Dyne Therapeutics has seen its share price pull back over the past year after a strong multi year climb, which puts a spotlight on whether the current US$15.50 level lines up with what its cash flows can support. For investors, the key issue is how that market journey compares with what a discounted",
-          "fuente": "Yahoo",
-          "fecha": "21 Nov 2026 09:16 UTC",
-          "url": "https://finnhub.io/api/news?id=1ba0d3991de79b7fbb602e7af9323fa2252e209a941f372511c130da432c9409",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "DNLI": {
       "nombre": "DNLI",
@@ -106,44 +81,14 @@
     },
     "VKTX": {
       "nombre": "VKTX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
-    },
-    "VRTX": {
-      "nombre": "VRTX",
       "noticias": [
         {
-          "ticker": "VRTX",
-          "titulo": "Eli Lilly vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy for 2027?",
-          "resumen": "Eli Lilly's obesity and diabetes sales have surged, while Vertex's cystic fibrosis franchise follows a very different growth path; the valuation gap may settle the debate.",
+          "ticker": "VKTX",
+          "titulo": "Viking Therapeutics (VKTX) Stock Is Up 11.5% Today Without Company News",
+          "resumen": "On Monday, Nov. 23, shares rose 11.5% by 12:30 p.m. ET without company-specific news, as the S&P 500 gained 5.0%.",
           "fuente": "Yahoo",
-          "fecha": "23 Nov 2026 16:01 UTC",
-          "url": "https://finnhub.io/api/news?id=13634bb33accdd11269f64502547d0b51b5b86b9dfa97524644ddb83dd3e0b99",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "4 Biotech Stocks With Solid Balance Sheets and Financial Strength",
-          "resumen": "REGN, VRTX, UTHR and INCY stand out for strong cash reserves, low debt and healthy cash flows, supporting pipeline investments and multiple growth opportunities.",
-          "fuente": "Yahoo",
-          "fecha": "23 Nov 2026 15:46 UTC",
-          "url": "https://finnhub.io/api/news?id=3fa744ae72828b405c37b4889c6fdbb8c6a532a155db7be91adfc417084da6a7",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vertex’s executive chairman: Here’s how we got our drug-trial success rate over 70% when the industry’s is 10% to 20%",
-          "resumen": "More bets don’t necessarily produce more successes",
-          "fuente": "Yahoo",
-          "fecha": "22 Nov 2026 13:30 UTC",
-          "url": "https://finnhub.io/api/news?id=285214f9dba309dbaa3f945b6632e58dcb8f54f487eb1a977401ba9e8d174904",
+          "fecha": "23 Nov 2026 17:31 UTC",
+          "url": "https://finnhub.io/api/news?id=b6cb1a1e6a23855757f470577c6e3798f1642e46fbceeff6023d97959098b7cc",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -151,7 +96,74 @@
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 1
+    },
+    "VRTX": {
+      "nombre": "VRTX",
+      "noticias": [
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex Pharmaceuticals Incorporated (VRTX) Is a Trending Stock: Facts to Know Before Betting on It",
+          "resumen": "Vertex (VRTX) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+          "fuente": "Yahoo",
+          "fecha": "24 Nov 2026 13:00 UTC",
+          "url": "https://finnhub.io/api/news?id=da276405d194ea498a06ce59004383554e6d605c6dd441deabcbd5a8d49d8eb9",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Jim Cramer: Vertex Pharmaceuticals Is ‘Sensational’, Recommends Buying This Tech Stock",
+          "resumen": "Jim Cramer favors Applied Materials and biotech leaders Vertex, Amgen and Regeneron, but says Robinhood is overpriced and should retreat.",
+          "fuente": "Benzinga",
+          "fecha": "24 Nov 2026 09:09 UTC",
+          "url": "https://finnhub.io/api/news?id=4293121d75ba56dc7ed22febc9e0a593ef2777fcacad2560f1e40490001415bf",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/24/Jim-Cramer--AI-Is-Bigger-Than-Rate-Cuts.jpg?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Vertex Pharmaceuticals: Good Growth Potential, But Valuation Calls For Holding",
+          "resumen": "",
+          "fuente": "SeekingAlpha",
+          "fecha": "24 Nov 2026 01:16 UTC",
+          "url": "https://finnhub.io/api/news?id=7116cb617cf301daaefabf3e763141358692b1ef9dd84df06a9cd34a8eac61d7",
+          "imagen": "",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Lightning Round: Robinhood is too high right now, says Jim Cramer",
+          "resumen": "'Mad Money' host Jim Cramer weighs in on stocks including: Applied Materials, Vertex, and Robinhood.",
+          "fuente": "CNBC",
+          "fecha": "23 Nov 2026 20:15 UTC",
+          "url": "https://finnhub.io/api/news?id=c8cfb0edb38b3479597d2c1aa4025c662456d3423a815beb10d7f09dcdaf84da",
+          "imagen": "https://image.cnbcfm.com/api/v1/image/108557993-1795482229870-1795480275620-2ED3-MM-E-BLOCK-112326.jpg?v=1795482231&w=1920&h=1080",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Cramer's lightning round: Buy Applied Materials",
+          "resumen": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
+          "fuente": "CNBC",
+          "fecha": "23 Nov 2026 18:55 UTC",
+          "url": "https://finnhub.io/api/news?id=9b537ea429f1e5ca4e45d1cece6a93ab238cda218fa044c5a444a4c64ecbe195",
+          "imagen": "https://image.cnbcfm.com/api/v1/image/102079128-1539342565979105501689.jpg?v=1698448473&w=1920&h=1080",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 5
     },
     "ALNY": {
       "nombre": "ALNY",
@@ -179,38 +191,26 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Alnylam Pharmaceuticals (NASDAQ:ALNY) Screens as a Balanced Affordable Growth Candidate",
-          "resumen": "ALNY is an affordable growth biotech with strong revenue and EPS expansion, a low P/E versus peers, and adequate financial health and profitability.",
-          "fuente": "ChartMill",
-          "fecha": "21 Nov 2026 12:21 UTC",
-          "url": "https://finnhub.io/api/news?id=ebd1c8bab4eefaa8660080fcfc5f16b5b602658c1b4f2b0b7d3e4e2d19893379",
-          "imagen": "https://www.chartmill.com/images/uploads/Affordable_Growth_500_264px_webp_add6a3aa59.webp",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "ALNY",
-          "titulo": "Alnylam Pharmaceuticals Expands Sales Force to Accelerate AMVUTTRA Demand",
-          "resumen": "Alnylam Pharmaceuticals (NASDAQ:ALNY) is expanding its sales force and working to reach more physicians as it seeks to accelerate demand for AMVUTTRA in transthyretin amyloid cardiomyopathy, or ATTR-CM, executives said at the Jefferies Global Healthcare Conference in London. CEO Yvonne Greenstreet",
-          "fuente": "Yahoo",
-          "fecha": "20 Nov 2026 20:12 UTC",
-          "url": "https://finnhub.io/api/news?id=2c7e16085cd5334635094c6b8d91f2c294058969849ca8394eca256c84d2fde2",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
-      "total": 4
+      "total": 2
     },
     "BEAM": {
       "nombre": "BEAM",
       "noticias": [
+        {
+          "ticker": "BEAM",
+          "titulo": "Beam Therapeutics Targets December Sickle Cell Filing as Alpha-1 Trial Advances",
+          "resumen": "Beam Therapeutics (NASDAQ:BEAM) is preparing a potential December application for its sickle cell therapy while advancing a 50-patient study of its gene-editing treatment for alpha-1 antitrypsin deficiency, executives said during a Jefferies fireside chat. CEO John Evans said Beam expects to admini",
+          "fuente": "Yahoo",
+          "fecha": "24 Nov 2026 01:13 UTC",
+          "url": "https://finnhub.io/api/news?id=7ae3e8560563c4bd84b3d91bdce74e23563dfde70f9de80adf986af2a1780c6f",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "BEAM",
           "titulo": "Tracking Cathie Wood's ARK Invest 13F Portfolio - Q3 2026 Update",
@@ -224,8 +224,8 @@
           "badge": "🔵"
         }
       ],
-      "nivel": "azul",
-      "total": 1
+      "nivel": "rojo",
+      "total": 2
     },
     "OCUL": {
       "nombre": "OCUL",
@@ -248,9 +248,22 @@
     },
     "CAI": {
       "nombre": "CAI",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "CAI",
+          "titulo": "Record Volume, Thinner Margins: The Tension at Caris Life Sciences (CAI)",
+          "resumen": "We just published a list of the 10 Stocks Stanley Druckenmiller Just Dumped—and What His Big Exit Signals Next and Caris Life Sciences (NASDAQ:CAI) ranked 10th on this list. On November 16, 2026, Stanley Druckenmiller’s family office filed its third-quarter 13F, and the numbers show a portfolio that",
+          "fuente": "Yahoo",
+          "fecha": "23 Nov 2026 15:19 UTC",
+          "url": "https://finnhub.io/api/news?id=9dfe631e950cd385fa1e0cfd8e306ac0af9312b35909f113ef78ec03dcb05442",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        }
+      ],
+      "nivel": "azul",
+      "total": 1
     },
     "GPCR": {
       "nombre": "GPCR",
@@ -276,6 +289,18 @@
       "noticias": [
         {
           "ticker": "ABVX",
+          "titulo": "Abivax’s Short-Seller Fight Is Really a Bet on One Drug",
+          "resumen": "Abivax shares rebounded after the French biotech rejected a short-seller attack on obefazimod, its experimental bowel-disease treatment.",
+          "fuente": "Yahoo",
+          "fecha": "23 Nov 2026 15:28 UTC",
+          "url": "https://finnhub.io/api/news?id=1478a3a5eecb00b803f73d4451e815c1e37790a072159e0cd136e0564c90728f",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "ABVX",
           "titulo": "Abivax stock surges after rejecting short seller claims",
           "resumen": "Investing.com -- Abivax SA shares rose more than 8% Monday after the company rejected allegations made in a short seller report published last week. The report sent Abivax shares tumbling more than 17% on Friday.",
           "fuente": "Yahoo",
@@ -297,52 +322,29 @@
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
-        },
+        }
+      ],
+      "nivel": "rojo",
+      "total": 3
+    },
+    "VERA": {
+      "nombre": "VERA",
+      "noticias": [
         {
-          "ticker": "ABVX",
-          "titulo": "Is ABIVAX Société Anonyme (ENXTPA:ABVX) A Bargain On Short Seller Claims?",
-          "resumen": "ABIVAX Société Anonyme (ENXTPA:ABVX) is back in the spotlight after a sharp 11% share price drop, following a critical short seller report that targets its lead drug candidate, obefazimod, as well as its broader governance practices. For ABIVAX Société Anonyme, the short seller report has landed on ",
+          "ticker": "VERA",
+          "titulo": "Vera Therapeutics to Participate at Upcoming Investor Conferences",
+          "resumen": "BRISBANE, Calif., Nov. 23, 2026 (GLOBE NEWSWIRE) -- Vera Therapeutics, Inc. (Nasdaq: VERA), a commercial-stage biotechnology company, today announced that the Company’s management team will present and participate in one-on-one meetings at upcoming investor conferences. Investor Conference Details: ",
           "fuente": "Yahoo",
-          "fecha": "21 Nov 2026 12:16 UTC",
-          "url": "https://finnhub.io/api/news?id=51b58c0edc0a9f45c176e30339da34ddc5d139fe37153419a7014772216d3793",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ABVX",
-          "titulo": "Abivax (ENXTPA:ABVX) Stock Could Be A Bargain On Cash Flow",
-          "resumen": "ABIVAX Société Anonyme has given shareholders a very large gain over the past few years, yet the share price has fallen sharply in recent months, which naturally puts the focus on what the current valuation says about its cash flows. With the stock recently closing at €63.00, the key issue is whethe",
-          "fuente": "Yahoo",
-          "fecha": "21 Nov 2026 11:11 UTC",
-          "url": "https://finnhub.io/api/news?id=872266fc48fdb93bf401096946ff7cae6717375c995770cd4e77bcb62cfbf822",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "ABVX",
-          "titulo": "A $5.5 Billion Fund Dumps These 3 Stocks",
-          "resumen": "Key TakeawaysVestal Point Capital, a firm managing $5. 47 billion, held none of its Abbott Laboratories, Revolution Medicines or BioCryst Pharmaceuticals shares by Sept.",
-          "fuente": "Yahoo",
-          "fecha": "21 Nov 2026 10:43 UTC",
-          "url": "https://finnhub.io/api/news?id=b581996b61b53b1603b79364671e2b76cbc6e64c538b8fba03e4df008266fd75",
+          "fecha": "23 Nov 2026 21:30 UTC",
+          "url": "https://finnhub.io/api/news?id=32bd3ed8190e944f27c9fdf354a33a7f3ec4d3b38e253a2c4e0d189032fdb48f",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
         }
       ],
-      "nivel": "rojo",
-      "total": 5
-    },
-    "VERA": {
-      "nombre": "VERA",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "nivel": "azul",
+      "total": 1
     },
     "ACRV": {
       "nombre": "ACRV",
@@ -367,100 +369,76 @@
       "noticias": [
         {
           "ticker": "INSM",
-          "titulo": "Insmed's Stock Rises 21% on Reports of Buyout Interest From Sanofi",
-          "resumen": "INSM's stock jumps on reported buyout interest from Sanofi, as its marketed respiratory drugs and late-stage pipeline strengthen its strategic appeal.",
-          "fuente": "Yahoo",
-          "fecha": "23 Nov 2026 07:13 UTC",
-          "url": "https://finnhub.io/api/news?id=3552eb114ba23de3bfb415ef9cbe9f55b82ff83ba1b1fda7dd757222dbdc8db1",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "Insmed Inc. (INSM) is Giving Investors More to Celebrate",
-          "resumen": "Insmed Inc. (NASDAQ:INSM) is one of the 10 Stocks Showing Remarkable Resilience in a Volatile Market. Shares of Insmed Inc. (NASDAQ: INSM) rallied by 16.6 percent week-on-week, defying a broader market bloodbath, as investors gobbled up shares following reports that France-based Sanofi SA is plannin",
-          "fuente": "Yahoo",
-          "fecha": "23 Nov 2026 04:44 UTC",
-          "url": "https://finnhub.io/api/news?id=ce1598d46b708a3f8779f5a096557e4ccc0a22e905318cb6b5bf17690f8abf97",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "Insmed: Maintaining Strong Buy On Commercial Execution And Takeover Interest",
-          "resumen": "Analyst rates Insmed Incorporated a Strong Buy as Q3 BRINSUPRI sales reach $400.1 million and 2026 revenue guidance rises to $1.35 billion-$1.4 billion.",
+          "titulo": "What Sanofi Is Getting Through The Acquisition Of Insmed",
+          "resumen": "Sanofiâs $41 billion acquisition of Insmed is a good strategic fit, diversifying revenue and reducing dependence on Dupixent.",
           "fuente": "SeekingAlpha",
-          "fecha": "20 Nov 2026 19:31 UTC",
-          "url": "https://finnhub.io/api/news?id=95ad405639172fa13bc38470d5c298045f161aabca3954d8ba4e22c92ef8072c",
-          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2304045411/image_2304045411.jpg?io=getty-c-og",
+          "fecha": "24 Nov 2026 11:25 UTC",
+          "url": "https://finnhub.io/api/news?id=266458cc261dd04908510baa0ba128c0de3e0743f3eeefe8d9ab1bde61c9be9c",
+          "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1994989530/image_1994989530.jpg?io=getty-c-og",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Fall After Scott Bessent Unveils Fresh Iran Sanctions, Hormuz Warnings— HPE, SMTC, DELL in Focus (UPDATED)",
+          "resumen": "U.S. stocks fell on Tuesday, as the Dow Jones, S&amp;P 500, and Nasdaq 100 index futures declined, following Monday&#39;s higher close.",
+          "fuente": "Benzinga",
+          "fecha": "24 Nov 2026 09:22 UTC",
+          "url": "https://finnhub.io/api/news?id=fef572c7729a49f4591667faad3fba00ccbb75c8c54cd61b416c6807eac34d91",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/24/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "Sanofi Fuels Long-Term Growth Ambitions With Massive $41 Billion Insmed Acquisition",
+          "resumen": "Sanofi agrees to acquire Insmed for $41 billion in cash, expanding its respiratory disease portfolio.",
+          "fuente": "Benzinga",
+          "fecha": "24 Nov 2026 09:01 UTC",
+          "url": "https://finnhub.io/api/news?id=31dccac2007849ab736b40db56b202b8a5dcd194edde9bdc1c98ff56b5038bdb",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/24/Washington--United-States---Sep-30--2021.jpg?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "12 Health Care Stocks Moving In Tuesday's Pre-Market Session",
+          "resumen": "Gainers\n\nApimeds Pharmaceuticals (AMEX:APUS) shares increased by 39.9% to $2.1 during Tuesday&#39;s pre-market session. The market value of their outstanding shares is at $2.7 million. \nAkanda (NASDAQ:AKAN) stock rose",
+          "fuente": "Benzinga",
+          "fecha": "24 Nov 2026 08:05 UTC",
+          "url": "https://finnhub.io/api/news?id=d4fdb505f99d950d817e4a7ce237437544999c10e903476875ba5f58de9ff665",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_1.jpg?width=2048&height=1536",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "Press Release: Sanofi to acquire Insmed in strategic step that strengthens long-term future",
+          "resumen": "Sanofi to acquire Insmed in strategic step that strengthens long-term future Insmed is a transformative acquisition providing strong strategic fit that complements Sanofi's immunology and rare disease portfolioSanofi will gain access to two first-in-disease commercialized products and pipeline asset",
+          "fuente": "Yahoo",
+          "fecha": "24 Nov 2026 06:30 UTC",
+          "url": "https://finnhub.io/api/news?id=8bd2ca98aba9d81ec87ffbb462c5507a9ee01966b1add7c1f881f837f31e1668",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
         }
       ],
       "nivel": "rojo",
-      "total": 3
+      "total": 5
     }
   },
   "resumen": {
-    "total_noticias": 24,
-    "tickers_con_noticias": 11,
-    "alertas_urgentes": 9,
-    "sin_noticias": 6
+    "total_noticias": 26,
+    "tickers_con_noticias": 13,
+    "alertas_urgentes": 10,
+    "sin_noticias": 4
   },
   "todas_noticias": [
-    {
-      "ticker": "INSM",
-      "titulo": "Insmed: Maintaining Strong Buy On Commercial Execution And Takeover Interest",
-      "resumen": "Analyst rates Insmed Incorporated a Strong Buy as Q3 BRINSUPRI sales reach $400.1 million and 2026 revenue guidance rises to $1.35 billion-$1.4 billion.",
-      "fuente": "SeekingAlpha",
-      "fecha": "20 Nov 2026 19:31 UTC",
-      "url": "https://finnhub.io/api/news?id=95ad405639172fa13bc38470d5c298045f161aabca3954d8ba4e22c92ef8072c",
-      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2304045411/image_2304045411.jpg?io=getty-c-og",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "SNDX",
-      "titulo": "Syndax Pharmaceuticals (SNDX) Stock Sees Fair Value Cut After Axatilimab Trial Miss",
-      "resumen": "The recent update on Syndax Pharmaceuticals centers on a trimmed Fair Value estimate, which has moved from US$37.27 to US$34.00, an adjusted price target that reflects a decline of about 8.8%. Street research links this shift to how analysts are weighing the missed primary endpoint in the Phase 2 ax",
-      "fuente": "Yahoo",
-      "fecha": "21 Nov 2026 03:11 UTC",
-      "url": "https://finnhub.io/api/news?id=61ffa14d14683385aaff9b7c27313f5ecc65bca3512110eda486d3ea393feddd",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "ALNY",
-      "titulo": "Alnylam Pharmaceuticals (NASDAQ:ALNY) Screens as a Balanced Affordable Growth Candidate",
-      "resumen": "ALNY is an affordable growth biotech with strong revenue and EPS expansion, a low P/E versus peers, and adequate financial health and profitability.",
-      "fuente": "ChartMill",
-      "fecha": "21 Nov 2026 12:21 UTC",
-      "url": "https://finnhub.io/api/news?id=ebd1c8bab4eefaa8660080fcfc5f16b5b602658c1b4f2b0b7d3e4e2d19893379",
-      "imagen": "https://www.chartmill.com/images/uploads/Affordable_Growth_500_264px_webp_add6a3aa59.webp",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Vertex’s executive chairman: Here’s how we got our drug-trial success rate over 70% when the industry’s is 10% to 20%",
-      "resumen": "More bets don’t necessarily produce more successes",
-      "fuente": "Yahoo",
-      "fecha": "22 Nov 2026 13:30 UTC",
-      "url": "https://finnhub.io/api/news?id=285214f9dba309dbaa3f945b6632e58dcb8f54f487eb1a977401ba9e8d174904",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "OCUL",
       "titulo": "Ocular Therapeutix Targets Q4 FDA Filing for AXPAXLI After Key Trial Win",
@@ -570,64 +548,100 @@
       "badge": "🔴"
     },
     {
-      "ticker": "ALNY",
-      "titulo": "Alnylam Pharmaceuticals Expands Sales Force to Accelerate AMVUTTRA Demand",
-      "resumen": "Alnylam Pharmaceuticals (NASDAQ:ALNY) is expanding its sales force and working to reach more physicians as it seeks to accelerate demand for AMVUTTRA in transthyretin amyloid cardiomyopathy, or ATTR-CM, executives said at the Jefferies Global Healthcare Conference in London. CEO Yvonne Greenstreet",
-      "fuente": "Yahoo",
-      "fecha": "20 Nov 2026 20:12 UTC",
-      "url": "https://finnhub.io/api/news?id=2c7e16085cd5334635094c6b8d91f2c294058969849ca8394eca256c84d2fde2",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "DYN",
-      "titulo": "Is Dyne Therapeutics (DYN) Trading At A Discount To Future Cash Flow?",
-      "resumen": "Dyne Therapeutics has seen its share price pull back over the past year after a strong multi year climb, which puts a spotlight on whether the current US$15.50 level lines up with what its cash flows can support. For investors, the key issue is how that market journey compares with what a discounted",
-      "fuente": "Yahoo",
-      "fecha": "21 Nov 2026 09:16 UTC",
-      "url": "https://finnhub.io/api/news?id=1ba0d3991de79b7fbb602e7af9323fa2252e209a941f372511c130da432c9409",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
       "ticker": "ABVX",
-      "titulo": "A $5.5 Billion Fund Dumps These 3 Stocks",
-      "resumen": "Key TakeawaysVestal Point Capital, a firm managing $5. 47 billion, held none of its Abbott Laboratories, Revolution Medicines or BioCryst Pharmaceuticals shares by Sept.",
+      "titulo": "Abivax’s Short-Seller Fight Is Really a Bet on One Drug",
+      "resumen": "Abivax shares rebounded after the French biotech rejected a short-seller attack on obefazimod, its experimental bowel-disease treatment.",
       "fuente": "Yahoo",
-      "fecha": "21 Nov 2026 10:43 UTC",
-      "url": "https://finnhub.io/api/news?id=b581996b61b53b1603b79364671e2b76cbc6e64c538b8fba03e4df008266fd75",
+      "fecha": "23 Nov 2026 15:28 UTC",
+      "url": "https://finnhub.io/api/news?id=1478a3a5eecb00b803f73d4451e815c1e37790a072159e0cd136e0564c90728f",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "ABVX",
-      "titulo": "Abivax (ENXTPA:ABVX) Stock Could Be A Bargain On Cash Flow",
-      "resumen": "ABIVAX Société Anonyme has given shareholders a very large gain over the past few years, yet the share price has fallen sharply in recent months, which naturally puts the focus on what the current valuation says about its cash flows. With the stock recently closing at €63.00, the key issue is whethe",
+      "ticker": "VKTX",
+      "titulo": "Viking Therapeutics (VKTX) Stock Is Up 11.5% Today Without Company News",
+      "resumen": "On Monday, Nov. 23, shares rose 11.5% by 12:30 p.m. ET without company-specific news, as the S&P 500 gained 5.0%.",
       "fuente": "Yahoo",
-      "fecha": "21 Nov 2026 11:11 UTC",
-      "url": "https://finnhub.io/api/news?id=872266fc48fdb93bf401096946ff7cae6717375c995770cd4e77bcb62cfbf822",
+      "fecha": "23 Nov 2026 17:31 UTC",
+      "url": "https://finnhub.io/api/news?id=b6cb1a1e6a23855757f470577c6e3798f1642e46fbceeff6023d97959098b7cc",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "ABVX",
-      "titulo": "Is ABIVAX Société Anonyme (ENXTPA:ABVX) A Bargain On Short Seller Claims?",
-      "resumen": "ABIVAX Société Anonyme (ENXTPA:ABVX) is back in the spotlight after a sharp 11% share price drop, following a critical short seller report that targets its lead drug candidate, obefazimod, as well as its broader governance practices. For ABIVAX Société Anonyme, the short seller report has landed on ",
+      "ticker": "BEAM",
+      "titulo": "Beam Therapeutics Targets December Sickle Cell Filing as Alpha-1 Trial Advances",
+      "resumen": "Beam Therapeutics (NASDAQ:BEAM) is preparing a potential December application for its sickle cell therapy while advancing a 50-patient study of its gene-editing treatment for alpha-1 antitrypsin deficiency, executives said during a Jefferies fireside chat. CEO John Evans said Beam expects to admini",
       "fuente": "Yahoo",
-      "fecha": "21 Nov 2026 12:16 UTC",
-      "url": "https://finnhub.io/api/news?id=51b58c0edc0a9f45c176e30339da34ddc5d139fe37153419a7014772216d3793",
+      "fecha": "24 Nov 2026 01:13 UTC",
+      "url": "https://finnhub.io/api/news?id=7ae3e8560563c4bd84b3d91bdce74e23563dfde70f9de80adf986af2a1780c6f",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Press Release: Sanofi to acquire Insmed in strategic step that strengthens long-term future",
+      "resumen": "Sanofi to acquire Insmed in strategic step that strengthens long-term future Insmed is a transformative acquisition providing strong strategic fit that complements Sanofi's immunology and rare disease portfolioSanofi will gain access to two first-in-disease commercialized products and pipeline asset",
+      "fuente": "Yahoo",
+      "fecha": "24 Nov 2026 06:30 UTC",
+      "url": "https://finnhub.io/api/news?id=8bd2ca98aba9d81ec87ffbb462c5507a9ee01966b1add7c1f881f837f31e1668",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "12 Health Care Stocks Moving In Tuesday's Pre-Market Session",
+      "resumen": "Gainers\n\nApimeds Pharmaceuticals (AMEX:APUS) shares increased by 39.9% to $2.1 during Tuesday&#39;s pre-market session. The market value of their outstanding shares is at $2.7 million. \nAkanda (NASDAQ:AKAN) stock rose",
+      "fuente": "Benzinga",
+      "fecha": "24 Nov 2026 08:05 UTC",
+      "url": "https://finnhub.io/api/news?id=d4fdb505f99d950d817e4a7ce237437544999c10e903476875ba5f58de9ff665",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_1.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Sanofi Fuels Long-Term Growth Ambitions With Massive $41 Billion Insmed Acquisition",
+      "resumen": "Sanofi agrees to acquire Insmed for $41 billion in cash, expanding its respiratory disease portfolio.",
+      "fuente": "Benzinga",
+      "fecha": "24 Nov 2026 09:01 UTC",
+      "url": "https://finnhub.io/api/news?id=31dccac2007849ab736b40db56b202b8a5dcd194edde9bdc1c98ff56b5038bdb",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/24/Washington--United-States---Sep-30--2021.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Fall After Scott Bessent Unveils Fresh Iran Sanctions, Hormuz Warnings— HPE, SMTC, DELL in Focus (UPDATED)",
+      "resumen": "U.S. stocks fell on Tuesday, as the Dow Jones, S&amp;P 500, and Nasdaq 100 index futures declined, following Monday&#39;s higher close.",
+      "fuente": "Benzinga",
+      "fecha": "24 Nov 2026 09:22 UTC",
+      "url": "https://finnhub.io/api/news?id=fef572c7729a49f4591667faad3fba00ccbb75c8c54cd61b416c6807eac34d91",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/24/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpg?width=2048&height=1536",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "What Sanofi Is Getting Through The Acquisition Of Insmed",
+      "resumen": "Sanofiâs $41 billion acquisition of Insmed is a good strategic fit, diversifying revenue and reducing dependence on Dupixent.",
+      "fuente": "SeekingAlpha",
+      "fecha": "24 Nov 2026 11:25 UTC",
+      "url": "https://finnhub.io/api/news?id=266458cc261dd04908510baa0ba128c0de3e0743f3eeefe8d9ab1bde61c9be9c",
+      "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1994989530/image_1994989530.jpg?io=getty-c-og",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "BEAM",
@@ -654,24 +668,12 @@
       "badge": "🔵"
     },
     {
-      "ticker": "INSM",
-      "titulo": "Insmed Inc. (INSM) is Giving Investors More to Celebrate",
-      "resumen": "Insmed Inc. (NASDAQ:INSM) is one of the 10 Stocks Showing Remarkable Resilience in a Volatile Market. Shares of Insmed Inc. (NASDAQ: INSM) rallied by 16.6 percent week-on-week, defying a broader market bloodbath, as investors gobbled up shares following reports that France-based Sanofi SA is plannin",
+      "ticker": "CAI",
+      "titulo": "Record Volume, Thinner Margins: The Tension at Caris Life Sciences (CAI)",
+      "resumen": "We just published a list of the 10 Stocks Stanley Druckenmiller Just Dumped—and What His Big Exit Signals Next and Caris Life Sciences (NASDAQ:CAI) ranked 10th on this list. On November 16, 2026, Stanley Druckenmiller’s family office filed its third-quarter 13F, and the numbers show a portfolio that",
       "fuente": "Yahoo",
-      "fecha": "23 Nov 2026 04:44 UTC",
-      "url": "https://finnhub.io/api/news?id=ce1598d46b708a3f8779f5a096557e4ccc0a22e905318cb6b5bf17690f8abf97",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "Insmed's Stock Rises 21% on Reports of Buyout Interest From Sanofi",
-      "resumen": "INSM's stock jumps on reported buyout interest from Sanofi, as its marketed respiratory drugs and late-stage pipeline strengthen its strategic appeal.",
-      "fuente": "Yahoo",
-      "fecha": "23 Nov 2026 07:13 UTC",
-      "url": "https://finnhub.io/api/news?id=3552eb114ba23de3bfb415ef9cbe9f55b82ff83ba1b1fda7dd757222dbdc8db1",
+      "fecha": "23 Nov 2026 15:19 UTC",
+      "url": "https://finnhub.io/api/news?id=9dfe631e950cd385fa1e0cfd8e306ac0af9312b35909f113ef78ec03dcb05442",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
@@ -679,11 +681,35 @@
     },
     {
       "ticker": "VRTX",
-      "titulo": "4 Biotech Stocks With Solid Balance Sheets and Financial Strength",
-      "resumen": "REGN, VRTX, UTHR and INCY stand out for strong cash reserves, low debt and healthy cash flows, supporting pipeline investments and multiple growth opportunities.",
+      "titulo": "Cramer's lightning round: Buy Applied Materials",
+      "resumen": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
+      "fuente": "CNBC",
+      "fecha": "23 Nov 2026 18:55 UTC",
+      "url": "https://finnhub.io/api/news?id=9b537ea429f1e5ca4e45d1cece6a93ab238cda218fa044c5a444a4c64ecbe195",
+      "imagen": "https://image.cnbcfm.com/api/v1/image/102079128-1539342565979105501689.jpg?v=1698448473&w=1920&h=1080",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Lightning Round: Robinhood is too high right now, says Jim Cramer",
+      "resumen": "'Mad Money' host Jim Cramer weighs in on stocks including: Applied Materials, Vertex, and Robinhood.",
+      "fuente": "CNBC",
+      "fecha": "23 Nov 2026 20:15 UTC",
+      "url": "https://finnhub.io/api/news?id=c8cfb0edb38b3479597d2c1aa4025c662456d3423a815beb10d7f09dcdaf84da",
+      "imagen": "https://image.cnbcfm.com/api/v1/image/108557993-1795482229870-1795480275620-2ED3-MM-E-BLOCK-112326.jpg?v=1795482231&w=1920&h=1080",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VERA",
+      "titulo": "Vera Therapeutics to Participate at Upcoming Investor Conferences",
+      "resumen": "BRISBANE, Calif., Nov. 23, 2026 (GLOBE NEWSWIRE) -- Vera Therapeutics, Inc. (Nasdaq: VERA), a commercial-stage biotechnology company, today announced that the Company’s management team will present and participate in one-on-one meetings at upcoming investor conferences. Investor Conference Details: ",
       "fuente": "Yahoo",
-      "fecha": "23 Nov 2026 15:46 UTC",
-      "url": "https://finnhub.io/api/news?id=3fa744ae72828b405c37b4889c6fdbb8c6a532a155db7be91adfc417084da6a7",
+      "fecha": "23 Nov 2026 21:30 UTC",
+      "url": "https://finnhub.io/api/news?id=32bd3ed8190e944f27c9fdf354a33a7f3ec4d3b38e253a2c4e0d189032fdb48f",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
@@ -691,11 +717,35 @@
     },
     {
       "ticker": "VRTX",
-      "titulo": "Eli Lilly vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy for 2027?",
-      "resumen": "Eli Lilly's obesity and diabetes sales have surged, while Vertex's cystic fibrosis franchise follows a very different growth path; the valuation gap may settle the debate.",
+      "titulo": "Vertex Pharmaceuticals: Good Growth Potential, But Valuation Calls For Holding",
+      "resumen": "",
+      "fuente": "SeekingAlpha",
+      "fecha": "24 Nov 2026 01:16 UTC",
+      "url": "https://finnhub.io/api/news?id=7116cb617cf301daaefabf3e763141358692b1ef9dd84df06a9cd34a8eac61d7",
+      "imagen": "",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Jim Cramer: Vertex Pharmaceuticals Is ‘Sensational’, Recommends Buying This Tech Stock",
+      "resumen": "Jim Cramer favors Applied Materials and biotech leaders Vertex, Amgen and Regeneron, but says Robinhood is overpriced and should retreat.",
+      "fuente": "Benzinga",
+      "fecha": "24 Nov 2026 09:09 UTC",
+      "url": "https://finnhub.io/api/news?id=4293121d75ba56dc7ed22febc9e0a593ef2777fcacad2560f1e40490001415bf",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/24/Jim-Cramer--AI-Is-Bigger-Than-Rate-Cuts.jpg?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Vertex Pharmaceuticals Incorporated (VRTX) Is a Trending Stock: Facts to Know Before Betting on It",
+      "resumen": "Vertex (VRTX) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
       "fuente": "Yahoo",
-      "fecha": "23 Nov 2026 16:01 UTC",
-      "url": "https://finnhub.io/api/news?id=13634bb33accdd11269f64502547d0b51b5b86b9dfa97524644ddb83dd3e0b99",
+      "fecha": "24 Nov 2026 13:00 UTC",
+      "url": "https://finnhub.io/api/news?id=da276405d194ea498a06ce59004383554e6d605c6dd441deabcbd5a8d49d8eb9",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",

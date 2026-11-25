@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 24/11/2026 18:40 | Período: últimos 7 días
-Desde: 2026-11-17 → Hasta: 2026-11-24
+Generado: 25/11/2026 17:49 | Período: últimos 7 días
+Desde: 2026-11-18 → Hasta: 2026-11-25
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 19 filings | 🔴 0 | 🟢 0 | 🟡 8 | 🔵 11 | ✅ 11 sin novedad
+RESUMEN: 14 filings | 🔴 0 | 🟢 0 | 🟡 9 | 🔵 5 | ✅ 12 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -29,17 +29,17 @@ DETALLE POR TICKER — SEC EDGAR
      🟡 MEDIA 4 | 2026-11-18 | Bhatia Sangeeta N. (Director) → Venta 271 acciones @ $547.86 | Post: 4,653 | Rutinaria/RSU/impuestos
      Insider: Bhatia Sangeeta N. (Director) → Venta 271 acciones @ $547.86 | Post: 4,653 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/875320/000087532026000297/xslF345X06/wk-form4_1795037109.xml
-
-  🔵 [ALNY] ALNYLAM PHARMACEUTICALS, INC. — 1 filing(s)
-     🔵 INFO 4 | 2026-11-17 | Greenstreet Yvonne (Director / Chief Executive Officer) → Donación 11,000 acciones @ $0.00 | Post: 84,802
-     Insider: Greenstreet Yvonne (Director / Chief Executive Officer) → Donación 11,000 acciones @ $0.00 | Post: 84,802
-     → https://www.sec.gov/Archives/edgar/data/1178670/000117867026000091/xslF345X06/form4.xml
+  ✅ [ALNY] Sin novedades
   ✅ [BEAM] Sin novedades
   ✅ [OCUL] Sin novedades
   ✅ [CAI] Sin novedades
   ✅ [GPCR] Sin novedades
   ✅ [ABVX] Sin novedades
-  ✅ [VERA] Sin novedades
+
+  🟡 [VERA] Vera Therapeutics, Inc. — 1 filing(s)
+     🟡 MEDIA 4 | 2026-11-24 | Skelton Laurence Matthew (Chief Commercial Officer) → Venta 2,728 acciones @ $26.75 | Post: 61,490 | Rutinaria/RSU/impuestos
+     Insider: Skelton Laurence Matthew (Chief Commercial Officer) → Venta 2,728 acciones @ $26.75 | Post: 61,490 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1831828/000210808026000005/xslF345X06/form4-11242026_101138.xml
 
   🟡 [ACRV] Acrivon Therapeutics, Inc. — 6 filing(s)
      🔵 INFO 8-K | 2026-11-20 | 8-K — Sin clasificación específica por Item [Items: 7.01, 9.01]
@@ -60,28 +60,12 @@ DETALLE POR TICKER — SEC EDGAR
      Insider: Blume-Jensen Peter (President and CEO) → Venta 1,276 acciones @ $1.45 | Post: 2,228,776 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1781174/000090514826005050/xslF345X06/form4.xml
   ✅ [TARA] Sin novedades
+  ✅ [SENS] Sin novedades
 
-  🔵 [SENS] Senseonics Holdings, Inc. — 6 filing(s)
-     🔵 INFO 4 | 2026-11-17 | Kaufman Francine (Chief Medical Officer) → Retención impuestos 10,068 acciones @ $10.58 | Post: 166,989 | Rutinaria/RSU/impuestos
-     Insider: Kaufman Francine (Chief Medical Officer) → Retención impuestos 10,068 acciones @ $10.58 | Post: 166,989 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1616543/000176979126000008/xslF345X06/form4-11172026_041111.xml
-     🔵 INFO 4 | 2026-11-17 | JAIN Mukul (Chief Operating Officer) → Retención impuestos 30,687 acciones @ $10.58 | Post: 470,176 | Rutinaria/RSU/impuestos
-     Insider: JAIN Mukul (Chief Operating Officer) → Retención impuestos 30,687 acciones @ $10.58 | Post: 470,176 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1616543/000166759326000008/xslF345X06/form4-11172026_041108.xml
-     🔵 INFO 4 | 2026-11-17 | Horton Kenneth L (GC & Corp. Development Advisor) → Retención impuestos 16,865 acciones @ $10.58 | Post: 268,647 | Rutinaria/RSU/impuestos
-     Insider: Horton Kenneth L (GC & Corp. Development Advisor) → Retención impuestos 16,865 acciones @ $10.58 | Post: 268,647 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1616543/000155204726000008/xslF345X06/form4-11172026_041106.xml
-     🔵 INFO 4 | 2026-11-17 | HANSEN BRIAN B (Chief Commercial Officer) → Retención impuestos 7,850 acciones @ $10.58 | Post: 119,087 | Rutinaria/RSU/impuestos
-     Insider: HANSEN BRIAN B (Chief Commercial Officer) → Retención impuestos 7,850 acciones @ $10.58 | Post: 119,087 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1616543/000154237726000006/xslF345X06/form4-11172026_041104.xml
-     🔵 INFO 4 | 2026-11-17 | Sullivan Frederick T. (Chief Financial Officer) → Retención impuestos 14,605 acciones @ $10.58 | Post: 211,872 | Rutinaria/RSU/impuestos
-     Insider: Sullivan Frederick T. (Chief Financial Officer) → Retención impuestos 14,605 acciones @ $10.58 | Post: 211,872 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1616543/000194453926000008/xslF345X06/form4-11172026_041113.xml
-     🔵 INFO 4 | 2026-11-17 | Goodnow Timothy T (President and CEO) → Retención impuestos 61,198 acciones @ $10.58 | Post: 1,082,550 | Rutinaria/RSU/impuestos
-     Insider: Goodnow Timothy T (President and CEO) → Retención impuestos 61,198 acciones @ $10.58 | Post: 1,082,550 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1616543/000166758826000010/xslF345X06/form4-11172026_041102.xml
-
-  🟡 [INSM] INSMED Inc — 2 filing(s)
+  🟡 [INSM] INSMED Inc — 3 filing(s)
+     🔵 INFO 4 | 2026-11-24 | Flammer Martina M.D. (Chief Medical Officer) → Ejercicio opción 18,277 acciones @ $18.95 | Post: 78,763 | Rutinaria/RSU/impuestos
+     Insider: Flammer Martina M.D. (Chief Medical Officer) → Ejercicio opción 18,277 acciones @ $18.95 | Post: 78,763 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1104506/000179696026000022/xslF345X06/wk-form4_1795556599.xml
      🟡 MEDIA 8-K | 2026-11-24 | 8-K — Posible deuda/obligación financiera; revisar condiciones [Items: 1.01, 7.01, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1104506/000114036126045364/ef20086426_8-k.htm
      🔵 INFO 4 | 2026-11-20 | Schaeffer Orlov S Nicole (Chief People Strategy Officer) → Ejercicio opción 55,400 acciones @ $30.46 | Post: 97,295 | Rutinaria/RSU/impuestos
@@ -104,7 +88,7 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Reclutando activamente
        Enrollment: 468 pacientes
        Primary completion: 2029-06
-       Última actualización: 2026-10-21
+       Última actualización: 2026-11-25
        → https://clinicaltrials.gov/study/NCT07211958
 
   [DYN]

@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 25/11/2026 17:49 | Período: últimos 7 días
-Desde: 2026-11-18 → Hasta: 2026-11-25
+Generado: 26/11/2026 17:33 | Período: últimos 7 días
+Desde: 2026-11-19 → Hasta: 2026-11-26
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 14 filings | 🔴 0 | 🟢 0 | 🟡 9 | 🔵 5 | ✅ 12 sin novedad
+RESUMEN: 23 filings | 🔴 0 | 🟢 0 | 🟡 17 | 🔵 6 | ✅ 12 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -21,17 +21,20 @@ DETALLE POR TICKER — SEC EDGAR
      Insider: Schuth Alexander O. (COFO and Secretary) → Ejercicio opción 16,566 acciones @ $9.60 | Post: 295,561 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1714899/000172431126000016/xslF345X06/wk-form4_1795125001.xml
   ✅ [VKTX] Sin novedades
-
-  🟡 [VRTX] VERTEX PHARMACEUTICALS INC / MA — 2 filing(s)
-     🟡 MEDIA 4 | 2026-11-18 | Thornberry Nancy (Director) → Venta 1,000 acciones @ $547.86 | Post: 1,109 | Rutinaria/RSU/impuestos
-     Insider: Thornberry Nancy (Director) → Venta 1,000 acciones @ $547.86 | Post: 1,109 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000299/xslF345X06/wk-form4_1795037218.xml
-     🟡 MEDIA 4 | 2026-11-18 | Bhatia Sangeeta N. (Director) → Venta 271 acciones @ $547.86 | Post: 4,653 | Rutinaria/RSU/impuestos
-     Insider: Bhatia Sangeeta N. (Director) → Venta 271 acciones @ $547.86 | Post: 4,653 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/875320/000087532026000297/xslF345X06/wk-form4_1795037109.xml
+  ✅ [VRTX] Sin novedades
   ✅ [ALNY] Sin novedades
   ✅ [BEAM] Sin novedades
-  ✅ [OCUL] Sin novedades
+
+  🟡 [OCUL] OCULAR THERAPEUTIX, INC — 3 filing(s)
+     🟡 MEDIA 4 | 2026-11-25 | Heier Jeffrey S. (Chief Scientific Officer) → Venta 3,035 acciones @ $5.92 | Post: 304,422 | Rutinaria/RSU/impuestos
+     Insider: Heier Jeffrey S. (Chief Scientific Officer) → Venta 3,035 acciones @ $5.92 | Post: 304,422 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926132055/xslF345X06/tm2630632-3_4seq1.xml
+     🟡 MEDIA 4 | 2026-11-25 | Kaiser Peter (Chief Development Officer) → Venta 3,162 acciones @ $5.92 | Post: 251,226 | Rutinaria/RSU/impuestos
+     Insider: Kaiser Peter (Chief Development Officer) → Venta 3,162 acciones @ $5.92 | Post: 251,226 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926132054/xslF345X06/tm2630632-2_4seq1.xml
+     🟡 MEDIA 4 | 2026-11-25 | Dugel Pravin (Director / See Remarks) → Venta 19,873 acciones @ $5.92 | Post: 2,505,556 | Rutinaria/RSU/impuestos
+     Insider: Dugel Pravin (Director / See Remarks) → Venta 19,873 acciones @ $5.92 | Post: 2,505,556 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1393434/000110465926132050/xslF345X06/tm2630632-1_4seq1.xml
   ✅ [CAI] Sin novedades
   ✅ [GPCR] Sin novedades
   ✅ [ABVX] Sin novedades
@@ -41,7 +44,30 @@ DETALLE POR TICKER — SEC EDGAR
      Insider: Skelton Laurence Matthew (Chief Commercial Officer) → Venta 2,728 acciones @ $26.75 | Post: 61,490 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1831828/000210808026000005/xslF345X06/form4-11242026_101138.xml
 
-  🟡 [ACRV] Acrivon Therapeutics, Inc. — 6 filing(s)
+  🟡 [ACRV] Acrivon Therapeutics, Inc. — 14 filing(s)
+     🔵 INFO 8-K | 2026-11-25 | Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02, 9.01]
+     → https://www.sec.gov/Archives/edgar/data/1781174/000119312526478591/acrv-20261120.htm
+     🟡 MEDIA 4 | 2026-11-25 | Peterson Katharine (Chief Accounting Officer) → Venta 974 acciones @ $1.20 | Post: 16,952 | Rutinaria/RSU/impuestos
+     Insider: Peterson Katharine (Chief Accounting Officer) → Venta 974 acciones @ $1.20 | Post: 16,952 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826005182/xslF345X06/form4.xml
+     🟡 MEDIA 4 | 2026-11-25 | Mirza Mansoor Raza (Chief Medical Officer) → Venta 2,641 acciones @ $1.20 | Post: 36,176 | Rutinaria/RSU/impuestos
+     Insider: Mirza Mansoor Raza (Chief Medical Officer) → Venta 2,641 acciones @ $1.20 | Post: 36,176 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826005181/xslF345X06/form4.xml
+     🟡 MEDIA 4 | 2026-11-25 | Miller Mary (Chief Legal Officer) → Venta 3,388 acciones @ $1.20 | Post: 77,621 | Rutinaria/RSU/impuestos
+     Insider: Miller Mary (Chief Legal Officer) → Venta 3,388 acciones @ $1.20 | Post: 77,621 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826005180/xslF345X06/form4.xml
+     🟡 MEDIA 4 | 2026-11-25 | Levy Adam D. (Chief Financial Officer) → Venta 3,449 acciones @ $1.20 | Post: 62,559 | Rutinaria/RSU/impuestos
+     Insider: Levy Adam D. (Chief Financial Officer) → Venta 3,449 acciones @ $1.20 | Post: 62,559 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826005179/xslF345X06/form4.xml
+     🟡 MEDIA 4 | 2026-11-25 | Gamelin Erick (Chief Development Officer) → Venta 2,884 acciones @ $1.20 | Post: 49,292 | Rutinaria/RSU/impuestos
+     Insider: Gamelin Erick (Chief Development Officer) → Venta 2,884 acciones @ $1.20 | Post: 49,292 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826005178/xslF345X06/form4.xml
+     🟡 MEDIA 4 | 2026-11-25 | Devroe Eric (Chief Operating Officer) → Venta 4,958 acciones @ $1.20 | Post: 140,763 | Rutinaria/RSU/impuestos
+     Insider: Devroe Eric (Chief Operating Officer) → Venta 4,958 acciones @ $1.20 | Post: 140,763 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826005177/xslF345X06/form4.xml
+     🟡 MEDIA 4 | 2026-11-25 | Blume-Jensen Peter (President and CEO) → Venta 13,884 acciones @ $1.20 | Post: 2,214,892 | Rutinaria/RSU/impuestos
+     Insider: Blume-Jensen Peter (President and CEO) → Venta 13,884 acciones @ $1.20 | Post: 2,214,892 | Rutinaria/RSU/impuestos
+     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826005176/xslF345X06/form4.xml
      🔵 INFO 8-K | 2026-11-20 | 8-K — Sin clasificación específica por Item [Items: 7.01, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1781174/000119312526470245/acrv-20261120.htm
      🟡 MEDIA 4 | 2026-11-19 | Peterson Katharine (Chief Accounting Officer) → Venta 107 acciones @ $1.45 | Post: 17,926 | Rutinaria/RSU/impuestos

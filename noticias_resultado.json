@@ -1,12 +1,24 @@
 {
-  "generado": "26/11/2026 17:40 UTC",
+  "generado": "27/11/2026 17:24 UTC",
   "plazo_horas": 72,
-  "desde": "2026-11-23",
-  "hasta": "2026-11-26",
+  "desde": "2026-11-24",
+  "hasta": "2026-11-27",
   "tickers": {
     "SNDX": {
       "nombre": "SNDX",
       "noticias": [
+        {
+          "ticker": "SNDX",
+          "titulo": "Syndax Pharmaceuticals Defends Revuforj as Rival Leukemia Drug Draws Investor Attention",
+          "resumen": "Syndax Pharmaceuticals (NASDAQ:SNDX) executives defended the company’s position in the competitive menin inhibitor market, pointing to forthcoming leukemia data and ongoing frontline trials as investors assess a rival treatment. Speaking at the Jefferies Global Healthcare Conference in London, CEO",
+          "fuente": "Yahoo",
+          "fecha": "26 Nov 2026 20:12 UTC",
+          "url": "https://finnhub.io/api/news?id=0bc368a4e188d427da1bfe7efd0021aff8027dc00499823682c62ef30c67c0ac",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "SNDX",
           "titulo": "Syndax Announces Participation in December Investor Conferences",
@@ -33,7 +45,7 @@
         }
       ],
       "nivel": "rojo",
-      "total": 2
+      "total": 3
     },
     "ARGX": {
       "nombre": "ARGX",
@@ -61,41 +73,16 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "ARGX",
-          "titulo": "European Equities Traded in the US as American Depositary Receipts Slip in Tuesday Trading",
-          "resumen": "European equities traded in the US as American depositary receipts were tracking slightly lower late",
-          "fuente": "Yahoo",
-          "fecha": "24 Nov 2026 16:16 UTC",
-          "url": "https://finnhub.io/api/news?id=53e497c35c71744e93da034f64bd6adf6a4d7042bc9ce4802c6cf8a06c44273f",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "azul",
-      "total": 3
+      "total": 2
     },
     "DYN": {
       "nombre": "DYN",
-      "noticias": [
-        {
-          "ticker": "DYN",
-          "titulo": "Dyne Therapeutics to Participate in Upcoming Investor Conference",
-          "resumen": "WALTHAM, Mass., Nov. 24, 2026 (GLOBE NEWSWIRE) -- Dyne Therapeutics, Inc. (Nasdaq: DYN), a clinical-stage company focused on delivering functional improvement for people living with genetically driven neuromuscular diseases, today announced that management is scheduled to participate in the followin",
-          "fuente": "Yahoo",
-          "fecha": "24 Nov 2026 12:30 UTC",
-          "url": "https://finnhub.io/api/news?id=3d296bbd4bee09e849011d28a8a0397c1a85a52305aef65f67558dfc1010c292",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        }
-      ],
-      "nivel": "rojo",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "DNLI": {
       "nombre": "DNLI",
@@ -105,44 +92,33 @@
     },
     "VKTX": {
       "nombre": "VKTX",
-      "noticias": [],
-      "nivel": "ok",
-      "total": 0
+      "noticias": [
+        {
+          "ticker": "VKTX",
+          "titulo": "Viking Therapeutics (VKTX) Could Be 67% Undervalued Following New VK2735 Obesity Data",
+          "resumen": "Viking Therapeutics (VKTX) is back in focus after new clinical data from its VK2735 obesity program were featured at ObesityWeek 2026, highlighting shifts in body mass index categories and cardiometabolic markers. Recent clinical updates have arrived alongside sharp share price swings for Viking The",
+          "fuente": "Yahoo",
+          "fecha": "26 Nov 2026 10:09 UTC",
+          "url": "https://finnhub.io/api/news?id=5d3fdadaa00a8544690023e9757bd483054e8c60e63c54cf88a10008634e2fde",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        }
+      ],
+      "nivel": "rojo",
+      "total": 1
     },
     "VRTX": {
       "nombre": "VRTX",
       "noticias": [
         {
           "ticker": "VRTX",
-          "titulo": "VRTX Down as FDA Extends Review Timeline for Povetacicept BLA",
-          "resumen": "Vertex shares fell 7.3% after the FDA extended its povetacicept review by three months, delaying a key approval decision to February 2027.",
+          "titulo": "Citi Says Vertex’s Povetacicept Delay Is ‘Not Thesis Changing,’ Maintains Its ‘Buy’ Rating",
+          "resumen": "Citi maintained its ‘Buy’ rating and $585 price target on Vertex Pharmaceuticals, according to The Fly.",
           "fuente": "Yahoo",
-          "fecha": "26 Nov 2026 14:15 UTC",
-          "url": "https://finnhub.io/api/news?id=207f1f6dd9cabe3ff418201cdc0473e515997fe9c94bcb32be31b3cde604fda6",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Vera Therapeutics Stock Soars After Hours as the FDA Delays Vertex’s Rival Kidney Drug",
-          "resumen": "A regulatory delay handed Vera Therapeutics a three-month head start on a $143 billion rival, and traders rushed in. But the bigger threat to Vera's drug has nothing to do with the calendar, and one February deadline could undo the rally.",
-          "fuente": "Yahoo",
-          "fecha": "26 Nov 2026 12:22 UTC",
-          "url": "https://finnhub.io/api/news?id=8b47e46e3c5315df0d6d68cc7ab44080abbfd1fe4b20e9dafa5943ba2f9ce458",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VRTX",
-          "titulo": "Dow, S&P 500, Nasdaq Futures Edge Higher As Tech Rebounds After Selloff: DIS, VRTX, DE, CHTR In Focus",
-          "resumen": "U.S. stock markets closed another volatile session on Wednesday as technology stocks sold off amid declines in Nvidia and Anthropic shares, though both recovered overnight.",
-          "fuente": "Yahoo",
-          "fecha": "26 Nov 2026 03:14 UTC",
-          "url": "https://finnhub.io/api/news?id=3dcd38dfa3a2ba0cf30169687699626e23d870d0a056c3a707273462043d1a4d",
+          "fecha": "27 Nov 2026 15:52 UTC",
+          "url": "https://finnhub.io/api/news?id=8fa59d99ee7c844724ba26d80dfdcea7f75b9ffbf76ba7332751313b962eb276",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
@@ -150,11 +126,11 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "Vertex Pharmaceuticals Has Turned $10,000 Into $61,660 Over 10 Years. Here's What Could Come Next",
-          "resumen": "Vertex's next growth wave is already in the pipeline.",
+          "titulo": "Stock Market Today: Dow Futures Jump 650 Points As Nvidia Rebounds; Anthropic, SpaceX, Tesla Rally (Live Coverage)",
+          "resumen": "The Dow Jones index jumps 650 points Friday as Nvidia stock rebounds. Anthropic, SpaceX and Tesla rally.",
           "fuente": "Yahoo",
-          "fecha": "26 Nov 2026 00:32 UTC",
-          "url": "https://finnhub.io/api/news?id=a48962df6df8632af96aac9c5be9da2c2de84ea5f72262d51d7f590333a0eb10",
+          "fecha": "27 Nov 2026 15:31 UTC",
+          "url": "https://finnhub.io/api/news?id=e206df7544718b056a5e99d8e050d010dfc2d88868d799a6dfbd9243c514c74b",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
@@ -162,15 +138,39 @@
         },
         {
           "ticker": "VRTX",
-          "titulo": "VRTX Tumbles After-Hours As FDA Delays Kidney Drug Decision; Rival VERA Surges",
-          "resumen": "Vertex said the FDA informed it on Tuesday that the deadline for deciding on its application seeking approval for its drug povetacicept in IgA nephropathy would be extended by up to three months.",
+          "titulo": "Tevogen (TVGN) Stock Is Down 15.8% Today Without Company News",
+          "resumen": "Tevogen shares fell 15.8% on Friday, Nov. 27, with no company-specific news to explain the drop.",
           "fuente": "Yahoo",
-          "fecha": "25 Nov 2026 22:34 UTC",
-          "url": "https://finnhub.io/api/news?id=a202495cb78a7849036abb4b33e72ffe7f3b386c192c1e7eaf0f802ed21cc714",
+          "fecha": "27 Nov 2026 15:15 UTC",
+          "url": "https://finnhub.io/api/news?id=ae5ad4cdad622b48ce33d221f1bd62e0f8f762e1f865d9f6f0d817256e1e7654",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Chip stocks lead a Black Friday rally, but Nvidia misses out: AlphaCheck",
+          "resumen": "Stocks rose on Friday as the AI trade rebounded amid a low-volume trading day.",
+          "fuente": "Yahoo",
+          "fecha": "27 Nov 2026 14:57 UTC",
+          "url": "https://finnhub.io/api/news?id=00f041207782412a959d2841b9a6467797afedac8c7e0e93fcaf0c44c8659a0c",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
           "badge": "🔴"
+        },
+        {
+          "ticker": "VRTX",
+          "titulo": "Insmed's Sales Gave Notice A Year Early. Why Didn't The Stock?",
+          "resumen": "Today's big story: Anthropic Broke Its $83 IPO Price. What Did Facebook Do Next.",
+          "fuente": "Yahoo",
+          "fecha": "27 Nov 2026 14:47 UTC",
+          "url": "https://finnhub.io/api/news?id=b7d29e08925997b1481d14a9bfee2271f27edd24c1d311abf246456dc7899d66",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -179,6 +179,18 @@
     "ALNY": {
       "nombre": "ALNY",
       "noticias": [
+        {
+          "ticker": "ALNY",
+          "titulo": "What Alnylam Pharmaceuticals (ALNY)'s FDA Drug Approval Means For Shareholders",
+          "resumen": "Regeneron Pharmaceuticals recently announced U.S. FDA approval of Livsayis (cemdisiran), an Alnylam-discovered RNAi therapy for anti-acetylcholine receptor antibody positive generalized myasthenia gravis in adults, triggering a US$25 million milestone payment to Alnylam and tiered royalties of up to",
+          "fuente": "Yahoo",
+          "fecha": "26 Nov 2026 19:10 UTC",
+          "url": "https://finnhub.io/api/news?id=9c71175b741db4294c83c242a5e89f838b4cfc7d269b03eb4da1db278ec81e99",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
         {
           "ticker": "ALNY",
           "titulo": "What Sent Moderna Stock Higher?",
@@ -229,30 +241,30 @@
         }
       ],
       "nivel": "rojo",
-      "total": 4
+      "total": 5
     },
     "BEAM": {
       "nombre": "BEAM",
       "noticias": [
         {
           "ticker": "BEAM",
-          "titulo": "Beam Therapeutics Targets Sickle Cell Filing as Early as December, Advances Gene-Editing Pipeline",
-          "resumen": "Beam Therapeutics (NASDAQ:BEAM) expects to seek U.S. approval for its sickle cell disease treatment as early as December, while advancing a pivotal trial for its alpha-1 antitrypsin deficiency program, Chief Executive Officer John Evans said at the UBS Global Biopharma Conference. Evans said recent",
-          "fuente": "Yahoo",
-          "fecha": "24 Nov 2026 13:13 UTC",
-          "url": "https://finnhub.io/api/news?id=da0246af3463837b21ec20bd3f3f4b4e41cf5089347b343b05a5991efb625969",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
+          "titulo": "Cathie Wood Says AI Could Cut Drug Costs by $1.8 Billion. These 5 ARK-Backed Biotech Stocks Could Benefit",
+          "resumen": "Cathie Wood sees AI cutting drug development costs by $1.8 billion. These five ARK-backed biotech stocks could benefit.",
+          "fuente": "Benzinga",
+          "fecha": "26 Nov 2026 14:45 UTC",
+          "url": "https://finnhub.io/api/news?id=eefce86af6f2e48a5e5b0faa6d6347c018a5b074cacf17bceaef2788a5403f7b",
+          "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/26/ARK-Invest-Photo-Cathie-Wood-3.png?width=2048&height=1536",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
         },
         {
           "ticker": "BEAM",
-          "titulo": "Beam Therapeutics Targets December Sickle Cell Filing as Alpha-1 Trial Advances",
-          "resumen": "Beam Therapeutics (NASDAQ:BEAM) is preparing a potential December application for its sickle cell therapy while advancing a 50-patient study of its gene-editing treatment for alpha-1 antitrypsin deficiency, executives said during a Jefferies fireside chat. CEO John Evans said Beam expects to admini",
+          "titulo": "Beam Therapeutics (BEAM) Could Be 84% Undervalued After Regulatory Timelines Sharpened",
+          "resumen": "Beam Therapeutics (BEAM) is back in focus after management outlined a packed regulatory calendar, including a planned biologics license application for its sickle cell therapy in December and faster than expected enrollment in its BEAM-302 program. Over the past year, Beam Therapeutics has offered a",
           "fuente": "Yahoo",
-          "fecha": "24 Nov 2026 01:13 UTC",
-          "url": "https://finnhub.io/api/news?id=7ae3e8560563c4bd84b3d91bdce74e23563dfde70f9de80adf986af2a1780c6f",
+          "fecha": "26 Nov 2026 02:15 UTC",
+          "url": "https://finnhub.io/api/news?id=5a02d4dba4afe7f550732ff141c58832fdd5a8453d206be1bd6c4e51e7df78e9",
           "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": true,
           "nivel": "rojo",
@@ -264,22 +276,9 @@
     },
     "OCUL": {
       "nombre": "OCUL",
-      "noticias": [
-        {
-          "ticker": "OCUL",
-          "titulo": "Ocular Therapeutix™ to Participate in December Scientific Conferences",
-          "resumen": "BEDFORD, Mass., Nov. 24, 2026 (GLOBE NEWSWIRE) -- Ocular Therapeutix, Inc. (NASDAQ: OCUL, “Ocular”), an integrated biopharmaceutical company committed to redefining the retina experience, today announced participation in several upcoming scientific conferences in December 2026. Upcoming Scientific C",
-          "fuente": "Yahoo",
-          "fecha": "24 Nov 2026 12:00 UTC",
-          "url": "https://finnhub.io/api/news?id=da005e6f38f491582be1abe11f9ba00cc6a27587d0eda3f1d6d841e9b59dc5e4",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        }
-      ],
-      "nivel": "azul",
-      "total": 1
+      "noticias": [],
+      "nivel": "ok",
+      "total": 0
     },
     "CAI": {
       "nombre": "CAI",
@@ -342,6 +341,30 @@
       "noticias": [
         {
           "ticker": "VERA",
+          "titulo": "VRTX Down as FDA Extends Review Timeline for Povetacicept BLA",
+          "resumen": "Vertex shares fell 7.3% after the FDA extended its povetacicept review by three months, delaying a key approval decision to February 2027.",
+          "fuente": "Yahoo",
+          "fecha": "26 Nov 2026 14:15 UTC",
+          "url": "https://finnhub.io/api/news?id=207f1f6dd9cabe3ff418201cdc0473e515997fe9c94bcb32be31b3cde604fda6",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VERA",
+          "titulo": "Vera Therapeutics Stock Soars After Hours as the FDA Delays Vertex’s Rival Kidney Drug",
+          "resumen": "A regulatory delay handed Vera Therapeutics a three-month head start on a $143 billion rival, and traders rushed in. But the bigger threat to Vera's drug has nothing to do with the calendar, and one February deadline could undo the rally.",
+          "fuente": "Yahoo",
+          "fecha": "26 Nov 2026 12:22 UTC",
+          "url": "https://finnhub.io/api/news?id=8b47e46e3c5315df0d6d68cc7ab44080abbfd1fe4b20e9dafa5943ba2f9ce458",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "VERA",
           "titulo": "VRTX Tumbles After-Hours As FDA Delays Kidney Drug Decision; Rival VERA Surges",
           "resumen": "Vertex said the FDA informed it on Tuesday that the deadline for deciding on its application seeking approval for its drug povetacicept in IgA nephropathy would be extended by up to three months.",
           "fuente": "Yahoo",
@@ -372,30 +395,6 @@
           "fecha": "25 Nov 2026 17:05 UTC",
           "url": "https://finnhub.io/api/news?id=7599b9fe3d2b47d0ed0b78c96e56e33a283ec82aff8668bbd18a4c68c2c77d4b",
           "imagen": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_3.jpg?width=2048&height=1536",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "VERA",
-          "titulo": "5 Biotech Stocks to Watch as $41B Sanofi/Insmed Deal Revives M&A Hopes",
-          "resumen": "Sanofi's $41B Insmed deal revives biotech M&A hopes, putting VERA, BBIO, RVMD, AGIO and STOK in focus as potential takeover targets.",
-          "fuente": "Yahoo",
-          "fecha": "25 Nov 2026 15:31 UTC",
-          "url": "https://finnhub.io/api/news?id=a414f92fa984131554e6cba31d17d0ef306f08b20e73a7641813e65b219f666d",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": true,
-          "nivel": "rojo",
-          "badge": "🔴"
-        },
-        {
-          "ticker": "VERA",
-          "titulo": "Vera Therapeutics to Participate at Upcoming Investor Conferences",
-          "resumen": "BRISBANE, Calif., Nov. 23, 2026 (GLOBE NEWSWIRE) -- Vera Therapeutics, Inc. (Nasdaq: VERA), a commercial-stage biotechnology company, today announced that the Company’s management team will present and participate in one-on-one meetings at upcoming investor conferences. Investor Conference Details: ",
-          "fuente": "Yahoo",
-          "fecha": "23 Nov 2026 21:30 UTC",
-          "url": "https://finnhub.io/api/news?id=32bd3ed8190e944f27c9fdf354a33a7f3ec4d3b38e253a2c4e0d189032fdb48f",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
@@ -452,6 +451,30 @@
       "noticias": [
         {
           "ticker": "INSM",
+          "titulo": "Sanofi Pays $41 Billion For Insmed's Lung Pill",
+          "resumen": "Today's big story: Anthropic Broke Its $83 IPO Price. What Did Facebook Do Next.",
+          "fuente": "Yahoo",
+          "fecha": "26 Nov 2026 11:40 UTC",
+          "url": "https://finnhub.io/api/news?id=2ca33178a211fcd81f053f2ae4fa5d2428a6e3c675cd6e26854f6b047964c124",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": false,
+          "nivel": "azul",
+          "badge": "🔵"
+        },
+        {
+          "ticker": "INSM",
+          "titulo": "Nvidia Wins Back Wall Street Backing As Jensen Huang Returns; CRWD, LI Stocks Score Upgrades While DKNG, AMBA Face Pressure",
+          "resumen": "Wall Street analysts upgraded Nvidia, CrowdStrike and Li Auto on leadership stability, AI growth and strong earnings.",
+          "fuente": "Yahoo",
+          "fecha": "26 Nov 2026 08:43 UTC",
+          "url": "https://finnhub.io/api/news?id=b9be9151e09e73bc6fe03b0d88bd71e854ac561fef9ed19ef32f23f1c0a577f8",
+          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+          "urgente": true,
+          "nivel": "rojo",
+          "badge": "🔴"
+        },
+        {
+          "ticker": "INSM",
           "titulo": "Sanofi: Insmed And Dupixent Could Fuel More Upside",
           "resumen": "Sanofi (SNY) stock is a buy as its risk/reward remains attractive as Dupixent sales rose 10.3% quarter over quarter to â¬5.69 billion.",
           "fuente": "SeekingAlpha",
@@ -485,30 +508,6 @@
           "urgente": false,
           "nivel": "azul",
           "badge": "🔵"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "Stoke (STOK) Stock Is Up 8.3% Today Without Company News",
-          "resumen": "Stoke Therapeutics shares rose 8.3% on Wednesday, Nov. 25, with no company-specific news, after a 16.7% jump on Nov. 24 in a biotech rally.",
-          "fuente": "Yahoo",
-          "fecha": "25 Nov 2026 20:45 UTC",
-          "url": "https://finnhub.io/api/news?id=610b2e147185cb0678e47fe049b472aba0efb5b7b6039b8c1384162bc226cdd8",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
-        },
-        {
-          "ticker": "INSM",
-          "titulo": "BioMarin (BMRN) Stock Is Up 4.8% Today Without Company News",
-          "resumen": "On Wednesday, Nov. 25, the shares rose 4.8% without company-specific news",
-          "fuente": "Yahoo",
-          "fecha": "25 Nov 2026 19:15 UTC",
-          "url": "https://finnhub.io/api/news?id=bb20a86a8eae5b4beaaa1d7e6283b406fa0580a0d1b95019f97e58dc7cbb41bd",
-          "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-          "urgente": false,
-          "nivel": "azul",
-          "badge": "🔵"
         }
       ],
       "nivel": "rojo",
@@ -517,47 +516,11 @@
   },
   "resumen": {
     "total_noticias": 33,
-    "tickers_con_noticias": 12,
+    "tickers_con_noticias": 11,
     "alertas_urgentes": 9,
-    "sin_noticias": 5
+    "sin_noticias": 6
   },
   "todas_noticias": [
-    {
-      "ticker": "BEAM",
-      "titulo": "Beam Therapeutics Targets December Sickle Cell Filing as Alpha-1 Trial Advances",
-      "resumen": "Beam Therapeutics (NASDAQ:BEAM) is preparing a potential December application for its sickle cell therapy while advancing a 50-patient study of its gene-editing treatment for alpha-1 antitrypsin deficiency, executives said during a Jefferies fireside chat. CEO John Evans said Beam expects to admini",
-      "fuente": "Yahoo",
-      "fecha": "24 Nov 2026 01:13 UTC",
-      "url": "https://finnhub.io/api/news?id=7ae3e8560563c4bd84b3d91bdce74e23563dfde70f9de80adf986af2a1780c6f",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "DYN",
-      "titulo": "Dyne Therapeutics to Participate in Upcoming Investor Conference",
-      "resumen": "WALTHAM, Mass., Nov. 24, 2026 (GLOBE NEWSWIRE) -- Dyne Therapeutics, Inc. (Nasdaq: DYN), a clinical-stage company focused on delivering functional improvement for people living with genetically driven neuromuscular diseases, today announced that management is scheduled to participate in the followin",
-      "fuente": "Yahoo",
-      "fecha": "24 Nov 2026 12:30 UTC",
-      "url": "https://finnhub.io/api/news?id=3d296bbd4bee09e849011d28a8a0397c1a85a52305aef65f67558dfc1010c292",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "BEAM",
-      "titulo": "Beam Therapeutics Targets Sickle Cell Filing as Early as December, Advances Gene-Editing Pipeline",
-      "resumen": "Beam Therapeutics (NASDAQ:BEAM) expects to seek U.S. approval for its sickle cell disease treatment as early as December, while advancing a pivotal trial for its alpha-1 antitrypsin deficiency program, Chief Executive Officer John Evans said at the UBS Global Biopharma Conference. Evans said recent",
-      "fuente": "Yahoo",
-      "fecha": "24 Nov 2026 13:13 UTC",
-      "url": "https://finnhub.io/api/news?id=da0246af3463837b21ec20bd3f3f4b4e41cf5089347b343b05a5991efb625969",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
     {
       "ticker": "ABVX",
       "titulo": "How Short Seller Rebuttal At Abivax (ENXTPA:ABVX) Has Changed Its Investment Story",
@@ -631,18 +594,6 @@
       "badge": "🔴"
     },
     {
-      "ticker": "VERA",
-      "titulo": "5 Biotech Stocks to Watch as $41B Sanofi/Insmed Deal Revives M&A Hopes",
-      "resumen": "Sanofi's $41B Insmed deal revives biotech M&A hopes, putting VERA, BBIO, RVMD, AGIO and STOK in focus as potential takeover targets.",
-      "fuente": "Yahoo",
-      "fecha": "25 Nov 2026 15:31 UTC",
-      "url": "https://finnhub.io/api/news?id=a414f92fa984131554e6cba31d17d0ef306f08b20e73a7641813e65b219f666d",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
       "ticker": "ACRV",
       "titulo": "Acrivon Therapeutics' CFO Adam Levy To Step Down Effective December 16, 2026;  Katharine Peterson Appointed As Principal Financial Officer",
       "resumen": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001781174/000119312526478591/acrv-20261120.htm",
@@ -650,18 +601,6 @@
       "fecha": "25 Nov 2026 17:50 UTC",
       "url": "https://finnhub.io/api/news?id=fd12c142ee1f276a698818cb30c560aba05bcdd0c21addf55fb58b3c19ba591a",
       "imagen": "",
-      "urgente": true,
-      "nivel": "rojo",
-      "badge": "🔴"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "VRTX Tumbles After-Hours As FDA Delays Kidney Drug Decision; Rival VERA Surges",
-      "resumen": "Vertex said the FDA informed it on Tuesday that the deadline for deciding on its application seeking approval for its drug povetacicept in IgA nephropathy would be extended by up to three months.",
-      "fuente": "Yahoo",
-      "fecha": "25 Nov 2026 22:34 UTC",
-      "url": "https://finnhub.io/api/news?id=a202495cb78a7849036abb4b33e72ffe7f3b386c192c1e7eaf0f802ed21cc714",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": true,
       "nivel": "rojo",
       "badge": "🔴"
@@ -691,7 +630,43 @@
       "badge": "🔴"
     },
     {
-      "ticker": "VRTX",
+      "ticker": "BEAM",
+      "titulo": "Beam Therapeutics (BEAM) Could Be 84% Undervalued After Regulatory Timelines Sharpened",
+      "resumen": "Beam Therapeutics (BEAM) is back in focus after management outlined a packed regulatory calendar, including a planned biologics license application for its sickle cell therapy in December and faster than expected enrollment in its BEAM-302 program. Over the past year, Beam Therapeutics has offered a",
+      "fuente": "Yahoo",
+      "fecha": "26 Nov 2026 02:15 UTC",
+      "url": "https://finnhub.io/api/news?id=5a02d4dba4afe7f550732ff141c58832fdd5a8453d206be1bd6c4e51e7df78e9",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Nvidia Wins Back Wall Street Backing As Jensen Huang Returns; CRWD, LI Stocks Score Upgrades While DKNG, AMBA Face Pressure",
+      "resumen": "Wall Street analysts upgraded Nvidia, CrowdStrike and Li Auto on leadership stability, AI growth and strong earnings.",
+      "fuente": "Yahoo",
+      "fecha": "26 Nov 2026 08:43 UTC",
+      "url": "https://finnhub.io/api/news?id=b9be9151e09e73bc6fe03b0d88bd71e854ac561fef9ed19ef32f23f1c0a577f8",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VKTX",
+      "titulo": "Viking Therapeutics (VKTX) Could Be 67% Undervalued Following New VK2735 Obesity Data",
+      "resumen": "Viking Therapeutics (VKTX) is back in focus after new clinical data from its VK2735 obesity program were featured at ObesityWeek 2026, highlighting shifts in body mass index categories and cardiometabolic markers. Recent clinical updates have arrived alongside sharp share price swings for Viking The",
+      "fuente": "Yahoo",
+      "fecha": "26 Nov 2026 10:09 UTC",
+      "url": "https://finnhub.io/api/news?id=5d3fdadaa00a8544690023e9757bd483054e8c60e63c54cf88a10008634e2fde",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
+    },
+    {
+      "ticker": "VERA",
       "titulo": "Vera Therapeutics Stock Soars After Hours as the FDA Delays Vertex’s Rival Kidney Drug",
       "resumen": "A regulatory delay handed Vera Therapeutics a three-month head start on a $143 billion rival, and traders rushed in. But the bigger threat to Vera's drug has nothing to do with the calendar, and one February deadline could undo the rally.",
       "fuente": "Yahoo",
@@ -703,7 +678,7 @@
       "badge": "🔴"
     },
     {
-      "ticker": "VRTX",
+      "ticker": "VERA",
       "titulo": "VRTX Down as FDA Extends Review Timeline for Povetacicept BLA",
       "resumen": "Vertex shares fell 7.3% after the FDA extended its povetacicept review by three months, delaying a key approval decision to February 2027.",
       "fuente": "Yahoo",
@@ -715,40 +690,40 @@
       "badge": "🔴"
     },
     {
-      "ticker": "VERA",
-      "titulo": "Vera Therapeutics to Participate at Upcoming Investor Conferences",
-      "resumen": "BRISBANE, Calif., Nov. 23, 2026 (GLOBE NEWSWIRE) -- Vera Therapeutics, Inc. (Nasdaq: VERA), a commercial-stage biotechnology company, today announced that the Company’s management team will present and participate in one-on-one meetings at upcoming investor conferences. Investor Conference Details: ",
+      "ticker": "ALNY",
+      "titulo": "What Alnylam Pharmaceuticals (ALNY)'s FDA Drug Approval Means For Shareholders",
+      "resumen": "Regeneron Pharmaceuticals recently announced U.S. FDA approval of Livsayis (cemdisiran), an Alnylam-discovered RNAi therapy for anti-acetylcholine receptor antibody positive generalized myasthenia gravis in adults, triggering a US$25 million milestone payment to Alnylam and tiered royalties of up to",
       "fuente": "Yahoo",
-      "fecha": "23 Nov 2026 21:30 UTC",
-      "url": "https://finnhub.io/api/news?id=32bd3ed8190e944f27c9fdf354a33a7f3ec4d3b38e253a2c4e0d189032fdb48f",
+      "fecha": "26 Nov 2026 19:10 UTC",
+      "url": "https://finnhub.io/api/news?id=9c71175b741db4294c83c242a5e89f838b4cfc7d269b03eb4da1db278ec81e99",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "OCUL",
-      "titulo": "Ocular Therapeutix™ to Participate in December Scientific Conferences",
-      "resumen": "BEDFORD, Mass., Nov. 24, 2026 (GLOBE NEWSWIRE) -- Ocular Therapeutix, Inc. (NASDAQ: OCUL, “Ocular”), an integrated biopharmaceutical company committed to redefining the retina experience, today announced participation in several upcoming scientific conferences in December 2026. Upcoming Scientific C",
+      "ticker": "SNDX",
+      "titulo": "Syndax Pharmaceuticals Defends Revuforj as Rival Leukemia Drug Draws Investor Attention",
+      "resumen": "Syndax Pharmaceuticals (NASDAQ:SNDX) executives defended the company’s position in the competitive menin inhibitor market, pointing to forthcoming leukemia data and ongoing frontline trials as investors assess a rival treatment. Speaking at the Jefferies Global Healthcare Conference in London, CEO",
       "fuente": "Yahoo",
-      "fecha": "24 Nov 2026 12:00 UTC",
-      "url": "https://finnhub.io/api/news?id=da005e6f38f491582be1abe11f9ba00cc6a27587d0eda3f1d6d841e9b59dc5e4",
+      "fecha": "26 Nov 2026 20:12 UTC",
+      "url": "https://finnhub.io/api/news?id=0bc368a4e188d427da1bfe7efd0021aff8027dc00499823682c62ef30c67c0ac",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
-      "ticker": "ARGX",
-      "titulo": "European Equities Traded in the US as American Depositary Receipts Slip in Tuesday Trading",
-      "resumen": "European equities traded in the US as American depositary receipts were tracking slightly lower late",
+      "ticker": "VRTX",
+      "titulo": "Chip stocks lead a Black Friday rally, but Nvidia misses out: AlphaCheck",
+      "resumen": "Stocks rose on Friday as the AI trade rebounded amid a low-volume trading day.",
       "fuente": "Yahoo",
-      "fecha": "24 Nov 2026 16:16 UTC",
-      "url": "https://finnhub.io/api/news?id=53e497c35c71744e93da034f64bd6adf6a4d7042bc9ce4802c6cf8a06c44273f",
+      "fecha": "27 Nov 2026 14:57 UTC",
+      "url": "https://finnhub.io/api/news?id=00f041207782412a959d2841b9a6467797afedac8c7e0e93fcaf0c44c8659a0c",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
+      "urgente": true,
+      "nivel": "rojo",
+      "badge": "🔴"
     },
     {
       "ticker": "ACRV",
@@ -811,36 +786,12 @@
       "badge": "🔵"
     },
     {
-      "ticker": "INSM",
-      "titulo": "BioMarin (BMRN) Stock Is Up 4.8% Today Without Company News",
-      "resumen": "On Wednesday, Nov. 25, the shares rose 4.8% without company-specific news",
-      "fuente": "Yahoo",
-      "fecha": "25 Nov 2026 19:15 UTC",
-      "url": "https://finnhub.io/api/news?id=bb20a86a8eae5b4beaaa1d7e6283b406fa0580a0d1b95019f97e58dc7cbb41bd",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
       "ticker": "ALNY",
       "titulo": "Why Did Alnylam Stock Move?",
       "resumen": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
       "fuente": "Yahoo",
       "fecha": "25 Nov 2026 20:32 UTC",
       "url": "https://finnhub.io/api/news?id=9685e5eefb3ff9a4f27914a5a656b0d18e9dfe2de90b4eb77b97a802b9294121",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "INSM",
-      "titulo": "Stoke (STOK) Stock Is Up 8.3% Today Without Company News",
-      "resumen": "Stoke Therapeutics shares rose 8.3% on Wednesday, Nov. 25, with no company-specific news, after a 16.7% jump on Nov. 24 in a biotech rally.",
-      "fuente": "Yahoo",
-      "fecha": "25 Nov 2026 20:45 UTC",
-      "url": "https://finnhub.io/api/news?id=610b2e147185cb0678e47fe049b472aba0efb5b7b6039b8c1384162bc226cdd8",
       "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
@@ -883,30 +834,6 @@
       "badge": "🔵"
     },
     {
-      "ticker": "VRTX",
-      "titulo": "Vertex Pharmaceuticals Has Turned $10,000 Into $61,660 Over 10 Years. Here's What Could Come Next",
-      "resumen": "Vertex's next growth wave is already in the pipeline.",
-      "fuente": "Yahoo",
-      "fecha": "26 Nov 2026 00:32 UTC",
-      "url": "https://finnhub.io/api/news?id=a48962df6df8632af96aac9c5be9da2c2de84ea5f72262d51d7f590333a0eb10",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
-      "ticker": "VRTX",
-      "titulo": "Dow, S&P 500, Nasdaq Futures Edge Higher As Tech Rebounds After Selloff: DIS, VRTX, DE, CHTR In Focus",
-      "resumen": "U.S. stock markets closed another volatile session on Wednesday as technology stocks sold off amid declines in Nvidia and Anthropic shares, though both recovered overnight.",
-      "fuente": "Yahoo",
-      "fecha": "26 Nov 2026 03:14 UTC",
-      "url": "https://finnhub.io/api/news?id=3dcd38dfa3a2ba0cf30169687699626e23d870d0a056c3a707273462043d1a4d",
-      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
-      "urgente": false,
-      "nivel": "azul",
-      "badge": "🔵"
-    },
-    {
       "ticker": "INSM",
       "titulo": "Sanofi: Insmed And Dupixent Could Fuel More Upside",
       "resumen": "Sanofi (SNY) stock is a buy as its risk/reward remains attractive as Dupixent sales rose 10.3% quarter over quarter to â¬5.69 billion.",
@@ -914,6 +841,78 @@
       "fecha": "26 Nov 2026 07:39 UTC",
       "url": "https://finnhub.io/api/news?id=09a02cad29d9b5d85ef7efe162611baf9aff9c7565e3f4e18cebe70623569133",
       "imagen": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2279568656/image_2279568656.jpg?io=getty-c-og",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "INSM",
+      "titulo": "Sanofi Pays $41 Billion For Insmed's Lung Pill",
+      "resumen": "Today's big story: Anthropic Broke Its $83 IPO Price. What Did Facebook Do Next.",
+      "fuente": "Yahoo",
+      "fecha": "26 Nov 2026 11:40 UTC",
+      "url": "https://finnhub.io/api/news?id=2ca33178a211fcd81f053f2ae4fa5d2428a6e3c675cd6e26854f6b047964c124",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "BEAM",
+      "titulo": "Cathie Wood Says AI Could Cut Drug Costs by $1.8 Billion. These 5 ARK-Backed Biotech Stocks Could Benefit",
+      "resumen": "Cathie Wood sees AI cutting drug development costs by $1.8 billion. These five ARK-backed biotech stocks could benefit.",
+      "fuente": "Benzinga",
+      "fecha": "26 Nov 2026 14:45 UTC",
+      "url": "https://finnhub.io/api/news?id=eefce86af6f2e48a5e5b0faa6d6347c018a5b074cacf17bceaef2788a5403f7b",
+      "imagen": "https://cdn.benzinga.com/files/images/story/2026/11/26/ARK-Invest-Photo-Cathie-Wood-3.png?width=2048&height=1536",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Insmed's Sales Gave Notice A Year Early. Why Didn't The Stock?",
+      "resumen": "Today's big story: Anthropic Broke Its $83 IPO Price. What Did Facebook Do Next.",
+      "fuente": "Yahoo",
+      "fecha": "27 Nov 2026 14:47 UTC",
+      "url": "https://finnhub.io/api/news?id=b7d29e08925997b1481d14a9bfee2271f27edd24c1d311abf246456dc7899d66",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Tevogen (TVGN) Stock Is Down 15.8% Today Without Company News",
+      "resumen": "Tevogen shares fell 15.8% on Friday, Nov. 27, with no company-specific news to explain the drop.",
+      "fuente": "Yahoo",
+      "fecha": "27 Nov 2026 15:15 UTC",
+      "url": "https://finnhub.io/api/news?id=ae5ad4cdad622b48ce33d221f1bd62e0f8f762e1f865d9f6f0d817256e1e7654",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Stock Market Today: Dow Futures Jump 650 Points As Nvidia Rebounds; Anthropic, SpaceX, Tesla Rally (Live Coverage)",
+      "resumen": "The Dow Jones index jumps 650 points Friday as Nvidia stock rebounds. Anthropic, SpaceX and Tesla rally.",
+      "fuente": "Yahoo",
+      "fecha": "27 Nov 2026 15:31 UTC",
+      "url": "https://finnhub.io/api/news?id=e206df7544718b056a5e99d8e050d010dfc2d88868d799a6dfbd9243c514c74b",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "urgente": false,
+      "nivel": "azul",
+      "badge": "🔵"
+    },
+    {
+      "ticker": "VRTX",
+      "titulo": "Citi Says Vertex’s Povetacicept Delay Is ‘Not Thesis Changing,’ Maintains Its ‘Buy’ Rating",
+      "resumen": "Citi maintained its ‘Buy’ rating and $585 price target on Vertex Pharmaceuticals, according to The Fly.",
+      "fuente": "Yahoo",
+      "fecha": "27 Nov 2026 15:52 UTC",
+      "url": "https://finnhub.io/api/news?id=8fa59d99ee7c844724ba26d80dfdcea7f75b9ffbf76ba7332751313b962eb276",
+      "imagen": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
       "urgente": false,
       "nivel": "azul",
       "badge": "🔵"

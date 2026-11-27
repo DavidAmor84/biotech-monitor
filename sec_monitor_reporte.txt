@@ -1,10 +1,10 @@
 ══════════════════════════════════════════════════════════════
 SEC EDGAR MONITOR v3 · Modelo Biotech v3.0
-Generado: 26/11/2026 17:33 | Período: últimos 7 días
-Desde: 2026-11-19 → Hasta: 2026-11-26
+Generado: 27/11/2026 17:15 | Período: últimos 7 días
+Desde: 2026-11-20 → Hasta: 2026-11-27
 ══════════════════════════════════════════════════════════════
 
-RESUMEN: 23 filings | 🔴 0 | 🟢 0 | 🟡 17 | 🔵 6 | ✅ 12 sin novedad
+RESUMEN: 17 filings | 🔴 0 | 🟢 0 | 🟡 12 | 🔵 5 | ✅ 12 sin novedad
 
 ──────────────────────────────────────────────────
 DETALLE POR TICKER — SEC EDGAR
@@ -13,13 +13,10 @@ DETALLE POR TICKER — SEC EDGAR
   ✅ [ARGX] Sin novedades
   ✅ [DYN] Sin novedades
 
-  🔵 [DNLI] Denali Therapeutics Inc. — 2 filing(s)
+  🔵 [DNLI] Denali Therapeutics Inc. — 1 filing(s)
      🔵 INFO 4 | 2026-11-23 | Krognes Steve E. (Director) → Ejercicio opción 125,000 acciones @ $5.28 | Post: 163,202 | Rutinaria/RSU/impuestos
      Insider: Krognes Steve E. (Director) → Ejercicio opción 125,000 acciones @ $5.28 | Post: 163,202 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1714899/000166623626000026/xslF345X06/wk-form4_1795471810.xml
-     🔵 INFO 4 | 2026-11-19 | Schuth Alexander O. (COFO and Secretary) → Ejercicio opción 16,566 acciones @ $9.60 | Post: 295,561 | Rutinaria/RSU/impuestos
-     Insider: Schuth Alexander O. (COFO and Secretary) → Ejercicio opción 16,566 acciones @ $9.60 | Post: 295,561 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1714899/000172431126000016/xslF345X06/wk-form4_1795125001.xml
   ✅ [VKTX] Sin novedades
   ✅ [VRTX] Sin novedades
   ✅ [ALNY] Sin novedades
@@ -44,7 +41,7 @@ DETALLE POR TICKER — SEC EDGAR
      Insider: Skelton Laurence Matthew (Chief Commercial Officer) → Venta 2,728 acciones @ $26.75 | Post: 61,490 | Rutinaria/RSU/impuestos
      → https://www.sec.gov/Archives/edgar/data/1831828/000210808026000005/xslF345X06/form4-11242026_101138.xml
 
-  🟡 [ACRV] Acrivon Therapeutics, Inc. — 14 filing(s)
+  🟡 [ACRV] Acrivon Therapeutics, Inc. — 9 filing(s)
      🔵 INFO 8-K | 2026-11-25 | Item 5.02: Plan de incentivos / compensación aprobado — informativo [Items: 5.02, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1781174/000119312526478591/acrv-20261120.htm
      🟡 MEDIA 4 | 2026-11-25 | Peterson Katharine (Chief Accounting Officer) → Venta 974 acciones @ $1.20 | Post: 16,952 | Rutinaria/RSU/impuestos
@@ -70,21 +67,6 @@ DETALLE POR TICKER — SEC EDGAR
      → https://www.sec.gov/Archives/edgar/data/1781174/000090514826005176/xslF345X06/form4.xml
      🔵 INFO 8-K | 2026-11-20 | 8-K — Sin clasificación específica por Item [Items: 7.01, 9.01]
      → https://www.sec.gov/Archives/edgar/data/1781174/000119312526470245/acrv-20261120.htm
-     🟡 MEDIA 4 | 2026-11-19 | Peterson Katharine (Chief Accounting Officer) → Venta 107 acciones @ $1.45 | Post: 17,926 | Rutinaria/RSU/impuestos
-     Insider: Peterson Katharine (Chief Accounting Officer) → Venta 107 acciones @ $1.45 | Post: 17,926 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826005056/xslF345X06/form4.xml
-     🟡 MEDIA 4 | 2026-11-19 | Miller Mary (Chief Legal Officer) → Venta 193 acciones @ $1.45 | Post: 81,009 | Rutinaria/RSU/impuestos
-     Insider: Miller Mary (Chief Legal Officer) → Venta 193 acciones @ $1.45 | Post: 81,009 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826005055/xslF345X06/form4.xml
-     🟡 MEDIA 4 | 2026-11-19 | Gamelin Erick (Chief Development Officer) → Venta 416 acciones @ $1.45 | Post: 52,176 | Rutinaria/RSU/impuestos
-     Insider: Gamelin Erick (Chief Development Officer) → Venta 416 acciones @ $1.45 | Post: 52,176 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826005053/xslF345X06/form4.xml
-     🟡 MEDIA 4 | 2026-11-19 | Devroe Eric (Chief Operating Officer) → Venta 628 acciones @ $1.45 | Post: 145,721 | Rutinaria/RSU/impuestos
-     Insider: Devroe Eric (Chief Operating Officer) → Venta 628 acciones @ $1.45 | Post: 145,721 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826005051/xslF345X06/form4.xml
-     🟡 MEDIA 4 | 2026-11-19 | Blume-Jensen Peter (President and CEO) → Venta 1,276 acciones @ $1.45 | Post: 2,228,776 | Rutinaria/RSU/impuestos
-     Insider: Blume-Jensen Peter (President and CEO) → Venta 1,276 acciones @ $1.45 | Post: 2,228,776 | Rutinaria/RSU/impuestos
-     → https://www.sec.gov/Archives/edgar/data/1781174/000090514826005050/xslF345X06/form4.xml
   ✅ [TARA] Sin novedades
   ✅ [SENS] Sin novedades
 
@@ -134,7 +116,7 @@ CLINICALTRIALS.GOV — ESTADO ENSAYOS
        Status: Reclutando activamente
        Enrollment: 150 pacientes
        Primary completion: 2028-07
-       Última actualización: 2026-11-19
+       Última actualización: 2026-11-27
        → https://clinicaltrials.gov/study/NCT07486934
 
   [VKTX]
